@@ -6,6 +6,10 @@ export type SearchDoc = {
   id: string;
   kind: "word" | "phrase";
   hanzi: string;
+  /** Display-only: tone-marked pinyin. */
+  pinyin: string;
+  /** Display-only: first Spanish meaning (words) or the Spanish text (phrases). */
+  gloss: string;
   pinyinKey: string;
   esKeys: string[];
   order: number;
@@ -32,6 +36,8 @@ export function buildSearchIndex(d: Dictionary): SearchDoc[] {
       id: w.id,
       kind: "word",
       hanzi: w.simplified,
+      pinyin: w.pinyin,
+      gloss: w.meaningsEs[0] ?? "",
       pinyinKey: normalizeForSearch(w.pinyinNumbered),
       esKeys: spanishKeys(w.meaningsEs),
       order: w.order,
@@ -42,6 +48,8 @@ export function buildSearchIndex(d: Dictionary): SearchDoc[] {
       id: p.id,
       kind: "phrase",
       hanzi: p.zh,
+      pinyin: p.pinyin,
+      gloss: p.es,
       pinyinKey: normalizeForSearch(p.pinyin),
       esKeys: spanishKeys([p.es]),
       order: PHRASE_ORDER,

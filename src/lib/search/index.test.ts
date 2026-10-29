@@ -71,3 +71,25 @@ describe("searchEntries", () => {
     expect(searchEntries(index, "n", 1).length).toBeLessThanOrEqual(1);
   });
 });
+
+describe("buildSearchIndex display fields", () => {
+  it("carries tone-marked pinyin and the first meaning for words", () => {
+    const doc = index.find((d) => d.id === "你好");
+    expect(doc?.pinyin).toBe("nǐ hǎo");
+    expect(doc?.gloss).toBe("saludo");
+  });
+
+  it("carries pinyin and the Spanish text for phrases", () => {
+    const doc = index.find((d) => d.id === "phrase:introductions:000");
+    expect(doc?.pinyin).toBe(visible.phrases[0].pinyin);
+    expect(doc?.gloss).toBe("Hola, me llamo Xiaoming.");
+  });
+
+  it("keeps the index compact (no examples or characters)", () => {
+    for (const d of index) {
+      expect(Object.keys(d).sort()).toEqual(
+        ["esKeys", "gloss", "hanzi", "id", "kind", "order", "pinyin", "pinyinKey"].sort(),
+      );
+    }
+  });
+});

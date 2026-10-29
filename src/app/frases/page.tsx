@@ -24,14 +24,14 @@ export default function PhrasesPage() {
           </h2>
           <ul className="flex flex-col gap-3">
             {g.items.map((p) => (
-              <li key={p.id} id={p.id} className="flex scroll-mt-16 flex-col gap-1 rounded-2xl border border-line bg-surface p-4">
+              <li key={p.id} id={p.id} className="flex scroll-mt-20 flex-col gap-1 rounded-2xl border border-line bg-surface p-4 target:border-accent target:ring-2 target:ring-accent">
                 <p lang="zh-CN" className="font-hanzi text-2xl">
                   {p.zh}
                 </p>
                 <PinyinText syllables={p.syllables} />
                 <p className="text-subtle">{p.es}</p>
                 <div className="pt-1">
-                  <AudioButton audio={p.audio} label="Escuchar" />
+                  <AudioButton audio={p.audio} label="Escuchar" ariaLabel={`Escuchar frase: ${p.zh}`} />
                 </div>
               </li>
             ))}

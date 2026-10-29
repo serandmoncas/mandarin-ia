@@ -60,25 +60,27 @@ export function SearchBox() {
         }}
         className="min-h-12 w-full rounded-2xl border border-line bg-surface px-4 text-base outline-none focus:border-accent"
       />
-      {hasQuery && index.status === "loading" && <p className="text-sm text-subtle">Cargando…</p>}
-      {hasQuery && index.status === "error" && (
-        <p className="text-sm text-subtle">No se pudo cargar el índice de búsqueda.</p>
-      )}
-      {hasQuery && index.status === "ready" && results.length === 0 && (
-        <p className="text-sm text-subtle">Sin resultados.</p>
-      )}
+      <p role="status" aria-live="polite" className="text-sm text-subtle empty:sr-only">
+        {hasQuery && index.status === "loading" && "Cargando…"}
+        {hasQuery && index.status === "error" && "No se pudo cargar el índice de búsqueda."}
+        {hasQuery && index.status === "ready" && results.length === 0 && "Sin resultados."}
+      </p>
       {results.length > 0 && (
         <ul className="flex flex-col gap-2" aria-label="Resultados">
           {results.map((doc) => (
             <li key={`${doc.kind}:${doc.id}`}>
               <Link
                 href={hrefFor(doc)}
-                className="flex min-h-12 items-center justify-between gap-3 rounded-xl border border-line bg-surface px-4 py-2 active:bg-muted"
+                className="flex min-h-12 items-center gap-3 rounded-xl border border-line bg-surface px-4 py-2 active:bg-muted"
               >
-                <span lang="zh-CN" className="font-hanzi text-2xl">
+                <span lang="zh-CN" className="font-hanzi shrink-0 text-2xl">
                   {doc.hanzi}
                 </span>
-                <span className="text-xs text-subtle">{doc.kind === "word" ? "Palabra" : "Frase"}</span>
+                <span className="flex min-w-0 flex-1 flex-col">
+                  <span className="truncate text-sm font-medium">{doc.pinyin}</span>
+                  <span className="truncate text-sm text-subtle">{doc.gloss}</span>
+                </span>
+                <span className="shrink-0 text-xs text-subtle">{doc.kind === "word" ? "Palabra" : "Frase"}</span>
               </Link>
             </li>
           ))}

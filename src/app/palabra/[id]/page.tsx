@@ -93,7 +93,7 @@ export default async function WordPage({ params }: PageProps<"/palabra/[id]">) {
                 <PinyinText syllables={ex.syllables} />
                 <p className="text-subtle">{ex.es}</p>
                 <div className="pt-1">
-                  <AudioButton audio={ex.audio} label="Escuchar" />
+                  <AudioButton audio={ex.audio} label="Escuchar" ariaLabel={`Escuchar ejemplo: ${ex.zh}`} />
                 </div>
               </li>
             ))}
