@@ -166,3 +166,27 @@ def test_error_file_includes_subprocess_diagnostics(tmp_path):
     assert report.failed == [0]
     text = (tmp_path / "batch_000.error.txt").read_text(encoding="utf-8")
     assert "ERR-X" in text and "OUT-X" in text
+
+
+def test_review_kind_keyed_on_id(tmp_path):
+    from mandarin_pipeline.models import ReviewResult
+
+    items = [{"id": f"word:词{i}", "text": "x"} for i in range(3)]
+
+    def runner(prompt: str) -> str:
+        return json.dumps([{"id": f"word:词{i}", "ok": True, "issues": []} for i in range(3)])
+
+    r = run_batches("review", items, lambda b: "p", ReviewResult, runner, tmp_path, batch_size=20)
+    assert r.done == 1
+    calls: list[str] = []
+    r2 = run_batches(
+        "review", items, lambda b: "p", ReviewResult, lambda p: calls.append(p) or "[]", tmp_path, batch_size=20
+    )
+    assert r2.skipped == 1 and calls == []
+    # wrong ids are rejected
+    bad = run_batches(
+        "review", items, lambda b: "p", ReviewResult,
+        lambda p: json.dumps([{"id": "word:x", "ok": True, "issues": []}] * 3),
+        tmp_path / "bad", batch_size=20,
+    )
+    assert bad.failed == [0]

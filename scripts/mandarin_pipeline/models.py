@@ -50,3 +50,32 @@ class PhraseContent(CamelModel):
     mission: MissionId
     zh: str
     es: str
+
+
+Status = Literal["generated", "auto_checked", "human_reviewed"]
+
+
+class Syllable(CamelModel):
+    hanzi: str
+    pinyin: str  # tone-marked, e.g. "nǐ"
+    tone: int = Field(ge=1, le=5)
+
+
+class AudioRef(CamelModel):
+    voice: str
+    path: str
+
+
+class Example(CamelModel):
+    zh: str
+    pinyin: str
+    syllables: list[Syllable]
+    es: str
+    known_before_ratio: float
+    audio: AudioRef | None = None
+
+
+class ReviewResult(CamelModel):
+    id: str
+    ok: bool
+    issues: list[str] = Field(default_factory=list)

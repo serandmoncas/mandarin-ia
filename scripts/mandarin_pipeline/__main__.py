@@ -11,12 +11,14 @@ from mandarin_pipeline.generate import (
     claude_runner,
     make_char_renderer,
     make_phrase_renderer,
+    make_review_renderer,
     make_word_renderer,
     run_batches,
 )
+from mandarin_pipeline.checks import build_review_items
 from mandarin_pipeline.frequency import top_frequency_words, word_frequency
 from mandarin_pipeline.hsk import load_hsk
-from mandarin_pipeline.models import CharContent, PhraseContent, WordContent
+from mandarin_pipeline.models import CharContent, PhraseContent, ReviewResult, WordContent
 from mandarin_pipeline.order import learning_order, select_candidates, write_candidates
 from mandarin_pipeline.sources import download_sources
 
@@ -73,11 +75,26 @@ def _generate(args: argparse.Namespace) -> None:
         print(f"See *.error.txt in {out_dir}")
 
 
+def _review(args: argparse.Namespace) -> None:
+    candidates = json.loads((ROOT / "data" / "candidates.json").read_text(encoding="utf-8"))
+    with open(SOURCES_DIR / "cedict_ts.txt", encoding="utf-8") as f:
+        cedict = parse_cedict(f)
+    items = build_review_items(ROOT / "data" / "generated", cedict, candidates)[: args.limit]
+    out_dir = ROOT / "data" / "generated" / "review"
+    report = run_batches(
+        "review", items, make_review_renderer(), ReviewResult, claude_runner, out_dir, batch_size=25
+    )
+    print(f"review: {len(items)} items; done={report.done} skipped={report.skipped} failed={report.failed}")
+    if report.failed:
+        print(f"See *.error.txt in {out_dir}")
+
+
 # Register subcommands here: name -> (help, handler)
 COMMANDS = {
     "download": ("Download CC-CEDICT and the HSK list", _download),
     "candidates": ("Compute candidates and learning order", _candidates),
     "generate": ("Generate AI content in resumable batches with claude -p", _generate),
+    "review": ("Second AI review pass over content that passed the automatic checks", _review),
 }
 
 
@@ -89,6 +106,7 @@ def main(argv: list[str] | None = None) -> None:
         p.set_defaults(handler=handler)
         if name == "generate":
             p.add_argument("kind", choices=["words", "chars", "phrases"])
+        if name in ("generate", "review"):
             p.add_argument("--limit", type=int, default=None, help="Process only the first N items")
     args = parser.parse_args(argv)
     args.handler(args)

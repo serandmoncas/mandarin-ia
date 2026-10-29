@@ -13,11 +13,11 @@ from pydantic import BaseModel, ValidationError
 from mandarin_pipeline.models import MISSIONS
 
 Runner = Callable[[str], str]
-Kind = Literal["words", "chars", "phrases"]
+Kind = Literal["words", "chars", "phrases", "review"]
 
 PROMPTS_DIR = Path(__file__).parent / "prompts"
 _FENCE = re.compile(r"^```[a-zA-Z]*\s*\n(.*?)\n?```\s*$", re.DOTALL)
-_KEY = {"words": "word", "chars": "char"}
+_KEY = {"words": "word", "chars": "char", "review": "id"}
 
 
 @dataclass
@@ -193,4 +193,11 @@ def make_phrase_renderer() -> Callable[[list[dict]], str]:
     template = _load_prompt("phrases")
     return lambda batch: template.substitute(
         mission=batch[0]["mission"], label=batch[0]["label"]
+    )
+
+
+def make_review_renderer() -> Callable[[list[dict]], str]:
+    template = _load_prompt("review")
+    return lambda batch: template.substitute(
+        items="\n\n".join(f"[{i['id']}]\n{i['text']}" for i in batch), count=len(batch)
     )
