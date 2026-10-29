@@ -47,3 +47,6 @@ next-env.d.ts
 __pycache__/
 data/sources/
 scripts/.venv/
+
+# generated search index
+public/search-index.json
