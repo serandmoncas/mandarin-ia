@@ -15,11 +15,19 @@ from mandarin_pipeline.generate import (
     make_word_renderer,
     run_batches,
 )
-from mandarin_pipeline.checks import build_review_items
+from mandarin_pipeline.build import (
+    Dictionary,
+    build_dictionary,
+    compute_stats,
+    load_manifest,
+    now_stamps,
+    write_dictionary,
+)
+from mandarin_pipeline.checks import _load_dir, build_review_items, check_word
 from mandarin_pipeline.frequency import top_frequency_words, word_frequency
 from mandarin_pipeline.hsk import load_hsk
 from mandarin_pipeline.models import CharContent, PhraseContent, ReviewResult, WordContent
-from mandarin_pipeline.order import learning_order, select_candidates, write_candidates
+from mandarin_pipeline.order import Candidate, learning_order, select_candidates, write_candidates
 from mandarin_pipeline.sources import download_sources
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -89,11 +97,54 @@ def _review(args: argparse.Namespace) -> None:
         print(f"See *.error.txt in {out_dir}")
 
 
+def _assemble() -> tuple[list[Candidate], Dictionary]:
+    data = ROOT / "data"
+    rows = json.loads((data / "candidates.json").read_text(encoding="utf-8"))
+    candidates = [
+        Candidate(r["word"], r["frequency"], r["hskLevel"], r["freqRank"], r["order"]) for r in rows
+    ]
+    order = {c.word: c.order for c in candidates}
+    by_order = sorted(candidates, key=lambda c: c.order)
+    with open(SOURCES_DIR / "cedict_ts.txt", encoding="utf-8") as f:
+        cedict = parse_cedict(f)
+    gen = data / "generated"
+    words = {}
+    for raw in _load_dir(gen / "words"):
+        wc = WordContent.model_validate(raw)
+        known = {c.word for c in by_order if c.order < order.get(wc.word, 0)}
+        words[wc.word] = check_word(wc, cedict.get(wc.word, []), known)
+    reviews = {r.id: r for r in (ReviewResult.model_validate(x) for x in _load_dir(gen / "review"))}
+    chars = [CharContent.model_validate(x) for x in _load_dir(gen / "chars")]
+    phrases = [PhraseContent.model_validate(x) for x in _load_dir(gen / "phrases")]
+    manifest = load_manifest(data / "audio-manifest.json")
+    version, stamp = now_stamps()
+    return candidates, build_dictionary(
+        candidates, words, reviews, chars, phrases, manifest, version, stamp
+    )
+
+
+def _build(args: argparse.Namespace) -> None:
+    _, d = _assemble()
+    out = ROOT / "data" / "dictionary.json"
+    write_dictionary(d, out)
+    print(f"Written {out}: {len(d.words)} words, {len(d.characters)} characters, {len(d.phrases)} phrases")
+
+
+def _stats(args: argparse.Namespace) -> None:
+    candidates, d = _assemble()
+    for section, counts in compute_stats(candidates, d).items():
+        print(f"{section}:")
+        for key, n in sorted(counts.items()):
+            print(f"  {key}: {n}")
+
+
 # Register subcommands here: name -> (help, handler)
 COMMANDS = {
     "download": ("Download CC-CEDICT and the HSK list", _download),
     "candidates": ("Compute candidates and learning order", _candidates),
     "generate": ("Generate AI content in resumable batches with claude -p", _generate),
+    "build": ("Assemble data/dictionary.json", _build),
+    "stats": ("Counts by status, flag and HSK level", _stats),
     "review": ("Second AI review pass over content that passed the automatic checks", _review),
 }
 

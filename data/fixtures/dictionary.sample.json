@@ -1,0 +1,490 @@
+{
+  "version": "202610291200",
+  "generatedAt": "2026-10-29T12:00:00Z",
+  "words": [
+    {
+      "id": "你好",
+      "simplified": "你好",
+      "traditional": "你好",
+      "pinyin": "nǐ hǎo",
+      "pinyinNumbered": "ni3 hao3",
+      "syllables": [
+        {
+          "hanzi": "你",
+          "pinyin": "nǐ",
+          "tone": 3
+        },
+        {
+          "hanzi": "好",
+          "pinyin": "hǎo",
+          "tone": 3
+        }
+      ],
+      "meaningsEs": [
+        "saludo"
+      ],
+      "hskLevel": 1,
+      "freqRank": 3,
+      "order": 1,
+      "audio": [
+        {
+          "voice": "zh-CN-XiaoxiaoNeural",
+          "path": "408b4179c6e8cf4e.mp3"
+        },
+        {
+          "voice": "zh-CN-YunxiNeural",
+          "path": "fb636c50406457f0.mp3"
+        }
+      ],
+      "examples": [
+        {
+          "zh": "你好吗",
+          "pinyin": "nǐ hǎo ma",
+          "syllables": [
+            {
+              "hanzi": "你",
+              "pinyin": "nǐ",
+              "tone": 3
+            },
+            {
+              "hanzi": "好",
+              "pinyin": "hǎo",
+              "tone": 3
+            },
+            {
+              "hanzi": "吗",
+              "pinyin": "ma",
+              "tone": 5
+            }
+          ],
+          "es": "es 0",
+          "knownBeforeRatio": 0.5,
+          "audio": {
+            "voice": "zh-CN-XiaoxiaoNeural",
+            "path": "b46bcd921a085814.mp3"
+          }
+        },
+        {
+          "zh": "你好，朋友",
+          "pinyin": "nǐ hǎo péng yǒu",
+          "syllables": [
+            {
+              "hanzi": "你",
+              "pinyin": "nǐ",
+              "tone": 3
+            },
+            {
+              "hanzi": "好",
+              "pinyin": "hǎo",
+              "tone": 3
+            },
+            {
+              "hanzi": "朋",
+              "pinyin": "péng",
+              "tone": 2
+            },
+            {
+              "hanzi": "友",
+              "pinyin": "yǒu",
+              "tone": 3
+            }
+          ],
+          "es": "es 1",
+          "knownBeforeRatio": 0.5,
+          "audio": null
+        },
+        {
+          "zh": "我说你好",
+          "pinyin": "wǒ shuō nǐ hǎo",
+          "syllables": [
+            {
+              "hanzi": "我",
+              "pinyin": "wǒ",
+              "tone": 3
+            },
+            {
+              "hanzi": "说",
+              "pinyin": "shuō",
+              "tone": 1
+            },
+            {
+              "hanzi": "你",
+              "pinyin": "nǐ",
+              "tone": 3
+            },
+            {
+              "hanzi": "好",
+              "pinyin": "hǎo",
+              "tone": 3
+            }
+          ],
+          "es": "es 2",
+          "knownBeforeRatio": 0.3333333333333333,
+          "audio": null
+        },
+        {
+          "zh": "他说你好",
+          "pinyin": "tā shuō nǐ hǎo",
+          "syllables": [
+            {
+              "hanzi": "他",
+              "pinyin": "tā",
+              "tone": 1
+            },
+            {
+              "hanzi": "说",
+              "pinyin": "shuō",
+              "tone": 1
+            },
+            {
+              "hanzi": "你",
+              "pinyin": "nǐ",
+              "tone": 3
+            },
+            {
+              "hanzi": "好",
+              "pinyin": "hǎo",
+              "tone": 3
+            }
+          ],
+          "es": "es 3",
+          "knownBeforeRatio": 0.3333333333333333,
+          "audio": null
+        }
+      ],
+      "status": "auto_checked",
+      "flags": []
+    },
+    {
+      "id": "谢谢",
+      "simplified": "谢谢",
+      "traditional": "謝謝",
+      "pinyin": "xiè xie",
+      "pinyinNumbered": "xie4 xie5",
+      "syllables": [
+        {
+          "hanzi": "谢",
+          "pinyin": "xiè",
+          "tone": 4
+        },
+        {
+          "hanzi": "谢",
+          "pinyin": "xie",
+          "tone": 5
+        }
+      ],
+      "meaningsEs": [
+        "saludo"
+      ],
+      "hskLevel": 1,
+      "freqRank": 2,
+      "order": 2,
+      "audio": [],
+      "examples": [
+        {
+          "zh": "谢谢你",
+          "pinyin": "xiè xiè nǐ",
+          "syllables": [
+            {
+              "hanzi": "谢",
+              "pinyin": "xiè",
+              "tone": 4
+            },
+            {
+              "hanzi": "谢",
+              "pinyin": "xiè",
+              "tone": 4
+            },
+            {
+              "hanzi": "你",
+              "pinyin": "nǐ",
+              "tone": 3
+            }
+          ],
+          "es": "es 0",
+          "knownBeforeRatio": 1.0,
+          "audio": null
+        },
+        {
+          "zh": "谢谢大家",
+          "pinyin": "xiè xiè dà jiā",
+          "syllables": [
+            {
+              "hanzi": "谢",
+              "pinyin": "xiè",
+              "tone": 4
+            },
+            {
+              "hanzi": "谢",
+              "pinyin": "xiè",
+              "tone": 4
+            },
+            {
+              "hanzi": "大",
+              "pinyin": "dà",
+              "tone": 4
+            },
+            {
+              "hanzi": "家",
+              "pinyin": "jiā",
+              "tone": 1
+            }
+          ],
+          "es": "es 1",
+          "knownBeforeRatio": 0.5,
+          "audio": null
+        },
+        {
+          "zh": "谢谢老师",
+          "pinyin": "xiè xiè lǎo shī",
+          "syllables": [
+            {
+              "hanzi": "谢",
+              "pinyin": "xiè",
+              "tone": 4
+            },
+            {
+              "hanzi": "谢",
+              "pinyin": "xiè",
+              "tone": 4
+            },
+            {
+              "hanzi": "老",
+              "pinyin": "lǎo",
+              "tone": 3
+            },
+            {
+              "hanzi": "师",
+              "pinyin": "shī",
+              "tone": 1
+            }
+          ],
+          "es": "es 2",
+          "knownBeforeRatio": 0.5,
+          "audio": null
+        },
+        {
+          "zh": "谢谢你们",
+          "pinyin": "xiè xiè nǐ men",
+          "syllables": [
+            {
+              "hanzi": "谢",
+              "pinyin": "xiè",
+              "tone": 4
+            },
+            {
+              "hanzi": "谢",
+              "pinyin": "xiè",
+              "tone": 4
+            },
+            {
+              "hanzi": "你",
+              "pinyin": "nǐ",
+              "tone": 3
+            },
+            {
+              "hanzi": "们",
+              "pinyin": "men",
+              "tone": 5
+            }
+          ],
+          "es": "es 3",
+          "knownBeforeRatio": 0.5,
+          "audio": null
+        }
+      ],
+      "status": "auto_checked",
+      "flags": []
+    },
+    {
+      "id": "你",
+      "simplified": "你",
+      "traditional": "你",
+      "pinyin": "nǐ",
+      "pinyinNumbered": "ni3",
+      "syllables": [
+        {
+          "hanzi": "你",
+          "pinyin": "nǐ",
+          "tone": 3
+        }
+      ],
+      "meaningsEs": [
+        "saludo"
+      ],
+      "hskLevel": null,
+      "freqRank": 1,
+      "order": 3,
+      "audio": [],
+      "examples": [
+        {
+          "zh": "你好",
+          "pinyin": "nǐ hǎo",
+          "syllables": [
+            {
+              "hanzi": "你",
+              "pinyin": "nǐ",
+              "tone": 3
+            },
+            {
+              "hanzi": "好",
+              "pinyin": "hǎo",
+              "tone": 3
+            }
+          ],
+          "es": "es 0",
+          "knownBeforeRatio": 0.5,
+          "audio": {
+            "voice": "zh-CN-XiaoxiaoNeural",
+            "path": "408b4179c6e8cf4e.mp3"
+          }
+        }
+      ],
+      "status": "generated",
+      "flags": [
+        "too_few_examples",
+        "not_reviewed"
+      ]
+    }
+  ],
+  "characters": {
+    "你": {
+      "char": "你",
+      "components": [
+        {
+          "char": "亻",
+          "meaningEs": "persona"
+        }
+      ],
+      "mnemonicEs": "Una persona.",
+      "status": "auto_checked",
+      "flags": []
+    },
+    "好": {
+      "char": "好",
+      "components": [
+        {
+          "char": "女",
+          "meaningEs": "mujer"
+        },
+        {
+          "char": "子",
+          "meaningEs": "hijo"
+        }
+      ],
+      "mnemonicEs": "Mujer con hijo.",
+      "status": "generated",
+      "flags": [
+        "not_reviewed"
+      ]
+    }
+  },
+  "phrases": [
+    {
+      "id": "phrase:introductions:000",
+      "mission": "introductions",
+      "zh": "你好，我叫小明。",
+      "pinyin": "nǐ hǎo wǒ jiào xiǎo míng",
+      "syllables": [
+        {
+          "hanzi": "你",
+          "pinyin": "nǐ",
+          "tone": 3
+        },
+        {
+          "hanzi": "好",
+          "pinyin": "hǎo",
+          "tone": 3
+        },
+        {
+          "hanzi": "我",
+          "pinyin": "wǒ",
+          "tone": 3
+        },
+        {
+          "hanzi": "叫",
+          "pinyin": "jiào",
+          "tone": 4
+        },
+        {
+          "hanzi": "小",
+          "pinyin": "xiǎo",
+          "tone": 3
+        },
+        {
+          "hanzi": "明",
+          "pinyin": "míng",
+          "tone": 2
+        }
+      ],
+      "es": "Hola, me llamo Xiaoming.",
+      "audio": {
+        "voice": "zh-CN-XiaoxiaoNeural",
+        "path": "7a42a2c587dfed6d.mp3"
+      },
+      "status": "auto_checked",
+      "flags": []
+    },
+    {
+      "id": "phrase:restaurant:000",
+      "mission": "restaurant",
+      "zh": "请给我菜单。",
+      "pinyin": "qǐng gěi wǒ cài dān",
+      "syllables": [
+        {
+          "hanzi": "请",
+          "pinyin": "qǐng",
+          "tone": 3
+        },
+        {
+          "hanzi": "给",
+          "pinyin": "gěi",
+          "tone": 3
+        },
+        {
+          "hanzi": "我",
+          "pinyin": "wǒ",
+          "tone": 3
+        },
+        {
+          "hanzi": "菜",
+          "pinyin": "cài",
+          "tone": 4
+        },
+        {
+          "hanzi": "单",
+          "pinyin": "dān",
+          "tone": 1
+        }
+      ],
+      "es": "Deme el menú, por favor.",
+      "audio": null,
+      "status": "generated",
+      "flags": [
+        "not_reviewed"
+      ]
+    }
+  ],
+  "credits": [
+    {
+      "name": "CC-CEDICT",
+      "license": "CC BY-SA 4.0",
+      "url": "https://www.mdbg.net/chinese/dictionary?page=cc-cedict"
+    },
+    {
+      "name": "SUBTLEX-CH (vía wordfreq)",
+      "license": "Uso libre con crédito a los autores de SUBTLEX (Cai y Brysbaert, 2010)",
+      "url": "https://github.com/rspeer/wordfreq"
+    },
+    {
+      "name": "Lista HSK 3.0 (drkameleon/complete-hsk-vocabulary)",
+      "license": "MIT",
+      "url": "https://github.com/drkameleon/complete-hsk-vocabulary"
+    },
+    {
+      "name": "Voces de Microsoft Azure (Azure AI Speech)",
+      "license": "Servicio de Microsoft Azure",
+      "url": "https://azure.microsoft.com/products/ai-services/text-to-speech"
+    }
+  ]
+}
