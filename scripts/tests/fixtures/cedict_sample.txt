@@ -1,0 +1,6 @@
+# CC-CEDICT sample
+#! version=1
+行 行 [xing2] /to walk/to go/
+行 行 [hang2] /row/
+女 女 [nu:3] /woman/
+你好 你好 [ni3 hao3] /Hello!/Hi!/

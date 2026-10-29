@@ -45,3 +45,5 @@ next-env.d.ts
 .superpowers/
 .venv/
 __pycache__/
+data/sources/
+scripts/.venv/
