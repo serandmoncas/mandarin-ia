@@ -1,7 +1,10 @@
 """CLI entry point: python -m mandarin_pipeline <command>."""
 import argparse
 import json
+import sys
 from pathlib import Path
+
+import httpx
 
 from mandarin_pipeline.cedict import parse_cedict
 from mandarin_pipeline.generate import (
@@ -29,6 +32,14 @@ from mandarin_pipeline.hsk import load_hsk
 from mandarin_pipeline.models import CharContent, PhraseContent, ReviewResult, WordContent
 from mandarin_pipeline.order import Candidate, learning_order, select_candidates, write_candidates
 from mandarin_pipeline.sources import download_sources
+from mandarin_pipeline.tts import (
+    MissingConfig,
+    jobs_from_dictionary,
+    load_config,
+    run_audio,
+    synthesize,
+    upload,
+)
 
 ROOT = Path(__file__).resolve().parents[2]
 SOURCES_DIR = ROOT / "data" / "sources"
@@ -138,6 +149,32 @@ def _stats(args: argparse.Namespace) -> None:
             print(f"  {key}: {n}")
 
 
+def _audio(args: argparse.Namespace) -> None:
+    try:
+        cfg = load_config(dotenv_path=ROOT / ".env")
+    except MissingConfig as e:
+        print(f"Error: {e}", file=sys.stderr)
+        sys.exit(1)
+    d = json.loads((ROOT / "data" / "dictionary.json").read_text(encoding="utf-8"))
+    jobs = jobs_from_dictionary(d)
+    with httpx.Client(timeout=60) as client:
+        report = run_audio(
+            jobs,
+            ROOT / "data" / "audio-manifest.json",
+            lambda text, voice: synthesize(
+                text, voice, cfg["AZURE_SPEECH_KEY"], cfg["AZURE_SPEECH_REGION"], client
+            ),
+            lambda path, data: upload(
+                path, data, cfg["SUPABASE_URL"], cfg["SUPABASE_SERVICE_ROLE_KEY"], client
+            ),
+            limit=args.limit,
+        )
+    print(f"audio: {len(jobs)} jobs; done={report.done} skipped={report.skipped}")
+    if report.quota_exhausted:
+        print("Cuota de Azure agotada; vuelve a ejecutar `audio` más tarde (se retoma donde quedó).")
+    print("Ejecuta `build` para adjuntar los audios al diccionario.")
+
+
 # Register subcommands here: name -> (help, handler)
 COMMANDS = {
     "download": ("Download CC-CEDICT and the HSK list", _download),
@@ -145,6 +182,7 @@ COMMANDS = {
     "generate": ("Generate AI content in resumable batches with claude -p", _generate),
     "build": ("Assemble data/dictionary.json", _build),
     "stats": ("Counts by status, flag and HSK level", _stats),
+    "audio": ("Synthesize audio with Azure TTS and upload it to Supabase Storage", _audio),
     "review": ("Second AI review pass over content that passed the automatic checks", _review),
 }
 
@@ -157,8 +195,8 @@ def main(argv: list[str] | None = None) -> None:
         p.set_defaults(handler=handler)
         if name == "generate":
             p.add_argument("kind", choices=["words", "chars", "phrases"])
-        if name in ("generate", "review"):
-            p.add_argument("--limit", type=int, default=None, help="Process only the first N items")
+        if name in ("generate", "review", "audio"):
+            p.add_argument("--limit", type=int, default=None, help="Process at most N items (audio: new jobs only)")
     args = parser.parse_args(argv)
     args.handler(args)
 
