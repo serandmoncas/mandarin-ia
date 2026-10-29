@@ -1,5 +1,6 @@
 """Assemble the final dictionary.json from candidates, generated content and reviews."""
 import json
+import os
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
@@ -243,7 +244,28 @@ def dictionary_json(d: Dictionary) -> str:
 
 
 def write_dictionary(d: Dictionary, path: Path) -> None:
-    Path(path).write_text(dictionary_json(d), encoding="utf-8")
+    """Atomic write: a crash never leaves a truncated dictionary.json."""
+    path = Path(path)
+    tmp = path.with_suffix(path.suffix + ".tmp")
+    tmp.write_text(dictionary_json(d), encoding="utf-8")
+    try:
+        os.replace(tmp, path)
+    except OSError:
+        tmp.unlink(missing_ok=True)
+        raise
+
+
+VISIBLE: tuple[Status, ...] = ("auto_checked", "human_reviewed")
+
+
+def visibility_warning(d: Dictionary) -> str | None:
+    """A warning when the app would show no word at all (and its build would need one)."""
+    if any(w.status in VISIBLE for w in d.words):
+        return None
+    return (
+        f"0 palabras visibles (auto_checked/human_reviewed) de {len(d.words)}. La app no "
+        "mostrará ninguna palabra. Ejecuta `review` y luego `build`, o revisa las marcas con `stats`."
+    )
 
 
 def compute_stats(candidates: list[Candidate], d: Dictionary) -> dict[str, dict[str, int]]:

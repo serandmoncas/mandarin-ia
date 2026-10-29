@@ -3,6 +3,7 @@ import json
 import os
 import re
 import subprocess
+import tempfile
 from dataclasses import dataclass, field
 from pathlib import Path
 from string import Template
@@ -18,6 +19,8 @@ Kind = Literal["words", "chars", "phrases", "review"]
 PROMPTS_DIR = Path(__file__).parent / "prompts"
 _FENCE = re.compile(r"^```[a-zA-Z]*\s*\n(.*?)\n?```\s*$", re.DOTALL)
 _KEY = {"words": "word", "chars": "char", "review": "id"}
+# Consecutive failed batches before giving up (e.g. the Claude subscription limit was hit).
+MAX_CONSECUTIVE_FAILURES = 3
 
 
 @dataclass
@@ -25,6 +28,7 @@ class BatchReport:
     done: int = 0
     skipped: int = 0
     failed: list[int] = field(default_factory=list)
+    aborted: bool = False  # stopped after MAX_CONSECUTIVE_FAILURES failed batches in a row
 
 
 def strip_code_fences(text: str) -> str:
@@ -35,13 +39,21 @@ def strip_code_fences(text: str) -> str:
 
 
 def claude_runner(prompt: str) -> str:
-    proc = subprocess.run(
-        ["claude", "-p", prompt, "--output-format", "json"],
-        capture_output=True,
-        text=True,
-        timeout=600,
-        check=True,
-    )
+    """One headless `claude -p` call: no tools, no MCP servers, prompt on stdin.
+
+    It runs from an empty temp dir so the repo's CLAUDE.md/settings are not loaded as
+    context. `--tools` is variadic, so it goes last and the prompt is sent via stdin.
+    """
+    with tempfile.TemporaryDirectory(prefix="mandarin-claude-") as cwd:
+        proc = subprocess.run(
+            ["claude", "-p", "--output-format", "json", "--strict-mcp-config", "--tools", ""],
+            input=prompt,
+            capture_output=True,
+            text=True,
+            timeout=600,
+            check=True,
+            cwd=cwd,
+        )
     payload = json.loads(proc.stdout)
     if not isinstance(payload, dict) or payload.get("is_error"):
         raise ValueError(f"claude reported an error: {proc.stdout[:500]}")
@@ -103,10 +115,12 @@ def run_batches(
     out_dir: Path,
     batch_size: int = 20,
     first_index: int = 0,
+    max_consecutive_failures: int = MAX_CONSECUTIVE_FAILURES,
 ) -> BatchReport:
     out_dir = Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     report = BatchReport()
+    consecutive_failures = 0
     for idx, start in enumerate(range(0, len(items), batch_size), start=first_index):
         batch = items[start : start + batch_size]
         out = out_dir / f"batch_{idx:03d}.json"
@@ -131,7 +145,12 @@ def run_batches(
         if result is None:
             err.write_text("\n".join(log), encoding="utf-8")
             report.failed.append(idx)
+            consecutive_failures += 1
+            if consecutive_failures >= max_consecutive_failures:
+                report.aborted = True
+                break
             continue
+        consecutive_failures = 0
         tmp = out.with_suffix(".json.tmp")
         tmp.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         os.replace(tmp, out)

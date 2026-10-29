@@ -8,6 +8,8 @@ import httpx
 
 from mandarin_pipeline.cedict import parse_cedict
 from mandarin_pipeline.generate import (
+    MAX_CONSECUTIVE_FAILURES,
+    BatchReport,
     build_char_items,
     build_phrase_items,
     build_word_items,
@@ -26,6 +28,7 @@ from mandarin_pipeline.build import (
     compute_stats,
     load_manifest,
     now_stamps,
+    visibility_warning,
     write_dictionary,
 )
 from mandarin_pipeline.checks import _load_dir, build_review_items, load_checked_words
@@ -91,9 +94,20 @@ def _generate(args: argparse.Namespace) -> None:
         items = build_phrase_items()[: args.limit]
         render, model, size = make_phrase_renderer(), PhraseContent, 1
     report = run_batches(args.kind, items, render, model, claude_runner, out_dir, batch_size=size)
-    print(f"{args.kind}: {len(items)} items; done={report.done} skipped={report.skipped} failed={report.failed}")
+    _finish_batches(args.kind, len(items), report, out_dir)
+
+
+def _finish_batches(label: str, n_items: int, report: BatchReport, out_dir: Path) -> None:
+    """Print the batch summary; exit with status 1 if any batch failed."""
+    print(f"{label}: {n_items} items; done={report.done} skipped={report.skipped} failed={report.failed}")
+    if report.aborted:
+        print(
+            f"Se detuvo tras {MAX_CONSECUTIVE_FAILURES} lotes fallidos seguidos (¿límite de la "
+            "suscripción de Claude?). Vuelve a ejecutar más tarde; se retoma donde quedó."
+        )
     if report.failed:
-        print(f"See *.error.txt in {out_dir}")
+        print(f"Revisa los archivos *.error.txt en {out_dir}")
+        sys.exit(1)
 
 
 def _review(args: argparse.Namespace) -> None:
@@ -105,9 +119,7 @@ def _review(args: argparse.Namespace) -> None:
     report = run_review(
         items, make_review_renderer(), claude_runner, out_dir, batch_size=25, limit=args.limit
     )
-    print(f"review: {len(items)} reviewable items; done={report.done} failed={report.failed}")
-    if report.failed:
-        print(f"See *.error.txt in {out_dir}")
+    _finish_batches("review", len(items), report, out_dir)
 
 
 def _assemble() -> tuple[list[Candidate], Dictionary]:
@@ -135,6 +147,13 @@ def _build(args: argparse.Namespace) -> None:
     out = ROOT / "data" / "dictionary.json"
     write_dictionary(d, out)
     print(f"Written {out}: {len(d.words)} words, {len(d.characters)} characters, {len(d.phrases)} phrases")
+    _warn_if_nothing_visible(d)
+
+
+def _warn_if_nothing_visible(d: Dictionary) -> None:
+    msg = visibility_warning(d)
+    if msg:
+        print(f"ADVERTENCIA: {msg}", file=sys.stderr)
 
 
 def _stats(args: argparse.Namespace) -> None:
@@ -143,6 +162,7 @@ def _stats(args: argparse.Namespace) -> None:
         print(f"{section}:")
         for key, n in sorted(counts.items()):
             print(f"  {key}: {n}")
+    _warn_if_nothing_visible(d)
 
 
 def _audio(args: argparse.Namespace) -> None:

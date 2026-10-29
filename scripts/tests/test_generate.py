@@ -190,3 +190,63 @@ def test_review_kind_keyed_on_id(tmp_path):
         tmp_path / "bad", batch_size=20,
     )
     assert bad.failed == [0]
+
+
+def test_aborts_after_three_consecutive_failed_batches(tmp_path):
+    calls: list[str] = []
+
+    def runner(prompt: str) -> str:
+        calls.append(prompt)
+        raise ValueError("limit reached")
+
+    items = [{"word": f"词{i}", "order": i} for i in range(200)]
+    report = run(tmp_path, runner, items=items)
+    assert report.failed == [0, 1, 2] and report.aborted is True
+    assert len(calls) == 6  # 3 batches x 2 attempts, then stop
+
+
+def test_success_resets_consecutive_failures(tmp_path):
+    def runner(prompt: str) -> str:
+        if "词0," in prompt or "词20," in prompt or "词60," in prompt or "词80," in prompt:
+            raise ValueError("flaky")
+        return fake_runner([])(prompt)
+
+    items = [{"word": f"词{i}", "order": i} for i in range(100)]
+    report = run(tmp_path, runner, items=items)
+    assert report.failed == [0, 1, 3, 4] and report.aborted is False and report.done == 1
+
+
+def test_cli_exits_nonzero_when_batches_failed(tmp_path, capsys):
+    from mandarin_pipeline.__main__ import _finish_batches
+
+    _finish_batches("words", 5, BatchReport(done=1), tmp_path)  # no failure: returns
+    with pytest.raises(SystemExit) as e:
+        _finish_batches("words", 5, BatchReport(failed=[0, 1, 2], aborted=True), tmp_path)
+    assert e.value.code == 1
+    out = capsys.readouterr().out
+    assert "3 lotes fallidos seguidos" in out and "error.txt" in out
+
+
+def test_claude_runner_disables_tools_and_uses_neutral_cwd(monkeypatch):
+    import subprocess as sp
+    from pathlib import Path
+
+    from mandarin_pipeline.generate import claude_runner
+
+    seen = {}
+
+    def fake_run(cmd, **kw):
+        seen["cmd"], seen["kw"] = cmd, kw
+        seen["cwd_exists"] = Path(kw["cwd"]).is_dir()
+        return sp.CompletedProcess(cmd, 0, stdout=json.dumps({"result": "[1]"}), stderr="")
+
+    monkeypatch.setattr(sp, "run", fake_run)
+    claude_runner("PROMPT-X")
+    cmd = seen["cmd"]
+    assert cmd[:2] == ["claude", "-p"]
+    assert cmd[cmd.index("--tools") + 1] == ""
+    assert "--strict-mcp-config" in cmd
+    assert "PROMPT-X" not in cmd and seen["kw"]["input"] == "PROMPT-X"
+    repo = Path(__file__).resolve().parents[2]
+    cwd = Path(seen["kw"]["cwd"]).resolve()
+    assert seen["cwd_exists"] and repo not in (cwd, *cwd.parents)

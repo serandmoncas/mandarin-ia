@@ -39,8 +39,8 @@ def content(word, zhs, meanings=("saludo",)):
     )
 
 
-def checked(word, zhs, known=frozenset()):
-    return check_word(content(word, zhs), ENTRIES[word], set(known))
+def checked(word, zhs, known=frozenset(), meanings=("saludo",)):
+    return check_word(content(word, zhs, meanings), ENTRIES[word], set(known))
 
 
 CANDS = [
@@ -53,7 +53,7 @@ CANDS = [
 
 def make_inputs():
     words = {
-        "你好": checked("你好", ["你好吗", "你好，朋友", "我说你好", "他说你好"]),
+        "你好": checked("你好", ["你好吗", "你好，朋友", "我说你好", "他说你好"], meanings=("hola", "saludo")),
         "谢谢": checked("谢谢", ["谢谢你", "谢谢大家", "谢谢老师", "谢谢你们"], {"你"}),
         # only 1 valid example -> automatic flag too_few_examples
         "你": checked("你", ["你好", "他们", "我们", "大家"]),
@@ -156,3 +156,38 @@ def test_writes_sample_fixture():
     data = json.loads(out.read_text(encoding="utf-8"))
     assert len(data["words"]) == 3 and len(data["characters"]) == 2 and len(data["phrases"]) == 2
     assert any(w["status"] == "generated" and w["flags"] for w in data["words"])
+
+
+def test_visibility_warning_when_nothing_visible():
+    from mandarin_pipeline.build import visibility_warning
+
+    assert visibility_warning(build()) is None
+    words, _, chars, phrases, m = make_inputs()
+    d = build_dictionary(CANDS, words, [], chars, phrases, m, VERSION, STAMP)
+    msg = visibility_warning(d)
+    assert msg is not None and "0 palabras visibles" in msg
+
+
+def test_write_dictionary_is_atomic(tmp_path, monkeypatch):
+    import mandarin_pipeline.build as b
+
+    out = tmp_path / "dictionary.json"
+    out.write_text("OLD", encoding="utf-8")
+
+    def boom(src, dst):
+        raise OSError("disk full")
+
+    monkeypatch.setattr(b.os, "replace", boom)
+    try:
+        write_dictionary(build(), out)
+    except OSError:
+        pass
+    assert out.read_text(encoding="utf-8") == "OLD"
+    monkeypatch.undo()
+    write_dictionary(build(), out)
+    assert json.loads(out.read_text(encoding="utf-8"))["version"] == VERSION
+    assert list(tmp_path.iterdir()) == [out]
+
+
+def test_sample_word_nihao_means_hola():
+    assert build().words[0].meanings_es[0] == "hola"
