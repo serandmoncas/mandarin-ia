@@ -19,15 +19,31 @@ def _fetch(url: str, target: Path) -> None:
                 f.write(chunk)
 
 
+def _atomic(target: Path, write) -> None:
+    """Run write(tmp_path) then rename to target; remove partial files on failure."""
+    tmp = target.with_name(target.name + ".part")
+    try:
+        write(tmp)
+        tmp.replace(target)
+    finally:
+        tmp.unlink(missing_ok=True)
+
+
 def download_sources(dest: Path) -> None:
     dest.mkdir(parents=True, exist_ok=True)
     cedict = dest / CEDICT_FILE
     if not cedict.exists():
         gz = dest / (CEDICT_FILE + ".gz")
-        _fetch(CEDICT_URL, gz)
-        with gzip.open(gz, "rb") as src, cedict.open("wb") as out:
-            shutil.copyfileobj(src, out)
-        gz.unlink()
+        try:
+            _fetch(CEDICT_URL, gz)
+
+            def gunzip(tmp: Path) -> None:
+                with gzip.open(gz, "rb") as src, tmp.open("wb") as out:
+                    shutil.copyfileobj(src, out)
+
+            _atomic(cedict, gunzip)
+        finally:
+            gz.unlink(missing_ok=True)
     hsk = dest / HSK_FILE
     if not hsk.exists():
-        _fetch(HSK_URL, hsk)
+        _atomic(hsk, lambda tmp: _fetch(HSK_URL, tmp))

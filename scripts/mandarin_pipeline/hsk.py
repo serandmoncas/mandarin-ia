@@ -10,5 +10,6 @@ def load_hsk(path: Path) -> dict[str, int]:
     for item in data:
         new = [int(t[4:]) for t in item.get("level", []) if t.startswith("new-")]
         if new:
-            levels[item["simplified"]] = min(new)
+            word = item["simplified"]
+            levels[word] = min(levels.get(word, 99), min(new))
     return levels
