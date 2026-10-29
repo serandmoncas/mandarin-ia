@@ -5,13 +5,14 @@ import pytest
 
 from mandarin_pipeline.audio_keys import SENTENCE_VOICE, WORD_VOICES
 from mandarin_pipeline.tts import (
+    EmptyAudio,
     MissingConfig,
     QuotaExhausted,
+    Throttled,
     audio_key,
     build_ssml,
     jobs_from_dictionary,
     load_config,
-    run_audio,
     synthesize,
 )
 
@@ -20,6 +21,29 @@ V = "zh-CN-XiaoxiaoNeural"
 
 def _jobs(n):
     return [(f"t{i}", V) for i in range(n)]
+
+
+class FakeClock:
+    """Monotonic clock whose sleep() just advances time and records the delay."""
+
+    def __init__(self):
+        self.t = 0.0
+        self.sleeps: list[float] = []
+
+    def now(self) -> float:
+        return self.t
+
+    def sleep(self, s: float) -> None:
+        self.sleeps.append(s)
+        self.t += s
+
+
+def run_audio(jobs, mp, synth, upload, clock=None, **kw):
+    """run_audio with a fake clock so tests never really sleep."""
+    from mandarin_pipeline.tts import run_audio as real
+
+    clock = clock or FakeClock()
+    return real(jobs, mp, synth, upload, clock=clock.now, sleep=clock.sleep, **kw)
 
 
 def test_audio_key_stable():
@@ -110,6 +134,84 @@ def test_ssml_escapes():
     assert "a&lt;b&amp;c&gt;" in s and f'<voice name="{V}">' in s and 'xml:lang="zh-CN"' in s
 
 
+def test_transient_429_backs_off_and_continues(tmp_path):
+    clock = FakeClock()
+    calls = []
+
+    def synth(t, v):
+        calls.append(t)
+        if t == "t1" and calls.count("t1") == 1:
+            raise Throttled(retry_after=7)
+        return b"x"
+
+    report = run_audio(_jobs(3), tmp_path / "m.json", synth, lambda p, d: None, clock=clock)
+    assert (report.done, report.quota_exhausted) == (3, False)
+    assert calls == ["t0", "t1", "t1", "t2"]
+    assert 7 in clock.sleeps
+
+
+def test_429_without_retry_after_waits_60s(tmp_path):
+    clock = FakeClock()
+    seen = []
+
+    def synth(t, v):
+        seen.append(t)
+        if len(seen) == 1:
+            raise Throttled()
+        return b"x"
+
+    run_audio(_jobs(1), tmp_path / "m.json", synth, lambda p, d: None, clock=clock)
+    assert 60 in clock.sleeps
+
+
+def test_persistent_429_reports_quota_after_retries(tmp_path):
+    mp = tmp_path / "m.json"
+    calls = []
+
+    def synth(t, v):
+        calls.append(t)
+        if t == "t1":
+            raise Throttled(retry_after=1)
+        return b"x"
+
+    report = run_audio(_jobs(3), mp, synth, lambda p, d: None)
+    assert report.quota_exhausted is True and report.done == 1
+    assert calls.count("t1") == 4  # first try + 3 retries after backoff
+    assert "t2" not in calls
+    assert set(json.loads(mp.read_text(encoding="utf-8"))) == {audio_key("t0", V)}
+
+
+def test_pacing_at_most_18_requests_per_minute(tmp_path):
+    clock = FakeClock()
+    times = []
+
+    def synth(t, v):
+        times.append(clock.now())
+        return b"x"
+
+    run_audio(_jobs(40), tmp_path / "m.json", synth, lambda p, d: None, clock=clock)
+    assert len(times) == 40
+    for i in range(len(times) - 18):
+        assert times[i + 18] - times[i] >= 60 - 1e-9
+
+
+def test_synthesize_429_carries_retry_after():
+    c = httpx.Client(transport=httpx.MockTransport(lambda r: httpx.Response(429, headers={"Retry-After": "7"})))
+    with pytest.raises(Throttled) as e:
+        synthesize("x", V, "KEY", "eastus", c)
+    assert e.value.retry_after == 7
+    c = httpx.Client(transport=httpx.MockTransport(lambda r: httpx.Response(429)))
+    with pytest.raises(Throttled) as e:
+        synthesize("x", V, "KEY", "eastus", c)
+    assert e.value.retry_after is None
+
+
+def test_synthesize_rejects_empty_audio():
+    c = httpx.Client(transport=httpx.MockTransport(lambda r: httpx.Response(200, content=b"")))
+    with pytest.raises(EmptyAudio):
+        synthesize("x", V, "KEY", "eastus", c)
+
+
 def test_synthesize_ok_and_429():
     seen = {}
 
@@ -123,7 +225,7 @@ def test_synthesize_ok_and_429():
     assert seen["url"] == "https://eastus.tts.speech.microsoft.com/cognitiveservices/v1"
     assert seen["h"]["Ocp-Apim-Subscription-Key"] == "KEY"
     assert seen["h"]["X-Microsoft-OutputFormat"] == "audio-24khz-48kbitrate-mono-mp3"
-    with pytest.raises(QuotaExhausted):
+    with pytest.raises(Throttled):
         synthesize("quota", V, "KEY", "eastus", c)
 
 

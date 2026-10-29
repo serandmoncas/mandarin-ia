@@ -167,7 +167,11 @@ def _audio(args: argparse.Namespace) -> None:
         )
     print(f"audio: {len(jobs)} jobs; done={report.done} skipped={report.skipped}")
     if report.quota_exhausted:
-        print("Cuota de Azure agotada; vuelve a ejecutar `audio` más tarde (se retoma donde quedó).")
+        print(
+            "Azure siguió respondiendo 429 tras varios reintentos: puede ser la cuota mensual "
+            "de F0 agotada o una limitación de tasa persistente. Vuelve a ejecutar `audio` "
+            "más tarde (se retoma donde quedó)."
+        )
     print("Ejecuta `build` para adjuntar los audios al diccionario.")
 
 

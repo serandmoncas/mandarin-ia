@@ -1,6 +1,7 @@
-"""Azure TTS synthesis + Supabase Storage upload, resumable and quota-safe."""
+"""Azure TTS synthesis + Supabase Storage upload, resumable, paced and quota-safe."""
 import json
 import os
+import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Callable, Mapping
@@ -12,14 +13,32 @@ from dotenv import dotenv_values
 from mandarin_pipeline.audio_keys import SENTENCE_VOICE, WORD_VOICES, audio_key
 from mandarin_pipeline.build import load_manifest
 
-__all__ = ["audio_key", "QuotaExhausted", "MissingConfig", "AudioReport"]
+__all__ = ["audio_key", "QuotaExhausted", "Throttled", "EmptyAudio", "MissingConfig", "AudioReport"]
 
 REQUIRED_ENV = ("AZURE_SPEECH_KEY", "AZURE_SPEECH_REGION", "SUPABASE_URL", "SUPABASE_SERVICE_ROLE_KEY")
 VISIBLE = ("auto_checked", "human_reviewed")
 
+# Azure F0 throttles at ~20 transactions per 60 s; stay below it.
+MAX_REQUESTS_PER_MINUTE = 18
+# Retries of one job after a 429 (each after backing off) before giving up the run.
+THROTTLE_RETRIES = 3
+DEFAULT_BACKOFF_S = 60.0
+
 
 class QuotaExhausted(Exception):
-    """Azure answered HTTP 429: the free-tier quota is used up."""
+    """Azure keeps answering 429: monthly F0 quota used up or sustained throttling."""
+
+
+class Throttled(Exception):
+    """One HTTP 429 from Azure; retry_after is the Retry-After delay in seconds, if given."""
+
+    def __init__(self, retry_after: float | None = None):
+        super().__init__(f"HTTP 429 (Retry-After: {retry_after})")
+        self.retry_after = retry_after
+
+
+class EmptyAudio(Exception):
+    """Azure answered 200 with an empty body."""
 
 
 class MissingConfig(Exception):
@@ -67,9 +86,19 @@ def synthesize(text: str, voice: str, key: str, region: str, client: httpx.Clien
         },
     )
     if resp.status_code == 429:
-        raise QuotaExhausted()
+        raise Throttled(_retry_after(resp.headers.get("Retry-After")))
     resp.raise_for_status()
+    if not resp.content:
+        raise EmptyAudio(f"Azure devolvió audio vacío para {voice}: {text!r}")
     return resp.content
+
+
+def _retry_after(value: str | None) -> float | None:
+    """Retry-After in seconds; None when absent or not numeric (e.g. an HTTP date)."""
+    try:
+        return max(0.0, float(value)) if value is not None else None
+    except ValueError:
+        return None
 
 
 def upload(path: str, data: bytes, supabase_url: str, service_key: str, client: httpx.Client) -> None:
@@ -124,14 +153,39 @@ def run_audio(
     synth: Callable[[str, str], bytes],
     upload: Callable[[str, bytes], None],
     limit: int | None = None,
+    clock: Callable[[], float] = time.monotonic,
+    sleep: Callable[[float], None] = time.sleep,
+    max_per_minute: int = MAX_REQUESTS_PER_MINUTE,
+    throttle_retries: int = THROTTLE_RETRIES,
 ) -> AudioReport:
     """Synthesize and upload missing jobs; the manifest is saved after each one.
 
-    Stops cleanly on QuotaExhausted. Any other error propagates, but everything
+    Requests are spaced to at most max_per_minute. A 429 backs off (Retry-After or
+    60 s) and retries the same job; after throttle_retries consecutive 429s the run
+    stops cleanly with quota_exhausted. Any other error propagates, but everything
     done so far is already on disk.
     """
     manifest = load_manifest(manifest_path)
     report = AudioReport()
+    interval = 60.0 / max_per_minute
+    next_slot = clock()
+
+    def paced_synth(text: str, voice: str) -> bytes:
+        nonlocal next_slot
+        throttles = 0
+        while True:
+            wait = next_slot - clock()
+            if wait > 0:
+                sleep(wait)
+            next_slot = clock() + interval
+            try:
+                return synth(text, voice)
+            except Throttled as e:
+                throttles += 1
+                if throttles > throttle_retries:
+                    raise QuotaExhausted() from e
+                sleep(DEFAULT_BACKOFF_S if e.retry_after is None else e.retry_after)
+
     for text, voice in jobs:
         key = audio_key(text, voice)
         if key in manifest:
@@ -140,7 +194,7 @@ def run_audio(
         if limit is not None and report.done >= limit:
             break
         try:
-            data = synth(text, voice)
+            data = paced_synth(text, voice)
         except QuotaExhausted:
             report.quota_exhausted = True
             break

@@ -10,7 +10,12 @@ Esto se hace una sola vez, a mano. Solo se usan planes **gratuitos**.
 4. En "Claves y punto de conexión" copia **KEY 1** y el nombre de la **región**.
 5. Verifica en la página de precios de Azure Speech los límites actuales de F0 y anótalos aquí.
    Supusimos (**verificar**): ~0,5 M de caracteres/mes de TTS neuronal y ~5 h/mes de voz a texto.
-   Si se agota la cuota, `audio` se detiene limpio y se retoma el mes siguiente.
+   F0 además limita la tasa (~20 solicitudes cada 60 s). `audio` espacia las solicitudes
+   a un máximo de 18 por minuto (unas 3,3 s por clip; 1.000 clips ≈ 1 h) y, ante un HTTP
+   429, espera lo que indique `Retry-After` (o 60 s) y reintenta. Si el 429 persiste tras
+   3 reintentos, `audio` se detiene limpio: puede ser la cuota mensual agotada **o** una
+   limitación de tasa persistente. Vuelve a ejecutarlo más tarde (unos minutos si fue la
+   tasa; el mes siguiente si fue la cuota); se retoma donde quedó.
 
 ## 2. Supabase Storage (archivos de audio)
 
