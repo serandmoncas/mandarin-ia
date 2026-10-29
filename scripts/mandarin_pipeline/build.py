@@ -11,6 +11,7 @@ from mandarin_pipeline.checks import (
     check_char,
     check_phrase,
     phrase_id,
+    review_items_from,
 )
 from mandarin_pipeline.models import (
     AudioRef,
@@ -110,8 +111,7 @@ class Dictionary(CamelModel):
 
 def _resolve(review: ReviewResult | None, flags: list[str]) -> tuple[Status, list[str]]:
     if review is None:
-        status, out = apply_review(flags, False, [])
-        return status, [*out, "not_reviewed"]
+        return "generated", [*flags, "not_reviewed"]
     return apply_review(flags, review.ok, review.issues)
 
 
@@ -120,22 +120,43 @@ def _sentence_audio(text: str, manifest: dict[str, str]) -> AudioRef | None:
     return AudioRef(voice=SENTENCE_VOICE, path=manifest[key]) if key in manifest else None
 
 
+def matching_reviews(
+    words: dict[str, CheckedWord],
+    chars: list[CharContent],
+    phrases: list[PhraseContent],
+    reviews: list[ReviewResult],
+) -> dict[str, ReviewResult]:
+    """Reviews (by id) whose content hash matches the item's current review text.
+
+    A verdict for older content (same id, different text) is ignored, so regenerated
+    content is never shown as checked until it is reviewed again. Later reviews win.
+    """
+    by_key = {(r.id, r.content_hash): r for r in reviews if r.content_hash}
+    out: dict[str, ReviewResult] = {}
+    for item in review_items_from(words, chars, phrases):
+        review = by_key.get((item["id"], item["content_hash"]))
+        if review is not None:
+            out[item["id"]] = review
+    return out
+
+
 def build_dictionary(
     candidates: list[Candidate],
     words: dict[str, CheckedWord],
-    reviews: dict[str, ReviewResult],
+    reviews: list[ReviewResult],
     chars: list[CharContent],
     phrases: list[PhraseContent],
     manifest: dict[str, str],
     version: str,
     generated_at: str,
 ) -> Dictionary:
+    reviews_by_id = matching_reviews(words, chars, phrases, reviews)
     word_entries: list[WordEntry] = []
     for cand in sorted(candidates, key=lambda c: c.order):
         checked = words.get(cand.word)
         if checked is None:
             continue  # no generated content: counted as "missing" by stats
-        status, flags = _resolve(reviews.get(f"word:{cand.word}"), checked.flags)
+        status, flags = _resolve(reviews_by_id.get(f"word:{cand.word}"), checked.flags)
         numbered = checked.reading.pinyin_numbered if checked.reading else ""
         audio = [
             AudioRef(voice=v, path=manifest[audio_key(cand.word, v)])
@@ -166,7 +187,7 @@ def build_dictionary(
 
     characters: dict[str, CharacterInfo] = {}
     for c in chars:
-        status, flags = _resolve(reviews.get(f"char:{c.char}"), check_char(c))
+        status, flags = _resolve(reviews_by_id.get(f"char:{c.char}"), check_char(c))
         characters[c.char] = CharacterInfo(
             char=c.char,
             components=[CharComponent(char=x.char, meaning_es=x.meaning_es) for x in c.components],
@@ -181,7 +202,7 @@ def build_dictionary(
         pid = phrase_id(p.mission, counters[p.mission])
         counters[p.mission] += 1
         pinyin_text, syllables, auto_flags = check_phrase(p)
-        status, flags = _resolve(reviews.get(pid), auto_flags)
+        status, flags = _resolve(reviews_by_id.get(pid), auto_flags)
         phrase_entries.append(
             PhraseEntry(
                 id=pid,

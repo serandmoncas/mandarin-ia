@@ -79,3 +79,6 @@ class ReviewResult(CamelModel):
     id: str
     ok: bool
     issues: list[str] = Field(default_factory=list)
+    # sha1 of the reviewed text. Always set by the pipeline from the item it sent (never
+    # trusted from the model); "" (legacy/missing) never matches current content.
+    content_hash: str = ""

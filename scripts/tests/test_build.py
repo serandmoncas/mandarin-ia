@@ -9,7 +9,7 @@ from mandarin_pipeline.build import (
     write_dictionary,
 )
 from mandarin_pipeline.cedict import CedictEntry
-from mandarin_pipeline.checks import check_word
+from mandarin_pipeline.checks import check_word, review_items_from
 from mandarin_pipeline.models import (
     CharContent,
     Component,
@@ -58,12 +58,6 @@ def make_inputs():
         # only 1 valid example -> automatic flag too_few_examples
         "你": checked("你", ["你好", "他们", "我们", "大家"]),
     }
-    reviews = {
-        "word:你好": ReviewResult(id="word:你好", ok=True),
-        "word:谢谢": ReviewResult(id="word:谢谢", ok=True),
-        "char:你": ReviewResult(id="char:你", ok=True),
-        "phrase:introductions:000": ReviewResult(id="phrase:introductions:000", ok=True),
-    }
     chars = [
         CharContent(char="你", components=[Component(char="亻", meaning_es="persona")], mnemonic_es="Una persona."),
         CharContent(char="好", components=[Component(char="女", meaning_es="mujer"), Component(char="子", meaning_es="hijo")], mnemonic_es="Mujer con hijo."),
@@ -71,6 +65,12 @@ def make_inputs():
     phrases = [
         PhraseContent(mission="introductions", zh="你好，我叫小明。", es="Hola, me llamo Xiaoming."),
         PhraseContent(mission="restaurant", zh="请给我菜单。", es="Deme el menú, por favor."),
+    ]
+    reviewed = {"word:你好", "word:谢谢", "char:你", "phrase:introductions:000"}
+    reviews = [
+        ReviewResult(id=i["id"], ok=True, content_hash=i["content_hash"])
+        for i in review_items_from(words, chars, phrases)
+        if i["id"] in reviewed
     ]
     manifest = {
         audio_key("你好", WORD_VOICES[0]): audio_key("你好", WORD_VOICES[0]),

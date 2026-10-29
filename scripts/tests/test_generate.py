@@ -171,7 +171,7 @@ def test_error_file_includes_subprocess_diagnostics(tmp_path):
 def test_review_kind_keyed_on_id(tmp_path):
     from mandarin_pipeline.models import ReviewResult
 
-    items = [{"id": f"word:词{i}", "text": "x"} for i in range(3)]
+    items = [{"id": f"word:词{i}", "text": "x", "content_hash": f"h{i}"} for i in range(3)]
 
     def runner(prompt: str) -> str:
         return json.dumps([{"id": f"word:词{i}", "ok": True, "issues": []} for i in range(3)])

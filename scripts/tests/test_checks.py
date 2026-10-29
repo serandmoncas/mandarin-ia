@@ -16,7 +16,9 @@ from mandarin_pipeline.models import (
 
 
 def word(w, idx=0, meanings=("sentido",), examples=None):
-    examples = examples if examples is not None else [GeneratedExample(zh=f"我{w}你", es="x")] * 4
+    examples = examples if examples is not None else [
+        GeneratedExample(zh=f"{p}{w}你", es="x") for p in ("我", "他", "她", "们")
+    ]
     return WordContent(
         word=w, cedict_reading_index=idx, meanings_es=list(meanings), examples=examples
     )
@@ -49,7 +51,8 @@ def test_citation_tone_for_bu():
 
 
 def test_drops_examples_without_target():
-    ex = [GeneratedExample(zh="我喜欢你", es="x")] * 2 + [GeneratedExample(zh="他走了", es="y")] * 2
+    ex = [GeneratedExample(zh="我喜欢你", es="x"), GeneratedExample(zh="他喜欢你", es="x")]
+    ex += [GeneratedExample(zh="他走了", es="y")] * 2
     r = check_word(word("喜欢", examples=ex), [CedictEntry("喜歡", "喜欢", "xi3 huan5", ["like"])], set())
     assert len(r.examples) == 2
     assert all("喜欢" in e.zh for e in r.examples)
@@ -57,10 +60,10 @@ def test_drops_examples_without_target():
 
 def test_drops_long_examples():
     long_zh = "我" * 21 + "好"
-    ex = [GeneratedExample(zh=long_zh, es="x")] * 2 + [GeneratedExample(zh="我好", es="y")] * 2
+    ex = [GeneratedExample(zh=long_zh, es="x")] * 2
+    ex += [GeneratedExample(zh="我好", es="y"), GeneratedExample(zh="他好", es="y")]
     r = check_word(word("好", examples=ex), [CedictEntry("好", "好", "hao3", ["good"])], set())
-    assert len(r.examples) == 2
-    assert all(e.zh == "我好" for e in r.examples)
+    assert [e.zh for e in r.examples] == ["我好", "他好"]
 
 
 def test_too_few_examples_flag():
@@ -113,7 +116,7 @@ def test_build_review_items_only_unflagged(tmp_path):
     from mandarin_pipeline.checks import build_review_items
 
     good = {"word": "好", "cedict_reading_index": 0, "meanings_es": ["bien"],
-            "examples": [{"zh": "我很好", "es": "estoy bien"}] * 4}
+            "examples": [{"zh": z, "es": "bien"} for z in ("我很好", "他很好", "好的", "你好吗")]}
     bad = {**good, "word": "坏", "examples": [{"zh": "我很好", "es": "x"}] * 4}
     (tmp_path / "words").mkdir()
     (tmp_path / "words" / "batch_000.json").write_text(json.dumps([good, bad]), encoding="utf-8")
@@ -125,3 +128,25 @@ def test_build_review_items_only_unflagged(tmp_path):
     cands = [{"word": "好", "order": 1}, {"word": "坏", "order": 2}]
     ids = [i["id"] for i in build_review_items(tmp_path, cedict, cands)]
     assert ids == ["word:好", "phrase:hotel:000"]
+
+
+def test_apply_review_not_ok_without_issues_is_flagged():
+    status, flags = apply_review([], False, [])
+    assert status == "generated" and flags == ["review:not_ok"]
+
+
+def test_drops_examples_with_empty_translation():
+    ex = [GeneratedExample(zh="我好", es=" ")] + [GeneratedExample(zh=f"他好{i}", es="y") for i in range(3)]
+    r = check_word(word("好", examples=ex), [CedictEntry("好", "好", "hao3", ["good"])], set())
+    assert [e.zh for e in r.examples] == ["他好0", "他好1", "他好2"]
+
+
+def test_dedupes_meanings_and_examples():
+    ex = [GeneratedExample(zh="我好", es="y")] * 2 + [GeneratedExample(zh="他好", es="z")] * 2
+    r = check_word(
+        word("好", meanings=("bien", " bien", "bueno"), examples=ex),
+        [CedictEntry("好", "好", "hao3", ["good"])],
+        set(),
+    )
+    assert r.content.meanings_es == ["bien", "bueno"]
+    assert [e.zh for e in r.examples] == ["我好", "他好"]

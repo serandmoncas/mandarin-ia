@@ -10,7 +10,7 @@ from typing import Callable, Literal
 
 from pydantic import BaseModel, ValidationError
 
-from mandarin_pipeline.models import MISSIONS
+from mandarin_pipeline.models import MISSIONS, ReviewResult
 
 Runner = Callable[[str], str]
 Kind = Literal["words", "chars", "phrases", "review"]
@@ -70,6 +70,10 @@ def _validate(kind: Kind, batch: list[dict], raw: str, model: type[BaseModel]) -
         wrong = {o.mission for o in objs} - expected
         if wrong:
             raise ValueError(f"unexpected missions: {sorted(wrong)}")
+    if kind == "review":
+        # Bind each verdict to the exact text the pipeline sent, ignoring any model echo.
+        hashes = {item["id"]: item["content_hash"] for item in batch}
+        objs = [o.model_copy(update={"content_hash": hashes[o.id]}) for o in objs]
     return [o.model_dump(by_alias=False) for o in objs]
 
 
@@ -98,11 +102,12 @@ def run_batches(
     runner: Runner,
     out_dir: Path,
     batch_size: int = 20,
+    first_index: int = 0,
 ) -> BatchReport:
     out_dir = Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     report = BatchReport()
-    for idx, start in enumerate(range(0, len(items), batch_size)):
+    for idx, start in enumerate(range(0, len(items), batch_size), start=first_index):
         batch = items[start : start + batch_size]
         out = out_dir / f"batch_{idx:03d}.json"
         err = out_dir / f"batch_{idx:03d}.error.txt"
@@ -133,6 +138,49 @@ def run_batches(
         err.unlink(missing_ok=True)
         report.done += 1
     return report
+
+
+# ---- AI review: append-only batches keyed by (id, content_hash) ----
+
+
+def load_reviews(review_dir: Path) -> list[ReviewResult]:
+    """Every stored review, in batch order (later batches override earlier ones)."""
+    out: list[ReviewResult] = []
+    for f in sorted(Path(review_dir).glob("batch_*.json")):
+        out.extend(ReviewResult.model_validate(x) for x in json.loads(f.read_text(encoding="utf-8")))
+    return out
+
+
+def _next_batch_index(out_dir: Path) -> int:
+    indices = [
+        int(m.group(1))
+        for f in Path(out_dir).glob("batch_*.json")
+        if (m := re.fullmatch(r"batch_(\d+)\.json", f.name))
+    ]
+    return max(indices) + 1 if indices else 0
+
+
+def run_review(
+    items: list[dict],
+    render_prompt: Callable[[list[dict]], str],
+    runner: Runner,
+    out_dir: Path,
+    batch_size: int = 25,
+    limit: int | None = None,
+) -> BatchReport:
+    """Review only items with no stored (id, content_hash) verdict, into NEW batch files.
+
+    Existing batch files are never rewritten, so upstream changes do not shift or
+    regenerate earlier reviews; regenerated content simply gets reviewed again.
+    """
+    out_dir = Path(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    done = {(r.id, r.content_hash) for r in load_reviews(out_dir)}
+    pending = [i for i in items if (i["id"], i["content_hash"]) not in done][:limit]
+    return run_batches(
+        "review", pending, render_prompt, ReviewResult, runner, out_dir,
+        batch_size=batch_size, first_index=_next_batch_index(out_dir),
+    )
 
 
 # ---- prompt rendering and item building (used by the CLI) ----

@@ -12,11 +12,13 @@ from mandarin_pipeline.generate import (
     build_phrase_items,
     build_word_items,
     claude_runner,
+    load_reviews,
     make_char_renderer,
     make_phrase_renderer,
     make_review_renderer,
     make_word_renderer,
     run_batches,
+    run_review,
 )
 from mandarin_pipeline.build import (
     Dictionary,
@@ -26,10 +28,10 @@ from mandarin_pipeline.build import (
     now_stamps,
     write_dictionary,
 )
-from mandarin_pipeline.checks import _load_dir, build_review_items, check_word
+from mandarin_pipeline.checks import _load_dir, build_review_items, load_checked_words
 from mandarin_pipeline.frequency import top_frequency_words, word_frequency
 from mandarin_pipeline.hsk import load_hsk
-from mandarin_pipeline.models import CharContent, PhraseContent, ReviewResult, WordContent
+from mandarin_pipeline.models import CharContent, PhraseContent, WordContent
 from mandarin_pipeline.order import Candidate, learning_order, select_candidates, write_candidates
 from mandarin_pipeline.sources import download_sources
 from mandarin_pipeline.tts import (
@@ -98,12 +100,12 @@ def _review(args: argparse.Namespace) -> None:
     candidates = json.loads((ROOT / "data" / "candidates.json").read_text(encoding="utf-8"))
     with open(SOURCES_DIR / "cedict_ts.txt", encoding="utf-8") as f:
         cedict = parse_cedict(f)
-    items = build_review_items(ROOT / "data" / "generated", cedict, candidates)[: args.limit]
+    items = build_review_items(ROOT / "data" / "generated", cedict, candidates)
     out_dir = ROOT / "data" / "generated" / "review"
-    report = run_batches(
-        "review", items, make_review_renderer(), ReviewResult, claude_runner, out_dir, batch_size=25
+    report = run_review(
+        items, make_review_renderer(), claude_runner, out_dir, batch_size=25, limit=args.limit
     )
-    print(f"review: {len(items)} items; done={report.done} skipped={report.skipped} failed={report.failed}")
+    print(f"review: {len(items)} reviewable items; done={report.done} failed={report.failed}")
     if report.failed:
         print(f"See *.error.txt in {out_dir}")
 
@@ -114,17 +116,11 @@ def _assemble() -> tuple[list[Candidate], Dictionary]:
     candidates = [
         Candidate(r["word"], r["frequency"], r["hskLevel"], r["freqRank"], r["order"]) for r in rows
     ]
-    order = {c.word: c.order for c in candidates}
-    by_order = sorted(candidates, key=lambda c: c.order)
     with open(SOURCES_DIR / "cedict_ts.txt", encoding="utf-8") as f:
         cedict = parse_cedict(f)
     gen = data / "generated"
-    words = {}
-    for raw in _load_dir(gen / "words"):
-        wc = WordContent.model_validate(raw)
-        known = {c.word for c in by_order if c.order < order.get(wc.word, 0)}
-        words[wc.word] = check_word(wc, cedict.get(wc.word, []), known)
-    reviews = {r.id: r for r in (ReviewResult.model_validate(x) for x in _load_dir(gen / "review"))}
+    words = load_checked_words(gen, cedict, {c.word: c.order for c in candidates})
+    reviews = load_reviews(gen / "review")
     chars = [CharContent.model_validate(x) for x in _load_dir(gen / "chars")]
     phrases = [PhraseContent.model_validate(x) for x in _load_dir(gen / "phrases")]
     manifest = load_manifest(data / "audio-manifest.json")
