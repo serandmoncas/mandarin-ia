@@ -111,3 +111,58 @@ def test_fenced_response_is_parsed(tmp_path):
 
     report = run(tmp_path, runner, items=ITEMS[:3])
     assert report.done == 1
+
+
+def test_limit_then_full_run_regenerates_partial_batch(tmp_path):
+    run(tmp_path, fake_runner([]), items=ITEMS[:30])
+    assert len(json.loads((tmp_path / "batch_001.json").read_text(encoding="utf-8"))) == 10
+    calls: list[str] = []
+    report = run(tmp_path, fake_runner(calls))
+    assert report.skipped == 1 and report.done == 2
+    assert len(json.loads((tmp_path / "batch_001.json").read_text(encoding="utf-8"))) == 20
+
+
+def test_truncated_batch_file_is_regenerated(tmp_path):
+    (tmp_path / "batch_000.json").write_text('[{"word": "词0"', encoding="utf-8")
+    report = run(tmp_path, fake_runner([]), items=ITEMS[:5])
+    assert report.done == 1
+    assert len(json.loads((tmp_path / "batch_000.json").read_text(encoding="utf-8"))) == 5
+
+
+def _fake_proc(monkeypatch, stdout):
+    import subprocess as sp
+
+    monkeypatch.setattr(
+        sp, "run", lambda *a, **k: sp.CompletedProcess(a, 0, stdout=stdout, stderr="")
+    )
+
+
+@pytest.mark.parametrize(
+    "stdout",
+    ['{"result": null}', '{"result": ["x"]}', '{"is_error": true, "result": "boom"}', "[1]"],
+)
+def test_claude_runner_rejects_bad_payload(monkeypatch, stdout):
+    from mandarin_pipeline.generate import claude_runner
+
+    _fake_proc(monkeypatch, stdout)
+    with pytest.raises(ValueError):
+        claude_runner("p")
+
+
+def test_claude_runner_ok(monkeypatch):
+    from mandarin_pipeline.generate import claude_runner
+
+    _fake_proc(monkeypatch, json.dumps({"result": "```json\n[1]\n```"}))
+    assert claude_runner("p") == "[1]"
+
+
+def test_error_file_includes_subprocess_diagnostics(tmp_path):
+    import subprocess as sp
+
+    def runner(prompt):
+        raise sp.CalledProcessError(1, "claude", output="OUT-X", stderr="ERR-X")
+
+    report = run(tmp_path, runner, items=ITEMS[:3])
+    assert report.failed == [0]
+    text = (tmp_path / "batch_000.error.txt").read_text(encoding="utf-8")
+    assert "ERR-X" in text and "OUT-X" in text

@@ -1,5 +1,6 @@
 """Resumable batch generation of AI content through the local `claude -p` CLI."""
 import json
+import os
 import re
 import subprocess
 from dataclasses import dataclass, field
@@ -42,7 +43,12 @@ def claude_runner(prompt: str) -> str:
         check=True,
     )
     payload = json.loads(proc.stdout)
-    return strip_code_fences(payload["result"])
+    if not isinstance(payload, dict) or payload.get("is_error"):
+        raise ValueError(f"claude reported an error: {proc.stdout[:500]}")
+    result = payload.get("result")
+    if not isinstance(result, str):
+        raise ValueError(f"claude result is not a string: {proc.stdout[:500]}")
+    return strip_code_fences(result)
 
 
 def _validate(kind: Kind, batch: list[dict], raw: str, model: type[BaseModel]) -> list[dict]:
@@ -67,6 +73,23 @@ def _validate(kind: Kind, batch: list[dict], raw: str, model: type[BaseModel]) -
     return [o.model_dump(by_alias=False) for o in objs]
 
 
+def _expected_keys(kind: Kind, batch: list[dict]) -> set[str]:
+    return {item[_KEY.get(kind, "mission")] for item in batch}
+
+
+def _is_done(kind: Kind, batch: list[dict], path: Path) -> bool:
+    """A batch file is done only if it parses and covers exactly this batch's items."""
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        key = _KEY.get(kind, "mission")
+        got = [o[key] for o in data]
+    except (OSError, ValueError, KeyError, TypeError):
+        return False
+    if kind != "phrases" and len(got) != len(batch):
+        return False
+    return set(got) == _expected_keys(kind, batch)
+
+
 def run_batches(
     kind: Kind,
     items: list[dict],
@@ -83,7 +106,7 @@ def run_batches(
         batch = items[start : start + batch_size]
         out = out_dir / f"batch_{idx:03d}.json"
         err = out_dir / f"batch_{idx:03d}.error.txt"
-        if out.exists():
+        if out.exists() and _is_done(kind, batch, out):
             report.skipped += 1
             continue
         prompt = render_prompt(batch)
@@ -96,12 +119,17 @@ def run_batches(
                 result = _validate(kind, batch, raw, model)
                 break
             except (ValueError, ValidationError, subprocess.SubprocessError, OSError, KeyError) as e:
-                log.append(f"--- attempt {attempt} ---\nERROR: {e}\nRAW:\n{raw}\n")
+                diag = ""
+                if isinstance(e, subprocess.CalledProcessError):
+                    diag = f"STDERR:\n{e.stderr}\nSTDOUT:\n{e.stdout}\n"
+                log.append(f"--- attempt {attempt} ---\nERROR: {e}\n{diag}RAW:\n{raw}\n")
         if result is None:
             err.write_text("\n".join(log), encoding="utf-8")
             report.failed.append(idx)
             continue
-        out.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        tmp = out.with_suffix(".json.tmp")
+        tmp.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        os.replace(tmp, out)
         err.unlink(missing_ok=True)
         report.done += 1
     return report
