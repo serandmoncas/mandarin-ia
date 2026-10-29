@@ -1,4 +1,8 @@
 import { z } from "zod";
+import type { Status } from "./visibility";
+
+export { isVisible } from "./visibility";
+export type { Status } from "./visibility";
 
 // Mirrors the dictionary.json contract written by the Python pipeline.
 // Objects are strict so contract drift (extra/misspelled keys) fails the parse.
@@ -14,7 +18,7 @@ export const MISSION_IDS = [
   "emergencies",
 ] as const;
 
-const StatusSchema = z.enum(STATUSES);
+const StatusSchema: z.ZodType<Status> = z.enum(STATUSES);
 const MissionIdSchema = z.enum(MISSION_IDS);
 const ToneSchema = z.number().int().min(1).max(5);
 
@@ -89,13 +93,10 @@ export const DictionarySchema = z
   })
   .strict();
 
-export type Status = z.infer<typeof StatusSchema>;
 export type Dictionary = z.infer<typeof DictionarySchema>;
 export type WordEntry = z.infer<typeof WordEntrySchema>;
 export type PhraseEntry = z.infer<typeof PhraseEntrySchema>;
 export type CharacterInfo = z.infer<typeof CharacterInfoSchema>;
-
-/** Only checked content is shown or indexed by the app. */
-export function isVisible(e: { status: Status }): boolean {
-  return e.status === "auto_checked" || e.status === "human_reviewed";
-}
+export type Syllable = z.infer<typeof SyllableSchema>;
+export type AudioRef = z.infer<typeof AudioRefSchema>;
+export type MissionId = (typeof MISSION_IDS)[number];

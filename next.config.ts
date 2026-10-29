@@ -1,9 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
   cacheComponents: true,
   partialPrefetching: true,
+  // The dictionary is read at request time (e.g. home pagination) from a configurable path.
+  outputFileTracingIncludes: {
+    "/*": ["data/dictionary.json", "data/fixtures/*.json"],
+  },
   turbopack: {
     rules: {
       "*.css": {

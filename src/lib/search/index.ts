@@ -1,4 +1,5 @@
-import { isVisible, type Dictionary } from "../dictionary/schema";
+import type { Dictionary } from "../dictionary/schema";
+import { isVisible } from "../dictionary/visibility";
 import { normalizeForSearch } from "../pinyin";
 
 export type SearchDoc = {
