@@ -29,8 +29,10 @@ describe("searchEntries", () => {
     expect(searchEntries(index, q)[0]?.id).toBe("你好");
   });
 
-  it("finds by Spanish word", () => {
-    expect(searchEntries(index, "hola").map((d) => d.id)).toContain("phrase:introductions:000");
+  it("finds by Spanish word, ranking the word ahead of phrases", () => {
+    const ids = searchEntries(index, "hola").map((d) => d.id);
+    expect(ids[0]).toBe("你好");
+    expect(ids).toContain("phrase:introductions:000");
     expect(searchEntries(index, "saludo")[0]?.id).toBe("你好");
   });
 
@@ -76,7 +78,7 @@ describe("buildSearchIndex display fields", () => {
   it("carries tone-marked pinyin and the first meaning for words", () => {
     const doc = index.find((d) => d.id === "你好");
     expect(doc?.pinyin).toBe("nǐ hǎo");
-    expect(doc?.gloss).toBe("saludo");
+    expect(doc?.gloss).toBe("hola");
   });
 
   it("carries pinyin and the Spanish text for phrases", () => {

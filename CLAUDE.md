@@ -1,5 +1,7 @@
 # CLAUDE.md
 
+@AGENTS.md
+
 ## Propósito
 
 mandarin-ia es una PWA en español para aprender mandarín (vocabulario por frecuencia,
@@ -24,8 +26,14 @@ Plan de la fase 1: `docs/superpowers/plans/2026-10-29-fase-1-diccionario.md`
 ## Comandos
 
 ```bash
-npm run dev                                              # servidor de desarrollo
+DICTIONARY_PATH=data/fixtures/dictionary.sample.json npm run dev     # desarrollo con el fixture
+DICTIONARY_PATH=data/fixtures/dictionary.sample.json npm run build   # build con el fixture
 npm test                                                 # tests (vitest, solo src/)
+npm run lint                                             # eslint
 uv run --directory scripts pytest                        # tests del pipeline
 uv run --directory scripts python -m mandarin_pipeline <cmd>   # ejecutar el pipeline
 ```
+
+La app lee `data/dictionary.json` salvo que `DICTIONARY_PATH` indique otra ruta. Hasta la
+primera ejecución real del pipeline (`generate` → `review` → `build`) ese archivo no
+existe: usa `DICTIONARY_PATH=data/fixtures/dictionary.sample.json` (lo regenera `pytest`).

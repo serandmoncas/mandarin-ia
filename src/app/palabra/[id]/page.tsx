@@ -4,13 +4,15 @@ import { AudioButton } from "@/components/AudioButton";
 import { PinyinText } from "@/components/PinyinText";
 import { getDictionary } from "@/lib/dictionary/get";
 import type { CharacterInfo, WordEntry } from "@/lib/dictionary/schema";
+import { wordStaticParams } from "@/lib/routes";
 
 // Every visible word is prerendered via generateStaticParams, so only unknown ids reach a
 // request-time render. Those must block (not stream) so notFound() yields a real 404 status.
 export const instant = false;
 
 export function generateStaticParams() {
-  return getDictionary().words.map((w) => ({ id: w.id }));
+  // Zero visible words -> one placeholder param that 404s (an empty list fails the build).
+  return wordStaticParams(getDictionary().words);
 }
 
 /** Route params may arrive percent-encoded (non-ASCII ids); decode defensively. */
@@ -69,8 +71,8 @@ export default async function WordPage({ params }: PageProps<"/palabra/[id]">) {
           Significados
         </h2>
         <ol className="list-decimal space-y-1 pl-6 text-lg">
-          {word.meaningsEs.map((m) => (
-            <li key={m}>{m}</li>
+          {word.meaningsEs.map((m, i) => (
+            <li key={`${i}-${m}`}>{m}</li>
           ))}
         </ol>
         <p className="flex gap-2 text-sm text-subtle">
@@ -85,8 +87,8 @@ export default async function WordPage({ params }: PageProps<"/palabra/[id]">) {
             Ejemplos
           </h2>
           <ul className="flex flex-col gap-3">
-            {word.examples.map((ex) => (
-              <li key={ex.zh} className="flex flex-col gap-1 rounded-2xl border border-line bg-surface p-4">
+            {word.examples.map((ex, i) => (
+              <li key={`${i}-${ex.zh}`} className="flex flex-col gap-1 rounded-2xl border border-line bg-surface p-4">
                 <p lang="zh-CN" className="font-hanzi text-2xl">
                   {ex.zh}
                 </p>
