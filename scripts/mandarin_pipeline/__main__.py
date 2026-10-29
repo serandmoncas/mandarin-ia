@@ -1,10 +1,22 @@
 """CLI entry point: python -m mandarin_pipeline <command>."""
 import argparse
+import json
 from pathlib import Path
 
 from mandarin_pipeline.cedict import parse_cedict
+from mandarin_pipeline.generate import (
+    build_char_items,
+    build_phrase_items,
+    build_word_items,
+    claude_runner,
+    make_char_renderer,
+    make_phrase_renderer,
+    make_word_renderer,
+    run_batches,
+)
 from mandarin_pipeline.frequency import top_frequency_words, word_frequency
 from mandarin_pipeline.hsk import load_hsk
+from mandarin_pipeline.models import CharContent, PhraseContent, WordContent
 from mandarin_pipeline.order import learning_order, select_candidates, write_candidates
 from mandarin_pipeline.sources import download_sources
 
@@ -40,10 +52,32 @@ def _candidates(args: argparse.Namespace) -> None:
     print(f"Written to {out}")
 
 
+def _generate(args: argparse.Namespace) -> None:
+    candidates = json.loads((ROOT / "data" / "candidates.json").read_text(encoding="utf-8"))
+    out_dir = ROOT / "data" / "generated" / args.kind
+    if args.kind == "words":
+        with open(SOURCES_DIR / "cedict_ts.txt", encoding="utf-8") as f:
+            cedict = parse_cedict(f)
+        all_items = build_word_items(candidates, cedict)
+        items = all_items[: args.limit]
+        render, model, size = make_word_renderer(all_items), WordContent, 20
+    elif args.kind == "chars":
+        items = build_char_items(candidates)[: args.limit]
+        render, model, size = make_char_renderer(), CharContent, 30
+    else:
+        items = build_phrase_items()[: args.limit]
+        render, model, size = make_phrase_renderer(), PhraseContent, 1
+    report = run_batches(args.kind, items, render, model, claude_runner, out_dir, batch_size=size)
+    print(f"{args.kind}: {len(items)} items; done={report.done} skipped={report.skipped} failed={report.failed}")
+    if report.failed:
+        print(f"See *.error.txt in {out_dir}")
+
+
 # Register subcommands here: name -> (help, handler)
 COMMANDS = {
     "download": ("Download CC-CEDICT and the HSK list", _download),
     "candidates": ("Compute candidates and learning order", _candidates),
+    "generate": ("Generate AI content in resumable batches with claude -p", _generate),
 }
 
 
@@ -51,7 +85,11 @@ def main(argv: list[str] | None = None) -> None:
     parser = argparse.ArgumentParser(prog="mandarin_pipeline")
     sub = parser.add_subparsers(dest="command", required=True)
     for name, (help_text, handler) in COMMANDS.items():
-        sub.add_parser(name, help=help_text).set_defaults(handler=handler)
+        p = sub.add_parser(name, help=help_text)
+        p.set_defaults(handler=handler)
+        if name == "generate":
+            p.add_argument("kind", choices=["words", "chars", "phrases"])
+            p.add_argument("--limit", type=int, default=None, help="Process only the first N items")
     args = parser.parse_args(argv)
     args.handler(args)
 
