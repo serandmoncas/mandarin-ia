@@ -1,0 +1,170 @@
+[
+  {
+    "id": "word:容易",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27a783b6a9b9d1ee5c815d756c2c5640ec04149d"
+  },
+  {
+    "id": "word:实际",
+    "ok": true,
+    "issues": [],
+    "content_hash": "52256366895270f8731d18c676e2c5dce117f59d"
+  },
+  {
+    "id": "word:消息",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e1fb4599d8698eea33d9b3528a39aaff8962225"
+  },
+  {
+    "id": "word:永远",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80626c8a8de980aa46a85f7ebf6e5c7ae8c2ba1b"
+  },
+  {
+    "id": "word:重点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc5031923240ab511670a313b85095e2a3665db9"
+  },
+  {
+    "id": "word:些",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 吃得 debe ser «chī de» (partícula estructural), no «chī dé»."
+    ],
+    "content_hash": "d90b337e2c6c5e4b678dbee40af265d438d5dbc8"
+  },
+  {
+    "id": "word:权力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0aff22d68ace6613e8256efd2fd80703b057bc11"
+  },
+  {
+    "id": "word:然而",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f007ca14caabdd77f16a509ab56eb19bf4c2d72"
+  },
+  {
+    "id": "word:看看",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin estándar de 照片 es «zhào piàn», no «zhào piān»."
+    ],
+    "content_hash": "cb06339472c3cf766d589ec41edfb43e903cfea5"
+  },
+  {
+    "id": "word:考虑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ea996330d5dd80ef02ce193b893c96461c3a270"
+  },
+  {
+    "id": "word:按",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5f9c4d7c8dac0636676051ad6ce830291ee95b8a"
+  },
+  {
+    "id": "word:变成",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: para decir que alguien llegó a ser médico al crecer, lo natural es 成为 o 成了. 变成 sugiere una transformación y suena forzado."
+    ],
+    "content_hash": "cf8f096c66cf3dd2deee51c090c8e4a0ef363602"
+  },
+  {
+    "id": "word:里面",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 东西 con el sentido de «cosas» se lee «dōng xi» (tono neutro). «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "fb6697f2ca4ca37e85dbe840e7ce173d07c204cc"
+  },
+  {
+    "id": "word:另外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "71571358194674207c05e58ea5b28438df82dbac"
+  },
+  {
+    "id": "word:美元",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24404ff8dc374221f7d963e5be49fdf1e88138a0"
+  },
+  {
+    "id": "word:设备",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8962de76c33dee81482c0a4d45b6e6c53b06ae9b"
+  },
+  {
+    "id": "word:声音",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 一点儿 se transcribe «yì diǎnr». Aquí 儿 es erhua y no forma una sílaba «ér» independiente."
+    ],
+    "content_hash": "6d319b1c3e8fba7cd51c91626ac0c4a6fa6f9a9a"
+  },
+  {
+    "id": "word:线",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: 长 con el sentido de «largo» se lee «cháng», no «zhǎng».",
+      "Ejemplo 4: 得 con el sentido de «tener que» se lee «děi», no «dé»."
+    ],
+    "content_hash": "54de139f221b5479130dd46001b071dd9a51f334"
+  },
+  {
+    "id": "word:相当",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin de 说得 debe ser «shuō de» (partícula estructural), no «shuō dé»."
+    ],
+    "content_hash": "ef29a6aa60b4cbc1a6687d6d2df398a9e846c9b0"
+  },
+  {
+    "id": "word:应用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7af3c7cd9e49c2286815f1e96c05e73ec5a89fd2"
+  },
+  {
+    "id": "word:终于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6673dbb6586654aecfece424cc4bbfc825a74878"
+  },
+  {
+    "id": "word:足球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7858194a206e1521caeaf1f8f84f8652af1a01ac"
+  },
+  {
+    "id": "word:位于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "212431fbba7bb8dce8821d72fe5179495db6bdc2"
+  },
+  {
+    "id": "word:免费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "217a031decc8ee03494638de8a0d9611fb67463d"
+  },
+  {
+    "id": "word:印度",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 长 con el sentido de «largo» se lee «cháng», no «zhǎng».",
+      "Ejemplo 4: 历史很长 es aceptable, pero lo más natural es 历史悠久."
+    ],
+    "content_hash": "43591a1d7b4c727c83202a8c2a9b6d32bf73d182"
+  }
+]

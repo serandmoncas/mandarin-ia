@@ -1,0 +1,170 @@
+[
+  {
+    "id": "word:欢迎",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63213f92044ed5103a102b754c1a1abfadc39dd3"
+  },
+  {
+    "id": "word:仅",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5da3978baa38cf1e0a8dd1db5fed6f9d93645576"
+  },
+  {
+    "id": "word:进一步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b79b9923504e5f7869ce7e6de2cf8d72d9badb9"
+  },
+  {
+    "id": "word:经历",
+    "ok": true,
+    "issues": [],
+    "content_hash": "54e5009bf33677f901e157d4b98648aafa6b22eb"
+  },
+  {
+    "id": "word:卖",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 卖得 debe ser «mài de» (partícula 得 en tono neutro), no «mài dé»."
+    ],
+    "content_hash": "55ec75ff2fdd000037b6cd6d65cf9ced2e529eb5"
+  },
+  {
+    "id": "word:农民",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a06f7a1608dc85cdcc10ce9792ff068c5c0ad76f"
+  },
+  {
+    "id": "word:失去",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 都 en «一切都会» se lee «dōu», no «dū»."
+    ],
+    "content_hash": "e6954d397c000fd4ed1350e178318ea9c0e5f03b"
+  },
+  {
+    "id": "word:下来",
+    "ok": false,
+    "issues": [
+      "El significado «dejar registrado (tras un verbo)» es demasiado estrecho: tras un verbo, 下来 indica que una acción se completa o queda fija (停下来, 留下来), no solo que algo se registra.",
+      "El ejemplo 4 (天黑下来) usa el sentido de inicio de un cambio de estado, que no aparece en los significados."
+    ],
+    "content_hash": "e8c2f549845909d8e38879cddb531d85e6faefb9"
+  },
+  {
+    "id": "word:形式",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4 poco natural: «以电影的形式介绍给了大家» suena forzado; lo habitual es «被改编成电影» o «以电影的形式呈现给观众»."
+    ],
+    "content_hash": "e0a6695a59caa6f646d9b919157866f80c651c0c"
+  },
+  {
+    "id": "word:真实",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 拍得 debe ser «pāi de» (得 en tono neutro), no «pāi dé»."
+    ],
+    "content_hash": "39a7ec1e7ff9b97e5f839d5a87d4bd4b97515f6d"
+  },
+  {
+    "id": "word:至少",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0817b8164df35de908a017b979bb0f648d243080"
+  },
+  {
+    "id": "word:状态",
+    "ok": true,
+    "issues": [],
+    "content_hash": "23a0dc1cc1293b47629f9667707aade5f391eea4"
+  },
+  {
+    "id": "word:内部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "95db48ac69b36a0e2b8f691429ddcef8e5684a36"
+  },
+  {
+    "id": "word:减少",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed7c86751f500f4c8a9484a5e5b2076297cac991"
+  },
+  {
+    "id": "word:女孩",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3cfe2dd7e5fc667276729f0786a88c523c91c1aa"
+  },
+  {
+    "id": "word:攻击",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e53e5fa3fd125ceb38b52d011b257e5cf94e5553"
+  },
+  {
+    "id": "word:规模",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 的 debe ser «de», no «dì».",
+      "Ejemplo 4: con 规模 la colocación natural es «缩小规模»; «减少规模» es menos idiomático."
+    ],
+    "content_hash": "1f80b35841cbed69008c9bd38c4117ef632fc25f"
+  },
+  {
+    "id": "word:部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51f0c3872354d3d632668358003adc642250127e"
+  },
+  {
+    "id": "word:采取",
+    "ok": false,
+    "issues": [
+      "El significado «tomar (una decisión…)» es engañoso: 采取 no se combina con 决定 (se dice 做出决定). Se usa con 措施, 行动, 政策 y 方法."
+    ],
+    "content_hash": "fc691018d5cc79830a3a461405fe4a82b6d5ccdb"
+  },
+  {
+    "id": "word:动物",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b701e9c514e96a80c08c80d92df5c190c1d8d576"
+  },
+  {
+    "id": "word:反应",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9ccd4343bcf672d2c30685d1200d94527ab475e"
+  },
+  {
+    "id": "word:黄",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ee8c27006d4f7dc7f1df8b3bcfdbef75f83e49e6"
+  },
+  {
+    "id": "word:积极",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: la partícula adverbial 地 se lee «de», no «dì»."
+    ],
+    "content_hash": "cf464a20981d62a2fcb214f84bc29302909fee6d"
+  },
+  {
+    "id": "word:交易",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2ef91ab4a85f72ff25e7c2a8a609ebcd16d178e"
+  },
+  {
+    "id": "word:经常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0760c0640aa2d50b9bd37c229aa2478e1e7a404d"
+  }
+]

@@ -1,0 +1,544 @@
+[
+  {
+    "word": "提出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "proponer",
+      "plantear",
+      "presentar (una solicitud, una idea)",
+      "sacar (dinero)"
+    ],
+    "examples": [
+      {
+        "zh": "他提出了一个问题。",
+        "es": "Él planteó una pregunta."
+      },
+      {
+        "zh": "你可以提出你的要求。",
+        "es": "Puedes presentar tus peticiones."
+      },
+      {
+        "zh": "老师提出了一个新的计划。",
+        "es": "El maestro propuso un plan nuevo."
+      },
+      {
+        "zh": "在会议上，公司提出了很多重要的问题。",
+        "es": "En la reunión, la empresa planteó muchos asuntos importantes."
+      }
+    ]
+  },
+  {
+    "word": "白",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "blanco",
+      "en vano",
+      "gratis",
+      "claro, evidente"
+    ],
+    "examples": [
+      {
+        "zh": "我的手机是白的。",
+        "es": "Mi celular es blanco."
+      },
+      {
+        "zh": "她今天穿了一件白衣服。",
+        "es": "Hoy ella se puso una prenda blanca."
+      },
+      {
+        "zh": "你别白等了，他不会来了。",
+        "es": "No esperes en vano, él no va a venir."
+      },
+      {
+        "zh": "我们去了三次，都白去了，他不在家。",
+        "es": "Fuimos tres veces y todas fueron en vano: no estaba en casa."
+      }
+    ]
+  },
+  {
+    "word": "衣服",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ropa",
+      "prenda de vestir"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的衣服。",
+        "es": "Esta es mi ropa."
+      },
+      {
+        "zh": "我想买新衣服。",
+        "es": "Quiero comprar ropa nueva."
+      },
+      {
+        "zh": "今天很热，你穿的衣服太多了。",
+        "es": "Hoy hace mucho calor; traes demasiada ropa."
+      },
+      {
+        "zh": "妈妈每天晚上都帮孩子准备第二天的衣服。",
+        "es": "Todas las noches, mamá le prepara al niño la ropa del día siguiente."
+      }
+    ]
+  },
+  {
+    "word": "一点",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un poco",
+      "algo de",
+      "(en negación) nada en absoluto",
+      "la una (en punto)"
+    ],
+    "examples": [
+      {
+        "zh": "我会说一点中文。",
+        "es": "Hablo un poco de chino."
+      },
+      {
+        "zh": "请你快一点！",
+        "es": "¡Por favor, apúrate un poco!"
+      },
+      {
+        "zh": "这个比那个大一点。",
+        "es": "Este es un poco más grande que aquel."
+      },
+      {
+        "zh": "他一点钱也没有，所以不能买车。",
+        "es": "Él no tiene nada de dinero, así que no puede comprar un carro."
+      }
+    ]
+  },
+  {
+    "word": "民主",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "democracia",
+      "democrático"
+    ],
+    "examples": [
+      {
+        "zh": "他们想要民主。",
+        "es": "Ellos quieren democracia."
+      },
+      {
+        "zh": "这个国家很民主吗？",
+        "es": "¿Este país es muy democrático?"
+      },
+      {
+        "zh": "民主和自由对人民很重要。",
+        "es": "La democracia y la libertad son muy importantes para el pueblo."
+      },
+      {
+        "zh": "很多人认为，没有民主就没有真正的自由。",
+        "es": "Mucha gente piensa que sin democracia no hay verdadera libertad."
+      }
+    ]
+  },
+  {
+    "word": "毛",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pelo, vello",
+      "pluma",
+      "lana",
+      "décimo de yuan (moneda)"
+    ],
+    "examples": [
+      {
+        "zh": "这个东西五毛钱。",
+        "es": "Esta cosa cuesta cinco décimos de yuan."
+      },
+      {
+        "zh": "这只狗的毛是白的。",
+        "es": "El pelo de este perro es blanco."
+      },
+      {
+        "zh": "这个本子三块五毛钱。",
+        "es": "Este cuaderno cuesta tres yuanes con cincuenta."
+      },
+      {
+        "zh": "我身上有很多狗毛，因为我的狗很喜欢我。",
+        "es": "Tengo mucho pelo de perro encima, porque mi perro me quiere mucho."
+      }
+    ]
+  },
+  {
+    "word": "甚至",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "incluso",
+      "hasta",
+      "al grado de que"
+    ],
+    "examples": [
+      {
+        "zh": "他甚至不知道我的名字。",
+        "es": "Él ni siquiera sabe mi nombre."
+      },
+      {
+        "zh": "她很忙，甚至没有时间吃饭。",
+        "es": "Ella está tan ocupada que ni siquiera tiene tiempo para comer."
+      },
+      {
+        "zh": "这个问题很难，甚至老师也不会。",
+        "es": "Este problema es muy difícil; ni siquiera el maestro sabe resolverlo."
+      },
+      {
+        "zh": "他太喜欢这个游戏了，甚至晚上都不睡觉。",
+        "es": "Le gusta tanto este juego que hasta deja de dormir por las noches."
+      }
+    ]
+  },
+  {
+    "word": "忘记",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "olvidar",
+      "olvidarse de"
+    ],
+    "examples": [
+      {
+        "zh": "我忘记了。",
+        "es": "Se me olvidó."
+      },
+      {
+        "zh": "别忘记带手机。",
+        "es": "No olvides llevar el celular."
+      },
+      {
+        "zh": "他忘记告诉妈妈今天不回家。",
+        "es": "Se le olvidó decirle a su mamá que hoy no volvía a casa."
+      },
+      {
+        "zh": "虽然过去很多年了，我还是没有忘记她。",
+        "es": "Aunque han pasado muchos años, todavía no la he olvidado."
+      }
+    ]
+  },
+  {
+    "word": "当然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "claro",
+      "por supuesto",
+      "naturalmente",
+      "desde luego"
+    ],
+    "examples": [
+      {
+        "zh": "当然可以！",
+        "es": "¡Claro que sí!"
+      },
+      {
+        "zh": "我当然知道。",
+        "es": "Por supuesto que lo sé."
+      },
+      {
+        "zh": "你是我的朋友，我当然会帮你。",
+        "es": "Eres mi amigo; claro que te voy a ayudar."
+      },
+      {
+        "zh": "他学了三年中文，当然能听懂这些话。",
+        "es": "Estudió chino tres años, así que naturalmente entiende estas frases."
+      }
+    ]
+  },
+  {
+    "word": "爸爸",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "papá",
+      "padre"
+    ],
+    "examples": [
+      {
+        "zh": "这是我爸爸。",
+        "es": "Este es mi papá."
+      },
+      {
+        "zh": "我爸爸是医生。",
+        "es": "Mi papá es médico."
+      },
+      {
+        "zh": "爸爸每天早上开车去公司。",
+        "es": "Papá maneja a la empresa todas las mañanas."
+      },
+      {
+        "zh": "我小时候，爸爸常常带我去北京看朋友。",
+        "es": "Cuando era niño, mi papá me llevaba seguido a Pekín a visitar amigos."
+      }
+    ]
+  },
+  {
+    "word": "过程",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "proceso",
+      "transcurso",
+      "desarrollo (de los hechos)"
+    ],
+    "examples": [
+      {
+        "zh": "学习是一个过程。",
+        "es": "Aprender es un proceso."
+      },
+      {
+        "zh": "这个过程很长。",
+        "es": "Este proceso es muy largo."
+      },
+      {
+        "zh": "请告诉我事情发生的过程。",
+        "es": "Por favor, cuéntame cómo ocurrieron las cosas."
+      },
+      {
+        "zh": "在学习中文的过程中，我认识了很多新朋友。",
+        "es": "Mientras aprendía chino, conocí a muchos amigos nuevos."
+      }
+    ]
+  },
+  {
+    "word": "小姐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "señorita",
+      "joven (mujer)",
+      "(argot) prostituta"
+    ],
+    "examples": [
+      {
+        "zh": "小姐，你好！",
+        "es": "¡Hola, señorita!"
+      },
+      {
+        "zh": "王小姐是我的老师。",
+        "es": "La señorita Wang es mi maestra."
+      },
+      {
+        "zh": "小姐，请问这个多少钱？",
+        "es": "Señorita, disculpe, ¿cuánto cuesta esto?"
+      },
+      {
+        "zh": "李小姐明天要坐飞机去上海开会。",
+        "es": "Mañana la señorita Li va a tomar un avión a Shanghái para una reunión."
+      }
+    ]
+  },
+  {
+    "word": "事件",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "incidente",
+      "suceso",
+      "acontecimiento"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个重要事件。",
+        "es": "Este es un acontecimiento importante."
+      },
+      {
+        "zh": "这个事件发生在去年。",
+        "es": "Este incidente ocurrió el año pasado."
+      },
+      {
+        "zh": "这个事件影响了很多人。",
+        "es": "Este suceso afectó a mucha gente."
+      },
+      {
+        "zh": "到现在，政府还没有告诉人民这个事件的情况。",
+        "es": "Hasta ahora, el gobierno no le ha informado al pueblo sobre este incidente."
+      }
+    ]
+  },
+  {
+    "word": "一边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mientras (hace dos cosas a la vez)",
+      "a un lado",
+      "un lado"
+    ],
+    "examples": [
+      {
+        "zh": "请你站到一边。",
+        "es": "Por favor, hazte a un lado."
+      },
+      {
+        "zh": "他一边吃一边看电视。",
+        "es": "Él come mientras ve la tele."
+      },
+      {
+        "zh": "我喜欢一边走路一边说话。",
+        "es": "Me gusta platicar mientras camino."
+      },
+      {
+        "zh": "她一边工作一边学习，所以每天都很忙。",
+        "es": "Ella trabaja y estudia al mismo tiempo, así que todos los días está muy ocupada."
+      }
+    ]
+  },
+  {
+    "word": "机构",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "organismo",
+      "institución",
+      "organización",
+      "mecanismo"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个国际机构。",
+        "es": "Este es un organismo internacional."
+      },
+      {
+        "zh": "他在政府机构工作。",
+        "es": "Él trabaja en una institución del gobierno."
+      },
+      {
+        "zh": "这个机构为孩子提供服务。",
+        "es": "Esta organización ofrece servicios para niños."
+      },
+      {
+        "zh": "很多机构都在研究怎么保护环境。",
+        "es": "Muchas instituciones están investigando cómo proteger el medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "病",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enfermedad",
+      "enfermarse",
+      "defecto, falla"
+    ],
+    "examples": [
+      {
+        "zh": "他病了。",
+        "es": "Él se enfermó."
+      },
+      {
+        "zh": "你的病好了吗？",
+        "es": "¿Ya te recuperaste de tu enfermedad?"
+      },
+      {
+        "zh": "医生说他的病不重。",
+        "es": "El médico dijo que su enfermedad no es grave."
+      },
+      {
+        "zh": "她病了三天，所以没有去学校参加考试。",
+        "es": "Estuvo enferma tres días, así que no fue a la escuela a presentar el examen."
+      }
+    ]
+  },
+  {
+    "word": "法律",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ley",
+      "derecho (disciplina)",
+      "legal, jurídico"
+    ],
+    "examples": [
+      {
+        "zh": "我们要学习法律。",
+        "es": "Tenemos que estudiar las leyes."
+      },
+      {
+        "zh": "他在大学学法律。",
+        "es": "Él estudia derecho en la universidad."
+      },
+      {
+        "zh": "法律保护每个人的自由。",
+        "es": "La ley protege la libertad de cada persona."
+      },
+      {
+        "zh": "根据中国的法律，十八岁以上才可以开车。",
+        "es": "Según la ley china, solo se puede manejar a partir de los dieciocho años."
+      }
+    ]
+  },
+  {
+    "word": "飞",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "volar",
+      "ir en avión"
+    ],
+    "examples": [
+      {
+        "zh": "鸟在天上飞。",
+        "es": "Los pájaros vuelan en el cielo."
+      },
+      {
+        "zh": "我明天飞上海。",
+        "es": "Mañana vuelo a Shanghái."
+      },
+      {
+        "zh": "从北京飞到香港要几个小时？",
+        "es": "¿Cuántas horas se tarda en volar de Pekín a Hong Kong?"
+      },
+      {
+        "zh": "他每个月都要飞去美国，因为他的公司在那里。",
+        "es": "Cada mes tiene que volar a Estados Unidos, porque su empresa está allá."
+      }
+    ]
+  },
+  {
+    "word": "玩",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jugar",
+      "divertirse",
+      "pasear, ir de visita",
+      "juguete"
+    ],
+    "examples": [
+      {
+        "zh": "我们去玩吧！",
+        "es": "¡Vamos a divertirnos!"
+      },
+      {
+        "zh": "孩子们在外面玩。",
+        "es": "Los niños están jugando afuera."
+      },
+      {
+        "zh": "你喜欢玩电脑游戏吗？",
+        "es": "¿Te gusta jugar videojuegos en la computadora?"
+      },
+      {
+        "zh": "明年夏天，我想跟朋友一起去日本玩。",
+        "es": "El próximo verano quiero ir de paseo a Japón con mis amigos."
+      }
+    ]
+  },
+  {
+    "word": "忙",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ocupado",
+      "estar ocupado en algo",
+      "apurarse"
+    ],
+    "examples": [
+      {
+        "zh": "我很忙。",
+        "es": "Estoy muy ocupado."
+      },
+      {
+        "zh": "你今天忙吗？",
+        "es": "¿Estás ocupado hoy?"
+      },
+      {
+        "zh": "他忙着准备明天的考试。",
+        "es": "Está ocupado preparando el examen de mañana."
+      },
+      {
+        "zh": "最近工作太忙了，我已经很久没有回家了。",
+        "es": "Últimamente he tenido demasiado trabajo; hace mucho que no voy a casa."
+      }
+    ]
+  }
+]

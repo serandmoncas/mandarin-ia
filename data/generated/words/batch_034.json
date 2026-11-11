@@ -1,0 +1,532 @@
+[
+  {
+    "word": "真正",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "verdadero",
+      "auténtico",
+      "realmente"
+    ],
+    "examples": [
+      {
+        "zh": "他是我真正的朋友。",
+        "es": "Él es mi verdadero amigo."
+      },
+      {
+        "zh": "这才是真正的问题。",
+        "es": "Este es el verdadero problema."
+      },
+      {
+        "zh": "我现在才真正明白你的话。",
+        "es": "Apenas ahora entiendo realmente lo que dijiste."
+      },
+      {
+        "zh": "真正的朋友会在你需要的时候帮你。",
+        "es": "Un verdadero amigo te ayuda cuando lo necesitas."
+      }
+    ]
+  },
+  {
+    "word": "床",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cama",
+      "lecho (de un río o del mar)",
+      "clasificador para cobijas y edredones"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的床。",
+        "es": "Esta es mi cama."
+      },
+      {
+        "zh": "我的床很大。",
+        "es": "Mi cama es muy grande."
+      },
+      {
+        "zh": "孩子还在床上睡觉。",
+        "es": "El niño todavía está durmiendo en la cama."
+      },
+      {
+        "zh": "他每天晚上十点就上床睡觉。",
+        "es": "Él se acuesta todas las noches a las diez."
+      }
+    ]
+  },
+  {
+    "word": "分析",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "analizar",
+      "análisis"
+    ],
+    "examples": [
+      {
+        "zh": "我们来分析一下。",
+        "es": "Analicemos un poco."
+      },
+      {
+        "zh": "他的分析很好。",
+        "es": "Su análisis es muy bueno."
+      },
+      {
+        "zh": "老师让我们分析这个问题。",
+        "es": "El maestro nos pidió analizar este problema."
+      },
+      {
+        "zh": "我们需要先分析原因，然后再决定怎么做。",
+        "es": "Necesitamos analizar primero las causas y luego decidir qué hacer."
+      }
+    ]
+  },
+  {
+    "word": "开车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "manejar (un auto)",
+      "conducir"
+    ],
+    "examples": [
+      {
+        "zh": "我会开车。",
+        "es": "Sé manejar."
+      },
+      {
+        "zh": "爸爸开车去上班。",
+        "es": "Papá va manejando al trabajo."
+      },
+      {
+        "zh": "开车的时候不要打电话。",
+        "es": "No hables por teléfono mientras manejas."
+      },
+      {
+        "zh": "他开车送我去机场，所以我没坐火车。",
+        "es": "Él me llevó en auto al aeropuerto, así que no tomé el tren."
+      }
+    ]
+  },
+  {
+    "word": "制",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sistema; régimen",
+      "controlar; restringir",
+      "elaborar; fabricar"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个三年制的学校。",
+        "es": "Esta es una escuela con un plan de tres años."
+      },
+      {
+        "zh": "这个大学是四年制的。",
+        "es": "Esta universidad tiene un plan de cuatro años."
+      },
+      {
+        "zh": "我们公司是八小时工作制。",
+        "es": "En nuestra empresa la jornada laboral es de ocho horas."
+      },
+      {
+        "zh": "政府制定了新的政策来保护环境。",
+        "es": "El gobierno elaboró una nueva política para proteger el medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "哪儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dónde",
+      "a dónde",
+      "cualquier lugar",
+      "¿cómo va a…? (en preguntas retóricas)"
+    ],
+    "examples": [
+      {
+        "zh": "你去哪儿？",
+        "es": "¿A dónde vas?"
+      },
+      {
+        "zh": "你家在哪儿？",
+        "es": "¿Dónde está tu casa?"
+      },
+      {
+        "zh": "我的手机不知道放哪儿了。",
+        "es": "No sé dónde dejé mi celular."
+      },
+      {
+        "zh": "你想去哪儿都可以，我跟你一起去。",
+        "es": "Puedes ir a donde quieras; yo voy contigo."
+      }
+    ]
+  },
+  {
+    "word": "投资",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "invertir",
+      "inversión"
+    ],
+    "examples": [
+      {
+        "zh": "他喜欢投资。",
+        "es": "A él le gusta invertir."
+      },
+      {
+        "zh": "这是一个很好的投资。",
+        "es": "Es una muy buena inversión."
+      },
+      {
+        "zh": "很多外国公司在中国投资。",
+        "es": "Muchas empresas extranjeras invierten en China."
+      },
+      {
+        "zh": "投资之前，你应该先了解这个市场。",
+        "es": "Antes de invertir, deberías conocer bien este mercado."
+      }
+    ]
+  },
+  {
+    "word": "下次",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la próxima vez"
+    ],
+    "examples": [
+      {
+        "zh": "下次见！",
+        "es": "¡Hasta la próxima!"
+      },
+      {
+        "zh": "下次我请你吃饭。",
+        "es": "La próxima vez yo te invito a comer."
+      },
+      {
+        "zh": "下次你来北京，一定要告诉我。",
+        "es": "La próxima vez que vengas a Pekín, avísame sin falta."
+      },
+      {
+        "zh": "这次没时间了，我们下次再去那家商店吧。",
+        "es": "Esta vez ya no hay tiempo; vamos a esa tienda la próxima vez."
+      }
+    ]
+  },
+  {
+    "word": "期间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "período",
+      "durante (ese tiempo)",
+      "lapso"
+    ],
+    "examples": [
+      {
+        "zh": "考试期间我很忙。",
+        "es": "En época de exámenes estoy muy ocupado."
+      },
+      {
+        "zh": "会议期间请不要打电话。",
+        "es": "Por favor, no hagan llamadas durante la reunión."
+      },
+      {
+        "zh": "在北京期间，他住在朋友家。",
+        "es": "Durante su estancia en Pekín, se quedó en casa de un amigo."
+      },
+      {
+        "zh": "战争期间，很多人离开了自己的家。",
+        "es": "Durante la guerra, mucha gente dejó su hogar."
+      }
+    ]
+  },
+  {
+    "word": "法国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Francia"
+    ],
+    "examples": [
+      {
+        "zh": "他是法国人。",
+        "es": "Él es francés."
+      },
+      {
+        "zh": "我想去法国。",
+        "es": "Quiero ir a Francia."
+      },
+      {
+        "zh": "我姐姐在法国学习艺术。",
+        "es": "Mi hermana mayor estudia arte en Francia."
+      },
+      {
+        "zh": "法国电影和美国电影有很多不同的地方。",
+        "es": "El cine francés y el estadounidense son diferentes en muchos aspectos."
+      }
+    ]
+  },
+  {
+    "word": "记住",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recordar",
+      "tener presente",
+      "memorizar"
+    ],
+    "examples": [
+      {
+        "zh": "我记住了。",
+        "es": "Ya me lo aprendí."
+      },
+      {
+        "zh": "请记住我的名字。",
+        "es": "Por favor, recuerda mi nombre."
+      },
+      {
+        "zh": "这些字你都记住了吗？",
+        "es": "¿Ya memorizaste todos estos caracteres?"
+      },
+      {
+        "zh": "你一定要记住，过马路的时候要看车。",
+        "es": "No olvides fijarte en los autos cuando cruces la calle."
+      }
+    ]
+  },
+  {
+    "word": "帮助",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ayudar",
+      "ayuda",
+      "asistencia"
+    ],
+    "examples": [
+      {
+        "zh": "谢谢你的帮助。",
+        "es": "Gracias por tu ayuda."
+      },
+      {
+        "zh": "他常常帮助别人。",
+        "es": "Él ayuda a los demás con frecuencia."
+      },
+      {
+        "zh": "如果你需要帮助，就给我打电话。",
+        "es": "Si necesitas ayuda, llámame."
+      },
+      {
+        "zh": "这本书对我学习汉语有很大的帮助。",
+        "es": "Este libro me ha ayudado mucho a aprender chino."
+      }
+    ]
+  },
+  {
+    "word": "门口",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrada",
+      "puerta (de un lugar)"
+    ],
+    "examples": [
+      {
+        "zh": "我在门口等你。",
+        "es": "Te espero en la entrada."
+      },
+      {
+        "zh": "学校门口有很多人。",
+        "es": "Hay mucha gente en la entrada de la escuela."
+      },
+      {
+        "zh": "门口站着一个老人。",
+        "es": "En la puerta hay un señor mayor parado."
+      },
+      {
+        "zh": "我到你家门口了，你快出来吧。",
+        "es": "Ya llegué a la puerta de tu casa, sal rápido."
+      }
+    ]
+  },
+  {
+    "word": "并且",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "y además",
+      "además",
+      "asimismo"
+    ],
+    "examples": [
+      {
+        "zh": "她会唱歌，并且唱得很好。",
+        "es": "Ella sabe cantar y, además, canta muy bien."
+      },
+      {
+        "zh": "这个房间很大，并且很干净。",
+        "es": "Esta habitación es grande y además muy limpia."
+      },
+      {
+        "zh": "他找到了工作，并且很喜欢这个工作。",
+        "es": "Encontró trabajo y, además, le gusta mucho."
+      },
+      {
+        "zh": "我们要完成这个项目，并且要做得更好。",
+        "es": "Tenemos que terminar este proyecto y, además, hacerlo mejor."
+      }
+    ]
+  },
+  {
+    "word": "那边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "allá",
+      "allí",
+      "aquel lado"
+    ],
+    "examples": [
+      {
+        "zh": "你看那边！",
+        "es": "¡Mira allá!"
+      },
+      {
+        "zh": "那边有一家商店。",
+        "es": "Allá hay una tienda."
+      },
+      {
+        "zh": "你那边天气怎么样？",
+        "es": "¿Qué tal está el clima por allá?"
+      },
+      {
+        "zh": "公司那边的事情，我明天再去处理。",
+        "es": "Los asuntos de la empresa los resuelvo mañana."
+      }
+    ]
+  },
+  {
+    "word": "饭店",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "restaurante",
+      "hotel"
+    ],
+    "examples": [
+      {
+        "zh": "这家饭店很好。",
+        "es": "Este restaurante es muy bueno."
+      },
+      {
+        "zh": "我们去饭店吃饭吧。",
+        "es": "Vamos a comer a un restaurante."
+      },
+      {
+        "zh": "那家饭店的菜又好吃又不贵。",
+        "es": "La comida de ese restaurante es rica y barata."
+      },
+      {
+        "zh": "我们住的饭店离机场不远，坐车十分钟就到了。",
+        "es": "El hotel donde nos hospedamos está cerca del aeropuerto; en auto se llega en diez minutos."
+      }
+    ]
+  },
+  {
+    "word": "仍",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todavía",
+      "aún",
+      "seguir (igual)"
+    ],
+    "examples": [
+      {
+        "zh": "他仍在工作。",
+        "es": "Él todavía está trabajando."
+      },
+      {
+        "zh": "现在仍有很多问题。",
+        "es": "Todavía hay muchos problemas."
+      },
+      {
+        "zh": "虽然很晚了，他仍在学校学习。",
+        "es": "Aunque ya es tarde, él sigue estudiando en la escuela."
+      },
+      {
+        "zh": "十年过去了，这个城市仍是我最喜欢的地方。",
+        "es": "Han pasado diez años y esta ciudad sigue siendo mi lugar favorito."
+      }
+    ]
+  },
+  {
+    "word": "世纪",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siglo"
+    ],
+    "examples": [
+      {
+        "zh": "现在是二十一世纪。",
+        "es": "Ahora estamos en el siglo XXI."
+      },
+      {
+        "zh": "这个楼已经有一个世纪的历史了。",
+        "es": "Este edificio ya tiene un siglo de historia."
+      },
+      {
+        "zh": "十九世纪的中国发生了很多事情。",
+        "es": "En el siglo XIX pasaron muchas cosas en China."
+      },
+      {
+        "zh": "二十世纪是一个科技快速发展的时代。",
+        "es": "El siglo XX fue una época de rápido desarrollo tecnológico."
+      }
+    ]
+  },
+  {
+    "word": "汉语",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "chino (idioma)",
+      "lengua china"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢汉语。",
+        "es": "Me gusta el chino."
+      },
+      {
+        "zh": "你会说汉语吗？",
+        "es": "¿Sabes hablar chino?"
+      },
+      {
+        "zh": "我的汉语老师是北京人。",
+        "es": "Mi maestro de chino es de Pekín."
+      },
+      {
+        "zh": "学了一年汉语以后，我已经能看懂一些新闻了。",
+        "es": "Después de un año estudiando chino, ya puedo entender algunas noticias."
+      }
+    ]
+  },
+  {
+    "word": "行动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "acción",
+      "actuar",
+      "operación",
+      "moverse"
+    ],
+    "examples": [
+      {
+        "zh": "他行动很快。",
+        "es": "Él actúa muy rápido."
+      },
+      {
+        "zh": "我们马上行动吧。",
+        "es": "Actuemos de inmediato."
+      },
+      {
+        "zh": "这次行动非常成功。",
+        "es": "Esta operación fue todo un éxito."
+      },
+      {
+        "zh": "只说不做没有用，我们要用行动来解决问题。",
+        "es": "Hablar sin hacer nada no sirve; tenemos que resolver los problemas con hechos."
+      }
+    ]
+  }
+]

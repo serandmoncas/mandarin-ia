@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:短信",
+    "ok": true,
+    "issues": [],
+    "content_hash": "59aed53d66b8f16bef5d902b9f038f5c54102ec0"
+  },
+  {
+    "id": "word:接近",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f7a12fa8f5dd6551bc6dbc5edafb7926ad23023"
+  },
+  {
+    "id": "word:课堂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e16136d8f8a9cfb5733fe24f62dc185c2e9bac7"
+  },
+  {
+    "id": "word:龙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "252028e25f87412fd9a331dd67682e2755887936"
+  },
+  {
+    "id": "word:停车场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7e458d1d56eb96cf307c1949736afeea54974ee"
+  },
+  {
+    "id": "word:遍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da2899251660286cc02d21336f06fcbfdf4a6ff9"
+  },
+  {
+    "id": "word:动物园",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8682690af995592acfe4b2659ff97150ef14d1da"
+  },
+  {
+    "id": "word:演员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0143ec73cb27e4d764a220bc1c644dceb12f02c"
+  },
+  {
+    "id": "word:海边",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: la traducción mezcla tercera persona («toda la familia fue») con primera plural («nos quedamos»); 我们全家 debería traducirse como «fuimos toda la familia… y nos quedamos»."
+    ],
+    "content_hash": "7f71eaf760d30259686c7b0f06e5b264177abcea"
+  },
+  {
+    "id": "word:应当",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a637aaa9b820c2c99fbd90019c802702d854a144"
+  },
+  {
+    "id": "word:音乐会",
+    "ok": false,
+    "issues": [
+      "Ejemplos 2 y 4: el clasificador 场 para conciertos se lee chǎng, no cháng (el propio CEDICT indica CL:场[chang3])."
+    ],
+    "content_hash": "5b889a9e5892e2bf2e984cc3ebcc86fcb531315a"
+  },
+  {
+    "id": "word:主动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e230b9a5cdb7c88cf62f63508a00b8ea51fb875a"
+  },
+  {
+    "id": "word:打工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc6140d1cda5a6c4c213676879796b2b5b9c0495"
+  },
+  {
+    "id": "word:路边",
+    "ok": false,
+    "issues": [
+      "El significado «banqueta» es impreciso y regional (México): 路边 es la orilla o el borde del camino, no específicamente la acera. Conviene quitarlo o cambiarlo por «a un lado del camino»."
+    ],
+    "content_hash": "098a41faa3c32fc5148b9490a561660efbd9be25"
+  },
+  {
+    "id": "word:全家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57a7f19c5bd86e9c2a4eb86b7e930dc066ba02e0"
+  },
+  {
+    "id": "word:敢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "29097e0f495e73e510cc60b8fcfdaff816d46b9f"
+  },
+  {
+    "id": "word:天上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "096c8c5fd89b6ef4e7b4c0c393df86cc71adc3e9"
+  },
+  {
+    "id": "word:古代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e185f780546dd57a5246f8181fc9d9c2eaceb7b"
+  },
+  {
+    "id": "word:广大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2f867dd027e357a552facfc199a2953ac185d46d"
+  },
+  {
+    "id": "word:晚会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3739ab11cdbd62bf3604a2df8574fe211b67c44f"
+  },
+  {
+    "id": "word:阴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "08d7f8a24ef0dc7f13e7934b416a73ab8f528d7f"
+  },
+  {
+    "id": "word:大海",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fefc4191df230164e6aaff08b43d06b06707e83b"
+  },
+  {
+    "id": "word:命运",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0ff30edcc01066ceb2f23450ff01d17429efa5d"
+  },
+  {
+    "id": "word:咱",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 得 con el sentido de «tener que» se lee děi, no dé."
+    ],
+    "content_hash": "dd20d1c2e7a1051be7b1048d556ead6e175e1255"
+  },
+  {
+    "id": "word:牛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9611e5b4ff9b520291fa13ec49c54ab3dcf45ab"
+  }
+]

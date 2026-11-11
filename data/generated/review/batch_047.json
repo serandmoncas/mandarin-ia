@@ -1,0 +1,191 @@
+[
+  {
+    "id": "word:分享",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab4e854f269a9d14657963866359ee179df82b1d"
+  },
+  {
+    "id": "word:尤其",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ac300de23ab0876751f4a2816fb9fb6532f44e6"
+  },
+  {
+    "id": "word:尽管",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 说得 debe ser «shuō de» (partícula estructural en tono neutro), no «shuō dé»."
+    ],
+    "content_hash": "c34a03795212b7495834c4e83a5296705db98315"
+  },
+  {
+    "id": "word:方案",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5c9de45ed10f5cedf2345c5255df8d6f4e32a897"
+  },
+  {
+    "id": "word:每年",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 都 se lee «dōu», no «dū».",
+      "Pinyin: 时候 suele transcribirse «shí hou» (tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "86768fe7d2cd7968ce7137667a00c2228eeff41a"
+  },
+  {
+    "id": "word:第一次",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 suele transcribirse «shí hou» (tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "0831011c771ac7299d3ffe6b0d25b1f28528f3eb"
+  },
+  {
+    "id": "word:件",
+    "ok": false,
+    "issues": [
+      "Pinyin: falta el sandhi de 一 ante cuarto tono; 一件 debe ser «yí jiàn» (ejemplos 2, 3 y 4). Es incoherente con otras entradas que sí aplican el sandhi («yí gè»)."
+    ],
+    "content_hash": "a7f99281239d4d43f19b5927885fc4168a858667"
+  },
+  {
+    "id": "word:创新",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 不断 debe ser «bú duàn» (sandhi de 不 ante cuarto tono)."
+    ],
+    "content_hash": "fc0a327e4b21f7988b548f42786b1587e609c6f9"
+  },
+  {
+    "id": "word:算",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 不算 debe ser «bú suàn» (sandhi de 不).",
+      "Pinyin del ejemplo 2: 一下 debe ser «yí xià» (sandhi de 一).",
+      "Ejemplo 2: «这些多少钱» suena algo incompleto; sería más natural «这些一共多少钱»."
+    ],
+    "content_hash": "f8e5c6145f192d9bac5a0a36ded8aa60be2c75fc"
+  },
+  {
+    "id": "word:创造",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8d7d509aad979626dd618b9ea1fbee9e7bff4733"
+  },
+  {
+    "id": "word:提",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ae1b09107673404edb17cd09ce6f1ef3c905875b"
+  },
+  {
+    "id": "word:工具",
+    "ok": false,
+    "issues": [
+      "Pinyin: 一些 debe ser «yì xiē» y 一种 debe ser «yì zhǒng» (sandhi de 一 ante primer y tercer tono)."
+    ],
+    "content_hash": "c6e2e1ace12cf77fb11c45a3dfa5d7b2c060648c"
+  },
+  {
+    "id": "word:公布",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «公布新产品» es una colocación poco natural; para lanzar o presentar un producto se usa 发布. 公布 se usa para resultados, datos, listas, etc."
+    ],
+    "content_hash": "df8acce310dd68682ff58f3aa9245c79453893b3"
+  },
+  {
+    "id": "word:信",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 不信 debe ser «bú xìn» (sandhi de 不 ante cuarto tono)."
+    ],
+    "content_hash": "b2a15a5f0d46fafb0205a490f0e591370e969887"
+  },
+  {
+    "id": "word:正常",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 一切 debe ser «yí qiè» (sandhi de 一).",
+      "Ejemplo 4: «第一次学汉语觉得难» suena poco natural; lo habitual es «刚开始学汉语觉得难». La traducción («cuando empiezas a estudiarlo») ya refleja ese sentido y no el texto chino literal."
+    ],
+    "content_hash": "ccb425cc424522451b622ed30a3416d68a05b6aa"
+  },
+  {
+    "id": "word:方向",
+    "ok": true,
+    "issues": [],
+    "content_hash": "001086c6c3c14a2879f78d9b2e0d64a487509adf"
+  },
+  {
+    "id": "word:类似",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «这两个字很类似» es poco natural; 类似 casi siempre funciona como atributo («类似的…») o con objeto («类似于…»). Para dos caracteres parecidos se dice «很像» o «很相似»."
+    ],
+    "content_hash": "f2f483739fa240af44d9fde24c2c4a23d276962e"
+  },
+  {
+    "id": "word:交通",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 不太 debe ser «bú tài» (sandhi de 不).",
+      "Pinyin: 时候 suele transcribirse «shí hou» (tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "924aee0c2f8d505cc7759137e4f617587755be1a"
+  },
+  {
+    "id": "word:设立",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a262d020f9ac2f31ff76c8f12fd64444ab82132"
+  },
+  {
+    "id": "word:不错",
+    "ok": false,
+    "issues": [
+      "Pinyin: 不错 debe ser «bú cuò» en los ejemplos 1, 2 y 4 (sandhi de 不). Es incoherente con el ejemplo 3, que sí usa «bú cuò».",
+      "Pinyin de los ejemplos 3 y 4: 说得 debe ser «shuō de», no «shuō dé»."
+    ],
+    "content_hash": "247c2ab42f6ec2bea9714db41c5b0b62d9617710"
+  },
+  {
+    "id": "word:刚",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 时候 suele transcribirse «shí hou» (tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "93019df879bac69f7081b1c1fd85e8bfe72b7bc6"
+  },
+  {
+    "id": "word:正确",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 写得 debe ser «xiě de», no «xiě dé».",
+      "Pinyin del ejemplo 2: 不正确 debe ser «bú zhèng què» (sandhi de 不)."
+    ],
+    "content_hash": "2eebb4d0b46bdd956328d99fd66424e8d26a6fbd"
+  },
+  {
+    "id": "word:不少",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9cb3f20b2073aef00cf57a5e593a1b4550a0647b"
+  },
+  {
+    "id": "word:快乐",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 玩得 debe ser «wán de», no «wán dé»."
+    ],
+    "content_hash": "4f282094e33c9b6638a7d8b10ba82e3411e6ff93"
+  },
+  {
+    "id": "word:面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "55194e9760abf6662ad5ef4ae970c8536270f87d"
+  }
+]

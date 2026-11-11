@@ -1,0 +1,264 @@
+[
+  {
+    "char": "啤",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "卑",
+        "meaning_es": "humilde, bajo"
+      }
+    ],
+    "mnemonic_es": "Imagina a un trabajador humilde que, al terminar el día, se lleva a la boca una cerveza bien fría."
+  },
+  {
+    "char": "甜",
+    "components": [
+      {
+        "char": "舌",
+        "meaning_es": "lengua"
+      },
+      {
+        "char": "甘",
+        "meaning_es": "dulce, agradable"
+      }
+    ],
+    "mnemonic_es": "La lengua prueba algo agradable y dulce: ¡mmm, qué rico, sabe dulce!"
+  },
+  {
+    "char": "牌",
+    "components": [
+      {
+        "char": "片",
+        "meaning_es": "tabla, lámina"
+      },
+      {
+        "char": "卑",
+        "meaning_es": "humilde, bajo"
+      }
+    ],
+    "mnemonic_es": "Imagina una lámina de madera con el nombre de una tiendita humilde: es su letrero, su marca. También piensa en cartas planas de juego."
+  },
+  {
+    "char": "胖",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "carne, cuerpo"
+      },
+      {
+        "char": "半",
+        "meaning_es": "mitad"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien que comió tanto que la mitad de su cuerpo es pura carne extra: está gordito."
+  },
+  {
+    "char": "沙",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "少",
+        "meaning_es": "poco"
+      }
+    ],
+    "mnemonic_es": "Donde hay poca agua solo queda arena, como en una playa cuando baja la marea."
+  },
+  {
+    "char": "羊",
+    "components": [
+      {
+        "char": "羊",
+        "meaning_es": "oveja, cabra"
+      }
+    ],
+    "mnemonic_es": "Mira los dos trazos de arriba como cuernitos y las líneas de abajo como el cuerpo lanudo: es una oveja de frente."
+  },
+  {
+    "char": "李",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      },
+      {
+        "char": "子",
+        "meaning_es": "hijo, fruto"
+      }
+    ],
+    "mnemonic_es": "Un árbol que da frutitos pequeños como hijos: son ciruelas. Además, es el apellido Li, uno de los más comunes de China."
+  },
+  {
+    "char": "蕉",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, planta"
+      },
+      {
+        "char": "焦",
+        "meaning_es": "quemado, tostado"
+      }
+    ],
+    "mnemonic_es": "Imagina una planta cuya fruta, si la dejas al sol, se pone tostadita y llena de manchas negras: el plátano."
+  },
+  {
+    "char": "吵",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "少",
+        "meaning_es": "poco"
+      }
+    ],
+    "mnemonic_es": "Bastan unas pocas bocas gritando al mismo tiempo para armar un escándalo ruidoso o una discusión."
+  },
+  {
+    "char": "冒",
+    "components": [
+      {
+        "char": "冃",
+        "meaning_es": "gorro, cubierta"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      }
+    ],
+    "mnemonic_es": "Imagina un gorro que apenas deja asomar los ojos de alguien que se arriesga a salir con el frío: ¡y termina resfriado (感冒)!"
+  },
+  {
+    "char": "裙",
+    "components": [
+      {
+        "char": "衤",
+        "meaning_es": "ropa"
+      },
+      {
+        "char": "君",
+        "meaning_es": "señor, noble"
+      }
+    ],
+    "mnemonic_es": "Imagina una prenda elegante digna de la corte de un noble: una falda larga y fina."
+  },
+  {
+    "char": "衬",
+    "components": [
+      {
+        "char": "衤",
+        "meaning_es": "ropa"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "pulgada"
+      }
+    ],
+    "mnemonic_es": "Una ropa que queda pegadita, a una pulgada de la piel: el forro o la camisa que va debajo (衬衫)."
+  },
+  {
+    "char": "衫",
+    "components": [
+      {
+        "char": "衤",
+        "meaning_es": "ropa"
+      },
+      {
+        "char": "彡",
+        "meaning_es": "trazos, adornos"
+      }
+    ],
+    "mnemonic_es": "Imagina una prenda con tres rayitas decorativas, como una camisa de rayas."
+  },
+  {
+    "char": "散",
+    "components": [
+      {
+        "char": "龷",
+        "meaning_es": "fibras, tallos (forma)"
+      },
+      {
+        "char": "月",
+        "meaning_es": "carne, luna"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear, acción"
+      }
+    ],
+    "mnemonic_es": "Imagina que golpeas un manojo de fibras y todo sale volando y se dispersa bajo la luna; luego tú también te dispersas un rato: das un paseo (散步)."
+  },
+  {
+    "char": "景",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "京",
+        "meaning_es": "capital"
+      }
+    ],
+    "mnemonic_es": "El sol brillando sobre la capital: ¡qué paisaje tan bonito para una foto!"
+  },
+  {
+    "char": "木",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      }
+    ],
+    "mnemonic_es": "Mira el carácter como un árbol: un tronco recto, una rama horizontal y raíces que bajan hacia los lados."
+  },
+  {
+    "char": "巧",
+    "components": [
+      {
+        "char": "工",
+        "meaning_es": "trabajo, herramienta"
+      },
+      {
+        "char": "丂",
+        "meaning_es": "trazo curvo"
+      }
+    ],
+    "mnemonic_es": "Con una herramienta, un artesano hábil logra hacer una curva perfecta: ¡qué habilidad! Y si te sale a la primera, ¡qué casualidad (真巧)!"
+  },
+  {
+    "char": "箱",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "相",
+        "meaning_es": "mutuo, mirar"
+      }
+    ],
+    "mnemonic_es": "Imagina una caja tejida de bambú en la que miras con atención todo lo que guardas: es tu caja o maleta."
+  },
+  {
+    "char": "汁",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua, líquido"
+      },
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      }
+    ],
+    "mnemonic_es": "Exprimes diez naranjas y sale todo el líquido: ¡un jugo fresquito!"
+  }
+]

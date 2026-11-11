@@ -1,0 +1,442 @@
+[
+  {
+    "char": "呀",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "牙",
+        "meaning_es": "diente"
+      }
+    ],
+    "mnemonic_es": "Abres la boca y se te ven todos los dientes: «¡Ay, sí, ya!», exclamas sorprendido."
+  },
+  {
+    "char": "妻",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno / línea"
+      },
+      {
+        "char": "彐",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      }
+    ],
+    "mnemonic_es": "Imagina una mano que le acomoda una peineta en el cabello a una mujer el día de su boda: ahora es esposa."
+  },
+  {
+    "char": "鱼",
+    "components": [
+      {
+        "char": "⺈",
+        "meaning_es": "cabeza (forma)"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo (aquí: escamas)"
+      },
+      {
+        "char": "一",
+        "meaning_es": "línea (aquí: cola)"
+      }
+    ],
+    "mnemonic_es": "Dibuja un pez: arriba la cabeza puntiaguda, en medio el cuerpo cuadriculado como escamas y abajo una raya de cola."
+  },
+  {
+    "char": "久",
+    "components": [
+      {
+        "char": "久",
+        "meaning_es": "mucho tiempo"
+      }
+    ],
+    "mnemonic_es": "Parece una persona caminando encorvada que lleva tanto tiempo andando que ya arrastra una pierna: ¡cuánto tiempo!"
+  },
+  {
+    "char": "弄",
+    "components": [
+      {
+        "char": "王",
+        "meaning_es": "jade / rey"
+      },
+      {
+        "char": "廾",
+        "meaning_es": "dos manos"
+      }
+    ],
+    "mnemonic_es": "Dos manos juegan y manipulan una pieza de jade: la manosean, la arreglan, la «hacen»."
+  },
+  {
+    "char": "顺",
+    "components": [
+      {
+        "char": "川",
+        "meaning_es": "río"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "Una cabeza que sigue la corriente del río sin resistirse: todo fluye sin problemas, va «a favor»."
+  },
+  {
+    "char": "船",
+    "components": [
+      {
+        "char": "舟",
+        "meaning_es": "bote"
+      },
+      {
+        "char": "几",
+        "meaning_es": "mesita"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca / persona"
+      }
+    ],
+    "mnemonic_es": "Un bote con una mesita donde se sientan varias bocas a comer: ya es todo un barco."
+  },
+  {
+    "char": "批",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "比",
+        "meaning_es": "comparar"
+      }
+    ],
+    "mnemonic_es": "Con la mano comparas tareas y les pones nota: estás criticando, aprobando… y revisas un lote completo."
+  },
+  {
+    "char": "停",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "亭",
+        "meaning_es": "pabellón / kiosco"
+      }
+    ],
+    "mnemonic_es": "Una persona ve un kiosco en el camino y se detiene a descansar a la sombra."
+  },
+  {
+    "char": "止",
+    "components": [
+      {
+        "char": "止",
+        "meaning_es": "detenerse / pie"
+      }
+    ],
+    "mnemonic_es": "Parece la huella de un pie plantado firme en el suelo: ¡alto, aquí te detienes!"
+  },
+  {
+    "char": "丰",
+    "components": [
+      {
+        "char": "丰",
+        "meaning_es": "abundante"
+      }
+    ],
+    "mnemonic_es": "Un tallo con tres ramas cargadas a cada lado: la cosecha es abundante."
+  },
+  {
+    "char": "富",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo tienes una boca que alimentar y un campo propio que la llena: eres rico."
+  },
+  {
+    "char": "随",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina"
+      },
+      {
+        "char": "辶",
+        "meaning_es": "caminar"
+      },
+      {
+        "char": "有",
+        "meaning_es": "tener"
+      }
+    ],
+    "mnemonic_es": "Por la colina camina alguien que tiene un buen guía, y lo sigue a donde vaya."
+  },
+  {
+    "char": "胜",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "carne / cuerpo"
+      },
+      {
+        "char": "生",
+        "meaning_es": "vida / nacer"
+      }
+    ],
+    "mnemonic_es": "Un cuerpo lleno de vida se impone a todos: gana la competencia."
+  },
+  {
+    "char": "排",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "非",
+        "meaning_es": "no / alas abiertas"
+      }
+    ],
+    "mnemonic_es": "Con la mano acomodas a la gente en dos alas iguales, como las de 非: los pones en fila."
+  },
+  {
+    "char": "满",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "两",
+        "meaning_es": "dos"
+      }
+    ],
+    "mnemonic_es": "El agua sube hasta cubrir la hierba de los dos lados del estanque: está lleno hasta el borde."
+  },
+  {
+    "char": "伟",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "韦",
+        "meaning_es": "cuero"
+      }
+    ],
+    "mnemonic_es": "Una persona con armadura de cuero se ve imponente: es un gran héroe."
+  },
+  {
+    "char": "草",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "早",
+        "meaning_es": "temprano"
+      }
+    ],
+    "mnemonic_es": "Temprano en la mañana, la hierba brilla con el rocío: es el pasto."
+  },
+  {
+    "char": "辆",
+    "components": [
+      {
+        "char": "车",
+        "meaning_es": "vehículo"
+      },
+      {
+        "char": "两",
+        "meaning_es": "dos"
+      }
+    ],
+    "mnemonic_es": "Un vehículo con dos ruedas a cada lado: así se cuentan los carros, uno por uno."
+  },
+  {
+    "char": "河",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "可",
+        "meaning_es": "poder / se puede"
+      }
+    ],
+    "mnemonic_es": "Agua por la que se puede navegar: es un río."
+  },
+  {
+    "char": "适",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar"
+      },
+      {
+        "char": "舌",
+        "meaning_es": "lengua"
+      }
+    ],
+    "mnemonic_es": "Caminas probando con la lengua cada platillo hasta encontrar el que te queda justo: el adecuado."
+  },
+  {
+    "char": "猫",
+    "components": [
+      {
+        "char": "犭",
+        "meaning_es": "animal"
+      },
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo"
+      }
+    ],
+    "mnemonic_es": "Un animal que acecha entre la hierba del campo y dice «miau»: es el gato (猫 māo suena como su maullido)."
+  },
+  {
+    "char": "旧",
+    "components": [
+      {
+        "char": "丨",
+        "meaning_es": "línea / bastón"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol / día"
+      }
+    ],
+    "mnemonic_es": "Un bastón junto a muchos días que ya pasaron: algo viejo, antiguo."
+  },
+  {
+    "char": "腿",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "carne / cuerpo"
+      },
+      {
+        "char": "退",
+        "meaning_es": "retroceder"
+      }
+    ],
+    "mnemonic_es": "La parte del cuerpo que usas para retroceder un paso: la pierna."
+  },
+  {
+    "char": "药",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "纟",
+        "meaning_es": "hilo / seda"
+      },
+      {
+        "char": "勺",
+        "meaning_es": "cucharón"
+      }
+    ],
+    "mnemonic_es": "Hierbas atadas con hilo y servidas con cucharón: es el remedio, la medicina."
+  },
+  {
+    "char": "鸟",
+    "components": [
+      {
+        "char": "鸟",
+        "meaning_es": "pájaro"
+      }
+    ],
+    "mnemonic_es": "Mira el dibujo: un pájaro con su ojo arriba, el cuerpo curvo y la cola abajo."
+  },
+  {
+    "char": "演",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "寅",
+        "meaning_es": "tercera rama terrestre (signo del tigre)"
+      }
+    ],
+    "mnemonic_es": "Un tigre bajo la lluvia actúa en el escenario y el público aplaude: es una actuación."
+  },
+  {
+    "char": "复",
+    "components": [
+      {
+        "char": "𠂉",
+        "meaning_es": "persona (forma)"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol / día"
+      },
+      {
+        "char": "夂",
+        "meaning_es": "pie que avanza"
+      }
+    ],
+    "mnemonic_es": "Una persona camina el mismo trayecto día tras día: repite, vuelve, repasa."
+  },
+  {
+    "char": "杂",
+    "components": [
+      {
+        "char": "九",
+        "meaning_es": "nueve"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Nueve clases de árboles revueltos en un solo bosque: todo mezclado, variado."
+  },
+  {
+    "char": "互",
+    "components": [
+      {
+        "char": "互",
+        "meaning_es": "mutuo"
+      }
+    ],
+    "mnemonic_es": "Dos ganchos que se enganchan entre dos líneas, uno con el otro: es algo mutuo, recíproco."
+  }
+]

@@ -1,0 +1,553 @@
+[
+  {
+    "word": "专题",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tema especial",
+      "reportaje especial",
+      "programa especial",
+      "monográfico"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢这个专题。",
+        "es": "Me gusta este reportaje especial."
+      },
+      {
+        "zh": "今天的专题是中国历史。",
+        "es": "El tema especial de hoy es la historia de China."
+      },
+      {
+        "zh": "电视台做了一个关于环境的专题。",
+        "es": "La televisora hizo un especial sobre el medio ambiente."
+      },
+      {
+        "zh": "这个专题节目介绍了很多北京的传统文化。",
+        "es": "Este programa especial presentó mucho de la cultura tradicional de Beijing."
+      }
+    ]
+  },
+  {
+    "word": "环",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "anillo",
+      "aro",
+      "eslabón",
+      "rodear"
+    ],
+    "examples": [
+      {
+        "zh": "这个环很漂亮。",
+        "es": "Este aro es muy bonito."
+      },
+      {
+        "zh": "她手上有一个金环。",
+        "es": "Ella tiene un anillo de oro en la mano."
+      },
+      {
+        "zh": "这是计划中重要的一环。",
+        "es": "Este es un eslabón importante del plan."
+      },
+      {
+        "zh": "这个城市四面环山，空气非常好。",
+        "es": "Esta ciudad está rodeada de montañas por todos lados y el aire es muy bueno."
+      }
+    ]
+  },
+  {
+    "word": "尽量",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lo más posible",
+      "en la medida de lo posible",
+      "hacer todo lo posible"
+    ],
+    "examples": [
+      {
+        "zh": "我会尽量早点回家。",
+        "es": "Voy a tratar de volver a casa lo más temprano posible."
+      },
+      {
+        "zh": "请你尽量说慢一点。",
+        "es": "Por favor, trata de hablar lo más despacio posible."
+      },
+      {
+        "zh": "考试前我们要尽量多休息。",
+        "es": "Antes del examen debemos descansar lo más posible."
+      },
+      {
+        "zh": "医生让他尽量少喝酒，多运动。",
+        "es": "El médico le dijo que tomara lo menos posible y que hiciera más ejercicio."
+      }
+    ]
+  },
+  {
+    "word": "精彩",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "maravilloso",
+      "emocionante",
+      "espectacular",
+      "brillante"
+    ],
+    "examples": [
+      {
+        "zh": "这个电影很精彩。",
+        "es": "Esta película es muy emocionante."
+      },
+      {
+        "zh": "昨天的比赛非常精彩。",
+        "es": "El partido de ayer fue espectacular."
+      },
+      {
+        "zh": "老师讲的故事太精彩了。",
+        "es": "La historia que contó el maestro fue fantástica."
+      },
+      {
+        "zh": "他在晚会上的表演非常精彩，大家都很高兴。",
+        "es": "Su actuación en la fiesta fue maravillosa y todos quedaron muy contentos."
+      }
+    ]
+  },
+  {
+    "word": "据说",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dicen que",
+      "se dice que",
+      "según parece"
+    ],
+    "examples": [
+      {
+        "zh": "据说明天会下雨。",
+        "es": "Dicen que mañana va a llover."
+      },
+      {
+        "zh": "据说这家饭店的菜很好吃。",
+        "es": "Dicen que la comida de este restaurante es muy rica."
+      },
+      {
+        "zh": "据说他已经在北京住了十年。",
+        "es": "Dicen que él ya lleva diez años viviendo en Beijing."
+      },
+      {
+        "zh": "据说这个地方以前是一个很大的市场。",
+        "es": "Se dice que este lugar antes era un mercado muy grande."
+      }
+    ]
+  },
+  {
+    "word": "配",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "combinar",
+      "hacer juego",
+      "merecer",
+      "preparar (una receta médica)"
+    ],
+    "examples": [
+      {
+        "zh": "这两个颜色很配。",
+        "es": "Estos dos colores combinan muy bien."
+      },
+      {
+        "zh": "这双鞋配你的衣服很好看。",
+        "es": "Estos zapatos se ven muy bien con tu ropa."
+      },
+      {
+        "zh": "他不配做你的朋友。",
+        "es": "Él no merece ser tu amigo."
+      },
+      {
+        "zh": "医生给我配了一些药，让我每天吃两次。",
+        "es": "El médico me preparó unas medicinas y me dijo que las tomara dos veces al día."
+      }
+    ]
+  },
+  {
+    "word": "认可",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aprobar",
+      "reconocer",
+      "aprobación",
+      "reconocimiento"
+    ],
+    "examples": [
+      {
+        "zh": "老师认可了我的想法。",
+        "es": "El maestro aprobó mi idea."
+      },
+      {
+        "zh": "他的工作得到了大家的认可。",
+        "es": "Su trabajo obtuvo el reconocimiento de todos."
+      },
+      {
+        "zh": "这个方法已经被专家认可了。",
+        "es": "Este método ya fue aprobado por los expertos."
+      },
+      {
+        "zh": "我们的产品质量很好，得到了很多顾客的认可。",
+        "es": "Nuestros productos son de muy buena calidad y muchos clientes los respaldan."
+      }
+    ]
+  },
+  {
+    "word": "烟",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "humo",
+      "cigarro",
+      "tabaco"
+    ],
+    "examples": [
+      {
+        "zh": "房间里有很多烟。",
+        "es": "Hay mucho humo en el cuarto."
+      },
+      {
+        "zh": "我不抽烟。",
+        "es": "Yo no fumo."
+      },
+      {
+        "zh": "医生说抽烟对身体不好。",
+        "es": "El médico dice que fumar hace mal a la salud."
+      },
+      {
+        "zh": "他每天都要抽一包烟，家人都很担心。",
+        "es": "Él fuma una cajetilla al día y su familia está muy preocupada."
+      }
+    ]
+  },
+  {
+    "word": "眼前",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "frente a uno",
+      "ante los ojos",
+      "en este momento",
+      "actual"
+    ],
+    "examples": [
+      {
+        "zh": "他就在我眼前。",
+        "es": "Él está justo frente a mí."
+      },
+      {
+        "zh": "眼前的问题很难解决。",
+        "es": "El problema actual es difícil de resolver."
+      },
+      {
+        "zh": "我们要先做好眼前的工作。",
+        "es": "Primero debemos hacer bien el trabajo que tenemos ahora."
+      },
+      {
+        "zh": "突然一辆车出现在我眼前，我非常害怕。",
+        "es": "De repente apareció un carro frente a mí y me asusté mucho."
+      }
+    ]
+  },
+  {
+    "word": "证",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "credencial",
+      "certificado",
+      "prueba",
+      "comprobar"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的学生证。",
+        "es": "Esta es mi credencial de estudiante."
+      },
+      {
+        "zh": "请给我看一下你的证。",
+        "es": "Por favor, muéstrame tu credencial."
+      },
+      {
+        "zh": "没有工作证，你不能进这个楼。",
+        "es": "Sin credencial de trabajo no puedes entrar a este edificio."
+      },
+      {
+        "zh": "他去机场的时候忘了带身份证，没能上飞机。",
+        "es": "Cuando fue al aeropuerto olvidó llevar su identificación y no pudo subir al avión."
+      }
+    ]
+  },
+  {
+    "word": "祝",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "desear (algo bueno a alguien)",
+      "felicitar"
+    ],
+    "examples": [
+      {
+        "zh": "祝你生日快乐！",
+        "es": "¡Feliz cumpleaños!"
+      },
+      {
+        "zh": "祝你们一路平安。",
+        "es": "Les deseo un buen viaje."
+      },
+      {
+        "zh": "祝大家新年快乐，身体健康！",
+        "es": "¡Les deseo a todos feliz año nuevo y mucha salud!"
+      },
+      {
+        "zh": "老师祝我们考试顺利，都能考上好大学。",
+        "es": "El maestro nos deseó éxito en los exámenes y que todos entremos a buenas universidades."
+      }
+    ]
+  },
+  {
+    "word": "断",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "romperse",
+      "cortar(se)",
+      "interrumpir",
+      "dejar (un hábito)"
+    ],
+    "examples": [
+      {
+        "zh": "我的笔断了。",
+        "es": "Se me rompió el lápiz."
+      },
+      {
+        "zh": "电话突然断了。",
+        "es": "La llamada se cortó de repente."
+      },
+      {
+        "zh": "他的腿断了，要在医院住一个月。",
+        "es": "Se le rompió la pierna y tiene que quedarse un mes en el hospital."
+      },
+      {
+        "zh": "下雨以后，这条路断了，车都过不去。",
+        "es": "Después de la lluvia, esta carretera quedó cortada y ningún carro puede pasar."
+      }
+    ]
+  },
+  {
+    "word": "赶",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "apurarse",
+      "alcanzar",
+      "llegar a tiempo (a un transporte)",
+      "ahuyentar"
+    ],
+    "examples": [
+      {
+        "zh": "我要赶火车。",
+        "es": "Tengo que llegar a tiempo al tren."
+      },
+      {
+        "zh": "我们得赶时间。",
+        "es": "Tenemos que apurarnos."
+      },
+      {
+        "zh": "他跑得很快，我赶不上他。",
+        "es": "Él corre muy rápido; no puedo alcanzarlo."
+      },
+      {
+        "zh": "为了赶飞机，他早上五点就起床了。",
+        "es": "Para llegar a tiempo al avión, se levantó a las cinco de la mañana."
+      }
+    ]
+  },
+  {
+    "word": "赶紧",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rápido",
+      "enseguida",
+      "de prisa",
+      "sin demora"
+    ],
+    "examples": [
+      {
+        "zh": "你赶紧走吧。",
+        "es": "Vete rápido."
+      },
+      {
+        "zh": "下雨了，赶紧回家！",
+        "es": "¡Está lloviendo, regresa rápido a casa!"
+      },
+      {
+        "zh": "他听到这个消息，赶紧给妈妈打电话。",
+        "es": "Al oír la noticia, enseguida llamó a su mamá."
+      },
+      {
+        "zh": "你生病了就应该赶紧去医院，不要等到明天。",
+        "es": "Si estás enfermo, deberías ir al hospital cuanto antes; no esperes hasta mañana."
+      }
+    ]
+  },
+  {
+    "word": "情感",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sentimiento",
+      "emoción",
+      "afecto"
+    ],
+    "examples": [
+      {
+        "zh": "她的情感很丰富。",
+        "es": "Ella es una persona muy emotiva."
+      },
+      {
+        "zh": "动物也有自己的情感。",
+        "es": "Los animales también tienen sus propias emociones."
+      },
+      {
+        "zh": "他用音乐表达自己的情感。",
+        "es": "Él expresa sus sentimientos a través de la música."
+      },
+      {
+        "zh": "这部电影讲了一个关于家人之间情感的故事。",
+        "es": "Esta película cuenta una historia sobre el cariño entre los miembros de una familia."
+      }
+    ]
+  },
+  {
+    "word": "标题",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "título",
+      "titular",
+      "encabezado"
+    ],
+    "examples": [
+      {
+        "zh": "这个标题太长了。",
+        "es": "Este título es demasiado largo."
+      },
+      {
+        "zh": "这篇文章的标题是什么？",
+        "es": "¿Cuál es el título de este artículo?"
+      },
+      {
+        "zh": "我看了一下报纸上的标题。",
+        "es": "Le eché un vistazo a los titulares del periódico."
+      },
+      {
+        "zh": "好的标题能让更多的读者想看这篇文章。",
+        "es": "Un buen título puede hacer que más lectores quieran leer el artículo."
+      }
+    ]
+  },
+  {
+    "word": "赶快",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rápido",
+      "de inmediato",
+      "apúrate"
+    ],
+    "examples": [
+      {
+        "zh": "赶快来！",
+        "es": "¡Ven rápido!"
+      },
+      {
+        "zh": "天黑了，我们赶快回家吧。",
+        "es": "Ya oscureció, regresemos rápido a casa."
+      },
+      {
+        "zh": "车快开了，你赶快上车。",
+        "es": "El autobús ya está por salir, súbete rápido."
+      },
+      {
+        "zh": "老师马上就要来了，大家赶快坐好。",
+        "es": "El maestro ya va a llegar; todos siéntense rápido."
+      }
+    ]
+  },
+  {
+    "word": "基本上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "básicamente",
+      "en general",
+      "prácticamente",
+      "casi"
+    ],
+    "examples": [
+      {
+        "zh": "我基本上明白了。",
+        "es": "Básicamente ya entendí."
+      },
+      {
+        "zh": "工作基本上完成了。",
+        "es": "El trabajo está prácticamente terminado."
+      },
+      {
+        "zh": "他基本上每天都去公园跑步。",
+        "es": "Él va a correr al parque casi todos los días."
+      },
+      {
+        "zh": "问题基本上解决了，还有一些小事要处理。",
+        "es": "El problema ya está básicamente resuelto; solo quedan algunos detalles por atender."
+      }
+    ]
+  },
+  {
+    "word": "可靠",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "confiable",
+      "fiable",
+      "seguro"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个可靠的人。",
+        "es": "Él es una persona confiable."
+      },
+      {
+        "zh": "这个消息可靠吗？",
+        "es": "¿Esta noticia es confiable?"
+      },
+      {
+        "zh": "这辆车很老，但是非常可靠。",
+        "es": "Este carro es viejo, pero muy confiable."
+      },
+      {
+        "zh": "我们需要找一个可靠的公司来负责这个项目。",
+        "es": "Necesitamos encontrar una empresa confiable que se haga cargo de este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "录",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "grabar",
+      "registrar",
+      "registro",
+      "copiar"
+    ],
+    "examples": [
+      {
+        "zh": "你在录吗？",
+        "es": "¿Estás grabando?"
+      },
+      {
+        "zh": "我把老师的话录下来了。",
+        "es": "Grabé lo que dijo el maestro."
+      },
+      {
+        "zh": "他用手机录了很多视频。",
+        "es": "Él grabó muchos videos con su celular."
+      },
+      {
+        "zh": "这个节目是昨天录的，今天晚上在电视上播放。",
+        "es": "Este programa se grabó ayer y se transmite hoy en la noche por televisión."
+      }
+    ]
+  }
+]

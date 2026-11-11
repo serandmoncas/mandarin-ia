@@ -1,0 +1,547 @@
+[
+  {
+    "word": "完",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "terminar",
+      "acabar(se)",
+      "completo",
+      "entero"
+    ],
+    "examples": [
+      {
+        "zh": "我吃完了。",
+        "es": "Ya terminé de comer."
+      },
+      {
+        "zh": "你的书看完了吗？",
+        "es": "¿Ya terminaste de leer tu libro?"
+      },
+      {
+        "zh": "工作做完以后，我们一起去吃饭吧。",
+        "es": "Cuando terminemos el trabajo, vamos a comer juntos."
+      },
+      {
+        "zh": "这个问题太难了，我一个小时也没有写完。",
+        "es": "Este problema es muy difícil; en una hora no pude terminarlo."
+      }
+    ]
+  },
+  {
+    "word": "西方",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Occidente",
+      "occidental",
+      "países occidentales"
+    ],
+    "examples": [
+      {
+        "zh": "我很喜欢西方音乐。",
+        "es": "Me gusta mucho la música occidental."
+      },
+      {
+        "zh": "他在西方国家住了三年。",
+        "es": "Él vivió tres años en países occidentales."
+      },
+      {
+        "zh": "西方文化和中国文化有很多不同。",
+        "es": "La cultura occidental y la cultura china tienen muchas diferencias."
+      },
+      {
+        "zh": "很多西方人觉得汉字非常难学。",
+        "es": "Muchos occidentales piensan que los caracteres chinos son muy difíciles de aprender."
+      }
+    ]
+  },
+  {
+    "word": "职业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "profesión",
+      "ocupación",
+      "oficio",
+      "profesional"
+    ],
+    "examples": [
+      {
+        "zh": "你的职业是什么？",
+        "es": "¿Cuál es tu profesión?"
+      },
+      {
+        "zh": "我爸爸的职业是医生。",
+        "es": "Mi papá es médico de profesión."
+      },
+      {
+        "zh": "选择职业的时候，要考虑自己的爱好。",
+        "es": "Al elegir una profesión, hay que tomar en cuenta lo que a uno le gusta."
+      },
+      {
+        "zh": "他打了十年职业足球，现在是一名老师。",
+        "es": "Jugó fútbol profesional durante diez años y ahora es maestro."
+      }
+    ]
+  },
+  {
+    "word": "总是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siempre",
+      "todo el tiempo"
+    ],
+    "examples": [
+      {
+        "zh": "他总是很忙。",
+        "es": "Él siempre está muy ocupado."
+      },
+      {
+        "zh": "妈妈总是早上六点起床。",
+        "es": "Mi mamá siempre se levanta a las seis de la mañana."
+      },
+      {
+        "zh": "我总是忘记带钱包。",
+        "es": "Siempre se me olvida traer la cartera."
+      },
+      {
+        "zh": "他总是说要学汉语，但是一直没有开始。",
+        "es": "Siempre dice que va a estudiar chino, pero nunca ha empezado."
+      }
+    ]
+  },
+  {
+    "word": "式",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estilo",
+      "tipo",
+      "forma",
+      "modelo"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃中式早饭。",
+        "es": "Me gusta el desayuno de estilo chino."
+      },
+      {
+        "zh": "这家饭店做西式菜。",
+        "es": "Este restaurante prepara comida de estilo occidental."
+      },
+      {
+        "zh": "他们的房子是日式的，非常干净。",
+        "es": "Su casa es de estilo japonés y está muy limpia."
+      },
+      {
+        "zh": "明天公司会正式宣布新的计划。",
+        "es": "Mañana la empresa anunciará oficialmente el nuevo plan."
+      }
+    ]
+  },
+  {
+    "word": "模式",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "modo",
+      "modelo",
+      "patrón"
+    ],
+    "examples": [
+      {
+        "zh": "这个游戏有两种模式。",
+        "es": "Este juego tiene dos modos."
+      },
+      {
+        "zh": "上飞机以后，请打开手机的飞行模式。",
+        "es": "Después de subir al avión, por favor activa el modo avión del celular."
+      },
+      {
+        "zh": "他们公司的工作模式和别的公司不一样。",
+        "es": "El modelo de trabajo de su empresa es diferente al de otras empresas."
+      },
+      {
+        "zh": "我们需要改变现在的发展模式。",
+        "es": "Necesitamos cambiar el modelo de desarrollo actual."
+      }
+    ]
+  },
+  {
+    "word": "死亡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muerte",
+      "morir",
+      "fallecimiento"
+    ],
+    "examples": [
+      {
+        "zh": "他不怕死亡。",
+        "es": "Él no le teme a la muerte."
+      },
+      {
+        "zh": "这次事件没有人死亡。",
+        "es": "Nadie murió en este incidente."
+      },
+      {
+        "zh": "这次战争造成了很多人死亡。",
+        "es": "Esta guerra causó la muerte de mucha gente."
+      },
+      {
+        "zh": "医生说，这种病的死亡人数正在增加。",
+        "es": "El médico dice que el número de muertes por esta enfermedad está aumentando."
+      }
+    ]
+  },
+  {
+    "word": "带来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "traer",
+      "provocar",
+      "causar",
+      "producir"
+    ],
+    "examples": [
+      {
+        "zh": "请把你的书带来。",
+        "es": "Por favor, trae tu libro."
+      },
+      {
+        "zh": "朋友从北京给我带来了茶。",
+        "es": "Mi amigo me trajo té de Pekín."
+      },
+      {
+        "zh": "新的技术给我们的生活带来了很多变化。",
+        "es": "La nueva tecnología ha traído muchos cambios a nuestra vida."
+      },
+      {
+        "zh": "这次比赛的成功给学校带来了很大影响。",
+        "es": "El éxito de esta competencia tuvo un gran impacto en la escuela."
+      }
+    ]
+  },
+  {
+    "word": "更加",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "más",
+      "aún más",
+      "todavía más"
+    ],
+    "examples": [
+      {
+        "zh": "我们要更加努力学习。",
+        "es": "Tenemos que estudiar con más empeño."
+      },
+      {
+        "zh": "下雨以后，天气更加冷了。",
+        "es": "Después de la lluvia, hizo todavía más frío."
+      },
+      {
+        "zh": "有了电脑，工作变得更加简单了。",
+        "es": "Con la computadora, el trabajo se volvió más sencillo."
+      },
+      {
+        "zh": "听了老师的解释，我更加明白这个问题了。",
+        "es": "Después de escuchar la explicación del maestro, entendí aún mejor este problema."
+      }
+    ]
+  },
+  {
+    "word": "节目",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "programa (de televisión o radio)",
+      "número (de un espectáculo)",
+      "acto"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢这个节目。",
+        "es": "Me gusta este programa."
+      },
+      {
+        "zh": "今天晚上电视上有什么节目？",
+        "es": "¿Qué programas hay en la tele esta noche?"
+      },
+      {
+        "zh": "这个新闻节目每天中午十二点开始。",
+        "es": "Este noticiero empieza todos los días a las doce del mediodía."
+      },
+      {
+        "zh": "新年的时候，学生们准备了很多好看的节目。",
+        "es": "Para Año Nuevo, los estudiantes prepararon muchos números muy bonitos."
+      }
+    ]
+  },
+  {
+    "word": "强",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "fuerte",
+      "poderoso",
+      "mejor (que)",
+      "intenso"
+    ],
+    "examples": [
+      {
+        "zh": "他的身体很强。",
+        "es": "Él es muy fuerte físicamente."
+      },
+      {
+        "zh": "今天的风很强。",
+        "es": "Hoy el viento está muy fuerte."
+      },
+      {
+        "zh": "她的学习能力比我强多了。",
+        "es": "Ella aprende mucho mejor que yo."
+      },
+      {
+        "zh": "这个国家的经济越来越强，影响也更大了。",
+        "es": "La economía de este país es cada vez más fuerte y su influencia también es mayor."
+      }
+    ]
+  },
+  {
+    "word": "属",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pertenecer a",
+      "haber nacido en el año de (signo del zodiaco chino)",
+      "categoría",
+      "familiares"
+    ],
+    "examples": [
+      {
+        "zh": "我属马。",
+        "es": "Nací en el año del caballo."
+      },
+      {
+        "zh": "你妈妈属什么？",
+        "es": "¿Cuál es el signo del zodiaco chino de tu mamá?"
+      },
+      {
+        "zh": "这些书都属于图书馆。",
+        "es": "Todos estos libros pertenecen a la biblioteca."
+      },
+      {
+        "zh": "这个地区属于北京市，离市中心不远。",
+        "es": "Esta zona pertenece a la ciudad de Pekín y no está lejos del centro."
+      }
+    ]
+  },
+  {
+    "word": "宣传",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "promocionar",
+      "difundir",
+      "publicidad",
+      "propaganda"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个宣传视频。",
+        "es": "Este es un video promocional."
+      },
+      {
+        "zh": "他们在网上宣传新产品。",
+        "es": "Están promocionando el nuevo producto en internet."
+      },
+      {
+        "zh": "公司花了很多钱宣传新手机。",
+        "es": "La empresa gastó mucho dinero en promocionar el nuevo celular."
+      },
+      {
+        "zh": "政府通过电视和网络宣传保护环境的重要性。",
+        "es": "El gobierno difunde por televisión e internet la importancia de proteger el medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "选",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "elegir",
+      "escoger",
+      "seleccionar",
+      "votar por"
+    ],
+    "examples": [
+      {
+        "zh": "你选哪个？",
+        "es": "¿Cuál eliges?"
+      },
+      {
+        "zh": "我选了一件白衣服。",
+        "es": "Escogí una prenda blanca."
+      },
+      {
+        "zh": "同学们选他做班长。",
+        "es": "Los compañeros lo eligieron jefe de grupo."
+      },
+      {
+        "zh": "这两个专业都很好，我不知道应该选哪一个。",
+        "es": "Las dos carreras son muy buenas; no sé cuál debería elegir."
+      }
+    ]
+  },
+  {
+    "word": "也许",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "quizás",
+      "tal vez",
+      "a lo mejor"
+    ],
+    "examples": [
+      {
+        "zh": "也许他不来了。",
+        "es": "Quizás él ya no venga."
+      },
+      {
+        "zh": "明天也许会下雨。",
+        "es": "Tal vez llueva mañana."
+      },
+      {
+        "zh": "也许你说得对，我再想想。",
+        "es": "A lo mejor tienes razón; lo voy a pensar otra vez."
+      },
+      {
+        "zh": "他还没回电话，也许正在开会，也许已经睡觉了。",
+        "es": "Todavía no devuelve la llamada; quizás está en una reunión o tal vez ya se durmió."
+      }
+    ]
+  },
+  {
+    "word": "越",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "cuanto más... más",
+      "cada vez más (en 越来越)",
+      "superar",
+      "cruzar"
+    ],
+    "examples": [
+      {
+        "zh": "雨越下越大。",
+        "es": "La lluvia es cada vez más fuerte."
+      },
+      {
+        "zh": "我越来越喜欢学汉语了。",
+        "es": "Cada vez me gusta más estudiar chino."
+      },
+      {
+        "zh": "他越说越高兴，我们都笑了。",
+        "es": "Cuanto más hablaba, más contento se ponía, y todos nos reímos."
+      },
+      {
+        "zh": "这里的人口越来越多，房子也越来越贵。",
+        "es": "Aquí hay cada vez más gente y las casas son cada vez más caras."
+      }
+    ]
+  },
+  {
+    "word": "军事",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "asuntos militares",
+      "militar"
+    ],
+    "examples": [
+      {
+        "zh": "他喜欢看军事新闻。",
+        "es": "A él le gusta ver noticias militares."
+      },
+      {
+        "zh": "这是一个军事地区，不能进去。",
+        "es": "Esta es una zona militar; no se puede entrar."
+      },
+      {
+        "zh": "我爷爷以前在军事学院工作。",
+        "es": "Mi abuelo trabajaba antes en una academia militar."
+      },
+      {
+        "zh": "两个国家决定加强军事合作。",
+        "es": "Los dos países decidieron reforzar su cooperación militar."
+      }
+    ]
+  },
+  {
+    "word": "平台",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "plataforma",
+      "terraza"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个学习平台。",
+        "es": "Esta es una plataforma de aprendizaje."
+      },
+      {
+        "zh": "很多人在网络平台上买东西。",
+        "es": "Mucha gente compra cosas en plataformas en línea."
+      },
+      {
+        "zh": "他在视频平台上发了很多音乐视频。",
+        "es": "Él publicó muchos videos musicales en una plataforma de videos."
+      },
+      {
+        "zh": "这个平台为中小企业提供了很多服务和资料。",
+        "es": "Esta plataforma ofrece muchos servicios e información a las pequeñas y medianas empresas."
+      }
+    ]
+  },
+  {
+    "word": "每天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todos los días",
+      "cada día",
+      "diariamente"
+    ],
+    "examples": [
+      {
+        "zh": "我每天喝牛奶。",
+        "es": "Tomo leche todos los días."
+      },
+      {
+        "zh": "她每天早上七点起床。",
+        "es": "Ella se levanta todos los días a las siete de la mañana."
+      },
+      {
+        "zh": "我每天坐火车去上班，路上要一个小时。",
+        "es": "Todos los días voy al trabajo en tren y el viaje dura una hora."
+      },
+      {
+        "zh": "如果每天学十个汉字，一年就能学很多。",
+        "es": "Si aprendes diez caracteres cada día, en un año puedes aprender muchísimos."
+      }
+    ]
+  },
+  {
+    "word": "电子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "electrónico",
+      "electrón"
+    ],
+    "examples": [
+      {
+        "zh": "我买了一本电子书。",
+        "es": "Compré un libro electrónico."
+      },
+      {
+        "zh": "他在一家电子公司工作。",
+        "es": "Él trabaja en una empresa de electrónica."
+      },
+      {
+        "zh": "请把电子票发到我的手机上。",
+        "es": "Por favor, envía el boleto electrónico a mi celular."
+      },
+      {
+        "zh": "现在很多人只读电子书，很少去书店买书了。",
+        "es": "Hoy en día mucha gente solo lee libros electrónicos y casi ya no va a la librería a comprar libros."
+      }
+    ]
+  }
+]

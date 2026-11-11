@@ -1,0 +1,169 @@
+[
+  {
+    "id": "word:听众",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb652cb1569350090b790acbc58dba0851d9f7b8"
+  },
+  {
+    "id": "word:家具",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96d69aceb1000585a963828264d63a4b77584552"
+  },
+  {
+    "id": "word:老太太",
+    "ok": false,
+    "issues": [
+      "Pinyin: en todos los ejemplos la última sílaba de 老太太 debería ser de tono neutro (lǎo tài tai), no 'lǎo tài tài'.",
+      "Pinyin: 奶奶 debería ser 'nǎi nai' (tono neutro), no 'nǎi nǎi'."
+    ],
+    "content_hash": "011b991de4bac5e376b376a7b10a4fa8357c16fc"
+  },
+  {
+    "id": "word:亲切",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25379c3dcc47d3888cc6f82f0c6ee607a0657736"
+  },
+  {
+    "id": "word:开业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "020d99dfc0f3ebda8a534331a59d07620fc71df6"
+  },
+  {
+    "id": "word:整整",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7cf8ba4602f4d9d66993517469dc5b4c59d9d3a9"
+  },
+  {
+    "id": "word:本事",
+    "ok": false,
+    "issues": [
+      "Pinyin: 本事 debería ser 'běn shi' (tono neutro), no 'běn shì'.",
+      "Pinyin: 爸爸 debería ser 'bà ba', no 'bà bà'."
+    ],
+    "content_hash": "5b627c709c9472c837d2db49a86b3453b01e4bb3"
+  },
+  {
+    "id": "word:感冒",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d6210fb04b6f14b637f74abdfeb1f6f0e344381b"
+  },
+  {
+    "id": "word:牌子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb33f2b3cabdc96d588a320df95ae0611b5db8b4"
+  },
+  {
+    "id": "word:屋子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2c90da7724366c7056f4d72474a1cf4bd73dd01"
+  },
+  {
+    "id": "word:表格",
+    "ok": true,
+    "issues": [],
+    "content_hash": "254251267f2146e40fac9d51a6d53ba0c4f741be"
+  },
+  {
+    "id": "word:裙子",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 debería ser 'mā ma' (tono neutro), no 'mā mā'."
+    ],
+    "content_hash": "c50c4429cd666bf5d0da2e6cdb80d2f16b82b0f1"
+  },
+  {
+    "id": "word:所长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "75b00b90dd680025c1071258dc1ea35bac764073"
+  },
+  {
+    "id": "word:收看",
+    "ok": true,
+    "issues": [],
+    "content_hash": "afdaf4b160b6c1f305c7493478d7ea1ddda8ab71"
+  },
+  {
+    "id": "word:吵架",
+    "ok": false,
+    "issues": [
+      "Pinyin: 哥哥 debería ser 'gē ge' (tono neutro), no 'gē gē'."
+    ],
+    "content_hash": "887cb27a1978bcc88cefb5030904b56fc5e296b3"
+  },
+  {
+    "id": "word:旅行社",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce8e08eeb93edebd42f0477bd8b91b23795d183a"
+  },
+  {
+    "id": "word:武术",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f36de0588e58ab92ce7c276cadf6d7665c199473"
+  },
+  {
+    "id": "word:搬家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ae0d69e9f50da8d3f63d87c2a56055253dc88b6e"
+  },
+  {
+    "id": "word:全场",
+    "ok": false,
+    "issues": [
+      "Pinyin: la partícula 得 en 表现得 debe ser 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "00c743606f2567b53961b9556d9cee846ce967bf"
+  },
+  {
+    "id": "word:动人",
+    "ok": false,
+    "issues": [
+      "Pinyin: la partícula 得 en 笑得 debe ser 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "5329c9af42dd28a839ac3caa15b2cac68407be12"
+  },
+  {
+    "id": "word:衬衫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "137071dff34800486f6deb2dd01eaf826320dd0f"
+  },
+  {
+    "id": "word:静",
+    "ok": false,
+    "issues": [
+      "Pinyin: la partícula 得 en 静得 debe ser 'de' (tono neutro), no 'dé'.",
+      "Pinyin: en la reduplicación 静一静, el 一 se pronuncia en tono neutro ('jìng yi jìng'), no 'jìng yī jìng'."
+    ],
+    "content_hash": "5f89e7e56091f36209c6f9576fa12a1d16aec239"
+  },
+  {
+    "id": "word:可乐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c28e27387cf231ba492f863a070fb2117f38289f"
+  },
+  {
+    "id": "word:票价",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d62725bf98276415a50b233a4d94e64e20c48f36"
+  },
+  {
+    "id": "word:有的是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "752e300e56090fcbcea0795f26f26349a7665e6b"
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "id": "word:小孩儿",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto del erhua: la 儿 no se lee como sílaba aparte «ér». Debe ser «xiǎo háir» (y «nán háir», «nǚ háir»).",
+      "Inconsistencia en el último ejemplo: aparecen «hái er» y «hái ér» en la misma frase."
+    ],
+    "content_hash": "9889b16245009e1cdbbfb05da46cca8a8b3e59a7"
+  },
+  {
+    "id": "word:以前",
+    "ok": false,
+    "issues": [
+      "Pinyin: «yī jiā» debería ser «yì jiā» por el cambio tonal de 一. Además es inconsistente con otros ejemplos que sí aplican el cambio (p. ej. «yí gè»)."
+    ],
+    "content_hash": "841b2a122f7bfcfdc7935b48111b98ce45079f4f"
+  },
+  {
+    "id": "word:面条儿",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto del erhua: debe ser «miàn tiáor», no «miàn tiáo ér».",
+      "«妈妈» se lee «mā ma» (tono neutro), no «mā mā»."
+    ],
+    "content_hash": "1a64aed16e369f1e98fd29826beffa71e09e619e"
+  },
+  {
+    "id": "word:证明",
+    "ok": false,
+    "issues": [
+      "Pinyin: en «证明了» la partícula 了 se lee «le», no «liǎo»."
+    ],
+    "content_hash": "56452aaff2615731461558a27d0839abf51cedea"
+  },
+  {
+    "id": "word:好玩儿",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto del erhua: debe ser «hǎo wánr», no «hǎo wán ér»."
+    ],
+    "content_hash": "c271ef511f296adc5757129a0ce7b7c4556283d0"
+  },
+  {
+    "id": "word:中央",
+    "ok": false,
+    "issues": [
+      "Pinyin: «yī zhāng» debería ser «yì zhāng» por el cambio tonal de 一. Es inconsistente con otros ejemplos."
+    ],
+    "content_hash": "be87508ad26400e1fd9bf47dcc55170e77b43c1c"
+  },
+  {
+    "id": "word:俄罗斯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af4c2904d2e84c99660e4bb69f8006819956aac4"
+  },
+  {
+    "id": "word:区域",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5a876ed5eb38fa425a3a9f3c069d0faf341525d"
+  },
+  {
+    "id": "word:工程",
+    "ok": false,
+    "issues": [
+      "«哥哥» se lee «gē ge» (tono neutro), no «gē gē»."
+    ],
+    "content_hash": "414aa40f7cb7e9277bfbeef66d8785cb3cfe3f42"
+  },
+  {
+    "id": "word:结构",
+    "ok": true,
+    "issues": [],
+    "content_hash": "09db46f3c25b4a0c4323bb29e6de31984eb71b84"
+  },
+  {
+    "id": "word:综合",
+    "ok": false,
+    "issues": [
+      "«这是一个综合问题» resulta poco natural sin contexto. «Problema integral» es una traducción dudosa en español (puede confundirse con el término matemático); sería más claro «una pregunta/problema de varios aspectos» o «un problema complejo»."
+    ],
+    "content_hash": "6196783c86c48952e52efca29f2847b75eddbab9"
+  },
+  {
+    "id": "word:当地",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d1ae7977a90630ea5a65eed5642a4793544690c3"
+  },
+  {
+    "id": "word:发表",
+    "ok": false,
+    "issues": [
+      "«在网上发表了很多照片» es poco natural: 发表 se usa para artículos, opiniones o discursos. Para fotos se dice «发了» o «发布/上传了». No conviene enseñar ese uso."
+    ],
+    "content_hash": "1d97bde5d49039fdcbf44dd879e366f782770713"
+  },
+  {
+    "id": "word:公开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2898983c50118ea3aa0dfa122fdc87d23d833b1"
+  },
+  {
+    "id": "word:派",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d9228e35e071d3e4cb1857d4b3c44487229c6598"
+  },
+  {
+    "id": "word:全部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb65cb86315015dd555741caac8a6fbb0f26ca6d"
+  },
+  {
+    "id": "word:宣布",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7fd7ae0169355786e3a4855338607441b6b34f3"
+  },
+  {
+    "id": "word:自然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac50a71984cb79314dd918e462ed9c9930fc055c"
+  },
+  {
+    "id": "word:最近",
+    "ok": false,
+    "issues": [
+      "«衣服» se lee «yī fu» (tono neutro), no «yī fú»."
+    ],
+    "content_hash": "883cfb5b12d30b4634a2c0f048b2c5a497012594"
+  },
+  {
+    "id": "word:不到",
+    "ok": false,
+    "issues": [
+      "El ejemplo «我找不到我的手机» no muestra la palabra 不到 («menos de / no alcanzar»). Ahí es el complemento potencial 找不到 («no poder encontrar»), así que confunde al estudiante.",
+      "En ese complemento potencial, 不 va en tono neutro: «zhǎo bu dào», no «zhǎo bú dào»."
+    ],
+    "content_hash": "f3d1cbac3848374d6970787a71571ddccc7931ef"
+  },
+  {
+    "id": "word:社区",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca18d0701d53d6b755e16ee978f756b4694a84d7"
+  },
+  {
+    "id": "word:范围",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ce454d167b073fd6658a31ba2e8182a32424ec6"
+  },
+  {
+    "id": "word:功能",
+    "ok": false,
+    "issues": [
+      "Pinyin: «yī xiē» debería ser «yì xiē» por el cambio tonal de 一. Es inconsistente con otros ejemplos."
+    ],
+    "content_hash": "d8995ed48ec3d5be56dd250a3187ab1acf7df53a"
+  },
+  {
+    "id": "word:坚持",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5100faeb1091ef11a72a5d69f6eb2f3201c669f3"
+  },
+  {
+    "id": "word:提高",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e656a376115fec6f17e74d9de7eb5247bd0d6006"
+  }
+]

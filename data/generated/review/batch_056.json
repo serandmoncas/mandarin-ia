@@ -1,0 +1,158 @@
+[
+  {
+    "id": "word:就要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a4f13203a7f5f742c459c543a440eaa23a0f6e99"
+  },
+  {
+    "id": "word:事业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e883c14a81f6b6be0f6bdf1289f767966adff2b9"
+  },
+  {
+    "id": "word:片",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4be29dcff06cc96bc74df0167a3e4940e469d2f2"
+  },
+  {
+    "id": "word:数量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a7625a3669e85c869df633e001292a4c3ab6aab0"
+  },
+  {
+    "id": "word:推",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cf8e91b008eaf8581b805d7f11f67a0bb04d6b0d"
+  },
+  {
+    "id": "word:铁路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "970b2b475f921a2e6a9b199e2464bb30528e7f87"
+  },
+  {
+    "id": "word:小组",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6390ce7426bb0038ef9902914660897007fb313"
+  },
+  {
+    "id": "word:通常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a67abdf0d33aae42c92827cd78c5d09a8687c217"
+  },
+  {
+    "id": "word:文件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "79c0f687daf4214c7981f42b33926eb1846bc6d0"
+  },
+  {
+    "id": "word:短",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, el pinyin de 长 es incorrecto: debe ser «cháng» (largo), no «zhǎng»."
+    ],
+    "content_hash": "8cef48a246843f73f4f0f554d9ce0fbeaaee6d4b"
+  },
+  {
+    "id": "word:海",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b1ec2640502edfe6a5ea2b519f5e3d719d34091b"
+  },
+  {
+    "id": "word:主题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96811b209676109386b4c7719876e0cc8f9cdc5c"
+  },
+  {
+    "id": "word:脚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d15a0cf68b081baa78e1539b006936986d84417c"
+  },
+  {
+    "id": "word:入",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, el pinyin de 得 en 看得入了迷 es incorrecto: debe ser «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "24440191b5e4534654e73205f338570642110004"
+  },
+  {
+    "id": "word:市长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de0eedb56a9082858b90b71174b9f1781dc7d4b7"
+  },
+  {
+    "id": "word:再次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "11cd5adf761d7e3e5ea18dba4c87f785ffd1699a"
+  },
+  {
+    "id": "word:及其",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b7539b476e8d6aa3d800b0e6acbf69eee6310b93"
+  },
+  {
+    "id": "word:前年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9d42dfe7b4c61abfbef7d5787cd294e786017b4"
+  },
+  {
+    "id": "word:发行",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2, 发行 aplicado a una película significa «distribuir» o «lanzar», no «estrenar»: para el estreno en cines se usa 上映. La traducción «se estrena» no es fiel; conviene usar «se lanza» o cambiar la frase a 上映."
+    ],
+    "content_hash": "c8b6b082952f7fa2ee7e97e89825b5853dfab428"
+  },
+  {
+    "id": "word:刚才",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c75882b8cac82727cb2f522d12d42b58437cf96d"
+  },
+  {
+    "id": "word:召开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf1355a78731207d32cdb15ed3ca5ddab4616e8d"
+  },
+  {
+    "id": "word:够",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d20b3f1dd837a9c679a66bc05822f1b2e46f9a1d"
+  },
+  {
+    "id": "word:多年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a11b6f9ad59c1c3cb5db412d9379a16f278e8b93"
+  },
+  {
+    "id": "word:交",
+    "ok": true,
+    "issues": [],
+    "content_hash": "facf2ca4e4716ea8444c4297e6f176c655232eae"
+  },
+  {
+    "id": "word:平均",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87a9696262db6212e145d5cd21529df20e4e0801"
+  }
+]

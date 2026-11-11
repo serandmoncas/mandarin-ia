@@ -1,0 +1,170 @@
+[
+  {
+    "id": "word:千万",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27cce9b764b308da1dbe3dfcfc2f16f08c2ce44f"
+  },
+  {
+    "id": "word:桥",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «这座桥很长»: 长 se lee «cháng» (largo), no «zhǎng»."
+    ],
+    "content_hash": "8cc2b598fadb5e23fae4b4cbb358d7a0a1c1193c"
+  },
+  {
+    "id": "word:天空",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «变得»: la partícula 得 se lee «de», no «dé»."
+    ],
+    "content_hash": "e76ad1ba70429c2a03af078c79376709ee5627bd"
+  },
+  {
+    "id": "word:预防",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2fe0755de3af34da6915776a964e00d7da27946"
+  },
+  {
+    "id": "word:种子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0befe18cc295899077e6ae9cb12c4f1b8875d50"
+  },
+  {
+    "id": "word:反正",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8feb352c19458ccfc85666a461477b579436e9d8"
+  },
+  {
+    "id": "word:否认",
+    "ok": false,
+    "issues": [
+      "«她否认这件事» suena forzado; es más natural «她否认有这件事» o «她否认了这件事».",
+      "La traducción «Ella niega este asunto» no es natural en español; mejor «Ella lo niega» o «Ella niega que eso haya pasado»."
+    ],
+    "content_hash": "eabf040a3e4c6ff969cd657602dbb3bcdf7ea47b"
+  },
+  {
+    "id": "word:加快",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «我们得加快一点»: 得 con el sentido de «tener que» se lee «děi», no «dé»."
+    ],
+    "content_hash": "fc6c128dfb779e0a6f3f157dee55d67ca73a31e6"
+  },
+  {
+    "id": "word:客观",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «说得» y «写得»: la partícula 得 se lee «de», no «dé».",
+      "Pinyin incorrecto en «客观地»: la partícula adverbial 地 se lee «de», no «dì»."
+    ],
+    "content_hash": "58ce714a71bf76da015b1a477576ea71843c2955"
+  },
+  {
+    "id": "word:落后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a90b0bdb17fd46052bf1c153d8f11323adcdd16e"
+  },
+  {
+    "id": "word:亲自",
+    "ok": true,
+    "issues": [],
+    "content_hash": "398f2d7b166b32fcfa170e595239c1bd6cb786f1"
+  },
+  {
+    "id": "word:通信",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «变得»: la partícula 得 se lee «de», no «dé»."
+    ],
+    "content_hash": "a82af2dfa1a34c933fb872d6e3ab87eb838c39e9"
+  },
+  {
+    "id": "word:外面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2aac9d226aa69af3630ae00215aaacac72c2008"
+  },
+  {
+    "id": "word:搬",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a1903741f8aff3585ac4cfd6ad348676adf9910"
+  },
+  {
+    "id": "word:性别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "21d8504c83630c38aa877c159ee4cb50c4e04edf"
+  },
+  {
+    "id": "word:步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98a75f332f158fdbee4fd75e8649bd4277988e6a"
+  },
+  {
+    "id": "word:教练",
+    "ok": true,
+    "issues": [],
+    "content_hash": "44eaaab7928e6e40e505c61fa8ec7ce0ff64f8e2"
+  },
+  {
+    "id": "word:恐怕",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f256f785dd6173f2425472404aec92da3356232"
+  },
+  {
+    "id": "word:世界杯",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «一场比赛»: 场 como clasificador de partidos se lee «chǎng», no «cháng»."
+    ],
+    "content_hash": "43b6adc3e7aaea6f10dbe045b460f36cf52a1142"
+  },
+  {
+    "id": "word:争",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb363820027212ed68732febb6378998e19d1d39"
+  },
+  {
+    "id": "word:专题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c95d05484f78820f25bf17b2ec8ee7ba78fde3d3"
+  },
+  {
+    "id": "word:环",
+    "ok": false,
+    "issues": [
+      "«她手上有一个金环» traducido como «anillo de oro» puede confundir: el anillo de dedo es normalmente 戒指, y 金环 en la mano suele entenderse como aro o pulsera. Conviene aclararlo o cambiar el ejemplo."
+    ],
+    "content_hash": "41ff42811ef3a590afa953be74d0dd774da9f962"
+  },
+  {
+    "id": "word:尽量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "54b6d3e38b4d0b1e87f3126b4576485fbd00d5f5"
+  },
+  {
+    "id": "word:精彩",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d224136ba30a5697f64e384fde4efa0000ed4cb"
+  },
+  {
+    "id": "word:据说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cf15e1005d0c52fb025159501104f4b5312f6f6f"
+  }
+]

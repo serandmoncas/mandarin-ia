@@ -1,0 +1,142 @@
+[
+  {
+    "mission": "transport",
+    "zh": "请问，地铁站在哪里？",
+    "es": "Disculpe, ¿dónde está la estación del metro?"
+  },
+  {
+    "mission": "transport",
+    "zh": "我要去这个地方。",
+    "es": "Quiero ir a este lugar."
+  },
+  {
+    "mission": "transport",
+    "zh": "请带我去这个地址。",
+    "es": "Por favor, lléveme a esta dirección."
+  },
+  {
+    "mission": "transport",
+    "zh": "多少钱？",
+    "es": "¿Cuánto cuesta?"
+  },
+  {
+    "mission": "transport",
+    "zh": "请在这里停车。",
+    "es": "Por favor, deténgase aquí."
+  },
+  {
+    "mission": "transport",
+    "zh": "去机场要多长时间？",
+    "es": "¿Cuánto tiempo se tarda en llegar al aeropuerto?"
+  },
+  {
+    "mission": "transport",
+    "zh": "我要买一张票。",
+    "es": "Quiero comprar un boleto."
+  },
+  {
+    "mission": "transport",
+    "zh": "这趟车去火车站吗？",
+    "es": "¿Este vehículo va a la estación de tren?"
+  },
+  {
+    "mission": "transport",
+    "zh": "我在哪一站下车？",
+    "es": "¿En qué estación me bajo?"
+  },
+  {
+    "mission": "transport",
+    "zh": "你要去哪儿？",
+    "es": "¿A dónde va?"
+  },
+  {
+    "mission": "transport",
+    "zh": "请打表。",
+    "es": "Por favor, encienda el taxímetro."
+  },
+  {
+    "mission": "transport",
+    "zh": "出租车在哪里打？",
+    "es": "¿Dónde se puede tomar un taxi?"
+  },
+  {
+    "mission": "transport",
+    "zh": "下一站是哪里？",
+    "es": "¿Cuál es la próxima estación?"
+  },
+  {
+    "mission": "transport",
+    "zh": "我需要换乘吗？",
+    "es": "¿Necesito hacer transbordo?"
+  },
+  {
+    "mission": "transport",
+    "zh": "请出示您的护照。",
+    "es": "Por favor, muestre su pasaporte."
+  },
+  {
+    "mission": "transport",
+    "zh": "几号站台？",
+    "es": "¿Qué andén es?"
+  },
+  {
+    "mission": "transport",
+    "zh": "火车几点出发？",
+    "es": "¿A qué hora sale el tren?"
+  },
+  {
+    "mission": "transport",
+    "zh": "我要一张去上海的票。",
+    "es": "Quiero un boleto a Shanghái."
+  },
+  {
+    "mission": "transport",
+    "zh": "可以用微信支付吗？",
+    "es": "¿Se puede pagar con WeChat Pay?"
+  },
+  {
+    "mission": "transport",
+    "zh": "请开慢一点。",
+    "es": "Por favor, maneje más despacio."
+  },
+  {
+    "mission": "transport",
+    "zh": "我迷路了，能帮我吗？",
+    "es": "Me perdí, ¿me puede ayudar?"
+  },
+  {
+    "mission": "transport",
+    "zh": "这个座位有人吗？",
+    "es": "¿Este asiento está ocupado?"
+  },
+  {
+    "mission": "transport",
+    "zh": "从几号出口出去？",
+    "es": "¿Por qué salida debo salir?"
+  },
+  {
+    "mission": "transport",
+    "zh": "公交车站在附近吗？",
+    "es": "¿Hay una parada de autobús cerca?"
+  },
+  {
+    "mission": "transport",
+    "zh": "末班车是几点？",
+    "es": "¿A qué hora pasa el último servicio?"
+  },
+  {
+    "mission": "transport",
+    "zh": "请帮我放一下行李。",
+    "es": "Por favor, ayúdeme a guardar el equipaje."
+  },
+  {
+    "mission": "transport",
+    "zh": "车票卖完了。",
+    "es": "Los boletos están agotados."
+  },
+  {
+    "mission": "transport",
+    "zh": "请给我发票。",
+    "es": "Por favor, deme la factura."
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:到处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "606a8db863bd13324a833ef0d9b5e8f025be3f81"
+  },
+  {
+    "id": "word:必要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "79a33d5a8dc6ffb9651acabaa3a015b209cab630"
+  },
+  {
+    "id": "word:明星",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2abe4848ac06c6f74f8edb49abf2cae6c1af3b52"
+  },
+  {
+    "id": "word:日报",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «我每天早上看日报» suena poco natural; 日报 se usa casi siempre en nombres propios (人民日报, 北京日报). Para un periódico genérico lo natural es 看报纸."
+    ],
+    "content_hash": "84a31c8acbc5133a49ba9ab2da1f4e1c9aec5351"
+  },
+  {
+    "id": "word:丰富",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b57822adeef5757e4df643fa13467ad4e51fe01"
+  },
+  {
+    "id": "word:随时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ad0579cc8eb1b86042f890a28c429326c144dda"
+  },
+  {
+    "id": "word:提到",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 都 es «dōu», no «dū», en «每次…都会»."
+    ],
+    "content_hash": "787fea8b33ac44d454aeba468d06a493ec6eaf49"
+  },
+  {
+    "id": "word:想起",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4afe00e21a5356026693b537654c2b5641829a7a"
+  },
+  {
+    "id": "word:胜利",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd92cd07400121daed5be5d4c44e55535c36ce97"
+  },
+  {
+    "id": "word:心中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "886b7b33af7bb034b2ee199ba3c9a086d036f760"
+  },
+  {
+    "id": "word:值得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d207f5b176da199eb41b836d53f408b2b3940edf"
+  },
+  {
+    "id": "word:安排",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el 得 de complemento en «安排得» se lee en tono neutro «de», no «dé»."
+    ],
+    "content_hash": "95b2693d244bbb65bbf27b9347736ca7b1f81975"
+  },
+  {
+    "id": "word:以外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80b7c6d9ec6102ab60ac384720c421e010994a47"
+  },
+  {
+    "id": "word:本来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a33bf8cce7282f6b44d683fb23c4c8c35d1f24c7"
+  },
+  {
+    "id": "word:空气",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de «变得» es «biàn de», en tono neutro, no «biàn dé»."
+    ],
+    "content_hash": "b7976aebcbe361f71253b48ede0114d7e85c8c5f"
+  },
+  {
+    "id": "word:满",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9506c18379df3d9a6b28c55ea07a83aa958f1a15"
+  },
+  {
+    "id": "word:气",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «lloró de coraje» es un regionalismo, sobre todo mexicano; en otros países «coraje» significa valor. En español neutro: «hizo llorar de enojo a su mamá»."
+    ],
+    "content_hash": "e78557ae6a35787f21fd0e0090fd0af9826da359"
+  },
+  {
+    "id": "word:活",
+    "ok": true,
+    "issues": [],
+    "content_hash": "915225a07925b94e38427291d24b6f9445ec79e6"
+  },
+  {
+    "id": "word:轻",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el 地 adverbial de «轻轻地» se lee «de» en tono neutro, no «dì»."
+    ],
+    "content_hash": "f5e1ba17f9137372d5060535c0982b5f909e90f8"
+  },
+  {
+    "id": "word:热情",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f7dab142216d9d966121861b0e710566fd5b7bf"
+  },
+  {
+    "id": "word:伟大",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «这是一个伟大的想法，我们应该试试» no es natural. 伟大 es demasiado solemne para una idea cotidiana que se propone probar; lo natural sería 好主意 o 很好的想法. Además, induce un uso incorrecto de la palabra."
+    ],
+    "content_hash": "7b9c8e73a7b2584709d67766c7642dd95d706bc3"
+  },
+  {
+    "id": "word:一生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2e61ee003e4ad62a8562cac17eb9bd237c9facd"
+  },
+  {
+    "id": "word:草",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de «长得» es «zhǎng de», en tono neutro, no «zhǎng dé»."
+    ],
+    "content_hash": "4ea0abb9ca4fb1cc4ffff0b45d5f488e29c14be6"
+  },
+  {
+    "id": "word:车辆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d7f9cda9acb7a95f95efe53a6b2f94e8d589d80b"
+  },
+  {
+    "id": "word:主张",
+    "ok": true,
+    "issues": [],
+    "content_hash": "792b3d313aa0edcb6e2beabac81638546e578ea3"
+  }
+]

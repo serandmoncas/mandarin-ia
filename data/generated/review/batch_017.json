@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1e30d0c1ad41f4730474ae4b61ba83105bd1d5e"
+  },
+  {
+    "id": "word:有时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ccd358fcbb3db64b8f09b7023841c766aae41fb"
+  },
+  {
+    "id": "word:妈",
+    "ok": true,
+    "issues": [],
+    "content_hash": "79e641ce80d40e7773362a7b6873d79b7051f0fd"
+  },
+  {
+    "id": "word:会议",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1e378f0df250cb26b69d1771a22ff0a9ffe23bcd"
+  },
+  {
+    "id": "word:建立",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4512f05af026cc64f442d3e561b6553b6b04f69"
+  },
+  {
+    "id": "word:听到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d84498ffc491807a9978b7f717faea7f7d61feab"
+  },
+  {
+    "id": "word:生产",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bdeafe29f0ba3d4a48f963b93ed035e2bd5a5573"
+  },
+  {
+    "id": "word:认真",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 东西 (cosa) es «dōng xi», con tono neutro; «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "fe5b73f2cdb2544ba13aff837f72dc674c6cfd8a"
+  },
+  {
+    "id": "word:完全",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: el 得 de complemento se lee «de», no «dé» («shuō de»)."
+    ],
+    "content_hash": "c82810b51596c55bb1a750c1bdd2d89092c87f8d"
+  },
+  {
+    "id": "word:下午",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a8435653315d00a1469a28f49a94da7d726973bf"
+  },
+  {
+    "id": "word:相关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ecfd9e53a9261c065a80f894540c885b3676845d"
+  },
+  {
+    "id": "word:坐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e7c12c23f65efe55d9493de69fcfa9ce582883d"
+  },
+  {
+    "id": "word:产品",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bef1140503a1a552f27b68a7ca65e95f6f6c5a69"
+  },
+  {
+    "id": "word:即",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a512aa34998383b7209bf7ba83ddedfee9d796b"
+  },
+  {
+    "id": "word:打开",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «三个妈妈打来的电话» es ambiguo (puede entenderse como «tres mamás»). Sería más natural «有三个妈妈的未接来电» o «妈妈打来了三个电话»."
+    ],
+    "content_hash": "c02e1bd19f8f587f5a09034f9cd587093d4ecb72"
+  },
+  {
+    "id": "word:有关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4200ece0596570fb249c9f844e6cdafe7dbc4e9a"
+  },
+  {
+    "id": "word:高兴",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: el 得 de complemento se lee «de», no «dé» («gāo xìng de»)."
+    ],
+    "content_hash": "b870f2b2e8cce7c925a6e6bcb71f7aa1acd1e4e4"
+  },
+  {
+    "id": "word:国内",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d1c2794dd38cde7d7add5be3106e3f799714e1d2"
+  },
+  {
+    "id": "word:喝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9420fa210171c4e269f38e76ca26e01c7e8f954"
+  },
+  {
+    "id": "word:然后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "837148281f2a2e8989aa9415bda7d539b3383cbe"
+  },
+  {
+    "id": "word:来到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "866c8518fc9acdc60e84f130834822bd11483c0f"
+  },
+  {
+    "id": "word:总",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d26dc267fd4bedda87645bbcac9278e59c8baa06"
+  },
+  {
+    "id": "word:中学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6ce62f141ee8261233ab176e77db6fb01ff4e04"
+  },
+  {
+    "id": "word:委员会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f380540de19cc21b87f3259829eb1db39a64f8cd"
+  },
+  {
+    "id": "word:热",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7726a905d44e08e18aff29508ce49710ab2324ab"
+  }
+]

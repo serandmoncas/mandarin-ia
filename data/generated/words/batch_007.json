@@ -1,0 +1,547 @@
+[
+  {
+    "word": "不能",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no poder",
+      "no deber",
+      "no estar permitido"
+    ],
+    "examples": [
+      {
+        "zh": "我不能去。",
+        "es": "No puedo ir."
+      },
+      {
+        "zh": "你不能在这里说。",
+        "es": "No puedes hablar de eso aquí."
+      },
+      {
+        "zh": "今天我不能和你们去北京。",
+        "es": "Hoy no puedo ir a Pekín con ustedes."
+      },
+      {
+        "zh": "因为工作很多，他现在不能来。",
+        "es": "Como tiene mucho trabajo, ahora no puede venir."
+      }
+    ]
+  },
+  {
+    "word": "高",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "alto",
+      "elevado",
+      "superior al promedio",
+      "fuerte (sonido)"
+    ],
+    "examples": [
+      {
+        "zh": "他很高。",
+        "es": "Él es muy alto."
+      },
+      {
+        "zh": "你比我高。",
+        "es": "Eres más alto que yo."
+      },
+      {
+        "zh": "我的朋友比他还高。",
+        "es": "Mi amigo es todavía más alto que él."
+      },
+      {
+        "zh": "他是我们公司里最高的人。",
+        "es": "Él es la persona más alta de nuestra empresa."
+      }
+    ]
+  },
+  {
+    "word": "成为",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "convertirse en",
+      "llegar a ser",
+      "volverse"
+    ],
+    "examples": [
+      {
+        "zh": "我想成为老师。",
+        "es": "Quiero ser maestro."
+      },
+      {
+        "zh": "我们成为了好朋友。",
+        "es": "Nos hicimos buenos amigos."
+      },
+      {
+        "zh": "她想成为一个有名的人。",
+        "es": "Ella quiere llegar a ser una persona famosa."
+      },
+      {
+        "zh": "他从小就想成为一个对社会有用的人。",
+        "es": "Desde niño quiso convertirse en alguien útil para la sociedad."
+      }
+    ]
+  },
+  {
+    "word": "觉得",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "creer",
+      "parecerle a uno",
+      "sentir"
+    ],
+    "examples": [
+      {
+        "zh": "我觉得很好。",
+        "es": "Me parece muy bien."
+      },
+      {
+        "zh": "你觉得这个怎么样？",
+        "es": "¿Qué te parece esto?"
+      },
+      {
+        "zh": "我觉得他今天不会来了。",
+        "es": "Creo que hoy ya no va a venir."
+      },
+      {
+        "zh": "很多人觉得在北京工作时间太长了。",
+        "es": "Mucha gente siente que en Pekín se trabaja demasiadas horas."
+      }
+    ]
+  },
+  {
+    "word": "一样",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "igual",
+      "lo mismo",
+      "como",
+      "del mismo modo"
+    ],
+    "examples": [
+      {
+        "zh": "我们一样大。",
+        "es": "Tenemos la misma edad."
+      },
+      {
+        "zh": "你的和我的一样。",
+        "es": "El tuyo es igual al mío."
+      },
+      {
+        "zh": "她和她妈妈一样爱看书。",
+        "es": "A ella le encanta leer igual que a su mamá."
+      },
+      {
+        "zh": "现在的北京和十年前不一样了。",
+        "es": "El Pekín de hoy ya no es igual que hace diez años."
+      }
+    ]
+  },
+  {
+    "word": "认为",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "creer",
+      "pensar",
+      "considerar",
+      "opinar"
+    ],
+    "examples": [
+      {
+        "zh": "我认为他是对的。",
+        "es": "Creo que él tiene razón."
+      },
+      {
+        "zh": "你认为谁会来？",
+        "es": "¿Quién crees que vendrá?"
+      },
+      {
+        "zh": "很多人认为这个计划不好。",
+        "es": "Mucha gente piensa que este plan no es bueno."
+      },
+      {
+        "zh": "政府认为这个地方的发展还要更快。",
+        "es": "El gobierno considera que este lugar debe desarrollarse aún más rápido."
+      }
+    ]
+  },
+  {
+    "word": "重要",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "importante",
+      "significativo",
+      "principal"
+    ],
+    "examples": [
+      {
+        "zh": "这个很重要。",
+        "es": "Esto es muy importante."
+      },
+      {
+        "zh": "时间对我很重要。",
+        "es": "El tiempo es muy importante para mí."
+      },
+      {
+        "zh": "你知道这个问题有多重要吗？",
+        "es": "¿Sabes lo importante que es este problema?"
+      },
+      {
+        "zh": "对一个国家来说，发展是最重要的事。",
+        "es": "Para un país, el desarrollo es lo más importante."
+      }
+    ]
+  },
+  {
+    "word": "需要",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "necesitar",
+      "requerir",
+      "necesidad"
+    ],
+    "examples": [
+      {
+        "zh": "我需要你。",
+        "es": "Te necesito."
+      },
+      {
+        "zh": "你需要什么？",
+        "es": "¿Qué necesitas?"
+      },
+      {
+        "zh": "我们需要更多的时间。",
+        "es": "Necesitamos más tiempo."
+      },
+      {
+        "zh": "这个计划需要政府和公司一起来做。",
+        "es": "Este plan requiere que el gobierno y las empresas lo hagan juntos."
+      }
+    ]
+  },
+  {
+    "word": "起来",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "(tras un verbo) hacia arriba",
+      "(tras un verbo) empezar a",
+      "(tras verbos de percepción) parecer",
+      "(tras un verbo) indica que algo se completa"
+    ],
+    "examples": [
+      {
+        "zh": "他站起来了。",
+        "es": "Él se puso de pie."
+      },
+      {
+        "zh": "这个看起来很好。",
+        "es": "Esto se ve muy bien."
+      },
+      {
+        "zh": "大家听了都笑了起来。",
+        "es": "Al oírlo, todos se echaron a reír."
+      },
+      {
+        "zh": "这个问题现在看起来没有那么大了。",
+        "es": "Ahora este problema ya no parece tan grande."
+      }
+    ]
+  },
+  {
+    "word": "啊",
+    "cedict_reading_index": 4,
+    "meanings_es": [
+      "partícula final de énfasis o exclamación",
+      "partícula que expresa acuerdo o aprobación",
+      "partícula que suaviza una pregunta o petición"
+    ],
+    "examples": [
+      {
+        "zh": "好啊！",
+        "es": "¡Claro que sí!"
+      },
+      {
+        "zh": "你快来啊！",
+        "es": "¡Ven rápido!"
+      },
+      {
+        "zh": "今天的天真好啊！",
+        "es": "¡Qué buen día hace hoy!"
+      },
+      {
+        "zh": "你们怎么现在才来啊？",
+        "es": "¿Por qué llegan hasta ahora?"
+      }
+    ]
+  },
+  {
+    "word": "喜欢",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gustar",
+      "querer",
+      "tener afición por",
+      "soler"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢你。",
+        "es": "Me gustas."
+      },
+      {
+        "zh": "你喜欢什么？",
+        "es": "¿Qué te gusta?"
+      },
+      {
+        "zh": "她很喜欢和朋友一起看书。",
+        "es": "A ella le gusta mucho leer con sus amigos."
+      },
+      {
+        "zh": "我喜欢北京，因为这里有很多好吃的。",
+        "es": "Me gusta Pekín porque aquí hay mucha comida rica."
+      }
+    ]
+  },
+  {
+    "word": "钱",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "dinero",
+      "moneda",
+      "fondos"
+    ],
+    "examples": [
+      {
+        "zh": "我没有钱。",
+        "es": "No tengo dinero."
+      },
+      {
+        "zh": "这个多少钱？",
+        "es": "¿Cuánto cuesta esto?"
+      },
+      {
+        "zh": "他把钱给了他的妈妈。",
+        "es": "Le dio el dinero a su mamá."
+      },
+      {
+        "zh": "因为工作很忙，他有钱也没有时间用。",
+        "es": "Como trabaja mucho, aunque tiene dinero no tiene tiempo para gastarlo."
+      }
+    ]
+  },
+  {
+    "word": "已",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ya",
+      "(formal) cesar",
+      "(formal) terminar"
+    ],
+    "examples": [
+      {
+        "zh": "他已是大人了。",
+        "es": "Él ya es un adulto."
+      },
+      {
+        "zh": "我早已知道了。",
+        "es": "Yo ya lo sabía desde hace tiempo."
+      },
+      {
+        "zh": "这个问题已有很多人说过。",
+        "es": "Mucha gente ya ha hablado de este problema."
+      },
+      {
+        "zh": "公司的这个计划已进行了三个月。",
+        "es": "Este plan de la empresa ya lleva tres meses en marcha."
+      }
+    ]
+  },
+  {
+    "word": "当",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "trabajar como",
+      "ser (en un papel o cargo)",
+      "cuando",
+      "deber"
+    ],
+    "examples": [
+      {
+        "zh": "我想当老师。",
+        "es": "Quiero ser maestro."
+      },
+      {
+        "zh": "他现在在北京当医生。",
+        "es": "Ahora trabaja como médico en Pekín."
+      },
+      {
+        "zh": "当我到家的时候，他已经走了。",
+        "es": "Cuando llegué a casa, él ya se había ido."
+      },
+      {
+        "zh": "当你有问题的时候，可以来问我。",
+        "es": "Cuando tengas alguna duda, puedes venir a preguntarme."
+      }
+    ]
+  },
+  {
+    "word": "学生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estudiante",
+      "alumno"
+    ],
+    "examples": [
+      {
+        "zh": "我是学生。",
+        "es": "Soy estudiante."
+      },
+      {
+        "zh": "他是一个好学生。",
+        "es": "Él es un buen alumno."
+      },
+      {
+        "zh": "我们学校有很多中国学生。",
+        "es": "En nuestra escuela hay muchos estudiantes chinos."
+      },
+      {
+        "zh": "老师说这些学生明年会去日本。",
+        "es": "El maestro dijo que estos estudiantes irán a Japón el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "地区",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "región",
+      "zona",
+      "área",
+      "prefectura (división administrativa china)"
+    ],
+    "examples": [
+      {
+        "zh": "这个地区很大。",
+        "es": "Esta región es muy grande."
+      },
+      {
+        "zh": "你是从哪个地区来的？",
+        "es": "¿De qué región vienes?"
+      },
+      {
+        "zh": "这个地区有很多新公司。",
+        "es": "En esta zona hay muchas empresas nuevas."
+      },
+      {
+        "zh": "政府说要让这些地区发展得更快。",
+        "es": "El gobierno dijo que va a hacer que estas regiones se desarrollen más rápido."
+      }
+    ]
+  },
+  {
+    "word": "电影",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "película",
+      "cine"
+    ],
+    "examples": [
+      {
+        "zh": "我爱看电影。",
+        "es": "Me encanta ver películas."
+      },
+      {
+        "zh": "你想看什么电影？",
+        "es": "¿Qué película quieres ver?"
+      },
+      {
+        "zh": "我们明天一起去看电影吧。",
+        "es": "Vamos juntos al cine mañana."
+      },
+      {
+        "zh": "他说这是他今年看过的最好的电影。",
+        "es": "Dice que es la mejor película que ha visto este año."
+      }
+    ]
+  },
+  {
+    "word": "国际",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "internacional"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个国际公司。",
+        "es": "Esta es una empresa internacional."
+      },
+      {
+        "zh": "北京有很多国际学校。",
+        "es": "En Pekín hay muchas escuelas internacionales."
+      },
+      {
+        "zh": "这个问题已经是国际问题了。",
+        "es": "Este problema ya es un problema internacional."
+      },
+      {
+        "zh": "中国想在国际上做更多的事。",
+        "es": "China quiere hacer más cosas a nivel internacional."
+      }
+    ]
+  },
+  {
+    "word": "点",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "(tras un número) hora en punto",
+      "un poco",
+      "punto",
+      "pedir (comida)"
+    ],
+    "examples": [
+      {
+        "zh": "现在几点？",
+        "es": "¿Qué hora es?"
+      },
+      {
+        "zh": "我们三点见。",
+        "es": "Nos vemos a las tres."
+      },
+      {
+        "zh": "你想点什么菜？",
+        "es": "¿Qué platillo quieres pedir?"
+      },
+      {
+        "zh": "因为没有时间了，你能说得快一点吗？",
+        "es": "Como ya no hay tiempo, ¿puedes hablar un poco más rápido?"
+      }
+    ]
+  },
+  {
+    "word": "听",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "escuchar",
+      "oír",
+      "hacer caso",
+      "lata (de bebida)"
+    ],
+    "examples": [
+      {
+        "zh": "你听！",
+        "es": "¡Escucha!"
+      },
+      {
+        "zh": "我听不到你说的话。",
+        "es": "No alcanzo a oír lo que dices."
+      },
+      {
+        "zh": "我很喜欢听中国音乐。",
+        "es": "Me gusta mucho escuchar música china."
+      },
+      {
+        "zh": "你应该听妈妈的话，她说的都是对的。",
+        "es": "Deberías hacerle caso a tu mamá; todo lo que dice es cierto."
+      }
+    ]
+  }
+]

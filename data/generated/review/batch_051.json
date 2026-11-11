@@ -1,0 +1,163 @@
+[
+  {
+    "id": "word:版本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1918200a043b18b7e68a26d284002220a02a964c"
+  },
+  {
+    "id": "word:看来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3bea5659fb7122095a8cebdb1a662703bdc48f8"
+  },
+  {
+    "id": "word:往",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57fef1b38b9210df6f76790c7d5325a2d98e0f98"
+  },
+  {
+    "id": "word:逐渐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "28bcda5ceea12ded905fcf8748e379dab8ec86c1"
+  },
+  {
+    "id": "word:样子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96cc3f6e6ae8bdd214a1eecb3f820d1fb53293b0"
+  },
+  {
+    "id": "word:销售",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: el complemento 得 de '销售得很好' es átono, debe ser 'de', no 'dé'.",
+      "Ejemplo 3: '公司的销售增加了' no es natural; como sustantivo lo habitual es '销售额' o '销量' (公司的销售额增加了很多)."
+    ],
+    "content_hash": "0e7567880af61fb3a7f8b7713a8b80616644a8a8"
+  },
+  {
+    "id": "word:不够",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cce7d3ba38f8d7c57e042093c87052c9d0aafff5"
+  },
+  {
+    "id": "word:附近",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fe2cd1cf45ffda41c1bbbbd1884646844f42dae1"
+  },
+  {
+    "id": "word:地球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5235b4bd44f29dec0920082aa47b115fbc26ca5d"
+  },
+  {
+    "id": "word:公园",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb14c08c1c5c79d19c3738fa18913a4405fa2c60"
+  },
+  {
+    "id": "word:程度",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: el complemento 得 de '说得对' es átono, debe ser 'de', no 'dé'."
+    ],
+    "content_hash": "49bc9b4368a5c9864390fc7fc8e46fddf388fdfc"
+  },
+  {
+    "id": "word:见到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99bc0aaa8b3eceb1db489170e9745b2aa9592d09"
+  },
+  {
+    "id": "word:通知",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ecd1f22eccf1cc4760704ff4bd91ac0dbc9e420"
+  },
+  {
+    "id": "word:习惯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf427a978dadfb4ab4f70bcd3f79c5a6ff7a0fce"
+  },
+  {
+    "id": "word:比如",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1be9b6e9b527f0639f650b7886edc96bb0562b60"
+  },
+  {
+    "id": "word:推动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "102e7ac8956a5aaf6c31421edff30231eac01628"
+  },
+  {
+    "id": "word:卡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8820d0012c7d006da5f35cf8e5f52340a8289091"
+  },
+  {
+    "id": "word:有效",
+    "ok": true,
+    "issues": [],
+    "content_hash": "583e5244dc685cee4bb610e95086b35db7687f1c"
+  },
+  {
+    "id": "word:少数",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef0cd8ca2481ce967466ae4093af4a50f1140567"
+  },
+  {
+    "id": "word:云",
+    "ok": false,
+    "issues": [
+      "Pinyin de 照片 en el ejemplo 4: la lectura estándar es 'zhào piàn', no 'zhào piān'.",
+      "Ejemplo 4: '把照片放在云上' suena poco natural; lo habitual es '把照片都存到云上' o '上传到云端'."
+    ],
+    "content_hash": "01987aa7a04be6dbd011a3600013f3054d92c927"
+  },
+  {
+    "id": "word:儿童",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: el 地 adverbial de '快乐地' es átono, debe ser 'de', no 'dì'.",
+      "Ejemplo 2: '儿童书' es poco idiomático; lo habitual es '童书' o '儿童读物'."
+    ],
+    "content_hash": "0cc94f2098f5592ff4983f2e563e3b7811b59ef5"
+  },
+  {
+    "id": "word:允许",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ddd101e5acbcb96e406409e9fa002f3611e226eb"
+  },
+  {
+    "id": "word:度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7fdb9e1f6896fd5eb4969e75aa71a17db8d5e80e"
+  },
+  {
+    "id": "word:出版",
+    "ok": true,
+    "issues": [],
+    "content_hash": "856e680761beaa92b07398c35076415d7503dbae"
+  },
+  {
+    "id": "word:周",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e522864fc18c65878d0177ca558eb6e7bc9d6af5"
+  }
+]

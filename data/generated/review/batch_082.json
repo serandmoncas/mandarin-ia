@@ -1,0 +1,165 @@
+[
+  {
+    "id": "word:西医",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0c5e267f8d60a9f5ffc22254301ef257545a6fa"
+  },
+  {
+    "id": "word:幸运",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e5e8f283f00a4e06b04ec16b411f1be4ec135c15"
+  },
+  {
+    "id": "word:黑板",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7bac851f07c3f03b2d16aacf554434a4f14e674"
+  },
+  {
+    "id": "word:血",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4cf38692cec18a5ad14dff424aa9dae4770ee6f4"
+  },
+  {
+    "id": "word:难听",
+    "ok": true,
+    "issues": [],
+    "content_hash": "75281cab003dd40a0f3d83f4649248dcf7651420"
+  },
+  {
+    "id": "word:猪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f95231c57699f782a1a444797314006303eda55c"
+  },
+  {
+    "id": "word:公共汽车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1e2ec469020f5616dfcd40c916d3f7f3546781dd"
+  },
+  {
+    "id": "word:保险",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51e29efd39e0d535c41c226e3c8d86f0412ed37c"
+  },
+  {
+    "id": "word:零下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec21a3720be2c5e56a58c772cbf5f22b0ba3b0b8"
+  },
+  {
+    "id": "word:表明",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: el 了 de aspecto en 表明了 se lee «le», no «liǎo» (ejemplos 1 y 4)."
+    ],
+    "content_hash": "7a2854e1593ee62d5d18a79b1974638d098e74c3"
+  },
+  {
+    "id": "word:站住",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ed162381d4ce4e7579f504e8a5fadebcaf6094b"
+  },
+  {
+    "id": "word:爬山",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4942e8393eacd6b5ee2784f76812884e9d9b8c7"
+  },
+  {
+    "id": "word:立刻",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: 得 en 病得很重 es partícula estructural «de», no «dé» (ejemplo 4)."
+    ],
+    "content_hash": "a759ab31295e10e80a3f56e9e95bdae3c708b74d"
+  },
+  {
+    "id": "word:药水",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8409475100ca37b7d92f237672c1bb069d39cbad"
+  },
+  {
+    "id": "word:年底",
+    "ok": true,
+    "issues": [],
+    "content_hash": "439879f7a0f517a6352ab8cddb45a4290041dc38"
+  },
+  {
+    "id": "word:笑话儿",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: el 儿 de erhua no es una sílaba aparte «ér»; debe ser «xiào huar» en todos los ejemplos."
+    ],
+    "content_hash": "b72c96355085f7930622ffd3d0a837a64b31fc5b"
+  },
+  {
+    "id": "word:那会儿",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: el erhua no es una sílaba aparte; debe ser «nà huìr», no «nà huì er» (todos los ejemplos).",
+      "Pinyin erróneo: 哪儿 se lee «nǎr», no «nǎ ér» (ejemplo 2)."
+    ],
+    "content_hash": "a3ffa90bf25be131e2490abb45fc890b47346f2f"
+  },
+  {
+    "id": "word:破",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: 得 en 我得买新的 significa «tener que» y se lee «děi», no «dé» (ejemplo 4)."
+    ],
+    "content_hash": "88637106b52f5a419b45310f7b64adff04a444e7"
+  },
+  {
+    "id": "word:凉快",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24c7030a2ecfa307fa2c3a32697dd6eac6e815f8"
+  },
+  {
+    "id": "word:前进",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: la partícula adverbial 地 en 慢慢地 se lee «de», no «dì» (ejemplo 2)."
+    ],
+    "content_hash": "b93e1cf512315ef3c557386ceaa266d70e5a6421"
+  },
+  {
+    "id": "word:一路平安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ae7837f8f7a29c0aadcc04b0852b95e4a77eecab"
+  },
+  {
+    "id": "word:试验",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89f74c4b6a7ae667ff425bc01e10c374680e0186"
+  },
+  {
+    "id": "word:球鞋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d3756468b9dc0112c5f0b76f4af81ef45db7386"
+  },
+  {
+    "id": "word:输",
+    "ok": true,
+    "issues": [],
+    "content_hash": "28695497aea28118aacf6eb131af45af392fc3b4"
+  },
+  {
+    "id": "word:中餐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f28c6f09aa1a4677d99b1a5f0a67bc7ead32d9a"
+  }
+]

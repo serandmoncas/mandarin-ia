@@ -1,0 +1,156 @@
+[
+  {
+    "id": "char:亲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5b7d254c5d37dbd36f6adff93a363b1338438a4"
+  },
+  {
+    "id": "char:列",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ed61a18839ad3aa3904a56542a394da7216a4b2"
+  },
+  {
+    "id": "char:仅",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca6b1b8e6f904a7e8626df352dda330b62176065"
+  },
+  {
+    "id": "char:确",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4c303868b06094b6a0a32b6cafdc6c12f8e341b"
+  },
+  {
+    "id": "char:物",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b4c88b3f773120b9b2afae88e8dfb6e985f1dab1"
+  },
+  {
+    "id": "char:共",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a88b47988c4747b871fbd75f2e88afec327a6460"
+  },
+  {
+    "id": "char:执",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce04e463d51c7b117cff4fd21fb15dcb7a226063"
+  },
+  {
+    "id": "char:户",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b8e2707f8bbad7b3da5a583035f08a219ee4dab"
+  },
+  {
+    "id": "char:释",
+    "ok": true,
+    "issues": [],
+    "content_hash": "66d4187dfbb4ce578736f9ab2329f19a1da88116"
+  },
+  {
+    "id": "char:渴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a2c1283972a568f1e3b80b6b58736a7439424a2"
+  },
+  {
+    "id": "char:采",
+    "ok": true,
+    "issues": [],
+    "content_hash": "352d7cf6fe40dabb305c2f1c196aa0052c69aaba"
+  },
+  {
+    "id": "char:父",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9376882eee22d9671d78f4bc732f750d3d2dff7e"
+  },
+  {
+    "id": "char:客",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a8548d580b8e85524d9886328165f09f0ab6ba0"
+  },
+  {
+    "id": "char:简",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9714fe08a4b2653bccaf0835947f78d1d1f6240"
+  },
+  {
+    "id": "char:论",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63c1a862d8eed444e17678e38e947bc03a371029"
+  },
+  {
+    "id": "char:讨",
+    "ok": true,
+    "issues": [],
+    "content_hash": "29dfec7c70782f3ff69d4f7f92680b2e65816ad9"
+  },
+  {
+    "id": "char:证",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b12ab3296102d6b6a26ee9975cda68368b63f8b8"
+  },
+  {
+    "id": "char:央",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d93a36b991bcff6d2c31bc3bfc823ff5bca05663"
+  },
+  {
+    "id": "char:俄",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f2072d3a1e72663d90c54300e6a18a331d61e7b"
+  },
+  {
+    "id": "char:罗",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia habla del «ro» de Rusia, pero la palabra española «Rusia» no contiene «ro». 罗 (luó) en 俄罗斯 viene de la forma «Oros/Rossiya», así que la pista sonora confunde al hispanohablante."
+    ],
+    "content_hash": "9107ced76f810d3f7346a13646dddd3d4d96b9dc"
+  },
+  {
+    "id": "char:斯",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia dice que «sī» suena como la «s» final de Rusia, pero «Rusia» termina en «-ia», no en «s». La pista sonora es incorrecta para un hispanohablante."
+    ],
+    "content_hash": "cd56590a24eea36aa457b8145c4cacabc7bda25c"
+  },
+  {
+    "id": "char:域",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac33e301a8f4f07687a167c4a4b45eb2135b4dad"
+  },
+  {
+    "id": "char:综",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5371ef734414611dacc601fbf940bc902689b8a8"
+  },
+  {
+    "id": "char:派",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3d835946348917fb412bd0b9f30ee480e38c4f3e"
+  },
+  {
+    "id": "char:宣",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ee9e8e698aac2a194cbc185bebb535a7e927955"
+  }
+]

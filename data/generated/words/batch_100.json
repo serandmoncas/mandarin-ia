@@ -1,0 +1,532 @@
+[
+  {
+    "word": "布",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "tela",
+      "paño",
+      "anunciar, proclamar",
+      "difundir"
+    ],
+    "examples": [
+      {
+        "zh": "这块布很漂亮。",
+        "es": "Esta tela es muy bonita."
+      },
+      {
+        "zh": "妈妈去商店买布。",
+        "es": "Mamá fue a la tienda a comprar tela."
+      },
+      {
+        "zh": "我用这块白布做了一件衣服。",
+        "es": "Hice una prenda de ropa con esta tela blanca."
+      },
+      {
+        "zh": "这种布很便宜，可是洗了以后变小了。",
+        "es": "Esta tela es barata, pero se encogió después de lavarla."
+      }
+    ]
+  },
+  {
+    "word": "字典",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "diccionario de caracteres",
+      "diccionario"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的字典。",
+        "es": "Este es mi diccionario."
+      },
+      {
+        "zh": "我想买一本字典。",
+        "es": "Quiero comprar un diccionario."
+      },
+      {
+        "zh": "不认识的字可以查字典。",
+        "es": "Los caracteres que no conoces los puedes buscar en el diccionario."
+      },
+      {
+        "zh": "老师说学习汉语一定要有一本好字典。",
+        "es": "El maestro dice que para estudiar chino hay que tener un buen diccionario."
+      }
+    ]
+  },
+  {
+    "word": "成熟",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "maduro",
+      "madurar",
+      "consolidado, bien desarrollado"
+    ],
+    "examples": [
+      {
+        "zh": "苹果成熟了。",
+        "es": "Las manzanas ya maduraron."
+      },
+      {
+        "zh": "他比以前成熟多了。",
+        "es": "Él es mucho más maduro que antes."
+      },
+      {
+        "zh": "这个技术现在还不够成熟。",
+        "es": "Esta tecnología todavía no está lo bastante desarrollada."
+      },
+      {
+        "zh": "秋天到了，树上的水果都成熟了。",
+        "es": "Llegó el otoño y toda la fruta de los árboles ya maduró."
+      }
+    ]
+  },
+  {
+    "word": "瓶子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "botella",
+      "frasco"
+    ],
+    "examples": [
+      {
+        "zh": "瓶子里有水。",
+        "es": "Hay agua en la botella."
+      },
+      {
+        "zh": "这个瓶子是谁的？",
+        "es": "¿De quién es esta botella?"
+      },
+      {
+        "zh": "请把这些瓶子放在门口。",
+        "es": "Por favor, pon estas botellas en la entrada."
+      },
+      {
+        "zh": "他喝完牛奶，把瓶子洗干净了。",
+        "es": "Terminó de tomarse la leche y lavó bien la botella."
+      }
+    ]
+  },
+  {
+    "word": "集体",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "colectivo",
+      "grupo, equipo",
+      "en grupo, en conjunto"
+    ],
+    "examples": [
+      {
+        "zh": "我们是一个集体。",
+        "es": "Somos un equipo."
+      },
+      {
+        "zh": "学校组织了一次集体活动。",
+        "es": "La escuela organizó una actividad grupal."
+      },
+      {
+        "zh": "这是集体决定，不是我一个人的意见。",
+        "es": "Es una decisión colectiva, no solo mi opinión."
+      },
+      {
+        "zh": "在集体生活中，我们应该互相帮助。",
+        "es": "Cuando vivimos en grupo, debemos ayudarnos unos a otros."
+      }
+    ]
+  },
+  {
+    "word": "照相",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tomar fotos",
+      "fotografiar"
+    ],
+    "examples": [
+      {
+        "zh": "我们一起照相吧！",
+        "es": "¡Tomémonos una foto juntos!"
+      },
+      {
+        "zh": "这里不能照相。",
+        "es": "Aquí no se pueden tomar fotos."
+      },
+      {
+        "zh": "他很喜欢去公园照相。",
+        "es": "A él le gusta mucho ir al parque a tomar fotos."
+      },
+      {
+        "zh": "旅游的时候，她常常用手机照相。",
+        "es": "Cuando viaja, ella suele tomar fotos con el celular."
+      }
+    ]
+  },
+  {
+    "word": "简直",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "simplemente",
+      "realmente",
+      "prácticamente"
+    ],
+    "examples": [
+      {
+        "zh": "这简直太好了！",
+        "es": "¡Esto es simplemente genial!"
+      },
+      {
+        "zh": "他简直不像个孩子。",
+        "es": "Realmente no parece un niño."
+      },
+      {
+        "zh": "今天热得简直不能出门。",
+        "es": "Hoy hace tanto calor que prácticamente no se puede salir."
+      },
+      {
+        "zh": "这个问题太难了，我简直不知道怎么回答。",
+        "es": "Esta pregunta es tan difícil que de plano no sé cómo responderla."
+      }
+    ]
+  },
+  {
+    "word": "晚报",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "periódico vespertino",
+      "diario de la tarde"
+    ],
+    "examples": [
+      {
+        "zh": "爸爸在看晚报。",
+        "es": "Papá está leyendo el periódico de la tarde."
+      },
+      {
+        "zh": "今天的晚报来了吗？",
+        "es": "¿Ya llegó el periódico vespertino de hoy?"
+      },
+      {
+        "zh": "这个消息是我在晚报上看到的。",
+        "es": "Esta noticia la vi en el periódico de la tarde."
+      },
+      {
+        "zh": "爷爷每天吃完晚饭都会读一会儿晚报。",
+        "es": "Todos los días, después de cenar, el abuelo lee un rato el periódico vespertino."
+      }
+    ]
+  },
+  {
+    "word": "走开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "irse",
+      "alejarse",
+      "apartarse, quitarse"
+    ],
+    "examples": [
+      {
+        "zh": "你走开！",
+        "es": "¡Vete!"
+      },
+      {
+        "zh": "请走开，我要工作。",
+        "es": "Por favor, apártate, tengo que trabajar."
+      },
+      {
+        "zh": "他看到我，马上就走开了。",
+        "es": "Cuando me vio, se fue enseguida."
+      },
+      {
+        "zh": "我还没说完，她就生气地走开了。",
+        "es": "Todavía no terminaba de hablar cuando ella se fue enojada."
+      }
+    ]
+  },
+  {
+    "word": "举手",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "levantar la mano",
+      "alzar la mano"
+    ],
+    "examples": [
+      {
+        "zh": "请举手。",
+        "es": "Levanten la mano, por favor."
+      },
+      {
+        "zh": "想参加的同学请举手。",
+        "es": "Los compañeros que quieran participar, levanten la mano."
+      },
+      {
+        "zh": "上课的时候，有问题要先举手。",
+        "es": "En clase, si tienes una pregunta, primero levanta la mano."
+      },
+      {
+        "zh": "老师问谁愿意帮忙，很多学生都举手了。",
+        "es": "El maestro preguntó quién quería ayudar y muchos estudiantes levantaron la mano."
+      }
+    ]
+  },
+  {
+    "word": "洗衣机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lavadora"
+    ],
+    "examples": [
+      {
+        "zh": "家里有洗衣机。",
+        "es": "En la casa hay lavadora."
+      },
+      {
+        "zh": "我们的洗衣机坏了。",
+        "es": "Se nos descompuso la lavadora."
+      },
+      {
+        "zh": "请把衣服放进洗衣机里。",
+        "es": "Por favor, mete la ropa en la lavadora."
+      },
+      {
+        "zh": "这台新洗衣机很好用，而且声音很小。",
+        "es": "Esta lavadora nueva funciona muy bien y además hace poco ruido."
+      }
+    ]
+  },
+  {
+    "word": "麻烦",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "molestia, problema",
+      "molestar",
+      "complicado, engorroso"
+    ],
+    "examples": [
+      {
+        "zh": "真麻烦！",
+        "es": "¡Qué lata!"
+      },
+      {
+        "zh": "麻烦你帮我一下。",
+        "es": "¿Me haces el favor de ayudarme?"
+      },
+      {
+        "zh": "对不起，给你带来麻烦了。",
+        "es": "Perdón por causarte molestias."
+      },
+      {
+        "zh": "坐地铁去机场太麻烦了，我们打车吧。",
+        "es": "Ir al aeropuerto en metro es muy complicado; mejor tomemos un taxi."
+      }
+    ]
+  },
+  {
+    "word": "叫作",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llamarse",
+      "llamar, denominar"
+    ],
+    "examples": [
+      {
+        "zh": "他的狗叫作小黑。",
+        "es": "Su perro se llama Negrito."
+      },
+      {
+        "zh": "这种面包叫作什么？",
+        "es": "¿Cómo se llama este tipo de pan?"
+      },
+      {
+        "zh": "在中国，这种车叫作出租车。",
+        "es": "En China, este tipo de carro se llama taxi."
+      },
+      {
+        "zh": "人们把北京、上海这样的城市叫作大城市。",
+        "es": "A ciudades como Pekín y Shanghái la gente las llama grandes ciudades."
+      }
+    ]
+  },
+  {
+    "word": "外卖",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comida a domicilio",
+      "comida para llevar",
+      "servicio de entrega"
+    ],
+    "examples": [
+      {
+        "zh": "我们叫外卖吧。",
+        "es": "Pidamos comida a domicilio."
+      },
+      {
+        "zh": "今天太累了，我想点外卖。",
+        "es": "Hoy estoy muy cansado, quiero pedir comida a domicilio."
+      },
+      {
+        "zh": "这家饭店的外卖又快又好吃。",
+        "es": "La comida a domicilio de este restaurante llega rápido y es muy rica."
+      },
+      {
+        "zh": "很多年轻人工作很忙，常常在手机上点外卖。",
+        "es": "Muchos jóvenes tienen mucho trabajo y suelen pedir comida desde el celular."
+      }
+    ]
+  },
+  {
+    "word": "深入",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a fondo",
+      "profundo, minucioso",
+      "adentrarse en",
+      "profundizar"
+    ],
+    "examples": [
+      {
+        "zh": "我们需要深入了解。",
+        "es": "Necesitamos entenderlo a fondo."
+      },
+      {
+        "zh": "他对这个问题进行了深入研究。",
+        "es": "Él hizo un estudio profundo de este problema."
+      },
+      {
+        "zh": "老师希望我们深入学习中国文化。",
+        "es": "El maestro espera que estudiemos la cultura china a fondo."
+      },
+      {
+        "zh": "记者深入农村，了解农民的真实生活。",
+        "es": "El periodista se adentró en el campo para conocer la vida real de los campesinos."
+      }
+    ]
+  },
+  {
+    "word": "药店",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "farmacia"
+    ],
+    "examples": [
+      {
+        "zh": "药店在哪里？",
+        "es": "¿Dónde está la farmacia?"
+      },
+      {
+        "zh": "前边有一家药店。",
+        "es": "Más adelante hay una farmacia."
+      },
+      {
+        "zh": "我去药店给妈妈买药。",
+        "es": "Voy a la farmacia a comprarle medicina a mi mamá."
+      },
+      {
+        "zh": "医生说你得去药店买这种药，每天吃三次。",
+        "es": "El doctor dice que tienes que comprar esta medicina en la farmacia y tomarla tres veces al día."
+      }
+    ]
+  },
+  {
+    "word": "外交",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "diplomacia",
+      "diplomático",
+      "relaciones exteriores"
+    ],
+    "examples": [
+      {
+        "zh": "他在外交部工作。",
+        "es": "Él trabaja en el Ministerio de Relaciones Exteriores."
+      },
+      {
+        "zh": "这是一个外交问题。",
+        "es": "Este es un asunto diplomático."
+      },
+      {
+        "zh": "两国的外交关系越来越好。",
+        "es": "Las relaciones diplomáticas entre los dos países son cada vez mejores."
+      },
+      {
+        "zh": "她大学学的是外交，现在在国外工作。",
+        "es": "En la universidad estudió diplomacia y ahora trabaja en el extranjero."
+      }
+    ]
+  },
+  {
+    "word": "个子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estatura",
+      "talla, tamaño"
+    ],
+    "examples": [
+      {
+        "zh": "他个子很高。",
+        "es": "Él es muy alto."
+      },
+      {
+        "zh": "我妹妹个子不高。",
+        "es": "Mi hermana menor no es alta."
+      },
+      {
+        "zh": "那个高个子的男生是我哥哥。",
+        "es": "Ese muchacho alto es mi hermano mayor."
+      },
+      {
+        "zh": "小时候他个子很小，现在比爸爸还高。",
+        "es": "De niño era muy bajito, y ahora es más alto que su papá."
+      }
+    ]
+  },
+  {
+    "word": "现代化",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "modernización",
+      "moderno",
+      "modernizar"
+    ],
+    "examples": [
+      {
+        "zh": "这个城市很现代化。",
+        "es": "Esta ciudad es muy moderna."
+      },
+      {
+        "zh": "中国正在实现现代化。",
+        "es": "China está logrando su modernización."
+      },
+      {
+        "zh": "这家医院有很多现代化的设备。",
+        "es": "Este hospital tiene muchos equipos modernos."
+      },
+      {
+        "zh": "农业现代化让农民的生活越来越好。",
+        "es": "La modernización de la agricultura ha mejorado cada vez más la vida de los campesinos."
+      }
+    ]
+  },
+  {
+    "word": "饺子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jiaozi (empanadita china)",
+      "dumpling"
+    ],
+    "examples": [
+      {
+        "zh": "我爱吃饺子。",
+        "es": "Me encantan los jiaozi."
+      },
+      {
+        "zh": "妈妈在家包饺子。",
+        "es": "Mamá está haciendo jiaozi en casa."
+      },
+      {
+        "zh": "春节的时候，我们全家一起吃饺子。",
+        "es": "En el Año Nuevo chino, toda la familia come jiaozi junta."
+      },
+      {
+        "zh": "奶奶包的饺子特别好吃，我一次能吃二十个。",
+        "es": "Los jiaozi que hace la abuela son riquísimos; me puedo comer veinte de una vez."
+      }
+    ]
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "word": "但",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pero",
+      "sin embargo",
+      "solo, solamente"
+    ],
+    "examples": [
+      {
+        "zh": "我很想去，但没有时间。",
+        "es": "Tengo muchas ganas de ir, pero no tengo tiempo."
+      },
+      {
+        "zh": "这个不贵，但我不要。",
+        "es": "Esto no es caro, pero no lo quiero."
+      },
+      {
+        "zh": "他会说中文，但说得不好。",
+        "es": "Él habla chino, pero no muy bien."
+      },
+      {
+        "zh": "他们都来了，但他还没有到。",
+        "es": "Ellos ya vinieron todos, pero él todavía no llega."
+      }
+    ]
+  },
+  {
+    "word": "于",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "en (tiempo o lugar)",
+      "para, con respecto a",
+      "de, desde",
+      "que (en comparaciones)"
+    ],
+    "examples": [
+      {
+        "zh": "他生于中国。",
+        "es": "Él nació en China."
+      },
+      {
+        "zh": "会议于三月开始。",
+        "es": "La reunión comienza en marzo."
+      },
+      {
+        "zh": "这个对于我们很重要。",
+        "es": "Esto es muy importante para nosotros."
+      },
+      {
+        "zh": "他们的会议于下个月十日在中国举行。",
+        "es": "Su reunión se realizará el día diez del próximo mes en China."
+      }
+    ]
+  },
+  {
+    "word": "日",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "día (del mes)",
+      "sol",
+      "día",
+      "Japón (abreviatura)"
+    ],
+    "examples": [
+      {
+        "zh": "今天是五月一日。",
+        "es": "Hoy es primero de mayo."
+      },
+      {
+        "zh": "我的生日是十月三日。",
+        "es": "Mi cumpleaños es el tres de octubre."
+      },
+      {
+        "zh": "我们一起去看日出吧。",
+        "es": "Vamos juntos a ver el amanecer."
+      },
+      {
+        "zh": "中国的国庆节是十月一日。",
+        "es": "El Día Nacional de China es el primero de octubre."
+      }
+    ]
+  },
+  {
+    "word": "什么",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "qué",
+      "algo",
+      "cualquier cosa"
+    ],
+    "examples": [
+      {
+        "zh": "这是什么？",
+        "es": "¿Qué es esto?"
+      },
+      {
+        "zh": "你要什么？",
+        "es": "¿Qué quieres?"
+      },
+      {
+        "zh": "他刚才说了什么？",
+        "es": "¿Qué dijo él hace un momento?"
+      },
+      {
+        "zh": "你们什么时候来中国？",
+        "es": "¿Cuándo vienen ustedes a China?"
+      }
+    ]
+  },
+  {
+    "word": "这个",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "este, esta",
+      "esto"
+    ],
+    "examples": [
+      {
+        "zh": "这个是我的。",
+        "es": "Este es mío."
+      },
+      {
+        "zh": "你要这个吗？",
+        "es": "¿Quieres este?"
+      },
+      {
+        "zh": "这个人是我们的老师。",
+        "es": "Esta persona es nuestro maestro."
+      },
+      {
+        "zh": "这个月我们都要去中国。",
+        "es": "Este mes todos vamos a ir a China."
+      }
+    ]
+  },
+  {
+    "word": "并",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "y además",
+      "(con negación) para nada, en absoluto",
+      "al mismo tiempo",
+      "unir, combinar"
+    ],
+    "examples": [
+      {
+        "zh": "这个并不难。",
+        "es": "Esto no es nada difícil."
+      },
+      {
+        "zh": "我并不知道这个。",
+        "es": "En realidad yo no sabía eso."
+      },
+      {
+        "zh": "他来了，并带了一个朋友。",
+        "es": "Él vino y además trajo a un amigo."
+      },
+      {
+        "zh": "我们讨论了这个问题，并找到了办法。",
+        "es": "Discutimos este problema y encontramos una solución."
+      }
+    ]
+  },
+  {
+    "word": "能",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "poder",
+      "ser capaz de",
+      "habilidad, capacidad",
+      "energía (física)"
+    ],
+    "examples": [
+      {
+        "zh": "我能来。",
+        "es": "Puedo venir."
+      },
+      {
+        "zh": "你能说中文吗？",
+        "es": "¿Puedes hablar chino?"
+      },
+      {
+        "zh": "明天你能来我家吗？",
+        "es": "¿Puedes venir a mi casa mañana?"
+      },
+      {
+        "zh": "他们这个月不能到中国。",
+        "es": "Ellos no pueden llegar a China este mes."
+      }
+    ]
+  },
+  {
+    "word": "很",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muy",
+      "bastante"
+    ],
+    "examples": [
+      {
+        "zh": "我很好。",
+        "es": "Estoy muy bien."
+      },
+      {
+        "zh": "我家很大。",
+        "es": "Mi casa es muy grande."
+      },
+      {
+        "zh": "他们的中文都很好。",
+        "es": "El chino de todos ellos es muy bueno."
+      },
+      {
+        "zh": "我很想和你一起去中国。",
+        "es": "Tengo muchas ganas de ir a China contigo."
+      }
+    ]
+  },
+  {
+    "word": "将",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "(futuro) ir a, ser",
+      "tomar (introduce el objeto, como 把)",
+      "dar jaque"
+    ],
+    "examples": [
+      {
+        "zh": "我们将去中国。",
+        "es": "Iremos a China."
+      },
+      {
+        "zh": "请将这个给他。",
+        "es": "Por favor, dale esto a él."
+      },
+      {
+        "zh": "会议将在三月开始。",
+        "es": "La reunión comenzará en marzo."
+      },
+      {
+        "zh": "明年他们将在中国开一个新店。",
+        "es": "El próximo año abrirán una tienda nueva en China."
+      }
+    ]
+  },
+  {
+    "word": "一",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "uno",
+      "un, una",
+      "en cuanto, apenas",
+      "todo, entero"
+    ],
+    "examples": [
+      {
+        "zh": "我有一个朋友。",
+        "es": "Tengo un amigo."
+      },
+      {
+        "zh": "一月很冷。",
+        "es": "En enero hace mucho frío."
+      },
+      {
+        "zh": "他一来，我们就走。",
+        "es": "En cuanto él llegue, nos vamos."
+      },
+      {
+        "zh": "我们一家人都在中国。",
+        "es": "Toda nuestra familia está en China."
+      }
+    ]
+  },
+  {
+    "word": "从",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "desde, de",
+      "por, a través de",
+      "seguir",
+      "(con negación) nunca"
+    ],
+    "examples": [
+      {
+        "zh": "我从中国来。",
+        "es": "Vengo de China."
+      },
+      {
+        "zh": "你从哪里来？",
+        "es": "¿De dónde vienes?"
+      },
+      {
+        "zh": "他从来没有去过中国。",
+        "es": "Él nunca ha ido a China."
+      },
+      {
+        "zh": "我们从一月到三月都在学中文。",
+        "es": "De enero a marzo estuvimos estudiando chino."
+      }
+    ]
+  },
+  {
+    "word": "让",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dejar, permitir",
+      "hacer que, pedir que",
+      "ceder",
+      "por (en voz pasiva)"
+    ],
+    "examples": [
+      {
+        "zh": "让我看看。",
+        "es": "Déjame ver."
+      },
+      {
+        "zh": "妈妈不让我去。",
+        "es": "Mamá no me deja ir."
+      },
+      {
+        "zh": "这个消息让我很高兴。",
+        "es": "Esta noticia me pone muy feliz."
+      },
+      {
+        "zh": "老师让我们每天都说中文。",
+        "es": "El maestro nos pide que hablemos chino todos los días."
+      }
+    ]
+  },
+  {
+    "word": "国家",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "país",
+      "nación",
+      "Estado"
+    ],
+    "examples": [
+      {
+        "zh": "中国是一个很大的国家。",
+        "es": "China es un país muy grande."
+      },
+      {
+        "zh": "你去过几个国家？",
+        "es": "¿A cuántos países has ido?"
+      },
+      {
+        "zh": "每个国家都有自己的文化。",
+        "es": "Cada país tiene su propia cultura."
+      },
+      {
+        "zh": "这个国家的人都很喜欢喝茶。",
+        "es": "A la gente de este país le gusta mucho tomar té."
+      }
+    ]
+  },
+  {
+    "word": "好",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bueno, bien",
+      "¡de acuerdo!",
+      "fácil de",
+      "(indica que algo está terminado)"
+    ],
+    "examples": [
+      {
+        "zh": "你好！",
+        "es": "¡Hola!"
+      },
+      {
+        "zh": "这个很好。",
+        "es": "Esto está muy bien."
+      },
+      {
+        "zh": "好的，我们明天见。",
+        "es": "Está bien, nos vemos mañana."
+      },
+      {
+        "zh": "这本书很好看，你也会喜欢的。",
+        "es": "Este libro es muy bueno; a ti también te va a gustar."
+      }
+    ]
+  },
+  {
+    "word": "大",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grande",
+      "mayor (de edad)",
+      "muy, mucho"
+    ],
+    "examples": [
+      {
+        "zh": "你多大了？",
+        "es": "¿Cuántos años tienes?"
+      },
+      {
+        "zh": "他是我的大哥。",
+        "es": "Él es mi hermano mayor."
+      },
+      {
+        "zh": "这个房间不大。",
+        "es": "Este cuarto no es grande."
+      },
+      {
+        "zh": "这个城市比我们的大很多。",
+        "es": "Esta ciudad es mucho más grande que la nuestra."
+      }
+    ]
+  },
+  {
+    "word": "以",
+    "cedict_reading_index": 3,
+    "meanings_es": [
+      "con, por medio de",
+      "según, de acuerdo con",
+      "para, con el fin de",
+      "por, debido a"
+    ],
+    "examples": [
+      {
+        "zh": "我们以后再说。",
+        "es": "Lo hablamos después."
+      },
+      {
+        "zh": "我们以茶代酒。",
+        "es": "Brindamos con té en lugar de vino."
+      },
+      {
+        "zh": "他以第一名毕业了。",
+        "es": "Él se graduó en primer lugar."
+      },
+      {
+        "zh": "我们的学校要以学生为中心。",
+        "es": "Nuestra escuela debe centrarse en los estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "她",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ella"
+    ],
+    "examples": [
+      {
+        "zh": "她是我妈妈。",
+        "es": "Ella es mi mamá."
+      },
+      {
+        "zh": "她也会说中文。",
+        "es": "Ella también habla chino."
+      },
+      {
+        "zh": "她在中国住了三年。",
+        "es": "Ella vivió tres años en China."
+      },
+      {
+        "zh": "她说她下个月要和我们一起去。",
+        "es": "Ella dijo que el próximo mes va a ir con nosotros."
+      }
+    ]
+  },
+  {
+    "word": "着",
+    "cedict_reading_index": 6,
+    "meanings_es": [
+      "(indica acción en curso o estado que continúa)"
+    ],
+    "examples": [
+      {
+        "zh": "门开着。",
+        "es": "La puerta está abierta."
+      },
+      {
+        "zh": "她坐着看书。",
+        "es": "Ella lee sentada."
+      },
+      {
+        "zh": "他笑着说：“你好！”",
+        "es": "Él dijo sonriendo: «¡Hola!»"
+      },
+      {
+        "zh": "我们走着去吧，不用坐车。",
+        "es": "Vamos a pie, no hace falta tomar el bus."
+      }
+    ]
+  },
+  {
+    "word": "多",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mucho, muchos",
+      "más (de)",
+      "demasiado",
+      "qué tan, cuánto"
+    ],
+    "examples": [
+      {
+        "zh": "人很多。",
+        "es": "Hay mucha gente."
+      },
+      {
+        "zh": "你有多少钱？",
+        "es": "¿Cuánto dinero tienes?"
+      },
+      {
+        "zh": "他们有很多中国朋友。",
+        "es": "Ellos tienen muchos amigos chinos."
+      },
+      {
+        "zh": "他在中国住了十多年了。",
+        "es": "Él lleva más de diez años viviendo en China."
+      }
+    ]
+  },
+  {
+    "word": "给",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dar",
+      "a, para (alguien)",
+      "por (en voz pasiva)"
+    ],
+    "examples": [
+      {
+        "zh": "给你。",
+        "es": "Toma, aquí tienes."
+      },
+      {
+        "zh": "我给他一本书。",
+        "es": "Le doy un libro a él."
+      },
+      {
+        "zh": "明天请给我打电话。",
+        "es": "Por favor, llámame mañana."
+      },
+      {
+        "zh": "妈妈每个月都给我们做中国菜。",
+        "es": "Mamá nos prepara comida china todos los meses."
+      }
+    ]
+  }
+]

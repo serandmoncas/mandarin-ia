@@ -1,0 +1,166 @@
+[
+  {
+    "id": "phrase:directions:019",
+    "ok": true,
+    "issues": [],
+    "content_hash": "deadd5cf466056948371aea46258da69b31844e8"
+  },
+  {
+    "id": "phrase:directions:020",
+    "ok": true,
+    "issues": [],
+    "content_hash": "082ee857a1153a4a6363ad66bc41701d6c3a7667"
+  },
+  {
+    "id": "phrase:directions:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "060a68c0bd321d0fcca48a3ef2a1261183f14cac"
+  },
+  {
+    "id": "phrase:directions:022",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45ad466cbc9d392e39840937058fcea570b90ca3"
+  },
+  {
+    "id": "phrase:directions:023",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5c39b39db9f0dce9aa200fb5549ff1539121533"
+  },
+  {
+    "id": "phrase:directions:024",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6394802ae61dcce19caec41eb619f077d05c2f82"
+  },
+  {
+    "id": "phrase:directions:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30dcbd58f554e8fc93ed60bb14843cc6b31801e8"
+  },
+  {
+    "id": "phrase:directions:026",
+    "ok": false,
+    "issues": [
+      "Falta la «A» en el pinyin: debería ser «cóng A kǒu chū lái jiù dào le».",
+      "La traducción mezcla tiempos y suena poco natural («Sale... y ya llegó»). Mejor: «Salga por la salida A y ya está ahí»."
+    ],
+    "content_hash": "b8b1c6b654f8b9261f445033a729cc3605ce5055"
+  },
+  {
+    "id": "phrase:directions:027",
+    "ok": false,
+    "issues": [
+      "Pinyin de 清楚: la segunda sílaba es átona, «qīng chu», no «qīng chǔ».",
+      "En el verbo reduplicado 问问 la segunda sílaba es átona: «wèn wen»."
+    ],
+    "content_hash": "54207a0c4487841c30865ef45ad72cb5a63d0747"
+  },
+  {
+    "id": "phrase:directions:028",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f370f80bd050150e79d9745b3db389fe9f444d18"
+  },
+  {
+    "id": "phrase:directions:029",
+    "ok": false,
+    "issues": [
+      "Pinyin de 谢谢: la segunda sílaba es átona, «xiè xie», no «xiè xiè»."
+    ],
+    "content_hash": "57b2481f35543085af3b1f7541e14921c6279698"
+  },
+  {
+    "id": "phrase:emergencies:000",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd9032a3214331dc338aff883a504138ddd0d980"
+  },
+  {
+    "id": "phrase:emergencies:001",
+    "ok": false,
+    "issues": [
+      "En el verbo reduplicado 帮帮 la segunda sílaba es átona: «bāng bang», no «bāng bāng»."
+    ],
+    "content_hash": "69f2cc375136aa9b2df05322cd4e44564b8929fd"
+  },
+  {
+    "id": "phrase:emergencies:002",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dab1ac9f016f7fcf3da9a590adc335f2b9ebc733"
+  },
+  {
+    "id": "phrase:emergencies:003",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8119e90fc840b872a3ae82564c6950adc5516a61"
+  },
+  {
+    "id": "phrase:emergencies:004",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a150fe8a6cf8c1eb950e3976da695290949f82a"
+  },
+  {
+    "id": "phrase:emergencies:005",
+    "ok": false,
+    "issues": [
+      "Pinyin de 哪里: según el estándar la segunda sílaba es átona, «nǎ li». Además, en el habla se pronuncia «ná li» por sandhi."
+    ],
+    "content_hash": "b48c2ebf1ca250204d683a4be89677120591468b"
+  },
+  {
+    "id": "phrase:emergencies:006",
+    "ok": true,
+    "issues": [],
+    "content_hash": "55ae3b07b510904ede8a1142ca3990ebf56dcb7b"
+  },
+  {
+    "id": "phrase:emergencies:007",
+    "ok": false,
+    "issues": [
+      "Pinyin de 舒服: la segunda sílaba es átona, «shū fu», no «shū fú»."
+    ],
+    "content_hash": "9279f93b9fe53b88352817e831f0c25983779325"
+  },
+  {
+    "id": "phrase:emergencies:008",
+    "ok": true,
+    "issues": [],
+    "content_hash": "995ca76bb69d42e02df27ea64a010152e7dea277"
+  },
+  {
+    "id": "phrase:emergencies:009",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ed1beee94812e9bd6b70f0348cb5466a6996cdf"
+  },
+  {
+    "id": "phrase:emergencies:010",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab153c01f3096af50ac8d7ce52026b2e90e6cbf2"
+  },
+  {
+    "id": "phrase:emergencies:011",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f855333efd499246583ccba9ec7580df88bbfe8"
+  },
+  {
+    "id": "phrase:emergencies:012",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89fe7255ef641268cb257588f9f1304ea5fe619d"
+  },
+  {
+    "id": "phrase:emergencies:013",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba3f1e3d5c555d3106df5502f08b60acb5275f04"
+  }
+]

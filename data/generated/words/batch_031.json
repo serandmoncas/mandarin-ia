@@ -1,0 +1,533 @@
+[
+  {
+    "word": "上午",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mañana (antes del mediodía)",
+      "por la mañana"
+    ],
+    "examples": [
+      {
+        "zh": "我上午在家。",
+        "es": "Estoy en casa en la mañana."
+      },
+      {
+        "zh": "今天上午很热。",
+        "es": "Hoy en la mañana hace mucho calor."
+      },
+      {
+        "zh": "明天上午我要去医院。",
+        "es": "Mañana en la mañana tengo que ir al hospital."
+      },
+      {
+        "zh": "他上午工作，下午去学校学习。",
+        "es": "Él trabaja en la mañana y en la tarde va a la escuela a estudiar."
+      }
+    ]
+  },
+  {
+    "word": "参与",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "participar",
+      "tomar parte",
+      "involucrarse"
+    ],
+    "examples": [
+      {
+        "zh": "我想参与这个活动。",
+        "es": "Quiero participar en esta actividad."
+      },
+      {
+        "zh": "很多学生参与了这个项目。",
+        "es": "Muchos estudiantes participaron en este proyecto."
+      },
+      {
+        "zh": "你为什么不参与我们的计划？",
+        "es": "¿Por qué no participas en nuestro plan?"
+      },
+      {
+        "zh": "大家都应该参与社会的发展。",
+        "es": "Todos deberían participar en el desarrollo de la sociedad."
+      }
+    ]
+  },
+  {
+    "word": "火车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tren"
+    ],
+    "examples": [
+      {
+        "zh": "我坐火车去北京。",
+        "es": "Voy a Pekín en tren."
+      },
+      {
+        "zh": "火车已经开了。",
+        "es": "El tren ya salió."
+      },
+      {
+        "zh": "从上海到北京坐火车要几个小时？",
+        "es": "¿Cuántas horas se tarda en tren de Shanghái a Pekín?"
+      },
+      {
+        "zh": "我喜欢坐火车，因为可以看外面的山和水。",
+        "es": "Me gusta viajar en tren porque puedo ver las montañas y los ríos de afuera."
+      }
+    ]
+  },
+  {
+    "word": "是否",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "si (o no)",
+      "acaso"
+    ],
+    "examples": [
+      {
+        "zh": "我不知道他是否会来。",
+        "es": "No sé si él vendrá."
+      },
+      {
+        "zh": "请告诉我你明天是否有时间。",
+        "es": "Por favor, dime si tienes tiempo mañana."
+      },
+      {
+        "zh": "老师问我们是否准备好了。",
+        "es": "El maestro nos preguntó si ya estábamos listos."
+      },
+      {
+        "zh": "他们还没有决定是否参加这次会议。",
+        "es": "Todavía no han decidido si van a asistir a esta reunión."
+      }
+    ]
+  },
+  {
+    "word": "经",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "a través de, por medio de",
+      "pasar por, experimentar",
+      "texto clásico, escritura sagrada",
+      "longitud (geografía)"
+    ],
+    "examples": [
+      {
+        "zh": "他每天早上读经。",
+        "es": "Él lee las escrituras todas las mañanas."
+      },
+      {
+        "zh": "经朋友介绍，我认识了她。",
+        "es": "La conocí por medio de un amigo."
+      },
+      {
+        "zh": "经他这么一说，我才明白。",
+        "es": "Hasta que él lo explicó así, no lo entendí."
+      },
+      {
+        "zh": "经研究，公司决定改变这个计划。",
+        "es": "Después de estudiarlo, la empresa decidió cambiar este plan."
+      }
+    ]
+  },
+  {
+    "word": "杯",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vaso, taza (clasificador)",
+      "copa, trofeo"
+    ],
+    "examples": [
+      {
+        "zh": "我要一杯水。",
+        "es": "Quiero un vaso de agua."
+      },
+      {
+        "zh": "我们一起看世界杯吧。",
+        "es": "Veamos juntos el Mundial."
+      },
+      {
+        "zh": "天气太热了，我一天要喝八杯水。",
+        "es": "Hace tanto calor que tomo ocho vasos de agua al día."
+      },
+      {
+        "zh": "朋友来家里，妈妈给每个人一杯热水。",
+        "es": "Cuando vinieron los amigos a la casa, mamá le dio a cada uno un vaso de agua caliente."
+      }
+    ]
+  },
+  {
+    "word": "处理",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "encargarse de, ocuparse de",
+      "resolver, manejar",
+      "procesar",
+      "sancionar"
+    ],
+    "examples": [
+      {
+        "zh": "这件事我来处理。",
+        "es": "Yo me encargo de este asunto."
+      },
+      {
+        "zh": "你能帮我处理一下这个问题吗？",
+        "es": "¿Me puedes ayudar a resolver este problema?"
+      },
+      {
+        "zh": "公司需要时间处理这些信息。",
+        "es": "La empresa necesita tiempo para procesar esta información."
+      },
+      {
+        "zh": "政府正在处理这次事件，有关情况明天告诉大家。",
+        "es": "El gobierno se está ocupando de este incidente; mañana informará los detalles a todos."
+      }
+    ]
+  },
+  {
+    "word": "对不起",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "perdón, lo siento",
+      "disculpe",
+      "fallarle a alguien"
+    ],
+    "examples": [
+      {
+        "zh": "对不起，我来晚了。",
+        "es": "Perdón, llegué tarde."
+      },
+      {
+        "zh": "对不起，请问机场怎么走？",
+        "es": "Disculpe, ¿cómo se llega al aeropuerto?"
+      },
+      {
+        "zh": "对不起，我忘记你的生日了。",
+        "es": "Lo siento, se me olvidó tu cumpleaños."
+      },
+      {
+        "zh": "我觉得对不起妈妈，因为我没有好好学习。",
+        "es": "Siento que le fallé a mi mamá porque no estudié bien."
+      }
+    ]
+  },
+  {
+    "word": "见面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "verse",
+      "encontrarse",
+      "reunirse"
+    ],
+    "examples": [
+      {
+        "zh": "我们明天见面吧。",
+        "es": "Veámonos mañana."
+      },
+      {
+        "zh": "我们第一次见面是在北京。",
+        "es": "La primera vez que nos vimos fue en Pekín."
+      },
+      {
+        "zh": "我们好久没见面了。",
+        "es": "Hace mucho que no nos vemos."
+      },
+      {
+        "zh": "下午三点我们在图书馆门口见面，好吗？",
+        "es": "¿Nos vemos a las tres de la tarde en la entrada de la biblioteca?"
+      }
+    ]
+  },
+  {
+    "word": "生日",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cumpleaños"
+    ],
+    "examples": [
+      {
+        "zh": "今天是我的生日。",
+        "es": "Hoy es mi cumpleaños."
+      },
+      {
+        "zh": "祝你生日快乐！",
+        "es": "¡Feliz cumpleaños!"
+      },
+      {
+        "zh": "你的生日是几月几号？",
+        "es": "¿Qué día es tu cumpleaños?"
+      },
+      {
+        "zh": "妹妹生日那天我们一起去吃饭，还送了她一本书。",
+        "es": "El día del cumpleaños de mi hermana menor fuimos a comer juntos y le regalamos un libro."
+      }
+    ]
+  },
+  {
+    "word": "感觉",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sentir",
+      "sensación",
+      "impresión",
+      "percibir"
+    ],
+    "examples": [
+      {
+        "zh": "我感觉很好。",
+        "es": "Me siento muy bien."
+      },
+      {
+        "zh": "你今天感觉怎么样？",
+        "es": "¿Cómo te sientes hoy?"
+      },
+      {
+        "zh": "我感觉他不太高兴。",
+        "es": "Me da la impresión de que él no está muy contento."
+      },
+      {
+        "zh": "第一次来中国的时候，我对这里的感觉非常好。",
+        "es": "La primera vez que vine a China, tuve una impresión muy buena de este lugar."
+      }
+    ]
+  },
+  {
+    "word": "解决",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "resolver",
+      "solucionar",
+      "arreglar",
+      "acabar con"
+    ],
+    "examples": [
+      {
+        "zh": "这个问题很难解决。",
+        "es": "Este problema es muy difícil de resolver."
+      },
+      {
+        "zh": "我们一起解决这个问题吧。",
+        "es": "Resolvamos este problema juntos."
+      },
+      {
+        "zh": "钱不能解决所有的问题。",
+        "es": "El dinero no puede resolver todos los problemas."
+      },
+      {
+        "zh": "政府需要找到解决环境问题的方法。",
+        "es": "El gobierno necesita encontrar una forma de resolver los problemas ambientales."
+      }
+    ]
+  },
+  {
+    "word": "树",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "árbol",
+      "establecer, fomentar"
+    ],
+    "examples": [
+      {
+        "zh": "这棵树很高。",
+        "es": "Este árbol es muy alto."
+      },
+      {
+        "zh": "我家门口有一棵大树。",
+        "es": "Frente a mi casa hay un árbol grande."
+      },
+      {
+        "zh": "孩子们喜欢在树下玩。",
+        "es": "A los niños les gusta jugar debajo del árbol."
+      },
+      {
+        "zh": "城市里多一些树，对人们的身体很好。",
+        "es": "Tener más árboles en la ciudad es muy bueno para la salud de la gente."
+      }
+    ]
+  },
+  {
+    "word": "举行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "celebrar (un evento)",
+      "realizar, llevar a cabo"
+    ],
+    "examples": [
+      {
+        "zh": "会议明天举行。",
+        "es": "La reunión se realizará mañana."
+      },
+      {
+        "zh": "学校下午举行运动会。",
+        "es": "La escuela celebra una competencia deportiva en la tarde."
+      },
+      {
+        "zh": "这次活动在北京举行。",
+        "es": "Esta actividad se lleva a cabo en Pekín."
+      },
+      {
+        "zh": "他们决定下个月在上海举行一个国际会议。",
+        "es": "Decidieron celebrar una conferencia internacional en Shanghái el próximo mes."
+      }
+    ]
+  },
+  {
+    "word": "听见",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oír",
+      "escuchar"
+    ],
+    "examples": [
+      {
+        "zh": "你听见了吗？",
+        "es": "¿Lo oíste?"
+      },
+      {
+        "zh": "我听见有人叫我。",
+        "es": "Oí que alguien me llamaba."
+      },
+      {
+        "zh": "对不起，我没听见你说什么。",
+        "es": "Perdón, no oí lo que dijiste."
+      },
+      {
+        "zh": "晚上睡觉的时候，我听见外面有人在唱歌。",
+        "es": "En la noche, cuando estaba durmiendo, oí a alguien cantando afuera."
+      }
+    ]
+  },
+  {
+    "word": "马",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "caballo",
+      "caballo (pieza de ajedrez)"
+    ],
+    "examples": [
+      {
+        "zh": "这匹马很快。",
+        "es": "Este caballo es muy rápido."
+      },
+      {
+        "zh": "我想学骑马。",
+        "es": "Quiero aprender a montar a caballo."
+      },
+      {
+        "zh": "孩子们在山上看到了很多马。",
+        "es": "Los niños vieron muchos caballos en la montaña."
+      },
+      {
+        "zh": "在中国历史上，马对战争非常重要。",
+        "es": "En la historia de China, los caballos fueron muy importantes para la guerra."
+      }
+    ]
+  },
+  {
+    "word": "图书馆",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "biblioteca"
+    ],
+    "examples": [
+      {
+        "zh": "我在图书馆。",
+        "es": "Estoy en la biblioteca."
+      },
+      {
+        "zh": "图书馆几点开门？",
+        "es": "¿A qué hora abre la biblioteca?"
+      },
+      {
+        "zh": "我常常去图书馆看书。",
+        "es": "Voy seguido a la biblioteca a leer."
+      },
+      {
+        "zh": "我们学校的图书馆很大，有很多中文书和外国书。",
+        "es": "La biblioteca de nuestra escuela es muy grande y tiene muchos libros en chino y extranjeros."
+      }
+    ]
+  },
+  {
+    "word": "能力",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "capacidad",
+      "habilidad",
+      "aptitud"
+    ],
+    "examples": [
+      {
+        "zh": "他很有能力。",
+        "es": "Él es muy capaz."
+      },
+      {
+        "zh": "我没有这个能力。",
+        "es": "No tengo esa capacidad."
+      },
+      {
+        "zh": "每个孩子的学习能力都不一样。",
+        "es": "La capacidad de aprendizaje de cada niño es diferente."
+      },
+      {
+        "zh": "公司希望找到有能力的人来管理这个项目。",
+        "es": "La empresa espera encontrar a alguien capaz para dirigir este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "干净",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "limpio",
+      "ordenado",
+      "pulcro"
+    ],
+    "examples": [
+      {
+        "zh": "这个房间很干净。",
+        "es": "Este cuarto está muy limpio."
+      },
+      {
+        "zh": "吃饭前先把手洗干净。",
+        "es": "Antes de comer, lávate bien las manos."
+      },
+      {
+        "zh": "这里的水不干净，不能喝。",
+        "es": "El agua de aquí no está limpia; no se puede tomar."
+      },
+      {
+        "zh": "她把衣服洗得很干净，像新的一样。",
+        "es": "Ella lavó la ropa tan bien que quedó como nueva."
+      }
+    ]
+  },
+  {
+    "word": "时代",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "época",
+      "era",
+      "etapa (de la vida)"
+    ],
+    "examples": [
+      {
+        "zh": "时代变了。",
+        "es": "Los tiempos cambiaron."
+      },
+      {
+        "zh": "现在是网络时代。",
+        "es": "Ahora vivimos en la era de internet."
+      },
+      {
+        "zh": "每个时代都有自己的问题。",
+        "es": "Cada época tiene sus propios problemas."
+      },
+      {
+        "zh": "爸爸的学生时代没有手机和电脑。",
+        "es": "En la época de estudiante de mi papá no había celulares ni computadoras."
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:达到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cccd33ec62fa3003eb970d72990e0f7fc85a87e4"
+  },
+  {
+    "id": "word:爱好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "701b81a9f38ab92a7ae445a88d7cab8307b74fd9"
+  },
+  {
+    "id": "word:利用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "92f752ad53c27e69086928977393d636c7398b59"
+  },
+  {
+    "id": "word:以下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7344d45aa25519a1b81225577475c553d0bad6c0"
+  },
+  {
+    "id": "word:鸡蛋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8a5ec4ac666646a2200321329cd50955a6372ec"
+  },
+  {
+    "id": "word:制度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7cb231efe8c045ed43dc1be4cad939feb11fddc2"
+  },
+  {
+    "id": "word:钱包",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a04266520fa89693c35e16ded2d43aae3422e269"
+  },
+  {
+    "id": "word:我国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60a42ef8ba2acd5fb1d537b7de2a374f4e403ffa"
+  },
+  {
+    "id": "word:起床",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 睡得 se lee 'shuì de' (得 como partícula de complemento va en tono neutro), no 'shuì dé'."
+    ],
+    "content_hash": "61481762b45029a903f319db26f63b568b86f02e"
+  },
+  {
+    "id": "word:欧洲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9dffd366037f7422a8a7e3d00f1a6db70b4fb8e0"
+  },
+  {
+    "id": "word:电影院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9724a57f145597629706064af33a41e1ea2173d"
+  },
+  {
+    "id": "word:每个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "21e24a388cd417fa424914826606e272ba8da66b"
+  },
+  {
+    "id": "word:办法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98c06cda7fa84eb5d9b26bd26fcd6d19169e191d"
+  },
+  {
+    "id": "word:汉字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "182bee6aadb32da648eebcfb5636a15963b8c053"
+  },
+  {
+    "id": "word:成员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cacdeba077bdde7dedfd4bccb614a96b87aabf05"
+  },
+  {
+    "id": "word:走路",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: 多长时间 se lee 'duō cháng shí jiān', no 'duō zhǎng'."
+    ],
+    "content_hash": "d2aad1c72965459d864bd24dc3b684dd0c1fd39d"
+  },
+  {
+    "id": "word:讲",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 讲得 se lee 'jiǎng de' (tono neutro), no 'jiǎng dé'."
+    ],
+    "content_hash": "1bb4b3bc3a9126202f8aef11ff5a4c726f0c89ad"
+  },
+  {
+    "id": "word:上车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c709897443c064129d5f427dc61fb6b94a372783"
+  },
+  {
+    "id": "word:开发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "929f06920d39c155817984fbba781f9590b3109b"
+  },
+  {
+    "id": "word:书店",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81e33bc0899614a44e4509d82f10039e7086a2e0"
+  },
+  {
+    "id": "word:年代",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 发展得 se lee 'fā zhǎn de' (tono neutro), no 'fā zhǎn dé'."
+    ],
+    "content_hash": "a62bf0deeec0dec5a9a5de618425d00184b53ac1"
+  },
+  {
+    "id": "word:图片",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aea5441355d6c477cf0370088b3a2ac758281a56"
+  },
+  {
+    "id": "word:生病",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3dbf4b36ebe18546c64c385e01d5057fd64b5e5a"
+  },
+  {
+    "id": "word:心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b4860dc4f09d0798ce28e7d26b7ce2813ada4a6"
+  },
+  {
+    "id": "word:坐下",
+    "ok": false,
+    "issues": [
+      "Pinyin no estándar en el ejemplo 3: 一会儿 debe escribirse 'yí huìr' (erhua unido a la sílaba), no 'yī huì er' como sílaba aparte."
+    ],
+    "content_hash": "bb219c71937a731acc9db8a53defd7bbdc98a196"
+  }
+]

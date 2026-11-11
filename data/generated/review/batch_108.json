@@ -1,0 +1,156 @@
+[
+  {
+    "id": "char:通",
+    "ok": true,
+    "issues": [],
+    "content_hash": "afbf1edd1f09c983205a3daf21c5bdd29b401c02"
+  },
+  {
+    "id": "char:打",
+    "ok": true,
+    "issues": [],
+    "content_hash": "85536705f898a846bac9e2ed3cc8f037eaee77d3"
+  },
+  {
+    "id": "char:必",
+    "ok": false,
+    "issues": [
+      "必 no contiene realmente el componente 心: sus trazos y su orden de escritura son distintos (丶丿乚丶丶). Presentar 心 como componente puede confundir al estudiante; conviene aclarar que es solo una semejanza visual."
+    ],
+    "content_hash": "e73dec6a4a5052cf51391b6369d8b1e1549a9842"
+  },
+  {
+    "id": "char:须",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad3a1c065b9764351933b07831639b4694844be3"
+  },
+  {
+    "id": "char:非",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b34cf6d8d3bd145d9616f81ecdc297cffa0e6b2"
+  },
+  {
+    "id": "char:常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4635d66c0d02da60e8a7f888c0772123bed4ec58"
+  },
+  {
+    "id": "char:分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fe39e70cad8c8ef0c3648ab7430c0ca67e33b3eb"
+  },
+  {
+    "id": "char:同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "441fa69f058eda642e0d9e74c86eefda0cc47ad9"
+  },
+  {
+    "id": "char:见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "62444cfa58631c3bd5b3377eea56df4f42aadb67"
+  },
+  {
+    "id": "char:叫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "159261dfe8b7dd73b03b03f8e9294838f19aef5b"
+  },
+  {
+    "id": "char:买",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f08947a6fda649aec0f9176f06ff8aa0bb3ca7e"
+  },
+  {
+    "id": "char:正",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0bcc5d0083a8375a6df5e6e0cd5bc9d043eaf6ba"
+  },
+  {
+    "id": "char:长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df20f2cf00d2bcba33ecd56af136124789ea0f9b"
+  },
+  {
+    "id": "char:包",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0db0ca946f9a0be363cd001ec5399f781dbb1603"
+  },
+  {
+    "id": "char:括",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6d0d18a9de5ba0eee22692b4467c809231b0028"
+  },
+  {
+    "id": "char:干",
+    "ok": true,
+    "issues": [],
+    "content_hash": "038edb255bacb7d130ddc300a0b2c428f302fd29"
+  },
+  {
+    "id": "char:找",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dcedde343bbab062277a86e40b76ff918cf21a4e"
+  },
+  {
+    "id": "char:您",
+    "ok": true,
+    "issues": [],
+    "content_hash": "523568f4c17590d231c8be0c5223f8a90eb7c439"
+  },
+  {
+    "id": "char:决",
+    "ok": true,
+    "issues": [],
+    "content_hash": "75be11e1c9e1255b4ae5ab33f2b7c6a303529240"
+  },
+  {
+    "id": "char:定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df7246cfa941bb4554fb334d490fcbc57e384629"
+  },
+  {
+    "id": "char:全",
+    "ok": false,
+    "issues": [
+      "Incoherencia entre componentes y mnemotecnia: el componente superior 人 se define como «persona», pero la mnemotecnia lo usa como «un gran techo»."
+    ],
+    "content_hash": "72a0585eb2e19f1c373452da065c68ca12201682"
+  },
+  {
+    "id": "char:何",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c19670f8ceae50e1e164ae6d7d3404237f84180"
+  },
+  {
+    "id": "char:准",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6572ceeab62b9a8226e89e168a10b253896f2d4"
+  },
+  {
+    "id": "char:备",
+    "ok": true,
+    "issues": [],
+    "content_hash": "64974d060923b809a328f5ec858122c90cca0224"
+  },
+  {
+    "id": "char:哪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "535d9e528cb2b2eb64a6b0fa64aa5d7b31da6d08"
+  }
+]

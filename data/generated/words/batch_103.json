@@ -1,0 +1,532 @@
+[
+  {
+    "word": "站住",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "detenerse, pararse",
+      "¡alto!",
+      "mantenerse en pie",
+      "sostenerse (un argumento)"
+    ],
+    "examples": [
+      {
+        "zh": "站住！别跑！",
+        "es": "¡Alto! ¡No corras!"
+      },
+      {
+        "zh": "他站住了，回头看我。",
+        "es": "Se detuvo y volteó a verme."
+      },
+      {
+        "zh": "警察在后边大声说：“站住！”",
+        "es": "El policía gritó desde atrás: «¡Alto!»"
+      },
+      {
+        "zh": "老师叫他站住，可是他还是跑了。",
+        "es": "El maestro le dijo que se detuviera, pero él igual se fue corriendo."
+      }
+    ]
+  },
+  {
+    "word": "爬山",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "subir una montaña",
+      "hacer senderismo en la montaña"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢爬山。",
+        "es": "Me gusta subir montañas."
+      },
+      {
+        "zh": "明天我们去爬山吧。",
+        "es": "Mañana vamos a subir la montaña."
+      },
+      {
+        "zh": "周末爸爸常常带我去爬山。",
+        "es": "Los fines de semana mi papá a menudo me lleva a subir la montaña."
+      },
+      {
+        "zh": "爬山对身体很好，但是下雨天不要去。",
+        "es": "Subir montañas es muy bueno para la salud, pero no vayas cuando llueve."
+      }
+    ]
+  },
+  {
+    "word": "立刻",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "inmediatamente",
+      "enseguida",
+      "de inmediato"
+    ],
+    "examples": [
+      {
+        "zh": "请立刻回来。",
+        "es": "Por favor, regresa inmediatamente."
+      },
+      {
+        "zh": "老师来了，学生们立刻坐下了。",
+        "es": "Llegó el maestro y los estudiantes se sentaron enseguida."
+      },
+      {
+        "zh": "听到这个消息，她立刻给妈妈打电话。",
+        "es": "Al oír la noticia, llamó de inmediato a su mamá."
+      },
+      {
+        "zh": "医生说他病得很重，必须立刻住院。",
+        "es": "El médico dijo que está muy enfermo y que debe internarse de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "药水",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "medicina líquida",
+      "jarabe",
+      "loción"
+    ],
+    "examples": [
+      {
+        "zh": "这是什么药水？",
+        "es": "¿Qué medicina es esta?"
+      },
+      {
+        "zh": "这瓶药水很难喝。",
+        "es": "Este jarabe sabe muy feo."
+      },
+      {
+        "zh": "医生让我每天喝三次药水。",
+        "es": "El médico me dijo que tomara la medicina tres veces al día."
+      },
+      {
+        "zh": "孩子生病了，妈妈去药店给他买了一瓶药水。",
+        "es": "El niño se enfermó y su mamá fue a la farmacia a comprarle un jarabe."
+      }
+    ]
+  },
+  {
+    "word": "年底",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fin de año",
+      "finales del año"
+    ],
+    "examples": [
+      {
+        "zh": "年底我要回家。",
+        "es": "A fin de año voy a volver a casa."
+      },
+      {
+        "zh": "公司年底很忙。",
+        "es": "En la empresa hay mucho trabajo a fin de año."
+      },
+      {
+        "zh": "我们计划今年年底去中国旅游。",
+        "es": "Planeamos viajar a China a finales de este año."
+      },
+      {
+        "zh": "到了年底，很多人都在准备过年。",
+        "es": "Al llegar el fin de año, mucha gente se prepara para las fiestas de Año Nuevo."
+      }
+    ]
+  },
+  {
+    "word": "笑话儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "chiste",
+      "broma"
+    ],
+    "examples": [
+      {
+        "zh": "我爱听笑话儿。",
+        "es": "Me encanta escuchar chistes."
+      },
+      {
+        "zh": "爷爷给我讲了一个笑话儿。",
+        "es": "Mi abuelo me contó un chiste."
+      },
+      {
+        "zh": "这个笑话儿太有意思了，大家都笑了。",
+        "es": "Este chiste es muy divertido; todos se rieron."
+      },
+      {
+        "zh": "你别把这件事当笑话儿，这很重要。",
+        "es": "No tomes esto como una broma; es muy importante."
+      }
+    ]
+  },
+  {
+    "word": "那会儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en aquel entonces",
+      "en ese momento"
+    ],
+    "examples": [
+      {
+        "zh": "那会儿我还小。",
+        "es": "En aquel entonces yo todavía era pequeño."
+      },
+      {
+        "zh": "那会儿你在哪儿？",
+        "es": "¿Dónde estabas en ese momento?"
+      },
+      {
+        "zh": "我上大学那会儿，没有手机。",
+        "es": "Cuando yo estaba en la universidad, no había celulares."
+      },
+      {
+        "zh": "等你回来那会儿，我可能已经睡觉了。",
+        "es": "Para cuando regreses, probablemente ya me habré dormido."
+      }
+    ]
+  },
+  {
+    "word": "破",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "roto, dañado",
+      "romper",
+      "viejo, gastado",
+      "(coloquial) malo, de mala calidad"
+    ],
+    "examples": [
+      {
+        "zh": "我的鞋破了。",
+        "es": "Se me rompieron los zapatos."
+      },
+      {
+        "zh": "杯子被他打破了。",
+        "es": "Él rompió el vaso."
+      },
+      {
+        "zh": "这件衣服太破了，别再穿了。",
+        "es": "Esta ropa está muy gastada; ya no te la pongas."
+      },
+      {
+        "zh": "这台破电脑又不能用了，我得买新的。",
+        "es": "Esta computadora de porquería otra vez no funciona; tengo que comprar una nueva."
+      }
+    ]
+  },
+  {
+    "word": "凉快",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fresco (agradable)",
+      "refrescarse"
+    ],
+    "examples": [
+      {
+        "zh": "今天很凉快。",
+        "es": "Hoy está muy fresco."
+      },
+      {
+        "zh": "下了雨，天气凉快多了。",
+        "es": "Después de la lluvia, el clima está mucho más fresco."
+      },
+      {
+        "zh": "这里早上和晚上都很凉快，中午比较热。",
+        "es": "Aquí las mañanas y las noches son frescas, pero al mediodía hace más calor."
+      },
+      {
+        "zh": "太热了，我们去树下凉快凉快吧。",
+        "es": "Hace mucho calor; vamos a refrescarnos un rato bajo el árbol."
+      }
+    ]
+  },
+  {
+    "word": "前进",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "avanzar",
+      "seguir adelante",
+      "¡adelante!"
+    ],
+    "examples": [
+      {
+        "zh": "前进！大家跟我来！",
+        "es": "¡Adelante! ¡Síganme todos!"
+      },
+      {
+        "zh": "车在雪里慢慢地前进。",
+        "es": "El carro avanzaba lentamente por la nieve."
+      },
+      {
+        "zh": "只要努力，我们就会不断前进。",
+        "es": "Mientras nos esforcemos, seguiremos avanzando."
+      },
+      {
+        "zh": "不管多困难，我们都要继续前进。",
+        "es": "No importa lo difícil que sea, tenemos que seguir adelante."
+      }
+    ]
+  },
+  {
+    "word": "一路平安",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¡buen viaje!",
+      "que tengas un buen viaje"
+    ],
+    "examples": [
+      {
+        "zh": "祝你一路平安！",
+        "es": "¡Te deseo un buen viaje!"
+      },
+      {
+        "zh": "到了给我打电话，一路平安！",
+        "es": "Llámame cuando llegues. ¡Buen viaje!"
+      },
+      {
+        "zh": "妈妈在机场对我说：“一路平安！”",
+        "es": "En el aeropuerto, mi mamá me dijo: «¡Buen viaje!»"
+      },
+      {
+        "zh": "朋友们来车站送我，祝我一路平安。",
+        "es": "Mis amigos fueron a despedirme a la estación y me desearon buen viaje."
+      }
+    ]
+  },
+  {
+    "word": "试验",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "experimento",
+      "prueba",
+      "experimentar, probar"
+    ],
+    "examples": [
+      {
+        "zh": "试验成功了！",
+        "es": "¡El experimento fue un éxito!"
+      },
+      {
+        "zh": "我们明天要做一个试验。",
+        "es": "Mañana vamos a hacer un experimento."
+      },
+      {
+        "zh": "科学家们做了很多次试验。",
+        "es": "Los científicos hicieron muchos experimentos."
+      },
+      {
+        "zh": "这种新药还在试验阶段，现在不能卖。",
+        "es": "Este nuevo medicamento todavía está en fase de prueba y aún no se puede vender."
+      }
+    ]
+  },
+  {
+    "word": "球鞋",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "zapatos deportivos",
+      "tenis"
+    ],
+    "examples": [
+      {
+        "zh": "你的球鞋真好看。",
+        "es": "Tus tenis están muy bonitos."
+      },
+      {
+        "zh": "我买了一双新球鞋。",
+        "es": "Compré unos zapatos deportivos nuevos."
+      },
+      {
+        "zh": "打篮球的时候要穿球鞋。",
+        "es": "Para jugar básquetbol hay que usar tenis."
+      },
+      {
+        "zh": "这双球鞋太贵了，我想再看看别的。",
+        "es": "Estos tenis son demasiado caros; quiero ver otros."
+      }
+    ]
+  },
+  {
+    "word": "输",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "perder",
+      "ser derrotado",
+      "introducir (datos, contraseña)",
+      "transportar"
+    ],
+    "examples": [
+      {
+        "zh": "我们输了。",
+        "es": "Perdimos."
+      },
+      {
+        "zh": "别怕输，下次再努力。",
+        "es": "No tengas miedo de perder; la próxima vez esfuérzate más."
+      },
+      {
+        "zh": "请在这里输入你的名字。",
+        "es": "Por favor, escribe tu nombre aquí."
+      },
+      {
+        "zh": "他打网球很少输，昨天却输给了一个中学生。",
+        "es": "Él casi nunca pierde en el tenis, pero ayer perdió contra un estudiante de secundaria."
+      }
+    ]
+  },
+  {
+    "word": "中餐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comida china",
+      "almuerzo"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃中餐。",
+        "es": "Me gusta la comida china."
+      },
+      {
+        "zh": "你想吃中餐还是西餐？",
+        "es": "¿Quieres comida china u occidental?"
+      },
+      {
+        "zh": "这家饭店的中餐很好吃。",
+        "es": "La comida china de este restaurante es muy rica."
+      },
+      {
+        "zh": "在国外，很多城市都有中餐馆。",
+        "es": "En el extranjero, muchas ciudades tienen restaurantes de comida china."
+      }
+    ]
+  },
+  {
+    "word": "饭馆",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "restaurante",
+      "fonda"
+    ],
+    "examples": [
+      {
+        "zh": "附近有饭馆吗？",
+        "es": "¿Hay algún restaurante cerca?"
+      },
+      {
+        "zh": "我们去饭馆吃饭吧。",
+        "es": "Vamos a comer a un restaurante."
+      },
+      {
+        "zh": "学校旁边新开了一家饭馆。",
+        "es": "Abrieron un restaurante nuevo al lado de la escuela."
+      },
+      {
+        "zh": "这家饭馆的菜又便宜又好吃，人总是很多。",
+        "es": "La comida de esta fonda es barata y rica; siempre hay mucha gente."
+      }
+    ]
+  },
+  {
+    "word": "相互",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mutuo",
+      "mutuamente",
+      "entre sí"
+    ],
+    "examples": [
+      {
+        "zh": "我们要相互帮助。",
+        "es": "Debemos ayudarnos mutuamente."
+      },
+      {
+        "zh": "朋友之间应该相互理解。",
+        "es": "Entre amigos debe haber comprensión mutua."
+      },
+      {
+        "zh": "这两个问题相互影响。",
+        "es": "Estos dos problemas se influyen entre sí."
+      },
+      {
+        "zh": "通过文化交流，两国人民的相互了解越来越深。",
+        "es": "Gracias al intercambio cultural, el entendimiento mutuo entre los pueblos de ambos países es cada vez más profundo."
+      }
+    ]
+  },
+  {
+    "word": "方便面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sopa instantánea",
+      "fideos instantáneos"
+    ],
+    "examples": [
+      {
+        "zh": "我想吃方便面。",
+        "es": "Quiero comer sopa instantánea."
+      },
+      {
+        "zh": "他太忙了，每天都吃方便面。",
+        "es": "Está tan ocupado que come sopa instantánea todos los días."
+      },
+      {
+        "zh": "方便面很方便，但是对身体不好。",
+        "es": "La sopa instantánea es práctica, pero no es buena para la salud."
+      },
+      {
+        "zh": "妈妈不在家的时候，我和弟弟常常吃方便面。",
+        "es": "Cuando mi mamá no está en casa, mi hermano menor y yo solemos comer fideos instantáneos."
+      }
+    ]
+  },
+  {
+    "word": "午睡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siesta",
+      "tomar una siesta"
+    ],
+    "examples": [
+      {
+        "zh": "我每天都午睡。",
+        "es": "Tomo una siesta todos los días."
+      },
+      {
+        "zh": "爷爷正在午睡，请小声一点儿。",
+        "es": "El abuelo está tomando la siesta; por favor, habla más bajo."
+      },
+      {
+        "zh": "午睡以后，我觉得舒服多了。",
+        "es": "Después de la siesta, me siento mucho mejor."
+      },
+      {
+        "zh": "在中国，很多学校中午都有午睡的时间。",
+        "es": "En China, muchas escuelas tienen un horario de siesta al mediodía."
+      }
+    ]
+  },
+  {
+    "word": "西餐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comida occidental"
+    ],
+    "examples": [
+      {
+        "zh": "你喜欢吃西餐吗？",
+        "es": "¿Te gusta la comida occidental?"
+      },
+      {
+        "zh": "今天晚上我们去吃西餐吧。",
+        "es": "Esta noche vamos a comer comida occidental."
+      },
+      {
+        "zh": "吃西餐的时候不用筷子。",
+        "es": "Cuando se come comida occidental no se usan palillos."
+      },
+      {
+        "zh": "我第一次吃西餐，不知道该怎么吃。",
+        "es": "Era la primera vez que comía comida occidental y no sabía cómo comerla."
+      }
+    ]
+  }
+]

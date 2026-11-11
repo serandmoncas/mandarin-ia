@@ -1,0 +1,382 @@
+[
+  {
+    "char": "的",
+    "components": [
+      {
+        "char": "白",
+        "meaning_es": "blanco"
+      },
+      {
+        "char": "勺",
+        "meaning_es": "cucharón"
+      }
+    ],
+    "mnemonic_es": "Imagina un cucharón blanco con tu nombre grabado: es el tuyo. Así 的 marca a quién pertenece algo."
+  },
+  {
+    "char": "是",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "疋",
+        "meaning_es": "pie"
+      }
+    ],
+    "mnemonic_es": "Un pie firme bajo el sol: lo que está a plena luz del día es así. 是 significa 'ser'."
+  },
+  {
+    "char": "在",
+    "components": [
+      {
+        "char": "才",
+        "meaning_es": "talento, brote"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "Un brote que sale de la tierra se queda justo ahí, en su lugar. 在 indica 'estar en'."
+  },
+  {
+    "char": "了",
+    "components": [
+      {
+        "char": "了",
+        "meaning_es": "terminar, completar"
+      }
+    ],
+    "mnemonic_es": "Imagina un gancho que cuelga quieto porque el trabajo ya terminó. 了 marca que algo ya pasó o cambió."
+  },
+  {
+    "char": "我",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "戈",
+        "meaning_es": "alabarda, lanza"
+      }
+    ],
+    "mnemonic_es": "Me imagino con una lanza en la mano, defendiendo lo mío: ese soy yo, 我."
+  },
+  {
+    "char": "和",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, grano"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Cuando hay grano para cada boca, todos viven en armonía. 和 significa 'y' o 'paz'."
+  },
+  {
+    "char": "有",
+    "components": [
+      {
+        "char": "𠂇",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "月",
+        "meaning_es": "carne (forma de luna)"
+      }
+    ],
+    "mnemonic_es": "Una mano agarrando un buen trozo de carne: ¡tengo comida! 有 significa 'tener' o 'haber'."
+  },
+  {
+    "char": "不",
+    "components": [
+      {
+        "char": "不",
+        "meaning_es": "no"
+      }
+    ],
+    "mnemonic_es": "Imagina una línea en el techo que bloquea a un pajarito que quiere volar más alto: ¡no puede pasar! 不 es 'no'."
+  },
+  {
+    "char": "人",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      }
+    ],
+    "mnemonic_es": "Dos trazos como dos piernas caminando: una persona de perfil."
+  },
+  {
+    "char": "你",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "尔",
+        "meaning_es": "tú (forma antigua)"
+      }
+    ],
+    "mnemonic_es": "Una persona al lado de la palabra antigua para 'tú': esa persona eres tú, 你."
+  },
+  {
+    "char": "也",
+    "components": [
+      {
+        "char": "也",
+        "meaning_es": "también"
+      }
+    ],
+    "mnemonic_es": "Imagina una serpiente enroscada que se suma a cualquier grupo diciendo 'yo también'. 也 significa 'también'."
+  },
+  {
+    "char": "为",
+    "components": [
+      {
+        "char": "为",
+        "meaning_es": "por, para; hacer"
+      }
+    ],
+    "mnemonic_es": "Imagina una persona que corre con gotas de sudor alrededor: trabaja duro por y para alguien. 为 significa 'por' o 'para'."
+  },
+  {
+    "char": "他",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "也",
+        "meaning_es": "también"
+      }
+    ],
+    "mnemonic_es": "Otra persona que también está ahí: él, 他, alguien distinto de ti y de mí."
+  },
+  {
+    "char": "这",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "文",
+        "meaning_es": "escritura"
+      }
+    ],
+    "mnemonic_es": "Caminas hasta un letrero escrito justo frente a ti y lo señalas: 'esto de aquí'. 这 significa 'este'."
+  },
+  {
+    "char": "中",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca, recuadro"
+      },
+      {
+        "char": "丨",
+        "meaning_es": "línea vertical"
+      }
+    ],
+    "mnemonic_es": "Una flecha atraviesa un recuadro justo por la mitad: da en el centro. 中 significa 'medio'."
+  },
+  {
+    "char": "年",
+    "components": [
+      {
+        "char": "年",
+        "meaning_es": "año"
+      }
+    ],
+    "mnemonic_es": "Imagina a un campesino cargando la cosecha en la espalda; cada cosecha marca un año que pasa."
+  },
+  {
+    "char": "与",
+    "components": [
+      {
+        "char": "与",
+        "meaning_es": "y, con; dar"
+      }
+    ],
+    "mnemonic_es": "Imagina una mano en forma de gancho que pasa un regalo a otra persona: 'te lo doy y estamos juntos'. 与 es 'con' o 'y'."
+  },
+  {
+    "char": "对",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano, otra vez"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "pulgada, medida"
+      }
+    ],
+    "mnemonic_es": "Una mano mide otra vez, pulgada por pulgada, hasta que todo queda correcto. 对 significa 'correcto' o 'hacia'."
+  },
+  {
+    "char": "就",
+    "components": [
+      {
+        "char": "京",
+        "meaning_es": "capital"
+      },
+      {
+        "char": "尤",
+        "meaning_es": "especialmente"
+      }
+    ],
+    "mnemonic_es": "Quieres ir especialmente a la capital, y vas enseguida, sin dudar. 就 significa 'justo' o 'enseguida'."
+  },
+  {
+    "char": "都",
+    "components": [
+      {
+        "char": "者",
+        "meaning_es": "persona que hace algo"
+      },
+      {
+        "char": "阝",
+        "meaning_es": "ciudad (a la derecha)"
+      }
+    ],
+    "mnemonic_es": "Todas las personas se reúnen en la ciudad: ahí están todos. 都 significa 'todos' o 'capital'."
+  },
+  {
+    "char": "一",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      }
+    ],
+    "mnemonic_es": "Un solo trazo horizontal, como un dedo acostado: uno."
+  },
+  {
+    "char": "个",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "丨",
+        "meaning_es": "línea vertical"
+      }
+    ],
+    "mnemonic_es": "Una persona con un palito debajo, como si contara 'uno por uno'. 个 es el clasificador más común para contar cosas."
+  },
+  {
+    "char": "上",
+    "components": [
+      {
+        "char": "上",
+        "meaning_es": "arriba"
+      }
+    ],
+    "mnemonic_es": "Una línea es el suelo y un palito apunta hacia arriba desde ella: 上 significa 'arriba' o 'subir'."
+  },
+  {
+    "char": "说",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "兑",
+        "meaning_es": "intercambiar"
+      }
+    ],
+    "mnemonic_es": "Intercambias palabras con alguien: eso es hablar. 说 significa 'decir'."
+  },
+  {
+    "char": "吗",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "马",
+        "meaning_es": "caballo"
+      }
+    ],
+    "mnemonic_es": "Una boca le pregunta al caballo: '¿vienes?'. 吗 al final de la frase la convierte en pregunta."
+  },
+  {
+    "char": "们",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "门",
+        "meaning_es": "puerta"
+      }
+    ],
+    "mnemonic_es": "Muchas personas entrando por la misma puerta: un grupo. 们 hace plural a las personas (我们, 你们)."
+  },
+  {
+    "char": "到",
+    "components": [
+      {
+        "char": "至",
+        "meaning_es": "llegar, hasta"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Te abres paso con un cuchillo entre la selva hasta que por fin llegas. 到 significa 'llegar'."
+  },
+  {
+    "char": "会",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "云",
+        "meaning_es": "nube"
+      }
+    ],
+    "mnemonic_es": "Personas reunidas bajo una nube de ideas: se juntan y saben hacer cosas. 会 significa 'reunión' o 'saber hacer'."
+  },
+  {
+    "char": "要",
+    "components": [
+      {
+        "char": "覀",
+        "meaning_es": "cubrir"
+      },
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      }
+    ],
+    "mnemonic_es": "Una mujer bajo un techo dice con firmeza lo que necesita. 要 significa 'querer' o 'necesitar'."
+  },
+  {
+    "char": "来",
+    "components": [
+      {
+        "char": "来",
+        "meaning_es": "venir"
+      }
+    ],
+    "mnemonic_es": "Imagina una planta de trigo con espigas abiertas que te hace señas para que vengas al campo. 来 significa 'venir'."
+  }
+]

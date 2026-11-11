@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:站",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el cuarto ejemplo: 长 en 长时间 se lee 'cháng', no 'zhǎng' (debe ser 'hěn cháng shí jiān')."
+    ],
+    "content_hash": "094d130537aeaa5db196b1c20cb298a0d2fa8150"
+  },
+  {
+    "id": "word:香港",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el cuarto ejemplo: 多长时间 se lee 'duō cháng shí jiān', no 'duō zhǎng'."
+    ],
+    "content_hash": "b787af536e52171c9aa3ad17070d71c41b2bc660"
+  },
+  {
+    "id": "word:孩子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "67de64a527e0095c0c4c293c9690c259dc9fe15f"
+  },
+  {
+    "id": "word:生活",
+    "ok": true,
+    "issues": [],
+    "content_hash": "31ff410a71ebd0d234ba0ef74a21afbc0f626300"
+  },
+  {
+    "id": "word:写",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5cc9dc5dc5e12c6910b1e15bc5d48c9e144a3ac"
+  },
+  {
+    "id": "word:这种",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c791a8527de0b26036396a28bcc6f9d4163ae45e"
+  },
+  {
+    "id": "word:元",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6dbed58610b68b89118fd76b2b3a26d7a6a5eb14"
+  },
+  {
+    "id": "word:通过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b8c8c751ec4bc338c5f6a2f63bb6eeb1ee0d4213"
+  },
+  {
+    "id": "word:打",
+    "ok": true,
+    "issues": [],
+    "content_hash": "adbf2194c981d1bb0e0ed54da17ef63228ddb770"
+  },
+  {
+    "id": "word:必须",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc8af6834304417fdca3fde7a63a376c5bc06d25"
+  },
+  {
+    "id": "word:非常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f3f624f8a0ddd3c824d0d2660f90d4b7aab0cbe"
+  },
+  {
+    "id": "word:分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce87b2d417ce134e7f18cdcb4f8d450f12b5b591"
+  },
+  {
+    "id": "word:同时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "28f1088566b35e888433d5754e57f062a8dda7b4"
+  },
+  {
+    "id": "word:见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76d0ee6bc063d38baeb9bc352814839d61e8f770"
+  },
+  {
+    "id": "word:为了",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el segundo ejemplo: 都 aquí se lee 'dōu', no 'dū'."
+    ],
+    "content_hash": "507c0b1916f8b007e559d8df48fe72648190497a"
+  },
+  {
+    "id": "word:叫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fbead7a5e20cc452c8f6ee842bdaf045bc509a08"
+  },
+  {
+    "id": "word:买",
+    "ok": true,
+    "issues": [],
+    "content_hash": "303e61ef288d02aaa606e1b6cfb737d580e1afe6"
+  },
+  {
+    "id": "word:那些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "007fe9ac720b4cb5b12387932284dd3211306ed5"
+  },
+  {
+    "id": "word:所以",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c4b0cee3d6a292f0b8c1be8cdafdb79d3556b96"
+  },
+  {
+    "id": "word:得到",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el cuarto ejemplo: 得到 se lee 'dé dào', no 'de dào'."
+    ],
+    "content_hash": "ec309af29870033d35b9a4709a8e279e3e6a55a1"
+  },
+  {
+    "id": "word:所有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "033787a8c2270861e0dda849cf29d1267f7c4577"
+  },
+  {
+    "id": "word:天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b13de33d73703c418ab2a333510f896bb03b4f03"
+  },
+  {
+    "id": "word:发现",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf1e29b0cb22e58e7527a5f8b0021f4ec30238f9"
+  },
+  {
+    "id": "word:正",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2aefe8bcbacea67a03ec4c1c04c956e8a715e6eb"
+  },
+  {
+    "id": "word:间",
+    "ok": false,
+    "issues": [
+      "En el primer ejemplo, 这间房子 con el clasificador 间 se refiere normalmente a un cuarto o habitación, no a una casa entera; la traducción 'Esta casa' es dudosa y además no ilustra el uso de 间 como clasificador para cuartos (mejor 'Este cuarto es muy grande')."
+    ],
+    "content_hash": "00e8d108107be3832c24b66ac29a40f4a83bead4"
+  }
+]

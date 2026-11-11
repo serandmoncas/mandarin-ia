@@ -1,0 +1,163 @@
+[
+  {
+    "id": "phrase:introductions:011",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: 儿 en 一点儿 es la erización 'r' (yìdiǎnr), no la sílaba independiente 'ér'."
+    ],
+    "content_hash": "2fd0f8c04b2fa0017ffdf703b94b1d1d085cb189"
+  },
+  {
+    "id": "phrase:introductions:012",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: 儿 en 一点儿 es la erización 'r' (yìdiǎnr), no la sílaba independiente 'ér'."
+    ],
+    "content_hash": "bda8da630ae805138ccf47e8dfa3b52735300673"
+  },
+  {
+    "id": "phrase:introductions:013",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2350484eb3e5fad882110f4fb0f6fae18c4c320c"
+  },
+  {
+    "id": "phrase:introductions:014",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f597a9295c8da1d76d276783ae931f8de7141c6"
+  },
+  {
+    "id": "phrase:introductions:015",
+    "ok": true,
+    "issues": [],
+    "content_hash": "995a84191f6747420048209a6761a228ff288fb2"
+  },
+  {
+    "id": "phrase:introductions:016",
+    "ok": false,
+    "issues": [
+      "Para expresar una duración que continúa ('llevo tres días') lo natural es 我来了三天了, con 了 final. 我来了三天 suena incompleto o puede entenderse como una estancia ya terminada."
+    ],
+    "content_hash": "6b7051c1d1570bc7e2d3b12ba1edd15998a59a82"
+  },
+  {
+    "id": "phrase:introductions:017",
+    "ok": true,
+    "issues": [],
+    "content_hash": "75f43df8d6128e6e034f3a4117829c6f7748dc16"
+  },
+  {
+    "id": "phrase:introductions:018",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3343d7328ede633773e0bbe44b58d9c6d3b4459d"
+  },
+  {
+    "id": "phrase:introductions:019",
+    "ok": true,
+    "issues": [],
+    "content_hash": "01cab27777094e1ff79d842f5334aa17d5a03aae"
+  },
+  {
+    "id": "phrase:introductions:020",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97ba6cab17d4507cb38c7c49856f586be30931be"
+  },
+  {
+    "id": "phrase:introductions:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af23a91fb4e2f22d8a93cc46a84ee015aa9e5535"
+  },
+  {
+    "id": "phrase:introductions:022",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: 得 como partícula de complemento se pronuncia 'de' en tono neutro, no 'dé'."
+    ],
+    "content_hash": "158d10f7d3952e778778c725da564c97dde4cfcf"
+  },
+  {
+    "id": "phrase:introductions:023",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2917042bdc5ba9f6a5b1215a9cc683ab07892383"
+  },
+  {
+    "id": "phrase:introductions:024",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc9437181e85d810a77839090384cd2540248a64"
+  },
+  {
+    "id": "phrase:introductions:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "32488b71294366c27b9c39f2d87b800b27ac57ae"
+  },
+  {
+    "id": "phrase:introductions:026",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2799695509ed36eefc0e41b70ef8ff14b95cfebc"
+  },
+  {
+    "id": "phrase:introductions:027",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5836726d85a42153f0acc39a387eb6c10f95b9de"
+  },
+  {
+    "id": "phrase:introductions:028",
+    "ok": false,
+    "issues": [
+      "'Platicamos' es un regionalismo (México y Centroamérica), no español neutro; mejor 'Hablamos'.",
+      "'Cuando tengas tiempo' añade un sujeto que no está en el chino: 有空 es impersonal ('cuando haya tiempo'). Sugerencia: 'Hablamos luego cuando haya tiempo'."
+    ],
+    "content_hash": "9e615b49387f0b019880272453dc05eaa4230ab1"
+  },
+  {
+    "id": "phrase:introductions:029",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97df789c7a0e3c7300a07697af08f1b3a6249c73"
+  },
+  {
+    "id": "phrase:restaurant:000",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2af5d37c82951562bdd68c4195a9167273b492cf"
+  },
+  {
+    "id": "phrase:restaurant:001",
+    "ok": true,
+    "issues": [],
+    "content_hash": "38c44a7e03834b4af778246e4698deaac0161804"
+  },
+  {
+    "id": "phrase:restaurant:002",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8267490f5b8c0bc3ceaccdc88e19ba4d1b35172c"
+  },
+  {
+    "id": "phrase:restaurant:003",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e57870bdffd80f5007fcf47694e1839597968770"
+  },
+  {
+    "id": "phrase:restaurant:004",
+    "ok": true,
+    "issues": [],
+    "content_hash": "063a6a3c457b85e0fa8c837e93cc5c03955eb06c"
+  },
+  {
+    "id": "phrase:restaurant:005",
+    "ok": true,
+    "issues": [],
+    "content_hash": "56ae09ada8125f2f1332d34699f049973fc9a6a3"
+  }
+]

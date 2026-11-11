@@ -1,0 +1,418 @@
+[
+  {
+    "char": "持",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "寺",
+        "meaning_es": "templo"
+      }
+    ],
+    "mnemonic_es": "Imagina que con la mano sostienes con firmeza la puerta del templo para que el viento no la cierre: eso es sostener y mantener."
+  },
+  {
+    "char": "心",
+    "components": [
+      {
+        "char": "心",
+        "meaning_es": "corazón, mente"
+      }
+    ],
+    "mnemonic_es": "Sus trazos parecen un corazón con tres gotas de sentimiento que saltan de él; ahí guardas tus emociones y pensamientos."
+  },
+  {
+    "char": "放",
+    "components": [
+      {
+        "char": "方",
+        "meaning_es": "dirección, cuadrado"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "mano con vara, golpear"
+      }
+    ],
+    "mnemonic_es": "Con una vara señalas una dirección y sueltas al caballo para que corra hacia allá: así recuerdas soltar o poner."
+  },
+  {
+    "char": "无",
+    "components": [
+      {
+        "char": "无",
+        "meaning_es": "nada, sin"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien que levanta los brazos y se encoge de hombros diciendo «no hay nada»; recuérdalo como el carácter de la ausencia."
+  },
+  {
+    "char": "门",
+    "components": [
+      {
+        "char": "门",
+        "meaning_es": "puerta"
+      }
+    ],
+    "mnemonic_es": "Míralo como el marco de una puerta vista de frente, con un punto arriba como la campanita que suena al entrar."
+  },
+  {
+    "char": "城",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "成",
+        "meaning_es": "lograr, completar"
+      }
+    ],
+    "mnemonic_es": "Cuando logras levantar suficientes muros de tierra, completas una ciudad amurallada."
+  },
+  {
+    "char": "市",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa, techo"
+      },
+      {
+        "char": "巾",
+        "meaning_es": "tela, paño"
+      }
+    ],
+    "mnemonic_es": "Imagina un toldo sobre telas colgadas para vender: así nace el mercado, y alrededor del mercado crece la ciudad."
+  },
+  {
+    "char": "穿",
+    "components": [
+      {
+        "char": "穴",
+        "meaning_es": "cueva, agujero"
+      },
+      {
+        "char": "牙",
+        "meaning_es": "diente, colmillo"
+      }
+    ],
+    "mnemonic_es": "Un colmillo atraviesa la tela y deja un agujero; como meter la cabeza por el agujero de una camiseta: atravesar y vestirse."
+  },
+  {
+    "char": "继",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "米",
+        "meaning_es": "arroz"
+      },
+      {
+        "char": "𠃊",
+        "meaning_es": "línea en ángulo, gancho"
+      }
+    ],
+    "mnemonic_es": "Imagina que amarras un saco de arroz con un hilo que nunca se acaba y sigues y sigues: así recuerdas continuar o heredar."
+  },
+  {
+    "char": "续",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "卖",
+        "meaning_es": "vender"
+      }
+    ],
+    "mnemonic_es": "Un vendedor ofrece hilo por metro y sigue sacando más del carrete sin parar: el hilo continúa."
+  },
+  {
+    "char": "笑",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "夭",
+        "meaning_es": "joven, doblarse"
+      }
+    ],
+    "mnemonic_es": "Una persona se dobla de la risa como un bambú movido por el viento; arriba, las hojas parecen ojitos entrecerrados de tanto reír."
+  },
+  {
+    "char": "场",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "𠃓",
+        "meaning_es": "sol que se eleva (forma simplificada)"
+      }
+    ],
+    "mnemonic_es": "Imagina un terreno de tierra abierto donde sale el sol: es la cancha, la plaza o el lugar donde ocurre algo."
+  },
+  {
+    "char": "难",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano, otra vez"
+      },
+      {
+        "char": "隹",
+        "meaning_es": "pájaro de cola corta"
+      }
+    ],
+    "mnemonic_es": "Intentas atrapar un pájaro con la mano, se escapa y lo intentas otra vez y otra vez: ¡qué difícil!"
+  },
+  {
+    "char": "飞",
+    "components": [
+      {
+        "char": "飞",
+        "meaning_es": "volar"
+      }
+    ],
+    "mnemonic_es": "Míralo como un ave con las alas extendidas y dos plumitas al viento, lista para volar."
+  },
+  {
+    "char": "直",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      },
+      {
+        "char": "𠃊",
+        "meaning_es": "línea en ángulo"
+      }
+    ],
+    "mnemonic_es": "Diez ojos miran hacia adelante, alineados sobre una regla: todo queda recto y directo."
+  },
+  {
+    "char": "四",
+    "components": [
+      {
+        "char": "囗",
+        "meaning_es": "recinto, caja"
+      },
+      {
+        "char": "儿",
+        "meaning_es": "piernas"
+      }
+    ],
+    "mnemonic_es": "Una caja con cuatro esquinas y dentro unas piernitas: imagina una mesa de cuatro patas metida en un cuarto."
+  },
+  {
+    "char": "约",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "勺",
+        "meaning_es": "cucharón"
+      }
+    ],
+    "mnemonic_es": "Atas un hilo al cucharón para recordar tu cita a la hora de comer; y mides los ingredientes más o menos, «aproximadamente»."
+  },
+  {
+    "char": "者",
+    "components": [
+      {
+        "char": "耂",
+        "meaning_es": "anciano"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol, día"
+      }
+    ],
+    "mnemonic_es": "Un anciano que ha visto pasar muchos días es «el que» sabe; este carácter marca a la persona que hace algo, como -dor en «trabajador»."
+  },
+  {
+    "char": "帮",
+    "components": [
+      {
+        "char": "邦",
+        "meaning_es": "país, nación"
+      },
+      {
+        "char": "巾",
+        "meaning_es": "tela, paño"
+      }
+    ],
+    "mnemonic_es": "Todo el país manda telas y mantas a quien las necesita: eso es ayudar."
+  },
+  {
+    "char": "教",
+    "components": [
+      {
+        "char": "孝",
+        "meaning_es": "respeto filial"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "mano con vara"
+      }
+    ],
+    "mnemonic_es": "Imagina a un maestro con su puntero enseñando a los niños a respetar a sus mayores: así recuerdas enseñar."
+  },
+  {
+    "char": "育",
+    "components": [
+      {
+        "char": "𠫓",
+        "meaning_es": "bebé recién nacido (de cabeza)"
+      },
+      {
+        "char": "月",
+        "meaning_es": "carne, cuerpo"
+      }
+    ],
+    "mnemonic_es": "Arriba un bebé y abajo un cuerpo que lo alimenta y lo hace crecer: criar y educar."
+  },
+  {
+    "char": "容",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "谷",
+        "meaning_es": "valle"
+      }
+    ],
+    "mnemonic_es": "Un techo tan grande que cabe un valle entero debajo: tiene capacidad para contener todo."
+  },
+  {
+    "char": "特",
+    "components": [
+      {
+        "char": "牛",
+        "meaning_es": "buey, vaca"
+      },
+      {
+        "char": "寺",
+        "meaning_es": "templo"
+      }
+    ],
+    "mnemonic_es": "Una vaca paseando dentro del templo: ¡eso sí que es algo especial!"
+  },
+  {
+    "char": "许",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "午",
+        "meaning_es": "mediodía"
+      }
+    ],
+    "mnemonic_es": "Al mediodía el jefe dice la palabra mágica: «tienes permiso para almorzar»."
+  },
+  {
+    "char": "花",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, planta"
+      },
+      {
+        "char": "化",
+        "meaning_es": "transformar"
+      }
+    ],
+    "mnemonic_es": "Una planta que se transforma y se abre en flor; y también se usa para «gastar», porque el dinero se transforma en cosas."
+  },
+  {
+    "char": "身",
+    "components": [
+      {
+        "char": "身",
+        "meaning_es": "cuerpo"
+      }
+    ],
+    "mnemonic_es": "Míralo como una persona de perfil con la panza hacia adelante: es el cuerpo."
+  },
+  {
+    "char": "体",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "本",
+        "meaning_es": "raíz, origen"
+      }
+    ],
+    "mnemonic_es": "Para una persona, lo más básico, su raíz, es su propio cuerpo."
+  },
+  {
+    "char": "谢",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "身",
+        "meaning_es": "cuerpo"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "pulgada, mano"
+      }
+    ],
+    "mnemonic_es": "Con palabras, inclinando el cuerpo y llevándote la mano al pecho, dices: «¡gracias!»."
+  },
+  {
+    "char": "获",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "犭",
+        "meaning_es": "perro, animal"
+      },
+      {
+        "char": "犬",
+        "meaning_es": "perro"
+      }
+    ],
+    "mnemonic_es": "Dos perros de caza corren entre la hierba y te traen la presa: así obtienes tu premio."
+  },
+  {
+    "char": "早",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      }
+    ],
+    "mnemonic_es": "El sol apenas asoma por encima de una cruz de madera en el horizonte: es temprano por la mañana."
+  }
+]

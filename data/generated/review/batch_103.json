@@ -1,0 +1,157 @@
+[
+  {
+    "id": "char:因",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5841c29c9d787476de61f0b1459dee3687d240a2"
+  },
+  {
+    "id": "char:做",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cee8386bc7e6d34773c5bd540f89cb3e9deb1808"
+  },
+  {
+    "id": "char:用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87355908cf965b129d0992695518fab7526c4289"
+  },
+  {
+    "id": "char:怎",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0e87159572b8057f72569f06f53b964ce8b2c5a"
+  },
+  {
+    "id": "char:之",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99365300d7b726990ceda73872f959b5acbc8f98"
+  },
+  {
+    "id": "char:些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e73cb599a553c92bc667316dd65f6280bd95214b"
+  },
+  {
+    "id": "char:想",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0cf3220b4a696ac37fc88b405e5619cfec943b7b"
+  },
+  {
+    "id": "char:最",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5469670dd13321a3496455a5e9f9102dd2e3f1da"
+  },
+  {
+    "id": "char:那",
+    "ok": true,
+    "issues": [],
+    "content_hash": "151b320dea33e92ce2157bca7f76cbb88b3bee4c"
+  },
+  {
+    "id": "char:由",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ec285e41f149ce1f6c66bcf23923181f78d016d"
+  },
+  {
+    "id": "char:工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77dc409f80a6a36ec6ff61b6fcd3772e18e46494"
+  },
+  {
+    "id": "char:作",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40bdd64bcd03f785e8c53be7a11a5ba52e3b4e0a"
+  },
+  {
+    "id": "char:及",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ffffc75d021bcf5707d4fdc8aecde8deb7d7c743"
+  },
+  {
+    "id": "char:吧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2be648399c7a2c449edb8bc9f72a66db4a37e169"
+  },
+  {
+    "id": "char:三",
+    "ok": true,
+    "issues": [],
+    "content_hash": "74201160906caab0cf1f15bde52805452a08428d"
+  },
+  {
+    "id": "char:知",
+    "ok": true,
+    "issues": [],
+    "content_hash": "005a773024fa76c519be194e9f6e55cb77ce3065"
+  },
+  {
+    "id": "char:道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b1b41032cf274006d49731a288e945a41c81b6a5"
+  },
+  {
+    "id": "char:更",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3aa8d1cee46182676147fface0db7253de7ab5a0"
+  },
+  {
+    "id": "char:前",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia empieza con \"Para una historia:\", que no tiene sentido y parece un resto de la plantilla.",
+      "La mnemotecnia no incorpora el componente 䒑. Además, \"tapa\" no es un significado real de 䒑, sino una descripción de su forma."
+    ],
+    "content_hash": "0bacae64be576e554b0321491f495136cbade00c"
+  },
+  {
+    "id": "char:间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd739dd594558c687bc97dedc3e8d7a05d462f6a"
+  },
+  {
+    "id": "char:已",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34b803d83997bf2c9e68fcc7e530604ac69adfd9"
+  },
+  {
+    "id": "char:经",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6c10451fb61e7d39dedfd5f553f88c956e3e2dd"
+  },
+  {
+    "id": "char:出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b91fb345ce0671e85ddbe463565b7d96d7eae4e"
+  },
+  {
+    "id": "char:候",
+    "ok": false,
+    "issues": [
+      "La descomposición está incompleta: falta el trazo superior en forma de ㇇ (𠂊) que va sobre 矢 en la parte derecha de 候, así que los componentes listados no forman el carácter."
+    ],
+    "content_hash": "6d5f90f425a0b6ccb163181e8bc3e6ccfc5c721a"
+  },
+  {
+    "id": "char:得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27be5a6988bfb98c1ed66553442097b7e8ccbd6e"
+  }
+]

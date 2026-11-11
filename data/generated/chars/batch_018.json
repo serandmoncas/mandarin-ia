@@ -1,0 +1,446 @@
+[
+  {
+    "char": "束",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca; aquí, un cerco o amarre"
+      }
+    ],
+    "mnemonic_es": "Imagina un tronco con una cuerda bien apretada alrededor de su cintura: así se ata un manojo."
+  },
+  {
+    "char": "奶",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "乃",
+        "meaning_es": "entonces, así (parte fonética)"
+      }
+    ],
+    "mnemonic_es": "Una mujer, y entonces llega el bebé con hambre: ¡es hora de la leche!"
+  },
+  {
+    "char": "具",
+    "components": [
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno, línea"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho"
+      }
+    ],
+    "mnemonic_es": "Un ojo vigila una repisa que se sostiene sobre dos patas: ahí guardas tus herramientas y utensilios."
+  },
+  {
+    "char": "控",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "空",
+        "meaning_es": "vacío, aire"
+      }
+    ],
+    "mnemonic_es": "Con la mano dominas hasta el aire vacío: tienes el control de todo."
+  },
+  {
+    "char": "媒",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "某",
+        "meaning_es": "cierto, alguien"
+      }
+    ],
+    "mnemonic_es": "Una mujer te dice: «conozco a cierta persona para ti». Es la casamentera, el medio entre dos."
+  },
+  {
+    "char": "努",
+    "components": [
+      {
+        "char": "奴",
+        "meaning_es": "siervo, esclavo"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Un siervo usa toda su fuerza para cumplir la tarea: eso es esforzarse."
+  },
+  {
+    "char": "整",
+    "components": [
+      {
+        "char": "束",
+        "meaning_es": "atar, manojo"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear, acción"
+      },
+      {
+        "char": "正",
+        "meaning_es": "recto, correcto"
+      }
+    ],
+    "mnemonic_es": "Atas el manojo, le das unos golpecitos y lo dejas recto: todo queda entero y ordenado."
+  },
+  {
+    "char": "牛",
+    "components": [
+      {
+        "char": "牛",
+        "meaning_es": "vaca, buey"
+      }
+    ],
+    "mnemonic_es": "Mira la cabeza de una vaca de frente: el trazo de arriba es un cuerno y la línea vertical es su cara larga."
+  },
+  {
+    "char": "亦",
+    "components": [
+      {
+        "char": "亦",
+        "meaning_es": "también"
+      }
+    ],
+    "mnemonic_es": "Una persona con los brazos abiertos y una gotita a cada lado, como diciendo: «yo también»."
+  },
+  {
+    "char": "群",
+    "components": [
+      {
+        "char": "君",
+        "meaning_es": "señor, gobernante"
+      },
+      {
+        "char": "羊",
+        "meaning_es": "oveja"
+      }
+    ],
+    "mnemonic_es": "Un señor pastor al lado de sus ovejas: juntos forman un rebaño, un grupo."
+  },
+  {
+    "char": "众",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      }
+    ],
+    "mnemonic_es": "Una persona, dos personas, tres personas... ¡ya es una multitud!"
+  },
+  {
+    "char": "赛",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "共",
+        "meaning_es": "juntos (forma parecida)"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      }
+    ],
+    "mnemonic_es": "Bajo un mismo techo, todos juntos compiten por un premio en dinero: es una competencia."
+  },
+  {
+    "char": "利",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, planta de grano"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Con un cuchillo bien filoso cosechas el cereal y ganas dinero: filo y beneficio."
+  },
+  {
+    "char": "鸡",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano, otra vez"
+      },
+      {
+        "char": "鸟",
+        "meaning_es": "pájaro"
+      }
+    ],
+    "mnemonic_es": "Atrapas con la mano a un pájaro que no vuela muy lejos: es un pollo."
+  },
+  {
+    "char": "蛋",
+    "components": [
+      {
+        "char": "疋",
+        "meaning_es": "pie (variante)"
+      },
+      {
+        "char": "虫",
+        "meaning_es": "insecto, bicho"
+      }
+    ],
+    "mnemonic_es": "Casi pisas con el pie algo redondito de donde saldrá un bichito: ¡cuidado, es un huevo!"
+  },
+  {
+    "char": "度",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "cobertizo, techo"
+      },
+      {
+        "char": "廿",
+        "meaning_es": "veinte"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Bajo el cobertizo, una mano marca veinte en el termómetro: estamos a veinte grados."
+  },
+  {
+    "char": "欧",
+    "components": [
+      {
+        "char": "区",
+        "meaning_es": "zona, región"
+      },
+      {
+        "char": "欠",
+        "meaning_es": "bostezar, faltar"
+      }
+    ],
+    "mnemonic_es": "Llegas a una zona tan lejana que bostezas del cansancio del viaje: es Europa."
+  },
+  {
+    "char": "洲",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "州",
+        "meaning_es": "provincia, región"
+      }
+    ],
+    "mnemonic_es": "Una región enorme rodeada de agua por todos lados: es un continente."
+  },
+  {
+    "char": "办",
+    "components": [
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      },
+      {
+        "char": "丶",
+        "meaning_es": "punto (gotas de sudor)"
+      }
+    ],
+    "mnemonic_es": "La fuerza trabajando con dos gotas de sudor a los lados: así se hacen y se resuelven las cosas."
+  },
+  {
+    "char": "讲",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "井",
+        "meaning_es": "pozo"
+      }
+    ],
+    "mnemonic_es": "Te sientas junto al pozo del pueblo y empiezas a hablar y a explicar historias."
+  },
+  {
+    "char": "席",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "cobertizo, techo"
+      },
+      {
+        "char": "廿",
+        "meaning_es": "veinte"
+      },
+      {
+        "char": "巾",
+        "meaning_es": "tela, paño"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo hay veinte telas tendidas en el piso para que cada invitado tenga su asiento."
+  },
+  {
+    "char": "革",
+    "components": [
+      {
+        "char": "革",
+        "meaning_es": "cuero; reformar"
+      }
+    ],
+    "mnemonic_es": "Imagina una piel de animal extendida para secarse: el cuero cambia por completo, como una reforma."
+  },
+  {
+    "char": "命",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona (techo)"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "persona arrodillada, sello"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo, una boca da una orden y alguien se arrodilla: la orden decide su destino y su vida."
+  },
+  {
+    "char": "除",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina"
+      },
+      {
+        "char": "余",
+        "meaning_es": "sobrante, resto"
+      }
+    ],
+    "mnemonic_es": "Subes la colina y tiras todo lo que sobra: eso es eliminar."
+  },
+  {
+    "char": "价",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "介",
+        "meaning_es": "intermediar, presentar"
+      }
+    ],
+    "mnemonic_es": "Una persona hace de intermediaria entre vendedor y comprador para fijar el precio."
+  },
+  {
+    "char": "值",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "直",
+        "meaning_es": "recto, directo"
+      }
+    ],
+    "mnemonic_es": "Una persona recta y honesta vale mucho: tiene valor."
+  },
+  {
+    "char": "离",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa"
+      },
+      {
+        "char": "凶",
+        "meaning_es": "feroz, malvado"
+      },
+      {
+        "char": "禸",
+        "meaning_es": "huella"
+      }
+    ],
+    "mnemonic_es": "Ves algo feroz bajo una tapa y solo dejas tus huellas al huir: te alejas de ahí."
+  },
+  {
+    "char": "条",
+    "components": [
+      {
+        "char": "夂",
+        "meaning_es": "pasos lentos"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Caminas despacio hacia el árbol y arrancas una rama larga y delgada: una tira."
+  },
+  {
+    "char": "注",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "主",
+        "meaning_es": "dueño, principal"
+      }
+    ],
+    "mnemonic_es": "El dueño vierte el agua con mucho cuidado en un vaso: tiene que poner toda su atención."
+  },
+  {
+    "char": "意",
+    "components": [
+      {
+        "char": "音",
+        "meaning_es": "sonido"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "El sonido que sale de tu corazón es lo que realmente quieres decir: tu idea, tu intención."
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:弄",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc05caf4c0ab6811860024a0dce1b403418fdbdc"
+  },
+  {
+    "id": "word:大小",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d82d6711a4def9e00e59688dda93d9174657c15f"
+  },
+  {
+    "id": "word:直到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da983ca0bdf97c2ada6468ab195ec0064e8fcf1b"
+  },
+  {
+    "id": "word:按照",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb7b2508263df2da68d79f55583b8e0c88f5fd79"
+  },
+  {
+    "id": "word:看法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9473b4313d3d9eb7497ec462f67b0087c499e2c2"
+  },
+  {
+    "id": "word:科学家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a17efa53764bb59b761bb0aeba84c4777919cfe"
+  },
+  {
+    "id": "word:可爱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c7787146c9bc68984991d58d8adbf0c2a7bcb0f"
+  },
+  {
+    "id": "word:请求",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10d0ac7bc227a8f4319179cef2d4022b998bb023"
+  },
+  {
+    "id": "word:风险",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b71c3fabbfca31dc9ac49049e36def20051d56b"
+  },
+  {
+    "id": "word:顺利",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: el complemento 得 en 进行得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "cbdb85a26c227db1927e4ef8c5ecf149ad34e315"
+  },
+  {
+    "id": "word:边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a45e064bdc8a6a07c4508e71e3e1724f94b97ff"
+  },
+  {
+    "id": "word:公共",
+    "ok": true,
+    "issues": [],
+    "content_hash": "967c397444435ce84ed7515dc64dcdd2b72b4a56"
+  },
+  {
+    "id": "word:船",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d66a1744975f33af42c8b9041edac76c5ac14f41"
+  },
+  {
+    "id": "word:多久",
+    "ok": true,
+    "issues": [],
+    "content_hash": "594cc407e528caafe869a194715ec277c1853a2d"
+  },
+  {
+    "id": "word:批评",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c93716350f7f74e966269d2a1b6edf101374106c"
+  },
+  {
+    "id": "word:取消",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c3192a83e0aedebddd7c19a33128ba3607d5ff6e"
+  },
+  {
+    "id": "word:平",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca3246fd9fe712466324ac38d275ef64b6f219e9"
+  },
+  {
+    "id": "word:司机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc234384ff823f760664783cc68261a0507b3659"
+  },
+  {
+    "id": "word:停止",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e795557ddb9e04a87a848040718a5a88b4c7486"
+  },
+  {
+    "id": "word:酒",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 一点儿 se lee «yìdiǎnr» (erhua); no es una sílaba aparte «ér»."
+    ],
+    "content_hash": "1660940e8c34b945cb4bfa9d4dbc25230509111c"
+  },
+  {
+    "id": "word:文学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89c784491224c75fb4724abc4da772aaa3057fc0"
+  },
+  {
+    "id": "word:理想",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: la partícula 地 en 努力地 se lee «de» (tono neutro), no «dì»."
+    ],
+    "content_hash": "38d6eaeac6f4f7ea9ac17cfbc2763697d91505b1"
+  },
+  {
+    "id": "word:先进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eef9035efcdf4c8f3952e3fc8fc9e56a80c9587a"
+  },
+  {
+    "id": "word:效果",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: el complemento 得 en 做得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "725f3459c29f6f1b103770c46a753469f3293c4e"
+  },
+  {
+    "id": "word:全体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d1e4279954540b3e26f29be0daa5366996abff73"
+  }
+]

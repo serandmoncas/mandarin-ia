@@ -1,0 +1,202 @@
+[
+  {
+    "id": "word:大人",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente con la entrada (da4 ren5): en los ejemplos aparece 'dà rén', debería ser 'dà ren'.",
+      "'时候' debe ser 'shí hou' (tono neutro), no 'shí hòu'.",
+      "Erhua mal transcrito: '小孩儿' debe ser 'xiǎo háir', no 'xiǎo hái ér'."
+    ],
+    "content_hash": "4d2308465ceabe7fa9a9cd637b4412c4dceb585b"
+  },
+  {
+    "id": "word:自动",
+    "ok": false,
+    "issues": [
+      "'下雨以后' significa 'después de que llueve', no 'cuando llueve'.",
+      "En el ejemplo 4, para 'por iniciativa propia' lo natural hoy es 主动 o 自发. 自动 con ese sentido suena forzado o anticuado."
+    ],
+    "content_hash": "cab14f3801314ae71bc99ced0ca7df6f64494728"
+  },
+  {
+    "id": "word:放心",
+    "ok": false,
+    "issues": [
+      "Erhua mal transcrito: '没事儿' debe ser 'méi shìr', no 'méi shì ér'.",
+      "'妈妈' debe ser 'mā ma' (tono neutro), no 'mā mā'."
+    ],
+    "content_hash": "b75c6ed7ecb455fa640c96577166bb3d446210c8"
+  },
+  {
+    "id": "word:超级",
+    "ok": false,
+    "issues": [
+      "Erhua mal transcrito: '点儿' debe ser 'diǎnr', no 'diǎn ér'.",
+      "'认识' debe ser 'rèn shi' (tono neutro), no 'rèn shí'."
+    ],
+    "content_hash": "9f2d07b26af48823688c462412ac53040bacc127"
+  },
+  {
+    "id": "word:分开",
+    "ok": false,
+    "issues": [
+      "'衣服' debe ser 'yī fu' (tono neutro), no 'yī fú'.",
+      "'时候' debe ser 'shí hou', no 'shí hòu'."
+    ],
+    "content_hash": "f636d0902a51858bcae635b9f1759d4802d20ae0"
+  },
+  {
+    "id": "word:初",
+    "ok": false,
+    "issues": [
+      "'时候' debe ser 'shí hou' (tono neutro), no 'shí hòu'."
+    ],
+    "content_hash": "f4f9ea72c2c6d7a1fa0ef1b6393d104f3dc0a1ef"
+  },
+  {
+    "id": "word:舒服",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente con la entrada (shu1 fu5): en todos los ejemplos aparece 'shū fú', debería ser 'shū fu'.",
+      "'衣服' debe ser 'yī fu', no 'yī fú'."
+    ],
+    "content_hash": "c269f01c59c868c685abd4f00ae3255a363ed458"
+  },
+  {
+    "id": "word:北方",
+    "ok": false,
+    "issues": [
+      "Erhua mal transcrito: '面条儿' debe ser 'miàn tiáor', no 'miàn tiáo ér'."
+    ],
+    "content_hash": "439a169195f39211bdcf0c21bc6452ba9562ba2f"
+  },
+  {
+    "id": "word:回国",
+    "ok": false,
+    "issues": [
+      "'什么时候' debe ser 'shén me shí hou' (tono neutro en 候), no 'shí hòu'."
+    ],
+    "content_hash": "a9b328d908948d76672489eac5b2de3f9b268c48"
+  },
+  {
+    "id": "word:蓝色",
+    "ok": false,
+    "issues": [
+      "Falta el sandhi tonal: '一件' debe ser 'yí jiàn', no 'yī jiàn'.",
+      "'衣服' debe ser 'yī fu', no 'yī fú'."
+    ],
+    "content_hash": "47b27cfdbb3f1fb70dd11551e32fca06715ea132"
+  },
+  {
+    "id": "word:课程",
+    "ok": false,
+    "issues": [
+      "'下个月' se pronuncia normalmente 'xià ge yuè' (个 en tono neutro), no 'xià gè yuè'."
+    ],
+    "content_hash": "477a86e1ab0fb6a9999cebbcc84306e8c7633dd2"
+  },
+  {
+    "id": "word:夜",
+    "ok": false,
+    "issues": [
+      "Falta el sandhi tonal: '一夜' debe ser 'yí yè', no 'yī yè'."
+    ],
+    "content_hash": "36a4091d191c374143ff90bb03eea96c99e689af"
+  },
+  {
+    "id": "word:好事",
+    "ok": false,
+    "issues": [
+      "Falta el sandhi tonal: '一件' debe ser 'yí jiàn', no 'yī jiàn' (ejemplos 2 y 3)."
+    ],
+    "content_hash": "aac910b52f8ccf60b3104d4c08118a9f1e97efe9"
+  },
+  {
+    "id": "word:人才",
+    "ok": true,
+    "issues": [],
+    "content_hash": "543c016d803db9d1e89d1f5a158282f5088fd1e2"
+  },
+  {
+    "id": "word:篮球",
+    "ok": false,
+    "issues": [
+      "El complemento '得' debe ser 'de' (tono neutro), no 'dé': 'dǎ de'."
+    ],
+    "content_hash": "ce47c278ea4b12a228d6d49442551565ed6ea271"
+  },
+  {
+    "id": "word:商品",
+    "ok": false,
+    "issues": [
+      "El complemento '得' debe ser 'de' (tono neutro), no 'dé': 'mài de'."
+    ],
+    "content_hash": "aec3d886c337869a45bf7c3b1488dfcfac2f5b22"
+  },
+  {
+    "id": "word:碰",
+    "ok": false,
+    "issues": [
+      "'朋友' debe ser 'péng you' (tono neutro), no 'péng yǒu'."
+    ],
+    "content_hash": "1e3879c3c2f9d64555a853ee9860271a582d5c24"
+  },
+  {
+    "id": "word:受伤",
+    "ok": false,
+    "issues": [
+      "El complemento '得' debe ser 'de' (tono neutro), no 'dé': 'kāi de'."
+    ],
+    "content_hash": "94d836f5a168411793f722715e066c28d7222630"
+  },
+  {
+    "id": "word:骑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8683160f503534974dae56fb79beaed465c221db"
+  },
+  {
+    "id": "word:文字",
+    "ok": false,
+    "issues": [
+      "Falta el sandhi tonal: '一些' debe ser 'yì xiē', no 'yī xiē'."
+    ],
+    "content_hash": "d1dba1c7ebdc0b0a042eedb299629ddac7e5f300"
+  },
+  {
+    "id": "word:喊",
+    "ok": false,
+    "issues": [
+      "'hasta entonces salió' es un regionalismo mexicano y no es español neutro. Mejor: 'y solo entonces salió'.",
+      "'名字' debe ser 'míng zi' (tono neutro), no 'míng zì'.",
+      "'妈妈' debe ser 'mā ma', no 'mā mā'."
+    ],
+    "content_hash": "aa868adad72b95a5c14954d527a82f5f695f47ea"
+  },
+  {
+    "id": "word:消费",
+    "ok": false,
+    "issues": [
+      "Falta el sandhi tonal: '不必要' debe ser 'bú bì yào', no 'bù bì yào'."
+    ],
+    "content_hash": "54250413966f3936e2929ae85d87a323bcc31422"
+  },
+  {
+    "id": "word:青少年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "32641fd1f61cc8da5eb1cb4d2568584e527c533f"
+  },
+  {
+    "id": "word:油",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b1f2c681a771ba3e8ebb55bef12bd3b198204f8"
+  },
+  {
+    "id": "word:至今",
+    "ok": true,
+    "issues": [],
+    "content_hash": "405409dd8a372b4dc6fc155511854838c805a412"
+  }
+]

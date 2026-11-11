@@ -1,0 +1,534 @@
+[
+  {
+    "word": "奇怪",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "raro",
+      "extraño",
+      "sorprenderse",
+      "no entender algo"
+    ],
+    "examples": [
+      {
+        "zh": "这个人很奇怪。",
+        "es": "Esta persona es muy rara."
+      },
+      {
+        "zh": "你不觉得奇怪吗？",
+        "es": "¿No te parece raro?"
+      },
+      {
+        "zh": "他今天没来上班，真奇怪。",
+        "es": "Hoy no vino a trabajar, qué raro."
+      },
+      {
+        "zh": "我很奇怪他为什么不告诉我。",
+        "es": "Me extraña que no me lo haya dicho."
+      }
+    ]
+  },
+  {
+    "word": "晴天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "día soleado",
+      "cielo despejado"
+    ],
+    "examples": [
+      {
+        "zh": "今天是晴天。",
+        "es": "Hoy es un día soleado."
+      },
+      {
+        "zh": "我喜欢晴天。",
+        "es": "Me gustan los días soleados."
+      },
+      {
+        "zh": "明天是晴天，我们去公园吧。",
+        "es": "Mañana va a estar soleado, vamos al parque."
+      },
+      {
+        "zh": "下了三天雨，今天终于是晴天了。",
+        "es": "Después de tres días de lluvia, por fin hoy salió el sol."
+      }
+    ]
+  },
+  {
+    "word": "交朋友",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer amigos",
+      "entablar amistad"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢交朋友。",
+        "es": "Me gusta hacer amigos."
+      },
+      {
+        "zh": "他很会交朋友。",
+        "es": "Él es muy bueno para hacer amigos."
+      },
+      {
+        "zh": "在新学校交朋友不容易。",
+        "es": "No es fácil hacer amigos en una escuela nueva."
+      },
+      {
+        "zh": "学习外语可以帮助我们和外国人交朋友。",
+        "es": "Aprender idiomas nos ayuda a hacernos amigos de extranjeros."
+      }
+    ]
+  },
+  {
+    "word": "日常",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cotidiano",
+      "diario",
+      "el día a día"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的日常生活。",
+        "es": "Esta es mi vida cotidiana."
+      },
+      {
+        "zh": "我们学习日常汉语。",
+        "es": "Estudiamos chino de uso cotidiano."
+      },
+      {
+        "zh": "手机已经成为日常生活的一部分。",
+        "es": "El celular ya se volvió parte de la vida diaria."
+      },
+      {
+        "zh": "他每天都在网上分享自己的日常。",
+        "es": "Todos los días comparte su día a día en internet."
+      }
+    ]
+  },
+  {
+    "word": "碰见",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "encontrarse con alguien",
+      "toparse con",
+      "ver por casualidad"
+    ],
+    "examples": [
+      {
+        "zh": "我在路上碰见了老师。",
+        "es": "Me encontré con el maestro en la calle."
+      },
+      {
+        "zh": "昨天我在超市碰见了他。",
+        "es": "Ayer me lo encontré en el supermercado."
+      },
+      {
+        "zh": "真没想到会在这里碰见你。",
+        "es": "De veras no esperaba encontrarte aquí."
+      },
+      {
+        "zh": "我去机场的时候，碰见了一个老朋友。",
+        "es": "Cuando fui al aeropuerto, me topé con un viejo amigo."
+      }
+    ]
+  },
+  {
+    "word": "适用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aplicable",
+      "ser válido para",
+      "servir para"
+    ],
+    "examples": [
+      {
+        "zh": "这个方法不适用。",
+        "es": "Este método no aplica."
+      },
+      {
+        "zh": "这本书适用于小学生。",
+        "es": "Este libro es adecuado para alumnos de primaria."
+      },
+      {
+        "zh": "这个规定适用于所有学生。",
+        "es": "Esta regla aplica a todos los estudiantes."
+      },
+      {
+        "zh": "这个办法在中国适用，在美国就不一定。",
+        "es": "Esta solución funciona en China, pero no necesariamente en Estados Unidos."
+      }
+    ]
+  },
+  {
+    "word": "下雪",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nevar"
+    ],
+    "examples": [
+      {
+        "zh": "外面下雪了。",
+        "es": "Está nevando afuera."
+      },
+      {
+        "zh": "北京冬天常常下雪。",
+        "es": "En Pekín nieva seguido en invierno."
+      },
+      {
+        "zh": "明天会下雪，你要多穿衣服。",
+        "es": "Mañana va a nevar, abrígate bien."
+      },
+      {
+        "zh": "我小时候最喜欢下雪的日子了。",
+        "es": "De niño, lo que más me gustaba eran los días de nieve."
+      }
+    ]
+  },
+  {
+    "word": "收费",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cobrar",
+      "tarifa",
+      "de pago"
+    ],
+    "examples": [
+      {
+        "zh": "这里收费吗？",
+        "es": "¿Aquí se cobra?"
+      },
+      {
+        "zh": "这个公园不收费。",
+        "es": "Este parque no cobra entrada."
+      },
+      {
+        "zh": "停车场怎么收费？",
+        "es": "¿Cuánto cobran en el estacionamiento?"
+      },
+      {
+        "zh": "这个网站以前免费，现在开始收费了。",
+        "es": "Este sitio web antes era gratis, pero ahora empezó a cobrar."
+      }
+    ]
+  },
+  {
+    "word": "退出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "retirarse",
+      "salir",
+      "abandonar",
+      "cerrar sesión"
+    ],
+    "examples": [
+      {
+        "zh": "他退出了比赛。",
+        "es": "Se retiró de la competencia."
+      },
+      {
+        "zh": "我想退出这个游戏。",
+        "es": "Quiero salir de este juego."
+      },
+      {
+        "zh": "下班前，别忘了退出系统。",
+        "es": "Antes de salir del trabajo, no olvides cerrar sesión en el sistema."
+      },
+      {
+        "zh": "因为身体不好，他决定退出这个组织。",
+        "es": "Por problemas de salud, decidió retirarse de la organización."
+      }
+    ]
+  },
+  {
+    "word": "读音",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pronunciación",
+      "lectura de un carácter"
+    ],
+    "examples": [
+      {
+        "zh": "这个字的读音是什么？",
+        "es": "¿Cómo se pronuncia este carácter?"
+      },
+      {
+        "zh": "这两个字的读音一样。",
+        "es": "Estos dos caracteres se pronuncian igual."
+      },
+      {
+        "zh": "你的读音很准确。",
+        "es": "Tu pronunciación es muy precisa."
+      },
+      {
+        "zh": "有些汉字有两个读音，非常容易错。",
+        "es": "Algunos caracteres tienen dos pronunciaciones, y es muy fácil equivocarse."
+      }
+    ]
+  },
+  {
+    "word": "西医",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "medicina occidental",
+      "médico de medicina occidental"
+    ],
+    "examples": [
+      {
+        "zh": "他是西医。",
+        "es": "Él es médico de medicina occidental."
+      },
+      {
+        "zh": "我生病的时候喜欢看西医。",
+        "es": "Cuando me enfermo, prefiero ir con un médico de medicina occidental."
+      },
+      {
+        "zh": "中医和西医各有好处。",
+        "es": "La medicina china y la occidental tienen cada una sus ventajas."
+      },
+      {
+        "zh": "很多中国人认为中医和西医应该结合。",
+        "es": "Muchos chinos creen que la medicina china y la occidental deben combinarse."
+      }
+    ]
+  },
+  {
+    "word": "幸运",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "afortunado",
+      "con suerte",
+      "buena suerte"
+    ],
+    "examples": [
+      {
+        "zh": "我很幸运。",
+        "es": "Tengo mucha suerte."
+      },
+      {
+        "zh": "你真幸运！",
+        "es": "¡Qué suerte tienes!"
+      },
+      {
+        "zh": "能认识你，我觉得很幸运。",
+        "es": "Me siento muy afortunado de conocerte."
+      },
+      {
+        "zh": "他很幸运，没有在这次事件中受伤。",
+        "es": "Tuvo mucha suerte de no salir herido en este incidente."
+      }
+    ]
+  },
+  {
+    "word": "黑板",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pizarrón",
+      "pizarra"
+    ],
+    "examples": [
+      {
+        "zh": "请看黑板。",
+        "es": "Miren el pizarrón, por favor."
+      },
+      {
+        "zh": "老师在黑板上写字。",
+        "es": "El maestro escribe en el pizarrón."
+      },
+      {
+        "zh": "黑板上的字太小了，我看不清楚。",
+        "es": "Las letras del pizarrón están muy chiquitas, no alcanzo a ver bien."
+      },
+      {
+        "zh": "老师让我到黑板前面写这个汉字。",
+        "es": "El maestro me pidió pasar al pizarrón a escribir este carácter."
+      }
+    ]
+  },
+  {
+    "word": "血",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sangre"
+    ],
+    "examples": [
+      {
+        "zh": "他的手上有血。",
+        "es": "Tiene sangre en la mano."
+      },
+      {
+        "zh": "你流血了！",
+        "es": "¡Estás sangrando!"
+      },
+      {
+        "zh": "他很怕看见血。",
+        "es": "Le da mucho miedo ver sangre."
+      },
+      {
+        "zh": "医生说他流了很多血，需要马上去医院。",
+        "es": "El médico dijo que perdió mucha sangre y que tiene que ir al hospital de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "难听",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desagradable al oído",
+      "feo (de escuchar)",
+      "grosero",
+      "ofensivo"
+    ],
+    "examples": [
+      {
+        "zh": "这首歌真难听。",
+        "es": "Esta canción suena horrible."
+      },
+      {
+        "zh": "他唱歌很难听，但是他很喜欢唱。",
+        "es": "Canta muy feo, pero le encanta cantar."
+      },
+      {
+        "zh": "他说话很难听。",
+        "es": "Habla de una forma muy grosera."
+      },
+      {
+        "zh": "你别说这么难听的话。",
+        "es": "No digas cosas tan ofensivas."
+      }
+    ]
+  },
+  {
+    "word": "猪",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cerdo",
+      "puerco",
+      "chancho"
+    ],
+    "examples": [
+      {
+        "zh": "这是一头猪。",
+        "es": "Este es un cerdo."
+      },
+      {
+        "zh": "我不吃猪肉。",
+        "es": "No como carne de cerdo."
+      },
+      {
+        "zh": "她家里养了两头猪。",
+        "es": "En su casa crían dos cerdos."
+      },
+      {
+        "zh": "农村的爷爷奶奶每年都养几头猪。",
+        "es": "Los abuelos que viven en el campo crían algunos cerdos cada año."
+      }
+    ]
+  },
+  {
+    "word": "公共汽车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "autobús",
+      "camión (transporte público)"
+    ],
+    "examples": [
+      {
+        "zh": "公共汽车来了。",
+        "es": "Ya llegó el autobús."
+      },
+      {
+        "zh": "我坐公共汽车去学校。",
+        "es": "Voy a la escuela en autobús."
+      },
+      {
+        "zh": "这里的公共汽车站在哪里？",
+        "es": "¿Dónde está la parada de autobús de aquí?"
+      },
+      {
+        "zh": "早上坐公共汽车的人太多了，我常常走路去上班。",
+        "es": "En la mañana hay demasiada gente en el autobús, así que muchas veces me voy caminando al trabajo."
+      }
+    ]
+  },
+  {
+    "word": "保险",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "seguro (póliza)",
+      "asegurar",
+      "seguro, sin riesgo"
+    ],
+    "examples": [
+      {
+        "zh": "我买了保险。",
+        "es": "Contraté un seguro."
+      },
+      {
+        "zh": "你的车有保险吗？",
+        "es": "¿Tu carro tiene seguro?"
+      },
+      {
+        "zh": "这样做比较保险。",
+        "es": "Hacerlo así es más seguro."
+      },
+      {
+        "zh": "公司给每个员工都买了医疗保险。",
+        "es": "La empresa les contrató seguro médico a todos los empleados."
+      }
+    ]
+  },
+  {
+    "word": "零下",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bajo cero"
+    ],
+    "examples": [
+      {
+        "zh": "今天零下五度。",
+        "es": "Hoy estamos a cinco grados bajo cero."
+      },
+      {
+        "zh": "外面零下十度，多穿点衣服吧。",
+        "es": "Afuera hace diez grados bajo cero, abrígate más."
+      },
+      {
+        "zh": "这里一年有半年都在零下。",
+        "es": "Aquí la temperatura está bajo cero la mitad del año."
+      },
+      {
+        "zh": "明天最低气温是零下三度，记得多穿衣服。",
+        "es": "Mañana la mínima será de tres grados bajo cero, acuérdate de abrigarte."
+      }
+    ]
+  },
+  {
+    "word": "表明",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dejar claro",
+      "manifestar",
+      "indicar",
+      "demostrar"
+    ],
+    "examples": [
+      {
+        "zh": "他表明了自己的态度。",
+        "es": "Dejó clara su postura."
+      },
+      {
+        "zh": "研究表明，每天走路对身体很好。",
+        "es": "Los estudios demuestran que caminar todos los días es muy bueno para la salud."
+      },
+      {
+        "zh": "调查表明，很多人喜欢在网上买东西。",
+        "es": "La encuesta indica que a mucha gente le gusta comprar en internet."
+      },
+      {
+        "zh": "她用行动表明了对我们的支持。",
+        "es": "Con sus acciones demostró que nos apoya."
+      }
+    ]
+  }
+]

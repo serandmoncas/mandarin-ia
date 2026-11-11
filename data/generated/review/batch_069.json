@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:感动",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: el complemento 得 de '感动得哭了' se lee 'de' en tono neutro, no 'dé'."
+    ],
+    "content_hash": "a1e3f4739130a748f102967863160de11a577284"
+  },
+  {
+    "id": "word:观众",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c136cbed9e0794023ceb0c4be5a587fc4893b6e"
+  },
+  {
+    "id": "word:接到",
+    "ok": false,
+    "issues": [
+      "El significado 'ir a buscar (a alguien)' corresponde a 接. 接到 indica que se logró recoger o encontrar a la persona; sería más preciso 'recoger (a alguien, con éxito)'. Ningún ejemplo ilustra esa acepción."
+    ],
+    "content_hash": "4a316519d319b7ad2d76ed6c3b9a8f1518ad63b1"
+  },
+  {
+    "id": "word:节日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "19715f3d3014408280275efb2f848096c774103d"
+  },
+  {
+    "id": "word:爬",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3f742e55cf91e9bd09fcef05b2761c57d0facd17"
+  },
+  {
+    "id": "word:西南",
+    "ok": true,
+    "issues": [],
+    "content_hash": "408c5669e287a323f271865d1dd0d14c98c558f9"
+  },
+  {
+    "id": "word:响",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e81f8dc21e2f26997311f137180399f0f955955"
+  },
+  {
+    "id": "word:友好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "586626de506b461802f4509b9fb5cf303b37d1f9"
+  },
+  {
+    "id": "word:住房",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd71a95d6bcf7f3811b0a42298e353bf5fa76e6e"
+  },
+  {
+    "id": "word:区别",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: '你能区别这两种茶吗？' suena poco natural. Con el sentido de distinguir, un nativo diría 区分 o 分辨 (o 分得出)."
+    ],
+    "content_hash": "7149531fa020e4877c1b59f179933af21c3dfe15"
+  },
+  {
+    "id": "word:大声",
+    "ok": true,
+    "issues": [],
+    "content_hash": "18041f4d56d4c8312250b7c51a402287e52c7ec9"
+  },
+  {
+    "id": "word:实验",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d14d165abd7279cc57a2d3340d785999d062f002"
+  },
+  {
+    "id": "word:客人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02fb8761fea49638f38e4f3a1ed801dca423aa3c"
+  },
+  {
+    "id": "word:形象",
+    "ok": true,
+    "issues": [],
+    "content_hash": "85eacea0f3499cb34da73f23c1b8146d786d8a45"
+  },
+  {
+    "id": "word:全身",
+    "ok": false,
+    "issues": [
+      "Traducción infiel en el ejemplo 1: '我全身都很累' significa 'Tengo todo el cuerpo cansado' o 'Estoy cansadísimo'; el original no dice que algo duela."
+    ],
+    "content_hash": "7d6849292344fd59151b39d2673c4a327e78aff6"
+  },
+  {
+    "id": "word:展开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77dd41b999d43ae11c5b1c8bdbc65637e72fa970"
+  },
+  {
+    "id": "word:正好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5cca4be0709ac452553e0771aa47f836e22336d"
+  },
+  {
+    "id": "word:支付",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40416b0e572297b742965563dc64fae92c011135"
+  },
+  {
+    "id": "word:晚安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "779b00b27caa86f0594358307db2491a7b18aaf7"
+  },
+  {
+    "id": "word:比例",
+    "ok": true,
+    "issues": [],
+    "content_hash": "01e10145354dbc0037d3720fc770cf60ef6de2ba"
+  },
+  {
+    "id": "word:姓名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d9b9e8120217662410192b5eeaf823bc6caf674"
+  },
+  {
+    "id": "word:发动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "43f3c192528046852fd496ece43a0432dfc1f952"
+  },
+  {
+    "id": "word:眼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "affd78a7d3b966dd3ca00b2813f939756c315b4c"
+  },
+  {
+    "id": "word:观察",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a9422c63ac0d41f46823e99257ad9d0f2609afd"
+  },
+  {
+    "id": "word:练",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: el complemento 得 de '说得好' se lee 'de' en tono neutro, no 'dé'."
+    ],
+    "content_hash": "179ca81a5f5a3bf704dd7a3b09018b41fb27df26"
+  }
+]

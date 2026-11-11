@@ -1,0 +1,541 @@
+[
+  {
+    "word": "迎接",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recibir (a alguien)",
+      "dar la bienvenida",
+      "prepararse para (un evento)"
+    ],
+    "examples": [
+      {
+        "zh": "我们去机场迎接她。",
+        "es": "Vamos al aeropuerto a recibirla."
+      },
+      {
+        "zh": "他在门口迎接客人。",
+        "es": "Él recibe a los invitados en la puerta."
+      },
+      {
+        "zh": "大家都在准备迎接新年。",
+        "es": "Todos se están preparando para recibir el Año Nuevo."
+      },
+      {
+        "zh": "我们要努力学习，迎接明年的考试。",
+        "es": "Tenemos que estudiar con empeño para enfrentar el examen del próximo año."
+      }
+    ]
+  },
+  {
+    "word": "有利",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "favorable",
+      "ventajoso",
+      "beneficioso"
+    ],
+    "examples": [
+      {
+        "zh": "这对你有利。",
+        "es": "Esto te conviene."
+      },
+      {
+        "zh": "多运动对身体有利。",
+        "es": "Hacer más ejercicio es bueno para el cuerpo."
+      },
+      {
+        "zh": "这个计划对我们很有利。",
+        "es": "Este plan es muy favorable para nosotros."
+      },
+      {
+        "zh": "现在的情况对我们公司非常有利。",
+        "es": "La situación actual es muy ventajosa para nuestra empresa."
+      }
+    ]
+  },
+  {
+    "word": "留学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estudiar en el extranjero"
+    ],
+    "examples": [
+      {
+        "zh": "我想去美国留学。",
+        "es": "Quiero ir a estudiar a Estados Unidos."
+      },
+      {
+        "zh": "她哥哥在日本留学。",
+        "es": "Su hermano mayor estudia en Japón."
+      },
+      {
+        "zh": "他在法国留学的时候认识了她。",
+        "es": "Él la conoció cuando estudiaba en Francia."
+      },
+      {
+        "zh": "如果有机会，我希望能去德国留学。",
+        "es": "Si tengo la oportunidad, espero poder ir a estudiar a Alemania."
+      }
+    ]
+  },
+  {
+    "word": "伤心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "triste",
+      "dolido",
+      "con el corazón roto"
+    ],
+    "examples": [
+      {
+        "zh": "别伤心了。",
+        "es": "Ya no estés triste."
+      },
+      {
+        "zh": "她听到这个消息很伤心。",
+        "es": "Se puso muy triste al oír esa noticia."
+      },
+      {
+        "zh": "孩子的话让妈妈非常伤心。",
+        "es": "Las palabras del niño le dolieron mucho a su mamá."
+      },
+      {
+        "zh": "朋友离开以后，他伤心了很长时间。",
+        "es": "Después de que su amigo se fue, estuvo triste mucho tiempo."
+      }
+    ]
+  },
+  {
+    "word": "场合",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ocasión",
+      "situación",
+      "contexto",
+      "lugar (de un evento)"
+    ],
+    "examples": [
+      {
+        "zh": "说话要注意场合。",
+        "es": "Al hablar hay que fijarse en la ocasión."
+      },
+      {
+        "zh": "在这种场合要穿正式的衣服。",
+        "es": "En este tipo de ocasiones hay que vestir ropa formal."
+      },
+      {
+        "zh": "他不喜欢在公开场合讲话。",
+        "es": "No le gusta hablar en público."
+      },
+      {
+        "zh": "不同的场合，我们应该用不同的语言。",
+        "es": "En situaciones distintas debemos hablar de manera distinta."
+      }
+    ]
+  },
+  {
+    "word": "整",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entero, completo",
+      "en punto, exacto",
+      "ordenar, arreglar",
+      "fastidiar a alguien (coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "现在是三点整。",
+        "es": "Son las tres en punto."
+      },
+      {
+        "zh": "他整天都在玩游戏。",
+        "es": "Se pasa todo el día jugando videojuegos."
+      },
+      {
+        "zh": "这些书一共一百元整。",
+        "es": "Estos libros cuestan cien yuanes exactos en total."
+      },
+      {
+        "zh": "我花了一整年的时间学习汉语。",
+        "es": "Pasé un año entero estudiando chino."
+      }
+    ]
+  },
+  {
+    "word": "从前",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "antes",
+      "antiguamente",
+      "había una vez"
+    ],
+    "examples": [
+      {
+        "zh": "从前有一座山。",
+        "es": "Había una vez una montaña."
+      },
+      {
+        "zh": "他从前是老师。",
+        "es": "Antes él era maestro."
+      },
+      {
+        "zh": "这个城市跟从前不一样了。",
+        "es": "Esta ciudad ya no es como antes."
+      },
+      {
+        "zh": "我从前不爱运动，现在每天早上都去跑步。",
+        "es": "Antes no me gustaba hacer ejercicio; ahora salgo a correr todas las mañanas."
+      }
+    ]
+  },
+  {
+    "word": "合格",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aprobado",
+      "que cumple los requisitos",
+      "calificado, competente",
+      "apto"
+    ],
+    "examples": [
+      {
+        "zh": "他考试合格了。",
+        "es": "Aprobó el examen."
+      },
+      {
+        "zh": "这些产品都合格。",
+        "es": "Todos estos productos cumplen con los requisitos."
+      },
+      {
+        "zh": "他是一个合格的老师。",
+        "es": "Es un maestro competente."
+      },
+      {
+        "zh": "检查以后，这辆车的质量完全合格。",
+        "es": "Tras la inspección, la calidad de este auto cumple totalmente con la norma."
+      }
+    ]
+  },
+  {
+    "word": "家乡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tierra natal",
+      "pueblo natal",
+      "lugar de origen"
+    ],
+    "examples": [
+      {
+        "zh": "我的家乡很美。",
+        "es": "Mi tierra natal es muy bonita."
+      },
+      {
+        "zh": "你的家乡在哪里？",
+        "es": "¿De dónde eres originalmente?"
+      },
+      {
+        "zh": "他每年春节都回家乡。",
+        "es": "Cada Año Nuevo chino regresa a su pueblo natal."
+      },
+      {
+        "zh": "离开家乡很多年以后，他终于回来了。",
+        "es": "Después de muchos años lejos de su tierra, por fin regresó."
+      }
+    ]
+  },
+  {
+    "word": "没用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "inútil",
+      "que no sirve",
+      "no sirve de nada"
+    ],
+    "examples": [
+      {
+        "zh": "哭没用。",
+        "es": "Llorar no sirve de nada."
+      },
+      {
+        "zh": "这个手机已经没用了。",
+        "es": "Este celular ya no sirve."
+      },
+      {
+        "zh": "你说什么都没用，他不会听的。",
+        "es": "Digas lo que digas, no sirve de nada; no te va a hacer caso."
+      },
+      {
+        "zh": "我觉得自己很没用，什么都做不好。",
+        "es": "Siento que soy un inútil; no hago nada bien."
+      }
+    ]
+  },
+  {
+    "word": "手指",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dedo (de la mano)"
+    ],
+    "examples": [
+      {
+        "zh": "我的手指很疼。",
+        "es": "Me duele mucho el dedo."
+      },
+      {
+        "zh": "他用手指指地图。",
+        "es": "Señaló el mapa con el dedo."
+      },
+      {
+        "zh": "孩子的手指又小又可爱。",
+        "es": "Los dedos del niño son pequeñitos y lindos."
+      },
+      {
+        "zh": "打完球以后，他发现手指受伤了。",
+        "es": "Después de jugar a la pelota, se dio cuenta de que se había lastimado el dedo."
+      }
+    ]
+  },
+  {
+    "word": "汤",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "sopa",
+      "caldo",
+      "agua caliente"
+    ],
+    "examples": [
+      {
+        "zh": "我想喝汤。",
+        "es": "Quiero tomar sopa."
+      },
+      {
+        "zh": "这碗汤太热了。",
+        "es": "Este plato de sopa está demasiado caliente."
+      },
+      {
+        "zh": "妈妈做的鸡蛋汤非常好喝。",
+        "es": "La sopa de huevo que hace mi mamá es riquísima."
+      },
+      {
+        "zh": "中国人吃饭的时候常常喝一碗热汤。",
+        "es": "Los chinos suelen tomar un plato de sopa caliente con la comida."
+      }
+    ]
+  },
+  {
+    "word": "功夫",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "kung fu",
+      "habilidad, destreza",
+      "esfuerzo",
+      "tiempo (dedicado a algo)"
+    ],
+    "examples": [
+      {
+        "zh": "他会中国功夫。",
+        "es": "Él sabe kung fu chino."
+      },
+      {
+        "zh": "我喜欢看功夫电影。",
+        "es": "Me gusta ver películas de kung fu."
+      },
+      {
+        "zh": "他从小练功夫，身体非常好。",
+        "es": "Practica kung fu desde niño y tiene muy buena salud."
+      },
+      {
+        "zh": "学好汉语要花很多功夫。",
+        "es": "Aprender bien chino requiere mucho esfuerzo."
+      }
+    ]
+  },
+  {
+    "word": "教材",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "material didáctico",
+      "libro de texto"
+    ],
+    "examples": [
+      {
+        "zh": "这本教材很好。",
+        "es": "Este libro de texto es muy bueno."
+      },
+      {
+        "zh": "老师给我们发了新教材。",
+        "es": "El maestro nos repartió material nuevo."
+      },
+      {
+        "zh": "这套汉语教材适合小学生。",
+        "es": "Esta serie de libros de chino es adecuada para alumnos de primaria."
+      },
+      {
+        "zh": "我们学校今年开始使用新的英语教材。",
+        "es": "Este año nuestra escuela empezó a usar nuevos libros de inglés."
+      }
+    ]
+  },
+  {
+    "word": "考验",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prueba",
+      "poner a prueba",
+      "reto difícil"
+    ],
+    "examples": [
+      {
+        "zh": "这是对你的考验。",
+        "es": "Esto es una prueba para ti."
+      },
+      {
+        "zh": "这次比赛是一个很大的考验。",
+        "es": "Esta competencia es una gran prueba."
+      },
+      {
+        "zh": "困难最能考验一个人。",
+        "es": "Las dificultades son lo que más pone a prueba a una persona."
+      },
+      {
+        "zh": "他们的爱情经过了时间的考验。",
+        "es": "Su amor ha resistido la prueba del tiempo."
+      }
+    ]
+  },
+  {
+    "word": "缺少",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "faltar",
+      "carecer de",
+      "escasez"
+    ],
+    "examples": [
+      {
+        "zh": "这里缺少水。",
+        "es": "Aquí falta agua."
+      },
+      {
+        "zh": "他缺少工作经验。",
+        "es": "Le falta experiencia laboral."
+      },
+      {
+        "zh": "这个城市缺少医院和医生。",
+        "es": "A esta ciudad le faltan hospitales y médicos."
+      },
+      {
+        "zh": "孩子的生活中不能缺少父母的爱。",
+        "es": "En la vida de un niño no puede faltar el amor de sus padres."
+      }
+    ]
+  },
+  {
+    "word": "自觉",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por iniciativa propia",
+      "consciente, responsable",
+      "darse cuenta (de algo sobre uno mismo)"
+    ],
+    "examples": [
+      {
+        "zh": "他学习很自觉。",
+        "es": "Estudia por iniciativa propia."
+      },
+      {
+        "zh": "孩子们自觉地排队。",
+        "es": "Los niños hacen fila solitos, sin que nadie se los pida."
+      },
+      {
+        "zh": "大家都应该自觉保护环境。",
+        "es": "Todos deberíamos cuidar el medio ambiente por conciencia propia."
+      },
+      {
+        "zh": "他自觉做得不对，就向朋友说了对不起。",
+        "es": "Se dio cuenta de que había actuado mal y le pidió perdón a su amigo."
+      }
+    ]
+  },
+  {
+    "word": "发送",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enviar, mandar",
+      "transmitir",
+      "emitir (un documento)"
+    ],
+    "examples": [
+      {
+        "zh": "信息已经发送了。",
+        "es": "El mensaje ya se envió."
+      },
+      {
+        "zh": "请把照片发送给我。",
+        "es": "Por favor, mándame las fotos."
+      },
+      {
+        "zh": "我用手机给妈妈发送了一条短信。",
+        "es": "Le mandé un mensaje de texto a mi mamá desde el celular."
+      },
+      {
+        "zh": "公司每天都会向用户发送最新的新闻。",
+        "es": "La empresa envía las noticias más recientes a sus usuarios todos los días."
+      }
+    ]
+  },
+  {
+    "word": "体会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comprender (por experiencia)",
+      "sentir en carne propia",
+      "vivencia, lo aprendido"
+    ],
+    "examples": [
+      {
+        "zh": "我能体会你的心情。",
+        "es": "Entiendo cómo te sientes."
+      },
+      {
+        "zh": "你有什么体会？",
+        "es": "¿Qué aprendiste de la experiencia?"
+      },
+      {
+        "zh": "有了孩子以后，我才体会到父母的爱。",
+        "es": "Hasta que tuve hijos comprendí de verdad el amor de mis padres."
+      },
+      {
+        "zh": "这次去中国旅行，让我对中国文化有了更深的体会。",
+        "es": "Este viaje a China me permitió comprender más a fondo la cultura china."
+      }
+    ]
+  },
+  {
+    "word": "头脑",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mente",
+      "cabeza, inteligencia",
+      "sentido (de un asunto)"
+    ],
+    "examples": [
+      {
+        "zh": "他很有头脑。",
+        "es": "Es muy listo."
+      },
+      {
+        "zh": "他做生意很有头脑。",
+        "es": "Tiene buena cabeza para los negocios."
+      },
+      {
+        "zh": "这件事太复杂，我的头脑都乱了。",
+        "es": "Este asunto es tan complicado que ya tengo la cabeza hecha un lío."
+      },
+      {
+        "zh": "碰到问题的时候，一定要保持清楚的头脑。",
+        "es": "Cuando surge un problema, hay que mantener la mente clara."
+      }
+    ]
+  }
+]

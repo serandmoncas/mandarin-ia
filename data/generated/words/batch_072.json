@@ -1,0 +1,539 @@
+[
+  {
+    "word": "父母",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "padres",
+      "papá y mamá"
+    ],
+    "examples": [
+      {
+        "zh": "我爱我的父母。",
+        "es": "Amo a mis padres."
+      },
+      {
+        "zh": "他的父母都是老师。",
+        "es": "Sus padres son maestros."
+      },
+      {
+        "zh": "我每个星期都给父母打电话。",
+        "es": "Llamo a mis padres todas las semanas."
+      },
+      {
+        "zh": "孩子长大以后，应该多关心自己的父母。",
+        "es": "Cuando los hijos crecen, deberían preocuparse más por sus padres."
+      }
+    ]
+  },
+  {
+    "word": "大多数",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la mayoría",
+      "la mayor parte"
+    ],
+    "examples": [
+      {
+        "zh": "大多数学生都喜欢放假。",
+        "es": "A la mayoría de los estudiantes les gustan las vacaciones."
+      },
+      {
+        "zh": "我大多数时间都在家里。",
+        "es": "Paso la mayor parte del tiempo en casa."
+      },
+      {
+        "zh": "这里大多数的人都会说英语。",
+        "es": "La mayoría de la gente aquí habla inglés."
+      },
+      {
+        "zh": "大多数人认为这个问题非常重要，必须马上解决。",
+        "es": "La mayoría cree que este problema es muy importante y que hay que resolverlo de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "店",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tienda",
+      "negocio, local",
+      "posada (antiguo)"
+    ],
+    "examples": [
+      {
+        "zh": "这个店很大。",
+        "es": "Esta tienda es muy grande."
+      },
+      {
+        "zh": "我在店里买了一本书。",
+        "es": "Compré un libro en la tienda."
+      },
+      {
+        "zh": "他家旁边有一家小店。",
+        "es": "Junto a su casa hay una tienda pequeña."
+      },
+      {
+        "zh": "这家店的菜很好吃，所以每天都有很多人。",
+        "es": "La comida de este local es muy rica, por eso siempre hay mucha gente."
+      }
+    ]
+  },
+  {
+    "word": "计算机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "computadora",
+      "informática, computación",
+      "calculadora (en Taiwán)"
+    ],
+    "examples": [
+      {
+        "zh": "我有一台计算机。",
+        "es": "Tengo una computadora."
+      },
+      {
+        "zh": "这台计算机太慢了。",
+        "es": "Esta computadora es demasiado lenta."
+      },
+      {
+        "zh": "他在大学学习计算机。",
+        "es": "Estudia computación en la universidad."
+      },
+      {
+        "zh": "现在很多工作都需要使用计算机技术。",
+        "es": "Hoy en día muchos trabajos requieren conocimientos de informática."
+      }
+    ]
+  },
+  {
+    "word": "绿色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "verde",
+      "ecológico"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢绿色。",
+        "es": "Me gusta el color verde."
+      },
+      {
+        "zh": "她穿着绿色的衣服。",
+        "es": "Ella lleva ropa verde."
+      },
+      {
+        "zh": "山上有很多绿色的树。",
+        "es": "En la montaña hay muchos árboles verdes."
+      },
+      {
+        "zh": "政府希望发展绿色经济，保护环境。",
+        "es": "El gobierno quiere desarrollar una economía verde y proteger el medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "具体",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "concreto",
+      "específico",
+      "detallado"
+    ],
+    "examples": [
+      {
+        "zh": "请说具体一点。",
+        "es": "Por favor, sé más específico."
+      },
+      {
+        "zh": "具体时间还没有决定。",
+        "es": "La hora exacta todavía no se ha decidido."
+      },
+      {
+        "zh": "你能具体说说这个计划吗？",
+        "es": "¿Puedes explicar este plan con más detalle?"
+      },
+      {
+        "zh": "我们需要一个具体的方法来解决这个问题。",
+        "es": "Necesitamos un método concreto para resolver este problema."
+      }
+    ]
+  },
+  {
+    "word": "开展",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llevar a cabo",
+      "poner en marcha",
+      "desarrollar",
+      "inaugurar (una exposición)"
+    ],
+    "examples": [
+      {
+        "zh": "学校开展了很多活动。",
+        "es": "La escuela organizó muchas actividades."
+      },
+      {
+        "zh": "我们下个月开展这个项目。",
+        "es": "Pondremos en marcha este proyecto el próximo mes."
+      },
+      {
+        "zh": "这个组织在农村开展教育工作。",
+        "es": "Esta organización lleva a cabo labores educativas en el campo."
+      },
+      {
+        "zh": "政府决定在全国开展环境保护活动。",
+        "es": "El gobierno decidió realizar una campaña de protección ambiental en todo el país."
+      }
+    ]
+  },
+  {
+    "word": "做到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lograr",
+      "conseguir",
+      "cumplir"
+    ],
+    "examples": [
+      {
+        "zh": "我做到了！",
+        "es": "¡Lo logré!"
+      },
+      {
+        "zh": "你一定能做到。",
+        "es": "Seguro que puedes lograrlo."
+      },
+      {
+        "zh": "说了就要做到。",
+        "es": "Si lo dices, tienes que cumplirlo."
+      },
+      {
+        "zh": "这件事很难，但是只要努力，就一定能做到。",
+        "es": "Esto es difícil, pero si te esfuerzas, seguro lo consigues."
+      }
+    ]
+  },
+  {
+    "word": "报纸",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "periódico",
+      "papel de periódico"
+    ],
+    "examples": [
+      {
+        "zh": "这是今天的报纸。",
+        "es": "Este es el periódico de hoy."
+      },
+      {
+        "zh": "爸爸每天早上看报纸。",
+        "es": "Mi papá lee el periódico todas las mañanas."
+      },
+      {
+        "zh": "我在报纸上看到了这个消息。",
+        "es": "Vi esta noticia en el periódico."
+      },
+      {
+        "zh": "现在大家用手机看新闻，看报纸的人少了。",
+        "es": "Ahora la gente lee las noticias en el celular y ya pocos leen el periódico."
+      }
+    ]
+  },
+  {
+    "word": "方便",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conveniente, práctico",
+      "tener tiempo o disponibilidad",
+      "facilitar",
+      "ir al baño (eufemismo)"
+    ],
+    "examples": [
+      {
+        "zh": "这里交通很方便。",
+        "es": "Aquí el transporte es muy cómodo."
+      },
+      {
+        "zh": "用手机买票非常方便。",
+        "es": "Comprar boletos con el celular es muy práctico."
+      },
+      {
+        "zh": "你现在方便说话吗？",
+        "es": "¿Puedes hablar ahora?"
+      },
+      {
+        "zh": "我家离车站很近，所以上班很方便。",
+        "es": "Mi casa queda cerca de la estación, así que ir al trabajo es muy cómodo."
+      }
+    ]
+  },
+  {
+    "word": "篇",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clasificador para textos (artículos, ensayos)",
+      "capítulo, parte",
+      "escrito, texto"
+    ],
+    "examples": [
+      {
+        "zh": "这篇文章很好。",
+        "es": "Este artículo es muy bueno."
+      },
+      {
+        "zh": "我今天写了一篇文章。",
+        "es": "Hoy escribí un artículo."
+      },
+      {
+        "zh": "老师让我们读这篇课文。",
+        "es": "La maestra nos pidió leer este texto."
+      },
+      {
+        "zh": "他在报上发表了一篇关于环境保护的文章。",
+        "es": "Publicó en el periódico un artículo sobre la protección del medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "通",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comunicar, conectar",
+      "pasar, atravesar",
+      "entender a fondo",
+      "clasificador para llamadas y cartas"
+    ],
+    "examples": [
+      {
+        "zh": "这条路不通。",
+        "es": "Este camino no tiene salida."
+      },
+      {
+        "zh": "电话打不通。",
+        "es": "No entra la llamada."
+      },
+      {
+        "zh": "他昨天给我打了一通电话。",
+        "es": "Ayer me hizo una llamada."
+      },
+      {
+        "zh": "我想了很久，终于想通了。",
+        "es": "Lo pensé mucho y por fin lo entendí."
+      }
+    ]
+  },
+  {
+    "word": "重大",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "importante",
+      "grave",
+      "trascendental"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个重大的决定。",
+        "es": "Esta es una decisión importante."
+      },
+      {
+        "zh": "今天有一条重大新闻。",
+        "es": "Hoy hay una noticia muy importante."
+      },
+      {
+        "zh": "这次会议对公司有重大意义。",
+        "es": "Esta reunión es de gran importancia para la empresa."
+      },
+      {
+        "zh": "这次战争给人民的生活带来了重大影响。",
+        "es": "Esta guerra tuvo un gran impacto en la vida de la gente."
+      }
+    ]
+  },
+  {
+    "word": "咱们",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nosotros (incluye al que escucha)",
+      "yo (dialectal)",
+      "tú (dialectal, en tono cariñoso)"
+    ],
+    "examples": [
+      {
+        "zh": "咱们走吧！",
+        "es": "¡Vámonos!"
+      },
+      {
+        "zh": "咱们一起吃饭吧。",
+        "es": "Comamos juntos."
+      },
+      {
+        "zh": "明天咱们在学校门口见面，好吗？",
+        "es": "Mañana nos vemos en la entrada de la escuela, ¿sí?"
+      },
+      {
+        "zh": "咱们都是朋友，有什么问题可以一起解决。",
+        "es": "Todos somos amigos; cualquier problema lo podemos resolver juntos."
+      }
+    ]
+  },
+  {
+    "word": "周年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aniversario",
+      "año completo"
+    ],
+    "examples": [
+      {
+        "zh": "下个月是我们认识一周年。",
+        "es": "El próximo mes cumplimos un año de conocernos."
+      },
+      {
+        "zh": "今天是公司成立十周年。",
+        "es": "Hoy es el décimo aniversario de la empresa."
+      },
+      {
+        "zh": "学校将举行一百周年活动。",
+        "es": "La escuela celebrará su centenario."
+      },
+      {
+        "zh": "今年是这个城市建立五百周年，有很多活动。",
+        "es": "Este año se cumplen 500 años de la fundación de la ciudad y hay muchas actividades."
+      }
+    ]
+  },
+  {
+    "word": "不管",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no importa (qué, cómo, quién)",
+      "sin importar",
+      "no ocuparse de algo"
+    ],
+    "examples": [
+      {
+        "zh": "他什么都不管。",
+        "es": "No se ocupa de nada."
+      },
+      {
+        "zh": "不管你去不去，我都去。",
+        "es": "Vayas o no, yo sí voy."
+      },
+      {
+        "zh": "不管多忙，他每天都运动。",
+        "es": "Por muy ocupado que esté, hace ejercicio todos los días."
+      },
+      {
+        "zh": "不管有什么困难，我们都要坚持下去。",
+        "es": "Sin importar las dificultades, tenemos que seguir adelante."
+      }
+    ]
+  },
+  {
+    "word": "座",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clasificador para edificios, montañas, puentes, etc.",
+      "asiento",
+      "base, soporte",
+      "constelación"
+    ],
+    "examples": [
+      {
+        "zh": "那座山很高。",
+        "es": "Esa montaña es muy alta."
+      },
+      {
+        "zh": "请问，这个座有人吗？",
+        "es": "Disculpe, ¿este asiento está ocupado?"
+      },
+      {
+        "zh": "这座城市有很多历史建筑。",
+        "es": "Esta ciudad tiene muchos edificios históricos."
+      },
+      {
+        "zh": "我家附近新建了一座很大的图书馆。",
+        "es": "Cerca de mi casa construyeron una biblioteca muy grande."
+      }
+    ]
+  },
+  {
+    "word": "乡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "campo, zona rural",
+      "tierra natal, pueblo de origen",
+      "municipio rural (división administrativa)"
+    ],
+    "examples": [
+      {
+        "zh": "他住在乡下。",
+        "es": "Vive en el campo."
+      },
+      {
+        "zh": "我的家乡很美。",
+        "es": "Mi tierra natal es muy bonita."
+      },
+      {
+        "zh": "他离开家乡已经十年了。",
+        "es": "Hace diez años que se fue de su pueblo."
+      },
+      {
+        "zh": "这个乡的人口不多，大部分是农民。",
+        "es": "Este municipio no tiene mucha población; la mayoría son campesinos."
+      }
+    ]
+  },
+  {
+    "word": "似乎",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parece que",
+      "al parecer",
+      "como si"
+    ],
+    "examples": [
+      {
+        "zh": "他似乎不高兴。",
+        "es": "Parece que no está contento."
+      },
+      {
+        "zh": "天气似乎要变了。",
+        "es": "Parece que el clima va a cambiar."
+      },
+      {
+        "zh": "她似乎已经知道这件事了。",
+        "es": "Al parecer, ella ya sabe de este asunto."
+      },
+      {
+        "zh": "问题似乎没有我们想的那么简单。",
+        "es": "Parece que el problema no es tan sencillo como pensábamos."
+      }
+    ]
+  },
+  {
+    "word": "出生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nacer"
+    ],
+    "examples": [
+      {
+        "zh": "我出生在北京。",
+        "es": "Nací en Pekín."
+      },
+      {
+        "zh": "你是哪年出生的？",
+        "es": "¿En qué año naciste?"
+      },
+      {
+        "zh": "她的孩子是去年出生的。",
+        "es": "Su hijo nació el año pasado."
+      },
+      {
+        "zh": "他出生在一个很普通的农民家庭。",
+        "es": "Nació en una familia campesina muy humilde."
+      }
+    ]
+  }
+]

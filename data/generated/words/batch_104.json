@@ -1,0 +1,537 @@
+[
+  {
+    "word": "药片",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pastilla",
+      "tableta (de medicina)"
+    ],
+    "examples": [
+      {
+        "zh": "这是你的药片。",
+        "es": "Esta es tu pastilla."
+      },
+      {
+        "zh": "药片放在桌子上了。",
+        "es": "Las pastillas están sobre la mesa."
+      },
+      {
+        "zh": "我每天吃两次药片。",
+        "es": "Tomo las pastillas dos veces al día."
+      },
+      {
+        "zh": "这种药片很难吃，但是对身体好。",
+        "es": "Estas pastillas saben feo, pero son buenas para la salud."
+      }
+    ]
+  },
+  {
+    "word": "安装",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "instalar",
+      "montar",
+      "instalación"
+    ],
+    "examples": [
+      {
+        "zh": "我在电脑上安装了游戏。",
+        "es": "Instalé un juego en la computadora."
+      },
+      {
+        "zh": "你会安装这个软件吗？",
+        "es": "¿Sabes instalar este programa?"
+      },
+      {
+        "zh": "明天有人来家里安装洗衣机。",
+        "es": "Mañana alguien viene a la casa a instalar la lavadora."
+      },
+      {
+        "zh": "他花了一个下午才把新灯安装好。",
+        "es": "Le tomó toda la tarde instalar la lámpara nueva."
+      }
+    ]
+  },
+  {
+    "word": "改造",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "remodelar",
+      "transformar",
+      "reformar"
+    ],
+    "examples": [
+      {
+        "zh": "这个老房子需要改造。",
+        "es": "Esta casa vieja necesita una remodelación."
+      },
+      {
+        "zh": "政府计划改造这条路。",
+        "es": "El gobierno planea renovar esta calle."
+      },
+      {
+        "zh": "他们把工厂改造成了图书馆。",
+        "es": "Convirtieron la fábrica en una biblioteca."
+      },
+      {
+        "zh": "改造以后，这个城市变得更漂亮了。",
+        "es": "Después de la renovación, la ciudad quedó más bonita."
+      }
+    ]
+  },
+  {
+    "word": "干杯",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¡salud! (al brindar)",
+      "brindar",
+      "hacer fondo blanco"
+    ],
+    "examples": [
+      {
+        "zh": "来，大家干杯！",
+        "es": "¡Vamos, salud todos!"
+      },
+      {
+        "zh": "为你的生日干杯！",
+        "es": "¡Brindemos por tu cumpleaños!"
+      },
+      {
+        "zh": "我不喝酒，可以用茶干杯吗？",
+        "es": "No tomo alcohol, ¿puedo brindar con té?"
+      },
+      {
+        "zh": "新年晚会上，大家一起站起来干杯。",
+        "es": "En la fiesta de Año Nuevo, todos se pusieron de pie para brindar."
+      }
+    ]
+  },
+  {
+    "word": "阴天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "día nublado",
+      "cielo nublado"
+    ],
+    "examples": [
+      {
+        "zh": "今天是阴天。",
+        "es": "Hoy está nublado."
+      },
+      {
+        "zh": "阴天的时候我不想出门。",
+        "es": "Cuando está nublado no tengo ganas de salir."
+      },
+      {
+        "zh": "明天可能是阴天，不会下雨。",
+        "es": "Mañana tal vez esté nublado, pero no va a llover."
+      },
+      {
+        "zh": "虽然是阴天，但是我们还是去公园走路了。",
+        "es": "Aunque estaba nublado, igual fuimos a caminar al parque."
+      }
+    ]
+  },
+  {
+    "word": "快点儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¡apúrate!",
+      "más rápido",
+      "date prisa"
+    ],
+    "examples": [
+      {
+        "zh": "快点儿！",
+        "es": "¡Apúrate!"
+      },
+      {
+        "zh": "你快点儿走吧。",
+        "es": "Camina más rápido."
+      },
+      {
+        "zh": "快点儿吃，火车快开了。",
+        "es": "Come rápido, que el tren ya va a salir."
+      },
+      {
+        "zh": "妈妈让我快点儿起床，要不上学就晚了。",
+        "es": "Mi mamá me dijo que me levantara rápido o llegaría tarde a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "有一点儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un poco",
+      "algo"
+    ],
+    "examples": [
+      {
+        "zh": "我有一点儿累。",
+        "es": "Estoy un poco cansado."
+      },
+      {
+        "zh": "今天有一点儿冷。",
+        "es": "Hoy hace un poco de frío."
+      },
+      {
+        "zh": "这个菜有一点儿贵，但是很好吃。",
+        "es": "Este platillo es un poco caro, pero está muy rico."
+      },
+      {
+        "zh": "第一次见他的父母，我有一点儿紧张。",
+        "es": "La primera vez que conocí a sus papás, estaba un poco nervioso."
+      }
+    ]
+  },
+  {
+    "word": "有空儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener tiempo libre",
+      "estar libre",
+      "estar desocupado"
+    ],
+    "examples": [
+      {
+        "zh": "你明天有空儿吗？",
+        "es": "¿Tienes tiempo mañana?"
+      },
+      {
+        "zh": "我有空儿就去看你。",
+        "es": "Cuando tenga tiempo, voy a visitarte."
+      },
+      {
+        "zh": "周末有空儿的话，我们一起去看电影吧。",
+        "es": "Si tienes tiempo el fin de semana, vamos juntos al cine."
+      },
+      {
+        "zh": "他工作太忙，很少有空儿跟孩子一起玩儿。",
+        "es": "Él está tan ocupado en el trabajo que casi nunca tiene tiempo de jugar con sus hijos."
+      }
+    ]
+  },
+  {
+    "word": "事故",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "accidente",
+      "percance"
+    ],
+    "examples": [
+      {
+        "zh": "路上发生了事故。",
+        "es": "Hubo un accidente en el camino."
+      },
+      {
+        "zh": "这次事故没有人受伤。",
+        "es": "Nadie salió herido en este accidente."
+      },
+      {
+        "zh": "因为交通事故，我们晚到了一个小时。",
+        "es": "Por un accidente de tránsito, llegamos una hora tarde."
+      },
+      {
+        "zh": "警察正在调查这起事故的原因。",
+        "es": "La policía está investigando la causa de este accidente."
+      }
+    ]
+  },
+  {
+    "word": "干活儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "trabajar",
+      "hacer el trabajo",
+      "chambear"
+    ],
+    "examples": [
+      {
+        "zh": "他在外边干活儿。",
+        "es": "Él está trabajando afuera."
+      },
+      {
+        "zh": "别说话了，快干活儿吧！",
+        "es": "¡Dejen de hablar y pónganse a trabajar!"
+      },
+      {
+        "zh": "我爸爸每天早上去工厂干活儿。",
+        "es": "Mi papá va todas las mañanas a trabajar a la fábrica."
+      },
+      {
+        "zh": "他干活儿很认真，老板非常喜欢他。",
+        "es": "Él trabaja con mucha dedicación y al jefe le cae muy bien."
+      }
+    ]
+  },
+  {
+    "word": "一路顺风",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¡buen viaje!",
+      "que te vaya bien en el viaje"
+    ],
+    "examples": [
+      {
+        "zh": "祝你一路顺风！",
+        "es": "¡Te deseo un buen viaje!"
+      },
+      {
+        "zh": "再见，一路顺风！",
+        "es": "¡Adiós, buen viaje!"
+      },
+      {
+        "zh": "你明天去北京？一路顺风！",
+        "es": "¿Mañana te vas a Beijing? ¡Buen viaje!"
+      },
+      {
+        "zh": "朋友出国的时候，我们在机场跟他说一路顺风。",
+        "es": "Cuando nuestro amigo se fue al extranjero, le deseamos buen viaje en el aeropuerto."
+      }
+    ]
+  },
+  {
+    "word": "主持",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conducir (un programa o evento)",
+      "presidir",
+      "dirigir",
+      "encargarse de"
+    ],
+    "examples": [
+      {
+        "zh": "他主持这个节目。",
+        "es": "Él conduce este programa."
+      },
+      {
+        "zh": "今天的会议由王经理主持。",
+        "es": "La reunión de hoy la preside el gerente Wang."
+      },
+      {
+        "zh": "她主持了很多年的新闻节目。",
+        "es": "Ella condujo el noticiero durante muchos años."
+      },
+      {
+        "zh": "学校晚会需要两个学生来主持，你想参加吗？",
+        "es": "La fiesta de la escuela necesita dos estudiantes que la conduzcan, ¿quieres participar?"
+      }
+    ]
+  },
+  {
+    "word": "高速",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "autopista",
+      "alta velocidad"
+    ],
+    "examples": [
+      {
+        "zh": "我们走高速吧。",
+        "es": "Vámonos por la autopista."
+      },
+      {
+        "zh": "中国的高速火车非常方便。",
+        "es": "Los trenes de alta velocidad de China son muy prácticos."
+      },
+      {
+        "zh": "这辆车在高速上开得很快。",
+        "es": "Este carro va muy rápido en la autopista."
+      },
+      {
+        "zh": "因为下大雪，高速公路关了一天。",
+        "es": "Por la fuerte nevada, cerraron la autopista un día."
+      }
+    ]
+  },
+  {
+    "word": "环保",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ecológico",
+      "protección del medio ambiente",
+      "amigable con el medio ambiente"
+    ],
+    "examples": [
+      {
+        "zh": "这个包很环保。",
+        "es": "Esta bolsa es muy ecológica."
+      },
+      {
+        "zh": "我们应该注意环保。",
+        "es": "Debemos cuidar el medio ambiente."
+      },
+      {
+        "zh": "坐公交车比开车更环保。",
+        "es": "Tomar el autobús es más ecológico que manejar."
+      },
+      {
+        "zh": "现在很多公司开始用更环保的方法生产。",
+        "es": "Hoy muchas empresas empiezan a producir de manera más ecológica."
+      }
+    ]
+  },
+  {
+    "word": "仅仅",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "solo",
+      "solamente",
+      "apenas",
+      "nada más"
+    ],
+    "examples": [
+      {
+        "zh": "这仅仅是开始。",
+        "es": "Esto es solo el comienzo."
+      },
+      {
+        "zh": "我仅仅等了五分钟。",
+        "es": "Esperé apenas cinco minutos."
+      },
+      {
+        "zh": "仅仅有钱是不够的，还需要努力。",
+        "es": "Tener dinero no basta, también hay que esforzarse."
+      },
+      {
+        "zh": "他仅仅学了一年中文，就说得很流利。",
+        "es": "Estudió chino apenas un año y ya lo habla con fluidez."
+      }
+    ]
+  },
+  {
+    "word": "紧急",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "urgente",
+      "de emergencia"
+    ],
+    "examples": [
+      {
+        "zh": "这件事很紧急。",
+        "es": "Este asunto es muy urgente."
+      },
+      {
+        "zh": "有紧急情况请打电话。",
+        "es": "En caso de emergencia, llame por teléfono."
+      },
+      {
+        "zh": "他的情况很紧急，医生让他马上住院。",
+        "es": "Su situación es urgente; el médico le pidió que se internara de inmediato."
+      },
+      {
+        "zh": "遇到紧急情况，一定要先保护好自己。",
+        "es": "Ante una emergencia, primero hay que protegerse a uno mismo."
+      }
+    ]
+  },
+  {
+    "word": "美好",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermoso",
+      "bonito",
+      "maravilloso"
+    ],
+    "examples": [
+      {
+        "zh": "祝你有美好的一天。",
+        "es": "Que tengas un lindo día."
+      },
+      {
+        "zh": "小时候的生活很美好。",
+        "es": "La vida de niño era muy bonita."
+      },
+      {
+        "zh": "我们有一个美好的未来。",
+        "es": "Tenemos un futuro maravilloso."
+      },
+      {
+        "zh": "我永远不会忘记那段美好的时间。",
+        "es": "Nunca voy a olvidar esa época tan bonita."
+      }
+    ]
+  },
+  {
+    "word": "谈判",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "negociar",
+      "negociación",
+      "conversaciones (formales)"
+    ],
+    "examples": [
+      {
+        "zh": "两家公司正在谈判。",
+        "es": "Las dos empresas están negociando."
+      },
+      {
+        "zh": "谈判进行得很顺利。",
+        "es": "La negociación va muy bien."
+      },
+      {
+        "zh": "这次谈判已经持续了三天。",
+        "es": "Esta negociación ya lleva tres días."
+      },
+      {
+        "zh": "双方经过多次谈判，终于达成了协议。",
+        "es": "Después de muchas negociaciones, ambas partes por fin llegaron a un acuerdo."
+      }
+    ]
+  },
+  {
+    "word": "朝",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hacia",
+      "en dirección a",
+      "mirando a (orientación)",
+      "dinastía"
+    ],
+    "examples": [
+      {
+        "zh": "他朝我笑了笑。",
+        "es": "Me sonrió."
+      },
+      {
+        "zh": "我家的门朝南。",
+        "es": "La puerta de mi casa da al sur."
+      },
+      {
+        "zh": "你朝前走，就能看到银行。",
+        "es": "Sigue derecho y vas a ver el banco."
+      },
+      {
+        "zh": "她听到有人叫她，就回头朝门口看了一眼。",
+        "es": "Oyó que alguien la llamaba y volteó a mirar hacia la puerta."
+      }
+    ]
+  },
+  {
+    "word": "发明",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "inventar",
+      "invento"
+    ],
+    "examples": [
+      {
+        "zh": "谁发明了电话？",
+        "es": "¿Quién inventó el teléfono?"
+      },
+      {
+        "zh": "这是一个很重要的发明。",
+        "es": "Este es un invento muy importante."
+      },
+      {
+        "zh": "中国古代有很多伟大的发明。",
+        "es": "La China antigua tuvo muchos grandes inventos."
+      },
+      {
+        "zh": "他发明了一种新机器，可以帮人们洗碗。",
+        "es": "Inventó una máquina nueva que ayuda a la gente a lavar los platos."
+      }
+    ]
+  }
+]

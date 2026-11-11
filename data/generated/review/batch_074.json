@@ -1,0 +1,172 @@
+[
+  {
+    "id": "word:追",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 跑得 se lee «pǎo de» (partícula estructural en tono neutro), no «pǎo dé»."
+    ],
+    "content_hash": "cf0d180cc31accee88bfbbcf6f690531d5937a9e"
+  },
+  {
+    "id": "word:租",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8c95abbbf8c2c8f393f6534939a0b7b76da756bc"
+  },
+  {
+    "id": "word:足够",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c1cb430b16e9e790362be13ab495e8f3b3e2770b"
+  },
+  {
+    "id": "word:瓶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ecf9929d883a3e191c47461ee718d4b36ae7a4ad"
+  },
+  {
+    "id": "word:走过",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 「我每天都走过这条路」 suena poco natural; 过 puede leerse como marcador de experiencia. Para un hábito diario lo natural es 「我每天都走这条路」 o 「我每天都经过这条路」."
+    ],
+    "content_hash": "01cfad0190ffc0e185bb4f47ded0df6b19442079"
+  },
+  {
+    "id": "word:出租",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 「出租汽车公司」 se entiende normalmente como «empresa de taxis», no como «renta de autos». Para alquiler de coches lo habitual es 「租车公司」 o 「汽车租赁公司」, así que la traducción no es fiable."
+    ],
+    "content_hash": "b9d0b8eb50cdb0d3f1dc659729ddb66fa68501e5"
+  },
+  {
+    "id": "word:忽然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e5efe4bae3328408e8d41bc9664c5e727c3a9fe"
+  },
+  {
+    "id": "word:午餐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a859d26c80f63b090d4d7d8f4412e946bf163d4a"
+  },
+  {
+    "id": "word:问路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57891d93c36c8347f19344662bb4a3d3866ef620"
+  },
+  {
+    "id": "word:乱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "decf8ebd94916f93e7d06462bc55f173870c3984"
+  },
+  {
+    "id": "word:时刻",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 「那个时刻我很高兴」 es poco natural. Se diría 「那一刻我很高兴」 o 「那个时候我很高兴」."
+    ],
+    "content_hash": "62612c0b198c4c0807a264ab1dba8ec6ff0c83a4"
+  },
+  {
+    "id": "word:不好意思",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en todos los ejemplos: 意思 en 不好意思 se lee «yì si» (tono neutro, como indica la entrada si5), no «yì sī»."
+    ],
+    "content_hash": "dbf3698361e6a95740288b9f75157989ee1294cb"
+  },
+  {
+    "id": "word:洗澡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24c2495dfcaf3694ec7fbe4b7d804ddc6868cfa8"
+  },
+  {
+    "id": "word:痛苦",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 都 se lee «dōu», no «dū»."
+    ],
+    "content_hash": "8d24d2410a787af67590f5d2a327de0642bffc8d"
+  },
+  {
+    "id": "word:年级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "858bc17a20ecd3b0cbb819c36e543dd7c6fe25cb"
+  },
+  {
+    "id": "word:往往",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: 「他往往很晚回家」 sin ningún contexto o condición resulta forzado. 往往 suele describir una regularidad ligada a una circunstancia (p. ej. 「周末他往往很晚回家」). Sin ella es más natural 常常 o 经常."
+    ],
+    "content_hash": "717a8b1f3079140c16ba88fff4200ff5c4882bfb"
+  },
+  {
+    "id": "word:早餐",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 和 (conjunción «y») se lee «hé», no «huó»."
+    ],
+    "content_hash": "fedb96cff25393238df7d6c21335b981059d7ec6"
+  },
+  {
+    "id": "word:补充",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce31d60eb8dd82695d74e4284fefacb77f6a5609"
+  },
+  {
+    "id": "word:听讲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9fce2ba0ee9c789da222fa912d29d0a2480d544b"
+  },
+  {
+    "id": "word:成就",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4810f90e0a5068daec9cb40aea64d9027bacbc09"
+  },
+  {
+    "id": "word:爱人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7306a166a1c68562630e606351905e4b13d11a7e"
+  },
+  {
+    "id": "word:当中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fcf260504566e10768a8276fb06bf8cb7cbce1de"
+  },
+  {
+    "id": "word:得出",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en los ejemplos 1 y 3: 了 como partícula aspectual se lee «le», no «liǎo»."
+    ],
+    "content_hash": "8c18524f56435e553644e2ec8499d6d2952152e6"
+  },
+  {
+    "id": "word:中级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6fff2d49ca8578f992e34e438ab6ad51a4c28e1"
+  },
+  {
+    "id": "word:比如说",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 中文 se lee «zhōng wén», no «zhòng wén»."
+    ],
+    "content_hash": "d228446dc8f45c7aae8cd0d679688994a24d3af6"
+  }
+]

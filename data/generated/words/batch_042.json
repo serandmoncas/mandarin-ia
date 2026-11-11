@@ -1,0 +1,530 @@
+[
+  {
+    "word": "发布",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "publicar",
+      "anunciar",
+      "lanzar (un producto)",
+      "emitir (un comunicado)"
+    ],
+    "examples": [
+      {
+        "zh": "公司今天发布了新手机。",
+        "es": "La empresa lanzó un nuevo celular hoy."
+      },
+      {
+        "zh": "政府发布了新的规定。",
+        "es": "El gobierno publicó nuevas normas."
+      },
+      {
+        "zh": "这个视频是什么时候发布的？",
+        "es": "¿Cuándo se publicó este video?"
+      },
+      {
+        "zh": "他们在网站上发布了考试的结果。",
+        "es": "Publicaron los resultados del examen en el sitio web."
+      }
+    ]
+  },
+  {
+    "word": "外语",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "idioma extranjero",
+      "lengua extranjera"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢学外语。",
+        "es": "Me gusta aprender idiomas extranjeros."
+      },
+      {
+        "zh": "你会说几种外语？",
+        "es": "¿Cuántos idiomas extranjeros hablas?"
+      },
+      {
+        "zh": "学外语需要很多时间。",
+        "es": "Aprender un idioma extranjero requiere mucho tiempo."
+      },
+      {
+        "zh": "她在大学学习外语，现在是一名老师。",
+        "es": "Estudió idiomas en la universidad y ahora es maestra."
+      }
+    ]
+  },
+  {
+    "word": "啦",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "partícula final de exclamación (了 + 啊)",
+      "partícula para enumerar ejemplos"
+    ],
+    "examples": [
+      {
+        "zh": "我回来啦！",
+        "es": "¡Ya volví!"
+      },
+      {
+        "zh": "好啦，我们走吧！",
+        "es": "¡Bueno, ya, vámonos!"
+      },
+      {
+        "zh": "太好啦，明天不用上班！",
+        "es": "¡Qué bien, mañana no tengo que ir a trabajar!"
+      },
+      {
+        "zh": "水果啦、面包啦、牛奶啦，她都买了。",
+        "es": "Fruta, pan, leche… compró de todo."
+      }
+    ]
+  },
+  {
+    "word": "楼上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "arriba, el piso de arriba",
+      "(en foros de internet) el comentario anterior"
+    ],
+    "examples": [
+      {
+        "zh": "我住在楼上。",
+        "es": "Vivo en el piso de arriba."
+      },
+      {
+        "zh": "妈妈在楼上睡觉。",
+        "es": "Mamá está durmiendo arriba."
+      },
+      {
+        "zh": "楼上有人在唱歌。",
+        "es": "Alguien está cantando en el piso de arriba."
+      },
+      {
+        "zh": "楼上说得对，我也这么想。",
+        "es": "El comentario de arriba tiene razón; yo pienso lo mismo."
+      }
+    ]
+  },
+  {
+    "word": "建筑",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "edificio, construcción",
+      "arquitectura",
+      "construir"
+    ],
+    "examples": [
+      {
+        "zh": "这个建筑很有名。",
+        "es": "Este edificio es muy famoso."
+      },
+      {
+        "zh": "北京有很多老建筑。",
+        "es": "En Pekín hay muchos edificios antiguos."
+      },
+      {
+        "zh": "他在大学学习建筑。",
+        "es": "Él estudia arquitectura en la universidad."
+      },
+      {
+        "zh": "这里的建筑和其他城市很不一样。",
+        "es": "Los edificios de aquí son muy distintos a los de otras ciudades."
+      }
+    ]
+  },
+  {
+    "word": "星期日",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "domingo"
+    ],
+    "examples": [
+      {
+        "zh": "今天是星期日。",
+        "es": "Hoy es domingo."
+      },
+      {
+        "zh": "星期日我不上班。",
+        "es": "Los domingos no trabajo."
+      },
+      {
+        "zh": "星期日我们去看电影吧。",
+        "es": "Vamos al cine el domingo."
+      },
+      {
+        "zh": "每个星期日，奶奶都给我们做饭。",
+        "es": "Todos los domingos, la abuela nos cocina."
+      }
+    ]
+  },
+  {
+    "word": "数据",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "datos"
+    ],
+    "examples": [
+      {
+        "zh": "这些数据很重要。",
+        "es": "Estos datos son muy importantes."
+      },
+      {
+        "zh": "我们需要更多数据。",
+        "es": "Necesitamos más datos."
+      },
+      {
+        "zh": "请把数据给我看一下。",
+        "es": "Por favor, muéstrame los datos."
+      },
+      {
+        "zh": "根据政府的数据，今年的人口增加了。",
+        "es": "Según los datos del gobierno, la población aumentó este año."
+      }
+    ]
+  },
+  {
+    "word": "路口",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cruce",
+      "intersección",
+      "esquina"
+    ],
+    "examples": [
+      {
+        "zh": "在路口等我。",
+        "es": "Espérame en el cruce."
+      },
+      {
+        "zh": "到了路口你就向左走。",
+        "es": "Cuando llegues a la esquina, dobla a la izquierda."
+      },
+      {
+        "zh": "银行就在前面的路口。",
+        "es": "El banco está justo en la próxima esquina."
+      },
+      {
+        "zh": "这个路口车很多，过马路要注意安全。",
+        "es": "En este cruce hay muchos carros; ten cuidado al cruzar la calle."
+      }
+    ]
+  },
+  {
+    "word": "版",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "versión",
+      "edición",
+      "página (de un periódico)"
+    ],
+    "examples": [
+      {
+        "zh": "我用的是中文版。",
+        "es": "Uso la versión en chino."
+      },
+      {
+        "zh": "这本书有新版吗？",
+        "es": "¿Este libro tiene una nueva edición?"
+      },
+      {
+        "zh": "这个网站没有中文版。",
+        "es": "Este sitio web no tiene versión en chino."
+      },
+      {
+        "zh": "电影的新版比老版好看多了。",
+        "es": "La nueva versión de la película es mucho mejor que la vieja."
+      }
+    ]
+  },
+  {
+    "word": "行政",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "administración",
+      "administrativo",
+      "ejecutivo"
+    ],
+    "examples": [
+      {
+        "zh": "她做行政工作。",
+        "es": "Ella hace trabajo administrativo."
+      },
+      {
+        "zh": "这个行政问题很难解决。",
+        "es": "Este problema administrativo es difícil de resolver."
+      },
+      {
+        "zh": "香港是中国的特别行政区。",
+        "es": "Hong Kong es una región administrativa especial de China."
+      },
+      {
+        "zh": "公司需要一个人负责行政管理。",
+        "es": "La empresa necesita a alguien que se encargue de la administración."
+      }
+    ]
+  },
+  {
+    "word": "晚饭",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cena"
+    ],
+    "examples": [
+      {
+        "zh": "晚饭吃什么？",
+        "es": "¿Qué hay de cenar?"
+      },
+      {
+        "zh": "妈妈正在做晚饭。",
+        "es": "Mamá está preparando la cena."
+      },
+      {
+        "zh": "我们一起吃晚饭吧。",
+        "es": "Cenemos juntos."
+      },
+      {
+        "zh": "吃完晚饭，我常常和爸爸一起看电视。",
+        "es": "Después de cenar, suelo ver la tele con mi papá."
+      }
+    ]
+  },
+  {
+    "word": "变化",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cambio",
+      "cambiar",
+      "variación"
+    ],
+    "examples": [
+      {
+        "zh": "北京变化很大。",
+        "es": "Pekín ha cambiado mucho."
+      },
+      {
+        "zh": "天气变化很快。",
+        "es": "El clima cambia muy rápido."
+      },
+      {
+        "zh": "十年没见，你一点变化都没有。",
+        "es": "Diez años sin verte y no has cambiado nada."
+      },
+      {
+        "zh": "这几年，他的生活有了很大的变化。",
+        "es": "En los últimos años, su vida ha cambiado mucho."
+      }
+    ]
+  },
+  {
+    "word": "星期天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "domingo"
+    ],
+    "examples": [
+      {
+        "zh": "明天是星期天。",
+        "es": "Mañana es domingo."
+      },
+      {
+        "zh": "星期天你有时间吗？",
+        "es": "¿Tienes tiempo el domingo?"
+      },
+      {
+        "zh": "星期天我在家休息。",
+        "es": "El domingo descanso en casa."
+      },
+      {
+        "zh": "这个星期天我想和朋友去商店买衣服。",
+        "es": "Este domingo quiero ir de compras con mis amigos a comprar ropa."
+      }
+    ]
+  },
+  {
+    "word": "经验",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "experiencia",
+      "vivir, experimentar"
+    ],
+    "examples": [
+      {
+        "zh": "他很有经验。",
+        "es": "Él tiene mucha experiencia."
+      },
+      {
+        "zh": "我没有工作经验。",
+        "es": "No tengo experiencia laboral."
+      },
+      {
+        "zh": "他有十年的开车经验，所以开得很好。",
+        "es": "Tiene diez años de experiencia manejando, por eso maneja muy bien."
+      },
+      {
+        "zh": "你可以给我们介绍一下你的经验吗？",
+        "es": "¿Nos puedes contar un poco sobre tu experiencia?"
+      }
+    ]
+  },
+  {
+    "word": "一点儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un poco",
+      "algo de",
+      "un poquito"
+    ],
+    "examples": [
+      {
+        "zh": "请说慢一点儿。",
+        "es": "Por favor, habla un poco más despacio."
+      },
+      {
+        "zh": "我会说一点儿中文。",
+        "es": "Hablo un poco de chino."
+      },
+      {
+        "zh": "我想喝一点儿水。",
+        "es": "Quiero tomar un poco de agua."
+      },
+      {
+        "zh": "今天比昨天冷一点儿，多穿一点儿衣服吧。",
+        "es": "Hoy hace un poco más de frío que ayer; abrígate un poco más."
+      }
+    ]
+  },
+  {
+    "word": "请坐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siéntese, por favor",
+      "tome asiento"
+    ],
+    "examples": [
+      {
+        "zh": "请坐！",
+        "es": "¡Siéntese, por favor!"
+      },
+      {
+        "zh": "老师，请坐。",
+        "es": "Profesor, tome asiento."
+      },
+      {
+        "zh": "请进，请坐，喝杯茶吧。",
+        "es": "Pase, siéntese y tómese un té."
+      },
+      {
+        "zh": "先生请坐，我马上去叫老师来。",
+        "es": "Siéntese, señor; ahora mismo voy a llamar al profesor."
+      }
+    ]
+  },
+  {
+    "word": "显示",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mostrar",
+      "indicar",
+      "demostrar"
+    ],
+    "examples": [
+      {
+        "zh": "手机显示没有网。",
+        "es": "El celular indica que no hay internet."
+      },
+      {
+        "zh": "电脑上显示了今天的日期。",
+        "es": "La computadora muestra la fecha de hoy."
+      },
+      {
+        "zh": "调查显示，很多学生喜欢上网。",
+        "es": "La encuesta muestra que a muchos estudiantes les gusta navegar por internet."
+      },
+      {
+        "zh": "研究显示，每天走路对身体很好。",
+        "es": "Los estudios demuestran que caminar todos los días es muy bueno para la salud."
+      }
+    ]
+  },
+  {
+    "word": "性",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "carácter, naturaleza",
+      "sexo, género",
+      "sexualidad",
+      "sufijo que forma sustantivos (-idad, -eza)"
+    ],
+    "examples": [
+      {
+        "zh": "她的性格很好。",
+        "es": "Ella tiene muy buen carácter."
+      },
+      {
+        "zh": "请写上你的名字和性别。",
+        "es": "Por favor, escribe tu nombre y tu sexo."
+      },
+      {
+        "zh": "这个工作男性和女性都可以做。",
+        "es": "Este trabajo lo pueden hacer tanto hombres como mujeres."
+      },
+      {
+        "zh": "很多人不知道这件事的重要性。",
+        "es": "Mucha gente no sabe la importancia de este asunto."
+      }
+    ]
+  },
+  {
+    "word": "放假",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener vacaciones",
+      "tener día libre (feriado)"
+    ],
+    "examples": [
+      {
+        "zh": "明天放假。",
+        "es": "Mañana es feriado."
+      },
+      {
+        "zh": "学校什么时候放假？",
+        "es": "¿Cuándo salen de vacaciones en la escuela?"
+      },
+      {
+        "zh": "放假的时候，我想去北京玩。",
+        "es": "En las vacaciones quiero ir de paseo a Pekín."
+      },
+      {
+        "zh": "新年放假三天，很多人都回家看家人了。",
+        "es": "Por Año Nuevo hay tres días libres, y mucha gente volvió a casa a ver a su familia."
+      }
+    ]
+  },
+  {
+    "word": "语言",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "idioma",
+      "lengua",
+      "lenguaje"
+    ],
+    "examples": [
+      {
+        "zh": "他会说五种语言。",
+        "es": "Él habla cinco idiomas."
+      },
+      {
+        "zh": "学习一种新的语言很难。",
+        "es": "Aprender un idioma nuevo es difícil."
+      },
+      {
+        "zh": "语言和文化有很大的关系。",
+        "es": "El idioma y la cultura están muy relacionados."
+      },
+      {
+        "zh": "在国外生活，最难的不是语言，而是文化。",
+        "es": "Al vivir en el extranjero, lo más difícil no es el idioma, sino la cultura."
+      }
+    ]
+  }
+]

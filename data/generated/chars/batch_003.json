@@ -1,0 +1,430 @@
+[
+  {
+    "char": "知",
+    "components": [
+      {
+        "char": "矢",
+        "meaning_es": "flecha"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Imagina que las palabras salen de tu boca rápidas y certeras como una flecha: así habla quien sabe."
+  },
+  {
+    "char": "道",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "首",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "Una cabeza que va caminando por delante te muestra el camino; también es quien sabe y dice cómo llegar."
+  },
+  {
+    "char": "更",
+    "components": [
+      {
+        "char": "更",
+        "meaning_es": "más; cambiar"
+      }
+    ],
+    "mnemonic_es": "Ve una caja cerrada con un trazo largo que se escapa abajo: siempre quiere ir un poco más allá."
+  },
+  {
+    "char": "前",
+    "components": [
+      {
+        "char": "䒑",
+        "meaning_es": "tapa (forma con dos cuernitos)"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna; carne"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Para una historia: un carnicero pone la carne y el cuchillo bien al frente del mostrador, adelante de todo."
+  },
+  {
+    "char": "间",
+    "components": [
+      {
+        "char": "门",
+        "meaning_es": "puerta"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      }
+    ],
+    "mnemonic_es": "El sol se asoma por el espacio entre las hojas de una puerta: eso es lo que hay entre dos cosas, un intervalo."
+  },
+  {
+    "char": "已",
+    "components": [
+      {
+        "char": "已",
+        "meaning_es": "ya"
+      }
+    ],
+    "mnemonic_es": "Imagina una serpiente que ya casi cerró su vuelta: le falta poquito, ¡ya está lista!"
+  },
+  {
+    "char": "经",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda, hilo"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano; otra vez"
+      },
+      {
+        "char": "工",
+        "meaning_es": "trabajo"
+      }
+    ],
+    "mnemonic_es": "Una mano trabaja el hilo una y otra vez en el telar: así se pasa por la experiencia."
+  },
+  {
+    "char": "出",
+    "components": [
+      {
+        "char": "出",
+        "meaning_es": "salir"
+      }
+    ],
+    "mnemonic_es": "Para recordarlo, mira dos montañas una sobre otra: hay que salir de una para subir a la siguiente."
+  },
+  {
+    "char": "候",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "丨",
+        "meaning_es": "palo, bastón"
+      },
+      {
+        "char": "矢",
+        "meaning_es": "flecha"
+      }
+    ],
+    "mnemonic_es": "Una persona apoyada en su bastón espera, flecha en mano, el momento justo para disparar."
+  },
+  {
+    "char": "得",
+    "components": [
+      {
+        "char": "彳",
+        "meaning_es": "paso"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno; línea"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "mano; pulgada"
+      }
+    ],
+    "mnemonic_es": "Das pasos bajo el sol desde el amanecer y al final tu mano consigue lo que buscabas: lo obtuviste."
+  },
+  {
+    "char": "所",
+    "components": [
+      {
+        "char": "户",
+        "meaning_es": "puerta"
+      },
+      {
+        "char": "斤",
+        "meaning_es": "hacha"
+      }
+    ],
+    "mnemonic_es": "Un hacha colgada junto a la puerta marca el lugar: ese es el sitio de la casa."
+  },
+  {
+    "char": "小",
+    "components": [
+      {
+        "char": "小",
+        "meaning_es": "pequeño"
+      }
+    ],
+    "mnemonic_es": "Un palito en medio con dos gotitas a los lados: todo es chiquito, pequeño."
+  },
+  {
+    "char": "发",
+    "components": [
+      {
+        "char": "发",
+        "meaning_es": "enviar; emitir; cabello"
+      }
+    ],
+    "mnemonic_es": "Imagínalo como un amigo despeinado que lanza mensajes en todas direcciones: envía, emite y se le alborota el pelo."
+  },
+  {
+    "char": "展",
+    "components": [
+      {
+        "char": "尸",
+        "meaning_es": "cuerpo tendido"
+      },
+      {
+        "char": "𧘇",
+        "meaning_es": "ropa (parte inferior de 衣)"
+      }
+    ],
+    "mnemonic_es": "Alguien tiende su ropa sobre un cuerpo acostado para mostrarla bien estirada: así se despliega y se exhibe."
+  },
+  {
+    "char": "再",
+    "components": [
+      {
+        "char": "再",
+        "meaning_es": "otra vez"
+      }
+    ],
+    "mnemonic_es": "Ve una repisa con dos tablas, una sobre otra: pones las cosas encima y otra vez encima."
+  },
+  {
+    "char": "开",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno; barra"
+      },
+      {
+        "char": "廾",
+        "meaning_es": "dos manos"
+      }
+    ],
+    "mnemonic_es": "Dos manos levantan la barra que trancaba la puerta: ¡ya se puede abrir!"
+  },
+  {
+    "char": "始",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "厶",
+        "meaning_es": "privado, propio"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Una mujer abre la boca para decir sus propias primeras palabras: así comienza todo."
+  },
+  {
+    "char": "爱",
+    "components": [
+      {
+        "char": "爫",
+        "meaning_es": "mano, garra"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "cubierta, techo"
+      },
+      {
+        "char": "友",
+        "meaning_es": "amigo"
+      }
+    ],
+    "mnemonic_es": "Una mano te cubre con cariño y debajo está tu amigo: eso es el amor."
+  },
+  {
+    "char": "样",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "羊",
+        "meaning_es": "oveja"
+      }
+    ],
+    "mnemonic_es": "Un carpintero talla una oveja de madera como modelo: así se ve la forma, el estilo."
+  },
+  {
+    "char": "第",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "弟",
+        "meaning_es": "hermano menor (forma reducida)"
+      }
+    ],
+    "mnemonic_es": "Los hermanos se forman en fila bajo el bambú, del mayor al menor: primero, segundo, tercero."
+  },
+  {
+    "char": "公",
+    "components": [
+      {
+        "char": "八",
+        "meaning_es": "ocho; dividir"
+      },
+      {
+        "char": "厶",
+        "meaning_es": "privado, propio"
+      }
+    ],
+    "mnemonic_es": "Lo privado se divide y se reparte entre todos: se vuelve público."
+  },
+  {
+    "char": "司",
+    "components": [
+      {
+        "char": "司",
+        "meaning_es": "dirigir, encargarse"
+      }
+    ],
+    "mnemonic_es": "Imagina un jefe que, con la boca dentro de su oficina, da órdenes: él dirige y se encarga."
+  },
+  {
+    "char": "谁",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "隹",
+        "meaning_es": "pájaro de cola corta"
+      }
+    ],
+    "mnemonic_es": "Un pajarito habla desde la ventana y tú preguntas: ¿quién es?"
+  },
+  {
+    "char": "它",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "匕",
+        "meaning_es": "cuchara"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo hay una cuchara olvidada; no es persona, es una cosa: ello, eso."
+  },
+  {
+    "char": "真",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno; línea"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho; dos patas"
+      }
+    ],
+    "mnemonic_es": "Lo revisas con diez ojos y bien apoyado en dos patas firmes: entonces sabes que es real, verdadero."
+  },
+  {
+    "char": "政",
+    "components": [
+      {
+        "char": "正",
+        "meaning_es": "correcto, recto"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear; acción"
+      }
+    ],
+    "mnemonic_es": "Actuar con mano firme para que todo quede derecho: eso es la política, gobernar."
+  },
+  {
+    "char": "府",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "refugio, edificio"
+      },
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "mano; pulgada"
+      }
+    ],
+    "mnemonic_es": "En un gran edificio, una persona extiende la mano para recibir trámites: es la oficina del gobierno."
+  },
+  {
+    "char": "方",
+    "components": [
+      {
+        "char": "方",
+        "meaning_es": "cuadrado; dirección; lado"
+      }
+    ],
+    "mnemonic_es": "Imagina un señor con sombrero que señala con el brazo hacia un lado: indica la dirección."
+  },
+  {
+    "char": "号",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "丂",
+        "meaning_es": "aliento que sale (forma)"
+      }
+    ],
+    "mnemonic_es": "De la boca sale un grito con fuerza: así se llama un número o una señal."
+  },
+  {
+    "char": "社",
+    "components": [
+      {
+        "char": "礻",
+        "meaning_es": "altar, espíritu"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "La gente se reúne frente a un altar sobre su tierra: así nace la comunidad, la sociedad."
+  }
+]

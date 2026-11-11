@@ -1,0 +1,174 @@
+[
+  {
+    "id": "word:女人",
+    "ok": false,
+    "issues": [
+      "El significado 'esposa (coloquial)' corresponde a la lectura nǚren (tono neutro), no a nǚ rén (nv3 ren2) de esta entrada."
+    ],
+    "content_hash": "f335237d6aa742c833448dc541143ab282ee5da1"
+  },
+  {
+    "id": "word:文化",
+    "ok": true,
+    "issues": [],
+    "content_hash": "121f42ad72956cbc90d452a29f7529c9f1a610b5"
+  },
+  {
+    "id": "word:外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91b233c8fb19b9cc7f00ac4eb48191b033f7d772"
+  },
+  {
+    "id": "word:则",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 一则 debe ser 'yì zé' (cambio tonal de 一 ante 2.º tono), no 'yī zé'."
+    ],
+    "content_hash": "6734a80e9858be554d2c54d79e4dc942b87e896c"
+  },
+  {
+    "id": "word:小时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "097d35c63d6c6e4ab9ba17b78211498e82b02221"
+  },
+  {
+    "id": "word:不过",
+    "ok": false,
+    "issues": [
+      "Pinyin: 不过 debe ser 'bú guò' (cambio tonal de 不 ante 4.º tono), no 'bù guò', en todos los ejemplos.",
+      "Pinyin del ejemplo 2: 东西 ('cosa') es 'dōng xi' con tono neutro; 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "ab67d4ddadb627a241d353e4097e229a3cdc561a"
+  },
+  {
+    "id": "word:电话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6186259ee70db2a471049437d636f9f873fdba3e"
+  },
+  {
+    "id": "word:技术",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: el complemento 得 en 发展得 se lee 'de', no 'dé'.",
+      "Pinyin del ejemplo 2: 一种 debe ser 'yì zhǒng' (cambio tonal de 一), no 'yī zhǒng'."
+    ],
+    "content_hash": "17429c9b6402fc959061238e5aaf7509e6874f33"
+  },
+  {
+    "id": "word:多少",
+    "ok": false,
+    "issues": [
+      "El significado 'más o menos, algo' corresponde a la lectura duōshǎo (3.er tono), no a duōshao (duo1 shao5) de esta entrada.",
+      "Los ejemplos escriben 'duō shǎo', lo que no concuerda con la lectura de la entrada, que lleva tono neutro (shao5)."
+    ],
+    "content_hash": "357eacba9405166367df3bb3874ba5b77c2b1f79"
+  },
+  {
+    "id": "word:那么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0cfb34aa9fc743710bb07f326fff60ba4f7c7eb"
+  },
+  {
+    "id": "word:路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "892865199ebbd67a0d2494c0bf5cb132230e9cb6"
+  },
+  {
+    "id": "word:希望",
+    "ok": true,
+    "issues": [],
+    "content_hash": "676c18c51b29b37b9d90374a6446ade86b2e2f2c"
+  },
+  {
+    "id": "word:行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "72bb0bb141dfb97b5d2f9f6d8530419001fa007d"
+  },
+  {
+    "id": "word:告诉",
+    "ok": false,
+    "issues": [
+      "Los ejemplos escriben 'gào sù', pero la entrada indica tono neutro (gao4 su5): debería ser 'gào su'."
+    ],
+    "content_hash": "3d6e15641ee89b2cdda7ce74c1a2e39063c2d43f"
+  },
+  {
+    "id": "word:要求",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4671bc068d6532a3283a4623d8eaacef23fb2859"
+  },
+  {
+    "id": "word:拿",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 东西 ('cosa') es 'dōng xi' con tono neutro; 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "e3c7be06dc28a511b30968953938597418b2f5c9"
+  },
+  {
+    "id": "word:作为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0ca60a0c395498b6932f6c7547b3cc700ac93fb"
+  },
+  {
+    "id": "word:提供",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 东西 ('cosa') es 'dōng xi' con tono neutro; 'dōng xī' significa 'este y oeste'.",
+      "Traducción del ejemplo 2: 'que nos brindaste' añade un 'nos' que no está en el original; sería más fiel 'que me brindaste' o 'que brindaste'."
+    ],
+    "content_hash": "e10115b1c134aeb08ce27523a9b861bb87622725"
+  },
+  {
+    "id": "word:手机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d8d54b0de52d0d18abbad466beb03ee9f5fe579"
+  },
+  {
+    "id": "word:至",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8490db143e1d1ff04daf27e9fa3ef2c51d8aae77"
+  },
+  {
+    "id": "word:哪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d035f0ed4d767883f7e56abc6dded5e0212885a1"
+  },
+  {
+    "id": "word:不同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87e6578efc69a0baffda2a3b165c2170b2fc2ae0"
+  },
+  {
+    "id": "word:先",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 东西 ('cosa') es 'dōng xi' con tono neutro; 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "1a424d14625d687bc03c427537efcd319bac4d43"
+  },
+  {
+    "id": "word:不对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a1faaa462e0c390c4b946b69609e275582b531c"
+  },
+  {
+    "id": "word:一定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f0facf2e6c379af380a1ef118c6e1d3778ebd70"
+  }
+]

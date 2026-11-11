@@ -1,0 +1,538 @@
+[
+  {
+    "word": "将来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "futuro",
+      "en el futuro",
+      "más adelante"
+    ],
+    "examples": [
+      {
+        "zh": "将来我想当老师。",
+        "es": "En el futuro quiero ser maestro."
+      },
+      {
+        "zh": "你将来想做什么？",
+        "es": "¿Qué quieres hacer en el futuro?"
+      },
+      {
+        "zh": "将来的事，谁也不知道。",
+        "es": "Nadie sabe lo que pasará en el futuro."
+      },
+      {
+        "zh": "我希望将来能去中国学习汉语。",
+        "es": "Espero poder ir a China a estudiar chino en el futuro."
+      }
+    ]
+  },
+  {
+    "word": "慢慢",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "despacio",
+      "poco a poco",
+      "gradualmente"
+    ],
+    "examples": [
+      {
+        "zh": "请慢慢说。",
+        "es": "Por favor, habla despacio."
+      },
+      {
+        "zh": "你慢慢吃。",
+        "es": "Come con calma."
+      },
+      {
+        "zh": "我的汉语慢慢好起来了。",
+        "es": "Mi chino está mejorando poco a poco."
+      },
+      {
+        "zh": "别担心，问题会慢慢解决的。",
+        "es": "No te preocupes, el problema se irá resolviendo poco a poco."
+      }
+    ]
+  },
+  {
+    "word": "排名",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clasificación",
+      "ranking",
+      "posición",
+      "clasificar"
+    ],
+    "examples": [
+      {
+        "zh": "他的排名是第一。",
+        "es": "Él está en primer lugar de la clasificación."
+      },
+      {
+        "zh": "这次考试我排名第五。",
+        "es": "En este examen quedé en quinto lugar."
+      },
+      {
+        "zh": "我们学校的排名每年都在提高。",
+        "es": "La posición de nuestra escuela en el ranking mejora cada año."
+      },
+      {
+        "zh": "这个网站的电影排名很有意思，你可以看看。",
+        "es": "El ranking de películas de este sitio web es muy interesante, puedes echarle un vistazo."
+      }
+    ]
+  },
+  {
+    "word": "铁",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hierro",
+      "firme, inquebrantable",
+      "(coloquial) muy unido, muy cercano"
+    ],
+    "examples": [
+      {
+        "zh": "这个门是铁的。",
+        "es": "Esta puerta es de hierro."
+      },
+      {
+        "zh": "这张桌子是铁做的。",
+        "es": "Esta mesa está hecha de hierro."
+      },
+      {
+        "zh": "他们两个人的关系很铁。",
+        "es": "Ellos dos son muy unidos."
+      },
+      {
+        "zh": "这个杯子是铁的，掉在地上也不会坏。",
+        "es": "Esta taza es de hierro; aunque se caiga al suelo, no se rompe."
+      }
+    ]
+  },
+  {
+    "word": "印象",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "impresión",
+      "recuerdo"
+    ],
+    "examples": [
+      {
+        "zh": "我对他的印象很好。",
+        "es": "Tengo muy buena impresión de él."
+      },
+      {
+        "zh": "你对北京有什么印象？",
+        "es": "¿Qué impresión tienes de Pekín?"
+      },
+      {
+        "zh": "那部电影给我留下了很深的印象。",
+        "es": "Esa película me dejó una impresión muy profunda."
+      },
+      {
+        "zh": "第一次见面的时候，她给我的印象特别好。",
+        "es": "La primera vez que nos vimos, ella me causó una impresión excelente."
+      }
+    ]
+  },
+  {
+    "word": "代",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "generación",
+      "en nombre de, en lugar de",
+      "época, dinastía",
+      "sustituir"
+    ],
+    "examples": [
+      {
+        "zh": "我们这一代人很喜欢上网。",
+        "es": "A nuestra generación le gusta mucho navegar por internet."
+      },
+      {
+        "zh": "请代我向你妈妈问好。",
+        "es": "Por favor, salúdame a tu mamá."
+      },
+      {
+        "zh": "老师病了，今天谁代他上课？",
+        "es": "El maestro está enfermo, ¿quién va a dar la clase en su lugar hoy?"
+      },
+      {
+        "zh": "每一代人都有自己的问题和希望。",
+        "es": "Cada generación tiene sus propios problemas y esperanzas."
+      }
+    ]
+  },
+  {
+    "word": "到达",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llegar",
+      "alcanzar"
+    ],
+    "examples": [
+      {
+        "zh": "我们到达北京了。",
+        "es": "Llegamos a Pekín."
+      },
+      {
+        "zh": "飞机几点到达？",
+        "es": "¿A qué hora llega el avión?"
+      },
+      {
+        "zh": "火车晚上八点到达上海。",
+        "es": "El tren llega a Shanghái a las ocho de la noche."
+      },
+      {
+        "zh": "到达机场以后，请给我打电话。",
+        "es": "Cuando llegues al aeropuerto, por favor llámame."
+      }
+    ]
+  },
+  {
+    "word": "发达",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desarrollado",
+      "próspero",
+      "desarrollar, impulsar"
+    ],
+    "examples": [
+      {
+        "zh": "这个国家很发达。",
+        "es": "Este país está muy desarrollado."
+      },
+      {
+        "zh": "日本是一个发达国家。",
+        "es": "Japón es un país desarrollado."
+      },
+      {
+        "zh": "这里的交通非常发达。",
+        "es": "El transporte aquí está muy desarrollado."
+      },
+      {
+        "zh": "城市越来越发达，可是空气越来越差。",
+        "es": "La ciudad está cada vez más desarrollada, pero el aire está cada vez peor."
+      }
+    ]
+  },
+  {
+    "word": "房屋",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "casa",
+      "vivienda",
+      "edificio"
+    ],
+    "examples": [
+      {
+        "zh": "这里的房屋很新。",
+        "es": "Las casas de aquí son muy nuevas."
+      },
+      {
+        "zh": "这些房屋都很老了。",
+        "es": "Todas estas casas son muy viejas."
+      },
+      {
+        "zh": "那场大雨破坏了很多房屋。",
+        "es": "Esa lluvia fuerte dañó muchas casas."
+      },
+      {
+        "zh": "政府计划明年在这个地区建设新房屋。",
+        "es": "El gobierno planea construir viviendas nuevas en esta zona el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "古",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "antiguo",
+      "viejo"
+    ],
+    "examples": [
+      {
+        "zh": "这是一本古书。",
+        "es": "Este es un libro antiguo."
+      },
+      {
+        "zh": "北京有很多古建筑。",
+        "es": "En Pekín hay muchos edificios antiguos."
+      },
+      {
+        "zh": "古人常常在晚上看月亮。",
+        "es": "En la antigüedad, la gente solía mirar la luna por la noche."
+      },
+      {
+        "zh": "我喜欢去古城旅游，那里的生活很安静。",
+        "es": "Me gusta viajar a ciudades antiguas; allí la vida es muy tranquila."
+      }
+    ]
+  },
+  {
+    "word": "观念",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "concepto",
+      "idea",
+      "mentalidad",
+      "forma de pensar"
+    ],
+    "examples": [
+      {
+        "zh": "他的观念很新。",
+        "es": "Él tiene ideas muy modernas."
+      },
+      {
+        "zh": "每个人的观念都不一样。",
+        "es": "Cada persona tiene una forma de pensar distinta."
+      },
+      {
+        "zh": "年轻人和老人的观念不同。",
+        "es": "Los jóvenes y los mayores tienen mentalidades diferentes."
+      },
+      {
+        "zh": "现在很多人的家庭观念已经发生了变化。",
+        "es": "Hoy en día, la idea que mucha gente tiene de la familia ya ha cambiado."
+      }
+    ]
+  },
+  {
+    "word": "建成",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "terminar de construir",
+      "construir",
+      "establecer"
+    ],
+    "examples": [
+      {
+        "zh": "这座楼建成了。",
+        "es": "Este edificio ya está terminado."
+      },
+      {
+        "zh": "新机场明年建成。",
+        "es": "El nuevo aeropuerto estará terminado el próximo año."
+      },
+      {
+        "zh": "这个车站是去年建成的。",
+        "es": "Esta estación se terminó de construir el año pasado."
+      },
+      {
+        "zh": "学校的新图书馆建成以后，学生们都很高兴。",
+        "es": "Cuando se terminó la nueva biblioteca de la escuela, todos los estudiantes se pusieron muy contentos."
+      }
+    ]
+  },
+  {
+    "word": "生长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "crecer",
+      "criarse"
+    ],
+    "examples": [
+      {
+        "zh": "这些树生长得很快。",
+        "es": "Estos árboles crecen muy rápido."
+      },
+      {
+        "zh": "我生长在一个小城市。",
+        "es": "Me crié en una ciudad pequeña."
+      },
+      {
+        "zh": "花草需要水和太阳才能生长。",
+        "es": "Las plantas necesitan agua y sol para crecer."
+      },
+      {
+        "zh": "这里冬天太冷了，很多水果都很难生长。",
+        "es": "Aquí los inviernos son demasiado fríos y a muchas frutas les cuesta crecer."
+      }
+    ]
+  },
+  {
+    "word": "舞台",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escenario",
+      "(figurado) escena, ámbito"
+    ],
+    "examples": [
+      {
+        "zh": "她站在舞台上。",
+        "es": "Ella está parada en el escenario."
+      },
+      {
+        "zh": "舞台上有很多人。",
+        "es": "Hay mucha gente en el escenario."
+      },
+      {
+        "zh": "他第一次上舞台的时候非常紧张。",
+        "es": "La primera vez que subió al escenario estaba muy nervioso."
+      },
+      {
+        "zh": "这个年轻演员终于走上了国际舞台。",
+        "es": "Este joven actor por fin llegó a la escena internacional."
+      }
+    ]
+  },
+  {
+    "word": "不得不",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no tener más remedio que",
+      "verse obligado a",
+      "tener que"
+    ],
+    "examples": [
+      {
+        "zh": "我不得不走了。",
+        "es": "No tengo más remedio que irme."
+      },
+      {
+        "zh": "下雨了，我们不得不回家。",
+        "es": "Empezó a llover y tuvimos que volver a casa."
+      },
+      {
+        "zh": "车坏了，他不得不走路去上班。",
+        "es": "Se le descompuso el carro y tuvo que ir caminando al trabajo."
+      },
+      {
+        "zh": "因为没有钱，她不得不离开大学去工作。",
+        "es": "Como no tenía dinero, se vio obligada a dejar la universidad para trabajar."
+      }
+    ]
+  },
+  {
+    "word": "防止",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prevenir",
+      "evitar"
+    ],
+    "examples": [
+      {
+        "zh": "多洗手可以防止生病。",
+        "es": "Lavarse las manos seguido ayuda a prevenir enfermedades."
+      },
+      {
+        "zh": "我们要防止这种事再发生。",
+        "es": "Tenemos que evitar que esto vuelva a pasar."
+      },
+      {
+        "zh": "开车慢一点，防止出事故。",
+        "es": "Maneja más despacio para evitar accidentes."
+      },
+      {
+        "zh": "为了防止孩子受伤，妈妈把桌子放到了房间外边。",
+        "es": "Para evitar que el niño se lastimara, la mamá sacó la mesa del cuarto."
+      }
+    ]
+  },
+  {
+    "word": "浪费",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desperdiciar",
+      "malgastar",
+      "derroche"
+    ],
+    "examples": [
+      {
+        "zh": "别浪费水。",
+        "es": "No desperdicies el agua."
+      },
+      {
+        "zh": "不要浪费时间。",
+        "es": "No pierdas el tiempo."
+      },
+      {
+        "zh": "买这么多东西，太浪费钱了。",
+        "es": "Comprar tantas cosas es malgastar el dinero."
+      },
+      {
+        "zh": "吃饭的时候不要浪费，吃多少拿多少。",
+        "es": "No desperdicies la comida: sírvete solo lo que vas a comer."
+      }
+    ]
+  },
+  {
+    "word": "气候",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clima",
+      "(figurado) ambiente, situación"
+    ],
+    "examples": [
+      {
+        "zh": "这里的气候很好。",
+        "es": "El clima de aquí es muy bueno."
+      },
+      {
+        "zh": "北京的气候怎么样？",
+        "es": "¿Cómo es el clima en Pekín?"
+      },
+      {
+        "zh": "我不太习惯这里的气候。",
+        "es": "No me acostumbro mucho al clima de aquí."
+      },
+      {
+        "zh": "气候变化对农业的影响越来越大。",
+        "es": "El cambio climático afecta cada vez más a la agricultura."
+      }
+    ]
+  },
+  {
+    "word": "伤",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "herir, lastimar",
+      "herida",
+      "lesión"
+    ],
+    "examples": [
+      {
+        "zh": "他的手伤了。",
+        "es": "Se lastimó la mano."
+      },
+      {
+        "zh": "你的伤好了吗？",
+        "es": "¿Ya se te curó la herida?"
+      },
+      {
+        "zh": "他说的话伤了我的心。",
+        "es": "Lo que dijo me rompió el corazón."
+      },
+      {
+        "zh": "他打球的时候伤了腿，得休息一个月。",
+        "es": "Se lastimó la pierna jugando a la pelota y tiene que descansar un mes."
+      }
+    ]
+  },
+  {
+    "word": "上来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "subir (hacia donde está quien habla)",
+      "acercarse",
+      "(tras un verbo) lograr, poder"
+    ],
+    "examples": [
+      {
+        "zh": "你上来吧！",
+        "es": "¡Sube!"
+      },
+      {
+        "zh": "他从楼下走上来了。",
+        "es": "Él subió caminando desde el piso de abajo."
+      },
+      {
+        "zh": "这个问题太难，我答不上来。",
+        "es": "Esta pregunta es demasiado difícil, no puedo responderla."
+      },
+      {
+        "zh": "我在楼上等你，你买完东西就上来吧。",
+        "es": "Te espero arriba; cuando termines de comprar, sube."
+      }
+    ]
+  }
+]

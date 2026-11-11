@@ -1,0 +1,169 @@
+[
+  {
+    "id": "word:做饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0509b6131e98a16f3ba5f8412c4566d58a3c25cb"
+  },
+  {
+    "id": "word:饱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e5cc866612f3e75a3d1aa2b294beff743acfbbe"
+  },
+  {
+    "id": "word:老是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cdb446741ce86552697f1d9fcfce476f5d632e95"
+  },
+  {
+    "id": "word:背后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0530910732244e19c5d4bbd07128031aae27fcc"
+  },
+  {
+    "id": "word:休假",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ae36a4a3561c17e5f54a2d10ebe8d5c71d911958"
+  },
+  {
+    "id": "word:组长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "68fcb3fa14dd72a672bc5a677741d11d288f2d0b"
+  },
+  {
+    "id": "word:感情",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: la traducción «desde pequeñas» supone que quien habla es mujer, y el chino no lo indica. Mejor «desde chicos» o «desde niños»."
+    ],
+    "content_hash": "54370050c5cbcf604b2d1e62b870eba8e8ee96ad"
+  },
+  {
+    "id": "word:笔记本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "645e76037e62eefac646eafcc2ca0d1c2efdc998"
+  },
+  {
+    "id": "word:复习",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 都 es «dōu», no «dū»."
+    ],
+    "content_hash": "65f4e7827b9aad2134050046aca0af56180d8806"
+  },
+  {
+    "id": "word:词典",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b4d5391e9d81d307de8306c5c54a16a9d1e530a6"
+  },
+  {
+    "id": "word:互相",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin del 地 adverbial (更好地) es «de», no «dì»."
+    ],
+    "content_hash": "73608383108b82c5aa91e4fa6997536f8db74773"
+  },
+  {
+    "id": "word:学期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e0fb4966c30ef93958323663b6f39122e5f4514"
+  },
+  {
+    "id": "word:会员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "62d1148227e1e55b3ec73111a13889c8e746e45c"
+  },
+  {
+    "id": "word:网球",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin del 得 complemento (打得) es «de», no «dé»."
+    ],
+    "content_hash": "e72254a19a63b1a05efe9ccc86e6275b6606ebdc"
+  },
+  {
+    "id": "word:多云",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d23b8660e7640bde64ad15c8a6336710d97b389e"
+  },
+  {
+    "id": "word:斤",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin del 得 complemento (吃得) es «de», no «dé»."
+    ],
+    "content_hash": "aaa75da97a12492d5a67c7b06b5f0577926f4999"
+  },
+  {
+    "id": "word:地铁站",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b71dade837bd5cf0940b799bb705272a090f6225"
+  },
+  {
+    "id": "word:夜里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "157c8060bfdf3bf85a75a506ccd978742cad85cc"
+  },
+  {
+    "id": "word:人民币",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c712bbb70a2109ec7cd47815051bc9254a45549"
+  },
+  {
+    "id": "word:难看",
+    "ok": false,
+    "issues": [
+      "Ejemplos 2 y 3: el pinyin del 得 complemento (写得, 变得) es «de», no «dé».",
+      "Ejemplo 4: 舒服 se pronuncia «shū fu», con tono neutro, no «shū fú»."
+    ],
+    "content_hash": "387a5b86a923768b9b071f564e2a678ef62cca31"
+  },
+  {
+    "id": "word:体育馆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70e0e7dfe57c255bd5b1ed20a90727498f4283b2"
+  },
+  {
+    "id": "word:院子",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 玩儿 está mal transcrito como «wán ér». La erización se escribe «wánr»."
+    ],
+    "content_hash": "2d6c859bd87cdc50bd9b9a6c911ded508b1b3f0e"
+  },
+  {
+    "id": "word:完善",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b6c820e6108687bd0f0b367b581b004c8cf7096"
+  },
+  {
+    "id": "word:下周",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 玩儿 está mal transcrito como «wán ér». La erización se escribe «wánr»."
+    ],
+    "content_hash": "a7c2291237e1a011b26f29a6777053ccf04bca15"
+  },
+  {
+    "id": "word:意外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0a2959a6d982d6e03e7f350ec8af693dc9c5fa0c"
+  }
+]

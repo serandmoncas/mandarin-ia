@@ -1,0 +1,533 @@
+[
+  {
+    "word": "杯子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "taza",
+      "vaso",
+      "copa"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的杯子。",
+        "es": "Esta es mi taza."
+      },
+      {
+        "zh": "杯子里有水吗？",
+        "es": "¿Hay agua en el vaso?"
+      },
+      {
+        "zh": "请给我一个干净的杯子。",
+        "es": "Por favor, dame un vaso limpio."
+      },
+      {
+        "zh": "我妈妈送给我一个很好看的杯子。",
+        "es": "Mi mamá me regaló una taza muy bonita."
+      }
+    ]
+  },
+  {
+    "word": "条件",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "condición",
+      "requisito",
+      "circunstancias"
+    ],
+    "examples": [
+      {
+        "zh": "你有什么条件？",
+        "es": "¿Qué condiciones tienes?"
+      },
+      {
+        "zh": "这个工作的条件很好。",
+        "es": "Las condiciones de este trabajo son muy buenas."
+      },
+      {
+        "zh": "我们家的生活条件不太好。",
+        "es": "Las condiciones de vida de nuestra familia no son muy buenas."
+      },
+      {
+        "zh": "如果你接受这些条件，我们明天就开始合作。",
+        "es": "Si aceptas estas condiciones, mañana mismo empezamos a trabajar juntos."
+      }
+    ]
+  },
+  {
+    "word": "打球",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jugar a la pelota",
+      "practicar un deporte de pelota"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢打球。",
+        "es": "Me gusta jugar a la pelota."
+      },
+      {
+        "zh": "你今天下午去打球吗？",
+        "es": "¿Vas a ir a jugar a la pelota esta tarde?"
+      },
+      {
+        "zh": "他每个星期都跟朋友打球。",
+        "es": "Él juega a la pelota con sus amigos todas las semanas."
+      },
+      {
+        "zh": "下雨了，所以我们不能出去打球。",
+        "es": "Está lloviendo, así que no podemos salir a jugar a la pelota."
+      }
+    ]
+  },
+  {
+    "word": "怎么样",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿cómo?",
+      "¿qué tal?",
+      "¿qué te parece?"
+    ],
+    "examples": [
+      {
+        "zh": "你怎么样？",
+        "es": "¿Cómo estás?"
+      },
+      {
+        "zh": "今天天气怎么样？",
+        "es": "¿Qué tal está el clima hoy?"
+      },
+      {
+        "zh": "我们明天去看电影，怎么样？",
+        "es": "Mañana vamos al cine, ¿qué te parece?"
+      },
+      {
+        "zh": "你觉得这家饭店的菜怎么样？",
+        "es": "¿Qué te parece la comida de este restaurante?"
+      }
+    ]
+  },
+  {
+    "word": "西边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oeste",
+      "lado oeste",
+      "al oeste de"
+    ],
+    "examples": [
+      {
+        "zh": "学校在西边。",
+        "es": "La escuela está al oeste."
+      },
+      {
+        "zh": "银行在商店的西边。",
+        "es": "El banco está al oeste de la tienda."
+      },
+      {
+        "zh": "我家在城市的西边。",
+        "es": "Mi casa está en el lado oeste de la ciudad."
+      },
+      {
+        "zh": "你从这里一直向西边走，就能看到车站。",
+        "es": "Si caminas derecho hacia el oeste desde aquí, verás la estación."
+      }
+    ]
+  },
+  {
+    "word": "指出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "señalar",
+      "indicar",
+      "hacer notar"
+    ],
+    "examples": [
+      {
+        "zh": "老师指出了我的错。",
+        "es": "El maestro señaló mi error."
+      },
+      {
+        "zh": "他指出了一个重要的问题。",
+        "es": "Él señaló un problema importante."
+      },
+      {
+        "zh": "报告指出，今年城市人口增长很快。",
+        "es": "El informe señala que este año la población urbana creció rápidamente."
+      },
+      {
+        "zh": "医生指出，睡得不够会影响身体。",
+        "es": "El médico señaló que no dormir lo suficiente afecta la salud."
+      }
+    ]
+  },
+  {
+    "word": "后天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasado mañana",
+      "adquirido (no innato)"
+    ],
+    "examples": [
+      {
+        "zh": "我后天去北京。",
+        "es": "Pasado mañana voy a Pekín."
+      },
+      {
+        "zh": "后天是我的生日。",
+        "es": "Pasado mañana es mi cumpleaños."
+      },
+      {
+        "zh": "后天下午我们一起去买东西吧。",
+        "es": "Pasado mañana en la tarde vamos juntos de compras."
+      },
+      {
+        "zh": "明天我很忙，后天我们再见面，好吗？",
+        "es": "Mañana estoy muy ocupado; ¿nos vemos pasado mañana?"
+      }
+    ]
+  },
+  {
+    "word": "专家",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "experto",
+      "especialista"
+    ],
+    "examples": [
+      {
+        "zh": "他是一位专家。",
+        "es": "Él es un experto."
+      },
+      {
+        "zh": "我们需要请一位专家。",
+        "es": "Necesitamos llamar a un especialista."
+      },
+      {
+        "zh": "她是研究中国历史的专家。",
+        "es": "Ella es experta en historia de China."
+      },
+      {
+        "zh": "专家认为，经济明年会有新的发展。",
+        "es": "Los expertos creen que la economía tendrá un nuevo desarrollo el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "东边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "este",
+      "lado este",
+      "al este de"
+    ],
+    "examples": [
+      {
+        "zh": "医院在东边。",
+        "es": "El hospital está al este."
+      },
+      {
+        "zh": "太阳从东边出来。",
+        "es": "El sol sale por el este."
+      },
+      {
+        "zh": "我们学校的东边有一个商店。",
+        "es": "Al este de nuestra escuela hay una tienda."
+      },
+      {
+        "zh": "车站在城市的东边，坐车要半个小时。",
+        "es": "La estación está en el lado este de la ciudad; en auto se tarda media hora."
+      }
+    ]
+  },
+  {
+    "word": "均",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todos, sin excepción",
+      "igual, parejo",
+      "promedio (en compuestos)"
+    ],
+    "examples": [
+      {
+        "zh": "学生均已回家。",
+        "es": "Todos los estudiantes ya regresaron a casa."
+      },
+      {
+        "zh": "我每天平均工作八个小时。",
+        "es": "Trabajo en promedio ocho horas al día."
+      },
+      {
+        "zh": "两个城市的人口均超过一百万。",
+        "es": "Ambas ciudades superan el millón de habitantes."
+      },
+      {
+        "zh": "这些产品均在中国生产，价格比较低。",
+        "es": "Todos estos productos se fabrican en China y su precio es bastante bajo."
+      }
+    ]
+  },
+  {
+    "word": "早饭",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desayuno"
+    ],
+    "examples": [
+      {
+        "zh": "你吃早饭了吗？",
+        "es": "¿Ya desayunaste?"
+      },
+      {
+        "zh": "我早上七点吃早饭。",
+        "es": "Desayuno a las siete de la mañana."
+      },
+      {
+        "zh": "妈妈每天给我们做早饭。",
+        "es": "Mamá nos prepara el desayuno todos los días."
+      },
+      {
+        "zh": "我今天起床太晚了，没有时间吃早饭。",
+        "es": "Hoy me levanté muy tarde y no tuve tiempo de desayunar."
+      }
+    ]
+  },
+  {
+    "word": "权利",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "derecho (facultad legítima)"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的权利。",
+        "es": "Es mi derecho."
+      },
+      {
+        "zh": "每个人都有学习的权利。",
+        "es": "Todas las personas tienen derecho a estudiar."
+      },
+      {
+        "zh": "你没有权利看我的手机。",
+        "es": "No tienes derecho a revisar mi celular."
+      },
+      {
+        "zh": "我们应该保护孩子的权利，让他们上学。",
+        "es": "Debemos proteger los derechos de los niños y dejarlos ir a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "法",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "ley",
+      "método, manera",
+      "forma de hacer algo"
+    ],
+    "examples": [
+      {
+        "zh": "我今天没法去学校。",
+        "es": "Hoy no tengo manera de ir a la escuela."
+      },
+      {
+        "zh": "这个字有两种写法。",
+        "es": "Este carácter tiene dos formas de escribirse."
+      },
+      {
+        "zh": "他在法学院学习法律。",
+        "es": "Él estudia Derecho en la facultad de leyes."
+      },
+      {
+        "zh": "这个新法明年开始使用。",
+        "es": "Esta nueva ley empezará a aplicarse el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "一下儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un momento",
+      "un poco",
+      "rápidamente (suaviza un verbo)"
+    ],
+    "examples": [
+      {
+        "zh": "等一下儿！",
+        "es": "¡Espera un momento!"
+      },
+      {
+        "zh": "你看一下儿这个。",
+        "es": "Échale un vistazo a esto."
+      },
+      {
+        "zh": "请你介绍一下儿你自己。",
+        "es": "Por favor, preséntate un poco."
+      },
+      {
+        "zh": "我想休息一下儿，然后再继续工作。",
+        "es": "Quiero descansar un rato y luego seguir trabajando."
+      }
+    ]
+  },
+  {
+    "word": "变",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cambiar",
+      "volverse",
+      "transformarse"
+    ],
+    "examples": [
+      {
+        "zh": "天气变冷了。",
+        "es": "El clima se puso frío."
+      },
+      {
+        "zh": "你变了很多。",
+        "es": "Cambiaste mucho."
+      },
+      {
+        "zh": "他的中文变得非常好。",
+        "es": "Su chino se volvió muy bueno."
+      },
+      {
+        "zh": "十年过去了，我家门口的路一点儿也没变。",
+        "es": "Pasaron diez años y la calle frente a mi casa no cambió nada."
+      }
+    ]
+  },
+  {
+    "word": "看病",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ir al médico",
+      "atender a un paciente"
+    ],
+    "examples": [
+      {
+        "zh": "我要去看病。",
+        "es": "Tengo que ir al médico."
+      },
+      {
+        "zh": "你去医院看病了吗？",
+        "es": "¿Fuiste al hospital a que te revisaran?"
+      },
+      {
+        "zh": "我妈妈今天带弟弟去看病。",
+        "es": "Hoy mi mamá llevó a mi hermano menor al médico."
+      },
+      {
+        "zh": "在这家医院看病不用等很长时间。",
+        "es": "En este hospital no hay que esperar mucho para que te atiendan."
+      }
+    ]
+  },
+  {
+    "word": "记录",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "registrar, anotar",
+      "registro, acta",
+      "récord"
+    ],
+    "examples": [
+      {
+        "zh": "请你记录下来。",
+        "es": "Por favor, anótalo."
+      },
+      {
+        "zh": "这是一个新的世界记录。",
+        "es": "Este es un nuevo récord mundial."
+      },
+      {
+        "zh": "他把会议的内容都记录下来了。",
+        "es": "Él anotó todo lo que se dijo en la reunión."
+      },
+      {
+        "zh": "我每天都记录自己吃了什么东西。",
+        "es": "Todos los días anoto lo que como."
+      }
+    ]
+  },
+  {
+    "word": "南边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sur",
+      "lado sur",
+      "al sur de"
+    ],
+    "examples": [
+      {
+        "zh": "我家在南边。",
+        "es": "Mi casa está al sur."
+      },
+      {
+        "zh": "中国的南边很热。",
+        "es": "En el sur de China hace mucho calor."
+      },
+      {
+        "zh": "学校的南边有一家书店。",
+        "es": "Al sur de la escuela hay una librería."
+      },
+      {
+        "zh": "我们从北京坐火车去南边的城市，要坐十个小时。",
+        "es": "Para ir en tren de Pekín a las ciudades del sur se tarda diez horas."
+      }
+    ]
+  },
+  {
+    "word": "警察",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "policía",
+      "agente de policía"
+    ],
+    "examples": [
+      {
+        "zh": "他是警察。",
+        "es": "Él es policía."
+      },
+      {
+        "zh": "快叫警察！",
+        "es": "¡Llamen rápido a la policía!"
+      },
+      {
+        "zh": "我爸爸是一名警察。",
+        "es": "Mi papá es policía."
+      },
+      {
+        "zh": "我的钱包不见了，我马上给警察打了电话。",
+        "es": "Perdí mi billetera y enseguida llamé a la policía."
+      }
+    ]
+  },
+  {
+    "word": "玩儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jugar",
+      "divertirse",
+      "pasear, salir"
+    ],
+    "examples": [
+      {
+        "zh": "我们去玩儿吧！",
+        "es": "¡Vamos a divertirnos!"
+      },
+      {
+        "zh": "孩子们在外面玩儿。",
+        "es": "Los niños están jugando afuera."
+      },
+      {
+        "zh": "明天你想去哪儿玩儿？",
+        "es": "¿A dónde quieres ir a pasear mañana?"
+      },
+      {
+        "zh": "我小时候常常跟哥哥在家门口玩儿游戏。",
+        "es": "De niño, jugaba seguido con mi hermano mayor frente a la casa."
+      }
+    ]
+  }
+]

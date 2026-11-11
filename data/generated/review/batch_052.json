@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:嘛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "246a68337119c8ebfe1891d3229aec5450079956"
+  },
+  {
+    "id": "word:刚刚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "775419001b0953453b1f6213136f89de9a18dfca"
+  },
+  {
+    "id": "word:国务院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5dafa7bcfbfd563889de5c14451f6e63fef3eae5"
+  },
+  {
+    "id": "word:科",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: «考得» debe ser «kǎo de» (partícula estructural, tono neutro), no «kǎo dé»."
+    ],
+    "content_hash": "bd11296945e89ee24aa1bc39327b481df9c1b2ad"
+  },
+  {
+    "id": "word:失败",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0095f71d01e9f1c9ac596d2b9753b685cea6caa8"
+  },
+  {
+    "id": "word:战略",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 1: «好» en «好战略» significa «bueno» y se lee «hǎo», no «hào»."
+    ],
+    "content_hash": "2841fc9089ac0fedb2602e6c388dcc19ea41592d"
+  },
+  {
+    "id": "word:特点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5c19fa7addeb737aa1c11fbde518710890a91510"
+  },
+  {
+    "id": "word:教授",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6555673f48d337728e9bf28d3b61ce2507cda997"
+  },
+  {
+    "id": "word:英文",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0a5b402ba43c0a6cd14c033400f40ecc09af5c75"
+  },
+  {
+    "id": "word:王",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5a900ee7d130cbfac4f0e67e32b7d9f5ae6c2b9"
+  },
+  {
+    "id": "word:重视",
+    "ok": true,
+    "issues": [],
+    "content_hash": "03000919adbac95d2ec87645e6a8dcb7ea3f5c8f"
+  },
+  {
+    "id": "word:编辑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "84c386b8512ed3c7d8856040b6682e7ec2de53e6"
+  },
+  {
+    "id": "word:出口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ef5055455d68283094b9a69dc894d38ef8c014d"
+  },
+  {
+    "id": "word:联盟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a8956c468823b6c4ac2ac1644c607ccb2bf4716"
+  },
+  {
+    "id": "word:质量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b9e0338d91307c9912a1ef08693e71b9ed99101"
+  },
+  {
+    "id": "word:高级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87e4d85f79954140fc9665eb9479bf1fe35bfaf8"
+  },
+  {
+    "id": "word:资本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2c93db97049e2f3c931b50c9f92b41c5ec798f3"
+  },
+  {
+    "id": "word:街",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 1: «长» (largo) se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "23af34fadcc0fe07e2ca514a29b5c47e7fee06f5"
+  },
+  {
+    "id": "word:阶段",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a61c37e85057064a16b7348f780cf27d15bcf1db"
+  },
+  {
+    "id": "word:开心",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: «玩得» debe ser «wán de» (tono neutro), no «wán dé»."
+    ],
+    "content_hash": "9be732247e89fd133de2f3ecf4ba58a4995a89ac"
+  },
+  {
+    "id": "word:城",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2 «这个城很大» suena poco natural; lo habitual es «这座城市很大» o «这个城市很大».",
+      "Pinyin incorrecto en el ejemplo 4: «长» en «很长的历史» se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "6eae8de0393e28913689ab2e0f4078ba45402973"
+  },
+  {
+    "id": "word:身边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7501e9ca2e64f2d3ecb576ef70de93916eb7fea4"
+  },
+  {
+    "id": "word:词",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a535ad8b096c287cb8f387ffa67c950e06a48f24"
+  },
+  {
+    "id": "word:调整",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: «调整» se lee «tiáo zhěng», no «diào zhěng».",
+      "Ejemplo 3: «一下» aparece como «yī xià»; con el cambio tonal que se usa en el resto de la app debería ser «yí xià»."
+    ],
+    "content_hash": "6dc49ac4439eee313f1ee55b7190e4aa0935ef62"
+  },
+  {
+    "id": "word:大部分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f155c56c9d8e7656312bbb74a81d8de38b2c0530"
+  }
+]

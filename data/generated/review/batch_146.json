@@ -1,0 +1,160 @@
+[
+  {
+    "id": "phrase:hotel:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc6fac809efad76adb6c2bb33bc63823a70998f8"
+  },
+  {
+    "id": "phrase:hotel:026",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8d87dd14dccbd47e6a6eaa25d6e594d4917597df"
+  },
+  {
+    "id": "phrase:hotel:027",
+    "ok": false,
+    "issues": [
+      "La traducción omite 早上 ('de la mañana'). 'Mañana a las siete' es ambiguo; mejor: 'Por favor, despiérteme mañana a las siete de la mañana'."
+    ],
+    "content_hash": "d7e8b2da90c14cf236f35e5acb99a443508514a5"
+  },
+  {
+    "id": "phrase:shopping:000",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d05d9cf1e65942543ad7420be81d5953fa9e6a0"
+  },
+  {
+    "id": "phrase:shopping:001",
+    "ok": true,
+    "issues": [],
+    "content_hash": "999de49b53e296b200653f3cfe2077a4c6ea1ed6"
+  },
+  {
+    "id": "phrase:shopping:002",
+    "ok": true,
+    "issues": [],
+    "content_hash": "737a35511c21f11076e2c213da2ed2437068207d"
+  },
+  {
+    "id": "phrase:shopping:003",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa82725036e8276e84af24cb7e271b8d4518cb58"
+  },
+  {
+    "id": "phrase:shopping:004",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f36d773d9944023be80a7c90d9964b75971bd80"
+  },
+  {
+    "id": "phrase:shopping:005",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6da76e0a4634eb5213c2e7429b6cabd9afe94c10"
+  },
+  {
+    "id": "phrase:shopping:006",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63a77f2f50801a3783222afb51c20a94f907ae63"
+  },
+  {
+    "id": "phrase:shopping:007",
+    "ok": false,
+    "issues": [
+      "Pinyin: 一共 debe llevar cambio tonal, 'yí gòng', y no 'yī gòng'. Así se mantiene la coherencia con el resto del contenido."
+    ],
+    "content_hash": "f760fefeecb6fcefb3b194495eb32b03b7620dd2"
+  },
+  {
+    "id": "phrase:shopping:008",
+    "ok": true,
+    "issues": [],
+    "content_hash": "791cf179a4ced5e05d7713ec3056b5be84ea6940"
+  },
+  {
+    "id": "phrase:shopping:009",
+    "ok": false,
+    "issues": [
+      "Pinyin: 一点 debe ser 'yì diǎn', con cambio tonal, y no 'yī diǎn'. Es inconsistente con shopping:010."
+    ],
+    "content_hash": "7b5cfd3af931fe8f43ffdd20b632b740a986cb52"
+  },
+  {
+    "id": "phrase:shopping:010",
+    "ok": true,
+    "issues": [],
+    "content_hash": "32f8bb5a987bf7ede41a6507c4e5cb030d479278"
+  },
+  {
+    "id": "phrase:shopping:011",
+    "ok": false,
+    "issues": [
+      "Pinyin: 一下 debe ser 'yí xià', con cambio tonal, y no 'yī xià'."
+    ],
+    "content_hash": "ff8962917b49a9ea651bb91ebc5defd5612282ce"
+  },
+  {
+    "id": "phrase:shopping:012",
+    "ok": true,
+    "issues": [],
+    "content_hash": "58020df0e55402d25d3928d82c478c39a7a9b018"
+  },
+  {
+    "id": "phrase:shopping:013",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b165957849bc6b3c88a0d1539740051e59257d03"
+  },
+  {
+    "id": "phrase:shopping:014",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d75e838ec14e70ade748f6b1e0598515d406f65e"
+  },
+  {
+    "id": "phrase:shopping:015",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c91e013a75836b99e094543157fffc4331adcaee"
+  },
+  {
+    "id": "phrase:shopping:016",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f52a74cd5452fb7fbbe64f44329074eaf5cec51"
+  },
+  {
+    "id": "phrase:shopping:017",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7254152de6ae4061eda6a8d79c7c67c35bf6503f"
+  },
+  {
+    "id": "phrase:shopping:018",
+    "ok": true,
+    "issues": [],
+    "content_hash": "416a10e1482fbd19ab92c635f1eee08fb3b3be15"
+  },
+  {
+    "id": "phrase:shopping:019",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8d6bb548fba976222f17b8e8ce6255e2d81f89a"
+  },
+  {
+    "id": "phrase:shopping:020",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ebd95e3caf07414c5b18efc1c383e1e881d2f7a"
+  },
+  {
+    "id": "phrase:shopping:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d06be2592acaaa607e697b0ec4a3a371aa455f00"
+  }
+]

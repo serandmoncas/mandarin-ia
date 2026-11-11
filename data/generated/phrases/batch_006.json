@@ -1,0 +1,152 @@
+[
+  {
+    "mission": "emergencies",
+    "zh": "救命！",
+    "es": "¡Auxilio!"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "请帮帮我！",
+    "es": "¡Ayúdeme, por favor!"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "请叫救护车！",
+    "es": "¡Llame a una ambulancia, por favor!"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "请报警！",
+    "es": "¡Llame a la policía, por favor!"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我需要看医生。",
+    "es": "Necesito ver a un médico."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "最近的医院在哪里？",
+    "es": "¿Dónde está el hospital más cercano?"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我受伤了。",
+    "es": "Estoy herido."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我很不舒服。",
+    "es": "Me siento muy mal."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "着火了！",
+    "es": "¡Hay un incendio!"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我的护照丢了。",
+    "es": "Perdí mi pasaporte."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我的钱包被偷了。",
+    "es": "Me robaron la billetera."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我迷路了。",
+    "es": "Estoy perdido."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "有人会说英语吗？",
+    "es": "¿Alguien habla inglés?"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我对青霉素过敏。",
+    "es": "Soy alérgico a la penicilina."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我呼吸困难。",
+    "es": "Me cuesta respirar."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "这里疼。",
+    "es": "Me duele aquí."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "他晕倒了。",
+    "es": "Se desmayó."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "附近有药店吗？",
+    "es": "¿Hay una farmacia cerca?"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "请联系我的大使馆。",
+    "es": "Por favor, comuníquese con mi embajada."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我的手机丢了。",
+    "es": "Perdí mi celular."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "派出所在哪里？",
+    "es": "¿Dónde está la estación de policía?"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "您哪里不舒服？",
+    "es": "¿Qué le duele? / ¿Qué síntomas tiene?"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "请出示您的护照。",
+    "es": "Muéstreme su pasaporte, por favor."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "发生了什么事？",
+    "es": "¿Qué pasó?"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "您有保险吗？",
+    "es": "¿Tiene seguro médico?"
+  },
+  {
+    "mission": "emergencies",
+    "zh": "请在这里签字。",
+    "es": "Firme aquí, por favor."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "我需要一份报案证明。",
+    "es": "Necesito una constancia de la denuncia."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "请慢一点说。",
+    "es": "Hable más despacio, por favor."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "别担心，医生马上来。",
+    "es": "No se preocupe, el médico viene enseguida."
+  },
+  {
+    "mission": "emergencies",
+    "zh": "紧急出口在哪里？",
+    "es": "¿Dónde está la salida de emergencia?"
+  }
+]

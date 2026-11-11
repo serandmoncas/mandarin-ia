@@ -1,0 +1,173 @@
+[
+  {
+    "id": "word:自行车",
+    "ok": false,
+    "issues": [
+      "Pinyin: «yī liàng» debería ser «yí liàng» (sandhi de 一 ante 4.º tono); los demás ejemplos sí aplican el sandhi."
+    ],
+    "content_hash": "7a63a71d1f371cc67fcd788851a2e77f7c2bc8bb"
+  },
+  {
+    "id": "word:工厂",
+    "ok": false,
+    "issues": [
+      "Pinyin: «yī jiā» debería ser «yì jiā» (sandhi de 一 ante 1.er tono); los demás ejemplos sí aplican el sandhi."
+    ],
+    "content_hash": "6b84af8a60f6c8a9ed7fd8f0838d34159b50fda1"
+  },
+  {
+    "id": "word:好人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "62425d1a9fc39b136a985ebe94bc3d46836a0058"
+  },
+  {
+    "id": "word:假期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c24673c9b1f52cb0ec2da72d88510e576469320"
+  },
+  {
+    "id": "word:建",
+    "ok": false,
+    "issues": [
+      "Pinyin: «yī jiā» debería ser «yì jiā»; dentro del mismo elemento se escribe «yí gè» con sandhi.",
+      "«建一家新公司» suena poco natural; lo habitual es «开一家新公司» o «成立一家新公司»."
+    ],
+    "content_hash": "3382b5528847c36906fe7ce1225548fdd63e5f68"
+  },
+  {
+    "id": "word:小时候",
+    "ok": false,
+    "issues": [
+      "Pinyin: 候 es tono neutro, como indica la propia palabra (hou5). En los ejemplos aparece «hòu»; debe ser «xiǎo shí hou»."
+    ],
+    "content_hash": "572049b67eabf91067b05836aac457e46c2bc288"
+  },
+  {
+    "id": "word:民间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c40b95aabffd900e822963d3bb4d5f2607fbea8a"
+  },
+  {
+    "id": "word:雪",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 es «de» en tono neutro, no «dé» («wán de», «xià de», «kāi de»)."
+    ],
+    "content_hash": "e452e1947ee133cf380ae0b18cbbd322fd5d9099"
+  },
+  {
+    "id": "word:碰到",
+    "ok": false,
+    "issues": [
+      "Pinyin: «téng dé» debe ser «téng de» (得 complemento en tono neutro)."
+    ],
+    "content_hash": "3c8c73fcfd81b66e59555fb655c84d1dcb53e419"
+  },
+  {
+    "id": "word:石油",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d41cf02a294cc540604ac946538bbe620262b57"
+  },
+  {
+    "id": "word:对面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "edcd18d1c324f6168d97ebdbfcb4f134f82af200"
+  },
+  {
+    "id": "word:从小",
+    "ok": false,
+    "issues": [
+      "Pinyin: «shuō dé» debe ser «shuō de» (得 complemento en tono neutro)."
+    ],
+    "content_hash": "cf4a667fb897d22493fd6e66556b5439532f1e5c"
+  },
+  {
+    "id": "word:卫生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c2b79d6071830629f12bac3ffd84236e7355166"
+  },
+  {
+    "id": "word:考生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "32bc8d6dbcb843373eddc5a51f932cb62f622ad0"
+  },
+  {
+    "id": "word:下面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "56f9c930bdf01976921c6cd0070868d0cc1324a8"
+  },
+  {
+    "id": "word:起飞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "03237fdc220ea31711320d4ef6ebd53ddd39c2e4"
+  },
+  {
+    "id": "word:信用卡",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 se pronuncia «shí hou» (候 en tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "afbb019dac6f50436558fae42ad8eb4f63b21e45"
+  },
+  {
+    "id": "word:出国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fd330b428e833835ea23dfde752c707e0083618a"
+  },
+  {
+    "id": "word:厂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e35283d99ba5be4f436e535437225ef9f737d30"
+  },
+  {
+    "id": "word:冬天",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 se pronuncia «shí hou» (候 en tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "f3fd151e4d5ca3d82719d615b03139b3c242cb9a"
+  },
+  {
+    "id": "word:大概",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8cc582bede13d25d86f030b00ff60a4545575459"
+  },
+  {
+    "id": "word:教室",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b55858b764c15b0312f84e996f3903042fc023c4"
+  },
+  {
+    "id": "word:读者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c63910b5340f04b8512a7a2dfbda09ec14b4002c"
+  },
+  {
+    "id": "word:平常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b8880ac5d48cca0f685b96592d1a2bf7a65dc0f"
+  },
+  {
+    "id": "word:费用",
+    "ok": false,
+    "issues": [
+      "Pinyin: «yī bù fèn» debería ser «yí bù fèn» (sandhi de 一 ante 4.º tono); los demás ejemplos sí aplican el sandhi."
+    ],
+    "content_hash": "cb0bd47e5797dcafc48d5102c660db26beb64c15"
+  }
+]

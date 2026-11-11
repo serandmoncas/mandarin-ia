@@ -1,0 +1,541 @@
+[
+  {
+    "word": "流行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar de moda",
+      "popular",
+      "propagarse (una enfermedad)"
+    ],
+    "examples": [
+      {
+        "zh": "这种衣服很流行。",
+        "es": "Esta ropa está muy de moda."
+      },
+      {
+        "zh": "现在流行什么音乐？",
+        "es": "¿Qué música está de moda ahora?"
+      },
+      {
+        "zh": "这个游戏在学生中很流行。",
+        "es": "Este juego es muy popular entre los estudiantes."
+      },
+      {
+        "zh": "去年这种病在很多地区流行。",
+        "es": "El año pasado esta enfermedad se propagó en muchas regiones."
+      }
+    ]
+  },
+  {
+    "word": "那时",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en ese entonces",
+      "en aquella época",
+      "en ese momento"
+    ],
+    "examples": [
+      {
+        "zh": "那时我很小。",
+        "es": "En ese entonces yo era muy pequeño."
+      },
+      {
+        "zh": "那时他还是学生。",
+        "es": "En aquella época él todavía era estudiante."
+      },
+      {
+        "zh": "那时我们没有手机，也没有电脑。",
+        "es": "En ese entonces no teníamos celular ni computadora."
+      },
+      {
+        "zh": "我十年前去过北京，那时那里还没有地铁。",
+        "es": "Fui a Beijing hace diez años; en ese entonces todavía no había metro allí."
+      }
+    ]
+  },
+  {
+    "word": "题",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pregunta (de examen)",
+      "problema, ejercicio",
+      "tema"
+    ],
+    "examples": [
+      {
+        "zh": "这道题很难。",
+        "es": "Este problema es muy difícil."
+      },
+      {
+        "zh": "这个题我不会做。",
+        "es": "No sé resolver este ejercicio."
+      },
+      {
+        "zh": "考试有十道题，我做对了八道。",
+        "es": "El examen tenía diez preguntas y contesté bien ocho."
+      },
+      {
+        "zh": "老师，这道题的意思我不太明白，你能再说一次吗？",
+        "es": "Maestro, no entiendo bien esta pregunta, ¿me la puede explicar otra vez?"
+      }
+    ]
+  },
+  {
+    "word": "旧",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "viejo",
+      "usado, gastado",
+      "antiguo, anterior"
+    ],
+    "examples": [
+      {
+        "zh": "这本书很旧。",
+        "es": "Este libro está muy viejo."
+      },
+      {
+        "zh": "他还住在那个旧房子里。",
+        "es": "Él todavía vive en esa casa vieja."
+      },
+      {
+        "zh": "我的手机太旧了，想买个新的。",
+        "es": "Mi celular está muy viejo; quiero comprar uno nuevo."
+      },
+      {
+        "zh": "新的东西不一定比旧的好。",
+        "es": "Lo nuevo no siempre es mejor que lo viejo."
+      }
+    ]
+  },
+  {
+    "word": "腿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pierna",
+      "pata"
+    ],
+    "examples": [
+      {
+        "zh": "他的腿很长。",
+        "es": "Él tiene las piernas muy largas."
+      },
+      {
+        "zh": "狗有四条腿。",
+        "es": "El perro tiene cuatro patas."
+      },
+      {
+        "zh": "走了很久，我的腿很累。",
+        "es": "Caminé mucho y tengo las piernas muy cansadas."
+      },
+      {
+        "zh": "走了一天的路，我的腿已经走不动了。",
+        "es": "Después de caminar todo el día, ya no puedo dar un paso más."
+      }
+    ]
+  },
+  {
+    "word": "快速",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rápido",
+      "veloz",
+      "a gran velocidad"
+    ],
+    "examples": [
+      {
+        "zh": "这是一种快速的方法。",
+        "es": "Este es un método rápido."
+      },
+      {
+        "zh": "他快速地看了一下这本书。",
+        "es": "Él le echó un vistazo rápido a este libro."
+      },
+      {
+        "zh": "我们需要快速解决这个问题。",
+        "es": "Necesitamos resolver este problema rápidamente."
+      },
+      {
+        "zh": "这几年中国的城市快速发展，变化非常大。",
+        "es": "En estos años las ciudades de China se han desarrollado rápidamente y han cambiado muchísimo."
+      }
+    ]
+  },
+  {
+    "word": "药",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "medicina",
+      "medicamento",
+      "sustancia química (para un uso específico)"
+    ],
+    "examples": [
+      {
+        "zh": "你吃药了吗？",
+        "es": "¿Ya te tomaste la medicina?"
+      },
+      {
+        "zh": "这种药很贵。",
+        "es": "Este medicamento es muy caro."
+      },
+      {
+        "zh": "医生说每天要吃两次药。",
+        "es": "El médico dijo que hay que tomar la medicina dos veces al día."
+      },
+      {
+        "zh": "生病了应该去看医生，别自己买药吃。",
+        "es": "Si te enfermas, deberías ir al médico; no compres medicinas por tu cuenta."
+      }
+    ]
+  },
+  {
+    "word": "男子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hombre",
+      "varón",
+      "masculino (en deportes)"
+    ],
+    "examples": [
+      {
+        "zh": "一名男子在门口等你。",
+        "es": "Un hombre te está esperando en la puerta."
+      },
+      {
+        "zh": "他参加了男子足球比赛。",
+        "es": "Él participó en el partido de fútbol masculino."
+      },
+      {
+        "zh": "警察说，那名男子已经离开了。",
+        "es": "La policía dijo que ese hombre ya se había ido."
+      },
+      {
+        "zh": "昨天下午一名年轻男子在银行门口被警察抓了。",
+        "es": "Ayer por la tarde la policía detuvo a un joven frente al banco."
+      }
+    ]
+  },
+  {
+    "word": "不满",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "insatisfecho, descontento",
+      "descontento, inconformidad",
+      "menos de (antes de un número)"
+    ],
+    "examples": [
+      {
+        "zh": "他对工作很不满。",
+        "es": "Él está muy descontento con su trabajo."
+      },
+      {
+        "zh": "我们对这个结果很不满。",
+        "es": "Estamos muy insatisfechos con este resultado."
+      },
+      {
+        "zh": "很多人对新的政策表示不满。",
+        "es": "Mucha gente expresó su inconformidad con la nueva política."
+      },
+      {
+        "zh": "他不满十八岁，所以不能开车。",
+        "es": "Él todavía no cumple dieciocho años, así que no puede manejar."
+      }
+    ]
+  },
+  {
+    "word": "特色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "característica",
+      "rasgo distintivo",
+      "especialidad, típico"
+    ],
+    "examples": [
+      {
+        "zh": "这是我们店的特色菜。",
+        "es": "Este es el platillo especial de nuestro restaurante."
+      },
+      {
+        "zh": "这个城市很有特色。",
+        "es": "Esta ciudad tiene un estilo muy propio."
+      },
+      {
+        "zh": "每个地方都有自己的特色。",
+        "es": "Cada lugar tiene sus propias características."
+      },
+      {
+        "zh": "我想去那里吃一些有当地特色的东西。",
+        "es": "Quiero ir allá a comer algo típico de la región."
+      }
+    ]
+  },
+  {
+    "word": "不如",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no ser tan bueno como",
+      "ser inferior a",
+      "mejor (sería)…, más vale…"
+    ],
+    "examples": [
+      {
+        "zh": "我不如他高。",
+        "es": "No soy tan alto como él."
+      },
+      {
+        "zh": "坐车不如走路快。",
+        "es": "Ir en carro no es tan rápido como caminar."
+      },
+      {
+        "zh": "今天太热了，不如明天去吧。",
+        "es": "Hoy hace demasiado calor; mejor vamos mañana."
+      },
+      {
+        "zh": "这家店的菜不如以前好吃了，我们换一家吧。",
+        "es": "La comida de este lugar ya no es tan rica como antes; vamos a otro."
+      }
+    ]
+  },
+  {
+    "word": "流",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fluir, correr (un líquido)",
+      "derramar, salir (sangre, lágrimas)",
+      "difundirse, circular",
+      "corriente"
+    ],
+    "examples": [
+      {
+        "zh": "河水向东流。",
+        "es": "El agua del río corre hacia el este."
+      },
+      {
+        "zh": "水从山上流下来。",
+        "es": "El agua baja de la montaña."
+      },
+      {
+        "zh": "他的手流血了，快送他去医院。",
+        "es": "Le está sangrando la mano; llévenlo rápido al hospital."
+      },
+      {
+        "zh": "时间过得很快，就像河水一样流走了。",
+        "es": "El tiempo pasa muy rápido; se va como el agua de un río."
+      }
+    ]
+  },
+  {
+    "word": "鸟",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pájaro",
+      "ave"
+    ],
+    "examples": [
+      {
+        "zh": "这只鸟很漂亮。",
+        "es": "Este pájaro es muy bonito."
+      },
+      {
+        "zh": "树上有一只鸟。",
+        "es": "Hay un pájaro en el árbol."
+      },
+      {
+        "zh": "早上我听见鸟在外边唱歌。",
+        "es": "En la mañana oí a los pájaros cantar afuera."
+      },
+      {
+        "zh": "我爷爷很喜欢鸟，每天早上都去公园看鸟。",
+        "es": "A mi abuelo le encantan los pájaros; todas las mañanas va al parque a verlos."
+      }
+    ]
+  },
+  {
+    "word": "下去",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bajar",
+      "seguir, continuar (tras un verbo)",
+      "retirarse"
+    ],
+    "examples": [
+      {
+        "zh": "请说下去。",
+        "es": "Por favor, sigue hablando."
+      },
+      {
+        "zh": "你先下去吧，我马上来。",
+        "es": "Baja tú primero, ya voy."
+      },
+      {
+        "zh": "他从楼上走下去了。",
+        "es": "Él bajó desde el piso de arriba."
+      },
+      {
+        "zh": "这个工作很难，但是我想坚持下去。",
+        "es": "Este trabajo es difícil, pero quiero seguir adelante."
+      }
+    ]
+  },
+  {
+    "word": "小心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener cuidado",
+      "¡cuidado!",
+      "cuidadoso"
+    ],
+    "examples": [
+      {
+        "zh": "路上小心。",
+        "es": "Cuídate en el camino."
+      },
+      {
+        "zh": "小心，车来了！",
+        "es": "¡Cuidado, viene un carro!"
+      },
+      {
+        "zh": "下雨天开车要小心。",
+        "es": "Hay que manejar con cuidado cuando llueve."
+      },
+      {
+        "zh": "他不小心把我的手机掉在地上了。",
+        "es": "Sin querer, se le cayó mi celular al piso."
+      }
+    ]
+  },
+  {
+    "word": "游客",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "turista",
+      "visitante",
+      "invitado (en juegos en línea)"
+    ],
+    "examples": [
+      {
+        "zh": "这里有很多游客。",
+        "es": "Aquí hay muchos turistas."
+      },
+      {
+        "zh": "游客们在门口买票。",
+        "es": "Los turistas compran sus boletos en la entrada."
+      },
+      {
+        "zh": "每年都有很多外国游客来北京旅游。",
+        "es": "Cada año muchos turistas extranjeros vienen a Beijing de viaje."
+      },
+      {
+        "zh": "这个地方很有名，所以周末的时候游客特别多。",
+        "es": "Este lugar es muy famoso, por eso los fines de semana hay muchísimos turistas."
+      }
+    ]
+  },
+  {
+    "word": "黑色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "negro",
+      "color negro"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢黑色。",
+        "es": "Me gusta el negro."
+      },
+      {
+        "zh": "他今天穿了黑色的衣服。",
+        "es": "Hoy él se puso ropa negra."
+      },
+      {
+        "zh": "那辆黑色的汽车是我爸爸的。",
+        "es": "Ese carro negro es de mi papá."
+      },
+      {
+        "zh": "这个黑色的书包很好看，但是价格有点贵。",
+        "es": "Esta mochila negra está muy bonita, pero está un poco cara."
+      }
+    ]
+  },
+  {
+    "word": "表演",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "presentación, espectáculo",
+      "actuar, presentar",
+      "actuación",
+      "demostrar"
+    ],
+    "examples": [
+      {
+        "zh": "他的表演很好。",
+        "es": "Su actuación fue muy buena."
+      },
+      {
+        "zh": "晚上我们去看表演吧。",
+        "es": "Vamos a ver un espectáculo en la noche."
+      },
+      {
+        "zh": "孩子们在学校表演了一个节目。",
+        "es": "Los niños presentaron un número en la escuela."
+      },
+      {
+        "zh": "这次表演很成功，大家都觉得他唱得非常好。",
+        "es": "La presentación fue un éxito; todos pensaron que él cantó muy bien."
+      }
+    ]
+  },
+  {
+    "word": "鸡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pollo",
+      "gallina",
+      "ave de corral"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃鸡肉。",
+        "es": "Me gusta comer pollo."
+      },
+      {
+        "zh": "奶奶家有很多鸡。",
+        "es": "En casa de mi abuela hay muchas gallinas."
+      },
+      {
+        "zh": "这只鸡每天都下一个蛋。",
+        "es": "Esta gallina pone un huevo todos los días."
+      },
+      {
+        "zh": "今天晚饭妈妈做了鸡，大家都说很好吃。",
+        "es": "Hoy mamá hizo pollo para la cena y todos dijeron que estaba muy rico."
+      }
+    ]
+  },
+  {
+    "word": "对方",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la otra persona",
+      "la otra parte",
+      "el contrario, el rival"
+    ],
+    "examples": [
+      {
+        "zh": "对方是谁？",
+        "es": "¿Quién es la otra persona?"
+      },
+      {
+        "zh": "我不认识对方。",
+        "es": "No conozco a la otra persona."
+      },
+      {
+        "zh": "打电话的时候，对方没有说话。",
+        "es": "Cuando llamé, la otra persona no dijo nada."
+      },
+      {
+        "zh": "两个人在一起，应该学会关心对方。",
+        "es": "Cuando dos personas están juntas, deben aprender a preocuparse por el otro."
+      }
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "word": "攻击",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "atacar",
+      "ataque",
+      "criticar duramente",
+      "acusar"
+    ],
+    "examples": [
+      {
+        "zh": "他们攻击了这个城市。",
+        "es": "Ellos atacaron esta ciudad."
+      },
+      {
+        "zh": "不要在网上攻击别人。",
+        "es": "No ataques a otras personas en internet."
+      },
+      {
+        "zh": "这次攻击造成很多人死亡。",
+        "es": "Este ataque causó la muerte de muchas personas."
+      },
+      {
+        "zh": "政府认为这是一次有组织的攻击。",
+        "es": "El gobierno cree que fue un ataque organizado."
+      }
+    ]
+  },
+  {
+    "word": "规模",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escala",
+      "magnitud",
+      "dimensión",
+      "tamaño"
+    ],
+    "examples": [
+      {
+        "zh": "这个公司的规模很大。",
+        "es": "Esta empresa es de gran escala."
+      },
+      {
+        "zh": "学校的规模比以前大了。",
+        "es": "La escuela ahora es más grande que antes."
+      },
+      {
+        "zh": "这次活动的规模超过了去年。",
+        "es": "La magnitud de este evento superó la del año pasado."
+      },
+      {
+        "zh": "政府决定减少这个项目的规模。",
+        "es": "El gobierno decidió reducir la escala de este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "部",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clasificador para películas, obras y aparatos",
+      "ministerio",
+      "departamento",
+      "parte, zona"
+    ],
+    "examples": [
+      {
+        "zh": "我看了一部电影。",
+        "es": "Vi una película."
+      },
+      {
+        "zh": "他在教育部工作。",
+        "es": "Él trabaja en el Ministerio de Educación."
+      },
+      {
+        "zh": "这部手机是我爸爸送的。",
+        "es": "Este celular me lo regaló mi papá."
+      },
+      {
+        "zh": "这个国家的北部比南部冷。",
+        "es": "El norte de este país es más frío que el sur."
+      }
+    ]
+  },
+  {
+    "word": "采取",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adoptar (medidas)",
+      "tomar (una decisión, acción)",
+      "aplicar"
+    ],
+    "examples": [
+      {
+        "zh": "我们要采取行动。",
+        "es": "Tenemos que tomar acción."
+      },
+      {
+        "zh": "政府采取了新的政策。",
+        "es": "El gobierno adoptó una nueva política."
+      },
+      {
+        "zh": "学校采取了很多办法保护学生。",
+        "es": "La escuela tomó muchas medidas para proteger a los estudiantes."
+      },
+      {
+        "zh": "公司必须马上采取行动解决这个问题。",
+        "es": "La empresa debe actuar de inmediato para resolver este problema."
+      }
+    ]
+  },
+  {
+    "word": "动物",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "animal"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢动物。",
+        "es": "Me gustan los animales."
+      },
+      {
+        "zh": "这是什么动物？",
+        "es": "¿Qué animal es este?"
+      },
+      {
+        "zh": "狗是我最喜欢的动物。",
+        "es": "El perro es mi animal favorito."
+      },
+      {
+        "zh": "我们应该保护这些动物的生活环境。",
+        "es": "Debemos proteger el hábitat de estos animales."
+      }
+    ]
+  },
+  {
+    "word": "反应",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "reacción",
+      "reaccionar",
+      "respuesta",
+      "responder"
+    ],
+    "examples": [
+      {
+        "zh": "他没有反应。",
+        "es": "Él no reaccionó."
+      },
+      {
+        "zh": "你的反应太快了！",
+        "es": "¡Reaccionas muy rápido!"
+      },
+      {
+        "zh": "大家对这个消息的反应不同。",
+        "es": "Cada quien reaccionó de forma distinta a esta noticia."
+      },
+      {
+        "zh": "政府对这次事件的反应让很多人很生气。",
+        "es": "La reacción del gobierno ante este incidente enojó a mucha gente."
+      }
+    ]
+  },
+  {
+    "word": "黄",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "amarillo",
+      "pornográfico (coloquial)",
+      "fracasar, venirse abajo (coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "她穿着黄衣服。",
+        "es": "Ella lleva ropa amarilla."
+      },
+      {
+        "zh": "树上的花都是黄的。",
+        "es": "Las flores del árbol son todas amarillas."
+      },
+      {
+        "zh": "这个水果黄了就可以吃。",
+        "es": "Esta fruta se puede comer cuando se pone amarilla."
+      },
+      {
+        "zh": "我们的合作计划最后还是黄了。",
+        "es": "Al final, nuestro plan de colaboración se vino abajo."
+      }
+    ]
+  },
+  {
+    "word": "积极",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "activo",
+      "positivo (actitud)",
+      "entusiasta",
+      "proactivo"
+    ],
+    "examples": [
+      {
+        "zh": "他很积极。",
+        "es": "Él es muy proactivo."
+      },
+      {
+        "zh": "学生们积极参加活动。",
+        "es": "Los estudiantes participan activamente en las actividades."
+      },
+      {
+        "zh": "她总是很积极地帮助别人。",
+        "es": "Ella siempre ayuda a los demás con mucho entusiasmo."
+      },
+      {
+        "zh": "政府应该采取更积极的政策支持小企业。",
+        "es": "El gobierno debería adoptar políticas más activas para apoyar a las pequeñas empresas."
+      }
+    ]
+  },
+  {
+    "word": "交易",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "transacción",
+      "trato, negocio",
+      "comerciar",
+      "negociar"
+    ],
+    "examples": [
+      {
+        "zh": "我们做个交易吧。",
+        "es": "Hagamos un trato."
+      },
+      {
+        "zh": "他们在网上交易。",
+        "es": "Ellos hacen sus transacciones en internet."
+      },
+      {
+        "zh": "这次交易的价格太高了。",
+        "es": "El precio de esta transacción es demasiado alto."
+      },
+      {
+        "zh": "因为价格问题，两家公司的交易最后没有成功。",
+        "es": "Por un problema de precio, el trato entre las dos empresas al final no se concretó."
+      }
+    ]
+  },
+  {
+    "word": "经常",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a menudo",
+      "con frecuencia",
+      "habitual",
+      "cotidiano"
+    ],
+    "examples": [
+      {
+        "zh": "我经常喝茶。",
+        "es": "Tomo té a menudo."
+      },
+      {
+        "zh": "她经常忘记带钱包。",
+        "es": "Ella seguido se olvida de llevar la cartera."
+      },
+      {
+        "zh": "他经常去图书馆读书。",
+        "es": "Él va con frecuencia a la biblioteca a leer."
+      },
+      {
+        "zh": "如果你经常运动，身体会更健康。",
+        "es": "Si haces ejercicio con frecuencia, tu cuerpo estará más sano."
+      }
+    ]
+  },
+  {
+    "word": "经营",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "administrar",
+      "dirigir (un negocio)",
+      "operar",
+      "manejar"
+    ],
+    "examples": [
+      {
+        "zh": "他经营一家饭店。",
+        "es": "Él administra un restaurante."
+      },
+      {
+        "zh": "这家商店经营得很好。",
+        "es": "Esta tienda está muy bien administrada."
+      },
+      {
+        "zh": "她和哥哥一起经营一家公司。",
+        "es": "Ella dirige una empresa junto con su hermano mayor."
+      },
+      {
+        "zh": "因为经营不好，这家公司去年关门了。",
+        "es": "Por mala administración, esta empresa cerró el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "绝对",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "absolutamente",
+      "totalmente",
+      "absoluto",
+      "sin duda"
+    ],
+    "examples": [
+      {
+        "zh": "我绝对不去。",
+        "es": "Definitivamente no voy a ir."
+      },
+      {
+        "zh": "这绝对是真的。",
+        "es": "Esto es absolutamente cierto."
+      },
+      {
+        "zh": "你绝对不能告诉别人。",
+        "es": "Por nada del mundo se lo cuentes a nadie."
+      },
+      {
+        "zh": "世界上没有绝对安全的地方。",
+        "es": "No hay ningún lugar absolutamente seguro en el mundo."
+      }
+    ]
+  },
+  {
+    "word": "那样",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "así, de esa manera",
+      "ese tipo de",
+      "como ese"
+    ],
+    "examples": [
+      {
+        "zh": "别那样说话。",
+        "es": "No hables así."
+      },
+      {
+        "zh": "我也想要那样的衣服。",
+        "es": "Yo también quiero ropa como esa."
+      },
+      {
+        "zh": "他不是你想的那样。",
+        "es": "Él no es como tú piensas."
+      },
+      {
+        "zh": "如果你那样做，妈妈一定会生气的。",
+        "es": "Si haces eso, mamá seguro se va a enojar."
+      }
+    ]
+  },
+  {
+    "word": "清楚",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "claro",
+      "con claridad",
+      "saber bien",
+      "tener claro"
+    ],
+    "examples": [
+      {
+        "zh": "请说清楚一点。",
+        "es": "Por favor, dilo más claro."
+      },
+      {
+        "zh": "我听不清楚。",
+        "es": "No oigo bien."
+      },
+      {
+        "zh": "我不清楚他住在哪里。",
+        "es": "No sé bien dónde vive."
+      },
+      {
+        "zh": "老师把这个问题解释得很清楚。",
+        "es": "El maestro explicó este problema con mucha claridad."
+      }
+    ]
+  },
+  {
+    "word": "仍然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todavía",
+      "aún",
+      "seguir (igual que antes)"
+    ],
+    "examples": [
+      {
+        "zh": "他仍然很忙。",
+        "es": "Él todavía está muy ocupado."
+      },
+      {
+        "zh": "我仍然记得那天的事情。",
+        "es": "Todavía recuerdo lo que pasó ese día."
+      },
+      {
+        "zh": "虽然下雨了，比赛仍然继续。",
+        "es": "Aunque empezó a llover, el partido siguió."
+      },
+      {
+        "zh": "虽然他已经八十岁了，但仍然每天运动。",
+        "es": "Aunque ya tiene ochenta años, todavía hace ejercicio todos los días."
+      }
+    ]
+  },
+  {
+    "word": "思想",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pensamiento",
+      "ideas",
+      "forma de pensar",
+      "ideología"
+    ],
+    "examples": [
+      {
+        "zh": "每个人都有自己的思想。",
+        "es": "Cada persona tiene sus propias ideas."
+      },
+      {
+        "zh": "我爷爷的思想比较传统。",
+        "es": "Mi abuelo tiene una forma de pensar bastante tradicional."
+      },
+      {
+        "zh": "我们应该了解不同的思想和文化。",
+        "es": "Debemos conocer distintas ideas y culturas."
+      },
+      {
+        "zh": "这本书对很多人的思想产生了重要影响。",
+        "es": "Este libro influyó mucho en la forma de pensar de muchas personas."
+      }
+    ]
+  },
+  {
+    "word": "只能",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "solo poder",
+      "no tener más remedio que",
+      "verse obligado a"
+    ],
+    "examples": [
+      {
+        "zh": "我只能等。",
+        "es": "Solo puedo esperar."
+      },
+      {
+        "zh": "没有车，我们只能走路。",
+        "es": "No hay carro, así que no nos queda más que caminar."
+      },
+      {
+        "zh": "下雨了，孩子们只能在家里玩。",
+        "es": "Está lloviendo, así que los niños solo pueden jugar en casa."
+      },
+      {
+        "zh": "因为飞机票太贵，我们只能坐火车去北京。",
+        "es": "Como los boletos de avión son muy caros, no nos queda más que ir a Beijing en tren."
+      }
+    ]
+  },
+  {
+    "word": "届",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "edición (de un evento)",
+      "clasificador para eventos, reuniones y elecciones",
+      "generación (de egresados)",
+      "periodo"
+    ],
+    "examples": [
+      {
+        "zh": "这是第一届比赛。",
+        "es": "Esta es la primera edición del concurso."
+      },
+      {
+        "zh": "我们是同一届的学生。",
+        "es": "Somos de la misma generación."
+      },
+      {
+        "zh": "下一届总统选举在明年。",
+        "es": "Las próximas elecciones presidenciales son el año que viene."
+      },
+      {
+        "zh": "第二十届会议将在北京举行。",
+        "es": "La vigésima reunión se celebrará en Beijing."
+      }
+    ]
+  },
+  {
+    "word": "承认",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "admitir",
+      "reconocer",
+      "aceptar (un error)"
+    ],
+    "examples": [
+      {
+        "zh": "我承认你说得对。",
+        "es": "Admito que tienes razón."
+      },
+      {
+        "zh": "他承认了自己的错误。",
+        "es": "Él admitió su error."
+      },
+      {
+        "zh": "他一直不承认是他拿了钱。",
+        "es": "Él siguió sin admitir que fue él quien tomó el dinero."
+      },
+      {
+        "zh": "很多国家还没有承认这个新政府。",
+        "es": "Muchos países todavía no han reconocido a este nuevo gobierno."
+      }
+    ]
+  },
+  {
+    "word": "担心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "preocuparse",
+      "preocupado",
+      "inquieto"
+    ],
+    "examples": [
+      {
+        "zh": "别担心！",
+        "es": "¡No te preocupes!"
+      },
+      {
+        "zh": "妈妈很担心我。",
+        "es": "Mi mamá está muy preocupada por mí."
+      },
+      {
+        "zh": "我担心明天会下雨。",
+        "es": "Me preocupa que mañana llueva."
+      },
+      {
+        "zh": "他的病越来越严重，家人都很担心。",
+        "es": "Su enfermedad está cada vez más grave y toda su familia está muy preocupada."
+      }
+    ]
+  }
+]

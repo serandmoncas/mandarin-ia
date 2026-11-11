@@ -1,0 +1,539 @@
+[
+  {
+    "word": "总结",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "resumir",
+      "concluir",
+      "resumen",
+      "balance"
+    ],
+    "examples": [
+      {
+        "zh": "我们来总结一下。",
+        "es": "Hagamos un resumen."
+      },
+      {
+        "zh": "请你总结今天的课。",
+        "es": "Por favor, resume la clase de hoy."
+      },
+      {
+        "zh": "老师让我们写一个总结。",
+        "es": "El maestro nos pidió escribir un resumen."
+      },
+      {
+        "zh": "会议最后，经理总结了这一年的工作。",
+        "es": "Al final de la reunión, el gerente hizo un balance del trabajo de este año."
+      }
+    ]
+  },
+  {
+    "word": "流利",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fluido",
+      "con fluidez"
+    ],
+    "examples": [
+      {
+        "zh": "她的中文很流利。",
+        "es": "Su chino es muy fluido."
+      },
+      {
+        "zh": "他说英语说得很流利。",
+        "es": "Él habla inglés con mucha fluidez."
+      },
+      {
+        "zh": "我希望明年能说流利的汉语。",
+        "es": "Espero poder hablar chino con fluidez el próximo año."
+      },
+      {
+        "zh": "他在中国住了三年，现在汉语说得非常流利。",
+        "es": "Vivió tres años en China y ahora habla chino con mucha fluidez."
+      }
+    ]
+  },
+  {
+    "word": "排球",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "voleibol",
+      "pelota de voleibol"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢打排球。",
+        "es": "Me gusta jugar voleibol."
+      },
+      {
+        "zh": "我们学校有排球队。",
+        "es": "Nuestra escuela tiene un equipo de voleibol."
+      },
+      {
+        "zh": "下午我们去体育馆打排球吧。",
+        "es": "En la tarde vamos al gimnasio a jugar voleibol."
+      },
+      {
+        "zh": "中国女子排球队在比赛中赢了日本队。",
+        "es": "El equipo femenino de voleibol de China le ganó a Japón en el partido."
+      }
+    ]
+  },
+  {
+    "word": "请客",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "invitar (a comer)",
+      "pagar la cuenta por otros",
+      "ofrecer una comida a invitados"
+    ],
+    "examples": [
+      {
+        "zh": "今天我请客。",
+        "es": "Hoy invito yo."
+      },
+      {
+        "zh": "谢谢你请客！",
+        "es": "¡Gracias por invitar!"
+      },
+      {
+        "zh": "上次你请客，这次该我请客了。",
+        "es": "La vez pasada invitaste tú; esta vez me toca a mí."
+      },
+      {
+        "zh": "为了感谢大家的帮助，他明天晚上要请客。",
+        "es": "Para agradecer la ayuda de todos, mañana en la noche va a invitar a cenar."
+      }
+    ]
+  },
+  {
+    "word": "小声",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en voz baja",
+      "susurrando"
+    ],
+    "examples": [
+      {
+        "zh": "请小声一点。",
+        "es": "Por favor, habla más bajo."
+      },
+      {
+        "zh": "他们在小声说话。",
+        "es": "Están hablando en voz baja."
+      },
+      {
+        "zh": "图书馆里大家都小声说话。",
+        "es": "En la biblioteca todos hablan en voz baja."
+      },
+      {
+        "zh": "孩子正在睡觉，我们说话要小声一点。",
+        "es": "El niño está durmiendo; tenemos que hablar más bajo."
+      }
+    ]
+  },
+  {
+    "word": "乐",
+    "cedict_reading_index": 3,
+    "meanings_es": [
+      "reírse",
+      "alegre",
+      "contento",
+      "alegrarse"
+    ],
+    "examples": [
+      {
+        "zh": "他乐了。",
+        "es": "Él se rio."
+      },
+      {
+        "zh": "你乐什么呢？",
+        "es": "¿De qué te ríes?"
+      },
+      {
+        "zh": "听了这个笑话，大家都乐了。",
+        "es": "Al oír el chiste, todos se rieron."
+      },
+      {
+        "zh": "他一听说明天放假，就乐得说不出话来。",
+        "es": "En cuanto supo que mañana no hay clases, se puso tan contento que no podía ni hablar."
+      }
+    ]
+  },
+  {
+    "word": "音节",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sílaba"
+    ],
+    "examples": [
+      {
+        "zh": "这个字有一个音节。",
+        "es": "Este carácter tiene una sílaba."
+      },
+      {
+        "zh": "“妈妈”有两个音节。",
+        "es": "“Māma” tiene dos sílabas."
+      },
+      {
+        "zh": "汉语的每个字都是一个音节。",
+        "es": "En chino, cada carácter es una sílaba."
+      },
+      {
+        "zh": "学习普通话时，要注意每个音节怎么读。",
+        "es": "Al estudiar mandarín, hay que fijarse en cómo se pronuncia cada sílaba."
+      }
+    ]
+  },
+  {
+    "word": "骑车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "andar en bicicleta",
+      "manejar una moto",
+      "ir en bici"
+    ],
+    "examples": [
+      {
+        "zh": "我每天骑车上班。",
+        "es": "Todos los días voy al trabajo en bicicleta."
+      },
+      {
+        "zh": "骑车很方便。",
+        "es": "Andar en bicicleta es muy práctico."
+      },
+      {
+        "zh": "他喜欢周末骑车去公园。",
+        "es": "Los fines de semana le gusta ir al parque en bicicleta."
+      },
+      {
+        "zh": "下雨的时候骑车不安全，你还是坐公交车吧。",
+        "es": "Andar en bici cuando llueve no es seguro; mejor toma el autobús."
+      }
+    ]
+  },
+  {
+    "word": "预计",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prever",
+      "calcular",
+      "estimar",
+      "pronosticar"
+    ],
+    "examples": [
+      {
+        "zh": "飞机预计下午三点到。",
+        "es": "Se prevé que el avión llegue a las tres de la tarde."
+      },
+      {
+        "zh": "预计明天会下雨。",
+        "es": "Se pronostica lluvia para mañana."
+      },
+      {
+        "zh": "这个项目预计明年完成。",
+        "es": "Se estima que este proyecto se termine el próximo año."
+      },
+      {
+        "zh": "专家预计今年的经济增长会比去年慢。",
+        "es": "Los expertos prevén que el crecimiento económico de este año será más lento que el del año pasado."
+      }
+    ]
+  },
+  {
+    "word": "大衣",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abrigo",
+      "sobretodo"
+    ],
+    "examples": [
+      {
+        "zh": "这件大衣很贵。",
+        "es": "Este abrigo es muy caro."
+      },
+      {
+        "zh": "外边很冷，穿上大衣吧。",
+        "es": "Afuera hace mucho frío; ponte el abrigo."
+      },
+      {
+        "zh": "我妈妈给我买了一件新大衣。",
+        "es": "Mi mamá me compró un abrigo nuevo."
+      },
+      {
+        "zh": "冬天到了，商店里的大衣都卖得很好。",
+        "es": "Llegó el invierno y los abrigos de las tiendas se están vendiendo muy bien."
+      }
+    ]
+  },
+  {
+    "word": "周围",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alrededor",
+      "los alrededores",
+      "el entorno"
+    ],
+    "examples": [
+      {
+        "zh": "我家周围有很多商店。",
+        "es": "Alrededor de mi casa hay muchas tiendas."
+      },
+      {
+        "zh": "他看了看周围。",
+        "es": "Él miró a su alrededor."
+      },
+      {
+        "zh": "学校周围的环境很好。",
+        "es": "El entorno de la escuela es muy bueno."
+      },
+      {
+        "zh": "你要多关心周围的人，他们也会关心你。",
+        "es": "Preocúpate más por la gente que te rodea, y ellos también se preocuparán por ti."
+      }
+    ]
+  },
+  {
+    "word": "画儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dibujo",
+      "cuadro",
+      "pintura"
+    ],
+    "examples": [
+      {
+        "zh": "这张画儿真好看。",
+        "es": "Este dibujo es muy bonito."
+      },
+      {
+        "zh": "我女儿喜欢画画儿。",
+        "es": "A mi hija le gusta dibujar."
+      },
+      {
+        "zh": "墙上挂着一张画儿。",
+        "es": "En la pared hay un cuadro colgado."
+      },
+      {
+        "zh": "这是一位有名的画家送给我的画儿。",
+        "es": "Este es un cuadro que me regaló un pintor famoso."
+      }
+    ]
+  },
+  {
+    "word": "转变",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cambiar",
+      "transformar",
+      "cambio",
+      "transformación"
+    ],
+    "examples": [
+      {
+        "zh": "他的态度转变了。",
+        "es": "Su actitud cambió."
+      },
+      {
+        "zh": "这是一个很大的转变。",
+        "es": "Este es un cambio muy grande."
+      },
+      {
+        "zh": "我们需要转变工作方式。",
+        "es": "Necesitamos cambiar nuestra forma de trabajar."
+      },
+      {
+        "zh": "来到中国以后，她的想法有了很大的转变。",
+        "es": "Después de llegar a China, su manera de pensar cambió mucho."
+      }
+    ]
+  },
+  {
+    "word": "筷子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "palillos (para comer)"
+    ],
+    "examples": [
+      {
+        "zh": "我会用筷子。",
+        "es": "Sé usar palillos."
+      },
+      {
+        "zh": "请给我一双筷子。",
+        "es": "Por favor, deme un par de palillos."
+      },
+      {
+        "zh": "中国人吃饭的时候用筷子。",
+        "es": "Los chinos usan palillos para comer."
+      },
+      {
+        "zh": "他在中国住了半年，现在用筷子用得很好。",
+        "es": "Vivió medio año en China y ahora usa muy bien los palillos."
+      }
+    ]
+  },
+  {
+    "word": "传说",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "leyenda",
+      "cuento popular",
+      "se dice que",
+      "según cuentan"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个中国传说。",
+        "es": "Esta es una leyenda china."
+      },
+      {
+        "zh": "我听过这个传说。",
+        "es": "Ya escuché esta leyenda."
+      },
+      {
+        "zh": "传说这里以前有一条龙。",
+        "es": "Cuentan que antes aquí vivía un dragón."
+      },
+      {
+        "zh": "根据传说，很久以前这座山上住着一位神。",
+        "es": "Según la leyenda, hace mucho tiempo en esta montaña vivía un dios."
+      }
+    ]
+  },
+  {
+    "word": "坏处",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desventaja",
+      "perjuicio",
+      "daño"
+    ],
+    "examples": [
+      {
+        "zh": "这样做有什么坏处？",
+        "es": "¿Qué tiene de malo hacerlo así?"
+      },
+      {
+        "zh": "每件事都有好处和坏处。",
+        "es": "Todo tiene sus ventajas y desventajas."
+      },
+      {
+        "zh": "睡觉太少对身体有坏处。",
+        "es": "Dormir muy poco es perjudicial para la salud."
+      },
+      {
+        "zh": "上网有很多好处，但是玩游戏太多也有坏处。",
+        "es": "Usar internet tiene muchas ventajas, pero jugar demasiados videojuegos también hace daño."
+      }
+    ]
+  },
+  {
+    "word": "千克",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "kilogramo",
+      "kilo"
+    ],
+    "examples": [
+      {
+        "zh": "这些苹果两千克。",
+        "es": "Estas manzanas pesan dos kilos."
+      },
+      {
+        "zh": "我现在六十千克。",
+        "es": "Ahora peso sesenta kilos."
+      },
+      {
+        "zh": "一千克等于两斤。",
+        "es": "Un kilogramo equivale a dos jin."
+      },
+      {
+        "zh": "坐飞机的时候，每个人只能带二十千克的东西。",
+        "es": "Al viajar en avión, cada persona solo puede llevar veinte kilos de equipaje."
+      }
+    ]
+  },
+  {
+    "word": "看起来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parecer",
+      "verse",
+      "al parecer",
+      "dar la impresión de"
+    ],
+    "examples": [
+      {
+        "zh": "你看起来很累。",
+        "es": "Te ves muy cansado."
+      },
+      {
+        "zh": "这个菜看起来很好吃。",
+        "es": "Este platillo se ve muy rico."
+      },
+      {
+        "zh": "他看起来像一个老师。",
+        "es": "Él parece maestro."
+      },
+      {
+        "zh": "这个问题看起来很简单，其实非常难解决。",
+        "es": "Este problema parece muy sencillo, pero en realidad es muy difícil de resolver."
+      }
+    ]
+  },
+  {
+    "word": "关机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "apagar (un aparato)",
+      "estar apagado (el celular)",
+      "terminar el rodaje (de una película)"
+    ],
+    "examples": [
+      {
+        "zh": "请关机。",
+        "es": "Por favor, apaguen sus aparatos."
+      },
+      {
+        "zh": "我的手机关机了。",
+        "es": "Mi celular está apagado."
+      },
+      {
+        "zh": "上课的时候请把手机关机。",
+        "es": "Durante la clase, por favor apaguen el celular."
+      },
+      {
+        "zh": "我给他打了好几次电话，可是他一直关机。",
+        "es": "Lo llamé varias veces, pero tenía el celular apagado todo el tiempo."
+      }
+    ]
+  },
+  {
+    "word": "快餐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comida rápida",
+      "comida ligera",
+      "bocadillo"
+    ],
+    "examples": [
+      {
+        "zh": "我不喜欢吃快餐。",
+        "es": "No me gusta comer comida rápida."
+      },
+      {
+        "zh": "我们中午吃快餐吧。",
+        "es": "Al mediodía comamos algo rápido."
+      },
+      {
+        "zh": "这家快餐店很便宜。",
+        "es": "Este restaurante de comida rápida es muy barato."
+      },
+      {
+        "zh": "快餐虽然方便，但是经常吃对身体不好。",
+        "es": "Aunque la comida rápida es práctica, comerla seguido hace mal a la salud."
+      }
+    ]
+  }
+]

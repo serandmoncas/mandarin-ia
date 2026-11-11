@@ -1,0 +1,537 @@
+[
+  {
+    "word": "东部",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el este (de una región)",
+      "parte oriental",
+      "zona este"
+    ],
+    "examples": [
+      {
+        "zh": "中国东部有很多城市。",
+        "es": "En el este de China hay muchas ciudades."
+      },
+      {
+        "zh": "我家在城市的东部。",
+        "es": "Mi casa está en el este de la ciudad."
+      },
+      {
+        "zh": "美国东部今天下雨了。",
+        "es": "Hoy llovió en el este de Estados Unidos."
+      },
+      {
+        "zh": "东部地区的经济发展得非常快。",
+        "es": "La economía de la región este se ha desarrollado muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "费",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "costo, tarifa",
+      "gastar, consumir",
+      "gastos",
+      "derrochador"
+    ],
+    "examples": [
+      {
+        "zh": "学费太贵了。",
+        "es": "La colegiatura es demasiado cara."
+      },
+      {
+        "zh": "这个月的电费很高。",
+        "es": "La cuenta de luz de este mes es muy alta."
+      },
+      {
+        "zh": "做这件事很费时间。",
+        "es": "Hacer esto lleva mucho tiempo."
+      },
+      {
+        "zh": "他费了很多时间才找到那家饭店。",
+        "es": "Le tomó mucho tiempo encontrar ese restaurante."
+      }
+    ]
+  },
+  {
+    "word": "晴",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "despejado",
+      "soleado (el clima)"
+    ],
+    "examples": [
+      {
+        "zh": "今天是晴天。",
+        "es": "Hoy está despejado."
+      },
+      {
+        "zh": "明天会晴吗？",
+        "es": "¿Mañana estará despejado?"
+      },
+      {
+        "zh": "下了一天雨，晚上终于晴了。",
+        "es": "Llovió todo el día y en la noche por fin se despejó."
+      },
+      {
+        "zh": "天气晴的时候，我们常常去公园走路。",
+        "es": "Cuando hace buen tiempo, solemos ir a caminar al parque."
+      }
+    ]
+  },
+  {
+    "word": "工资",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sueldo, salario",
+      "paga"
+    ],
+    "examples": [
+      {
+        "zh": "他的工资很高。",
+        "es": "Su sueldo es muy alto."
+      },
+      {
+        "zh": "你一个月工资多少？",
+        "es": "¿Cuánto ganas al mes?"
+      },
+      {
+        "zh": "公司下个月给我们加工资。",
+        "es": "La empresa nos va a subir el sueldo el próximo mes."
+      },
+      {
+        "zh": "虽然工资不高，但是我很喜欢这个工作。",
+        "es": "Aunque el sueldo no es alto, me gusta mucho este trabajo."
+      }
+    ]
+  },
+  {
+    "word": "开机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "encender (un aparato)",
+      "arrancar (una computadora)",
+      "empezar a filmar (una película o serie)"
+    ],
+    "examples": [
+      {
+        "zh": "请把手机开机。",
+        "es": "Por favor, enciende el celular."
+      },
+      {
+        "zh": "电脑开机要多长时间？",
+        "es": "¿Cuánto tarda en encender la computadora?"
+      },
+      {
+        "zh": "我的电脑早上开机很慢。",
+        "es": "En las mañanas mi computadora tarda mucho en encender."
+      },
+      {
+        "zh": "手机开机以后，我马上给妈妈打了电话。",
+        "es": "Después de encender el celular, llamé de inmediato a mi mamá."
+      }
+    ]
+  },
+  {
+    "word": "合理",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "razonable",
+      "lógico, sensato",
+      "justo"
+    ],
+    "examples": [
+      {
+        "zh": "这个价格很合理。",
+        "es": "Este precio es muy razonable."
+      },
+      {
+        "zh": "你的想法很合理。",
+        "es": "Tu idea es muy lógica."
+      },
+      {
+        "zh": "我们要合理使用时间。",
+        "es": "Debemos usar el tiempo de forma razonable."
+      },
+      {
+        "zh": "他的要求不太合理，所以公司没有同意。",
+        "es": "Su petición no era muy razonable, así que la empresa no la aceptó."
+      }
+    ]
+  },
+  {
+    "word": "开学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "empezar las clases",
+      "inicio del ciclo escolar"
+    ],
+    "examples": [
+      {
+        "zh": "明天开学。",
+        "es": "Mañana empiezan las clases."
+      },
+      {
+        "zh": "你们什么时候开学？",
+        "es": "¿Cuándo empiezan ustedes las clases?"
+      },
+      {
+        "zh": "开学以后我会很忙。",
+        "es": "Cuando empiecen las clases, tendré mucho que hacer."
+      },
+      {
+        "zh": "开学第一天，老师让我们介绍自己。",
+        "es": "El primer día de clases, el maestro nos pidió que nos presentáramos."
+      }
+    ]
+  },
+  {
+    "word": "及时",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a tiempo",
+      "oportuno",
+      "sin demora, de inmediato"
+    ],
+    "examples": [
+      {
+        "zh": "谢谢你及时帮我。",
+        "es": "Gracias por ayudarme a tiempo."
+      },
+      {
+        "zh": "他及时来到了医院。",
+        "es": "Llegó al hospital a tiempo."
+      },
+      {
+        "zh": "有问题要及时告诉老师。",
+        "es": "Si tienes algún problema, avísale al maestro de inmediato."
+      },
+      {
+        "zh": "因为医生来得很及时，病人的情况好多了。",
+        "es": "Como el médico llegó a tiempo, el paciente está mucho mejor."
+      }
+    ]
+  },
+  {
+    "word": "挺好",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bastante bien",
+      "muy bien"
+    ],
+    "examples": [
+      {
+        "zh": "我挺好的。",
+        "es": "Estoy bastante bien."
+      },
+      {
+        "zh": "这个办法挺好。",
+        "es": "Este método está muy bien."
+      },
+      {
+        "zh": "你的中文说得挺好。",
+        "es": "Hablas chino bastante bien."
+      },
+      {
+        "zh": "我觉得在这家公司工作挺好的。",
+        "es": "Creo que trabajar en esta empresa está bastante bien."
+      }
+    ]
+  },
+  {
+    "word": "点头",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "asentir con la cabeza",
+      "dar el visto bueno"
+    ],
+    "examples": [
+      {
+        "zh": "他点头了。",
+        "es": "Él asintió con la cabeza."
+      },
+      {
+        "zh": "老师笑着点头。",
+        "es": "El maestro asintió sonriendo."
+      },
+      {
+        "zh": "我问她去不去，她点头说好。",
+        "es": "Le pregunté si iba a ir, y ella asintió y dijo que sí."
+      },
+      {
+        "zh": "只要爸爸点头，我们就可以去旅行。",
+        "es": "Con que papá dé el visto bueno, podemos irnos de viaje."
+      }
+    ]
+  },
+  {
+    "word": "老朋友",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "viejo amigo",
+      "amigo de toda la vida",
+      "(coloquial) la regla, la menstruación"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的老朋友。",
+        "es": "Él es un viejo amigo mío."
+      },
+      {
+        "zh": "我们是十年的老朋友了。",
+        "es": "Somos amigos desde hace diez años."
+      },
+      {
+        "zh": "今天我在路上见到了一个老朋友。",
+        "es": "Hoy me encontré con un viejo amigo en la calle."
+      },
+      {
+        "zh": "老朋友见面，大家都很高兴，说了很多话。",
+        "es": "Al reencontrarse los viejos amigos, todos se pusieron muy contentos y conversaron mucho."
+      }
+    ]
+  },
+  {
+    "word": "银行卡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tarjeta bancaria",
+      "tarjeta de débito"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的银行卡。",
+        "es": "Esta es mi tarjeta bancaria."
+      },
+      {
+        "zh": "我的银行卡不见了。",
+        "es": "No encuentro mi tarjeta bancaria."
+      },
+      {
+        "zh": "可以用银行卡买票吗？",
+        "es": "¿Se puede comprar el boleto con tarjeta bancaria?"
+      },
+      {
+        "zh": "公司每个月把工资打到我的银行卡里。",
+        "es": "La empresa me deposita el sueldo en mi tarjeta bancaria cada mes."
+      }
+    ]
+  },
+  {
+    "word": "生词",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "palabra nueva",
+      "vocabulario nuevo (de una lección)",
+      "palabra desconocida"
+    ],
+    "examples": [
+      {
+        "zh": "这课有很多生词。",
+        "es": "Esta lección tiene muchas palabras nuevas."
+      },
+      {
+        "zh": "我每天学十个生词。",
+        "es": "Aprendo diez palabras nuevas cada día."
+      },
+      {
+        "zh": "老师让我们记住这些生词。",
+        "es": "El maestro nos pidió memorizar estas palabras nuevas."
+      },
+      {
+        "zh": "读课文以前，最好先把生词学一下。",
+        "es": "Antes de leer el texto, es mejor estudiar primero las palabras nuevas."
+      }
+    ]
+  },
+  {
+    "word": "生存",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sobrevivir",
+      "existir",
+      "supervivencia"
+    ],
+    "examples": [
+      {
+        "zh": "人没有水不能生存。",
+        "es": "Las personas no pueden sobrevivir sin agua."
+      },
+      {
+        "zh": "动物需要食物才能生存。",
+        "es": "Los animales necesitan comida para sobrevivir."
+      },
+      {
+        "zh": "这些鱼只能在冷水里生存。",
+        "es": "Estos peces solo pueden sobrevivir en agua fría."
+      },
+      {
+        "zh": "在大城市里生存，人们的压力越来越大。",
+        "es": "Para sobrevivir en una gran ciudad, la gente tiene cada vez más presión."
+      }
+    ]
+  },
+  {
+    "word": "室",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "cuarto, habitación",
+      "sala",
+      "oficina, departamento (de una institución)"
+    ],
+    "examples": [
+      {
+        "zh": "他在教室里。",
+        "es": "Él está en el salón de clases."
+      },
+      {
+        "zh": "这是我们的会议室。",
+        "es": "Esta es nuestra sala de reuniones."
+      },
+      {
+        "zh": "老师现在在办公室。",
+        "es": "El maestro está ahora en la oficina."
+      },
+      {
+        "zh": "我住的房子是两室一厅，离公司很近。",
+        "es": "El departamento donde vivo tiene dos habitaciones y una sala, y está cerca de la oficina."
+      }
+    ]
+  },
+  {
+    "word": "出院",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salir del hospital",
+      "ser dado de alta"
+    ],
+    "examples": [
+      {
+        "zh": "他明天出院。",
+        "es": "Mañana le dan de alta."
+      },
+      {
+        "zh": "妈妈已经出院了。",
+        "es": "Mamá ya salió del hospital."
+      },
+      {
+        "zh": "医生说我下个星期可以出院。",
+        "es": "El médico dijo que la próxima semana podré salir del hospital."
+      },
+      {
+        "zh": "爷爷出院以后，身体一天比一天好。",
+        "es": "Desde que salió del hospital, el abuelo está mejor cada día."
+      }
+    ]
+  },
+  {
+    "word": "要是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "si (condicional)",
+      "en caso de que"
+    ],
+    "examples": [
+      {
+        "zh": "要是下雨，我就不去了。",
+        "es": "Si llueve, ya no voy."
+      },
+      {
+        "zh": "要是你累了，就休息一下吧。",
+        "es": "Si ya te cansaste, descansa un poco."
+      },
+      {
+        "zh": "要是有问题，请给我打电话。",
+        "es": "Si tienes algún problema, llámame, por favor."
+      },
+      {
+        "zh": "要是我早点知道，我就会去机场接你了。",
+        "es": "Si lo hubiera sabido antes, habría ido a recogerte al aeropuerto."
+      }
+    ]
+  },
+  {
+    "word": "班长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jefe de grupo (en la escuela)",
+      "delegado de clase",
+      "líder de equipo",
+      "jefe de escuadra (en el ejército)"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们的班长。",
+        "es": "Él es nuestro jefe de grupo."
+      },
+      {
+        "zh": "班长，老师找你。",
+        "es": "Jefe de grupo, el maestro te está buscando."
+      },
+      {
+        "zh": "大家都选她当班长。",
+        "es": "Todos la eligieron como jefa de grupo."
+      },
+      {
+        "zh": "班长每天早上都比别的同学来得早。",
+        "es": "El jefe de grupo llega todas las mañanas más temprano que los demás compañeros."
+      }
+    ]
+  },
+  {
+    "word": "办理",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tramitar",
+      "hacer (un trámite)",
+      "gestionar",
+      "encargarse de"
+    ],
+    "examples": [
+      {
+        "zh": "我要办理护照。",
+        "es": "Necesito tramitar mi pasaporte."
+      },
+      {
+        "zh": "这件事我来办理。",
+        "es": "Yo me encargo de este asunto."
+      },
+      {
+        "zh": "我明天去银行办理一张银行卡。",
+        "es": "Mañana voy al banco a sacar una tarjeta bancaria."
+      },
+      {
+        "zh": "在这个城市，很多事情都可以在网上办理。",
+        "es": "En esta ciudad, muchos trámites se pueden hacer en línea."
+      }
+    ]
+  },
+  {
+    "word": "有点儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un poco",
+      "algo",
+      "medio (coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "我有点儿饿。",
+        "es": "Tengo un poco de hambre."
+      },
+      {
+        "zh": "今天有点儿冷。",
+        "es": "Hoy hace un poco de frío."
+      },
+      {
+        "zh": "这件衣服有点儿贵。",
+        "es": "Esta prenda es un poco cara."
+      },
+      {
+        "zh": "他说的话我有点儿不明白，你能再说一次吗？",
+        "es": "No entendí muy bien lo que dijo, ¿puedes repetirlo?"
+      }
+    ]
+  }
+]

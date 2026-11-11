@@ -1,0 +1,543 @@
+[
+  {
+    "word": "飞行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "volar",
+      "vuelo"
+    ],
+    "examples": [
+      {
+        "zh": "他喜欢飞行。",
+        "es": "A él le gusta volar."
+      },
+      {
+        "zh": "这次飞行要三个小时。",
+        "es": "Este vuelo dura tres horas."
+      },
+      {
+        "zh": "我第一次坐飞机飞行的时候很害怕。",
+        "es": "La primera vez que volé en avión tenía mucho miedo."
+      },
+      {
+        "zh": "鸟可以飞行很远，因为它们的身体很轻。",
+        "es": "Los pájaros pueden volar muy lejos porque su cuerpo es muy ligero."
+      }
+    ]
+  },
+  {
+    "word": "话题",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tema (de conversación)",
+      "asunto"
+    ],
+    "examples": [
+      {
+        "zh": "这个话题很有意思。",
+        "es": "Este tema es muy interesante."
+      },
+      {
+        "zh": "我们换一个话题吧。",
+        "es": "Cambiemos de tema."
+      },
+      {
+        "zh": "他不喜欢谈这个话题。",
+        "es": "No le gusta hablar de este tema."
+      },
+      {
+        "zh": "老师让我们用中文讨论一个话题。",
+        "es": "El maestro nos pidió discutir un tema en chino."
+      }
+    ]
+  },
+  {
+    "word": "亲",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "propio, de sangre",
+      "besar",
+      "pariente",
+      "en persona"
+    ],
+    "examples": [
+      {
+        "zh": "她亲了孩子一下。",
+        "es": "Le dio un beso al niño."
+      },
+      {
+        "zh": "他是我亲哥哥。",
+        "es": "Él es mi hermano de sangre."
+      },
+      {
+        "zh": "这是我亲手做的饭。",
+        "es": "Esta es comida que preparé con mis propias manos."
+      },
+      {
+        "zh": "亲，这件衣服今天很便宜哦！",
+        "es": "¡Querido cliente, esta ropa está muy barata hoy!"
+      }
+    ]
+  },
+  {
+    "word": "信任",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "confiar",
+      "confianza"
+    ],
+    "examples": [
+      {
+        "zh": "我信任你。",
+        "es": "Confío en ti."
+      },
+      {
+        "zh": "他是一个可以信任的人。",
+        "es": "Es una persona de confianza."
+      },
+      {
+        "zh": "朋友之间需要互相信任。",
+        "es": "Entre amigos hace falta confianza mutua."
+      },
+      {
+        "zh": "因为他说了很多次假话，大家不再信任他了。",
+        "es": "Como mintió muchas veces, ya nadie confía en él."
+      }
+    ]
+  },
+  {
+    "word": "选手",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "atleta",
+      "jugador",
+      "competidor",
+      "concursante"
+    ],
+    "examples": [
+      {
+        "zh": "他是足球选手。",
+        "es": "Él es jugador de fútbol."
+      },
+      {
+        "zh": "这位选手跑得很快。",
+        "es": "Este atleta corre muy rápido."
+      },
+      {
+        "zh": "比赛有一百多名选手参加。",
+        "es": "Más de cien competidores participan en la competencia."
+      },
+      {
+        "zh": "那个年轻选手第一次参加国际比赛就赢了。",
+        "es": "Ese joven competidor ganó en su primera competencia internacional."
+      }
+    ]
+  },
+  {
+    "word": "必然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "inevitable",
+      "necesariamente",
+      "necesidad"
+    ],
+    "examples": [
+      {
+        "zh": "这是必然的。",
+        "es": "Esto es inevitable."
+      },
+      {
+        "zh": "失败不是必然的。",
+        "es": "El fracaso no es inevitable."
+      },
+      {
+        "zh": "不努力的话，必然会失败。",
+        "es": "Si no te esfuerzas, inevitablemente vas a fracasar."
+      },
+      {
+        "zh": "社会发展必然会带来很多新的问题。",
+        "es": "El desarrollo social inevitablemente trae muchos problemas nuevos."
+      }
+    ]
+  },
+  {
+    "word": "电台",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estación de radio",
+      "emisora",
+      "radiotransmisor"
+    ],
+    "examples": [
+      {
+        "zh": "他在电台工作。",
+        "es": "Él trabaja en una estación de radio."
+      },
+      {
+        "zh": "我喜欢听这个电台。",
+        "es": "Me gusta escuchar esta emisora."
+      },
+      {
+        "zh": "电台每天早上都有新闻。",
+        "es": "La emisora tiene noticias todas las mañanas."
+      },
+      {
+        "zh": "这个电台的音乐节目在年轻人中非常流行。",
+        "es": "El programa de música de esta emisora es muy popular entre los jóvenes."
+      }
+    ]
+  },
+  {
+    "word": "分配",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "repartir",
+      "asignar",
+      "distribuir"
+    ],
+    "examples": [
+      {
+        "zh": "钱怎么分配？",
+        "es": "¿Cómo se reparte el dinero?"
+      },
+      {
+        "zh": "老师给我们分配了任务。",
+        "es": "El maestro nos asignó tareas."
+      },
+      {
+        "zh": "公司把新的工作分配给他。",
+        "es": "La empresa le asignó el nuevo trabajo."
+      },
+      {
+        "zh": "我们要把时间分配好，才能完成这个项目。",
+        "es": "Tenemos que distribuir bien el tiempo para poder terminar este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "各自",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cada uno",
+      "respectivo"
+    ],
+    "examples": [
+      {
+        "zh": "大家各自回家了。",
+        "es": "Cada quien se fue a su casa."
+      },
+      {
+        "zh": "我们各自买票吧。",
+        "es": "Que cada uno compre su boleto."
+      },
+      {
+        "zh": "他们各自有不同的想法。",
+        "es": "Cada uno de ellos tiene ideas diferentes."
+      },
+      {
+        "zh": "会议结束以后，大家回到各自的办公室继续工作。",
+        "es": "Después de la reunión, todos regresaron a sus respectivas oficinas a seguir trabajando."
+      }
+    ]
+  },
+  {
+    "word": "姑娘",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muchacha",
+      "chica",
+      "joven",
+      "hija"
+    ],
+    "examples": [
+      {
+        "zh": "这个姑娘很漂亮。",
+        "es": "Esta muchacha es muy bonita."
+      },
+      {
+        "zh": "那位姑娘是谁？",
+        "es": "¿Quién es esa joven?"
+      },
+      {
+        "zh": "他家的小姑娘今年五岁了。",
+        "es": "La niña de su casa cumplió cinco años este año."
+      },
+      {
+        "zh": "那个穿红衣服的姑娘是我妹妹的同学。",
+        "es": "La muchacha vestida de rojo es compañera de clase de mi hermana menor."
+      }
+    ]
+  },
+  {
+    "word": "观看",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ver (un espectáculo)",
+      "mirar",
+      "observar"
+    ],
+    "examples": [
+      {
+        "zh": "欢迎观看比赛。",
+        "es": "Bienvenidos a ver la competencia."
+      },
+      {
+        "zh": "很多人来观看演出。",
+        "es": "Mucha gente vino a ver la función."
+      },
+      {
+        "zh": "你可以在网上免费观看这部电影。",
+        "es": "Puedes ver esta película gratis en internet."
+      },
+      {
+        "zh": "今天晚上有几万名观众在体育场观看足球比赛。",
+        "es": "Esta noche decenas de miles de espectadores ven el partido de fútbol en el estadio."
+      }
+    ]
+  },
+  {
+    "word": "纪录",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "récord, marca",
+      "registro"
+    ],
+    "examples": [
+      {
+        "zh": "他打破了纪录。",
+        "es": "Él rompió el récord."
+      },
+      {
+        "zh": "这是一个新的世界纪录。",
+        "es": "Este es un nuevo récord mundial."
+      },
+      {
+        "zh": "这个纪录已经保持了十年。",
+        "es": "Este récord se ha mantenido durante diez años."
+      },
+      {
+        "zh": "那个大学生在比赛中创造了新的全国纪录。",
+        "es": "Ese universitario estableció un nuevo récord nacional en la competencia."
+      }
+    ]
+  },
+  {
+    "word": "前面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adelante",
+      "enfrente",
+      "anterior",
+      "arriba (en un texto)"
+    ],
+    "examples": [
+      {
+        "zh": "请坐在前面。",
+        "es": "Por favor, siéntese adelante."
+      },
+      {
+        "zh": "前面有一个商店。",
+        "es": "Más adelante hay una tienda."
+      },
+      {
+        "zh": "前面说的话你都明白了吗？",
+        "es": "¿Entendiste todo lo que se dijo antes?"
+      },
+      {
+        "zh": "从这里一直走，银行就在前面路口的左边。",
+        "es": "Siga derecho desde aquí; el banco está a la izquierda en el cruce de adelante."
+      }
+    ]
+  },
+  {
+    "word": "上升",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "subir",
+      "ascender",
+      "aumentar"
+    ],
+    "examples": [
+      {
+        "zh": "气温上升了。",
+        "es": "La temperatura subió."
+      },
+      {
+        "zh": "飞机开始上升。",
+        "es": "El avión empezó a ascender."
+      },
+      {
+        "zh": "今年的价格上升得很快。",
+        "es": "Este año los precios subieron muy rápido."
+      },
+      {
+        "zh": "最近几年，这个城市的人口一直在上升。",
+        "es": "En los últimos años, la población de esta ciudad no ha dejado de aumentar."
+      }
+    ]
+  },
+  {
+    "word": "谈话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conversar",
+      "hablar (con alguien)",
+      "conversación",
+      "plática"
+    ],
+    "examples": [
+      {
+        "zh": "他们在谈话。",
+        "es": "Ellos están conversando."
+      },
+      {
+        "zh": "这次谈话很重要。",
+        "es": "Esta conversación es muy importante."
+      },
+      {
+        "zh": "老师下午要跟你谈话。",
+        "es": "El maestro quiere hablar contigo en la tarde."
+      },
+      {
+        "zh": "经过这次谈话，我更了解他的想法了。",
+        "es": "Después de esta conversación, entiendo mejor lo que piensa."
+      }
+    ]
+  },
+  {
+    "word": "自从",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desde (que)",
+      "a partir de"
+    ],
+    "examples": [
+      {
+        "zh": "自从那天，他就不来了。",
+        "es": "Desde ese día, ya no ha venido."
+      },
+      {
+        "zh": "自从上大学，我很少回家。",
+        "es": "Desde que entré a la universidad, casi no voy a casa."
+      },
+      {
+        "zh": "自从有了手机，大家都不写信了。",
+        "es": "Desde que existen los celulares, ya nadie escribe cartas."
+      },
+      {
+        "zh": "自从他开始每天运动，身体越来越好了。",
+        "es": "Desde que empezó a hacer ejercicio todos los días, su salud está cada vez mejor."
+      }
+    ]
+  },
+  {
+    "word": "保留",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conservar",
+      "mantener",
+      "reservar(se)",
+      "tener reservas"
+    ],
+    "examples": [
+      {
+        "zh": "请保留你的车票。",
+        "es": "Por favor, conserve su boleto."
+      },
+      {
+        "zh": "这个城市保留了很多老房子。",
+        "es": "Esta ciudad ha conservado muchas casas antiguas."
+      },
+      {
+        "zh": "对这个计划，我保留自己的意见。",
+        "es": "Sobre este plan, me reservo mi opinión."
+      },
+      {
+        "zh": "这个地方的人们一直保留着过新年的传统。",
+        "es": "La gente de este lugar siempre ha conservado sus tradiciones de Año Nuevo."
+      }
+    ]
+  },
+  {
+    "word": "表面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "superficie",
+      "apariencia",
+      "exterior"
+    ],
+    "examples": [
+      {
+        "zh": "桌子表面很干净。",
+        "es": "La superficie de la mesa está muy limpia."
+      },
+      {
+        "zh": "他表面上很高兴。",
+        "es": "Por fuera parece muy contento."
+      },
+      {
+        "zh": "地球表面大部分是水。",
+        "es": "La mayor parte de la superficie de la Tierra es agua."
+      },
+      {
+        "zh": "不要只看表面，要了解问题的真正原因。",
+        "es": "No te quedes solo con las apariencias; hay que entender la verdadera causa del problema."
+      }
+    ]
+  },
+  {
+    "word": "不必",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no hace falta",
+      "no es necesario",
+      "no necesariamente"
+    ],
+    "examples": [
+      {
+        "zh": "你不必来了。",
+        "es": "Ya no hace falta que vengas."
+      },
+      {
+        "zh": "不必客气。",
+        "es": "No es necesario ser tan formal."
+      },
+      {
+        "zh": "这件事你不必担心。",
+        "es": "No tienes que preocuparte por esto."
+      },
+      {
+        "zh": "明天放假，你不必早上六点起床。",
+        "es": "Mañana es día libre, no tienes que levantarte a las seis de la mañana."
+      }
+    ]
+  },
+  {
+    "word": "坚决",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "firme",
+      "decidido",
+      "resuelto",
+      "con firmeza"
+    ],
+    "examples": [
+      {
+        "zh": "他很坚决。",
+        "es": "Él es muy decidido."
+      },
+      {
+        "zh": "我坚决反对这个计划。",
+        "es": "Me opongo firmemente a este plan."
+      },
+      {
+        "zh": "她的态度非常坚决。",
+        "es": "Su actitud es muy firme."
+      },
+      {
+        "zh": "政府表示会坚决保护这个地区的环境。",
+        "es": "El gobierno dijo que protegerá con firmeza el medio ambiente de esta región."
+      }
+    ]
+  }
+]

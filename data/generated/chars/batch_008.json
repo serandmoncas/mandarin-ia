@@ -1,0 +1,402 @@
+[
+  {
+    "char": "路",
+    "components": [
+      {
+        "char": "足",
+        "meaning_es": "pie"
+      },
+      {
+        "char": "各",
+        "meaning_es": "cada uno"
+      }
+    ],
+    "mnemonic_es": "Cada uno pone su pie en el camino: así se forma una ruta."
+  },
+  {
+    "char": "希",
+    "components": [
+      {
+        "char": "乂",
+        "meaning_es": "cruce, tejido"
+      },
+      {
+        "char": "布",
+        "meaning_es": "tela"
+      }
+    ],
+    "mnemonic_es": "Imagina que tejes una tela rarísima y esperas con ilusión que quede perfecta: 希 es raro y esperanza."
+  },
+  {
+    "char": "望",
+    "components": [
+      {
+        "char": "亡",
+        "meaning_es": "perderse, desaparecer"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna"
+      },
+      {
+        "char": "王",
+        "meaning_es": "rey"
+      }
+    ],
+    "mnemonic_es": "Un rey que perdió su reino mira la luna a lo lejos y espera volver: 望 es mirar a lo lejos y esperar."
+  },
+  {
+    "char": "告",
+    "components": [
+      {
+        "char": "⺧",
+        "meaning_es": "vaca (forma reducida de 牛)"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Imagina una vaca que abre la boca para avisarle algo a todo el pueblo: 告 es informar."
+  },
+  {
+    "char": "诉",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "斥",
+        "meaning_es": "reprender, rechazar"
+      }
+    ],
+    "mnemonic_es": "Usas palabras para quejarte y reclamar lo que te molesta: 诉 es contar, denunciar; en 告诉, decirle algo a alguien."
+  },
+  {
+    "char": "求",
+    "components": [
+      {
+        "char": "求",
+        "meaning_es": "pedir, buscar"
+      }
+    ],
+    "mnemonic_es": "Míralo como una persona con los brazos abiertos y gotas cayendo a los lados, suplicando: 求 es pedir."
+  },
+  {
+    "char": "拿",
+    "components": [
+      {
+        "char": "合",
+        "meaning_es": "juntar, cerrar"
+      },
+      {
+        "char": "手",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Juntas la mano sobre un objeto y lo cierras con fuerza: 拿 es tomar o agarrar."
+  },
+  {
+    "char": "提",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "是",
+        "meaning_es": "ser, correcto"
+      }
+    ],
+    "mnemonic_es": "Levantas la mano cuando tienes la respuesta correcta: 提 es levantar y también mencionar o plantear."
+  },
+  {
+    "char": "供",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "共",
+        "meaning_es": "juntos, en común"
+      }
+    ],
+    "mnemonic_es": "Una persona que pone sus cosas en común para todos: 供 es proveer, ofrecer."
+  },
+  {
+    "char": "手",
+    "components": [
+      {
+        "char": "手",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Míralo como una mano abierta: los trazos horizontales son los dedos y el vertical, la muñeca."
+  },
+  {
+    "char": "机",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "madera, árbol"
+      },
+      {
+        "char": "几",
+        "meaning_es": "mesita"
+      }
+    ],
+    "mnemonic_es": "Sobre una mesita de madera armas tu primera máquina: 机 es máquina u oportunidad (como en 手机, celular)."
+  },
+  {
+    "char": "至",
+    "components": [
+      {
+        "char": "至",
+        "meaning_es": "llegar, hasta"
+      }
+    ],
+    "mnemonic_es": "Imagina una flecha que cae del cielo y se clava en el suelo: llegó a su destino. 至 es llegar o hasta."
+  },
+  {
+    "char": "先",
+    "components": [
+      {
+        "char": "⺧",
+        "meaning_es": "vaca (forma reducida)"
+      },
+      {
+        "char": "儿",
+        "meaning_es": "piernas, persona caminando"
+      }
+    ],
+    "mnemonic_es": "Una vaca con piernas largas siempre camina al frente del rebaño: 先 es primero, antes."
+  },
+  {
+    "char": "二",
+    "components": [
+      {
+        "char": "二",
+        "meaning_es": "dos"
+      }
+    ],
+    "mnemonic_es": "Dos rayas, dos cosas: 二 es el número dos."
+  },
+  {
+    "char": "男",
+    "components": [
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Quien usa su fuerza para trabajar el campo: 男 es hombre, varón."
+  },
+  {
+    "char": "万",
+    "components": [
+      {
+        "char": "万",
+        "meaning_es": "diez mil"
+      }
+    ],
+    "mnemonic_es": "Imagina un techo largo con un gancho colgando del que cuelgan diez mil monedas: 万 es diez mil."
+  },
+  {
+    "char": "住",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "主",
+        "meaning_es": "dueño, principal"
+      }
+    ],
+    "mnemonic_es": "La persona que es dueña de la casa es la que vive ahí: 住 es vivir, residir."
+  },
+  {
+    "char": "像",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "象",
+        "meaning_es": "elefante"
+      }
+    ],
+    "mnemonic_es": "Una persona disfrazada se parece a un elefante: 像 es parecerse, imagen."
+  },
+  {
+    "char": "关",
+    "components": [
+      {
+        "char": "丷",
+        "meaning_es": "dos puntos, cuernitos"
+      },
+      {
+        "char": "天",
+        "meaning_es": "cielo"
+      }
+    ],
+    "mnemonic_es": "Dos cerrojos sobre la puerta del cielo: alguien la cierra. 关 es cerrar y también relación (关系)."
+  },
+  {
+    "char": "系",
+    "components": [
+      {
+        "char": "丿",
+        "meaning_es": "trazo inclinado"
+      },
+      {
+        "char": "糸",
+        "meaning_es": "hilo de seda"
+      }
+    ],
+    "mnemonic_es": "Un hilo que cuelga y ata una cosa con otra: 系 es sistema, vínculo (como en 关系, relación)."
+  },
+  {
+    "char": "别",
+    "components": [
+      {
+        "char": "另",
+        "meaning_es": "otro, aparte"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Con un cuchillo separas una parte y la pones aparte: 别 es separar, otro, y también ¡no lo hagas!"
+  },
+  {
+    "char": "回",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "recinto grande"
+      },
+      {
+        "char": "口",
+        "meaning_es": "recinto pequeño"
+      }
+    ],
+    "mnemonic_es": "Un cuadro dentro de otro, como un remolino que siempre vuelve al centro: 回 es regresar, volver."
+  },
+  {
+    "char": "书",
+    "components": [
+      {
+        "char": "书",
+        "meaning_es": "libro"
+      }
+    ],
+    "mnemonic_es": "Imagina un libro abierto con un marcapáginas (el punto) asomando: 书 es libro."
+  },
+  {
+    "char": "送",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "关",
+        "meaning_es": "cerrar, paso fronterizo"
+      }
+    ],
+    "mnemonic_es": "Caminas con alguien hasta el paso de la frontera para despedirlo: 送 es acompañar, enviar o regalar."
+  },
+  {
+    "char": "研",
+    "components": [
+      {
+        "char": "石",
+        "meaning_es": "piedra"
+      },
+      {
+        "char": "开",
+        "meaning_es": "abrir"
+      }
+    ],
+    "mnemonic_es": "Partes y abres una piedra para ver qué tiene adentro: 研 es moler, investigar a fondo."
+  },
+  {
+    "char": "究",
+    "components": [
+      {
+        "char": "穴",
+        "meaning_es": "cueva, agujero"
+      },
+      {
+        "char": "九",
+        "meaning_es": "nueve"
+      }
+    ],
+    "mnemonic_es": "Exploras una cueva nueve veces hasta llegar al fondo: 究 es investigar hasta el final (研究, investigación)."
+  },
+  {
+    "char": "医",
+    "components": [
+      {
+        "char": "匚",
+        "meaning_es": "caja, contenedor"
+      },
+      {
+        "char": "矢",
+        "meaning_es": "flecha"
+      }
+    ],
+    "mnemonic_es": "Un médico guarda en su caja la flecha que le sacó a un herido: 医 es medicina, médico."
+  },
+  {
+    "char": "院",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina, muro"
+      },
+      {
+        "char": "完",
+        "meaning_es": "completo, terminar"
+      }
+    ],
+    "mnemonic_es": "Un terreno rodeado por un muro completo: 院 es patio o institución (como 医院, hospital)."
+  },
+  {
+    "char": "根",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      },
+      {
+        "char": "艮",
+        "meaning_es": "firme, terco"
+      }
+    ],
+    "mnemonic_es": "Lo que mantiene firme a un árbol son sus raíces: 根 es raíz, base."
+  },
+  {
+    "char": "据",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "居",
+        "meaning_es": "residir, ocupar"
+      }
+    ],
+    "mnemonic_es": "Te apoyas con la mano en algo que está bien asentado: 据 es basarse en (根据, según)."
+  }
+]

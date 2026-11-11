@@ -1,0 +1,164 @@
+[
+  {
+    "id": "word:阅读",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0c4fab8429b8ecfa2e1880347e3181e9285f0a9"
+  },
+  {
+    "id": "word:办",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ccaa1c00312a07cbb30e3e9c458dde88839ef95b"
+  },
+  {
+    "id": "word:感到",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 有点儿 aparece como «yǒu diǎn ér»; la erización se escribe «yǒu diǎnr», no como sílaba «ér» aparte."
+    ],
+    "content_hash": "086e04f9daab03db0eee7da3dc05091d525a28ef"
+  },
+  {
+    "id": "word:公民",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81ee2f46b50fa2f0415532f8d0b4253ce5312109"
+  },
+  {
+    "id": "word:理解",
+    "ok": true,
+    "issues": [],
+    "content_hash": "287403192602196a57b0cc7dd0c6086a699d3959"
+  },
+  {
+    "id": "word:任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7fec4245743fd014d6032b8c31a4bd915f3a97ea"
+  },
+  {
+    "id": "word:实行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f46674ae1891652122336236bc7a2d7353dae17"
+  },
+  {
+    "id": "word:事实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de5f370d0af7aa01b169fb44c83ba026b49409d1"
+  },
+  {
+    "id": "word:谈",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «nuestro hijo» añade información que no está en el chino (孩子 no indica de quién es); mejor «los estudios del niño» o «de mi hijo»."
+    ],
+    "content_hash": "229bfb2846029aa8ca047df0e8137d5b903e73c8"
+  },
+  {
+    "id": "word:现代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f88f0e9b80f868d890587804ee99ba12a6c5be55"
+  },
+  {
+    "id": "word:小说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "afd0e220ded3c3e287953d47fb2ac64f44a2c09b"
+  },
+  {
+    "id": "word:愿意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb27990ceccfc05e8be7340538598d71870dc2ee"
+  },
+  {
+    "id": "word:责任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b116b764cf51a671852df36621e7466a0101b41"
+  },
+  {
+    "id": "word:张",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0fa385155cce02679454efc3078a08aa4c70e716"
+  },
+  {
+    "id": "word:长期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "659ea4674f8dc4f82cb3919cb03bbab4464865d6"
+  },
+  {
+    "id": "word:抓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "790d32d2114099444c7af564052a888790fb1f47"
+  },
+  {
+    "id": "word:转",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 好玩儿 aparece como «hǎo wán ér»; debe ser «hǎo wánr»."
+    ],
+    "content_hash": "7981317f5e8a367bcb0206dff6087ab0cf97c8b5"
+  },
+  {
+    "id": "word:有没有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f61febb6f2eb25f0f32e112a6857ea5851dc4429"
+  },
+  {
+    "id": "word:来源",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a1705ede877edd470bd5ce6f01298b31f0a0f673"
+  },
+  {
+    "id": "word:行业",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: en 发展得非常快, 得 es la partícula estructural y se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "643f74da6ed269de108162b307175db9796b0bd3"
+  },
+  {
+    "id": "word:保持",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «保持每天读书» suena poco natural; lo habitual es «坚持每天读书» o «保持每天读书的习惯»."
+    ],
+    "content_hash": "e013ef511f8cb63dd9c531a12b10d569e7bdc418"
+  },
+  {
+    "id": "word:报道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2c96860c57431d3fe8e020847a4c5e6ef78da38"
+  },
+  {
+    "id": "word:错误",
+    "ok": true,
+    "issues": [],
+    "content_hash": "250cde8b5ac115d2f4596f73434f4dfd2a693970"
+  },
+  {
+    "id": "word:狗",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 只 como clasificador es «zhī», no «zhǐ» (aparece «nà zhǐ xiǎo gǒu»)."
+    ],
+    "content_hash": "81e82ca52fd871d24e3962fce71206eb63b73c04"
+  },
+  {
+    "id": "word:黑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "edbd379e0504b2ec42111b54b9bd438fb910e400"
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:预报",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb5e253bee411cdca22b701ef92bbf5c28db08a7"
+  },
+  {
+    "id": "word:认得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ee1a9d627c86f0ed3b15ea6395119891cd47b652"
+  },
+  {
+    "id": "word:话剧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c91bed5cc91c057f5f832668a5c62f52c98a6b7c"
+  },
+  {
+    "id": "word:收听",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97e810114ac532278a6ad5586bb0b7463c64a5ee"
+  },
+  {
+    "id": "word:服务员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7fdc0527cce3f2bb80d48070a086725177fbdc45"
+  },
+  {
+    "id": "word:请教",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb255803071b2cc8b1739e833c5ba53cfd04d262"
+  },
+  {
+    "id": "word:散步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4826757815d2400d60b6a97e80ea597f5a3bda5"
+  },
+  {
+    "id": "word:房租",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb8a8f5bed45d1f8027659b0eaf6c3aa46cbec7b"
+  },
+  {
+    "id": "word:功课",
+    "ok": true,
+    "issues": [],
+    "content_hash": "399793406d67ee6f7e5e0d9d3f18300cd00959c1"
+  },
+  {
+    "id": "word:景色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d6bb7286ba7e36bd32f02b2a7036678f07a384e"
+  },
+  {
+    "id": "word:木头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd9c6ca580b743174a5074c8fb1a743e60b0f3e6"
+  },
+  {
+    "id": "word:上衣",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e7b4796fbfac174c45ee7b0e611b49aee333419"
+  },
+  {
+    "id": "word:握手",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b824e15330416a565017d3dac537abd0f9a41fe6"
+  },
+  {
+    "id": "word:分组",
+    "ok": true,
+    "issues": [],
+    "content_hash": "acc9f7f71177736043e1da99fe5a57c15422d585"
+  },
+  {
+    "id": "word:认出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "308b3eacd7035f9e3fa201ee7267325cf04a7bb0"
+  },
+  {
+    "id": "word:班级",
+    "ok": false,
+    "issues": [
+      "En los ejemplos 3 y 4, «我们班级最高的学生» y «我们班级的同学» suenan forzados; un hablante nativo diría «我们班». «班级» se usa más en registro formal o colectivo, por ejemplo «班级活动»."
+    ],
+    "content_hash": "06d04f4183d64a249eeda5eb1707591b591906bb"
+  },
+  {
+    "id": "word:不光",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7967f75d3705f06afc7a91da67632c973e881168"
+  },
+  {
+    "id": "word:房东",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, «他没有回答» no es lo natural para decir que alguien no contestó el teléfono; lo correcto es «他没接（电话）»."
+    ],
+    "content_hash": "db1903abdafbfd41413389148b035a913c30a4bb"
+  },
+  {
+    "id": "word:信封",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20b4932469cf4af8e7da990c940e621a67fcca3a"
+  },
+  {
+    "id": "word:干吗",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2, el pinyin «gān ma» es incorrecto; debe ser «gàn má», como en los demás ejemplos."
+    ],
+    "content_hash": "71c5a9d1ec4af3f29da3274620f717dee7eeb3f1"
+  },
+  {
+    "id": "word:歌迷",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4939f034962d4d25e9df8ad614ee1928c0eedc3f"
+  },
+  {
+    "id": "word:电子邮件",
+    "ok": false,
+    "issues": [
+      "En los cuatro ejemplos, el pinyin de 电子 está mal: es «diàn zǐ» (tercer tono), no «diàn zi» con tono neutro."
+    ],
+    "content_hash": "6747ea1587b126a854218848c05ffe42bfea3bdc"
+  },
+  {
+    "id": "word:跑步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "56e8d45c8bdc4663bc9675501cedbf3c960d41cd"
+  },
+  {
+    "id": "word:巧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b08597296308ec57143f338cda3d2ec7e2ad134e"
+  },
+  {
+    "id": "word:国庆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0fe1873e15b6eaf5b42afb36feff3a3301317aa"
+  }
+]

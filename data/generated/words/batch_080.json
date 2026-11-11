@@ -1,0 +1,543 @@
+[
+  {
+    "word": "满足",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "satisfacer",
+      "cumplir con (necesidades, requisitos)",
+      "satisfecho",
+      "contento"
+    ],
+    "examples": [
+      {
+        "zh": "我很满足。",
+        "es": "Estoy muy contento."
+      },
+      {
+        "zh": "他对现在的生活很满足。",
+        "es": "Él está satisfecho con su vida actual."
+      },
+      {
+        "zh": "这个计划不能满足大家的需要。",
+        "es": "Este plan no puede satisfacer las necesidades de todos."
+      },
+      {
+        "zh": "公司必须满足用户的要求，才能得到更多支持。",
+        "es": "La empresa tiene que cumplir con lo que piden los usuarios para conseguir más apoyo."
+      }
+    ]
+  },
+  {
+    "word": "借",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pedir prestado",
+      "prestar (con 给 o 出)",
+      "aprovechar",
+      "valerse de"
+    ],
+    "examples": [
+      {
+        "zh": "我可以借你的书吗？",
+        "es": "¿Puedo pedirte prestado tu libro?"
+      },
+      {
+        "zh": "我向他借了一百块钱。",
+        "es": "Le pedí prestados cien yuanes."
+      },
+      {
+        "zh": "图书馆的书可以借两个星期。",
+        "es": "Los libros de la biblioteca se pueden pedir prestados por dos semanas."
+      },
+      {
+        "zh": "我借给朋友的那本书，他还没有还给我。",
+        "es": "Mi amigo todavía no me ha devuelto el libro que le presté."
+      }
+    ]
+  },
+  {
+    "word": "辆",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clasificador para vehículos"
+    ],
+    "examples": [
+      {
+        "zh": "这辆车是我的。",
+        "es": "Este carro es mío."
+      },
+      {
+        "zh": "我家有两辆汽车。",
+        "es": "En mi casa tenemos dos carros."
+      },
+      {
+        "zh": "门口停着一辆红色的车。",
+        "es": "Hay un carro rojo estacionado en la entrada."
+      },
+      {
+        "zh": "他用自己的钱买了一辆新车，非常高兴。",
+        "es": "Se compró un carro nuevo con su propio dinero y está muy feliz."
+      }
+    ]
+  },
+  {
+    "word": "杂志",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "revista"
+    ],
+    "examples": [
+      {
+        "zh": "这是一本新杂志。",
+        "es": "Esta es una revista nueva."
+      },
+      {
+        "zh": "我喜欢在飞机上看杂志。",
+        "es": "Me gusta leer revistas en el avión."
+      },
+      {
+        "zh": "她每个月都买两本电影杂志。",
+        "es": "Ella compra dos revistas de cine cada mes."
+      },
+      {
+        "zh": "这本杂志的文章很有意思，很多年轻人喜欢读。",
+        "es": "Los artículos de esta revista son muy interesantes; a muchos jóvenes les gusta leerlos."
+      }
+    ]
+  },
+  {
+    "word": "拿到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conseguir",
+      "obtener",
+      "recibir"
+    ],
+    "examples": [
+      {
+        "zh": "我拿到票了。",
+        "es": "Ya conseguí los boletos."
+      },
+      {
+        "zh": "你拿到钱包了吗？",
+        "es": "¿Ya recuperaste tu cartera?"
+      },
+      {
+        "zh": "他昨天拿到了大学的通知。",
+        "es": "Ayer recibió la notificación de la universidad."
+      },
+      {
+        "zh": "只要努力学习，你一定能拿到好成绩。",
+        "es": "Si estudias con empeño, seguro vas a sacar buenas calificaciones."
+      }
+    ]
+  },
+  {
+    "word": "争取",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "luchar por",
+      "esforzarse por conseguir",
+      "ganarse (a alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "我们要争取时间。",
+        "es": "Tenemos que ganar tiempo."
+      },
+      {
+        "zh": "他在争取这个机会。",
+        "es": "Él está luchando por conseguir esta oportunidad."
+      },
+      {
+        "zh": "我们会争取明年完成这个项目。",
+        "es": "Vamos a esforzarnos por terminar este proyecto el próximo año."
+      },
+      {
+        "zh": "工人们为了自己的权利，一直在努力争取。",
+        "es": "Los trabajadores siempre han luchado con empeño por sus derechos."
+      }
+    ]
+  },
+  {
+    "word": "墙",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pared",
+      "muro",
+      "bloquear (un sitio web, coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "墙上有一张地图。",
+        "es": "Hay un mapa en la pared."
+      },
+      {
+        "zh": "这面墙是白色的。",
+        "es": "Esta pared es blanca."
+      },
+      {
+        "zh": "孩子们在墙上画画。",
+        "es": "Los niños dibujan en la pared."
+      },
+      {
+        "zh": "这个网站被墙了，在中国不能上。",
+        "es": "Este sitio web está bloqueado; en China no se puede entrar."
+      }
+    ]
+  },
+  {
+    "word": "值",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "valer",
+      "valor",
+      "estar de turno"
+    ],
+    "examples": [
+      {
+        "zh": "这个不值钱。",
+        "es": "Esto no vale nada."
+      },
+      {
+        "zh": "这本书值多少钱？",
+        "es": "¿Cuánto vale este libro?"
+      },
+      {
+        "zh": "这辆车现在还值三万块。",
+        "es": "Este carro todavía vale treinta mil yuanes."
+      },
+      {
+        "zh": "今天晚上值班的是王医生。",
+        "es": "Esta noche el que está de turno es el doctor Wang."
+      }
+    ]
+  },
+  {
+    "word": "随便",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "como quieras",
+      "al azar",
+      "descuidado",
+      "a la ligera"
+    ],
+    "examples": [
+      {
+        "zh": "你随便坐。",
+        "es": "Siéntate donde quieras."
+      },
+      {
+        "zh": "吃什么都可以，随便。",
+        "es": "Puedo comer cualquier cosa, lo que sea."
+      },
+      {
+        "zh": "不要随便告诉别人你的电话。",
+        "es": "No le des tu número de teléfono a cualquiera."
+      },
+      {
+        "zh": "他做事太随便了，所以老师很不满意。",
+        "es": "Él hace las cosas con demasiado descuido, por eso el maestro no está contento."
+      }
+    ]
+  },
+  {
+    "word": "养",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "criar (animales, hijos)",
+      "tener (mascotas)",
+      "mantener (a la familia)"
+    ],
+    "examples": [
+      {
+        "zh": "我养了一只猫。",
+        "es": "Tengo un gato."
+      },
+      {
+        "zh": "他家养了两条狗。",
+        "es": "En su casa tienen dos perros."
+      },
+      {
+        "zh": "养孩子需要很多时间和钱。",
+        "es": "Criar a un hijo requiere mucho tiempo y dinero."
+      },
+      {
+        "zh": "她一个人工作，养着一家五口人。",
+        "es": "Ella sola trabaja y mantiene a una familia de cinco personas."
+      }
+    ]
+  },
+  {
+    "word": "从事",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dedicarse a",
+      "trabajar en",
+      "ocuparse de"
+    ],
+    "examples": [
+      {
+        "zh": "他从事教育工作。",
+        "es": "Él se dedica a la educación."
+      },
+      {
+        "zh": "我爸爸从事医疗行业。",
+        "es": "Mi papá trabaja en el sector de la salud."
+      },
+      {
+        "zh": "她从事这个工作已经十年了。",
+        "es": "Ella ya lleva diez años dedicándose a este trabajo."
+      },
+      {
+        "zh": "很多年轻人希望从事和电脑有关的工作。",
+        "es": "Muchos jóvenes quieren dedicarse a trabajos relacionados con la computación."
+      }
+    ]
+  },
+  {
+    "word": "吹",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "soplar",
+      "presumir",
+      "tocar (un instrumento de viento)",
+      "fracasar"
+    ],
+    "examples": [
+      {
+        "zh": "风吹得我很冷。",
+        "es": "El viento me da mucho frío."
+      },
+      {
+        "zh": "别吹了，我不相信你。",
+        "es": "Deja de presumir, no te creo."
+      },
+      {
+        "zh": "他吹了一下热茶才喝。",
+        "es": "Sopló un poco el té caliente antes de tomarlo."
+      },
+      {
+        "zh": "他们的计划因为没有钱，最后吹了。",
+        "es": "Su plan se vino abajo al final por falta de dinero."
+      }
+    ]
+  },
+  {
+    "word": "访问",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "visitar",
+      "visita",
+      "acceder (a un sitio web)",
+      "entrevistar"
+    ],
+    "examples": [
+      {
+        "zh": "欢迎访问我们的网站。",
+        "es": "Bienvenido a nuestro sitio web."
+      },
+      {
+        "zh": "总统下个月访问中国。",
+        "es": "El presidente visitará China el próximo mes."
+      },
+      {
+        "zh": "这个网站现在无法访问。",
+        "es": "En este momento no se puede acceder a este sitio web."
+      },
+      {
+        "zh": "这次访问对两国的关系非常重要。",
+        "es": "Esta visita es muy importante para la relación entre los dos países."
+      }
+    ]
+  },
+  {
+    "word": "答应",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aceptar",
+      "prometer",
+      "contestar (cuando llaman)"
+    ],
+    "examples": [
+      {
+        "zh": "他答应了。",
+        "es": "Él aceptó."
+      },
+      {
+        "zh": "你答应我，明天一定来。",
+        "es": "Prométeme que mañana vas a venir sin falta."
+      },
+      {
+        "zh": "妈妈答应给我买一个新手机。",
+        "es": "Mi mamá prometió comprarme un celular nuevo."
+      },
+      {
+        "zh": "我叫了他好几次，可是他一直没答应。",
+        "es": "Lo llamé varias veces, pero nunca contestó."
+      }
+    ]
+  },
+  {
+    "word": "概念",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "concepto",
+      "idea",
+      "noción"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个新概念。",
+        "es": "Este es un concepto nuevo."
+      },
+      {
+        "zh": "我对这个没有概念。",
+        "es": "No tengo ni idea de esto."
+      },
+      {
+        "zh": "老师用简单的话解释了这个概念。",
+        "es": "El maestro explicó este concepto con palabras sencillas."
+      },
+      {
+        "zh": "很多学生不明白时间和空间这两个概念。",
+        "es": "Muchos estudiantes no entienden los conceptos de tiempo y espacio."
+      }
+    ]
+  },
+  {
+    "word": "急",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "urgente",
+      "apurado",
+      "preocupado",
+      "impaciente"
+    ],
+    "examples": [
+      {
+        "zh": "别急，慢慢说。",
+        "es": "Tranquilo, habla despacio."
+      },
+      {
+        "zh": "我有急事，得先走了。",
+        "es": "Tengo algo urgente, me tengo que ir."
+      },
+      {
+        "zh": "他急着去机场，没吃饭就走了。",
+        "es": "Iba apurado al aeropuerto y se fue sin comer."
+      },
+      {
+        "zh": "孩子到现在还没回家，妈妈急得不知道怎么办。",
+        "es": "El niño todavía no vuelve a casa y su mamá está tan preocupada que no sabe qué hacer."
+      }
+    ]
+  },
+  {
+    "word": "套",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "juego, conjunto (clasificador)",
+      "funda",
+      "cubrir",
+      "copiar (un modelo)"
+    ],
+    "examples": [
+      {
+        "zh": "我买了一套新衣服。",
+        "es": "Me compré un conjunto de ropa nuevo."
+      },
+      {
+        "zh": "他们家有两套房子。",
+        "es": "Su familia tiene dos casas."
+      },
+      {
+        "zh": "这套书一共有十本。",
+        "es": "Esta colección tiene diez libros en total."
+      },
+      {
+        "zh": "他想用这套方法解决所有问题。",
+        "es": "Él quiere resolver todos los problemas con este mismo método."
+      }
+    ]
+  },
+  {
+    "word": "久",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mucho tiempo",
+      "largo (tiempo)"
+    ],
+    "examples": [
+      {
+        "zh": "好久不见！",
+        "es": "¡Tanto tiempo sin verte!"
+      },
+      {
+        "zh": "你等了多久？",
+        "es": "¿Cuánto tiempo esperaste?"
+      },
+      {
+        "zh": "我在北京住了很久。",
+        "es": "Viví mucho tiempo en Pekín."
+      },
+      {
+        "zh": "他学了很久的汉语，现在说得非常好。",
+        "es": "Estudió chino por mucho tiempo y ahora lo habla muy bien."
+      }
+    ]
+  },
+  {
+    "word": "院长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "director (de hospital, instituto)",
+      "decano",
+      "rector",
+      "presidente (de una institución)"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们医院的院长。",
+        "es": "Él es el director de nuestro hospital."
+      },
+      {
+        "zh": "院长今天不在办公室。",
+        "es": "El director no está hoy en la oficina."
+      },
+      {
+        "zh": "新院长下个星期开始工作。",
+        "es": "El nuevo director empieza a trabajar la próxima semana."
+      },
+      {
+        "zh": "学院的院长在会议上介绍了明年的计划。",
+        "es": "El decano de la facultad presentó en la reunión los planes para el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "周末",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fin de semana"
+    ],
+    "examples": [
+      {
+        "zh": "周末你做什么？",
+        "es": "¿Qué haces el fin de semana?"
+      },
+      {
+        "zh": "这个周末我想在家休息。",
+        "es": "Este fin de semana quiero descansar en casa."
+      },
+      {
+        "zh": "我们周末常常去公园玩儿。",
+        "es": "Los fines de semana solemos ir a pasear al parque."
+      },
+      {
+        "zh": "上个周末我和朋友一起去看了一部电影。",
+        "es": "El fin de semana pasado fui al cine con unos amigos."
+      }
+    ]
+  }
+]

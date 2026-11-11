@@ -1,0 +1,539 @@
+[
+  {
+    "word": "所",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lo que (partícula que introduce una cláusula relativa)",
+      "clasificador para escuelas, casas e instituciones",
+      "lugar"
+    ],
+    "examples": [
+      {
+        "zh": "这所学校很大。",
+        "es": "Esta escuela es grande."
+      },
+      {
+        "zh": "这是我所想的。",
+        "es": "Esto es lo que pienso."
+      },
+      {
+        "zh": "我所知道的就是这些。",
+        "es": "Esto es todo lo que sé."
+      },
+      {
+        "zh": "他所说的问题，我们已经知道了。",
+        "es": "Ya conocemos el problema del que habló."
+      }
+    ]
+  },
+  {
+    "word": "小",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pequeño",
+      "joven",
+      "poco"
+    ],
+    "examples": [
+      {
+        "zh": "这个很小。",
+        "es": "Esto es muy pequeño."
+      },
+      {
+        "zh": "我有一个小问题。",
+        "es": "Tengo una pequeña pregunta."
+      },
+      {
+        "zh": "她小时候在中国。",
+        "es": "Cuando era niña vivía en China."
+      },
+      {
+        "zh": "这个地方很小，但是人很多。",
+        "es": "Este lugar es pequeño, pero hay mucha gente."
+      }
+    ]
+  },
+  {
+    "word": "发展",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desarrollo",
+      "desarrollar",
+      "crecer",
+      "expandirse"
+    ],
+    "examples": [
+      {
+        "zh": "这个国家在发展。",
+        "es": "Este país se está desarrollando."
+      },
+      {
+        "zh": "中国发展得很快。",
+        "es": "China se desarrolla muy rápido."
+      },
+      {
+        "zh": "发展是现在最大的问题。",
+        "es": "El desarrollo es el mayor problema en este momento."
+      },
+      {
+        "zh": "因为发展太快，这个地方有了很多新问题。",
+        "es": "Como creció demasiado rápido, este lugar tiene muchos problemas nuevos."
+      }
+    ]
+  },
+  {
+    "word": "再",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "otra vez",
+      "de nuevo",
+      "luego",
+      "más"
+    ],
+    "examples": [
+      {
+        "zh": "再说一次。",
+        "es": "Dilo otra vez."
+      },
+      {
+        "zh": "我们明天再来。",
+        "es": "Volvemos mañana."
+      },
+      {
+        "zh": "做完工作再去吧。",
+        "es": "Ve después de terminar el trabajo."
+      },
+      {
+        "zh": "我不想再做这个工作了。",
+        "es": "Ya no quiero seguir haciendo este trabajo."
+      }
+    ]
+  },
+  {
+    "word": "开始",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "empezar",
+      "comenzar",
+      "comienzo",
+      "inicio"
+    ],
+    "examples": [
+      {
+        "zh": "我们开始吧。",
+        "es": "Empecemos."
+      },
+      {
+        "zh": "工作开始了。",
+        "es": "El trabajo ya empezó."
+      },
+      {
+        "zh": "你什么时候开始工作？",
+        "es": "¿Cuándo empiezas a trabajar?"
+      },
+      {
+        "zh": "从三月开始，她在中国工作。",
+        "es": "Desde marzo trabaja en China."
+      }
+    ]
+  },
+  {
+    "word": "们",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "marcador de plural para pronombres y personas"
+    ],
+    "examples": [
+      {
+        "zh": "我们走吧。",
+        "es": "Vámonos."
+      },
+      {
+        "zh": "他们在工作。",
+        "es": "Ellos están trabajando."
+      },
+      {
+        "zh": "我们都是中国人。",
+        "es": "Todos somos chinos."
+      },
+      {
+        "zh": "朋友们，现在我们开始吧！",
+        "es": "Amigos, ¡ahora empecemos!"
+      }
+    ]
+  },
+  {
+    "word": "爱",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "amar",
+      "querer",
+      "gustar mucho",
+      "amor"
+    ],
+    "examples": [
+      {
+        "zh": "我爱你。",
+        "es": "Te amo."
+      },
+      {
+        "zh": "我爱我的国家。",
+        "es": "Amo a mi país."
+      },
+      {
+        "zh": "她很爱看书。",
+        "es": "A ella le encanta leer."
+      },
+      {
+        "zh": "他不爱说话，但是工作做得很好。",
+        "es": "No le gusta hablar, pero hace muy bien su trabajo."
+      }
+    ]
+  },
+  {
+    "word": "这样",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "así",
+      "de esta manera",
+      "este tipo de",
+      "tal"
+    ],
+    "examples": [
+      {
+        "zh": "这样很好。",
+        "es": "Así está muy bien."
+      },
+      {
+        "zh": "你不能这样做。",
+        "es": "No puedes hacerlo así."
+      },
+      {
+        "zh": "我没有想到会这样。",
+        "es": "No pensé que pasaría esto."
+      },
+      {
+        "zh": "这样的问题，我们已经看过很多了。",
+        "es": "Ya hemos visto muchos problemas como este."
+      }
+    ]
+  },
+  {
+    "word": "第",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prefijo de los números ordinales (primero, segundo, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "他是第一个。",
+        "es": "Él es el primero."
+      },
+      {
+        "zh": "我第一次来中国。",
+        "es": "Es la primera vez que vengo a China."
+      },
+      {
+        "zh": "今天是我工作的第三天。",
+        "es": "Hoy es mi tercer día de trabajo."
+      },
+      {
+        "zh": "这是她第三年在美国工作。",
+        "es": "Este es su tercer año trabajando en Estados Unidos."
+      }
+    ]
+  },
+  {
+    "word": "公司",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "empresa",
+      "compañía",
+      "firma"
+    ],
+    "examples": [
+      {
+        "zh": "我在公司。",
+        "es": "Estoy en la empresa."
+      },
+      {
+        "zh": "这是一家新公司。",
+        "es": "Esta es una empresa nueva."
+      },
+      {
+        "zh": "他在美国的公司工作。",
+        "es": "Él trabaja en una empresa estadounidense."
+      },
+      {
+        "zh": "因为公司的问题，他们今年没有来中国。",
+        "es": "Por problemas de la empresa, este año no vinieron a China."
+      }
+    ]
+  },
+  {
+    "word": "谁",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "quién"
+    ],
+    "examples": [
+      {
+        "zh": "你是谁？",
+        "es": "¿Quién eres?"
+      },
+      {
+        "zh": "这是谁的？",
+        "es": "¿De quién es esto?"
+      },
+      {
+        "zh": "谁知道这个问题？",
+        "es": "¿Quién sabe la respuesta a esta pregunta?"
+      },
+      {
+        "zh": "我不知道他们说的是谁。",
+        "es": "No sé de quién están hablando."
+      }
+    ]
+  },
+  {
+    "word": "它",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "eso, ello (para cosas)",
+      "él o ella (para animales y cosas)"
+    ],
+    "examples": [
+      {
+        "zh": "它很小。",
+        "es": "Es pequeño."
+      },
+      {
+        "zh": "我很爱它。",
+        "es": "Lo quiero mucho."
+      },
+      {
+        "zh": "这是我的新书，它很好看。",
+        "es": "Este es mi libro nuevo; está muy bueno."
+      },
+      {
+        "zh": "我不知道它是什么，也不知道它从哪里来。",
+        "es": "No sé qué es ni de dónde viene."
+      }
+    ]
+  },
+  {
+    "word": "真的",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de verdad",
+      "realmente",
+      "verdadero",
+      "auténtico"
+    ],
+    "examples": [
+      {
+        "zh": "真的吗？",
+        "es": "¿De verdad?"
+      },
+      {
+        "zh": "这是真的。",
+        "es": "Esto es verdad."
+      },
+      {
+        "zh": "我真的很爱你。",
+        "es": "De verdad te quiero mucho."
+      },
+      {
+        "zh": "你真的不知道这个问题吗？",
+        "es": "¿De verdad no sabes nada de este problema?"
+      }
+    ]
+  },
+  {
+    "word": "政府",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gobierno"
+    ],
+    "examples": [
+      {
+        "zh": "他在政府工作。",
+        "es": "Él trabaja en el gobierno."
+      },
+      {
+        "zh": "这是政府的问题。",
+        "es": "Este es un problema del gobierno."
+      },
+      {
+        "zh": "中国政府说了什么？",
+        "es": "¿Qué dijo el gobierno chino?"
+      },
+      {
+        "zh": "政府现在要做的，是让人们有工作。",
+        "es": "Lo que el gobierno debe hacer ahora es que la gente tenga trabajo."
+      }
+    ]
+  },
+  {
+    "word": "地方",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "lugar",
+      "sitio",
+      "parte",
+      "aspecto"
+    ],
+    "examples": [
+      {
+        "zh": "这个地方很好。",
+        "es": "Este lugar es muy bueno."
+      },
+      {
+        "zh": "你在什么地方？",
+        "es": "¿Dónde estás?"
+      },
+      {
+        "zh": "这是我工作的地方。",
+        "es": "Este es el lugar donde trabajo."
+      },
+      {
+        "zh": "这个问题有很多地方我不知道。",
+        "es": "Hay muchas partes de este problema que no conozco."
+      }
+    ]
+  },
+  {
+    "word": "可能",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "posible",
+      "quizás",
+      "probable",
+      "posibilidad"
+    ],
+    "examples": [
+      {
+        "zh": "这不可能！",
+        "es": "¡Eso es imposible!"
+      },
+      {
+        "zh": "他可能不来了。",
+        "es": "Quizás ya no venga."
+      },
+      {
+        "zh": "我们可能会去中国。",
+        "es": "Es posible que vayamos a China."
+      },
+      {
+        "zh": "现在没有时间了，可能要等到下个月。",
+        "es": "Ya no hay tiempo; tal vez haya que esperar hasta el próximo mes."
+      }
+    ]
+  },
+  {
+    "word": "号",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "día del mes",
+      "número",
+      "talla",
+      "señal"
+    ],
+    "examples": [
+      {
+        "zh": "今天几号？",
+        "es": "¿Qué día es hoy?"
+      },
+      {
+        "zh": "我三号去中国。",
+        "es": "Voy a China el día tres."
+      },
+      {
+        "zh": "你穿几号的？",
+        "es": "¿Qué talla usas?"
+      },
+      {
+        "zh": "他们说下个月十号会来我们公司。",
+        "es": "Dijeron que vendrán a nuestra empresa el diez del próximo mes."
+      }
+    ]
+  },
+  {
+    "word": "你们",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ustedes"
+    ],
+    "examples": [
+      {
+        "zh": "你们好！",
+        "es": "¡Hola a todos!"
+      },
+      {
+        "zh": "你们是中国人吗？",
+        "es": "¿Ustedes son chinos?"
+      },
+      {
+        "zh": "你们什么时候来？",
+        "es": "¿Cuándo vienen ustedes?"
+      },
+      {
+        "zh": "我想知道你们现在在做什么工作。",
+        "es": "Quiero saber en qué están trabajando ustedes ahora."
+      }
+    ]
+  },
+  {
+    "word": "社会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sociedad"
+    ],
+    "examples": [
+      {
+        "zh": "社会在发展。",
+        "es": "La sociedad está avanzando."
+      },
+      {
+        "zh": "这是社会问题。",
+        "es": "Este es un problema social."
+      },
+      {
+        "zh": "现在的社会和以前不一样。",
+        "es": "La sociedad de hoy no es como la de antes."
+      },
+      {
+        "zh": "我们每个人都要为社会做一点事。",
+        "es": "Cada uno de nosotros debe hacer algo por la sociedad."
+      }
+    ]
+  },
+  {
+    "word": "快",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rápido",
+      "pronto",
+      "casi",
+      "apurarse"
+    ],
+    "examples": [
+      {
+        "zh": "快来！",
+        "es": "¡Ven rápido!"
+      },
+      {
+        "zh": "我快到了。",
+        "es": "Ya casi llego."
+      },
+      {
+        "zh": "他说得很快。",
+        "es": "Él habla muy rápido."
+      },
+      {
+        "zh": "时间过得真快，已经是十月了。",
+        "es": "El tiempo pasa muy rápido; ya estamos en octubre."
+      }
+    ]
+  }
+]

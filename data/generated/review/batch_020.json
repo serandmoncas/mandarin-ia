@@ -1,0 +1,197 @@
+[
+  {
+    "id": "word:提出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33efcbad21274e140d5196864f5e236c2ed42d14"
+  },
+  {
+    "id": "word:白",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 一件 debe ser «yí jiàn» por el cambio tonal de 一, como se hace en los demás ejemplos.",
+      "Pinyin del ejemplo 2: 衣服 es «yī fu», con 服 en tono neutro, no «yī fú»."
+    ],
+    "content_hash": "db0e3011fe9fc569c7a7dd77a17398a173edcbc5"
+  },
+  {
+    "id": "word:衣服",
+    "ok": false,
+    "issues": [
+      "Pinyin de todos los ejemplos: 衣服 debe ser «yī fu» con tono neutro, como indica la propia entrada (fu5), no «yī fú».",
+      "Pinyin del ejemplo 4: 妈妈 es «mā ma», no «mā mā».",
+      "Pinyin del ejemplo 4: 晚上 es «wǎn shang», no «wǎn shàng»."
+    ],
+    "content_hash": "8c725595563616bdc53f5d9b4e86bcf86b5185fc"
+  },
+  {
+    "id": "word:一点",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: «yī diǎn» debe ser «yì diǎn». Además es incoherente con los ejemplos 1, 2 y 4 de la misma entrada."
+    ],
+    "content_hash": "b8244a202c99a29b2559a18fe3e7790893f015b9"
+  },
+  {
+    "id": "word:民主",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7df3f24a68f589e27d49d602a645cbdf2a70b851"
+  },
+  {
+    "id": "word:毛",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 东西 («cosa») es «dōng xi», no «dōng xī».",
+      "Pinyin del ejemplo 4: 喜欢 es «xǐ huan» y 身上 es «shēn shang», con tono neutro."
+    ],
+    "content_hash": "41688ad65c2440887045b1da23fb320d195a8210"
+  },
+  {
+    "id": "word:甚至",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 名字 es «míng zi», no «míng zì».",
+      "Pinyin del ejemplo 4: 晚上 es «wǎn shang», no «wǎn shàng»."
+    ],
+    "content_hash": "a30c47fd0ed47aae739c5ae2c677c7a8003d8df4"
+  },
+  {
+    "id": "word:忘记",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 告诉 es «gào su», con tono neutro, no «gào sù»."
+    ],
+    "content_hash": "55390282a769ad28e5599b5c14687a10af3f8776"
+  },
+  {
+    "id": "word:当然",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 朋友 es «péng you», con tono neutro, no «péng yǒu»."
+    ],
+    "content_hash": "fbf0445dfea7054629d669dd4451b3fe79e9e6ce"
+  },
+  {
+    "id": "word:爸爸",
+    "ok": false,
+    "issues": [
+      "Pinyin de todos los ejemplos: 爸爸 es «bà ba» con tono neutro, como indica la entrada (ba5), no «bà bà».",
+      "Pinyin del ejemplo 3: 早上 es «zǎo shang».",
+      "Pinyin del ejemplo 4: 时候 es «shí hou» y 朋友 es «péng you»."
+    ],
+    "content_hash": "92653f5b8929f03f1e8c62ce8e2252655a512b6b"
+  },
+  {
+    "id": "word:过程",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 告诉 es «gào su» y 事情 es «shì qing», con tono neutro.",
+      "Pinyin del ejemplo 4: 认识 es «rèn shi» y 朋友 es «péng you», con tono neutro."
+    ],
+    "content_hash": "a2d49856e3345df09a1eb1b2c67ebee97c5e5eb9"
+  },
+  {
+    "id": "word:小姐",
+    "ok": false,
+    "issues": [
+      "Pinyin de todos los ejemplos: 小姐 es «xiǎo jie», con tono neutro, como indica la entrada (jie5), no «xiǎo jiě».",
+      "Ejemplos 1 y 3: en China continental, llamar «小姐» a una desconocida o a una dependienta hoy puede sonar inapropiado por la connotación de «prostituta». Conviene advertirlo o usar 服务员 o 您好 en su lugar."
+    ],
+    "content_hash": "07949fc019103fb6e20441c44b239f7b5a018530"
+  },
+  {
+    "id": "word:事件",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 告诉 es «gào su», con tono neutro, no «gào sù»."
+    ],
+    "content_hash": "8d822078e4084bf22dbacfd8c13494302a5f3c5d"
+  },
+  {
+    "id": "word:一边",
+    "ok": false,
+    "issues": [
+      "Pinyin: 一边 debe ser «yì biān» por el cambio tonal de 一, no «yī biān». Además es incoherente con otras entradas que sí marcan el cambio.",
+      "Pinyin del ejemplo 3: 喜欢 es «xǐ huan», con tono neutro."
+    ],
+    "content_hash": "93efb092254405d9aeaf7c696493717da04a6ee3"
+  },
+  {
+    "id": "word:机构",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b66a72163d3b894ac533aaee7da9cea540458d8f"
+  },
+  {
+    "id": "word:病",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb589b34fe771cd0b254dc6c1b5b7f3bc5eaef22"
+  },
+  {
+    "id": "word:法律",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d2b194cbeaa098abca9b2faa0558a0ee5abc462"
+  },
+  {
+    "id": "word:飞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6481a02372d493c21cb39495733475353439841c"
+  },
+  {
+    "id": "word:玩",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 喜欢 es «xǐ huan», con tono neutro, no «xǐ huān»."
+    ],
+    "content_hash": "adb1f39c15d02915ec9939667612a56184fd883d"
+  },
+  {
+    "id": "word:忙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "353a7d1e85f52c49aead2c1669e8ca789772d4b9"
+  },
+  {
+    "id": "word:视频",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 中文 es «zhōng wén», no «zhòng wén» (tono incorrecto).",
+      "Pinyin del ejemplo 2: 喜欢 es «xǐ huan», con tono neutro."
+    ],
+    "content_hash": "6231d76faa1a8f4c8b805bab0bbf0ef4337aff9a"
+  },
+  {
+    "id": "word:班",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 一班 debe ser «yì bān» por el cambio tonal de 一, no «yī bān»."
+    ],
+    "content_hash": "d1bd5ba7ed703c5dde1a77b63e2919ccc01a3326"
+  },
+  {
+    "id": "word:设计",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 一家 debe ser «yì jiā» por el cambio tonal de 一, no «yī jiā»."
+    ],
+    "content_hash": "2a8362812b43d4b3406791ff28cc47d065f21112"
+  },
+  {
+    "id": "word:动作",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 一样 debe ser «yí yàng» por el cambio tonal de 一, no «yī yàng»."
+    ],
+    "content_hash": "b4c6d8c192bc2d2db4a8100dbf83ba953474a3be"
+  },
+  {
+    "id": "word:受",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aac9b06e8d697aad82e09daee24da8d73f7c0ef9"
+  }
+]

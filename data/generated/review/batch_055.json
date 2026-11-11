@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:爱情",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8352bfb4802c6e4dc0e2a6d7e07b1921c8df8e2c"
+  },
+  {
+    "id": "word:大会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "66ead045adcbedfe008ad1c16bc3a6e6b9b7cf85"
+  },
+  {
+    "id": "word:东方",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, «不太一样» significa «no son muy parecidas» o «son algo distintas». La traducción «bastante distintas» exagera la diferencia."
+    ],
+    "content_hash": "f488a633e7805a06e2b1bf7dd7014d1024b28d45"
+  },
+  {
+    "id": "word:妇女",
+    "ok": true,
+    "issues": [],
+    "content_hash": "167a46d76c50769f78fcac149d25328ff823f1e0"
+  },
+  {
+    "id": "word:多么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc586a76164f45ccb7d3eb0dd74835617f762b84"
+  },
+  {
+    "id": "word:拒绝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25b0aeedcd3010bb4f796788f0fd29d5c9bdd79c"
+  },
+  {
+    "id": "word:公平",
+    "ok": true,
+    "issues": [],
+    "content_hash": "069ea45dfac3824d38f445ac7ac421c7d21a2aee"
+  },
+  {
+    "id": "word:既",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8e8148a101cef3935a857771bd55b7e84248fee2"
+  },
+  {
+    "id": "word:权",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2, «他没有权这样做» suena poco natural. Lo habitual es «他没有权利这样做» o «他无权这样做»."
+    ],
+    "content_hash": "23c7d4bc7d8899c5a920397369054459a5302776"
+  },
+  {
+    "id": "word:日子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ef5a143f86d6b935b4962967d18f726e3367f54"
+  },
+  {
+    "id": "word:治疗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aade363cecfec175d7954b29c2ae843cc0cde0ed"
+  },
+  {
+    "id": "word:太阳",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd6396634ea48fe5c9805e179da5fdcd54d2c1a0"
+  },
+  {
+    "id": "word:监督",
+    "ok": false,
+    "issues": [
+      "Error de pinyin en el ejemplo 4: «做得» debe ser «zuò de», no «zuò dé». El complemento 得 va en tono neutro."
+    ],
+    "content_hash": "a415e2b73b2d7cd84732ff9949ceff9f2bdd8d05"
+  },
+  {
+    "id": "word:装",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7c8bf79ed77786d9758cc4b4f9654aa6ccd76b7"
+  },
+  {
+    "id": "word:网址",
+    "ok": true,
+    "issues": [],
+    "content_hash": "215fe520c66a0d19417c77a4779e7f76dd7cda66"
+  },
+  {
+    "id": "word:层",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8936850af79aafb03b45851cb5d90af1349a371a"
+  },
+  {
+    "id": "word:规划",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec121b4ceadf5588da2161149a47d87586abc925"
+  },
+  {
+    "id": "word:针对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4be6c909fa368f84d2c63bed98cb5a6900a35d0f"
+  },
+  {
+    "id": "word:酒店",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3fcea28b04400c2ffa670493c25c83ab2d656eca"
+  },
+  {
+    "id": "word:创作",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, con 创作 lo natural es usar el clasificador 部: «创作一部新小说». «一本» se refiere al ejemplar físico del libro, no a la obra."
+    ],
+    "content_hash": "d814c104630d0532a9b7b729d2f6637404d011a2"
+  },
+  {
+    "id": "word:平等",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1fdbba81817d989201f9dd8182ec55c8c56d3c6d"
+  },
+  {
+    "id": "word:少年",
+    "ok": false,
+    "issues": [
+      "Error de pinyin en el ejemplo 2: «跑得» debe ser «pǎo de», no «pǎo dé». El complemento 得 va en tono neutro."
+    ],
+    "content_hash": "e90cf50aaac78f94fd6596140d901b952fd23afa"
+  },
+  {
+    "id": "word:收",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10d693be2b370346cf30c8eb38f77987f2c979a0"
+  },
+  {
+    "id": "word:难道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8d08914a24523c2eaf6efb02c3f98a7a32c56beb"
+  },
+  {
+    "id": "word:群",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2eaf34f1aaeb817a2613061675fc78bfade484f3"
+  }
+]

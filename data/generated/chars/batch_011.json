@@ -1,0 +1,438 @@
+[
+  {
+    "char": "式",
+    "components": [
+      {
+        "char": "弋",
+        "meaning_es": "estaca, flecha atada a una cuerda"
+      },
+      {
+        "char": "工",
+        "meaning_es": "trabajo, herramienta"
+      }
+    ],
+    "mnemonic_es": "Imagina a un carpintero que clava una estaca y usa su herramienta para marcar el molde: así siempre trabaja con la misma forma o estilo."
+  },
+  {
+    "char": "目",
+    "components": [
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      }
+    ],
+    "mnemonic_es": "Gira el carácter de lado y verás un ojo con sus párpados: es el ojo que mira tu objetivo."
+  },
+  {
+    "char": "示",
+    "components": [
+      {
+        "char": "示",
+        "meaning_es": "mostrar, altar"
+      }
+    ],
+    "mnemonic_es": "Visualiza un altar sobre una mesa con ofrendas que cuelgan: lo pones ahí para mostrarlo a todos."
+  },
+  {
+    "char": "晚",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "免",
+        "meaning_es": "evitar, librarse de"
+      }
+    ],
+    "mnemonic_es": "Cuando por fin te libras del sol, ya es tarde: llega la noche."
+  },
+  {
+    "char": "资",
+    "components": [
+      {
+        "char": "次",
+        "meaning_es": "siguiente, vez"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha (dinero antiguo)"
+      }
+    ],
+    "mnemonic_es": "Guardas una concha de dinero tras otra, vez tras vez, hasta juntar tus recursos o capital."
+  },
+  {
+    "char": "料",
+    "components": [
+      {
+        "char": "米",
+        "meaning_es": "arroz"
+      },
+      {
+        "char": "斗",
+        "meaning_es": "cucharón, medida de granos"
+      }
+    ],
+    "mnemonic_es": "Mides el arroz con un cucharón antes de cocinar: son tus materiales o ingredientes."
+  },
+  {
+    "char": "错",
+    "components": [
+      {
+        "char": "钅",
+        "meaning_es": "metal"
+      },
+      {
+        "char": "昔",
+        "meaning_es": "antiguamente, el pasado"
+      }
+    ],
+    "mnemonic_es": "Un metal viejo del pasado se oxida y falla: ¡error! Algo salió mal."
+  },
+  {
+    "char": "安",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      }
+    ],
+    "mnemonic_es": "Una mujer bajo su propio techo se siente tranquila y en paz."
+  },
+  {
+    "char": "脑",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "carne, parte del cuerpo"
+      },
+      {
+        "char": "亠",
+        "meaning_es": "tapa"
+      },
+      {
+        "char": "凶",
+        "meaning_es": "feroz, peligroso"
+      }
+    ],
+    "mnemonic_es": "Una parte del cuerpo bajo la tapa del cráneo donde se arma una tormenta feroz de ideas: el cerebro."
+  },
+  {
+    "char": "五",
+    "components": [
+      {
+        "char": "五",
+        "meaning_es": "cinco"
+      }
+    ],
+    "mnemonic_es": "Imagina un reloj de arena entre dos rayas: arriba y abajo cuentas los cinco dedos de la mano."
+  },
+  {
+    "char": "远",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "元",
+        "meaning_es": "origen, principio"
+      }
+    ],
+    "mnemonic_es": "Caminas y caminas alejándote del punto de origen hasta que queda muy lejos."
+  },
+  {
+    "char": "部",
+    "components": [
+      {
+        "char": "立",
+        "meaning_es": "pararse, estar de pie"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "阝",
+        "meaning_es": "ciudad (a la derecha)"
+      }
+    ],
+    "mnemonic_es": "En cada parte de la ciudad hay alguien de pie hablando por su barrio: así se divide en departamentos o secciones."
+  },
+  {
+    "char": "运",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "云",
+        "meaning_es": "nube"
+      }
+    ],
+    "mnemonic_es": "Las nubes avanzan y transportan la lluvia de un lugar a otro; si te llega la buena, ¡qué suerte!"
+  },
+  {
+    "char": "几",
+    "components": [
+      {
+        "char": "几",
+        "meaning_es": "mesita"
+      }
+    ],
+    "mnemonic_es": "Una mesita baja con dos patas: ¿cuántas cosas caben encima? Solo unas pocas."
+  },
+  {
+    "char": "死",
+    "components": [
+      {
+        "char": "歹",
+        "meaning_es": "malo, huesos rotos"
+      },
+      {
+        "char": "匕",
+        "meaning_es": "cuchara; persona caída"
+      }
+    ],
+    "mnemonic_es": "Al lado de unos huesos rotos yace una persona caída: ya está muerta."
+  },
+  {
+    "char": "建",
+    "components": [
+      {
+        "char": "廴",
+        "meaning_es": "paso largo"
+      },
+      {
+        "char": "聿",
+        "meaning_es": "pincel"
+      }
+    ],
+    "mnemonic_es": "Con el pincel dibujas los planos y con pasos largos recorres la obra: así se construye un edificio."
+  },
+  {
+    "char": "设",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "殳",
+        "meaning_es": "vara, arma para golpear"
+      }
+    ],
+    "mnemonic_es": "Con palabras firmes y un golpe de vara en la mesa, el jefe establece las reglas y diseña el plan."
+  },
+  {
+    "char": "记",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "己",
+        "meaning_es": "uno mismo"
+      }
+    ],
+    "mnemonic_es": "Anotas las palabras para ti mismo en tu cuaderno y así las recuerdas."
+  },
+  {
+    "char": "图",
+    "components": [
+      {
+        "char": "囗",
+        "meaning_es": "recinto, marco"
+      },
+      {
+        "char": "冬",
+        "meaning_es": "invierno"
+      }
+    ],
+    "mnemonic_es": "Dentro de un marco pintas un paisaje de invierno: es tu dibujo o tu mapa."
+  },
+  {
+    "char": "闻",
+    "components": [
+      {
+        "char": "门",
+        "meaning_es": "puerta"
+      },
+      {
+        "char": "耳",
+        "meaning_es": "oreja"
+      }
+    ],
+    "mnemonic_es": "Pegas la oreja a la puerta para oír las noticias del vecino."
+  },
+  {
+    "char": "南",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez, cruz"
+      },
+      {
+        "char": "冂",
+        "meaning_es": "marco, borde"
+      },
+      {
+        "char": "丷",
+        "meaning_es": "dos gotas"
+      },
+      {
+        "char": "干",
+        "meaning_es": "seco"
+      }
+    ],
+    "mnemonic_es": "Una cruz de brújula sobre una casa donde las gotas se secan rápido por el calor: hacia allá queda el sur."
+  },
+  {
+    "char": "台",
+    "components": [
+      {
+        "char": "厶",
+        "meaning_es": "privado, uno mismo"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Una persona sube a la plataforma y abre la boca para dar su discurso; también es el 台 de Taiwán."
+  },
+  {
+    "char": "湾",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "亦",
+        "meaning_es": "también"
+      },
+      {
+        "char": "弓",
+        "meaning_es": "arco"
+      }
+    ],
+    "mnemonic_es": "El agua del mar se curva como un arco y forma una bahía, como las costas de Taiwán (台湾)."
+  },
+  {
+    "char": "读",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "卖",
+        "meaning_es": "vender"
+      }
+    ],
+    "mnemonic_es": "El vendedor lee en voz alta las palabras de su catálogo para venderte: leer."
+  },
+  {
+    "char": "曾",
+    "components": [
+      {
+        "char": "丷",
+        "meaning_es": "dos gotas, vapor"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo, rejilla"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol, día"
+      }
+    ],
+    "mnemonic_es": "Vapor que sube de una olla con rejilla, como aquel día que alguna vez cocinaste con tu abuela: algo que ya ocurrió antes."
+  },
+  {
+    "char": "参",
+    "components": [
+      {
+        "char": "厶",
+        "meaning_es": "privado, uno mismo"
+      },
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      },
+      {
+        "char": "彡",
+        "meaning_es": "trazos, adornos"
+      }
+    ],
+    "mnemonic_es": "Uno mismo se suma a algo grande y lleno de adornos, como un desfile: ¡participar!"
+  },
+  {
+    "char": "加",
+    "components": [
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Pones fuerza y gritas con la boca «¡vamos!» para añadir más energía: agregar, sumar (¡加油!)."
+  },
+  {
+    "char": "单",
+    "components": [
+      {
+        "char": "丷",
+        "meaning_es": "dos gotas"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo"
+      },
+      {
+        "char": "十",
+        "meaning_es": "diez, cruz"
+      }
+    ],
+    "mnemonic_es": "Un solo campo atravesado por una sola vara larga: todo es único, individual, y queda anotado en una lista."
+  },
+  {
+    "char": "位",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "立",
+        "meaning_es": "pararse, estar de pie"
+      }
+    ],
+    "mnemonic_es": "Una persona de pie en su lugar: ese es su puesto o posición."
+  },
+  {
+    "char": "答",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "合",
+        "meaning_es": "juntar, encajar"
+      }
+    ],
+    "mnemonic_es": "En tablillas de bambú escribes la respuesta que encaja justo con la pregunta: responder."
+  }
+]

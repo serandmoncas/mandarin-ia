@@ -1,0 +1,446 @@
+[
+  {
+    "char": "势",
+    "components": [
+      {
+        "char": "执",
+        "meaning_es": "sostener, agarrar"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Quien sostiene algo con mucha fuerza tiene poder: así se ve el impulso o la tendencia que lo empuja todo."
+  },
+  {
+    "char": "背",
+    "components": [
+      {
+        "char": "北",
+        "meaning_es": "norte (dos personas de espaldas)"
+      },
+      {
+        "char": "月",
+        "meaning_es": "carne, cuerpo"
+      }
+    ],
+    "mnemonic_es": "Arriba, dos personas se dan la espalda; abajo, el cuerpo: imagina la parte del cuerpo que le das a alguien cuando le das la espalda."
+  },
+  {
+    "char": "宜",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "且",
+        "meaning_es": "además, una pila de cosas"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo tienes todo bien apilado y en orden: así es lo adecuado y conveniente."
+  },
+  {
+    "char": "救",
+    "components": [
+      {
+        "char": "求",
+        "meaning_es": "pedir, suplicar"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "mano que golpea, acción"
+      }
+    ],
+    "mnemonic_es": "Alguien suplica ayuda y otro entra en acción de inmediato: eso es rescatar."
+  },
+  {
+    "char": "初",
+    "components": [
+      {
+        "char": "衤",
+        "meaning_es": "ropa"
+      },
+      {
+        "char": "刀",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Para hacer una prenda, lo primero es cortar la tela con el cuchillo: es el comienzo de todo."
+  },
+  {
+    "char": "舒",
+    "components": [
+      {
+        "char": "舍",
+        "meaning_es": "casa, choza"
+      },
+      {
+        "char": "予",
+        "meaning_es": "dar"
+      }
+    ],
+    "mnemonic_es": "Una casa que te dan para descansar: ahí te estiras y te sientes cómodo."
+  },
+  {
+    "char": "夜",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa"
+      },
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "夕",
+        "meaning_es": "atardecer, luna"
+      }
+    ],
+    "mnemonic_es": "Una persona bajo la tapa del cielo mira la luna después del atardecer: ya es de noche."
+  },
+  {
+    "char": "篮",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "监",
+        "meaning_es": "vigilar"
+      }
+    ],
+    "mnemonic_es": "Una canasta tejida de bambú que vigilas para que no se caiga lo que llevas; también el aro del básquetbol."
+  },
+  {
+    "char": "碰",
+    "components": [
+      {
+        "char": "石",
+        "meaning_es": "piedra"
+      },
+      {
+        "char": "並",
+        "meaning_es": "juntos, lado a lado"
+      }
+    ],
+    "mnemonic_es": "Dos piedras puestas lado a lado chocan entre sí: ¡pum!, se topan."
+  },
+  {
+    "char": "伤",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "𠂉",
+        "meaning_es": "techo inclinado"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "A una persona le cae encima un techo con mucha fuerza: queda herida."
+  },
+  {
+    "char": "骑",
+    "components": [
+      {
+        "char": "马",
+        "meaning_es": "caballo"
+      },
+      {
+        "char": "奇",
+        "meaning_es": "extraño, raro"
+      }
+    ],
+    "mnemonic_es": "Montar un caballo raro y salvaje: así se dice cabalgar o andar en bici o moto."
+  },
+  {
+    "char": "喊",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "咸",
+        "meaning_es": "todos; salado"
+      }
+    ],
+    "mnemonic_es": "Abres la boca para llamar a todos a la vez: tienes que gritar."
+  },
+  {
+    "char": "斤",
+    "components": [
+      {
+        "char": "斤",
+        "meaning_es": "hacha; jin (medio kilo)"
+      }
+    ],
+    "mnemonic_es": "Imagina un hacha que corta exactamente medio kilo de carne en el mercado: un jin."
+  },
+  {
+    "char": "千",
+    "components": [
+      {
+        "char": "丿",
+        "meaning_es": "trazo inclinado"
+      },
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      }
+    ],
+    "mnemonic_es": "Un diez con un sombrerito encima se vuelve mucho más grande: mil."
+  },
+  {
+    "char": "紧",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "糸",
+        "meaning_es": "hilo, seda"
+      }
+    ],
+    "mnemonic_es": "Una mano jala el hilo con fuerza hasta dejarlo bien apretado: tenso, ajustado, urgente."
+  },
+  {
+    "char": "修",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "丨",
+        "meaning_es": "palo"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "mano que golpea, acción"
+      },
+      {
+        "char": "彡",
+        "meaning_es": "adornos, trazos"
+      }
+    ],
+    "mnemonic_es": "Una persona con su herramienta trabaja y le da los últimos detalles a algo: lo repara y lo mejora."
+  },
+  {
+    "char": "充",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa"
+      },
+      {
+        "char": "厶",
+        "meaning_es": "privado, uno mismo"
+      },
+      {
+        "char": "儿",
+        "meaning_es": "piernas"
+      }
+    ],
+    "mnemonic_es": "Un niño de piernas cortas come hasta llenarse por completo hasta la tapa: llenar, cargar (como el celular)."
+  },
+  {
+    "char": "湖",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "胡",
+        "meaning_es": "bigote, extranjero"
+      }
+    ],
+    "mnemonic_es": "Un señor bigotón se mira el bigote en el agua quieta: está a la orilla de un lago."
+  },
+  {
+    "char": "笔",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "毛",
+        "meaning_es": "pelo"
+      }
+    ],
+    "mnemonic_es": "Un palito de bambú con pelos en la punta: el pincel chino, y hoy cualquier pluma o lápiz."
+  },
+  {
+    "char": "爬",
+    "components": [
+      {
+        "char": "爪",
+        "meaning_es": "garra"
+      },
+      {
+        "char": "巴",
+        "meaning_es": "pegarse, aferrarse"
+      }
+    ],
+    "mnemonic_es": "Con las garras te aferras a la roca: así trepas o gateas."
+  },
+  {
+    "char": "付",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "mano, pulgada"
+      }
+    ],
+    "mnemonic_es": "Una persona extiende la mano para entregar el dinero: pagar."
+  },
+  {
+    "char": "姓",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "生",
+        "meaning_es": "nacer"
+      }
+    ],
+    "mnemonic_es": "Al nacer de una mujer recibes el nombre de tu familia: tu apellido."
+  },
+  {
+    "char": "输",
+    "components": [
+      {
+        "char": "车",
+        "meaning_es": "vehículo"
+      },
+      {
+        "char": "俞",
+        "meaning_es": "barca, avanzar"
+      }
+    ],
+    "mnemonic_es": "Un camión transporta todas tus cosas lejos y te quedas sin nada: transportar, y también perder."
+  },
+  {
+    "char": "熟",
+    "components": [
+      {
+        "char": "享",
+        "meaning_es": "disfrutar"
+      },
+      {
+        "char": "丸",
+        "meaning_es": "bolita"
+      },
+      {
+        "char": "灬",
+        "meaning_es": "fuego"
+      }
+    ],
+    "mnemonic_es": "Pones bolitas de masa al fuego y las disfrutas cuando están bien cocidas; lo que conoces bien también está 'cocido': familiar."
+  },
+  {
+    "char": "喂",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "畏",
+        "meaning_es": "temer"
+      }
+    ],
+    "mnemonic_es": "Le acercas comida a la boca de un animalito que tiene miedo: alimentar. Y cuando contestas el teléfono con temor de quién será: ¿Bueno? ¿Aló?"
+  },
+  {
+    "char": "疼",
+    "components": [
+      {
+        "char": "疒",
+        "meaning_es": "enfermedad"
+      },
+      {
+        "char": "冬",
+        "meaning_es": "invierno"
+      }
+    ],
+    "mnemonic_es": "Enfermo en pleno invierno, te duelen todos los huesos: dolor."
+  },
+  {
+    "char": "静",
+    "components": [
+      {
+        "char": "青",
+        "meaning_es": "azul verdoso, joven"
+      },
+      {
+        "char": "争",
+        "meaning_es": "pelear, disputar"
+      }
+    ],
+    "mnemonic_es": "Los jóvenes por fin dejan de pelear y todo queda en calma: tranquilo, silencioso."
+  },
+  {
+    "char": "春",
+    "components": [
+      {
+        "char": "三",
+        "meaning_es": "tres"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      }
+    ],
+    "mnemonic_es": "Tres personas salen juntas bajo el sol que vuelve a calentar: llegó la primavera."
+  },
+  {
+    "char": "灯",
+    "components": [
+      {
+        "char": "火",
+        "meaning_es": "fuego"
+      },
+      {
+        "char": "丁",
+        "meaning_es": "clavo"
+      }
+    ],
+    "mnemonic_es": "Un fuego colgado de un clavo en la pared alumbra el cuarto: lámpara, luz."
+  },
+  {
+    "char": "挂",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "圭",
+        "meaning_es": "tablilla de jade (parece dos 土, tierra)"
+      }
+    ],
+    "mnemonic_es": "Con la mano cuelgas una tablilla en la pared; y al terminar una llamada también 'cuelgas' el teléfono."
+  }
+]

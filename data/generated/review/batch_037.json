@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:共",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa434ad0e76d4eed121a32cd57b614c96a1965a0"
+  },
+  {
+    "id": "word:女性",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b9513edca2a118e26fb20cbb00635a17d8cda84"
+  },
+  {
+    "id": "word:上边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "faaaaf22661fb5d246dc849785d8d338b55be24c"
+  },
+  {
+    "id": "word:执行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b627085aec53a555f5fbed100130c7a65c4532a8"
+  },
+  {
+    "id": "word:下课",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e744d2fd6c913cdc4fc5ad579f05bcabd4fa24d6"
+  },
+  {
+    "id": "word:最高",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5fd0cdb04ab5e6d6a37dbbb98154a110f374971"
+  },
+  {
+    "id": "word:外边",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin de 玩儿 está mal. Debe ser «wánr» (erhua), no «wán ér»."
+    ],
+    "content_hash": "dcb3fd5fe2e6421799e19c948081916bdd91c343"
+  },
+  {
+    "id": "word:机关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9213b9f6a4b40480789450ed570b3436e92fe408"
+  },
+  {
+    "id": "word:男孩儿",
+    "ok": false,
+    "issues": [
+      "En todos los ejemplos el pinyin de 男孩儿 está mal. Debe ser «nán háir» (erhua), no «nán hái er»."
+    ],
+    "content_hash": "33621b42be0cbb8cc4b176b57f8f7bf8377712e4"
+  },
+  {
+    "id": "word:用户",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d19d3d8c5e17a8b5aa2ab32ef21941e538b6b7d5"
+  },
+  {
+    "id": "word:解释",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37a3371438268caf457dd96fd4699fb9e34ae8d2"
+  },
+  {
+    "id": "word:渴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c26fae7952d85fd544ffe1745850d50426243384"
+  },
+  {
+    "id": "word:采用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce06ec4b0b43bbd58944ec6a3bd86eeeb55b3738"
+  },
+  {
+    "id": "word:课文",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: para leer un texto completo varias veces lo natural es 读三遍; 读三次 suena menos idiomático."
+    ],
+    "content_hash": "26801a875c4681967a3adc6a9aef6f525e4b9505"
+  },
+  {
+    "id": "word:分别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "751bd67b502f1896085c58e07a3e2ec6d7fd28a5"
+  },
+  {
+    "id": "word:下边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5b069a9d3a9c791aee7672c3048a414e50e9a3d2"
+  },
+  {
+    "id": "word:父亲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f8e3d3244c38deb168cba6a1e0bf8974f04392cf"
+  },
+  {
+    "id": "word:不客气",
+    "ok": true,
+    "issues": [],
+    "content_hash": "041da31e4b77ec7df7ad22dbc6f8ef934ac6226c"
+  },
+  {
+    "id": "word:关注",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51ff35d9507cd55ca5cc84a6e13ad94b406d69f7"
+  },
+  {
+    "id": "word:简单",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86d2563e50b9e948fd503670e2f10d048fd1e5f6"
+  },
+  {
+    "id": "word:没事儿",
+    "ok": false,
+    "issues": [
+      "En todos los ejemplos el pinyin de 没事儿 está mal. Debe ser «méi shìr» (erhua), no «méi shì ér»."
+    ],
+    "content_hash": "d7d8a6f73b0777de0d6908ab44ab31acf5665af7"
+  },
+  {
+    "id": "word:前边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b7d28ff4663f038609c726e63d70fae1b8bb5cd"
+  },
+  {
+    "id": "word:理论",
+    "ok": true,
+    "issues": [],
+    "content_hash": "472d3ed54143f1de79f76c8b59b0337ac631ef5b"
+  },
+  {
+    "id": "word:教学楼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "48a747bdc63cd3b2399c4f9e5de343e83f0398f9"
+  },
+  {
+    "id": "word:讨论",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «Platiquemos» es un regionalismo (México/Centroamérica), no español neutro. Además, «sobre esto» no aparece en el original. Mejor: «Discutámoslo un poco» o «Hablemos un poco de esto»."
+    ],
+    "content_hash": "e143f7f2f8572daaab1c393d4bdfd528a6d5afd5"
+  }
+]

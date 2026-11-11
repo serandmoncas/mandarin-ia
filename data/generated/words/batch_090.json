@@ -1,0 +1,530 @@
+[
+  {
+    "word": "自行车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bicicleta"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的自行车。",
+        "es": "Esta es mi bicicleta."
+      },
+      {
+        "zh": "我想买一辆新自行车。",
+        "es": "Quiero comprar una bicicleta nueva."
+      },
+      {
+        "zh": "他每天骑自行车上学。",
+        "es": "Él va a la escuela en bicicleta todos los días."
+      },
+      {
+        "zh": "骑自行车去公园比开车方便多了。",
+        "es": "Ir al parque en bicicleta es mucho más práctico que manejar."
+      }
+    ]
+  },
+  {
+    "word": "工厂",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fábrica",
+      "planta industrial"
+    ],
+    "examples": [
+      {
+        "zh": "这是一家工厂。",
+        "es": "Esta es una fábrica."
+      },
+      {
+        "zh": "我爸爸在工厂工作。",
+        "es": "Mi papá trabaja en una fábrica."
+      },
+      {
+        "zh": "这个工厂生产汽车。",
+        "es": "Esta fábrica produce autos."
+      },
+      {
+        "zh": "工厂附近的空气越来越不好了。",
+        "es": "El aire cerca de la fábrica está cada vez peor."
+      }
+    ]
+  },
+  {
+    "word": "好人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "buena persona",
+      "persona complaciente que evita conflictos"
+    ],
+    "examples": [
+      {
+        "zh": "他是个好人。",
+        "es": "Él es buena persona."
+      },
+      {
+        "zh": "我觉得你是一个好人。",
+        "es": "Creo que eres una buena persona."
+      },
+      {
+        "zh": "好人不一定有好的生活。",
+        "es": "Las buenas personas no siempre tienen una buena vida."
+      },
+      {
+        "zh": "他总是当好人，从来不说别人的错。",
+        "es": "Él siempre quiere quedar bien con todos y nunca señala los errores de los demás."
+      }
+    ]
+  },
+  {
+    "word": "假期",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vacaciones",
+      "período de descanso"
+    ],
+    "examples": [
+      {
+        "zh": "假期快到了。",
+        "es": "Ya casi llegan las vacaciones."
+      },
+      {
+        "zh": "你假期想去哪里？",
+        "es": "¿A dónde quieres ir en las vacaciones?"
+      },
+      {
+        "zh": "这个假期我在家休息。",
+        "es": "Estas vacaciones voy a descansar en casa."
+      },
+      {
+        "zh": "假期里我和朋友一起去北京旅游了。",
+        "es": "En las vacaciones fui de viaje a Pekín con mis amigos."
+      }
+    ]
+  },
+  {
+    "word": "建",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "construir",
+      "fundar",
+      "establecer"
+    ],
+    "examples": [
+      {
+        "zh": "这里要建一个学校。",
+        "es": "Aquí van a construir una escuela."
+      },
+      {
+        "zh": "这座楼是去年建的。",
+        "es": "Este edificio se construyó el año pasado."
+      },
+      {
+        "zh": "他们想建一家新公司。",
+        "es": "Ellos quieren fundar una nueva empresa."
+      },
+      {
+        "zh": "政府计划在城市东边建一个新机场。",
+        "es": "El gobierno planea construir un nuevo aeropuerto en el este de la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "小时候",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de niño",
+      "en la infancia"
+    ],
+    "examples": [
+      {
+        "zh": "我小时候很爱哭。",
+        "es": "De niño lloraba mucho."
+      },
+      {
+        "zh": "你小时候住在哪里？",
+        "es": "¿Dónde vivías de niño?"
+      },
+      {
+        "zh": "小时候，妈妈常常给我讲故事。",
+        "es": "De niño, mi mamá me contaba cuentos a menudo."
+      },
+      {
+        "zh": "我小时候想当医生，现在真的成了医生。",
+        "es": "De niño quería ser médico, y ahora de verdad lo soy."
+      }
+    ]
+  },
+  {
+    "word": "民间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "popular",
+      "folclórico",
+      "entre la gente",
+      "no gubernamental"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个民间故事。",
+        "es": "Este es un cuento popular."
+      },
+      {
+        "zh": "她很喜欢民间音乐。",
+        "es": "A ella le gusta mucho la música folclórica."
+      },
+      {
+        "zh": "这种说法在民间很流行。",
+        "es": "Esta creencia es muy común entre la gente."
+      },
+      {
+        "zh": "这个民间组织帮助了很多农村的孩子。",
+        "es": "Esta organización no gubernamental ha ayudado a muchos niños del campo."
+      }
+    ]
+  },
+  {
+    "word": "雪",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "nieve",
+      "(literario) lavar una ofensa"
+    ],
+    "examples": [
+      {
+        "zh": "外面下雪了。",
+        "es": "Afuera está nevando."
+      },
+      {
+        "zh": "北京的冬天常常下雪。",
+        "es": "En Pekín suele nevar en invierno."
+      },
+      {
+        "zh": "孩子们在雪里玩得很开心。",
+        "es": "Los niños se divierten mucho jugando en la nieve."
+      },
+      {
+        "zh": "昨天雪下得很大，路上的车都开得很慢。",
+        "es": "Ayer nevó mucho y todos los autos en la calle iban muy despacio."
+      }
+    ]
+  },
+  {
+    "word": "碰到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "encontrarse con",
+      "toparse con",
+      "chocar contra",
+      "tocar"
+    ],
+    "examples": [
+      {
+        "zh": "我在路上碰到了老师。",
+        "es": "Me encontré con el maestro en la calle."
+      },
+      {
+        "zh": "你碰到问题可以问我。",
+        "es": "Si tienes algún problema, puedes preguntarme."
+      },
+      {
+        "zh": "昨天我在商店碰到了一个老朋友。",
+        "es": "Ayer me topé con un viejo amigo en la tienda."
+      },
+      {
+        "zh": "他的头碰到了门，疼得说不出话来。",
+        "es": "Se golpeó la cabeza con la puerta y le dolió tanto que no podía ni hablar."
+      }
+    ]
+  },
+  {
+    "word": "石油",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "petróleo"
+    ],
+    "examples": [
+      {
+        "zh": "石油很重要。",
+        "es": "El petróleo es muy importante."
+      },
+      {
+        "zh": "这个国家有很多石油。",
+        "es": "Este país tiene mucho petróleo."
+      },
+      {
+        "zh": "最近石油的价格又高了。",
+        "es": "Últimamente el precio del petróleo volvió a subir."
+      },
+      {
+        "zh": "很多国家的经济发展都需要石油。",
+        "es": "El desarrollo económico de muchos países necesita petróleo."
+      }
+    ]
+  },
+  {
+    "word": "对面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enfrente",
+      "al otro lado",
+      "frente a frente"
+    ],
+    "examples": [
+      {
+        "zh": "银行在对面。",
+        "es": "El banco está enfrente."
+      },
+      {
+        "zh": "我家对面有一个公园。",
+        "es": "Frente a mi casa hay un parque."
+      },
+      {
+        "zh": "他就坐在我对面看书。",
+        "es": "Él está sentado justo frente a mí, leyendo."
+      },
+      {
+        "zh": "马路对面那家饭店的菜非常好吃。",
+        "es": "La comida del restaurante al otro lado de la calle es muy rica."
+      }
+    ]
+  },
+  {
+    "word": "从小",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desde pequeño",
+      "desde la infancia"
+    ],
+    "examples": [
+      {
+        "zh": "我从小就喜欢音乐。",
+        "es": "Me gusta la música desde pequeño."
+      },
+      {
+        "zh": "她从小在北京长大。",
+        "es": "Ella creció en Pekín desde pequeña."
+      },
+      {
+        "zh": "他从小学习汉语，所以中文说得很好。",
+        "es": "Él estudia chino desde pequeño, por eso lo habla muy bien."
+      },
+      {
+        "zh": "我们从小一起长大，是最好的朋友。",
+        "es": "Crecimos juntos desde pequeños y somos los mejores amigos."
+      }
+    ]
+  },
+  {
+    "word": "卫生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "higiene",
+      "limpieza",
+      "higiénico",
+      "salubridad"
+    ],
+    "examples": [
+      {
+        "zh": "这里不太卫生。",
+        "es": "Este lugar no es muy higiénico."
+      },
+      {
+        "zh": "我们要注意卫生。",
+        "es": "Debemos cuidar la higiene."
+      },
+      {
+        "zh": "吃饭前洗手是好的卫生习惯。",
+        "es": "Lavarse las manos antes de comer es un buen hábito de higiene."
+      },
+      {
+        "zh": "这家饭店的菜很好吃，但是卫生不太好。",
+        "es": "La comida de este restaurante es rica, pero la higiene no es muy buena."
+      }
+    ]
+  },
+  {
+    "word": "考生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aspirante (a un examen)",
+      "persona que presenta un examen"
+    ],
+    "examples": [
+      {
+        "zh": "他是今年的考生。",
+        "es": "Él es uno de los aspirantes de este año."
+      },
+      {
+        "zh": "考生们都很紧张。",
+        "es": "Todos los aspirantes están muy nerviosos."
+      },
+      {
+        "zh": "今年参加考试的考生比去年多。",
+        "es": "Este año hay más aspirantes que presentan el examen que el año pasado."
+      },
+      {
+        "zh": "考试开始以后，考生不能离开房间。",
+        "es": "Después de que empieza el examen, los aspirantes no pueden salir del salón."
+      }
+    ]
+  },
+  {
+    "word": "下面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "debajo",
+      "abajo",
+      "a continuación",
+      "siguiente"
+    ],
+    "examples": [
+      {
+        "zh": "书在桌子下面。",
+        "es": "El libro está debajo de la mesa."
+      },
+      {
+        "zh": "猫在床下面睡觉。",
+        "es": "El gato duerme debajo de la cama."
+      },
+      {
+        "zh": "下面请王老师给我们讲话。",
+        "es": "A continuación, el maestro Wang nos dirigirá unas palabras."
+      },
+      {
+        "zh": "请看下面的图片，然后回答问题。",
+        "es": "Miren la siguiente imagen y luego respondan las preguntas."
+      }
+    ]
+  },
+  {
+    "word": "起飞",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "despegar (un avión)",
+      "(figurado) despegar, crecer rápidamente"
+    ],
+    "examples": [
+      {
+        "zh": "飞机起飞了。",
+        "es": "El avión despegó."
+      },
+      {
+        "zh": "飞机几点起飞？",
+        "es": "¿A qué hora despega el avión?"
+      },
+      {
+        "zh": "因为下雨，飞机晚了一个小时起飞。",
+        "es": "Por la lluvia, el avión despegó una hora tarde."
+      },
+      {
+        "zh": "这几年中国的经济开始起飞了。",
+        "es": "En los últimos años, la economía de China empezó a despegar."
+      }
+    ]
+  },
+  {
+    "word": "信用卡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tarjeta de crédito"
+    ],
+    "examples": [
+      {
+        "zh": "我没有信用卡。",
+        "es": "No tengo tarjeta de crédito."
+      },
+      {
+        "zh": "这里可以用信用卡吗？",
+        "es": "¿Aquí se puede pagar con tarjeta de crédito?"
+      },
+      {
+        "zh": "我的信用卡放在钱包里了。",
+        "es": "Dejé mi tarjeta de crédito en la billetera."
+      },
+      {
+        "zh": "出国旅游的时候，用信用卡比较方便。",
+        "es": "Cuando viajas al extranjero, es más práctico usar tarjeta de crédito."
+      }
+    ]
+  },
+  {
+    "word": "出国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ir al extranjero",
+      "salir del país"
+    ],
+    "examples": [
+      {
+        "zh": "我想出国。",
+        "es": "Quiero ir al extranjero."
+      },
+      {
+        "zh": "你出国旅游过吗？",
+        "es": "¿Alguna vez has viajado al extranjero?"
+      },
+      {
+        "zh": "她明年要出国读书。",
+        "es": "Ella se va a estudiar al extranjero el próximo año."
+      },
+      {
+        "zh": "他出国以后，很少给家里打电话。",
+        "es": "Desde que se fue al extranjero, casi no llama a su familia."
+      }
+    ]
+  },
+  {
+    "word": "厂",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "fábrica",
+      "planta (industrial)",
+      "taller",
+      "depósito"
+    ],
+    "examples": [
+      {
+        "zh": "这个厂很大。",
+        "es": "Esta fábrica es muy grande."
+      },
+      {
+        "zh": "他在厂里工作。",
+        "es": "Él trabaja en la fábrica."
+      },
+      {
+        "zh": "我们厂今年生产了很多汽车。",
+        "es": "Nuestra fábrica produjo muchos autos este año."
+      },
+      {
+        "zh": "这家厂的产品质量好，价格也不贵。",
+        "es": "Los productos de esta fábrica son de buena calidad y no son caros."
+      }
+    ]
+  },
+  {
+    "word": "冬天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "invierno"
+    ],
+    "examples": [
+      {
+        "zh": "冬天很冷。",
+        "es": "En invierno hace mucho frío."
+      },
+      {
+        "zh": "我喜欢冬天，不喜欢夏天。",
+        "es": "Me gusta el invierno, no el verano."
+      },
+      {
+        "zh": "冬天的时候，北京常常下雪。",
+        "es": "En invierno suele nevar en Pekín."
+      },
+      {
+        "zh": "这里的冬天不太冷，很多人来这里旅游。",
+        "es": "Aquí los inviernos no son muy fríos, por eso mucha gente viene de viaje."
+      }
+    ]
+  }
+]

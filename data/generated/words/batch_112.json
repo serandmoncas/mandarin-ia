@@ -1,0 +1,538 @@
+[
+  {
+    "word": "上去",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "subir",
+      "ir arriba"
+    ],
+    "examples": [
+      {
+        "zh": "你上去看看。",
+        "es": "Sube a ver."
+      },
+      {
+        "zh": "我们一起上去吧。",
+        "es": "Subamos juntos."
+      },
+      {
+        "zh": "楼太高了，我不想走上去。",
+        "es": "El edificio es muy alto, no quiero subir caminando."
+      },
+      {
+        "zh": "山很高，但是他还是一个人走上去了。",
+        "es": "La montaña es muy alta, pero aun así él subió caminando solo."
+      }
+    ]
+  },
+  {
+    "word": "自主",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "actuar por cuenta propia",
+      "ser autónomo",
+      "independiente"
+    ],
+    "examples": [
+      {
+        "zh": "孩子需要学会自主。",
+        "es": "Los niños necesitan aprender a ser independientes."
+      },
+      {
+        "zh": "她想自主决定自己的生活。",
+        "es": "Ella quiere decidir su vida por sí misma."
+      },
+      {
+        "zh": "这个国家有自主发展的权利。",
+        "es": "Este país tiene derecho a desarrollarse de forma autónoma."
+      },
+      {
+        "zh": "学校希望学生能自主学习，不要只听老师的。",
+        "es": "La escuela espera que los alumnos aprendan por su cuenta y no solo hagan lo que dice el maestro."
+      }
+    ]
+  },
+  {
+    "word": "另一方面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por otro lado",
+      "por otra parte",
+      "otro aspecto"
+    ],
+    "examples": [
+      {
+        "zh": "这个房子很大，另一方面也很贵。",
+        "es": "Esta casa es muy grande, pero por otro lado también es muy cara."
+      },
+      {
+        "zh": "城市生活很方便，另一方面空气不太好。",
+        "es": "La vida en la ciudad es muy cómoda; por otro lado, el aire no es muy bueno."
+      },
+      {
+        "zh": "一方面我想工作，另一方面我也想学习。",
+        "es": "Por un lado quiero trabajar y, por otro, también quiero estudiar."
+      },
+      {
+        "zh": "一方面他喜欢这个工作，另一方面压力太大。",
+        "es": "Por un lado le gusta este trabajo, pero por otro la presión es demasiada."
+      }
+    ]
+  },
+  {
+    "word": "退",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "retroceder",
+      "devolver (algo comprado)",
+      "retirarse",
+      "renunciar"
+    ],
+    "examples": [
+      {
+        "zh": "请往后退一点。",
+        "es": "Por favor, retrocede un poco."
+      },
+      {
+        "zh": "我买的票可以退吗？",
+        "es": "¿Puedo devolver el boleto que compré?"
+      },
+      {
+        "zh": "这件衣服太小了，我想退了。",
+        "es": "Esta ropa me queda muy chica, quiero devolverla."
+      },
+      {
+        "zh": "他老了，明年就要从公司退下来了。",
+        "es": "Ya está mayor; el próximo año se va a retirar de la empresa."
+      }
+    ]
+  },
+  {
+    "word": "公务员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "funcionario público",
+      "empleado del gobierno"
+    ],
+    "examples": [
+      {
+        "zh": "我爸爸是公务员。",
+        "es": "Mi papá es funcionario público."
+      },
+      {
+        "zh": "她想当公务员。",
+        "es": "Ella quiere ser funcionaria pública."
+      },
+      {
+        "zh": "很多大学生想考公务员。",
+        "es": "Muchos universitarios quieren presentar el examen para ser funcionarios públicos."
+      },
+      {
+        "zh": "公务员的工作很稳定，但是收入不太高。",
+        "es": "El trabajo de funcionario público es muy estable, pero el sueldo no es muy alto."
+      }
+    ]
+  },
+  {
+    "word": "念",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "leer en voz alta",
+      "estudiar (en una escuela)",
+      "extrañar a alguien",
+      "idea"
+    ],
+    "examples": [
+      {
+        "zh": "请你念一下这个字。",
+        "es": "Por favor, lee en voz alta este carácter."
+      },
+      {
+        "zh": "老师让我们念课文。",
+        "es": "El maestro nos pidió leer el texto de la lección en voz alta."
+      },
+      {
+        "zh": "我妹妹在北京念大学。",
+        "es": "Mi hermana menor estudia la universidad en Pekín."
+      },
+      {
+        "zh": "妈妈每天都念着在外国的儿子。",
+        "es": "Mamá piensa todos los días en su hijo que está en el extranjero."
+      }
+    ]
+  },
+  {
+    "word": "前后",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alrededor de (en el tiempo)",
+      "en total, de principio a fin",
+      "delante y detrás"
+    ],
+    "examples": [
+      {
+        "zh": "房子前后都有树。",
+        "es": "Hay árboles delante y detrás de la casa."
+      },
+      {
+        "zh": "春节前后火车票很难买。",
+        "es": "Alrededor del Año Nuevo chino es muy difícil comprar boletos de tren."
+      },
+      {
+        "zh": "我们前后见了三次面。",
+        "es": "En total nos vimos tres veces."
+      },
+      {
+        "zh": "这件事前后用了三年时间才完成。",
+        "es": "De principio a fin, este asunto tardó tres años en completarse."
+      }
+    ]
+  },
+  {
+    "word": "银",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "plata",
+      "plateado",
+      "relacionado con el dinero"
+    ],
+    "examples": [
+      {
+        "zh": "这个杯子是银的。",
+        "es": "Esta taza es de plata."
+      },
+      {
+        "zh": "她的手机是银色的。",
+        "es": "Su celular es plateado."
+      },
+      {
+        "zh": "银比金便宜多了。",
+        "es": "La plata es mucho más barata que el oro."
+      },
+      {
+        "zh": "奶奶送给我一个银杯子作为生日礼物。",
+        "es": "Mi abuela me regaló una taza de plata de cumpleaños."
+      }
+    ]
+  },
+  {
+    "word": "顿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clasificador para comidas",
+      "clasificador para regaños o golpizas",
+      "hacer una pausa"
+    ],
+    "examples": [
+      {
+        "zh": "我一天吃三顿饭。",
+        "es": "Como tres veces al día."
+      },
+      {
+        "zh": "今晚我请你吃顿好的。",
+        "es": "Esta noche te invito a comer algo rico."
+      },
+      {
+        "zh": "他回家太晚，被妈妈说了一顿。",
+        "es": "Llegó a casa muy tarde y su mamá lo regañó."
+      },
+      {
+        "zh": "老师说到这里顿了一下，然后继续讲。",
+        "es": "Al llegar a este punto, el maestro hizo una pausa y luego siguió hablando."
+      }
+    ]
+  },
+  {
+    "word": "决赛",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "final (de una competencia)"
+    ],
+    "examples": [
+      {
+        "zh": "明天是决赛。",
+        "es": "Mañana es la final."
+      },
+      {
+        "zh": "我们队进入决赛了！",
+        "es": "¡Nuestro equipo llegó a la final!"
+      },
+      {
+        "zh": "这场决赛非常精彩。",
+        "es": "Esta final estuvo buenísima."
+      },
+      {
+        "zh": "虽然他们在决赛中输了，但是大家都很高兴。",
+        "es": "Aunque perdieron en la final, todos estaban muy contentos."
+      }
+    ]
+  },
+  {
+    "word": "决心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "determinación",
+      "resolución",
+      "decidirse firmemente"
+    ],
+    "examples": [
+      {
+        "zh": "他很有决心。",
+        "es": "Él tiene mucha determinación."
+      },
+      {
+        "zh": "我下决心学好汉语。",
+        "es": "Me propuse aprender bien chino."
+      },
+      {
+        "zh": "她决心每天早上六点起床跑步。",
+        "es": "Ella decidió levantarse todos los días a las seis de la mañana para correr."
+      },
+      {
+        "zh": "只要有决心，没有什么问题是不能解决的。",
+        "es": "Si tienes determinación, no hay problema que no se pueda resolver."
+      }
+    ]
+  },
+  {
+    "word": "愿望",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "deseo",
+      "anhelo"
+    ],
+    "examples": [
+      {
+        "zh": "你的愿望是什么？",
+        "es": "¿Cuál es tu deseo?"
+      },
+      {
+        "zh": "我的愿望是去中国旅游。",
+        "es": "Mi deseo es viajar a China."
+      },
+      {
+        "zh": "我希望你的愿望都能实现。",
+        "es": "Espero que todos tus deseos se hagan realidad."
+      },
+      {
+        "zh": "她最大的愿望就是让父母过上好日子。",
+        "es": "Su mayor deseo es que sus papás tengan una buena vida."
+      }
+    ]
+  },
+  {
+    "word": "播出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "transmitir",
+      "emitir",
+      "salir al aire"
+    ],
+    "examples": [
+      {
+        "zh": "新闻几点播出？",
+        "es": "¿A qué hora transmiten las noticias?"
+      },
+      {
+        "zh": "这个节目每天晚上播出。",
+        "es": "Este programa se transmite todas las noches."
+      },
+      {
+        "zh": "这部电视剧明年在中国播出。",
+        "es": "Esta serie se va a estrenar en China el próximo año."
+      },
+      {
+        "zh": "比赛将在今天下午三点通过电视台播出。",
+        "es": "El partido se transmitirá por televisión hoy a las tres de la tarde."
+      }
+    ]
+  },
+  {
+    "word": "短期",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "corto plazo",
+      "de corta duración",
+      "temporal"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个短期工作。",
+        "es": "Este es un trabajo temporal."
+      },
+      {
+        "zh": "我想去北京上短期汉语课。",
+        "es": "Quiero ir a Pekín a tomar un curso corto de chino."
+      },
+      {
+        "zh": "这个问题短期内很难解决。",
+        "es": "Este problema es difícil de resolver a corto plazo."
+      },
+      {
+        "zh": "这个计划短期看没有效果，但是长期来看很重要。",
+        "es": "A corto plazo este plan no tiene resultados, pero a largo plazo es muy importante."
+      }
+    ]
+  },
+  {
+    "word": "年纪",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "edad"
+    ],
+    "examples": [
+      {
+        "zh": "你爷爷多大年纪了？",
+        "es": "¿Cuántos años tiene tu abuelo?"
+      },
+      {
+        "zh": "她年纪很小，但是非常认真。",
+        "es": "Ella es muy joven, pero muy responsable."
+      },
+      {
+        "zh": "年纪大了，身体就不如以前了。",
+        "es": "Con la edad, el cuerpo ya no es como antes."
+      },
+      {
+        "zh": "虽然他年纪大了，但是每天还坚持走路一小时。",
+        "es": "Aunque ya es mayor, sigue caminando una hora todos los días."
+      }
+    ]
+  },
+  {
+    "word": "去世",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fallecer",
+      "morir"
+    ],
+    "examples": [
+      {
+        "zh": "我奶奶去世了。",
+        "es": "Mi abuela falleció."
+      },
+      {
+        "zh": "她父亲三年前去世了。",
+        "es": "Su padre falleció hace tres años."
+      },
+      {
+        "zh": "他父亲去世以后，他就开始工作了。",
+        "es": "Después de que murió su padre, él empezó a trabajar."
+      },
+      {
+        "zh": "这位作家在八十岁时去世，留下了很多作品。",
+        "es": "Este escritor falleció a los ochenta años y dejó muchas obras."
+      }
+    ]
+  },
+  {
+    "word": "危害",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dañar",
+      "perjudicar",
+      "poner en peligro",
+      "daño"
+    ],
+    "examples": [
+      {
+        "zh": "喝酒会危害身体。",
+        "es": "Tomar alcohol daña el cuerpo."
+      },
+      {
+        "zh": "烟对身体有很大的危害。",
+        "es": "El cigarro hace mucho daño al cuerpo."
+      },
+      {
+        "zh": "这些东西会危害孩子的健康。",
+        "es": "Estas cosas pueden perjudicar la salud de los niños."
+      },
+      {
+        "zh": "空气不好会危害人们的健康，我们必须保护环境。",
+        "es": "El aire contaminado pone en peligro la salud de las personas; debemos proteger el medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "中部",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parte central",
+      "región central",
+      "centro"
+    ],
+    "examples": [
+      {
+        "zh": "我家在城市中部。",
+        "es": "Mi casa está en el centro de la ciudad."
+      },
+      {
+        "zh": "这个国家的中部有很多山。",
+        "es": "En la región central de este país hay muchas montañas."
+      },
+      {
+        "zh": "中国中部的城市发展很快。",
+        "es": "Las ciudades del centro de China se están desarrollando muy rápido."
+      },
+      {
+        "zh": "河南在中国中部，是一个人口很多的省。",
+        "es": "Henan está en el centro de China y es una provincia muy poblada."
+      }
+    ]
+  },
+  {
+    "word": "抓住",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "agarrar",
+      "atrapar",
+      "aprovechar (una oportunidad)"
+    ],
+    "examples": [
+      {
+        "zh": "快抓住他！",
+        "es": "¡Atrápalo rápido!"
+      },
+      {
+        "zh": "请抓住我的手。",
+        "es": "Por favor, agarra mi mano."
+      },
+      {
+        "zh": "警察抓住了那个坏人。",
+        "es": "La policía atrapó al delincuente."
+      },
+      {
+        "zh": "你要抓住这次机会，不要再等了。",
+        "es": "Tienes que aprovechar esta oportunidad, no esperes más."
+      }
+    ]
+  },
+  {
+    "word": "定期",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "periódicamente",
+      "con regularidad",
+      "periódico",
+      "a plazo fijo"
+    ],
+    "examples": [
+      {
+        "zh": "我定期去看医生。",
+        "es": "Voy al médico con regularidad."
+      },
+      {
+        "zh": "我们要定期洗车。",
+        "es": "Tenemos que lavar el carro periódicamente."
+      },
+      {
+        "zh": "公司每个月定期开会。",
+        "es": "La empresa tiene reuniones periódicas cada mes."
+      },
+      {
+        "zh": "为了身体健康，最好每年定期检查一次身体。",
+        "es": "Para cuidar la salud, lo mejor es hacerse un chequeo médico una vez al año."
+      }
+    ]
+  }
+]

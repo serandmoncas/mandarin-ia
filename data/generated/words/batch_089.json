@@ -1,0 +1,534 @@
+[
+  {
+    "word": "灯",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "luz",
+      "lámpara",
+      "farol"
+    ],
+    "examples": [
+      {
+        "zh": "请开灯。",
+        "es": "Por favor, enciende la luz."
+      },
+      {
+        "zh": "房间里的灯坏了。",
+        "es": "La lámpara del cuarto se descompuso."
+      },
+      {
+        "zh": "睡觉前别忘记关灯。",
+        "es": "No olvides apagar la luz antes de dormir."
+      },
+      {
+        "zh": "晚上我常常在灯下看书。",
+        "es": "En la noche suelo leer bajo la lámpara."
+      }
+    ]
+  },
+  {
+    "word": "这时",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en ese momento",
+      "en este momento",
+      "entonces"
+    ],
+    "examples": [
+      {
+        "zh": "这时，电话响了。",
+        "es": "En ese momento sonó el teléfono."
+      },
+      {
+        "zh": "这时，他突然笑了。",
+        "es": "En ese momento, él de repente se rio."
+      },
+      {
+        "zh": "这时，老师走进了房间。",
+        "es": "En ese momento, el maestro entró al cuarto."
+      },
+      {
+        "zh": "我正要出门，这时外边下雨了。",
+        "es": "Estaba a punto de salir cuando empezó a llover afuera."
+      }
+    ]
+  },
+  {
+    "word": "从来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nunca (en frases negativas)",
+      "siempre",
+      "desde siempre"
+    ],
+    "examples": [
+      {
+        "zh": "我从来不喝酒。",
+        "es": "Yo nunca tomo alcohol."
+      },
+      {
+        "zh": "她从来不吃肉。",
+        "es": "Ella nunca come carne."
+      },
+      {
+        "zh": "他从来没去过北京。",
+        "es": "Él nunca ha ido a Pekín."
+      },
+      {
+        "zh": "我从来没见过这么漂亮的花园。",
+        "es": "Nunca había visto un jardín tan bonito."
+      }
+    ]
+  },
+  {
+    "word": "大约",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aproximadamente",
+      "más o menos",
+      "probablemente"
+    ],
+    "examples": [
+      {
+        "zh": "他大约三十岁。",
+        "es": "Él tiene unos treinta años."
+      },
+      {
+        "zh": "这本书大约有两百页。",
+        "es": "Este libro tiene aproximadamente doscientas páginas."
+      },
+      {
+        "zh": "我们大约下午五点见面。",
+        "es": "Nos vemos más o menos a las cinco de la tarde."
+      },
+      {
+        "zh": "从这里到机场大约要一个小时。",
+        "es": "De aquí al aeropuerto se tarda aproximadamente una hora."
+      }
+    ]
+  },
+  {
+    "word": "相机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cámara (fotográfica)"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的新相机。",
+        "es": "Esta es mi cámara nueva."
+      },
+      {
+        "zh": "你的相机多少钱？",
+        "es": "¿Cuánto costó tu cámara?"
+      },
+      {
+        "zh": "我用相机拍了很多照片。",
+        "es": "Tomé muchas fotos con la cámara."
+      },
+      {
+        "zh": "去旅行的时候，别忘记带相机。",
+        "es": "Cuando vayas de viaje, no olvides llevar la cámara."
+      }
+    ]
+  },
+  {
+    "word": "挂",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "colgar",
+      "colgar (el teléfono)",
+      "reprobar (un examen, coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "请把衣服挂在这里。",
+        "es": "Por favor, cuelga la ropa aquí."
+      },
+      {
+        "zh": "墙上挂着一张地图。",
+        "es": "En la pared hay un mapa colgado."
+      },
+      {
+        "zh": "他没说再见就挂了电话。",
+        "es": "Colgó el teléfono sin decir adiós."
+      },
+      {
+        "zh": "她把我们的照片挂在房间的墙上。",
+        "es": "Ella colgó nuestra foto en la pared de su cuarto."
+      }
+    ]
+  },
+  {
+    "word": "有意思",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "interesante",
+      "divertido",
+      "con sentido"
+    ],
+    "examples": [
+      {
+        "zh": "这本书很有意思。",
+        "es": "Este libro es muy interesante."
+      },
+      {
+        "zh": "他是一个很有意思的人。",
+        "es": "Él es una persona muy interesante."
+      },
+      {
+        "zh": "你觉得这个电影有意思吗？",
+        "es": "¿Te parece interesante esta película?"
+      },
+      {
+        "zh": "学习汉语比我想的更有意思。",
+        "es": "Estudiar chino es más divertido de lo que pensaba."
+      }
+    ]
+  },
+  {
+    "word": "就业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "empleo",
+      "conseguir trabajo",
+      "emplearse"
+    ],
+    "examples": [
+      {
+        "zh": "大学生就业很难。",
+        "es": "Para los universitarios es difícil conseguir trabajo."
+      },
+      {
+        "zh": "政府在努力增加就业。",
+        "es": "El gobierno se está esforzando por aumentar el empleo."
+      },
+      {
+        "zh": "这个专业的就业情况很好。",
+        "es": "La situación laboral de esta carrera es muy buena."
+      },
+      {
+        "zh": "城市的发展给农民带来了很多就业机会。",
+        "es": "El desarrollo de la ciudad les dio a los campesinos muchas oportunidades de empleo."
+      }
+    ]
+  },
+  {
+    "word": "常用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de uso común",
+      "frecuente",
+      "usar con frecuencia"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个常用的字。",
+        "es": "Este es un carácter de uso común."
+      },
+      {
+        "zh": "你常用什么手机软件？",
+        "es": "¿Qué aplicaciones del celular usas con frecuencia?"
+      },
+      {
+        "zh": "这些都是常用的汉语词。",
+        "es": "Todas estas son palabras comunes del chino."
+      },
+      {
+        "zh": "学汉语要先学最常用的汉字。",
+        "es": "Para aprender chino, primero hay que aprender los caracteres más comunes."
+      }
+    ]
+  },
+  {
+    "word": "领",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recibir",
+      "guiar",
+      "llevar (a alguien)",
+      "cuello (de ropa)"
+    ],
+    "examples": [
+      {
+        "zh": "请到前边领票。",
+        "es": "Por favor, pase adelante a recoger su boleto."
+      },
+      {
+        "zh": "他领我去了图书馆。",
+        "es": "Él me llevó a la biblioteca."
+      },
+      {
+        "zh": "老师领着学生参观了学校。",
+        "es": "El maestro guio a los alumnos en un recorrido por la escuela."
+      },
+      {
+        "zh": "每个人都可以在门口免费领一本书。",
+        "es": "Cada persona puede recibir un libro gratis en la entrada."
+      }
+    ]
+  },
+  {
+    "word": "超市",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "supermercado"
+    ],
+    "examples": [
+      {
+        "zh": "我去超市买东西。",
+        "es": "Voy al supermercado a hacer compras."
+      },
+      {
+        "zh": "超市里的水果很便宜。",
+        "es": "La fruta del supermercado es muy barata."
+      },
+      {
+        "zh": "我家附近有一个大超市。",
+        "es": "Cerca de mi casa hay un supermercado grande."
+      },
+      {
+        "zh": "下班以后，妈妈常常去超市买菜。",
+        "es": "Después del trabajo, mi mamá suele ir al supermercado a comprar comida."
+      }
+    ]
+  },
+  {
+    "word": "确保",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "asegurar",
+      "garantizar"
+    ],
+    "examples": [
+      {
+        "zh": "我们要确保安全。",
+        "es": "Tenemos que garantizar la seguridad."
+      },
+      {
+        "zh": "请确保门已经关好了。",
+        "es": "Por favor, asegúrate de que la puerta esté bien cerrada."
+      },
+      {
+        "zh": "出门前，请确保带了手机和钱包。",
+        "es": "Antes de salir, asegúrate de llevar el celular y la cartera."
+      },
+      {
+        "zh": "政府必须确保每个孩子都能上学。",
+        "es": "El gobierno debe garantizar que todos los niños puedan ir a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "完整",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "completo",
+      "íntegro",
+      "intacto"
+    ],
+    "examples": [
+      {
+        "zh": "这个故事不完整。",
+        "es": "Esta historia no está completa."
+      },
+      {
+        "zh": "请写一个完整的句子。",
+        "es": "Por favor, escribe una oración completa."
+      },
+      {
+        "zh": "我想看完整的视频。",
+        "es": "Quiero ver el video completo."
+      },
+      {
+        "zh": "这座老房子到现在还很完整。",
+        "es": "Esta casa vieja todavía se conserva intacta."
+      }
+    ]
+  },
+  {
+    "word": "全年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo el año",
+      "el año entero"
+    ],
+    "examples": [
+      {
+        "zh": "这里全年都很热。",
+        "es": "Aquí hace calor todo el año."
+      },
+      {
+        "zh": "这个公园全年开放。",
+        "es": "Este parque abre todo el año."
+      },
+      {
+        "zh": "这家商店全年只休息三天。",
+        "es": "Esta tienda solo cierra tres días en todo el año."
+      },
+      {
+        "zh": "公司今年全年的收入比去年高。",
+        "es": "Los ingresos de la empresa en todo este año fueron mayores que los del año pasado."
+      }
+    ]
+  },
+  {
+    "word": "消失",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desaparecer",
+      "desvanecerse"
+    ],
+    "examples": [
+      {
+        "zh": "他突然消失了。",
+        "es": "Él desapareció de repente."
+      },
+      {
+        "zh": "太阳慢慢消失了。",
+        "es": "El sol fue desapareciendo poco a poco."
+      },
+      {
+        "zh": "有些传统文化正在慢慢消失。",
+        "es": "Algunas culturas tradicionales están desapareciendo poco a poco."
+      },
+      {
+        "zh": "很多动物正在从地球上消失。",
+        "es": "Muchos animales están desapareciendo de la Tierra."
+      }
+    ]
+  },
+  {
+    "word": "闻",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "oler",
+      "olfatear",
+      "oír",
+      "noticia"
+    ],
+    "examples": [
+      {
+        "zh": "你闻，这是什么味道？",
+        "es": "Huele, ¿qué olor es este?"
+      },
+      {
+        "zh": "我闻到了花的味道。",
+        "es": "Sentí el olor de las flores."
+      },
+      {
+        "zh": "这个菜闻起来很好吃。",
+        "es": "Este platillo huele muy rico."
+      },
+      {
+        "zh": "他闻了闻牛奶，觉得有点不对。",
+        "es": "Olió la leche y sintió que algo no estaba bien."
+      }
+    ]
+  },
+  {
+    "word": "护照",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasaporte"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的护照。",
+        "es": "Este es mi pasaporte."
+      },
+      {
+        "zh": "我的护照找不到了。",
+        "es": "No encuentro mi pasaporte."
+      },
+      {
+        "zh": "请给我看一下你的护照。",
+        "es": "Por favor, muéstreme su pasaporte."
+      },
+      {
+        "zh": "去外国旅行的时候，一定要带护照。",
+        "es": "Cuando viajes al extranjero, tienes que llevar el pasaporte."
+      }
+    ]
+  },
+  {
+    "word": "直播",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "transmisión en vivo",
+      "transmitir en vivo",
+      "hacer un en vivo (en internet)"
+    ],
+    "examples": [
+      {
+        "zh": "我常常在网上看直播。",
+        "es": "Seguido veo transmisiones en vivo por internet."
+      },
+      {
+        "zh": "今天晚上有足球比赛的直播。",
+        "es": "Hoy en la noche transmiten en vivo el partido de fútbol."
+      },
+      {
+        "zh": "电视台正在直播这场比赛。",
+        "es": "El canal de televisión está transmitiendo este partido en vivo."
+      },
+      {
+        "zh": "很多年轻人喜欢在手机上看直播。",
+        "es": "A muchos jóvenes les gusta ver transmisiones en vivo en el celular."
+      }
+    ]
+  },
+  {
+    "word": "难题",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "problema difícil",
+      "reto",
+      "dilema"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个难题。",
+        "es": "Este es un problema difícil."
+      },
+      {
+        "zh": "老师给了我们一道难题。",
+        "es": "El maestro nos puso un problema difícil."
+      },
+      {
+        "zh": "他很快就解决了这个难题。",
+        "es": "Él resolvió muy rápido este problema difícil."
+      },
+      {
+        "zh": "找工作是很多大学生面对的难题。",
+        "es": "Encontrar trabajo es un reto que enfrentan muchos universitarios."
+      }
+    ]
+  },
+  {
+    "word": "早晨",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mañana (temprano)",
+      "madrugada"
+    ],
+    "examples": [
+      {
+        "zh": "早晨的空气很好。",
+        "es": "El aire de la mañana es muy bueno."
+      },
+      {
+        "zh": "我每天早晨六点起床。",
+        "es": "Todos los días me levanto a las seis de la mañana."
+      },
+      {
+        "zh": "他早晨常常去公园运动。",
+        "es": "En las mañanas él suele ir al parque a hacer ejercicio."
+      },
+      {
+        "zh": "春天的早晨，鸟在树上唱歌。",
+        "es": "En las mañanas de primavera, los pájaros cantan en los árboles."
+      }
+    ]
+  }
+]

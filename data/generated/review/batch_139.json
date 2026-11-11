@@ -1,0 +1,155 @@
+[
+  {
+    "id": "char:筷",
+    "ok": true,
+    "issues": [],
+    "content_hash": "edd46a9fa51054c6afadb64efdcb047b6154b45a"
+  },
+  {
+    "id": "char:奇",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8c7d48ad0b3912448b609f1d66e125f760da7c40"
+  },
+  {
+    "id": "char:怪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f89b40462f0ea683794a4dc39fbaf670e8d32138"
+  },
+  {
+    "id": "char:退",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c4a4020c1547877bf6443bba288d61e2e90e8c6"
+  },
+  {
+    "id": "char:血",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c65a9b7b858bbcc3263dad6cfa990ac63f346ff7"
+  },
+  {
+    "id": "char:猪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ecbee9e35c4bcdd0097ec563d5906d7e8631d3f"
+  },
+  {
+    "id": "char:朝",
+    "ok": false,
+    "issues": [
+      "La descomposición está incompleta: el lado izquierdo es 十 + 日 + 十 (hay dos 十, arriba y abajo del 日), no uno solo.",
+      "Incoherencia entre componentes y mnemotecnia: el componente se glosa como 十 = diez, pero la mnemotecnia habla de «hierba» sin explicar la relación (los dos 十 representan hierba alrededor del sol)."
+    ],
+    "content_hash": "71359cf867cc30cf558fed6e88b67406909075f3"
+  },
+  {
+    "id": "char:姑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e36cbccab8135f3cd666b0d865f540bc5aeb964"
+  },
+  {
+    "id": "char:娘",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8c34bb391ffd3c0531f6133a78974cadbf4848e9"
+  },
+  {
+    "id": "char:升",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af490a91073e46ec6d9191387e8ea8ddf750a091"
+  },
+  {
+    "id": "char:屋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c7f600fe50ccd8dcfc6883c48a3dfed54227b2e"
+  },
+  {
+    "id": "char:舞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7200836fe3a8d2ab41f1fc7f5d3c8364cb3a8e59"
+  },
+  {
+    "id": "char:防",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6dd79b0fdb06abafd0d4671d67b038dfd8341044"
+  },
+  {
+    "id": "char:浪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "babe1e6f0b6cd6a404e05ca1bdd0ff2f6d964fe3"
+  },
+  {
+    "id": "char:庆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87531749019427e4510580d3d4366f93d0b75af1"
+  },
+  {
+    "id": "char:祝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b31a105089fe7753863f1bbbcac10f6dc2b661a"
+  },
+  {
+    "id": "char:咖",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ad49509cca85d0b9398890a437107a30e258552"
+  },
+  {
+    "id": "char:啡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d4ea3c165021be61211fcf69e49308851924412"
+  },
+  {
+    "id": "char:华",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c360c8ca209b5b1f2abe1ecdf22d55475879ced"
+  },
+  {
+    "id": "char:剧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5a0fe7022647df818b680f8012a1479b817f656"
+  },
+  {
+    "id": "char:架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d687879f30c703d04cd1ea559c7a4bae06df795"
+  },
+  {
+    "id": "char:刀",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d4dfb5c1aabbb8d4bee90f146758e39bac3dad6"
+  },
+  {
+    "id": "char:桥",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b475f342295e7a1c3304c72829c04fcf51aca13"
+  },
+  {
+    "id": "char:落",
+    "ok": true,
+    "issues": [],
+    "content_hash": "39e4595f1061311a47abee45dd76cc764cef795b"
+  },
+  {
+    "id": "char:搬",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3c89561bed7b9a9e2a9d40dbb748931acbfc51d"
+  }
+]

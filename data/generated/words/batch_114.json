@@ -1,0 +1,538 @@
+[
+  {
+    "word": "热爱",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "amar profundamente",
+      "adorar",
+      "sentir pasión por"
+    ],
+    "examples": [
+      {
+        "zh": "我热爱中国文化。",
+        "es": "Amo profundamente la cultura china."
+      },
+      {
+        "zh": "他非常热爱自己的工作。",
+        "es": "Él ama muchísimo su trabajo."
+      },
+      {
+        "zh": "我们都热爱和平。",
+        "es": "Todos amamos la paz."
+      },
+      {
+        "zh": "她从小就热爱音乐，现在是一名老师。",
+        "es": "Desde niña le apasiona la música, y ahora es maestra."
+      }
+    ]
+  },
+  {
+    "word": "糖",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "azúcar",
+      "dulce",
+      "caramelo"
+    ],
+    "examples": [
+      {
+        "zh": "我不吃糖。",
+        "es": "Yo no como azúcar."
+      },
+      {
+        "zh": "你的咖啡要加糖吗？",
+        "es": "¿Le pones azúcar a tu café?"
+      },
+      {
+        "zh": "妈妈说吃太多糖对身体不好。",
+        "es": "Mamá dice que comer mucha azúcar hace daño."
+      },
+      {
+        "zh": "孩子们喜欢糖，但是医生说要少吃。",
+        "es": "A los niños les gustan los dulces, pero el médico dice que deben comer menos."
+      }
+    ]
+  },
+  {
+    "word": "初中",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "secundaria",
+      "escuela secundaria básica"
+    ],
+    "examples": [
+      {
+        "zh": "我弟弟上初中了。",
+        "es": "Mi hermano menor ya está en la secundaria."
+      },
+      {
+        "zh": "她是初中老师。",
+        "es": "Ella es maestra de secundaria."
+      },
+      {
+        "zh": "我们是初中同学。",
+        "es": "Fuimos compañeros en la secundaria."
+      },
+      {
+        "zh": "初中的时候，我最喜欢的课是历史。",
+        "es": "En la secundaria, mi materia favorita era historia."
+      }
+    ]
+  },
+  {
+    "word": "带动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "impulsar",
+      "estimular",
+      "arrastrar consigo"
+    ],
+    "examples": [
+      {
+        "zh": "旅游带动了经济。",
+        "es": "El turismo impulsó la economía."
+      },
+      {
+        "zh": "他的热情带动了大家。",
+        "es": "Su entusiasmo animó a todos."
+      },
+      {
+        "zh": "新技术带动了很多行业的发展。",
+        "es": "La nueva tecnología impulsó el desarrollo de muchas industrias."
+      },
+      {
+        "zh": "这个项目带动了当地经济，也增加了工作机会。",
+        "es": "Este proyecto impulsó la economía local y también creó más empleos."
+      }
+    ]
+  },
+  {
+    "word": "高速公路",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "autopista",
+      "carretera de alta velocidad"
+    ],
+    "examples": [
+      {
+        "zh": "这条高速公路很长。",
+        "es": "Esta autopista es muy larga."
+      },
+      {
+        "zh": "我们开车上了高速公路。",
+        "es": "Tomamos la autopista en el auto."
+      },
+      {
+        "zh": "高速公路上车很多，开慢一点。",
+        "es": "Hay muchos autos en la autopista; maneja más despacio."
+      },
+      {
+        "zh": "从北京到上海，可以走高速公路，也可以坐火车。",
+        "es": "De Pekín a Shanghái puedes ir por la autopista o en tren."
+      }
+    ]
+  },
+  {
+    "word": "胜",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ganar",
+      "vencer",
+      "ser mejor que",
+      "victoria"
+    ],
+    "examples": [
+      {
+        "zh": "我们队胜了。",
+        "es": "Nuestro equipo ganó."
+      },
+      {
+        "zh": "只要努力，我们一定能胜。",
+        "es": "Si nos esforzamos, seguro vamos a ganar."
+      },
+      {
+        "zh": "这次比赛，红队以三比零胜了蓝队。",
+        "es": "En este partido, el equipo rojo le ganó tres a cero al azul."
+      },
+      {
+        "zh": "经过一个小时的比赛，我们终于胜了对手。",
+        "es": "Después de una hora de juego, por fin vencimos al rival."
+      }
+    ]
+  },
+  {
+    "word": "土",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "tierra",
+      "polvo",
+      "local",
+      "anticuado, poco sofisticado"
+    ],
+    "examples": [
+      {
+        "zh": "地上都是土。",
+        "es": "El piso está lleno de tierra."
+      },
+      {
+        "zh": "这件衣服太土了。",
+        "es": "Esta ropa está muy pasada de moda."
+      },
+      {
+        "zh": "树需要好的土才能长大。",
+        "es": "Los árboles necesitan buena tierra para crecer."
+      },
+      {
+        "zh": "他刚从农村来，大家觉得他很土，但他不生气。",
+        "es": "Acaba de llegar del campo y todos piensan que es poco sofisticado, pero no se enoja."
+      }
+    ]
+  },
+  {
+    "word": "只好",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no tener más remedio que",
+      "tener que",
+      "verse obligado a"
+    ],
+    "examples": [
+      {
+        "zh": "下雨了，我只好回家。",
+        "es": "Empezó a llover, así que no tuve más remedio que volver a casa."
+      },
+      {
+        "zh": "没有车，我们只好走路。",
+        "es": "No había auto, así que tuvimos que caminar."
+      },
+      {
+        "zh": "商店关门了，他只好去别的地方买。",
+        "es": "La tienda estaba cerrada, así que tuvo que ir a comprar a otro lugar."
+      },
+      {
+        "zh": "飞机票太贵了，我们只好坐火车去上海。",
+        "es": "Los boletos de avión eran muy caros, así que tuvimos que ir a Shanghái en tren."
+      }
+    ]
+  },
+  {
+    "word": "补",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "remendar, reparar",
+      "reponer, recuperar",
+      "complementar"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈在补衣服。",
+        "es": "Mamá está remendando ropa."
+      },
+      {
+        "zh": "我的鞋破了，要去补一下。",
+        "es": "Se me rompieron los zapatos; tengo que mandarlos a reparar."
+      },
+      {
+        "zh": "昨天的课没上，明天要补。",
+        "es": "No tuve la clase de ayer; mañana tengo que reponerla."
+      },
+      {
+        "zh": "他身体不好，医生说要多吃点东西补一补。",
+        "es": "Él no está bien de salud y el médico dice que coma más para reponerse."
+      }
+    ]
+  },
+  {
+    "word": "好奇",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "curioso",
+      "curiosidad"
+    ],
+    "examples": [
+      {
+        "zh": "孩子都很好奇。",
+        "es": "Todos los niños son muy curiosos."
+      },
+      {
+        "zh": "我对中国文化很好奇。",
+        "es": "Tengo mucha curiosidad por la cultura china."
+      },
+      {
+        "zh": "她好奇地问：“这是什么？”",
+        "es": "Ella preguntó con curiosidad: «¿Qué es esto?»"
+      },
+      {
+        "zh": "我很好奇他为什么突然不来上课了。",
+        "es": "Tengo curiosidad por saber por qué de repente dejó de venir a clase."
+      }
+    ]
+  },
+  {
+    "word": "普及",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "generalizarse, difundirse",
+      "popularizar",
+      "generalizado"
+    ],
+    "examples": [
+      {
+        "zh": "手机已经很普及了。",
+        "es": "Los celulares ya están muy generalizados."
+      },
+      {
+        "zh": "现在电脑在中国非常普及。",
+        "es": "Hoy las computadoras están muy extendidas en China."
+      },
+      {
+        "zh": "政府想在农村普及网络。",
+        "es": "El gobierno quiere llevar internet a todo el campo."
+      },
+      {
+        "zh": "网络普及以后，我们的生活发生了很大变化。",
+        "es": "Desde que internet se generalizó, nuestra vida cambió mucho."
+      }
+    ]
+  },
+  {
+    "word": "营养",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nutrición",
+      "nutrientes",
+      "valor nutritivo"
+    ],
+    "examples": [
+      {
+        "zh": "牛奶很有营养。",
+        "es": "La leche es muy nutritiva."
+      },
+      {
+        "zh": "孩子需要更多营养。",
+        "es": "Los niños necesitan más nutrientes."
+      },
+      {
+        "zh": "水果和鸡蛋的营养都很丰富。",
+        "es": "La fruta y los huevos son muy nutritivos."
+      },
+      {
+        "zh": "医生说他营养不够，要多吃肉和菜。",
+        "es": "El médico dice que le faltan nutrientes y que debe comer más carne y verduras."
+      }
+    ]
+  },
+  {
+    "word": "把握",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "seguridad, certeza",
+      "aprovechar (una oportunidad)",
+      "dominar, entender bien"
+    ],
+    "examples": [
+      {
+        "zh": "你有把握吗？",
+        "es": "¿Estás seguro?"
+      },
+      {
+        "zh": "这次考试我没有把握。",
+        "es": "No estoy seguro de cómo me irá en este examen."
+      },
+      {
+        "zh": "我们要把握好这个机会。",
+        "es": "Tenemos que aprovechar bien esta oportunidad."
+      },
+      {
+        "zh": "他对这个项目很有把握，所以一点也不紧张。",
+        "es": "Tiene mucha confianza en este proyecto, así que no está nada nervioso."
+      }
+    ]
+  },
+  {
+    "word": "坚强",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fuerte (de carácter)",
+      "firme",
+      "valiente"
+    ],
+    "examples": [
+      {
+        "zh": "她是一个坚强的女人。",
+        "es": "Ella es una mujer fuerte."
+      },
+      {
+        "zh": "别哭，要坚强。",
+        "es": "No llores, sé fuerte."
+      },
+      {
+        "zh": "生病的时候，他一直很坚强。",
+        "es": "Cuando estuvo enfermo, siempre fue muy valiente."
+      },
+      {
+        "zh": "爸爸去世后，妈妈很坚强，一个人照顾我们。",
+        "es": "Después de que murió papá, mamá fue muy fuerte y nos cuidó sola."
+      }
+    ]
+  },
+  {
+    "word": "交往",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "relacionarse, tratar con",
+      "salir con (en pareja)",
+      "relación, trato"
+    ],
+    "examples": [
+      {
+        "zh": "我不喜欢跟他交往。",
+        "es": "No me gusta tratar con él."
+      },
+      {
+        "zh": "他们交往两年了。",
+        "es": "Llevan dos años saliendo."
+      },
+      {
+        "zh": "她很会和别人交往。",
+        "es": "Ella sabe relacionarse muy bien con los demás."
+      },
+      {
+        "zh": "在国外学习，可以和不同国家的人交往。",
+        "es": "Al estudiar en el extranjero, puedes relacionarte con gente de distintos países."
+      }
+    ]
+  },
+  {
+    "word": "旅馆",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hotel",
+      "hostal"
+    ],
+    "examples": [
+      {
+        "zh": "这家旅馆很干净。",
+        "es": "Este hotel es muy limpio."
+      },
+      {
+        "zh": "我们住在一家小旅馆。",
+        "es": "Nos quedamos en un hotel pequeño."
+      },
+      {
+        "zh": "请问，附近有便宜的旅馆吗？",
+        "es": "Disculpe, ¿hay algún hotel barato por aquí cerca?"
+      },
+      {
+        "zh": "去北京旅游时，我们住的旅馆就在车站旁边。",
+        "es": "Cuando fuimos de viaje a Pekín, el hotel donde nos quedamos estaba junto a la estación."
+      }
+    ]
+  },
+  {
+    "word": "热烈",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "caluroso",
+      "entusiasta",
+      "animado"
+    ],
+    "examples": [
+      {
+        "zh": "热烈欢迎你！",
+        "es": "¡Te damos una calurosa bienvenida!"
+      },
+      {
+        "zh": "大家热烈地讨论这个问题。",
+        "es": "Todos discuten este tema con entusiasmo."
+      },
+      {
+        "zh": "演出结束后，观众的反应非常热烈。",
+        "es": "Al terminar la función, la reacción del público fue muy entusiasta."
+      },
+      {
+        "zh": "新同学来的第一天，全班同学热烈欢迎了他。",
+        "es": "El primer día del nuevo compañero, toda la clase le dio una calurosa bienvenida."
+      }
+    ]
+  },
+  {
+    "word": "游",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "nadar"
+    ],
+    "examples": [
+      {
+        "zh": "鱼在水里游。",
+        "es": "Los peces nadan en el agua."
+      },
+      {
+        "zh": "我会游，但是游得很慢。",
+        "es": "Sé nadar, pero nado muy despacio."
+      },
+      {
+        "zh": "你能游到对面吗？",
+        "es": "¿Puedes nadar hasta el otro lado?"
+      },
+      {
+        "zh": "他每天早上都去湖里游半个小时。",
+        "es": "Todas las mañanas va a nadar media hora al lago."
+      }
+    ]
+  },
+  {
+    "word": "存",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "guardar",
+      "ahorrar, depositar (dinero)",
+      "almacenar",
+      "existir"
+    ],
+    "examples": [
+      {
+        "zh": "我想存钱。",
+        "es": "Quiero ahorrar dinero."
+      },
+      {
+        "zh": "他把钱存在银行了。",
+        "es": "Él depositó el dinero en el banco."
+      },
+      {
+        "zh": "请把这些照片存在电脑里。",
+        "es": "Por favor, guarda estas fotos en la computadora."
+      },
+      {
+        "zh": "为了买房子，他们已经存了五年的钱。",
+        "es": "Para comprar una casa, ya llevan cinco años ahorrando."
+      }
+    ]
+  },
+  {
+    "word": "队员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "miembro del equipo",
+      "jugador (de un equipo)"
+    ],
+    "examples": [
+      {
+        "zh": "他是足球队员。",
+        "es": "Él es jugador de un equipo de futbol."
+      },
+      {
+        "zh": "我们队有十个队员。",
+        "es": "Nuestro equipo tiene diez integrantes."
+      },
+      {
+        "zh": "每个队员都很努力。",
+        "es": "Cada miembro del equipo se esfuerza mucho."
+      },
+      {
+        "zh": "比赛开始前，队长让队员们好好休息。",
+        "es": "Antes del partido, el capitán les pidió a los jugadores que descansaran bien."
+      }
+    ]
+  }
+]

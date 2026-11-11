@@ -1,0 +1,410 @@
+[
+  {
+    "char": "月",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "luna, mes"
+      }
+    ],
+    "mnemonic_es": "Imagina una luna creciente dibujada con dos rayitas adentro, como cráteres. Cada vez que la luna da una vuelta completa, pasa un mes."
+  },
+  {
+    "char": "国",
+    "components": [
+      {
+        "char": "囗",
+        "meaning_es": "recinto, frontera"
+      },
+      {
+        "char": "玉",
+        "meaning_es": "jade"
+      }
+    ],
+    "mnemonic_es": "Un tesoro de jade bien guardado dentro de sus fronteras: así se ve un país que cuida lo suyo."
+  },
+  {
+    "char": "被",
+    "components": [
+      {
+        "char": "衤",
+        "meaning_es": "ropa"
+      },
+      {
+        "char": "皮",
+        "meaning_es": "piel"
+      }
+    ],
+    "mnemonic_es": "La tela que cubre tu piel por la noche es la cobija. Y cuando algo te cubre o te pasa encima, lo «sufres»: por eso 被 marca la voz pasiva."
+  },
+  {
+    "char": "还",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "不",
+        "meaning_es": "no"
+      }
+    ],
+    "mnemonic_es": "No sigues adelante: das media vuelta y caminas de regreso para devolver algo. ¡Y todavía estás aquí!"
+  },
+  {
+    "char": "没",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "几",
+        "meaning_es": "mesita"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Una mano busca en el agua la mesita que se hundió, pero no hay nada: se la llevó la corriente."
+  },
+  {
+    "char": "而",
+    "components": [
+      {
+        "char": "而",
+        "meaning_es": "y, pero (conector)"
+      }
+    ],
+    "mnemonic_es": "Parece una barba larga que cuelga de la barbilla. Imagina que esa barba une dos frases, como un puente entre ideas: «y», «pero»."
+  },
+  {
+    "char": "可",
+    "components": [
+      {
+        "char": "丁",
+        "meaning_es": "clavo"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Una boca junto a un clavo firme dice con seguridad: «¡Sí se puede!». 可 es poder, estar permitido."
+  },
+  {
+    "char": "以",
+    "components": [
+      {
+        "char": "以",
+        "meaning_es": "con, por medio de"
+      }
+    ],
+    "mnemonic_es": "Imagina a una persona (el trazo de la derecha) junto a una herramienta (los trazos de la izquierda): hace las cosas «por medio de» ella."
+  },
+  {
+    "char": "等",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "寺",
+        "meaning_es": "templo"
+      }
+    ],
+    "mnemonic_es": "En el templo, la gente se sienta en bancas de bambú a esperar su turno."
+  },
+  {
+    "char": "后",
+    "components": [
+      {
+        "char": "厂",
+        "meaning_es": "acantilado, techo inclinado"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Una boca escondida detrás de un muro inclinado habla desde atrás. 后 es «detrás» y «después»."
+  },
+  {
+    "char": "但",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "旦",
+        "meaning_es": "amanecer"
+      }
+    ],
+    "mnemonic_es": "Una persona quería seguir durmiendo, pero ya amaneció."
+  },
+  {
+    "char": "于",
+    "components": [
+      {
+        "char": "于",
+        "meaning_es": "en, a (preposición)"
+      }
+    ],
+    "mnemonic_es": "Parece un gancho colgado de dos barras: imagina que cuelga las cosas «en» su lugar."
+  },
+  {
+    "char": "日",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol, día"
+      }
+    ],
+    "mnemonic_es": "Un sol cuadrado con una línea en el centro, como una ventana por donde entra la luz del día."
+  },
+  {
+    "char": "什",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      }
+    ],
+    "mnemonic_es": "Diez personas confundidas preguntan al mismo tiempo: «¿Qué?». Así empieza 什么."
+  },
+  {
+    "char": "么",
+    "components": [
+      {
+        "char": "丿",
+        "meaning_es": "trazo inclinado"
+      },
+      {
+        "char": "厶",
+        "meaning_es": "privado, uno mismo"
+      }
+    ],
+    "mnemonic_es": "Una cosita pequeña y privada que siempre acompaña a otros caracteres, como en 什么 «qué» o 怎么 «cómo»."
+  },
+  {
+    "char": "并",
+    "components": [
+      {
+        "char": "丷",
+        "meaning_es": "dos puntos"
+      },
+      {
+        "char": "开",
+        "meaning_es": "abrir"
+      }
+    ],
+    "mnemonic_es": "Abres la puerta y entran dos amigos lado a lado, juntos. 并 es «juntar» y «además»."
+  },
+  {
+    "char": "能",
+    "components": [
+      {
+        "char": "厶",
+        "meaning_es": "privado, uno mismo"
+      },
+      {
+        "char": "月",
+        "meaning_es": "carne, cuerpo"
+      },
+      {
+        "char": "匕",
+        "meaning_es": "cuchara"
+      },
+      {
+        "char": "匕",
+        "meaning_es": "cuchara"
+      }
+    ],
+    "mnemonic_es": "Imagina un oso con cuerpo fuerte y dos pares de garras como cucharas: es tan capaz que puede con todo."
+  },
+  {
+    "char": "很",
+    "components": [
+      {
+        "char": "彳",
+        "meaning_es": "paso, caminar"
+      },
+      {
+        "char": "艮",
+        "meaning_es": "terco, firme"
+      }
+    ],
+    "mnemonic_es": "Alguien terco que da pasos firmes y no se detiene: es muy, muy decidido."
+  },
+  {
+    "char": "将",
+    "components": [
+      {
+        "char": "丬",
+        "meaning_es": "tabla, cama"
+      },
+      {
+        "char": "夕",
+        "meaning_es": "noche"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "mano, medida"
+      }
+    ],
+    "mnemonic_es": "De noche, junto a su cama, el general planea con la mano lo que va a hacer mañana. 将 es «ir a» (futuro) y «general»."
+  },
+  {
+    "char": "从",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      }
+    ],
+    "mnemonic_es": "Una persona sigue a otra en fila: 从 es «seguir» y «desde»."
+  },
+  {
+    "char": "让",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "上",
+        "meaning_es": "arriba, subir"
+      }
+    ],
+    "mnemonic_es": "Con amables palabras dices: «Sube tú primero». Así dejas pasar al otro."
+  },
+  {
+    "char": "家",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "豕",
+        "meaning_es": "cerdo"
+      }
+    ],
+    "mnemonic_es": "Un cerdo bajo el techo: en una casa de campo, tener tu cerdito significa que estás en tu hogar."
+  },
+  {
+    "char": "好",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "子",
+        "meaning_es": "niño"
+      }
+    ],
+    "mnemonic_es": "Una mujer con su hijo: ¡qué bien se ven juntos!"
+  },
+  {
+    "char": "大",
+    "components": [
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      }
+    ],
+    "mnemonic_es": "Una persona que abre los brazos lo más que puede para mostrar algo grandísimo."
+  },
+  {
+    "char": "她",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "也",
+        "meaning_es": "también"
+      }
+    ],
+    "mnemonic_es": "Una mujer que también está en la conversación: es «ella»."
+  },
+  {
+    "char": "着",
+    "components": [
+      {
+        "char": "羊",
+        "meaning_es": "oveja (forma modificada)"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      }
+    ],
+    "mnemonic_es": "Un ojo que sigue mirando a la oveja mientras pasta: 着 indica una acción que continúa, como «-ando»."
+  },
+  {
+    "char": "多",
+    "components": [
+      {
+        "char": "夕",
+        "meaning_es": "noche"
+      },
+      {
+        "char": "夕",
+        "meaning_es": "noche"
+      }
+    ],
+    "mnemonic_es": "Una noche encima de otra noche: ¡muchas noches! 多 es «mucho»."
+  },
+  {
+    "char": "给",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda, hilo"
+      },
+      {
+        "char": "合",
+        "meaning_es": "juntar"
+      }
+    ],
+    "mnemonic_es": "Juntas hilos de seda para tejer un regalo y dárselo a alguien."
+  },
+  {
+    "char": "自",
+    "components": [
+      {
+        "char": "自",
+        "meaning_es": "uno mismo, desde"
+      }
+    ],
+    "mnemonic_es": "Parece una nariz. En China, para decir «yo», la gente se señala la nariz: 自 es «uno mismo»."
+  },
+  {
+    "char": "己",
+    "components": [
+      {
+        "char": "己",
+        "meaning_es": "uno mismo"
+      }
+    ],
+    "mnemonic_es": "Parece una cuerda que se dobla y vuelve sobre sí misma: 己 es «uno mismo», como en 自己."
+  }
+]

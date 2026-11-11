@@ -1,0 +1,538 @@
+[
+  {
+    "word": "此外",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "además",
+      "aparte de eso",
+      "por otra parte"
+    ],
+    "examples": [
+      {
+        "zh": "此外，我还喜欢唱歌。",
+        "es": "Además, también me gusta cantar."
+      },
+      {
+        "zh": "这家饭店很干净，此外菜也很好吃。",
+        "es": "Este restaurante es muy limpio y, además, la comida es muy rica."
+      },
+      {
+        "zh": "他会写汉字，此外还会唱中国歌。",
+        "es": "Él sabe escribir caracteres chinos y, además, sabe cantar canciones chinas."
+      },
+      {
+        "zh": "这个计划需要很多钱，此外时间也不够。",
+        "es": "Este plan necesita mucho dinero y, además, no hay suficiente tiempo."
+      }
+    ]
+  },
+  {
+    "word": "相",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "mutuamente",
+      "el uno al otro",
+      "entre sí"
+    ],
+    "examples": [
+      {
+        "zh": "他们相爱了。",
+        "es": "Ellos se enamoraron."
+      },
+      {
+        "zh": "我们在机场相见。",
+        "es": "Nos encontramos en el aeropuerto."
+      },
+      {
+        "zh": "同学之间应该相互帮助。",
+        "es": "Los compañeros de clase deben ayudarse unos a otros."
+      },
+      {
+        "zh": "两个人相识十年，一直是好朋友。",
+        "es": "Ellos dos se conocen desde hace diez años y siempre han sido buenos amigos."
+      }
+    ]
+  },
+  {
+    "word": "苏联",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Unión Soviética",
+      "URSS"
+    ],
+    "examples": [
+      {
+        "zh": "苏联已经不存在了。",
+        "es": "La Unión Soviética ya no existe."
+      },
+      {
+        "zh": "我爷爷去过苏联。",
+        "es": "Mi abuelo estuvo en la Unión Soviética."
+      },
+      {
+        "zh": "苏联是在一九九一年结束的。",
+        "es": "La Unión Soviética llegó a su fin en 1991."
+      },
+      {
+        "zh": "很多人认为苏联的历史对世界影响很大。",
+        "es": "Mucha gente cree que la historia de la Unión Soviética influyó mucho en el mundo."
+      }
+    ]
+  },
+  {
+    "word": "后年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dentro de dos años",
+      "el año después del próximo"
+    ],
+    "examples": [
+      {
+        "zh": "后年我要去中国。",
+        "es": "Dentro de dos años voy a ir a China."
+      },
+      {
+        "zh": "我妹妹后年上小学。",
+        "es": "Mi hermana menor entra a la primaria dentro de dos años."
+      },
+      {
+        "zh": "后年我们公司计划在上海开一个新商店。",
+        "es": "Dentro de dos años, nuestra empresa planea abrir una tienda nueva en Shanghái."
+      },
+      {
+        "zh": "今年太忙了，明年也不行，我们后年再去吧。",
+        "es": "Este año estamos muy ocupados y el próximo tampoco se puede; vamos dentro de dos años."
+      }
+    ]
+  },
+  {
+    "word": "到底",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "(en preguntas) en realidad, a fin de cuentas",
+      "al final, finalmente",
+      "hasta el final"
+    ],
+    "examples": [
+      {
+        "zh": "他到底是谁？",
+        "es": "¿Quién es él en realidad?"
+      },
+      {
+        "zh": "你到底去不去？",
+        "es": "Entonces, ¿vas o no vas?"
+      },
+      {
+        "zh": "我们一定要坚持到底。",
+        "es": "Tenemos que perseverar hasta el final."
+      },
+      {
+        "zh": "说了半天，你到底想要什么？",
+        "es": "Después de tanto hablar, ¿qué es lo que quieres en realidad?"
+      }
+    ]
+  },
+  {
+    "word": "段",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "tramo, trozo",
+      "(clasificador para periodos de tiempo, textos y distancias)",
+      "párrafo, sección",
+      "etapa"
+    ],
+    "examples": [
+      {
+        "zh": "这段路很长。",
+        "es": "Este tramo del camino es muy largo."
+      },
+      {
+        "zh": "我读了一段书。",
+        "es": "Leí un fragmento del libro."
+      },
+      {
+        "zh": "这段时间我很忙。",
+        "es": "Estos días estoy muy ocupado."
+      },
+      {
+        "zh": "他在中国住过一段时间，很喜欢那里。",
+        "es": "Él vivió un tiempo en China y le gustó mucho."
+      }
+    ]
+  },
+  {
+    "word": "观点",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "punto de vista",
+      "opinión",
+      "postura"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的观点。",
+        "es": "Este es mi punto de vista."
+      },
+      {
+        "zh": "你的观点是什么？",
+        "es": "¿Cuál es tu opinión?"
+      },
+      {
+        "zh": "每个人的观点都不一样。",
+        "es": "Cada persona tiene un punto de vista diferente."
+      },
+      {
+        "zh": "他在文章里提出了一个很重要的观点。",
+        "es": "En el artículo, él planteó un punto de vista muy importante."
+      }
+    ]
+  },
+  {
+    "word": "好像",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parece que",
+      "como si",
+      "parecerse a"
+    ],
+    "examples": [
+      {
+        "zh": "好像要下雨了。",
+        "es": "Parece que va a llover."
+      },
+      {
+        "zh": "他好像不在家。",
+        "es": "Parece que él no está en casa."
+      },
+      {
+        "zh": "你好像很累，休息一下吧。",
+        "es": "Pareces muy cansado; descansa un rato."
+      },
+      {
+        "zh": "我好像在哪里见过这个人，可是想不起来了。",
+        "es": "Creo que he visto a esta persona en algún lado, pero no me acuerdo dónde."
+      }
+    ]
+  },
+  {
+    "word": "和平",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "paz",
+      "pacífico"
+    ],
+    "examples": [
+      {
+        "zh": "我们都喜欢和平。",
+        "es": "A todos nos gusta la paz."
+      },
+      {
+        "zh": "世界需要和平。",
+        "es": "El mundo necesita paz."
+      },
+      {
+        "zh": "两个国家决定和平解决问题。",
+        "es": "Los dos países decidieron resolver el problema de forma pacífica."
+      },
+      {
+        "zh": "希望以后没有战争，所有人都能和平生活。",
+        "es": "Ojalá en el futuro no haya guerras y todos puedan vivir en paz."
+      }
+    ]
+  },
+  {
+    "word": "农村",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "campo, zona rural",
+      "pueblo, aldea"
+    ],
+    "examples": [
+      {
+        "zh": "我奶奶住在农村。",
+        "es": "Mi abuela vive en el campo."
+      },
+      {
+        "zh": "农村的环境很好。",
+        "es": "El ambiente en el campo es muy bueno."
+      },
+      {
+        "zh": "很多人离开农村，去城市工作。",
+        "es": "Mucha gente deja el campo para ir a trabajar a la ciudad."
+      },
+      {
+        "zh": "政府提出了很多帮助农村发展的新政策。",
+        "es": "El gobierno propuso muchas políticas nuevas para ayudar al desarrollo rural."
+      }
+    ]
+  },
+  {
+    "word": "青年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "joven",
+      "juventud",
+      "los jóvenes"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个好青年。",
+        "es": "Él es un buen muchacho."
+      },
+      {
+        "zh": "青年是国家的未来。",
+        "es": "Los jóvenes son el futuro del país."
+      },
+      {
+        "zh": "很多青年喜欢在网上看视频。",
+        "es": "A muchos jóvenes les gusta ver videos en internet."
+      },
+      {
+        "zh": "这个活动是为了让更多青年了解传统文化。",
+        "es": "Esta actividad busca que más jóvenes conozcan la cultura tradicional."
+      }
+    ]
+  },
+  {
+    "word": "体育",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "deporte",
+      "educación física"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢体育。",
+        "es": "Me gustan los deportes."
+      },
+      {
+        "zh": "今天下午有体育课。",
+        "es": "Hoy en la tarde hay clase de educación física."
+      },
+      {
+        "zh": "他每天看电视上的体育新闻。",
+        "es": "Él ve las noticias deportivas en la tele todos los días."
+      },
+      {
+        "zh": "学校应该让学生多参加体育活动。",
+        "es": "La escuela debería hacer que los estudiantes participen más en actividades deportivas."
+      }
+    ]
+  },
+  {
+    "word": "同意",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar de acuerdo",
+      "aceptar",
+      "aprobar",
+      "dar permiso"
+    ],
+    "examples": [
+      {
+        "zh": "我同意。",
+        "es": "Estoy de acuerdo."
+      },
+      {
+        "zh": "你同意吗？",
+        "es": "¿Estás de acuerdo?"
+      },
+      {
+        "zh": "我同意你说的话。",
+        "es": "Estoy de acuerdo con lo que dices."
+      },
+      {
+        "zh": "妈妈不同意我一个人去国外旅游。",
+        "es": "Mi mamá no me da permiso para viajar solo al extranjero."
+      }
+    ]
+  },
+  {
+    "word": "不想",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no querer",
+      "no tener ganas de",
+      "inesperadamente"
+    ],
+    "examples": [
+      {
+        "zh": "我不想去。",
+        "es": "No quiero ir."
+      },
+      {
+        "zh": "今天我不想吃饭。",
+        "es": "Hoy no tengo ganas de comer."
+      },
+      {
+        "zh": "他太累了，不想说话。",
+        "es": "Él está muy cansado y no quiere hablar."
+      },
+      {
+        "zh": "我不想让妈妈担心，所以没告诉她。",
+        "es": "No quería que mi mamá se preocupara, así que no le dije nada."
+      }
+    ]
+  },
+  {
+    "word": "主",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dueño, amo",
+      "principal",
+      "anfitrión",
+      "Señor (Dios)"
+    ],
+    "examples": [
+      {
+        "zh": "你自己做主吧。",
+        "es": "Decide tú mismo."
+      },
+      {
+        "zh": "这只狗的主人是谁？",
+        "es": "¿Quién es el dueño de este perro?"
+      },
+      {
+        "zh": "这个学校的学生以女生为主。",
+        "es": "En esta escuela, la mayoría de los estudiantes son mujeres."
+      },
+      {
+        "zh": "今天的会议以讨论明年的计划为主。",
+        "es": "La reunión de hoy se centra principalmente en discutir el plan del próximo año."
+      }
+    ]
+  },
+  {
+    "word": "分享",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "compartir"
+    ],
+    "examples": [
+      {
+        "zh": "谢谢你的分享。",
+        "es": "Gracias por compartir."
+      },
+      {
+        "zh": "她喜欢在网上分享照片。",
+        "es": "A ella le gusta compartir fotos en internet."
+      },
+      {
+        "zh": "我想跟你分享一个好消息。",
+        "es": "Quiero compartir contigo una buena noticia."
+      },
+      {
+        "zh": "老师让每个学生分享一个自己的故事。",
+        "es": "La maestra pidió a cada estudiante que compartiera una historia propia."
+      }
+    ]
+  },
+  {
+    "word": "尤其",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sobre todo",
+      "especialmente",
+      "en particular"
+    ],
+    "examples": [
+      {
+        "zh": "这里很热，尤其是中午。",
+        "es": "Aquí hace mucho calor, sobre todo al mediodía."
+      },
+      {
+        "zh": "我喜欢运动，尤其是足球。",
+        "es": "Me gustan los deportes, especialmente el fútbol."
+      },
+      {
+        "zh": "我爱吃中国菜，尤其喜欢包子。",
+        "es": "Me encanta la comida china; en particular, me gustan los baozi."
+      },
+      {
+        "zh": "学习汉语不容易，尤其是汉字很难记住。",
+        "es": "Aprender chino no es fácil; sobre todo, los caracteres son difíciles de memorizar."
+      }
+    ]
+  },
+  {
+    "word": "尽管",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aunque, a pesar de",
+      "con toda confianza, sin dudarlo"
+    ],
+    "examples": [
+      {
+        "zh": "有问题尽管问。",
+        "es": "Si tienes preguntas, pregunta con toda confianza."
+      },
+      {
+        "zh": "尽管很累，他还是去上班了。",
+        "es": "Aunque estaba muy cansado, él igual fue a trabajar."
+      },
+      {
+        "zh": "尽管下雨了，比赛还是继续进行。",
+        "es": "A pesar de que llovió, el partido continuó."
+      },
+      {
+        "zh": "尽管他学汉语才半年，但是已经说得很好了。",
+        "es": "Aunque solo lleva medio año estudiando chino, ya lo habla muy bien."
+      }
+    ]
+  },
+  {
+    "word": "方案",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "plan",
+      "propuesta",
+      "proyecto",
+      "programa"
+    ],
+    "examples": [
+      {
+        "zh": "这个方案很好。",
+        "es": "Esta propuesta es muy buena."
+      },
+      {
+        "zh": "我们需要一个新方案。",
+        "es": "Necesitamos un plan nuevo."
+      },
+      {
+        "zh": "公司决定用第二个方案。",
+        "es": "La empresa decidió usar la segunda propuesta."
+      },
+      {
+        "zh": "专家提出了三个方案来解决这个问题。",
+        "es": "Los expertos propusieron tres planes para resolver este problema."
+      }
+    ]
+  },
+  {
+    "word": "每年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cada año",
+      "todos los años",
+      "anualmente"
+    ],
+    "examples": [
+      {
+        "zh": "我每年都去北京。",
+        "es": "Voy a Pekín todos los años."
+      },
+      {
+        "zh": "每年生日，妈妈都给我做包子。",
+        "es": "Cada año, en mi cumpleaños, mi mamá me prepara baozi."
+      },
+      {
+        "zh": "这个城市每年都有很多外国人来旅游。",
+        "es": "Cada año, muchos extranjeros vienen a esta ciudad de turismo."
+      },
+      {
+        "zh": "每年的这个时候，这里都会举行音乐活动。",
+        "es": "Todos los años, en esta época, aquí se hacen eventos de música."
+      }
+    ]
+  }
+]

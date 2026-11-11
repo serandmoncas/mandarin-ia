@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:长",
+    "ok": false,
+    "issues": [
+      "El pinyin de los cuatro ejemplos usa «zhǎng», pero en el sentido de «largo» 长 se lee «cháng»: hěn cháng, tài cháng le, hěn cháng de lì shǐ."
+    ],
+    "content_hash": "27967938d0131acb575aaf1ea70579de3d8eb58b"
+  },
+  {
+    "id": "word:本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c05784c769d358dfb9511d802529cde054062415"
+  },
+  {
+    "id": "word:包括",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ba817a3b27835c04a4864d3d2cc51dbaf91af35"
+  },
+  {
+    "id": "word:干",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6df7b85dd8adfccc6c290fcb30b12a8703a0cca9"
+  },
+  {
+    "id": "word:出现",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3f44692dca4c6d07003feb0a7dd2759d7aa0b0e3"
+  },
+  {
+    "id": "word:找",
+    "ok": true,
+    "issues": [],
+    "content_hash": "64b3ab91c36ed3dab06e1cfe558c400551ab5274"
+  },
+  {
+    "id": "word:您",
+    "ok": false,
+    "issues": [
+      "«您好！» no significa «¡Buenos días!», porque no indica momento del día. Corresponde a un saludo formal genérico: «¡Hola!» o «Buenas» dicho con cortesía, por ejemplo «¡Hola! (formal)»."
+    ],
+    "content_hash": "28955d227abe793a3404aa85d305ce2ecbbd63a8"
+  },
+  {
+    "id": "word:决定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77f08d36499574e14cc65b5552c2c8f29bb0ea2c"
+  },
+  {
+    "id": "word:进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "acddf43f21eea016f0c9b5f701513ef9b003c015"
+  },
+  {
+    "id": "word:全国",
+    "ok": false,
+    "issues": [
+      "El pinyin de 都 aparece como «dū» en los ejemplos 1 y 3. Con el sentido de «todo/ya» se lee «dōu»: quán guó dōu zhī dào le, zài quán guó dōu hěn yǒu míng."
+    ],
+    "content_hash": "b72e2c05d7377f461e3ccb62024eee181c92fa8a"
+  },
+  {
+    "id": "word:真",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad0e9a7b9a02914cd01c25607d8d27ce88b11ef3"
+  },
+  {
+    "id": "word:如何",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d42b34e8527b71905756303c07baaadef9b3c1a"
+  },
+  {
+    "id": "word:准备",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6789ca93b8f994f38c07568966d901c8467ce7bb"
+  },
+  {
+    "id": "word:为什么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2242603ede26081e9f0b5aa835ce0cd9d57f2a05"
+  },
+  {
+    "id": "word:哪里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "711c4e5e4403f230c69661d7d682c843c4e14956"
+  },
+  {
+    "id": "word:女",
+    "ok": true,
+    "issues": [],
+    "content_hash": "67c8328b8fa4e26973d2b16c29f0ccdd80d1eeb6"
+  },
+  {
+    "id": "word:学习",
+    "ok": true,
+    "issues": [],
+    "content_hash": "56cffd0d22b0d5d708fde4f7a1143c18f0ddc488"
+  },
+  {
+    "id": "word:正在",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ebf57c2158d6005a9fc509c105819c020447bb2a"
+  },
+  {
+    "id": "word:其中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81f49d821bc3b3da56af45a8875d7284323db1b8"
+  },
+  {
+    "id": "word:次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b85fbd7612d54b3efb2c79609d03aa1b07ff6b20"
+  },
+  {
+    "id": "word:老",
+    "ok": false,
+    "issues": [
+      "«老王» se traduce como «El viejo Wang», pero aquí 老 es un prefijo de familiaridad o confianza y no indica edad. Conviene traducir «Lao Wang» y, si hace falta, aclarar que es una forma de trato familiar."
+    ],
+    "content_hash": "cbdc605141db59ba62cb584c00ee9aabd640289e"
+  },
+  {
+    "id": "word:企业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b5a66986a54875aee0dbf59c2ad498734f5801e"
+  },
+  {
+    "id": "word:认识",
+    "ok": false,
+    "issues": [
+      "El pinyin «rèn shí» es incorrecto. La lectura estándar es «rèn shi», con tono neutro (en Taiwán, rènshì). Afecta a los cuatro ejemplos."
+    ],
+    "content_hash": "f9744c4d976023c4753eab069befbeb3651418ba"
+  },
+  {
+    "id": "word:影响",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a45f256f1398c1cc9d0b76ab7c1ef377fb57bab"
+  },
+  {
+    "id": "word:有些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "42fd29dabdd5c5d58164323846f6eb84b8989ee4"
+  }
+]

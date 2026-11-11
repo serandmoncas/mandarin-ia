@@ -1,0 +1,426 @@
+[
+  {
+    "char": "此",
+    "components": [
+      {
+        "char": "止",
+        "meaning_es": "detenerse"
+      },
+      {
+        "char": "匕",
+        "meaning_es": "cuchara"
+      }
+    ],
+    "mnemonic_es": "Me detengo justo aquí y clavo mi cuchara en el suelo: «¡Este es el lugar!»"
+  },
+  {
+    "char": "水",
+    "components": [
+      {
+        "char": "水",
+        "meaning_es": "agua"
+      }
+    ],
+    "mnemonic_es": "Imagina un chorro central de agua con gotas que salpican a los dos lados."
+  },
+  {
+    "char": "统",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda, hilo"
+      },
+      {
+        "char": "充",
+        "meaning_es": "llenar"
+      }
+    ],
+    "mnemonic_es": "Hilos que llenan todo el telar y lo amarran en un solo tejido: unificar, formar un sistema."
+  },
+  {
+    "char": "服",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "luna; cuerpo (carne)"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "persona arrodillada"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Un sirviente arrodillado le pone con la mano la ropa al cuerpo de su señor: servir y vestir."
+  },
+  {
+    "char": "务",
+    "components": [
+      {
+        "char": "夂",
+        "meaning_es": "pies que avanzan"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Caminar y poner fuerza en cada paso: así se cumple una tarea."
+  },
+  {
+    "char": "师",
+    "components": [
+      {
+        "char": "丨",
+        "meaning_es": "trazo vertical"
+      },
+      {
+        "char": "丿",
+        "meaning_es": "trazo inclinado"
+      },
+      {
+        "char": "帀",
+        "meaning_es": "rodear"
+      }
+    ],
+    "mnemonic_es": "Una varita de pizarra a la izquierda y los alumnos rodeándolo a la derecha: es el maestro."
+  },
+  {
+    "char": "结",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda, hilo"
+      },
+      {
+        "char": "吉",
+        "meaning_es": "buena suerte"
+      }
+    ],
+    "mnemonic_es": "Atas un nudo de hilo rojo para la buena suerte: unir, anudar y dar por terminado algo."
+  },
+  {
+    "char": "儿",
+    "components": [
+      {
+        "char": "儿",
+        "meaning_es": "niño, hijo"
+      }
+    ],
+    "mnemonic_es": "Dos piernitas que corren por la casa: es el niño."
+  },
+  {
+    "char": "任",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "壬",
+        "meaning_es": "noveno tronco celeste (parece una vara con carga)"
+      }
+    ],
+    "mnemonic_es": "Una persona al lado de una vara cargada se echa el peso al hombro: asume una responsabilidad, un cargo."
+  },
+  {
+    "char": "车",
+    "components": [
+      {
+        "char": "车",
+        "meaning_es": "vehículo, carro"
+      }
+    ],
+    "mnemonic_es": "Míralo desde arriba: un eje vertical con ruedas a los lados, como un carrito."
+  },
+  {
+    "char": "介",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "丨",
+        "meaning_es": "trazos verticales"
+      }
+    ],
+    "mnemonic_es": "Una persona parada entre dos líneas queda en medio: hace de intermediaria y presenta a los demás."
+  },
+  {
+    "char": "绍",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda, hilo"
+      },
+      {
+        "char": "召",
+        "meaning_es": "convocar, llamar"
+      }
+    ],
+    "mnemonic_es": "Con un hilo convocas a dos personas y las unes: «Te presento a mi amigo»."
+  },
+  {
+    "char": "带",
+    "components": [
+      {
+        "char": "卅",
+        "meaning_es": "treinta (aquí, adornos)"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "cubierta"
+      },
+      {
+        "char": "巾",
+        "meaning_es": "tela"
+      }
+    ],
+    "mnemonic_es": "Una tela con adornos arriba que se ciñe a la cintura: un cinturón donde llevas tus cosas."
+  },
+  {
+    "char": "虽",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "虫",
+        "meaning_es": "insecto"
+      }
+    ],
+    "mnemonic_es": "Aunque sea solo un insecto con una boca enorme, igual da miedo."
+  },
+  {
+    "char": "然",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "carne"
+      },
+      {
+        "char": "犬",
+        "meaning_es": "perro"
+      },
+      {
+        "char": "灬",
+        "meaning_es": "fuego"
+      }
+    ],
+    "mnemonic_es": "El perro ve la carne asándose sobre el fuego y, naturalmente, se le hace agua la boca: «¡Claro, así es!»"
+  },
+  {
+    "char": "视",
+    "components": [
+      {
+        "char": "礻",
+        "meaning_es": "altar, mostrar"
+      },
+      {
+        "char": "见",
+        "meaning_es": "ver"
+      }
+    ],
+    "mnemonic_es": "Frente al altar, mira con atención lo que se te muestra: observar, mirar."
+  },
+  {
+    "char": "游",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "方",
+        "meaning_es": "dirección"
+      },
+      {
+        "char": "𠂉",
+        "meaning_es": "bandera"
+      },
+      {
+        "char": "子",
+        "meaning_es": "niño"
+      }
+    ],
+    "mnemonic_es": "Un niño sigue una banderita en el agua en cualquier dirección: nadar y pasear."
+  },
+  {
+    "char": "戏",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "戈",
+        "meaning_es": "alabarda, lanza"
+      }
+    ],
+    "mnemonic_es": "Una mano agita una lanza de utilería en el escenario: es solo un juego, una obra de teatro."
+  },
+  {
+    "char": "妈",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "马",
+        "meaning_es": "caballo (suena «ma»)"
+      }
+    ],
+    "mnemonic_es": "La mujer que trabaja duro como un caballo y suena «ma»: es mamá."
+  },
+  {
+    "char": "明",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna"
+      }
+    ],
+    "mnemonic_es": "El sol y la luna juntos iluminan todo: brillante, claro."
+  },
+  {
+    "char": "白",
+    "components": [
+      {
+        "char": "白",
+        "meaning_es": "blanco"
+      }
+    ],
+    "mnemonic_es": "Un sol con un rayito de luz arriba: todo se ve blanco y claro."
+  },
+  {
+    "char": "代",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "弋",
+        "meaning_es": "estaca, flecha atada"
+      }
+    ],
+    "mnemonic_es": "Una persona toma la estaca y ocupa el puesto de otra: reemplazar, en lugar de; y así pasa de generación en generación."
+  },
+  {
+    "char": "表",
+    "components": [
+      {
+        "char": "龶",
+        "meaning_es": "brote (variante de 生)"
+      },
+      {
+        "char": "𧘇",
+        "meaning_es": "ropa (parte inferior de 衣)"
+      }
+    ],
+    "mnemonic_es": "Lo que brota por encima de la ropa es lo que se ve por fuera: la superficie, mostrar, expresar."
+  },
+  {
+    "char": "汽",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "气",
+        "meaning_es": "aire, gas"
+      }
+    ],
+    "mnemonic_es": "El agua que se vuelve aire es vapor: así se movían los primeros autos de vapor."
+  },
+  {
+    "char": "且",
+    "components": [
+      {
+        "char": "且",
+        "meaning_es": "además"
+      }
+    ],
+    "mnemonic_es": "Una pila de bloques uno encima de otro: y además, y además…"
+  },
+  {
+    "char": "较",
+    "components": [
+      {
+        "char": "车",
+        "meaning_es": "vehículo"
+      },
+      {
+        "char": "交",
+        "meaning_es": "cruzar, intercambiar"
+      }
+    ],
+    "mnemonic_es": "Dos carros se cruzan en la calle y los comparas: ¿cuál es más rápido?"
+  },
+  {
+    "char": "跑",
+    "components": [
+      {
+        "char": "𧾷",
+        "meaning_es": "pie"
+      },
+      {
+        "char": "包",
+        "meaning_es": "envolver, bolsa"
+      }
+    ],
+    "mnemonic_es": "Agarras tu bolsa y sales con los pies volando: ¡a correr!"
+  },
+  {
+    "char": "名",
+    "components": [
+      {
+        "char": "夕",
+        "meaning_es": "atardecer"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Al anochecer no se ven las caras, así que con la boca dices tu nombre."
+  },
+  {
+    "char": "字",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "子",
+        "meaning_es": "niño"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo de la casa, el niño aprende a escribir sus caracteres."
+  },
+  {
+    "char": "支",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez (aquí, una rama)"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Una mano sostiene una rama: apoyar, sostener; y también sirve para contar cosas largas como bolígrafos."
+  }
+]

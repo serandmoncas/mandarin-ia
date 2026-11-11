@@ -1,0 +1,540 @@
+[
+  {
+    "word": "这边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "este lado",
+      "aquí",
+      "por aquí"
+    ],
+    "examples": [
+      {
+        "zh": "请这边走。",
+        "es": "Por aquí, por favor."
+      },
+      {
+        "zh": "这边的人很多。",
+        "es": "De este lado hay mucha gente."
+      },
+      {
+        "zh": "我家就在这边，你们来吧。",
+        "es": "Mi casa está justo de este lado, vengan."
+      },
+      {
+        "zh": "这边的天气比北京热，我很喜欢。",
+        "es": "El clima aquí es más caluroso que en Pekín, y me gusta mucho."
+      }
+    ]
+  },
+  {
+    "word": "百",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "cien",
+      "numerosos",
+      "toda clase de"
+    ],
+    "examples": [
+      {
+        "zh": "这个一百块。",
+        "es": "Esto cuesta cien yuanes."
+      },
+      {
+        "zh": "我们学校有三百个学生。",
+        "es": "Nuestra escuela tiene trescientos estudiantes."
+      },
+      {
+        "zh": "这本书我已经看了一百多页。",
+        "es": "Ya leí más de cien páginas de este libro."
+      },
+      {
+        "zh": "他说这次考试一定能考一百分。",
+        "es": "Dice que en este examen seguro va a sacar cien puntos."
+      }
+    ]
+  },
+  {
+    "word": "相信",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "creer",
+      "confiar en",
+      "estar convencido de"
+    ],
+    "examples": [
+      {
+        "zh": "我相信你。",
+        "es": "Te creo."
+      },
+      {
+        "zh": "你相信他说的话吗？",
+        "es": "¿Le crees lo que dice?"
+      },
+      {
+        "zh": "妈妈不相信我已经做完了。",
+        "es": "Mi mamá no cree que ya terminé."
+      },
+      {
+        "zh": "我相信如果你认真学习，一定能考好。",
+        "es": "Creo que si estudias con dedicación, seguro te va a ir bien en el examen."
+      }
+    ]
+  },
+  {
+    "word": "占",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "ocupar",
+      "tomar (un lugar)",
+      "apoderarse de",
+      "representar (una proporción)"
+    ],
+    "examples": [
+      {
+        "zh": "这里有人占了吗？",
+        "es": "¿Alguien ya apartó este lugar?"
+      },
+      {
+        "zh": "工作占了我很多时间。",
+        "es": "El trabajo me ocupa mucho tiempo."
+      },
+      {
+        "zh": "女生占了我们班的一半。",
+        "es": "Las chicas son la mitad de nuestra clase."
+      },
+      {
+        "zh": "这些东西占地方，你还是放到外面去吧。",
+        "es": "Estas cosas ocupan mucho espacio; mejor ponlas afuera."
+      }
+    ]
+  },
+  {
+    "word": "男朋友",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "novio"
+    ],
+    "examples": [
+      {
+        "zh": "她有男朋友。",
+        "es": "Ella tiene novio."
+      },
+      {
+        "zh": "你男朋友叫什么名字？",
+        "es": "¿Cómo se llama tu novio?"
+      },
+      {
+        "zh": "我男朋友明天要来我家吃饭。",
+        "es": "Mi novio va a venir a comer a mi casa mañana."
+      },
+      {
+        "zh": "姐姐的男朋友是医生，对她非常好。",
+        "es": "El novio de mi hermana mayor es médico y la trata muy bien."
+      }
+    ]
+  },
+  {
+    "word": "作品",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "obra",
+      "obra de arte",
+      "trabajo (creativo)"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的作品。",
+        "es": "Esta es mi obra."
+      },
+      {
+        "zh": "他的作品很多人喜欢。",
+        "es": "A mucha gente le gustan sus obras."
+      },
+      {
+        "zh": "老师让我们介绍自己喜欢的作品。",
+        "es": "El profesor nos pidió presentar una obra que nos guste."
+      },
+      {
+        "zh": "这个艺术家的作品在很多国家都能看到。",
+        "es": "Las obras de este artista se pueden ver en muchos países."
+      }
+    ]
+  },
+  {
+    "word": "车站",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estación",
+      "parada (de autobús)",
+      "terminal"
+    ],
+    "examples": [
+      {
+        "zh": "车站在哪里？",
+        "es": "¿Dónde está la estación?"
+      },
+      {
+        "zh": "我在车站等你。",
+        "es": "Te espero en la estación."
+      },
+      {
+        "zh": "从我家走到车站要十分钟。",
+        "es": "De mi casa a la estación son diez minutos caminando."
+      },
+      {
+        "zh": "他每天早上坐车去上班，晚上再从车站走回家。",
+        "es": "Cada mañana va al trabajo en autobús, y en la noche regresa a casa caminando desde la parada."
+      }
+    ]
+  },
+  {
+    "word": "杀",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "matar",
+      "asesinar",
+      "atacar",
+      "reducir"
+    ],
+    "examples": [
+      {
+        "zh": "别杀它！",
+        "es": "¡No lo mates!"
+      },
+      {
+        "zh": "这个电影里有人被杀了。",
+        "es": "En esta película matan a alguien."
+      },
+      {
+        "zh": "他们认为是他杀了那个老人。",
+        "es": "Creen que fue él quien mató a ese anciano."
+      },
+      {
+        "zh": "那次战争中被杀的人有一百多万。",
+        "es": "En esa guerra mataron a más de un millón de personas."
+      }
+    ]
+  },
+  {
+    "word": "男生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "chico",
+      "alumno",
+      "muchacho"
+    ],
+    "examples": [
+      {
+        "zh": "我们班男生很少。",
+        "es": "En nuestra clase hay pocos chicos."
+      },
+      {
+        "zh": "那个男生是我同学。",
+        "es": "Ese chico es mi compañero de clase."
+      },
+      {
+        "zh": "男生和女生一起去打球了。",
+        "es": "Los chicos y las chicas fueron juntos a jugar pelota."
+      },
+      {
+        "zh": "这个男生每天都帮老人买东西，大家都很喜欢他。",
+        "es": "Este chico ayuda todos los días a los ancianos a hacer las compras, y todos lo quieren mucho."
+      }
+    ]
+  },
+  {
+    "word": "第一",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "primero",
+      "lo más importante",
+      "primer lugar"
+    ],
+    "examples": [
+      {
+        "zh": "她考了第一。",
+        "es": "Ella sacó el primer lugar en el examen."
+      },
+      {
+        "zh": "这是我第一次来中国。",
+        "es": "Es la primera vez que vengo a China."
+      },
+      {
+        "zh": "对我来说，安全第一。",
+        "es": "Para mí, la seguridad es lo primero."
+      },
+      {
+        "zh": "第一天上班的时候，我什么都不知道，只能问别人。",
+        "es": "El primer día de trabajo no sabía nada y solo podía preguntarles a los demás."
+      }
+    ]
+  },
+  {
+    "word": "上学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ir a la escuela",
+      "asistir a clases",
+      "estudiar (en la escuela)"
+    ],
+    "examples": [
+      {
+        "zh": "我明天不上学。",
+        "es": "Mañana no voy a la escuela."
+      },
+      {
+        "zh": "你每天几点上学？",
+        "es": "¿A qué hora vas a la escuela todos los días?"
+      },
+      {
+        "zh": "我弟弟今年六岁，开始上学了。",
+        "es": "Mi hermano menor tiene seis años y ya empezó a ir a la escuela."
+      },
+      {
+        "zh": "小时候我家离学校很远，每天走路上学。",
+        "es": "De niño, mi casa quedaba lejos de la escuela y cada día iba caminando."
+      }
+    ]
+  },
+  {
+    "word": "再见",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adiós",
+      "hasta luego",
+      "nos vemos"
+    ],
+    "examples": [
+      {
+        "zh": "老师，再见！",
+        "es": "¡Adiós, profesor!"
+      },
+      {
+        "zh": "我要走了，再见！",
+        "es": "Ya me voy, ¡adiós!"
+      },
+      {
+        "zh": "她走的时候没跟我说再见。",
+        "es": "Cuando se fue, no me dijo adiós."
+      },
+      {
+        "zh": "他说完再见就上了飞机，我们再也没见过他。",
+        "es": "Después de decir adiós se subió al avión, y nunca más lo volvimos a ver."
+      }
+    ]
+  },
+  {
+    "word": "根本",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "para nada (con negación)",
+      "en absoluto",
+      "fundamental",
+      "raíz, base"
+    ],
+    "examples": [
+      {
+        "zh": "我根本不知道。",
+        "es": "No tengo ni idea."
+      },
+      {
+        "zh": "他根本没来。",
+        "es": "Ni siquiera vino."
+      },
+      {
+        "zh": "这个问题根本不难，你想想。",
+        "es": "Este problema no es nada difícil, piénsalo."
+      },
+      {
+        "zh": "要解决这个问题，必须找到根本原因。",
+        "es": "Para resolver este problema hay que encontrar la causa de fondo."
+      }
+    ]
+  },
+  {
+    "word": "水果",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fruta"
+    ],
+    "examples": [
+      {
+        "zh": "我爱吃水果。",
+        "es": "Me encanta comer fruta."
+      },
+      {
+        "zh": "你想吃什么水果？",
+        "es": "¿Qué fruta quieres comer?"
+      },
+      {
+        "zh": "妈妈去商店买了很多水果。",
+        "es": "Mi mamá fue a la tienda y compró mucha fruta."
+      },
+      {
+        "zh": "医生说每天多吃水果和菜，对身体很好。",
+        "es": "El médico dice que comer más fruta y verdura cada día es muy bueno para la salud."
+      }
+    ]
+  },
+  {
+    "word": "结束",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "terminar",
+      "acabar",
+      "concluir"
+    ],
+    "examples": [
+      {
+        "zh": "会议结束了。",
+        "es": "La reunión terminó."
+      },
+      {
+        "zh": "电影几点结束？",
+        "es": "¿A qué hora termina la película?"
+      },
+      {
+        "zh": "考试结束以后，我们一起去吃饭吧。",
+        "es": "Cuando termine el examen, vamos a comer juntos."
+      },
+      {
+        "zh": "这个项目下个月结束，但是还有很多工作没做。",
+        "es": "Este proyecto termina el próximo mes, pero todavía queda mucho trabajo por hacer."
+      }
+    ]
+  },
+  {
+    "word": "奶奶",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abuela (paterna)",
+      "abuelita",
+      "señora (de la casa)"
+    ],
+    "examples": [
+      {
+        "zh": "奶奶在家做饭。",
+        "es": "Mi abuela está cocinando en casa."
+      },
+      {
+        "zh": "我奶奶七十岁了。",
+        "es": "Mi abuela tiene setenta años."
+      },
+      {
+        "zh": "我每个星期都给奶奶打电话。",
+        "es": "Llamo a mi abuela todas las semanas."
+      },
+      {
+        "zh": "奶奶身体不好，所以我们常常回去看她。",
+        "es": "Mi abuela no está bien de salud, por eso vamos a visitarla seguido."
+      }
+    ]
+  },
+  {
+    "word": "具有",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener",
+      "poseer",
+      "contar con"
+    ],
+    "examples": [
+      {
+        "zh": "他具有很强的能力。",
+        "es": "Él tiene mucha capacidad."
+      },
+      {
+        "zh": "这个地方具有很长的历史。",
+        "es": "Este lugar tiene una historia muy larga."
+      },
+      {
+        "zh": "这个产品具有很多新技术。",
+        "es": "Este producto cuenta con muchas tecnologías nuevas."
+      },
+      {
+        "zh": "这次会议对两国的关系具有重要影响。",
+        "es": "Esta reunión tiene una influencia importante en la relación entre los dos países."
+      }
+    ]
+  },
+  {
+    "word": "半年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "medio año",
+      "seis meses"
+    ],
+    "examples": [
+      {
+        "zh": "我学了半年中文。",
+        "es": "Estudié chino durante medio año."
+      },
+      {
+        "zh": "他去美国半年了。",
+        "es": "Ya lleva medio año en Estados Unidos."
+      },
+      {
+        "zh": "这个计划半年以后才能完成。",
+        "es": "Este plan no se podrá terminar sino dentro de seis meses."
+      },
+      {
+        "zh": "我已经半年没回家了，妈妈非常想我。",
+        "es": "Hace medio año que no voy a casa, y mi mamá me extraña muchísimo."
+      }
+    ]
+  },
+  {
+    "word": "实现",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lograr",
+      "hacer realidad",
+      "llevar a cabo",
+      "cumplir"
+    ],
+    "examples": [
+      {
+        "zh": "这个目标很难实现。",
+        "es": "Esta meta es difícil de lograr."
+      },
+      {
+        "zh": "他实现了自己的计划。",
+        "es": "Llevó a cabo su plan."
+      },
+      {
+        "zh": "你的希望一定会实现。",
+        "es": "Tu deseo seguramente se va a hacer realidad."
+      },
+      {
+        "zh": "为了实现这个目标，他每天工作十个小时。",
+        "es": "Para lograr esta meta, trabaja diez horas al día."
+      }
+    ]
+  },
+  {
+    "word": "有用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "útil",
+      "que sirve"
+    ],
+    "examples": [
+      {
+        "zh": "这本书很有用。",
+        "es": "Este libro es muy útil."
+      },
+      {
+        "zh": "你说的话很有用，谢谢。",
+        "es": "Lo que dijiste me sirvió mucho, gracias."
+      },
+      {
+        "zh": "学中文对我的工作非常有用。",
+        "es": "Aprender chino es muy útil para mi trabajo."
+      },
+      {
+        "zh": "老师告诉我们的方法很有用，我现在学得快多了。",
+        "es": "El método que nos enseñó el profesor es muy útil; ahora aprendo mucho más rápido."
+      }
+    ]
+  }
+]

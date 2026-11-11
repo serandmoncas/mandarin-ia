@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:接待",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7da5758b21261940a50e007479d4c84e19c7f910"
+  },
+  {
+    "id": "word:空调",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e445a51992dad4d72249d5069c7cf7d272667e4d"
+  },
+  {
+    "id": "word:裤子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ec41694fae0da4096660c11e2f73084f8039e28"
+  },
+  {
+    "id": "word:价钱",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 东西 (cosas) es «dōng xi» con tono neutro; «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "c9f4d6edf608854e6edb5460dc5a6ffdb4155ebe"
+  },
+  {
+    "id": "word:亲人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8e7b528d6ec9b31a4396e442058b18d873b50215"
+  },
+  {
+    "id": "word:演唱会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b8aab3b48af08441b50f1c5d06a00d6407e56332"
+  },
+  {
+    "id": "word:爱心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b30bb4476e9c68fd1c3a44ce386fe4a880fd5ba0"
+  },
+  {
+    "id": "word:大使馆",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 哪儿 se lee «nǎr» (con erización), no «nǎ ér»."
+    ],
+    "content_hash": "ae68ecbef523bbe035cddf27254f0037cf04209f"
+  },
+  {
+    "id": "word:海关",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: en 多长时间, 长 se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "4ca5a0408e2de69e8c95f49b881f5dc892a6483b"
+  },
+  {
+    "id": "word:提问",
+    "ok": true,
+    "issues": [],
+    "content_hash": "592b212699e98107a9a60178c22b09f7245721e4"
+  },
+  {
+    "id": "word:初级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "463b43ac03fadbb7ce884f81d54ebda5d9707a9f"
+  },
+  {
+    "id": "word:围",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f175d1fd94d84530a41f5a003646ecd8d04ba83"
+  },
+  {
+    "id": "word:演唱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3d4caf7891e2fad9cfc276e0f3984a84056b1976"
+  },
+  {
+    "id": "word:困",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: la partícula 得 en 睡得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "0a058a3f1949944dec553df30331955cf38bfef7"
+  },
+  {
+    "id": "word:啤酒",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: la partícula 吧 se lee «ba» (tono neutro), no «bā»."
+    ],
+    "content_hash": "c652a5fcac5f25ba0f03cc6c5c0ef7d156e51ecf"
+  },
+  {
+    "id": "word:题目",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8ec15f18cd780e252b7aa18f8ebc4b31444cf351"
+  },
+  {
+    "id": "word:甜",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: la partícula 得 en 笑得 se lee «de» (tono neutro), no «dé».",
+      "Pinyin del ejemplo 2: 东西 (cosas) es «dōng xi» con tono neutro; «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "571e2c3e80b6b1c1fbbc8710d45aac224084be55"
+  },
+  {
+    "id": "word:中华民族",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: en 很长的历史, 长 se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "74248441865469fc47d603f53f03e693a86612bf"
+  },
+  {
+    "id": "word:告别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "72998b487b9730e6cbc8d41e720c1afa0cff42c1"
+  },
+  {
+    "id": "word:故乡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e890deea9fdaa0c46bc39acfafe8d449c18754c1"
+  },
+  {
+    "id": "word:金牌",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0d20dccce8766a36a04889196c7bfcd8d0139c8"
+  },
+  {
+    "id": "word:长城",
+    "ok": true,
+    "issues": [],
+    "content_hash": "74c6e4eeafc034d3e641e028ea21499d8f2a575a"
+  },
+  {
+    "id": "word:志愿者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd75dec62d5287948d27b0d4f34ddd117906437a"
+  },
+  {
+    "id": "word:底下",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 底下 se escribe «dǐ xià», pero la palabra es «dǐ xia» con tono neutro (di3 xia5). No coincide con el encabezado."
+    ],
+    "content_hash": "56afa134ca62a6f44ee97f179f25583960b44a61"
+  },
+  {
+    "id": "word:主意",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 主意 se escribe «zhǔ yì», pero la palabra es «zhǔ yi» con tono neutro (zhu3 yi5). No coincide con el encabezado."
+    ],
+    "content_hash": "a25ad607137eee4965ff42fb56741cb2423ea6b3"
+  }
+]

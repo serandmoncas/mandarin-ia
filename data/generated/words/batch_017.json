@@ -1,0 +1,539 @@
+[
+  {
+    "word": "西",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "oeste",
+      "occidente",
+      "occidental"
+    ],
+    "examples": [
+      {
+        "zh": "学校在西边。",
+        "es": "La escuela está en el lado oeste."
+      },
+      {
+        "zh": "我们往西走吧。",
+        "es": "Caminemos hacia el oeste."
+      },
+      {
+        "zh": "他家在北京的西边。",
+        "es": "Su casa está en el oeste de Pekín."
+      },
+      {
+        "zh": "这个城市的西边有很多新公司。",
+        "es": "En el oeste de esta ciudad hay muchas empresas nuevas."
+      }
+    ]
+  },
+  {
+    "word": "区",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "zona",
+      "distrito",
+      "área",
+      "región"
+    ],
+    "examples": [
+      {
+        "zh": "我住在这个区。",
+        "es": "Vivo en este distrito."
+      },
+      {
+        "zh": "这个区有很多学校。",
+        "es": "En esta zona hay muchas escuelas."
+      },
+      {
+        "zh": "他在城市西区工作。",
+        "es": "Él trabaja en la zona oeste de la ciudad."
+      },
+      {
+        "zh": "这个区的人们都很喜欢这家新医院。",
+        "es": "A la gente de este distrito le gusta mucho este nuevo hospital."
+      }
+    ]
+  },
+  {
+    "word": "笑",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "reírse",
+      "sonreír",
+      "burlarse de"
+    ],
+    "examples": [
+      {
+        "zh": "她笑了。",
+        "es": "Ella sonrió."
+      },
+      {
+        "zh": "你笑什么？",
+        "es": "¿De qué te ríes?"
+      },
+      {
+        "zh": "别笑我，我是第一次学中文。",
+        "es": "No te burles de mí, es la primera vez que estudio chino."
+      },
+      {
+        "zh": "孩子们看电影的时候一直在笑。",
+        "es": "Los niños se rieron todo el tiempo mientras veían la película."
+      }
+    ]
+  },
+  {
+    "word": "市场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mercado",
+      "plaza de mercado",
+      "mercado (economía)"
+    ],
+    "examples": [
+      {
+        "zh": "这个市场很大。",
+        "es": "Este mercado es muy grande."
+      },
+      {
+        "zh": "我去市场买东西。",
+        "es": "Voy al mercado a comprar cosas."
+      },
+      {
+        "zh": "中国市场对这家公司非常重要。",
+        "es": "El mercado chino es muy importante para esta empresa."
+      },
+      {
+        "zh": "我们需要了解市场，才能决定下一步的计划。",
+        "es": "Necesitamos conocer el mercado para poder decidir el siguiente paso del plan."
+      }
+    ]
+  },
+  {
+    "word": "难",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "difícil",
+      "complicado",
+      "dificultad"
+    ],
+    "examples": [
+      {
+        "zh": "中文很难。",
+        "es": "El chino es muy difícil."
+      },
+      {
+        "zh": "这个问题太难了。",
+        "es": "Esta pregunta es demasiado difícil."
+      },
+      {
+        "zh": "学中文难不难？",
+        "es": "¿Es difícil aprender chino?"
+      },
+      {
+        "zh": "找到一个好工作没有你想的那么难。",
+        "es": "Encontrar un buen trabajo no es tan difícil como crees."
+      }
+    ]
+  },
+  {
+    "word": "飞机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "avión"
+    ],
+    "examples": [
+      {
+        "zh": "飞机几点到？",
+        "es": "¿A qué hora llega el avión?"
+      },
+      {
+        "zh": "我坐飞机去北京。",
+        "es": "Voy a Pekín en avión."
+      },
+      {
+        "zh": "这是我第一次坐飞机。",
+        "es": "Es la primera vez que viajo en avión."
+      },
+      {
+        "zh": "因为天气不好，我们的飞机晚了两个小时。",
+        "es": "Por el mal tiempo, nuestro avión se retrasó dos horas."
+      }
+    ]
+  },
+  {
+    "word": "一直",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siempre",
+      "todo el tiempo",
+      "sin parar",
+      "todo derecho"
+    ],
+    "examples": [
+      {
+        "zh": "一直走。",
+        "es": "Sigue derecho."
+      },
+      {
+        "zh": "我一直在等你。",
+        "es": "Te estuve esperando todo el tiempo."
+      },
+      {
+        "zh": "他一直喜欢看电影。",
+        "es": "Siempre le ha gustado ver películas."
+      },
+      {
+        "zh": "从小到大，她一直想去中国学习。",
+        "es": "Desde pequeña, ella siempre ha querido ir a estudiar a China."
+      }
+    ]
+  },
+  {
+    "word": "四",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cuatro"
+    ],
+    "examples": [
+      {
+        "zh": "我家有四个人。",
+        "es": "En mi familia somos cuatro."
+      },
+      {
+        "zh": "现在四点了。",
+        "es": "Ya son las cuatro."
+      },
+      {
+        "zh": "他四岁就开始学中文了。",
+        "es": "Él empezó a aprender chino a los cuatro años."
+      },
+      {
+        "zh": "我们四个人一起去北京看朋友。",
+        "es": "Los cuatro fuimos juntos a Pekín a visitar a unos amigos."
+      }
+    ]
+  },
+  {
+    "word": "约",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hacer una cita",
+      "invitar",
+      "aproximadamente",
+      "acuerdo"
+    ],
+    "examples": [
+      {
+        "zh": "我约了朋友。",
+        "es": "Tengo una cita con un amigo."
+      },
+      {
+        "zh": "他约我去看电影。",
+        "es": "Él me invitó a ver una película."
+      },
+      {
+        "zh": "我们约好明天见。",
+        "es": "Acordamos vernos mañana."
+      },
+      {
+        "zh": "这个城市约有三百万人。",
+        "es": "Esta ciudad tiene aproximadamente tres millones de habitantes."
+      }
+    ]
+  },
+  {
+    "word": "者",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "persona que… (sufijo)",
+      "-dor, -ista",
+      "el último / el primero (referido a algo mencionado)"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个记者。",
+        "es": "Él es periodista."
+      },
+      {
+        "zh": "这本书的作者是谁？",
+        "es": "¿Quién es el autor de este libro?"
+      },
+      {
+        "zh": "我是电影爱好者。",
+        "es": "Soy aficionado al cine."
+      },
+      {
+        "zh": "茶和咖啡，我更喜欢后者。",
+        "es": "Entre el té y el café, prefiero el segundo."
+      }
+    ]
+  },
+  {
+    "word": "知识",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conocimiento",
+      "saber",
+      "intelectual"
+    ],
+    "examples": [
+      {
+        "zh": "他很有知识。",
+        "es": "Él tiene muchos conocimientos."
+      },
+      {
+        "zh": "书里有很多知识。",
+        "es": "En los libros hay mucho conocimiento."
+      },
+      {
+        "zh": "学习新知识让我很快乐。",
+        "es": "Aprender cosas nuevas me hace muy feliz."
+      },
+      {
+        "zh": "在大学里，我们不只学知识，还学怎么生活。",
+        "es": "En la universidad no solo aprendemos conocimientos, también aprendemos a vivir."
+      }
+    ]
+  },
+  {
+    "word": "帮",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "ayudar",
+      "echar una mano",
+      "grupo, banda"
+    ],
+    "examples": [
+      {
+        "zh": "请帮帮我。",
+        "es": "Por favor, ayúdame."
+      },
+      {
+        "zh": "你能帮我拿一下吗？",
+        "es": "¿Me ayudas a sostener esto un momento?"
+      },
+      {
+        "zh": "妈妈帮我找到了手机。",
+        "es": "Mi mamá me ayudó a encontrar el celular."
+      },
+      {
+        "zh": "如果你有问题，可以告诉我，我会帮你的。",
+        "es": "Si tienes algún problema, puedes decírmelo y te voy a ayudar."
+      }
+    ]
+  },
+  {
+    "word": "么",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "sufijo de palabras interrogativas (什么, 怎么)",
+      "sufijo de modo o grado (这么, 那么)"
+    ],
+    "examples": [
+      {
+        "zh": "你叫什么名字？",
+        "es": "¿Cómo te llamas?"
+      },
+      {
+        "zh": "你怎么去学校？",
+        "es": "¿Cómo vas a la escuela?"
+      },
+      {
+        "zh": "今天怎么这么热？",
+        "es": "¿Por qué hace tanto calor hoy?"
+      },
+      {
+        "zh": "我不知道他为什么那么喜欢这部电影。",
+        "es": "No sé por qué le gusta tanto esa película."
+      }
+    ]
+  },
+  {
+    "word": "东",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "este (punto cardinal)",
+      "oriente",
+      "anfitrión",
+      "dueño, arrendador"
+    ],
+    "examples": [
+      {
+        "zh": "我家在东边。",
+        "es": "Mi casa está en el este."
+      },
+      {
+        "zh": "我们往东走。",
+        "es": "Vamos hacia el este."
+      },
+      {
+        "zh": "太阳从东边出来。",
+        "es": "El sol sale por el este."
+      },
+      {
+        "zh": "他在城市东边开了一家小公司。",
+        "es": "Él abrió una pequeña empresa en el este de la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "moverse",
+      "mover",
+      "tocar",
+      "conmover"
+    ],
+    "examples": [
+      {
+        "zh": "别动！",
+        "es": "¡No te muevas!"
+      },
+      {
+        "zh": "别动我的东西。",
+        "es": "No toques mis cosas."
+      },
+      {
+        "zh": "车开始动了。",
+        "es": "El carro empezó a moverse."
+      },
+      {
+        "zh": "这个电影的故事让很多人都很感动。",
+        "es": "La historia de esta película conmovió a mucha gente."
+      }
+    ]
+  },
+  {
+    "word": "教育",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "educación",
+      "educar",
+      "enseñar"
+    ],
+    "examples": [
+      {
+        "zh": "教育很重要。",
+        "es": "La educación es muy importante."
+      },
+      {
+        "zh": "他在大学学习教育。",
+        "es": "Él estudia educación en la universidad."
+      },
+      {
+        "zh": "父母应该好好教育孩子。",
+        "es": "Los padres deben educar bien a sus hijos."
+      },
+      {
+        "zh": "政府希望让所有孩子都能得到好的教育。",
+        "es": "El gobierno quiere que todos los niños reciban una buena educación."
+      }
+    ]
+  },
+  {
+    "word": "机场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aeropuerto"
+    ],
+    "examples": [
+      {
+        "zh": "我在机场。",
+        "es": "Estoy en el aeropuerto."
+      },
+      {
+        "zh": "机场离这里远吗？",
+        "es": "¿El aeropuerto queda lejos de aquí?"
+      },
+      {
+        "zh": "我明天去机场送朋友。",
+        "es": "Mañana voy al aeropuerto a despedir a un amigo."
+      },
+      {
+        "zh": "从北京机场到学校要一个多小时。",
+        "es": "Del aeropuerto de Pekín a la escuela se tarda más de una hora."
+      }
+    ]
+  },
+  {
+    "word": "内容",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "contenido",
+      "detalles"
+    ],
+    "examples": [
+      {
+        "zh": "这本书的内容很好。",
+        "es": "El contenido de este libro es muy bueno."
+      },
+      {
+        "zh": "你知道电影的内容吗？",
+        "es": "¿Sabes de qué trata la película?"
+      },
+      {
+        "zh": "这个网站每天都有新的内容。",
+        "es": "Este sitio web tiene contenido nuevo todos los días."
+      },
+      {
+        "zh": "请把今天学习的主要内容写下来。",
+        "es": "Por favor, escribe el contenido principal de lo que aprendimos hoy."
+      }
+    ]
+  },
+  {
+    "word": "看见",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ver",
+      "alcanzar a ver"
+    ],
+    "examples": [
+      {
+        "zh": "我看见他了。",
+        "es": "Lo vi."
+      },
+      {
+        "zh": "你看见我的手机了吗？",
+        "es": "¿Viste mi celular?"
+      },
+      {
+        "zh": "我在路上看见了一只小狗。",
+        "es": "Vi un perrito en la calle."
+      },
+      {
+        "zh": "我刚才在学校门口看见你妈妈了。",
+        "es": "Hace un rato vi a tu mamá en la entrada de la escuela."
+      }
+    ]
+  },
+  {
+    "word": "特别",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "especial",
+      "especialmente",
+      "muy",
+      "sobre todo"
+    ],
+    "examples": [
+      {
+        "zh": "今天特别热。",
+        "es": "Hoy hace muchísimo calor."
+      },
+      {
+        "zh": "这是一个特别的日子。",
+        "es": "Este es un día especial."
+      },
+      {
+        "zh": "我特别喜欢吃中国菜。",
+        "es": "Me encanta la comida china."
+      },
+      {
+        "zh": "他什么都喜欢学，特别是历史。",
+        "es": "Le gusta aprender de todo, sobre todo historia."
+      }
+    ]
+  }
+]

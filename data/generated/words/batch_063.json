@@ -1,0 +1,536 @@
+[
+  {
+    "word": "不了",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "no poder (hacer algo), tras un verbo",
+      "sin fin, sin parar"
+    ],
+    "examples": [
+      {
+        "zh": "明天我去不了。",
+        "es": "Mañana no puedo ir."
+      },
+      {
+        "zh": "我吃不了这么多。",
+        "es": "No puedo comer tanto."
+      },
+      {
+        "zh": "这个问题他解决不了。",
+        "es": "Él no puede resolver este problema."
+      },
+      {
+        "zh": "今天的工作太多，我一个人做不了。",
+        "es": "Hoy hay demasiado trabajo; no puedo hacerlo yo solo."
+      }
+    ]
+  },
+  {
+    "word": "换",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cambiar",
+      "intercambiar",
+      "reemplazar",
+      "cambiar (dinero)"
+    ],
+    "examples": [
+      {
+        "zh": "我想换衣服。",
+        "es": "Quiero cambiarme de ropa."
+      },
+      {
+        "zh": "我们换个地方吃饭吧。",
+        "es": "Vamos a comer a otro lugar."
+      },
+      {
+        "zh": "我的手机坏了，需要换一个新的。",
+        "es": "Mi celular se descompuso; necesito cambiarlo por uno nuevo."
+      },
+      {
+        "zh": "去中国以前，我要去银行换钱。",
+        "es": "Antes de ir a China, tengo que ir al banco a cambiar dinero."
+      }
+    ]
+  },
+  {
+    "word": "中共",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Partido Comunista de China (abreviatura)"
+    ],
+    "examples": [
+      {
+        "zh": "他是中共党员。",
+        "es": "Él es miembro del Partido Comunista de China."
+      },
+      {
+        "zh": "中共成立于一九二一年。",
+        "es": "El Partido Comunista de China se fundó en 1921."
+      },
+      {
+        "zh": "很多新闻都在讨论中共的政策。",
+        "es": "Muchas noticias están hablando de las políticas del Partido Comunista de China."
+      },
+      {
+        "zh": "中共中央今天发表了一个重要的报告。",
+        "es": "El Comité Central del Partido Comunista de China publicó hoy un informe importante."
+      }
+    ]
+  },
+  {
+    "word": "普通",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "común",
+      "ordinario",
+      "normal",
+      "corriente"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个普通人。",
+        "es": "Él es una persona común."
+      },
+      {
+        "zh": "我只是一个普通的学生。",
+        "es": "Solo soy un estudiante común y corriente."
+      },
+      {
+        "zh": "她普通话说得很好。",
+        "es": "Ella habla muy bien el chino mandarín."
+      },
+      {
+        "zh": "这家饭店的菜很普通，但是很贵。",
+        "es": "La comida de este restaurante es muy normal, pero es cara."
+      }
+    ]
+  },
+  {
+    "word": "医疗",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "atención médica",
+      "tratamiento médico",
+      "médico (como adjetivo)"
+    ],
+    "examples": [
+      {
+        "zh": "这里的医疗条件很好。",
+        "es": "Aquí las condiciones de atención médica son buenas."
+      },
+      {
+        "zh": "这个城市的医疗技术发展得很快。",
+        "es": "La tecnología médica de esta ciudad ha avanzado muy rápido."
+      },
+      {
+        "zh": "政府应该提供免费的医疗服务。",
+        "es": "El gobierno debería ofrecer servicios médicos gratuitos."
+      },
+      {
+        "zh": "很多农村地区的医疗条件还不太好。",
+        "es": "En muchas zonas rurales las condiciones de atención médica todavía no son muy buenas."
+      }
+    ]
+  },
+  {
+    "word": "收入",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ingresos",
+      "sueldo, ganancias",
+      "percibir, recibir (dinero)"
+    ],
+    "examples": [
+      {
+        "zh": "他的收入很高。",
+        "es": "Él tiene ingresos muy altos."
+      },
+      {
+        "zh": "今年公司的收入增加了。",
+        "es": "Este año aumentaron los ingresos de la empresa."
+      },
+      {
+        "zh": "我的收入不多，所以不常去饭店吃饭。",
+        "es": "No gano mucho, así que no como seguido en restaurantes."
+      },
+      {
+        "zh": "农民的收入比城市居民低很多。",
+        "es": "Los ingresos de los campesinos son mucho más bajos que los de la gente de la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "原则",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "principio",
+      "norma, criterio"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的原则。",
+        "es": "Este es mi principio."
+      },
+      {
+        "zh": "他是一个有原则的人。",
+        "es": "Él es una persona de principios."
+      },
+      {
+        "zh": "我们要坚持这个原则。",
+        "es": "Tenemos que mantenernos firmes en este principio."
+      },
+      {
+        "zh": "原则上可以，但是需要老师同意。",
+        "es": "En principio se puede, pero necesitas que el maestro esté de acuerdo."
+      }
+    ]
+  },
+  {
+    "word": "同志",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "camarada",
+      "compañero (de partido o de causa)",
+      "(coloquial) persona homosexual"
+    ],
+    "examples": [
+      {
+        "zh": "同志们，你们好！",
+        "es": "¡Hola, camaradas!"
+      },
+      {
+        "zh": "这位同志是新来的。",
+        "es": "Este compañero es nuevo."
+      },
+      {
+        "zh": "他是我们单位的老同志。",
+        "es": "Él es un compañero veterano de nuestro trabajo."
+      },
+      {
+        "zh": "以前在中国，人们常常叫别人“同志”。",
+        "es": "Antes en China, la gente solía llamar a los demás \"camarada\"."
+      }
+    ]
+  },
+  {
+    "word": "一部分",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "una parte",
+      "una porción",
+      "algunos (de un grupo)"
+    ],
+    "examples": [
+      {
+        "zh": "我吃了一部分。",
+        "es": "Me comí una parte."
+      },
+      {
+        "zh": "这只是问题的一部分。",
+        "es": "Esto es solo una parte del problema."
+      },
+      {
+        "zh": "一部分学生已经回家了。",
+        "es": "Algunos de los estudiantes ya se fueron a casa."
+      },
+      {
+        "zh": "他把一部分钱给了他的妈妈。",
+        "es": "Le dio una parte del dinero a su mamá."
+      }
+    ]
+  },
+  {
+    "word": "委员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "miembro de un comité",
+      "comisionado",
+      "vocal (de una comisión)"
+    ],
+    "examples": [
+      {
+        "zh": "他是委员会的委员。",
+        "es": "Él es miembro del comité."
+      },
+      {
+        "zh": "她当了三年的委员。",
+        "es": "Ella fue miembro del comité durante tres años."
+      },
+      {
+        "zh": "每个委员都要参加明天的会议。",
+        "es": "Cada miembro del comité tiene que asistir a la reunión de mañana."
+      },
+      {
+        "zh": "委员们讨论了很久，最后决定支持这个计划。",
+        "es": "Los miembros del comité discutieron mucho tiempo y al final decidieron apoyar el plan."
+      }
+    ]
+  },
+  {
+    "word": "怎么办",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿qué hago?, ¿qué hacemos?",
+      "¿qué se puede hacer?"
+    ],
+    "examples": [
+      {
+        "zh": "我们现在怎么办？",
+        "es": "¿Qué hacemos ahora?"
+      },
+      {
+        "zh": "下雨了，怎么办？",
+        "es": "Está lloviendo, ¿qué hacemos?"
+      },
+      {
+        "zh": "我的钱包没有了，怎么办？",
+        "es": "No encuentro mi billetera, ¿qué hago?"
+      },
+      {
+        "zh": "如果明天的考试没考好，我该怎么办？",
+        "es": "Si me va mal en el examen de mañana, ¿qué voy a hacer?"
+      }
+    ]
+  },
+  {
+    "word": "宗教",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "religión"
+    ],
+    "examples": [
+      {
+        "zh": "你信宗教吗？",
+        "es": "¿Eres creyente de alguna religión?"
+      },
+      {
+        "zh": "中国有很多宗教。",
+        "es": "En China hay muchas religiones."
+      },
+      {
+        "zh": "宗教和文化有很大的关系。",
+        "es": "La religión y la cultura están muy relacionadas."
+      },
+      {
+        "zh": "每个人都有选择宗教的自由。",
+        "es": "Todas las personas tienen la libertad de elegir su religión."
+      }
+    ]
+  },
+  {
+    "word": "离",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "estar a (cierta distancia) de",
+      "faltar (para un momento)",
+      "dejar, separarse de",
+      "sin"
+    ],
+    "examples": [
+      {
+        "zh": "我家离学校很近。",
+        "es": "Mi casa está muy cerca de la escuela."
+      },
+      {
+        "zh": "机场离这里远吗？",
+        "es": "¿El aeropuerto está lejos de aquí?"
+      },
+      {
+        "zh": "离考试只有三天了。",
+        "es": "Solo faltan tres días para el examen."
+      },
+      {
+        "zh": "她离家已经十年了，常常想回去看看。",
+        "es": "Hace diez años que se fue de casa y a menudo quiere volver de visita."
+      }
+    ]
+  },
+  {
+    "word": "意识",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conciencia",
+      "darse cuenta (de)",
+      "conocimiento, sentido (de algo)"
+    ],
+    "examples": [
+      {
+        "zh": "病人已经没有意识了。",
+        "es": "El paciente ya perdió el conocimiento."
+      },
+      {
+        "zh": "他没意识到这个问题。",
+        "es": "Él no se dio cuenta de este problema."
+      },
+      {
+        "zh": "我突然意识到我错了。",
+        "es": "De repente me di cuenta de que estaba equivocado."
+      },
+      {
+        "zh": "大家应该提高保护环境的意识。",
+        "es": "Todos deberíamos tomar más conciencia sobre el cuidado del medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "漂亮",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bonito, lindo",
+      "hermoso",
+      "excelente, muy bien hecho"
+    ],
+    "examples": [
+      {
+        "zh": "她很漂亮。",
+        "es": "Ella es muy bonita."
+      },
+      {
+        "zh": "这件衣服真漂亮！",
+        "es": "¡Qué linda está esta ropa!"
+      },
+      {
+        "zh": "你的汉字写得很漂亮。",
+        "es": "Escribes los caracteres chinos muy bonito."
+      },
+      {
+        "zh": "那个城市晚上特别漂亮，很多人去那儿旅游。",
+        "es": "Esa ciudad es especialmente hermosa de noche; mucha gente va allá de viaje."
+      }
+    ]
+  },
+  {
+    "word": "版本",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "versión",
+      "edición"
+    ],
+    "examples": [
+      {
+        "zh": "这是新版本。",
+        "es": "Esta es la nueva versión."
+      },
+      {
+        "zh": "你的手机是什么版本？",
+        "es": "¿Qué versión tiene tu celular?"
+      },
+      {
+        "zh": "这本书有中文版本和英语版本。",
+        "es": "Este libro tiene una edición en chino y otra en inglés."
+      },
+      {
+        "zh": "这个游戏的新版本明天发布，很多人都在等。",
+        "es": "La nueva versión de este juego sale mañana y mucha gente la está esperando."
+      }
+    ]
+  },
+  {
+    "word": "看来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parece que",
+      "al parecer, por lo visto"
+    ],
+    "examples": [
+      {
+        "zh": "看来要下雨了。",
+        "es": "Parece que va a llover."
+      },
+      {
+        "zh": "看来他今天不来了。",
+        "es": "Por lo visto hoy no va a venir."
+      },
+      {
+        "zh": "看来你很喜欢这个地方。",
+        "es": "Parece que te gusta mucho este lugar."
+      },
+      {
+        "zh": "看来这个问题比我们想的更难解决。",
+        "es": "Parece que este problema es más difícil de resolver de lo que pensábamos."
+      }
+    ]
+  },
+  {
+    "word": "往",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacia",
+      "ir (en una dirección)",
+      "con destino a",
+      "pasado, anterior"
+    ],
+    "examples": [
+      {
+        "zh": "一直往前走。",
+        "es": "Sigue derecho."
+      },
+      {
+        "zh": "你往左边看。",
+        "es": "Mira hacia la izquierda."
+      },
+      {
+        "zh": "这是开往北京的火车。",
+        "es": "Este es el tren con destino a Beijing."
+      },
+      {
+        "zh": "到了路口往右走，银行就在那里。",
+        "es": "Cuando llegues a la esquina, dobla a la derecha; el banco está ahí."
+      }
+    ]
+  },
+  {
+    "word": "逐渐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "poco a poco",
+      "gradualmente"
+    ],
+    "examples": [
+      {
+        "zh": "天气逐渐热起来了。",
+        "es": "Poco a poco empieza a hacer calor."
+      },
+      {
+        "zh": "我逐渐了解了中国文化。",
+        "es": "Poco a poco fui conociendo la cultura china."
+      },
+      {
+        "zh": "他的中文水平逐渐提高了。",
+        "es": "Su nivel de chino fue mejorando gradualmente."
+      },
+      {
+        "zh": "来中国以后，她逐渐喜欢上了这里的生活。",
+        "es": "Después de venir a China, poco a poco le empezó a gustar la vida de aquí."
+      }
+    ]
+  },
+  {
+    "word": "样子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aspecto, apariencia",
+      "forma, manera",
+      "modelo"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢这个杯子的样子。",
+        "es": "Me gusta la forma de esta taza."
+      },
+      {
+        "zh": "她笑的样子很好看。",
+        "es": "Se ve muy bonita cuando sonríe."
+      },
+      {
+        "zh": "看样子今天不会下雨了。",
+        "es": "Por lo visto hoy no va a llover."
+      },
+      {
+        "zh": "十年没见，他还是以前的样子。",
+        "es": "Llevaba diez años sin verlo y sigue igual que antes."
+      }
+    ]
+  }
+]

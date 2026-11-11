@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:机票",
+    "ok": true,
+    "issues": [],
+    "content_hash": "29ebc4cc5807862fe9bdf2b59f04e1533717c78a"
+  },
+  {
+    "id": "word:导致",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: en 睡得太少 el pinyin de 得 debe ser «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "eaae6a56f3811a4328ee85618dfd3035a7ced256"
+  },
+  {
+    "id": "word:桌子",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 东西 («cosas») se escribe «dōng xi», con tono neutro; «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "920b2d1d139b20ba9b0e9d9956a46297dd3cfc58"
+  },
+  {
+    "id": "word:中年",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 中文 está transcrito como «zhòng wén»; lo correcto es «zhōng wén»."
+    ],
+    "content_hash": "c0f6c119f6308f233d9d782d90785ae253c38e20"
+  },
+  {
+    "id": "word:马路",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 长 («largo») se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "92019b1806cf4444135784553332f6ebdbcc0c67"
+  },
+  {
+    "id": "word:反对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70563a7d27d709f8fe3aef6cb7dede0fc22cd506"
+  },
+  {
+    "id": "word:属于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc902f5930904c63778d2f40c76acb4a6367bc1a"
+  },
+  {
+    "id": "word:下车",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 哪儿 debe transcribirse «nǎr» (erhua), no «nǎ ér»."
+    ],
+    "content_hash": "c7b651f875005f41535262527fad355609993bb7"
+  },
+  {
+    "id": "word:形成",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: en 很长时间, 长 se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "94554d5b0a520c651aff2e0a08e7f92e61e7dde7"
+  },
+  {
+    "id": "word:左边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "394889bf933db637c1806ab7d2d847509021176e"
+  },
+  {
+    "id": "word:音乐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ce77ab990e2a4f2926d66f3ae3413423c83fc9b"
+  },
+  {
+    "id": "word:右边",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «开车的时候要走路的右边» no es natural; 走路 significa «caminar». Lo natural sería «开车要靠右行驶» o «在路的右边开车»."
+    ],
+    "content_hash": "f8505c01f8187fcb5a6ade89bec968157dd86c72"
+  },
+  {
+    "id": "word:银行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce0b90c8baba889101a99dbf5a188f7a5b84ba3a"
+  },
+  {
+    "id": "word:姐",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 哪儿 debe transcribirse «nǎr», no «nǎ ér».",
+      "Ejemplo 4: 都 se lee «dōu», no «dū»."
+    ],
+    "content_hash": "7e10ab33820f54063b2e08c1d11cca3ca86cbea3"
+  },
+  {
+    "id": "word:加入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d2255b915b29b839c8a6456921e0c46730bd1a6"
+  },
+  {
+    "id": "word:发布",
+    "ok": true,
+    "issues": [],
+    "content_hash": "321946ae9313a2ed471934614dfd305dcf02b53a"
+  },
+  {
+    "id": "word:外语",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e11f29151a532d73ae863cc698f2ec64ba02edc"
+  },
+  {
+    "id": "word:啦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "04d3f20cacc4590f437a88bbfc2fd30eaaba117a"
+  },
+  {
+    "id": "word:楼上",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: en 说得对 el pinyin de 得 debe ser «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "1ca8af388d12ffd373d20e423520365d64585961"
+  },
+  {
+    "id": "word:建筑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7701186decde0de4f671a48bdb67a80fff336250"
+  },
+  {
+    "id": "word:星期日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4afb69b99b28a9f0d576d9487ac7af9955530416"
+  },
+  {
+    "id": "word:数据",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0be670b6a0dc6a6d065b8e35a25a3c1e0e35d676"
+  },
+  {
+    "id": "word:路口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a4ae04183457db17b3c69845fe4e8d604160cb6"
+  },
+  {
+    "id": "word:版",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb3fdf6ae24a90746a182319b01801cfb518564f"
+  },
+  {
+    "id": "word:行政",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5736496c432d95ba98b29c48177d220871d1cefc"
+  }
+]

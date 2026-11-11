@@ -1,0 +1,542 @@
+[
+  {
+    "word": "明天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mañana",
+      "el día de mañana",
+      "el futuro"
+    ],
+    "examples": [
+      {
+        "zh": "明天见！",
+        "es": "¡Nos vemos mañana!"
+      },
+      {
+        "zh": "我明天要去北京。",
+        "es": "Mañana voy a ir a Pekín."
+      },
+      {
+        "zh": "明天你有时间吗？",
+        "es": "¿Tienes tiempo mañana?"
+      },
+      {
+        "zh": "老师说明天的活动非常重要，大家一定要来。",
+        "es": "La maestra dijo que la actividad de mañana es muy importante y que todos tienen que venir."
+      }
+    ]
+  },
+  {
+    "word": "死",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "morir",
+      "muerto",
+      "muchísimo, a morir (coloquial)",
+      "rígido, inflexible"
+    ],
+    "examples": [
+      {
+        "zh": "花死了。",
+        "es": "La flor se murió."
+      },
+      {
+        "zh": "这个人已经死了。",
+        "es": "Esta persona ya murió."
+      },
+      {
+        "zh": "今天的工作太多了，我快累死了。",
+        "es": "Hoy hay demasiado trabajo, estoy muerto de cansancio."
+      },
+      {
+        "zh": "医生说，如果不去医院，他可能会死。",
+        "es": "El médico dijo que, si no va al hospital, podría morir."
+      }
+    ]
+  },
+  {
+    "word": "不用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no hace falta",
+      "no tener que",
+      "de nada (en 不用谢)"
+    ],
+    "examples": [
+      {
+        "zh": "不用谢！",
+        "es": "¡De nada!"
+      },
+      {
+        "zh": "你不用来了。",
+        "es": "Ya no tienes que venir."
+      },
+      {
+        "zh": "明天不用去学校。",
+        "es": "Mañana no hay que ir a la escuela."
+      },
+      {
+        "zh": "这些东西我已经买了，你不用再买了。",
+        "es": "Ya compré estas cosas, no tienes que volver a comprarlas."
+      }
+    ]
+  },
+  {
+    "word": "建设",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "construir",
+      "construcción",
+      "establecer",
+      "desarrollar"
+    ],
+    "examples": [
+      {
+        "zh": "他们在建设新城市。",
+        "es": "Están construyendo una ciudad nueva."
+      },
+      {
+        "zh": "这里正在建设一个机场。",
+        "es": "Aquí están construyendo un aeropuerto."
+      },
+      {
+        "zh": "政府计划建设更多学校。",
+        "es": "El gobierno planea construir más escuelas."
+      },
+      {
+        "zh": "经济建设对国家的发展非常重要。",
+        "es": "La construcción económica es muy importante para el desarrollo del país."
+      }
+    ]
+  },
+  {
+    "word": "记得",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recordar",
+      "acordarse de",
+      "no olvidar"
+    ],
+    "examples": [
+      {
+        "zh": "我记得你。",
+        "es": "Me acuerdo de ti."
+      },
+      {
+        "zh": "你还记得他的名字吗？",
+        "es": "¿Todavía te acuerdas de su nombre?"
+      },
+      {
+        "zh": "明天记得带手机。",
+        "es": "Mañana acuérdate de traer el celular."
+      },
+      {
+        "zh": "我不记得那个电影是什么时候看的了。",
+        "es": "Ya no recuerdo cuándo vi esa película."
+      }
+    ]
+  },
+  {
+    "word": "教",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "enseñar",
+      "dar clases de",
+      "instruir"
+    ],
+    "examples": [
+      {
+        "zh": "她教中文。",
+        "es": "Ella enseña chino."
+      },
+      {
+        "zh": "老师教我们写字。",
+        "es": "La maestra nos enseña a escribir caracteres."
+      },
+      {
+        "zh": "你可以教我用这个电脑吗？",
+        "es": "¿Me puedes enseñar a usar esta computadora?"
+      },
+      {
+        "zh": "我妈妈在大学教历史，已经教了二十年。",
+        "es": "Mi mamá enseña historia en la universidad; ya lleva veinte años enseñando."
+      }
+    ]
+  },
+  {
+    "word": "图",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "imagen, dibujo",
+      "mapa",
+      "diagrama, gráfica",
+      "buscar, aspirar a"
+    ],
+    "examples": [
+      {
+        "zh": "这张图很好看。",
+        "es": "Esta imagen es muy bonita."
+      },
+      {
+        "zh": "请看第二张图。",
+        "es": "Por favor, mira la segunda imagen."
+      },
+      {
+        "zh": "他在电脑上画了一张图。",
+        "es": "Hizo un dibujo en la computadora."
+      },
+      {
+        "zh": "这张图告诉我们中国经济发展得很快。",
+        "es": "Esta gráfica nos muestra que la economía de China ha crecido muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "回家",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "volver a casa",
+      "regresar a casa",
+      "irse a casa"
+    ],
+    "examples": [
+      {
+        "zh": "我回家了。",
+        "es": "Me voy a casa."
+      },
+      {
+        "zh": "你什么时候回家？",
+        "es": "¿Cuándo vuelves a casa?"
+      },
+      {
+        "zh": "今天晚上我想早点回家。",
+        "es": "Hoy en la noche quiero volver a casa temprano."
+      },
+      {
+        "zh": "他已经很多年没有回家看妈妈了。",
+        "es": "Hace muchos años que no vuelve a casa a ver a su mamá."
+      }
+    ]
+  },
+  {
+    "word": "新闻",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "noticias",
+      "noticia",
+      "noticiero"
+    ],
+    "examples": [
+      {
+        "zh": "我在看新闻。",
+        "es": "Estoy viendo las noticias."
+      },
+      {
+        "zh": "今天有什么新闻？",
+        "es": "¿Qué noticias hay hoy?"
+      },
+      {
+        "zh": "我每天晚上在电视上看新闻。",
+        "es": "Todas las noches veo las noticias en la televisión."
+      },
+      {
+        "zh": "这个新闻网站的内容非常多，但是很多都不对。",
+        "es": "Este sitio de noticias tiene muchísimo contenido, pero mucho no es correcto."
+      }
+    ]
+  },
+  {
+    "word": "南",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "sur",
+      "del sur",
+      "hacia el sur"
+    ],
+    "examples": [
+      {
+        "zh": "学校在南边。",
+        "es": "La escuela está al sur."
+      },
+      {
+        "zh": "他是南方人。",
+        "es": "Él es del sur."
+      },
+      {
+        "zh": "从这里往南走五分钟就到了。",
+        "es": "Desde aquí caminas cinco minutos hacia el sur y ya llegas."
+      },
+      {
+        "zh": "中国南方的冬天没有北京那么冷。",
+        "es": "En el sur de China el invierno no es tan frío como en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "有人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alguien",
+      "hay alguien",
+      "hay gente que",
+      "ocupado (baño, asiento)"
+    ],
+    "examples": [
+      {
+        "zh": "有人吗？",
+        "es": "¿Hay alguien?"
+      },
+      {
+        "zh": "门外有人。",
+        "es": "Hay alguien afuera de la puerta."
+      },
+      {
+        "zh": "有人给你打电话了。",
+        "es": "Alguien te llamó por teléfono."
+      },
+      {
+        "zh": "有人喜欢一个人生活，有人喜欢和朋友住。",
+        "es": "Hay gente que prefiere vivir sola y hay quien prefiere vivir con amigos."
+      }
+    ]
+  },
+  {
+    "word": "医生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "médico",
+      "doctor"
+    ],
+    "examples": [
+      {
+        "zh": "我妈妈是医生。",
+        "es": "Mi mamá es médica."
+      },
+      {
+        "zh": "你应该去看医生。",
+        "es": "Deberías ir al médico."
+      },
+      {
+        "zh": "医生说我的身体没有问题。",
+        "es": "El médico dijo que no tengo ningún problema de salud."
+      },
+      {
+        "zh": "他从小就想成为医生，现在在北京的医院工作。",
+        "es": "Desde niño quería ser médico; ahora trabaja en un hospital de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "自由",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "libertad",
+      "libre",
+      "libremente",
+      "sin restricciones"
+    ],
+    "examples": [
+      {
+        "zh": "我想要自由。",
+        "es": "Quiero libertad."
+      },
+      {
+        "zh": "你可以自由地说话。",
+        "es": "Puedes hablar libremente."
+      },
+      {
+        "zh": "大学生活比以前自由多了。",
+        "es": "La vida universitaria es mucho más libre que antes."
+      },
+      {
+        "zh": "很多人认为，自由比钱和工作都更重要。",
+        "es": "Mucha gente piensa que la libertad es más importante que el dinero y el trabajo."
+      }
+    ]
+  },
+  {
+    "word": "台湾",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "Taiwán"
+    ],
+    "examples": [
+      {
+        "zh": "我去过台湾。",
+        "es": "He ido a Taiwán."
+      },
+      {
+        "zh": "她是台湾人。",
+        "es": "Ella es taiwanesa."
+      },
+      {
+        "zh": "我朋友明年想去台湾学习中文。",
+        "es": "Mi amigo quiere ir a Taiwán a estudiar chino el próximo año."
+      },
+      {
+        "zh": "台湾的东西很好吃，所以我每年都去一次。",
+        "es": "La comida de Taiwán es muy rica, por eso voy una vez al año."
+      }
+    ]
+  },
+  {
+    "word": "读",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "leer",
+      "leer en voz alta",
+      "estudiar (en una escuela)",
+      "pronunciar"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢读书。",
+        "es": "Me gusta leer."
+      },
+      {
+        "zh": "请你读一下这个字。",
+        "es": "Por favor, lee este carácter en voz alta."
+      },
+      {
+        "zh": "她的儿子在北京读大学。",
+        "es": "Su hijo estudia en una universidad de Pekín."
+      },
+      {
+        "zh": "这本书我读了三次，还是不太明白。",
+        "es": "Leí este libro tres veces y todavía no lo entiendo bien."
+      }
+    ]
+  },
+  {
+    "word": "曾",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "alguna vez",
+      "antes, anteriormente",
+      "en otro tiempo"
+    ],
+    "examples": [
+      {
+        "zh": "我曾去过日本。",
+        "es": "Alguna vez fui a Japón."
+      },
+      {
+        "zh": "他曾是一名老师。",
+        "es": "Él antes era maestro."
+      },
+      {
+        "zh": "她曾在香港住过两年。",
+        "es": "Ella vivió dos años en Hong Kong."
+      },
+      {
+        "zh": "我们曾认为这个问题不重要，但我们错了。",
+        "es": "Alguna vez pensamos que este problema no era importante, pero nos equivocamos."
+      }
+    ]
+  },
+  {
+    "word": "工人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "obrero",
+      "trabajador"
+    ],
+    "examples": [
+      {
+        "zh": "他是工人。",
+        "es": "Él es obrero."
+      },
+      {
+        "zh": "这家公司有很多工人。",
+        "es": "Esta empresa tiene muchos trabajadores."
+      },
+      {
+        "zh": "工人们每天工作十个小时。",
+        "es": "Los obreros trabajan diez horas al día."
+      },
+      {
+        "zh": "那些工人正在建设一个新的医院。",
+        "es": "Esos obreros están construyendo un hospital nuevo."
+      }
+    ]
+  },
+  {
+    "word": "参加",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "participar",
+      "asistir",
+      "unirse a"
+    ],
+    "examples": [
+      {
+        "zh": "你参加吗？",
+        "es": "¿Vas a participar?"
+      },
+      {
+        "zh": "我想参加这个活动。",
+        "es": "Quiero participar en esta actividad."
+      },
+      {
+        "zh": "明天的会你能参加吗？",
+        "es": "¿Puedes asistir a la reunión de mañana?"
+      },
+      {
+        "zh": "去年有很多国家的学生参加了这个国际活动。",
+        "es": "El año pasado participaron en esta actividad internacional estudiantes de muchos países."
+      }
+    ]
+  },
+  {
+    "word": "去年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el año pasado"
+    ],
+    "examples": [
+      {
+        "zh": "我去年来过这里。",
+        "es": "Vine aquí el año pasado."
+      },
+      {
+        "zh": "他去年二十岁。",
+        "es": "El año pasado él tenía veinte años."
+      },
+      {
+        "zh": "去年我们一起去了北京。",
+        "es": "El año pasado fuimos juntos a Pekín."
+      },
+      {
+        "zh": "今年的经济情况比去年好，可是东西更贵了。",
+        "es": "La situación económica de este año es mejor que la del año pasado, pero las cosas están más caras."
+      }
+    ]
+  },
+  {
+    "word": "当时",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en ese momento",
+      "en ese entonces",
+      "entonces"
+    ],
+    "examples": [
+      {
+        "zh": "当时我在家。",
+        "es": "En ese momento yo estaba en casa."
+      },
+      {
+        "zh": "当时你在哪里？",
+        "es": "¿Dónde estabas en ese momento?"
+      },
+      {
+        "zh": "当时我还小，不知道发生了什么。",
+        "es": "En ese entonces yo era pequeño y no sabía qué estaba pasando."
+      },
+      {
+        "zh": "我当时觉得他说得对，现在才明白他错了。",
+        "es": "En ese momento pensé que él tenía razón; apenas ahora entiendo que estaba equivocado."
+      }
+    ]
+  }
+]

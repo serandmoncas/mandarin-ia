@@ -1,0 +1,543 @@
+[
+  {
+    "word": "声明",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "declaración",
+      "comunicado",
+      "declarar",
+      "afirmar públicamente"
+    ],
+    "examples": [
+      {
+        "zh": "这是公司的声明。",
+        "es": "Este es el comunicado de la empresa."
+      },
+      {
+        "zh": "政府今天发表了声明。",
+        "es": "El gobierno emitió hoy una declaración."
+      },
+      {
+        "zh": "他声明自己没有拿那些钱。",
+        "es": "Él declaró que no había tomado ese dinero."
+      },
+      {
+        "zh": "双方在声明中表示愿意继续合作。",
+        "es": "En el comunicado, ambas partes expresaron su disposición a seguir cooperando."
+      }
+    ]
+  },
+  {
+    "word": "过年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "celebrar el Año Nuevo chino",
+      "pasar las fiestas de Año Nuevo"
+    ],
+    "examples": [
+      {
+        "zh": "我们回家过年。",
+        "es": "Vamos a casa a celebrar el Año Nuevo."
+      },
+      {
+        "zh": "今年你在哪里过年？",
+        "es": "¿Dónde vas a pasar el Año Nuevo este año?"
+      },
+      {
+        "zh": "过年的时候大家都很高兴。",
+        "es": "En Año Nuevo todos están muy contentos."
+      },
+      {
+        "zh": "过年的时候，奶奶给了我很多好吃的东西。",
+        "es": "En Año Nuevo, mi abuela me dio muchas cosas ricas."
+      }
+    ]
+  },
+  {
+    "word": "实力",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fuerza",
+      "capacidad real",
+      "poderío"
+    ],
+    "examples": [
+      {
+        "zh": "他很有实力。",
+        "es": "Él tiene mucha capacidad."
+      },
+      {
+        "zh": "这个球队的实力很强。",
+        "es": "Este equipo es muy fuerte."
+      },
+      {
+        "zh": "中国的经济实力越来越强。",
+        "es": "El poderío económico de China es cada vez mayor."
+      },
+      {
+        "zh": "我们要提高自己的实力，才能赢得比赛。",
+        "es": "Tenemos que mejorar nuestro nivel para poder ganar el partido."
+      }
+    ]
+  },
+  {
+    "word": "难受",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sentirse mal",
+      "sentirse incómodo",
+      "estar triste o afligido",
+      "ser difícil de soportar"
+    ],
+    "examples": [
+      {
+        "zh": "我今天很难受。",
+        "es": "Hoy me siento muy mal."
+      },
+      {
+        "zh": "我吃得太多了，很难受。",
+        "es": "Comí demasiado y me siento muy mal."
+      },
+      {
+        "zh": "听到这个消息，她心里很难受。",
+        "es": "Al oír la noticia, se sintió muy triste."
+      },
+      {
+        "zh": "看到朋友生病住院，我心里非常难受。",
+        "es": "Me dolió mucho ver a mi amigo enfermo en el hospital."
+      }
+    ]
+  },
+  {
+    "word": "始终",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siempre",
+      "de principio a fin",
+      "en todo momento"
+    ],
+    "examples": [
+      {
+        "zh": "他始终不说话。",
+        "es": "Él no dijo nada en todo momento."
+      },
+      {
+        "zh": "我始终相信你。",
+        "es": "Siempre he confiado en ti."
+      },
+      {
+        "zh": "她始终没有忘记那个人。",
+        "es": "Ella nunca olvidó a esa persona."
+      },
+      {
+        "zh": "虽然很多人反对，他始终坚持自己的想法。",
+        "es": "Aunque mucha gente se oponía, él siempre mantuvo su idea."
+      }
+    ]
+  },
+  {
+    "word": "球场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cancha",
+      "campo de juego",
+      "estadio"
+    ],
+    "examples": [
+      {
+        "zh": "学校有一个球场。",
+        "es": "La escuela tiene una cancha."
+      },
+      {
+        "zh": "他们在球场上打球。",
+        "es": "Ellos juegan a la pelota en la cancha."
+      },
+      {
+        "zh": "下午我们去球场看足球比赛吧。",
+        "es": "En la tarde vamos al estadio a ver el partido de fútbol."
+      },
+      {
+        "zh": "这个球场很大，能坐五万名观众。",
+        "es": "Este estadio es muy grande; le caben cincuenta mil espectadores."
+      }
+    ]
+  },
+  {
+    "word": "跳",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "saltar",
+      "brincar",
+      "latir (el corazón)",
+      "saltarse"
+    ],
+    "examples": [
+      {
+        "zh": "他跳得很高。",
+        "es": "Él salta muy alto."
+      },
+      {
+        "zh": "孩子们在床上跳。",
+        "es": "Los niños brincan en la cama."
+      },
+      {
+        "zh": "听到这个消息，我的心跳得很快。",
+        "es": "Al oír la noticia, el corazón me latía muy rápido."
+      },
+      {
+        "zh": "她从小就喜欢跳舞，现在是一名演员。",
+        "es": "Desde niña le gustaba bailar y ahora es actriz."
+      }
+    ]
+  },
+  {
+    "word": "分数",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "calificación",
+      "nota",
+      "puntaje",
+      "fracción"
+    ],
+    "examples": [
+      {
+        "zh": "你的分数是多少？",
+        "es": "¿Cuál es tu calificación?"
+      },
+      {
+        "zh": "这次考试我的分数很高。",
+        "es": "En este examen saqué una nota muy alta."
+      },
+      {
+        "zh": "老师说分数不是最重要的。",
+        "es": "El maestro dijo que las calificaciones no son lo más importante."
+      },
+      {
+        "zh": "他每天努力学习，所以考试分数越来越高。",
+        "es": "Estudia mucho todos los días, por eso sus notas son cada vez más altas."
+      }
+    ]
+  },
+  {
+    "word": "西部",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el oeste",
+      "la parte occidental",
+      "región oeste"
+    ],
+    "examples": [
+      {
+        "zh": "他住在中国西部。",
+        "es": "Él vive en el oeste de China."
+      },
+      {
+        "zh": "西部有很多山。",
+        "es": "En el oeste hay muchas montañas."
+      },
+      {
+        "zh": "我们打算去西部旅游。",
+        "es": "Pensamos ir de viaje al oeste."
+      },
+      {
+        "zh": "这几年，西部地区的经济发展得非常快。",
+        "es": "En los últimos años, la economía de la región oeste ha crecido muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "幸福",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "feliz",
+      "felicidad",
+      "dichoso"
+    ],
+    "examples": [
+      {
+        "zh": "我很幸福。",
+        "es": "Soy muy feliz."
+      },
+      {
+        "zh": "祝你们幸福！",
+        "es": "¡Que sean muy felices!"
+      },
+      {
+        "zh": "有家人在身边就是幸福。",
+        "es": "Tener a la familia cerca es la felicidad."
+      },
+      {
+        "zh": "她希望自己的孩子能过上幸福的生活。",
+        "es": "Ella espera que sus hijos puedan tener una vida feliz."
+      }
+    ]
+  },
+  {
+    "word": "公交车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "autobús",
+      "camión (transporte público)",
+      "bus"
+    ],
+    "examples": [
+      {
+        "zh": "我坐公交车上班。",
+        "es": "Voy al trabajo en autobús."
+      },
+      {
+        "zh": "公交车来了，快走吧！",
+        "es": "¡Ya llegó el autobús, vámonos rápido!"
+      },
+      {
+        "zh": "这里的公交车很方便，也很便宜。",
+        "es": "Los autobuses aquí son muy prácticos y también muy baratos."
+      },
+      {
+        "zh": "早上公交车上人太多，我常常没有座位。",
+        "es": "En la mañana el autobús va muy lleno y muchas veces no tengo asiento."
+      }
+    ]
+  },
+  {
+    "word": "商量",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "consultar",
+      "hablar (algo con alguien)",
+      "ponerse de acuerdo"
+    ],
+    "examples": [
+      {
+        "zh": "我们商量一下。",
+        "es": "Hablémoslo un momento."
+      },
+      {
+        "zh": "这件事你要跟家人商量。",
+        "es": "Este asunto tienes que consultarlo con tu familia."
+      },
+      {
+        "zh": "我们商量好了，明天一起去北京。",
+        "es": "Ya nos pusimos de acuerdo: mañana vamos juntos a Pekín."
+      },
+      {
+        "zh": "他没有跟我商量，就自己决定买房子了。",
+        "es": "Sin consultarme, decidió por su cuenta comprar la casa."
+      }
+    ]
+  },
+  {
+    "word": "演出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "espectáculo",
+      "función",
+      "presentarse (en escena)",
+      "actuar"
+    ],
+    "examples": [
+      {
+        "zh": "今天晚上有演出。",
+        "es": "Hoy en la noche hay una función."
+      },
+      {
+        "zh": "这场演出非常好看。",
+        "es": "Este espectáculo es muy bueno."
+      },
+      {
+        "zh": "她明天要在音乐会上演出。",
+        "es": "Mañana ella se va a presentar en el concierto."
+      },
+      {
+        "zh": "因为下大雨，晚上的演出被取消了。",
+        "es": "Por la lluvia fuerte, cancelaron la función de la noche."
+      }
+    ]
+  },
+  {
+    "word": "星星",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estrella",
+      "las estrellas del cielo"
+    ],
+    "examples": [
+      {
+        "zh": "天上有很多星星。",
+        "es": "Hay muchas estrellas en el cielo."
+      },
+      {
+        "zh": "你看，那颗星星很亮！",
+        "es": "¡Mira, esa estrella brilla mucho!"
+      },
+      {
+        "zh": "城市里晚上很难看到星星。",
+        "es": "En la ciudad es difícil ver las estrellas de noche."
+      },
+      {
+        "zh": "小时候，我常常和爷爷一起在院子里看星星。",
+        "es": "De niño, muchas veces veía las estrellas con mi abuelo en el patio."
+      }
+    ]
+  },
+  {
+    "word": "留学生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estudiante extranjero",
+      "estudiante de intercambio",
+      "estudiante en el extranjero"
+    ],
+    "examples": [
+      {
+        "zh": "他是留学生。",
+        "es": "Él es estudiante extranjero."
+      },
+      {
+        "zh": "我们学校有很多留学生。",
+        "es": "En nuestra escuela hay muchos estudiantes extranjeros."
+      },
+      {
+        "zh": "这些留学生在北京学习汉语。",
+        "es": "Estos estudiantes extranjeros estudian chino en Pekín."
+      },
+      {
+        "zh": "很多留学生希望以后能留在中国工作。",
+        "es": "Muchos estudiantes extranjeros esperan quedarse a trabajar en China en el futuro."
+      }
+    ]
+  },
+  {
+    "word": "播放",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "transmitir",
+      "pasar (por televisión o radio)",
+      "reproducir"
+    ],
+    "examples": [
+      {
+        "zh": "电视在播放新闻。",
+        "es": "En la televisión están pasando las noticias."
+      },
+      {
+        "zh": "这部电影明天晚上播放。",
+        "es": "Esta película la pasan mañana en la noche."
+      },
+      {
+        "zh": "请问，这个视频怎么播放？",
+        "es": "Disculpa, ¿cómo se reproduce este video?"
+      },
+      {
+        "zh": "电视台每天晚上七点播放这个节目。",
+        "es": "El canal transmite este programa todas las noches a las siete."
+      }
+    ]
+  },
+  {
+    "word": "晚餐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cena"
+    ],
+    "examples": [
+      {
+        "zh": "晚餐准备好了。",
+        "es": "La cena está lista."
+      },
+      {
+        "zh": "你晚餐想吃什么？",
+        "es": "¿Qué quieres comer en la cena?"
+      },
+      {
+        "zh": "我们今天在饭店吃晚餐。",
+        "es": "Hoy vamos a cenar en un restaurante."
+      },
+      {
+        "zh": "为了健康，晚餐最好不要吃得太多。",
+        "es": "Por salud, es mejor no cenar demasiado."
+      }
+    ]
+  },
+  {
+    "word": "碗",
+    "cedict_reading_index": 3,
+    "meanings_es": [
+      "tazón",
+      "plato hondo",
+      "bol"
+    ],
+    "examples": [
+      {
+        "zh": "我要一碗米饭。",
+        "es": "Quiero un tazón de arroz."
+      },
+      {
+        "zh": "这个碗很干净。",
+        "es": "Este tazón está muy limpio."
+      },
+      {
+        "zh": "吃完饭以后，我来洗碗。",
+        "es": "Después de comer, yo lavo los platos."
+      },
+      {
+        "zh": "妈妈给我做了一大碗面条，味道好极了。",
+        "es": "Mi mamá me hizo un tazón grande de fideos y estaba riquísimo."
+      }
+    ]
+  },
+  {
+    "word": "半夜",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "medianoche",
+      "en plena noche",
+      "a mitad de la noche"
+    ],
+    "examples": [
+      {
+        "zh": "他半夜才回家。",
+        "es": "Él no llegó a casa hasta la medianoche."
+      },
+      {
+        "zh": "半夜外面下起了大雨。",
+        "es": "A medianoche empezó a llover fuerte afuera."
+      },
+      {
+        "zh": "我半夜醒了，再也睡不着。",
+        "es": "Me desperté a mitad de la noche y ya no pude dormir."
+      },
+      {
+        "zh": "昨天半夜有人给我打电话，我很生气。",
+        "es": "Anoche, en plena madrugada, alguien me llamó y me enojé mucho."
+      }
+    ]
+  },
+  {
+    "word": "等待",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "esperar",
+      "espera",
+      "aguardar"
+    ],
+    "examples": [
+      {
+        "zh": "请在这里等待。",
+        "es": "Por favor, espere aquí."
+      },
+      {
+        "zh": "我们在等待他的消息。",
+        "es": "Estamos esperando noticias de él."
+      },
+      {
+        "zh": "很多人在门口等待买票。",
+        "es": "Mucha gente espera en la entrada para comprar boletos."
+      },
+      {
+        "zh": "经过三年的等待，他终于见到了自己的家人。",
+        "es": "Después de tres años de espera, por fin vio a su familia."
+      }
+    ]
+  }
+]

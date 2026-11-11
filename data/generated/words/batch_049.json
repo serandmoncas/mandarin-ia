@@ -1,0 +1,548 @@
+[
+  {
+    "word": "类",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tipo",
+      "clase",
+      "categoría",
+      "parecerse"
+    ],
+    "examples": [
+      {
+        "zh": "这类问题很难。",
+        "es": "Este tipo de problemas es difícil."
+      },
+      {
+        "zh": "我很喜欢这类电影。",
+        "es": "Me gustan mucho este tipo de películas."
+      },
+      {
+        "zh": "这两类水果有什么不同？",
+        "es": "¿Qué diferencia hay entre estos dos tipos de fruta?"
+      },
+      {
+        "zh": "老师把学生分成了三类。",
+        "es": "El maestro dividió a los estudiantes en tres grupos."
+      }
+    ]
+  },
+  {
+    "word": "力量",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fuerza",
+      "poder",
+      "energía"
+    ],
+    "examples": [
+      {
+        "zh": "他的力量很大。",
+        "es": "Él tiene mucha fuerza."
+      },
+      {
+        "zh": "我们需要大家的力量。",
+        "es": "Necesitamos la fuerza de todos."
+      },
+      {
+        "zh": "知识是一种力量。",
+        "es": "El conocimiento es una forma de poder."
+      },
+      {
+        "zh": "朋友的支持给了我很大的力量。",
+        "es": "El apoyo de mis amigos me dio mucha fuerza."
+      }
+    ]
+  },
+  {
+    "word": "例如",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por ejemplo",
+      "como"
+    ],
+    "examples": [
+      {
+        "zh": "我爱吃中国菜，例如包子和面条。",
+        "es": "Me encanta la comida china, por ejemplo, los baozi y los fideos."
+      },
+      {
+        "zh": "他去过很多国家，例如日本和韩国。",
+        "es": "Ha ido a muchos países, por ejemplo, Japón y Corea."
+      },
+      {
+        "zh": "学校有很多活动，例如唱歌和打球。",
+        "es": "La escuela tiene muchas actividades, como cantar y jugar a la pelota."
+      },
+      {
+        "zh": "有些问题很难解决，例如环境问题。",
+        "es": "Algunos problemas son difíciles de resolver, por ejemplo, los ambientales."
+      }
+    ]
+  },
+  {
+    "word": "旅游",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "viajar",
+      "turismo",
+      "viaje"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢旅游。",
+        "es": "Me gusta viajar."
+      },
+      {
+        "zh": "明年我想去日本旅游。",
+        "es": "El próximo año quiero ir de viaje a Japón."
+      },
+      {
+        "zh": "你去过哪些国家旅游？",
+        "es": "¿A qué países has ido de viaje?"
+      },
+      {
+        "zh": "这个城市的旅游发展得很快。",
+        "es": "El turismo de esta ciudad se ha desarrollado muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "民族",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "etnia",
+      "grupo étnico",
+      "pueblo",
+      "nación"
+    ],
+    "examples": [
+      {
+        "zh": "中国有很多民族。",
+        "es": "En China hay muchas etnias."
+      },
+      {
+        "zh": "他们是哪个民族的人？",
+        "es": "¿A qué grupo étnico pertenecen?"
+      },
+      {
+        "zh": "每个民族都有自己的文化。",
+        "es": "Cada pueblo tiene su propia cultura."
+      },
+      {
+        "zh": "我们应该保护各民族的语言和传统。",
+        "es": "Debemos proteger las lenguas y tradiciones de todos los pueblos."
+      }
+    ]
+  },
+  {
+    "word": "农业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "agricultura"
+    ],
+    "examples": [
+      {
+        "zh": "农业很重要。",
+        "es": "La agricultura es muy importante."
+      },
+      {
+        "zh": "这个地区主要发展农业。",
+        "es": "Esta región se dedica principalmente a la agricultura."
+      },
+      {
+        "zh": "他在大学学习农业技术。",
+        "es": "Él estudia técnicas agrícolas en la universidad."
+      },
+      {
+        "zh": "政府决定增加对农业的投资。",
+        "es": "El gobierno decidió aumentar la inversión en la agricultura."
+      }
+    ]
+  },
+  {
+    "word": "取得",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lograr",
+      "obtener",
+      "conseguir"
+    ],
+    "examples": [
+      {
+        "zh": "他取得了很大的成功。",
+        "es": "Él logró un gran éxito."
+      },
+      {
+        "zh": "我们的合作取得了好结果。",
+        "es": "Nuestra colaboración obtuvo buenos resultados."
+      },
+      {
+        "zh": "经过多年努力，她取得了成功。",
+        "es": "Después de años de esfuerzo, ella alcanzó el éxito."
+      },
+      {
+        "zh": "在这次比赛中，我们取得了第一名。",
+        "es": "En esta competencia obtuvimos el primer lugar."
+      }
+    ]
+  },
+  {
+    "word": "同样",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mismo",
+      "igual",
+      "de la misma manera",
+      "también"
+    ],
+    "examples": [
+      {
+        "zh": "我们穿同样的衣服。",
+        "es": "Usamos la misma ropa."
+      },
+      {
+        "zh": "他又问了同样的问题。",
+        "es": "Él volvió a hacer la misma pregunta."
+      },
+      {
+        "zh": "他很努力，他的同学同样很努力。",
+        "es": "Él se esfuerza mucho, y sus compañeros también."
+      },
+      {
+        "zh": "同样的问题，每个人的回答都不一样。",
+        "es": "Ante la misma pregunta, cada persona responde de forma distinta."
+      }
+    ]
+  },
+  {
+    "word": "正式",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "formal",
+      "oficial",
+      "oficialmente"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个正式的会议。",
+        "es": "Esta es una reunión formal."
+      },
+      {
+        "zh": "明天我正式开始上班。",
+        "es": "Mañana empiezo a trabajar oficialmente."
+      },
+      {
+        "zh": "参加会议要穿正式的衣服。",
+        "es": "Para ir a la reunión hay que vestirse de manera formal."
+      },
+      {
+        "zh": "政府今天正式宣布了新的政策。",
+        "es": "Hoy el gobierno anunció oficialmente la nueva política."
+      }
+    ]
+  },
+  {
+    "word": "组成",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "formar",
+      "componer",
+      "constituir"
+    ],
+    "examples": [
+      {
+        "zh": "这个家由四个人组成。",
+        "es": "Esta familia está formada por cuatro personas."
+      },
+      {
+        "zh": "水是由什么组成的？",
+        "es": "¿De qué está compuesta el agua?"
+      },
+      {
+        "zh": "这个城市由七个区组成。",
+        "es": "Esta ciudad está formada por siete distritos."
+      },
+      {
+        "zh": "这个委员会由十位专家组成。",
+        "es": "Este comité está integrado por diez expertos."
+      }
+    ]
+  },
+  {
+    "word": "原",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "original",
+      "anterior",
+      "primitivo",
+      "en bruto"
+    ],
+    "examples": [
+      {
+        "zh": "请把书放回原处。",
+        "es": "Por favor, regresa el libro a su lugar original."
+      },
+      {
+        "zh": "这本书的原名是什么？",
+        "es": "¿Cuál es el título original de este libro?"
+      },
+      {
+        "zh": "我们的原计划是明天去北京。",
+        "es": "Nuestro plan original era ir a Pekín mañana."
+      },
+      {
+        "zh": "因为下雨，我们改变了原计划。",
+        "es": "Como llovió, cambiamos el plan original."
+      }
+    ]
+  },
+  {
+    "word": "土地",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tierra",
+      "terreno",
+      "territorio",
+      "suelo"
+    ],
+    "examples": [
+      {
+        "zh": "这里的土地很好。",
+        "es": "La tierra de aquí es muy buena."
+      },
+      {
+        "zh": "他家有很多土地。",
+        "es": "Su familia tiene muchas tierras."
+      },
+      {
+        "zh": "这块土地以前是谁的？",
+        "es": "¿De quién era antes este terreno?"
+      },
+      {
+        "zh": "政府决定在这块土地上建一个学校。",
+        "es": "El gobierno decidió construir una escuela en este terreno."
+      }
+    ]
+  },
+  {
+    "word": "实施",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "implementar",
+      "aplicar",
+      "poner en práctica",
+      "llevar a cabo"
+    ],
+    "examples": [
+      {
+        "zh": "新计划下个月开始实施。",
+        "es": "El nuevo plan empezará a aplicarse el próximo mes."
+      },
+      {
+        "zh": "这个政策已经实施了两年。",
+        "es": "Esta política ya lleva dos años en vigor."
+      },
+      {
+        "zh": "政府正在实施新的教育改革。",
+        "es": "El gobierno está implementando una nueva reforma educativa."
+      },
+      {
+        "zh": "这个项目在实施过程中出现了很多问题。",
+        "es": "Durante la ejecución de este proyecto surgieron muchos problemas."
+      }
+    ]
+  },
+  {
+    "word": "保证",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "garantizar",
+      "asegurar",
+      "prometer",
+      "garantía"
+    ],
+    "examples": [
+      {
+        "zh": "我保证明天来。",
+        "es": "Te prometo que vengo mañana."
+      },
+      {
+        "zh": "我保证下次不会忘记。",
+        "es": "Te prometo que la próxima vez no se me olvida."
+      },
+      {
+        "zh": "你能保证这些资料都是对的吗？",
+        "es": "¿Puedes garantizar que todos estos datos son correctos?"
+      },
+      {
+        "zh": "政府要保证每个孩子都能上学。",
+        "es": "El gobierno debe garantizar que todos los niños puedan ir a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "场",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "lugar",
+      "campo",
+      "clasificador para partidos, funciones y exámenes"
+    ],
+    "examples": [
+      {
+        "zh": "我们去看一场电影吧。",
+        "es": "Vamos a ver una película."
+      },
+      {
+        "zh": "这场比赛太好看了！",
+        "es": "¡Este partido estuvo buenísimo!"
+      },
+      {
+        "zh": "今天下午有两场考试。",
+        "es": "Hoy en la tarde hay dos exámenes."
+      },
+      {
+        "zh": "那场比赛结束后，大家都去吃饭了。",
+        "es": "Después de ese partido, todos fueron a comer."
+      }
+    ]
+  },
+  {
+    "word": "持续",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "durar",
+      "continuar",
+      "persistir"
+    ],
+    "examples": [
+      {
+        "zh": "大雨持续了三天。",
+        "es": "La lluvia intensa duró tres días."
+      },
+      {
+        "zh": "会议持续了两个小时。",
+        "es": "La reunión duró dos horas."
+      },
+      {
+        "zh": "这种天气还会持续一个星期。",
+        "es": "Este clima va a seguir una semana más."
+      },
+      {
+        "zh": "这个地区的经济一直在持续增长。",
+        "es": "La economía de esta región ha seguido creciendo sin parar."
+      }
+    ]
+  },
+  {
+    "word": "大量",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gran cantidad",
+      "mucho",
+      "numeroso"
+    ],
+    "examples": [
+      {
+        "zh": "他喝了大量的水。",
+        "es": "Él tomó mucha agua."
+      },
+      {
+        "zh": "图书馆有大量的书。",
+        "es": "La biblioteca tiene una gran cantidad de libros."
+      },
+      {
+        "zh": "这个项目需要大量的钱。",
+        "es": "Este proyecto necesita mucho dinero."
+      },
+      {
+        "zh": "他在网上找到了大量相关资料。",
+        "es": "Encontró en internet una gran cantidad de información relacionada."
+      }
+    ]
+  },
+  {
+    "word": "健康",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salud",
+      "sano",
+      "saludable"
+    ],
+    "examples": [
+      {
+        "zh": "我希望你身体健康。",
+        "es": "Te deseo mucha salud."
+      },
+      {
+        "zh": "健康比钱更重要。",
+        "es": "La salud es más importante que el dinero."
+      },
+      {
+        "zh": "多吃水果对健康很好。",
+        "es": "Comer más fruta es muy bueno para la salud."
+      },
+      {
+        "zh": "他每天早上跑步，所以身体非常健康。",
+        "es": "Corre todas las mañanas, por eso está muy sano."
+      }
+    ]
+  },
+  {
+    "word": "精神",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "espíritu",
+      "mente",
+      "mental",
+      "esencia"
+    ],
+    "examples": [
+      {
+        "zh": "我们要学习他的精神。",
+        "es": "Debemos aprender de su espíritu."
+      },
+      {
+        "zh": "他最近精神上很累。",
+        "es": "Últimamente está agotado mentalmente."
+      },
+      {
+        "zh": "身体和精神都需要休息。",
+        "es": "Tanto el cuerpo como la mente necesitan descanso."
+      },
+      {
+        "zh": "这个故事表现了他们的合作精神。",
+        "es": "Esta historia muestra su espíritu de colaboración."
+      }
+    ]
+  },
+  {
+    "word": "开放",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abrir al público",
+      "abierto",
+      "apertura",
+      "florecer"
+    ],
+    "examples": [
+      {
+        "zh": "图书馆每天都开放。",
+        "es": "La biblioteca abre todos los días."
+      },
+      {
+        "zh": "他是一个很开放的人。",
+        "es": "Él es una persona muy abierta."
+      },
+      {
+        "zh": "这个地方现在不对外开放。",
+        "es": "Este lugar no está abierto al público por ahora."
+      },
+      {
+        "zh": "改革开放以后，中国经济发展得很快。",
+        "es": "Después de la reforma y apertura, la economía china se desarrolló muy rápido."
+      }
+    ]
+  }
+]

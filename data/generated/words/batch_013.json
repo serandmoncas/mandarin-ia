@@ -1,0 +1,551 @@
+[
+  {
+    "word": "路",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "camino",
+      "calle",
+      "ruta",
+      "línea (de autobús, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "这条路很长。",
+        "es": "Este camino es muy largo."
+      },
+      {
+        "zh": "我在路上了。",
+        "es": "Ya voy en camino."
+      },
+      {
+        "zh": "你知道去北京的路吗？",
+        "es": "¿Sabes cómo llegar a Beijing?"
+      },
+      {
+        "zh": "他走了很长的路才到学校。",
+        "es": "Caminó mucho para llegar a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "希望",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "esperar (desear)",
+      "esperanza",
+      "deseo"
+    ],
+    "examples": [
+      {
+        "zh": "我希望你来。",
+        "es": "Espero que vengas."
+      },
+      {
+        "zh": "孩子是我们的希望。",
+        "es": "Los niños son nuestra esperanza."
+      },
+      {
+        "zh": "我希望以后能去中国学习。",
+        "es": "Espero poder ir a estudiar a China algún día."
+      },
+      {
+        "zh": "他们希望政府能对这个问题做点什么。",
+        "es": "Ellos esperan que el gobierno haga algo con este problema."
+      }
+    ]
+  },
+  {
+    "word": "行",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "está bien, de acuerdo",
+      "ser capaz, ser hábil",
+      "caminar, ir",
+      "conducta"
+    ],
+    "examples": [
+      {
+        "zh": "行，我们走吧。",
+        "es": "Está bien, vámonos."
+      },
+      {
+        "zh": "你真行！",
+        "es": "¡Qué capaz eres!"
+      },
+      {
+        "zh": "这样做行不行？",
+        "es": "¿Está bien hacerlo así?"
+      },
+      {
+        "zh": "明天不行，我要工作，后天可以吗？",
+        "es": "Mañana no puedo, tengo que trabajar. ¿Puede ser pasado mañana?"
+      }
+    ]
+  },
+  {
+    "word": "告诉",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "decir",
+      "contar",
+      "informar",
+      "avisar"
+    ],
+    "examples": [
+      {
+        "zh": "请告诉我。",
+        "es": "Por favor, dime."
+      },
+      {
+        "zh": "你告诉他了吗？",
+        "es": "¿Ya le dijiste?"
+      },
+      {
+        "zh": "我不知道，他没有告诉我。",
+        "es": "No sé, él no me dijo."
+      },
+      {
+        "zh": "你能告诉我去北京大学怎么走吗？",
+        "es": "¿Me puedes decir cómo llegar a la Universidad de Pekín?"
+      }
+    ]
+  },
+  {
+    "word": "要求",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "exigir",
+      "pedir",
+      "requisito",
+      "exigencia"
+    ],
+    "examples": [
+      {
+        "zh": "这是他的要求。",
+        "es": "Esta es su petición."
+      },
+      {
+        "zh": "学校要求学生八点到。",
+        "es": "La escuela exige que los estudiantes lleguen a las ocho."
+      },
+      {
+        "zh": "老师对我们的要求很高。",
+        "es": "El maestro nos exige mucho."
+      },
+      {
+        "zh": "他要求公司给他更多的钱和时间。",
+        "es": "Le pidió a la empresa más dinero y más tiempo."
+      }
+    ]
+  },
+  {
+    "word": "拿",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "tomar",
+      "agarrar",
+      "llevar",
+      "sostener"
+    ],
+    "examples": [
+      {
+        "zh": "我来拿吧。",
+        "es": "Déjame cargarlo yo."
+      },
+      {
+        "zh": "你拿了我的手机吗？",
+        "es": "¿Tomaste mi celular?"
+      },
+      {
+        "zh": "请把那个东西拿过来。",
+        "es": "Por favor, tráeme eso."
+      },
+      {
+        "zh": "他拿出电话，给他朋友打了一个电话。",
+        "es": "Sacó el teléfono y llamó a su amigo."
+      }
+    ]
+  },
+  {
+    "word": "作为",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "como (en calidad de)",
+      "considerar como",
+      "conducta, actuación",
+      "logro"
+    ],
+    "examples": [
+      {
+        "zh": "作为学生，你应该学习。",
+        "es": "Como estudiante, debes estudiar."
+      },
+      {
+        "zh": "作为朋友，我会帮你。",
+        "es": "Como amigo, te voy a ayudar."
+      },
+      {
+        "zh": "作为老师，他对学生非常好。",
+        "es": "Como maestro, es muy bueno con sus estudiantes."
+      },
+      {
+        "zh": "我们把这个电影作为学习中国文化的开始。",
+        "es": "Tomamos esta película como punto de partida para aprender la cultura china."
+      }
+    ]
+  },
+  {
+    "word": "提供",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ofrecer",
+      "proporcionar",
+      "brindar",
+      "suministrar"
+    ],
+    "examples": [
+      {
+        "zh": "这个网站提供很多东西。",
+        "es": "Este sitio web ofrece muchas cosas."
+      },
+      {
+        "zh": "谢谢你提供的帮助。",
+        "es": "Gracias por la ayuda que nos brindaste."
+      },
+      {
+        "zh": "学校为学生提供一个学习的地方。",
+        "es": "La escuela les ofrece a los estudiantes un lugar para estudiar."
+      },
+      {
+        "zh": "政府应该为这些孩子提供更好的生活。",
+        "es": "El gobierno debería ofrecerles una vida mejor a estos niños."
+      }
+    ]
+  },
+  {
+    "word": "手机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "celular",
+      "teléfono móvil"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的手机。",
+        "es": "Este es mi celular."
+      },
+      {
+        "zh": "你的手机在哪里？",
+        "es": "¿Dónde está tu celular?"
+      },
+      {
+        "zh": "我想买一个新手机。",
+        "es": "Quiero comprar un celular nuevo."
+      },
+      {
+        "zh": "现在很多孩子都有自己的手机。",
+        "es": "Hoy en día muchos niños tienen su propio celular."
+      }
+    ]
+  },
+  {
+    "word": "至",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hasta",
+      "a (de... a...)",
+      "llegar",
+      "sumamente"
+    ],
+    "examples": [
+      {
+        "zh": "这里可以坐三至五个人。",
+        "es": "Aquí se pueden sentar de tres a cinco personas."
+      },
+      {
+        "zh": "我星期一至星期五工作。",
+        "es": "Trabajo de lunes a viernes."
+      },
+      {
+        "zh": "从北京至香港要多少小时？",
+        "es": "¿Cuántas horas se tarda de Beijing a Hong Kong?"
+      },
+      {
+        "zh": "这个问题至今还没有人能说清楚。",
+        "es": "Hasta hoy nadie ha podido explicar bien este problema."
+      }
+    ]
+  },
+  {
+    "word": "哪",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cuál",
+      "qué",
+      "dónde (en 哪里, 哪儿)"
+    ],
+    "examples": [
+      {
+        "zh": "你要哪个？",
+        "es": "¿Cuál quieres?"
+      },
+      {
+        "zh": "你是哪国人？",
+        "es": "¿De qué país eres?"
+      },
+      {
+        "zh": "你在哪个大学学习？",
+        "es": "¿En qué universidad estudias?"
+      },
+      {
+        "zh": "这两个手机，你觉得哪一个更好？",
+        "es": "De estos dos celulares, ¿cuál te parece mejor?"
+      }
+    ]
+  },
+  {
+    "word": "不同",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "diferente",
+      "distinto"
+    ],
+    "examples": [
+      {
+        "zh": "这两个字不同。",
+        "es": "Estos dos caracteres son diferentes."
+      },
+      {
+        "zh": "每个人都不同。",
+        "es": "Cada persona es diferente."
+      },
+      {
+        "zh": "中国和美国的文化很不同。",
+        "es": "Las culturas de China y de Estados Unidos son muy diferentes."
+      },
+      {
+        "zh": "不同的地方有不同的生活和历史。",
+        "es": "Cada lugar tiene su propia forma de vida y su propia historia."
+      }
+    ]
+  },
+  {
+    "word": "先",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "primero",
+      "antes",
+      "por ahora",
+      "de antemano"
+    ],
+    "examples": [
+      {
+        "zh": "你先走吧。",
+        "es": "Ve tú primero."
+      },
+      {
+        "zh": "我先吃饭，再工作。",
+        "es": "Primero como y luego trabajo."
+      },
+      {
+        "zh": "我先去买东西，你在这里等我。",
+        "es": "Primero voy a comprar algo; espérame aquí."
+      },
+      {
+        "zh": "我们先看看情况，然后再决定怎么做。",
+        "es": "Primero veamos cómo está la situación y luego decidimos qué hacer."
+      }
+    ]
+  },
+  {
+    "word": "不对",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "incorrecto",
+      "equivocado",
+      "raro, anormal",
+      "no (para negar algo)"
+    ],
+    "examples": [
+      {
+        "zh": "不对，不是这个。",
+        "es": "No, no es este."
+      },
+      {
+        "zh": "你说的不对。",
+        "es": "Lo que dices no es correcto."
+      },
+      {
+        "zh": "他今天有点不对。",
+        "es": "Hoy está un poco raro."
+      },
+      {
+        "zh": "我觉得这样做不对，我们应该再想想。",
+        "es": "Creo que hacerlo así está mal; deberíamos pensarlo otra vez."
+      }
+    ]
+  },
+  {
+    "word": "一定",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "seguramente",
+      "sin falta",
+      "sin duda",
+      "cierto, determinado"
+    ],
+    "examples": [
+      {
+        "zh": "我一定来。",
+        "es": "Vengo sin falta."
+      },
+      {
+        "zh": "你一定要来！",
+        "es": "¡No dejes de venir!"
+      },
+      {
+        "zh": "他现在一定在家。",
+        "es": "Seguro que ahora está en casa."
+      },
+      {
+        "zh": "学习中文不一定很难，但是一定要多听多说。",
+        "es": "Aprender chino no es necesariamente difícil, pero sin duda hay que escuchar y hablar mucho."
+      }
+    ]
+  },
+  {
+    "word": "不要",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no (en órdenes: no hagas...)",
+      "no quiero"
+    ],
+    "examples": [
+      {
+        "zh": "不要走！",
+        "es": "¡No te vayas!"
+      },
+      {
+        "zh": "你不要说了。",
+        "es": "Ya no hables más."
+      },
+      {
+        "zh": "我不要这个，我要那个。",
+        "es": "No quiero este, quiero ese."
+      },
+      {
+        "zh": "上课的时候不要用手机。",
+        "es": "No uses el celular durante la clase."
+      }
+    ]
+  },
+  {
+    "word": "二",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dos",
+      "segundo",
+      "tonto (dialecto de Beijing)"
+    ],
+    "examples": [
+      {
+        "zh": "一，二，三！",
+        "es": "¡Uno, dos, tres!"
+      },
+      {
+        "zh": "今天是二月二号。",
+        "es": "Hoy es 2 de febrero."
+      },
+      {
+        "zh": "他是第二个到学校的学生。",
+        "es": "Fue el segundo estudiante en llegar a la escuela."
+      },
+      {
+        "zh": "我二十二岁，在北京大学学习中文。",
+        "es": "Tengo veintidós años y estudio chino en la Universidad de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "男人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hombre",
+      "varón"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个好男人。",
+        "es": "Él es un buen hombre."
+      },
+      {
+        "zh": "那个男人是谁？",
+        "es": "¿Quién es ese hombre?"
+      },
+      {
+        "zh": "这里男人和女人一样多。",
+        "es": "Aquí hay tantos hombres como mujeres."
+      },
+      {
+        "zh": "很多男人觉得自己不需要学做饭。",
+        "es": "Muchos hombres creen que no necesitan aprender a cocinar."
+      }
+    ]
+  },
+  {
+    "word": "使",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer que",
+      "causar",
+      "usar, emplear",
+      "enviado"
+    ],
+    "examples": [
+      {
+        "zh": "他的话使我很高兴。",
+        "es": "Sus palabras me pusieron muy contento."
+      },
+      {
+        "zh": "这个电影使我想家。",
+        "es": "Esta película me hizo extrañar mi casa."
+      },
+      {
+        "zh": "学习中文使我认识了很多新朋友。",
+        "es": "Estudiar chino me permitió conocer a muchos amigos nuevos."
+      },
+      {
+        "zh": "经济发展使这个地方的生活变得更好了。",
+        "es": "El desarrollo económico hizo que la vida en este lugar mejorara."
+      }
+    ]
+  },
+  {
+    "word": "学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aprender",
+      "estudiar",
+      "imitar",
+      "ciencia, -logía"
+    ],
+    "examples": [
+      {
+        "zh": "我学中文。",
+        "es": "Estudio chino."
+      },
+      {
+        "zh": "你在学什么？",
+        "es": "¿Qué estás estudiando?"
+      },
+      {
+        "zh": "孩子喜欢学大人说话。",
+        "es": "A los niños les gusta imitar cómo hablan los adultos."
+      },
+      {
+        "zh": "我想去中国学两年中文和历史。",
+        "es": "Quiero ir a China a estudiar chino e historia durante dos años."
+      }
+    ]
+  }
+]

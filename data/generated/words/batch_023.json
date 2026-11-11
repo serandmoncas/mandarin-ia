@@ -1,0 +1,536 @@
+[
+  {
+    "word": "半",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mitad",
+      "medio",
+      "semi-",
+      "y media (después de un número)"
+    ],
+    "examples": [
+      {
+        "zh": "现在三点半。",
+        "es": "Son las tres y media."
+      },
+      {
+        "zh": "我只吃了一半。",
+        "es": "Solo me comí la mitad."
+      },
+      {
+        "zh": "他在这里等了半个小时。",
+        "es": "Él esperó aquí media hora."
+      },
+      {
+        "zh": "这本书我看了一半，还没看完。",
+        "es": "Leí la mitad de este libro y todavía no lo termino."
+      }
+    ]
+  },
+  {
+    "word": "能够",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "poder",
+      "ser capaz de"
+    ],
+    "examples": [
+      {
+        "zh": "我能够自己做。",
+        "es": "Puedo hacerlo yo solo."
+      },
+      {
+        "zh": "你明天能够来吗？",
+        "es": "¿Puedes venir mañana?"
+      },
+      {
+        "zh": "我希望能够去中国学习。",
+        "es": "Espero poder ir a estudiar a China."
+      },
+      {
+        "zh": "如果能够早点回家，我会很高兴。",
+        "es": "Si pudiera volver a casa temprano, estaría muy contento."
+      }
+    ]
+  },
+  {
+    "word": "六",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "seis"
+    ],
+    "examples": [
+      {
+        "zh": "我有六本书。",
+        "es": "Tengo seis libros."
+      },
+      {
+        "zh": "他今年六岁。",
+        "es": "Él tiene seis años."
+      },
+      {
+        "zh": "我们六点在学校见。",
+        "es": "Nos vemos a las seis en la escuela."
+      },
+      {
+        "zh": "我每天早上六点起来去跑步。",
+        "es": "Todos los días me levanto a las seis de la mañana para ir a correr."
+      }
+    ]
+  },
+  {
+    "word": "人口",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "población",
+      "habitantes"
+    ],
+    "examples": [
+      {
+        "zh": "中国人口很多。",
+        "es": "China tiene mucha población."
+      },
+      {
+        "zh": "这个城市的人口有多少？",
+        "es": "¿Cuántos habitantes tiene esta ciudad?"
+      },
+      {
+        "zh": "北京的人口比香港多。",
+        "es": "Pekín tiene más población que Hong Kong."
+      },
+      {
+        "zh": "这个地区的人口已经有一百万了。",
+        "es": "La población de esta región ya llega al millón de personas."
+      }
+    ]
+  },
+  {
+    "word": "一切",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo",
+      "todos",
+      "cualquier"
+    ],
+    "examples": [
+      {
+        "zh": "一切都好。",
+        "es": "Todo está bien."
+      },
+      {
+        "zh": "谢谢你为我做的一切。",
+        "es": "Gracias por todo lo que hiciste por mí."
+      },
+      {
+        "zh": "他把一切都告诉了妈妈。",
+        "es": "Él le contó todo a su mamá."
+      },
+      {
+        "zh": "和你在一起，一切都会好起来的。",
+        "es": "Estando contigo, todo va a salir bien."
+      }
+    ]
+  },
+  {
+    "word": "包",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "bolsa",
+      "paquete",
+      "envolver",
+      "incluir"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的包。",
+        "es": "Esta es mi bolsa."
+      },
+      {
+        "zh": "她买了一个新包。",
+        "es": "Ella se compró una bolsa nueva."
+      },
+      {
+        "zh": "你的包里有什么东西？",
+        "es": "¿Qué tienes en tu bolsa?"
+      },
+      {
+        "zh": "我把手机和钱都放在包里了。",
+        "es": "Puse el celular y el dinero en la bolsa."
+      }
+    ]
+  },
+  {
+    "word": "睡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dormir",
+      "acostarse"
+    ],
+    "examples": [
+      {
+        "zh": "我要睡了。",
+        "es": "Me voy a dormir."
+      },
+      {
+        "zh": "孩子已经睡了。",
+        "es": "El niño ya se durmió."
+      },
+      {
+        "zh": "你昨天晚上睡得好吗？",
+        "es": "¿Dormiste bien anoche?"
+      },
+      {
+        "zh": "我太累了，一回家就睡了。",
+        "es": "Estaba tan cansado que me dormí apenas llegué a casa."
+      }
+    ]
+  },
+  {
+    "word": "一次",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "una vez",
+      "primera vez"
+    ],
+    "examples": [
+      {
+        "zh": "请再说一次。",
+        "es": "Por favor, dilo otra vez."
+      },
+      {
+        "zh": "我去过一次北京。",
+        "es": "Fui a Pekín una vez."
+      },
+      {
+        "zh": "我一个月去一次医院。",
+        "es": "Voy al hospital una vez al mes."
+      },
+      {
+        "zh": "这是我第一次来中国，我非常喜欢这里。",
+        "es": "Es la primera vez que vengo a China y me encanta este lugar."
+      }
+    ]
+  },
+  {
+    "word": "中文",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "idioma chino",
+      "chino"
+    ],
+    "examples": [
+      {
+        "zh": "我学中文。",
+        "es": "Estudio chino."
+      },
+      {
+        "zh": "你会说中文吗？",
+        "es": "¿Hablas chino?"
+      },
+      {
+        "zh": "他的中文说得很好。",
+        "es": "Él habla muy bien el chino."
+      },
+      {
+        "zh": "我学了两年中文，现在可以看中文电影了。",
+        "es": "Estudié chino dos años y ahora puedo ver películas en chino."
+      }
+    ]
+  },
+  {
+    "word": "另",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "otro",
+      "aparte",
+      "por separado"
+    ],
+    "examples": [
+      {
+        "zh": "这是另一个问题。",
+        "es": "Ese es otro problema."
+      },
+      {
+        "zh": "他住在另一个城市。",
+        "es": "Él vive en otra ciudad."
+      },
+      {
+        "zh": "这本书不好，我想看另一本。",
+        "es": "Este libro no es bueno, quiero leer otro."
+      },
+      {
+        "zh": "今天太晚了，我们另找时间再说吧。",
+        "es": "Hoy ya es muy tarde, mejor lo hablamos en otro momento."
+      }
+    ]
+  },
+  {
+    "word": "块",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "yuan (coloquial, para dinero)",
+      "pedazo",
+      "trozo",
+      "clasificador para objetos en pedazos"
+    ],
+    "examples": [
+      {
+        "zh": "这个五块钱。",
+        "es": "Esto cuesta cinco yuanes."
+      },
+      {
+        "zh": "我只有十块钱了。",
+        "es": "Solo me quedan diez yuanes."
+      },
+      {
+        "zh": "我们一块去吃饭吧。",
+        "es": "Vamos a comer juntos."
+      },
+      {
+        "zh": "这本书二十块，那本比它贵十块。",
+        "es": "Este libro cuesta veinte yuanes y aquel cuesta diez más."
+      }
+    ]
+  },
+  {
+    "word": "应",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "deber",
+      "tener que",
+      "convenir"
+    ],
+    "examples": [
+      {
+        "zh": "你应多喝水。",
+        "es": "Deberías tomar más agua."
+      },
+      {
+        "zh": "学生应认真学习。",
+        "es": "Los estudiantes deben estudiar con dedicación."
+      },
+      {
+        "zh": "这件事应由他来决定。",
+        "es": "Este asunto lo debe decidir él."
+      },
+      {
+        "zh": "我们应先回答这些问题，然后再做别的。",
+        "es": "Primero debemos responder estas preguntas y después hacer lo demás."
+      }
+    ]
+  },
+  {
+    "word": "无法",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no poder",
+      "ser incapaz de"
+    ],
+    "examples": [
+      {
+        "zh": "我现在无法说话。",
+        "es": "Ahora no puedo hablar."
+      },
+      {
+        "zh": "他今天无法来参加会议。",
+        "es": "Hoy él no puede venir a la reunión."
+      },
+      {
+        "zh": "这个问题太难了，我无法回答。",
+        "es": "Esta pregunta es demasiado difícil, no puedo responderla."
+      },
+      {
+        "zh": "因为手机没电了，我无法给妈妈打电话。",
+        "es": "Como el celular se quedó sin batería, no pude llamar a mi mamá."
+      }
+    ]
+  },
+  {
+    "word": "网友",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "internauta",
+      "usuario de internet",
+      "amigo de internet"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的网友。",
+        "es": "Él es mi amigo de internet."
+      },
+      {
+        "zh": "很多网友喜欢这个电影。",
+        "es": "A muchos internautas les gusta esta película."
+      },
+      {
+        "zh": "我和这个网友是在游戏里认识的。",
+        "es": "Conocí a este amigo de internet en un videojuego."
+      },
+      {
+        "zh": "有网友说，这个地方的东西又好又便宜。",
+        "es": "Algunos internautas dicen que las cosas de este lugar son buenas y baratas."
+      }
+    ]
+  },
+  {
+    "word": "个人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "personal",
+      "individuo",
+      "uno mismo"
+    ],
+    "examples": [
+      {
+        "zh": "这是我个人的东西。",
+        "es": "Esto es una cosa personal mía."
+      },
+      {
+        "zh": "这只是我个人的看法。",
+        "es": "Esta es solo mi opinión personal."
+      },
+      {
+        "zh": "我不想说我个人的事。",
+        "es": "No quiero hablar de mis asuntos personales."
+      },
+      {
+        "zh": "这是我个人的决定，和公司没有关系。",
+        "es": "Es una decisión personal mía, no tiene nada que ver con la empresa."
+      }
+    ]
+  },
+  {
+    "word": "差",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "malo",
+      "de mala calidad",
+      "faltar",
+      "estar equivocado"
+    ],
+    "examples": [
+      {
+        "zh": "他的中文很差。",
+        "es": "Su chino es muy malo."
+      },
+      {
+        "zh": "今天的天气很差。",
+        "es": "Hoy el clima está muy feo."
+      },
+      {
+        "zh": "我差一点就找不到这里了。",
+        "es": "Por poco no encuentro este lugar."
+      },
+      {
+        "zh": "这家医院的服务太差了，我不想再来了。",
+        "es": "El servicio de este hospital es pésimo, no quiero volver."
+      }
+    ]
+  },
+  {
+    "word": "风",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "viento",
+      "estilo",
+      "costumbre"
+    ],
+    "examples": [
+      {
+        "zh": "今天风很大。",
+        "es": "Hoy hace mucho viento."
+      },
+      {
+        "zh": "外面风太大了。",
+        "es": "Afuera hace demasiado viento."
+      },
+      {
+        "zh": "晚上风很大，你多穿一点吧。",
+        "es": "En la noche hace mucho viento, abrígate más."
+      },
+      {
+        "zh": "我们坐在山上，听着风的声音。",
+        "es": "Estábamos sentados en la montaña, escuchando el sonido del viento."
+      }
+    ]
+  },
+  {
+    "word": "上海",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Shanghái"
+    ],
+    "examples": [
+      {
+        "zh": "我住在上海。",
+        "es": "Vivo en Shanghái."
+      },
+      {
+        "zh": "你去过上海吗？",
+        "es": "¿Has ido a Shanghái?"
+      },
+      {
+        "zh": "上海是中国最大的城市之一。",
+        "es": "Shanghái es una de las ciudades más grandes de China."
+      },
+      {
+        "zh": "我明天坐飞机从北京去上海。",
+        "es": "Mañana voy en avión de Pekín a Shanghái."
+      }
+    ]
+  },
+  {
+    "word": "出去",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salir",
+      "ir afuera"
+    ],
+    "examples": [
+      {
+        "zh": "我出去一下。",
+        "es": "Salgo un momento."
+      },
+      {
+        "zh": "你要出去吗？",
+        "es": "¿Vas a salir?"
+      },
+      {
+        "zh": "今天太热了，我不想出去。",
+        "es": "Hoy hace demasiado calor, no quiero salir."
+      },
+      {
+        "zh": "他吃完晚饭就出去了，到现在还没回来。",
+        "es": "Salió después de cenar y todavía no ha vuelto."
+      }
+    ]
+  },
+  {
+    "word": "便",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entonces (equivale a 就)",
+      "conveniente",
+      "práctico",
+      "informal"
+    ],
+    "examples": [
+      {
+        "zh": "你现在方便吗？",
+        "es": "¿Puedes ahora? / ¿Te queda bien ahora?"
+      },
+      {
+        "zh": "这里买东西很方便。",
+        "es": "Aquí es muy práctico ir de compras."
+      },
+      {
+        "zh": "他一回家便去睡了。",
+        "es": "En cuanto llegó a casa, se fue a dormir."
+      },
+      {
+        "zh": "你去学校的时候，顺便帮我买一本书吧。",
+        "es": "Cuando vayas a la escuela, aprovecha y cómprame un libro."
+      }
+    ]
+  }
+]

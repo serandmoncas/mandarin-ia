@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:满足",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5e6070c9f9abae433b83fe1fc5cad54f93f0366"
+  },
+  {
+    "id": "word:借",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cf580e530746ac862c2fe128c655abaee4e6cd50"
+  },
+  {
+    "id": "word:辆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9028139aa72ba17f6a84f6790c812a136c17dc12"
+  },
+  {
+    "id": "word:杂志",
+    "ok": true,
+    "issues": [],
+    "content_hash": "366fd95c116abd38ade99b7e5c34a005c27d26ce"
+  },
+  {
+    "id": "word:拿到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c15827557f352141776f0c0124937688c368c4cb"
+  },
+  {
+    "id": "word:争取",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c36a28556594ee29e435fbe9f79870684eae2e83"
+  },
+  {
+    "id": "word:墙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e0c6d35502316ad822f2aac724a76069b10f2b7"
+  },
+  {
+    "id": "word:值",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f8557d50b85fcb64db75860cebcb3ce21c26f93"
+  },
+  {
+    "id": "word:随便",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 了 en «太随便了» es «le», no «liǎo»."
+    ],
+    "content_hash": "7d004dd346fba4133016fca09b98147b213bfa0d"
+  },
+  {
+    "id": "word:养",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60bbf3b4647c1a464527587c4ae77106467ce365"
+  },
+  {
+    "id": "word:从事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "abeca8a3d9165a0e2271ea85cdf6c8f201d42a1d"
+  },
+  {
+    "id": "word:吹",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: el pinyin del complemento 得 en «吹得» es «de», no «dé»."
+    ],
+    "content_hash": "f8191476068c9aa187b044f011644bbfaf8a3762"
+  },
+  {
+    "id": "word:访问",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d3c5f72d8c29aca947e403d55949130849065f5"
+  },
+  {
+    "id": "word:答应",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos pone «dā yìng», pero 答应 se pronuncia «dā ying» con tono neutro (CEDICT: da1 ying5)."
+    ],
+    "content_hash": "1326d389d2f2d59e856aa9154a04061a57df634a"
+  },
+  {
+    "id": "word:概念",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d5d1b8c0f8c77648e133282e303ced42d62ee8a"
+  },
+  {
+    "id": "word:急",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 得 en «得先走了» significa «tener que» y se lee «děi», no «dé».",
+      "Ejemplo 4: el pinyin del complemento 得 en «急得» es «de», no «dé»."
+    ],
+    "content_hash": "5a21589a5e3d220cc6cb480f1db80a74a072b4f5"
+  },
+  {
+    "id": "word:套",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4cc33673770507ba9fa8b7b615348ae6815fd7c7"
+  },
+  {
+    "id": "word:久",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin del complemento 得 en «说得» es «de», no «dé»."
+    ],
+    "content_hash": "2b33efd8aed54fdb25ec7e2f28a7fd0f079e38dc"
+  },
+  {
+    "id": "word:院长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "532b1e9963fce666791b7a6eedd9882bf5d59716"
+  },
+  {
+    "id": "word:周末",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 玩儿 se transcribe «wánr» (sufijo r), no «wán ér»."
+    ],
+    "content_hash": "7d20c2e3b4101bb67e1b70ecbeb880e29efa3edd"
+  },
+  {
+    "id": "word:老板",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9bb3ec4987f1fa320218693785047546a24e08c8"
+  },
+  {
+    "id": "word:那时候",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e65049fc67a04dea2ade520226ece6c80b07c9d7"
+  },
+  {
+    "id": "word:美丽",
+    "ok": true,
+    "issues": [],
+    "content_hash": "17ec7c5324cf8051dfe00cd8a983127f8e30d4c5"
+  },
+  {
+    "id": "word:球队",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 了 en «获得第一了» es «le», no «liǎo»."
+    ],
+    "content_hash": "25616700c5ca42587e0ea637e923b08d8120968e"
+  },
+  {
+    "id": "word:某",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27afa699d766e12d1f84cdf58bb35e4842027c91"
+  }
+]

@@ -1,0 +1,537 @@
+[
+  {
+    "word": "未",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todavía no",
+      "no",
+      "octava rama terrestre (signo de la Cabra)"
+    ],
+    "examples": [
+      {
+        "zh": "他还未回家。",
+        "es": "Él todavía no ha vuelto a casa."
+      },
+      {
+        "zh": "这个工作未完成。",
+        "es": "Este trabajo no está terminado."
+      },
+      {
+        "zh": "这个计划还未开始。",
+        "es": "Este plan todavía no ha comenzado."
+      },
+      {
+        "zh": "因为天气不好，飞机还未到机场。",
+        "es": "Por el mal tiempo, el avión todavía no ha llegado al aeropuerto."
+      }
+    ]
+  },
+  {
+    "word": "吃饭",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comer",
+      "tomar una comida",
+      "ganarse la vida"
+    ],
+    "examples": [
+      {
+        "zh": "我们去吃饭吧。",
+        "es": "Vamos a comer."
+      },
+      {
+        "zh": "你吃饭了吗？",
+        "es": "¿Ya comiste?"
+      },
+      {
+        "zh": "晚上我想和朋友一起吃饭。",
+        "es": "En la noche quiero comer con mis amigos."
+      },
+      {
+        "zh": "他工作太忙，常常没有时间吃饭。",
+        "es": "Él está muy ocupado con el trabajo y muchas veces no tiene tiempo para comer."
+      }
+    ]
+  },
+  {
+    "word": "资源",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "recurso",
+      "recursos naturales"
+    ],
+    "examples": [
+      {
+        "zh": "水是重要的资源。",
+        "es": "El agua es un recurso importante."
+      },
+      {
+        "zh": "中国有很多资源。",
+        "es": "China tiene muchos recursos."
+      },
+      {
+        "zh": "我们应该保护这些资源。",
+        "es": "Debemos proteger estos recursos."
+      },
+      {
+        "zh": "这个地区的资源不多，所以经济发展很慢。",
+        "es": "Esta región no tiene muchos recursos, por eso su economía se desarrolla lentamente."
+      }
+    ]
+  },
+  {
+    "word": "回去",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "regresar",
+      "volver"
+    ],
+    "examples": [
+      {
+        "zh": "我要回去了。",
+        "es": "Ya me voy a regresar."
+      },
+      {
+        "zh": "你什么时候回去？",
+        "es": "¿Cuándo vas a regresar?"
+      },
+      {
+        "zh": "太晚了，我们回去吧。",
+        "es": "Ya es muy tarde, regresemos."
+      },
+      {
+        "zh": "他想回去看看妈妈，但是没有时间。",
+        "es": "Él quiere regresar a ver a su mamá, pero no tiene tiempo."
+      }
+    ]
+  },
+  {
+    "word": "集团",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grupo empresarial",
+      "conglomerado",
+      "bloque"
+    ],
+    "examples": [
+      {
+        "zh": "他在一个大集团工作。",
+        "es": "Él trabaja en un gran grupo empresarial."
+      },
+      {
+        "zh": "这个集团很有钱。",
+        "es": "Este grupo empresarial tiene mucho dinero."
+      },
+      {
+        "zh": "这个集团有很多公司。",
+        "es": "Este conglomerado tiene muchas empresas."
+      },
+      {
+        "zh": "这个集团今年在美国开了三家新公司。",
+        "es": "Este año el grupo abrió tres empresas nuevas en Estados Unidos."
+      }
+    ]
+  },
+  {
+    "word": "路上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en el camino",
+      "en la calle",
+      "de camino"
+    ],
+    "examples": [
+      {
+        "zh": "路上有很多车。",
+        "es": "Hay muchos carros en la calle."
+      },
+      {
+        "zh": "你在路上了吗？",
+        "es": "¿Ya vienes en camino?"
+      },
+      {
+        "zh": "我在回家的路上。",
+        "es": "Voy de camino a casa."
+      },
+      {
+        "zh": "我在去学校的路上看见了一个老朋友。",
+        "es": "De camino a la escuela vi a un viejo amigo."
+      }
+    ]
+  },
+  {
+    "word": "成立",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fundar",
+      "establecer",
+      "ser válido (un argumento)"
+    ],
+    "examples": [
+      {
+        "zh": "这个公司是去年成立的。",
+        "es": "Esta empresa se fundó el año pasado."
+      },
+      {
+        "zh": "我们学校成立了一个新中心。",
+        "es": "Nuestra escuela creó un nuevo centro."
+      },
+      {
+        "zh": "这个组织成立已经十年了。",
+        "es": "Esta organización se fundó hace ya diez años."
+      },
+      {
+        "zh": "你的说法不成立，因为没有资料支持。",
+        "es": "Tu argumento no es válido, porque no hay datos que lo respalden."
+      }
+    ]
+  },
+  {
+    "word": "老人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "anciano",
+      "persona mayor",
+      "padres o abuelos ancianos"
+    ],
+    "examples": [
+      {
+        "zh": "这个老人很高兴。",
+        "es": "Este señor mayor está muy contento."
+      },
+      {
+        "zh": "那个老人住在我家旁边。",
+        "es": "Ese anciano vive al lado de mi casa."
+      },
+      {
+        "zh": "我们应该多帮帮老人。",
+        "es": "Deberíamos ayudar más a las personas mayores."
+      },
+      {
+        "zh": "现在这个城市的老人很多，需要更多医院。",
+        "es": "Ahora hay muchos ancianos en esta ciudad y se necesitan más hospitales."
+      }
+    ]
+  },
+  {
+    "word": "规定",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "regla",
+      "reglamento",
+      "establecer (por norma)",
+      "fijar"
+    ],
+    "examples": [
+      {
+        "zh": "这是学校的规定。",
+        "es": "Esta es una regla de la escuela."
+      },
+      {
+        "zh": "公司规定九点开始工作。",
+        "es": "La empresa establece que el trabajo empieza a las nueve."
+      },
+      {
+        "zh": "根据规定，学生不能在房间里吃东西。",
+        "es": "Según el reglamento, los estudiantes no pueden comer en los cuartos."
+      },
+      {
+        "zh": "医院规定晚上八点以后不能进去看病人。",
+        "es": "El hospital establece que después de las ocho de la noche no se puede entrar a ver a los pacientes."
+      }
+    ]
+  },
+  {
+    "word": "科学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ciencia",
+      "científico",
+      "racional"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢科学。",
+        "es": "Me gusta la ciencia."
+      },
+      {
+        "zh": "他是学科学的学生。",
+        "es": "Él es estudiante de ciencias."
+      },
+      {
+        "zh": "这个方法不太科学。",
+        "es": "Este método no es muy científico."
+      },
+      {
+        "zh": "科学和技术的发展改变了我们的生活。",
+        "es": "El desarrollo de la ciencia y la tecnología cambió nuestra vida."
+      }
+    ]
+  },
+  {
+    "word": "弟弟",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermano menor"
+    ],
+    "examples": [
+      {
+        "zh": "我有一个弟弟。",
+        "es": "Tengo un hermano menor."
+      },
+      {
+        "zh": "我弟弟今年八岁。",
+        "es": "Mi hermano menor tiene ocho años."
+      },
+      {
+        "zh": "弟弟喜欢跟哥哥一起玩游戏。",
+        "es": "Al hermano menor le gusta jugar con su hermano mayor."
+      },
+      {
+        "zh": "妈妈让我送弟弟去学校，因为她很忙。",
+        "es": "Mi mamá me pidió llevar a mi hermanito a la escuela porque ella está muy ocupada."
+      }
+    ]
+  },
+  {
+    "word": "饭",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comida",
+      "arroz cocido",
+      "fan (aficionado)"
+    ],
+    "examples": [
+      {
+        "zh": "饭好了吗？",
+        "es": "¿Ya está lista la comida?"
+      },
+      {
+        "zh": "我们一起吃晚饭吧。",
+        "es": "Cenemos juntos."
+      },
+      {
+        "zh": "妈妈做的饭很好吃。",
+        "es": "La comida que hace mi mamá es muy rica."
+      },
+      {
+        "zh": "我今天太忙了，到现在还没吃午饭。",
+        "es": "Hoy estuve muy ocupado y todavía no he almorzado."
+      }
+    ]
+  },
+  {
+    "word": "任务",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tarea",
+      "misión",
+      "deber"
+    ],
+    "examples": [
+      {
+        "zh": "这是你的任务。",
+        "es": "Esta es tu tarea."
+      },
+      {
+        "zh": "老师给了我们一个任务。",
+        "es": "El maestro nos dio una tarea."
+      },
+      {
+        "zh": "我们必须今天完成这个任务。",
+        "es": "Tenemos que terminar esta tarea hoy."
+      },
+      {
+        "zh": "这个任务非常重要，所以公司让最好的人去做。",
+        "es": "Esta misión es muy importante, por eso la empresa se la encargó a su mejor gente."
+      }
+    ]
+  },
+  {
+    "word": "日期",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fecha"
+    ],
+    "examples": [
+      {
+        "zh": "请写上日期。",
+        "es": "Por favor, escribe la fecha."
+      },
+      {
+        "zh": "考试日期是几号？",
+        "es": "¿Qué día es la fecha del examen?"
+      },
+      {
+        "zh": "你知道会议的日期吗？",
+        "es": "¿Sabes la fecha de la reunión?"
+      },
+      {
+        "zh": "我们还没决定开会的日期，可能是下个星期。",
+        "es": "Todavía no decidimos la fecha de la reunión; tal vez sea la próxima semana."
+      }
+    ]
+  },
+  {
+    "word": "唱",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cantar",
+      "gritar",
+      "entonar"
+    ],
+    "examples": [
+      {
+        "zh": "她在唱歌。",
+        "es": "Ella está cantando."
+      },
+      {
+        "zh": "你会唱中文歌吗？",
+        "es": "¿Sabes cantar canciones en chino?"
+      },
+      {
+        "zh": "孩子们唱得很好。",
+        "es": "Los niños cantan muy bien."
+      },
+      {
+        "zh": "她每天晚上都在房间里唱歌，唱得非常好听。",
+        "es": "Ella canta todas las noches en su cuarto y canta muy bonito."
+      }
+    ]
+  },
+  {
+    "word": "原因",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "razón",
+      "causa",
+      "motivo"
+    ],
+    "examples": [
+      {
+        "zh": "原因是什么？",
+        "es": "¿Cuál es la razón?"
+      },
+      {
+        "zh": "你知道原因吗？",
+        "es": "¿Sabes la causa?"
+      },
+      {
+        "zh": "他没来上课的原因是生病了。",
+        "es": "La razón por la que no vino a clase es que se enfermó."
+      },
+      {
+        "zh": "我们必须找到问题的原因，才能找到好的方法。",
+        "es": "Tenemos que encontrar la causa del problema para poder encontrar una buena solución."
+      }
+    ]
+  },
+  {
+    "word": "旁边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "al lado",
+      "junto a",
+      "costado"
+    ],
+    "examples": [
+      {
+        "zh": "我坐在你旁边。",
+        "es": "Me siento a tu lado."
+      },
+      {
+        "zh": "医院在学校旁边。",
+        "es": "El hospital está al lado de la escuela."
+      },
+      {
+        "zh": "我家旁边有一个很大的市场。",
+        "es": "Junto a mi casa hay un mercado muy grande."
+      },
+      {
+        "zh": "站在老师旁边的那个人是我哥哥。",
+        "es": "La persona que está parada junto al maestro es mi hermano mayor."
+      }
+    ]
+  },
+  {
+    "word": "专业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "carrera (universitaria)",
+      "especialidad",
+      "profesional"
+    ],
+    "examples": [
+      {
+        "zh": "你的专业是什么？",
+        "es": "¿Qué carrera estudias?"
+      },
+      {
+        "zh": "我的专业是经济。",
+        "es": "Mi carrera es Economía."
+      },
+      {
+        "zh": "他做事很专业。",
+        "es": "Él trabaja de manera muy profesional."
+      },
+      {
+        "zh": "她学的是电脑专业，现在在科技公司工作。",
+        "es": "Ella estudió computación y ahora trabaja en una empresa de tecnología."
+      }
+    ]
+  },
+  {
+    "word": "打电话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llamar por teléfono",
+      "hacer una llamada"
+    ],
+    "examples": [
+      {
+        "zh": "我给你打电话。",
+        "es": "Te llamo por teléfono."
+      },
+      {
+        "zh": "晚上给我打电话吧。",
+        "es": "Llámame en la noche."
+      },
+      {
+        "zh": "她正在跟妈妈打电话。",
+        "es": "Ella está hablando por teléfono con su mamá."
+      },
+      {
+        "zh": "我昨天打电话给他，但是他一直没接。",
+        "es": "Ayer lo llamé, pero nunca contestó."
+      }
+    ]
+  },
+  {
+    "word": "之前",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "antes de",
+      "antes",
+      "anteriormente",
+      "hace (tiempo)"
+    ],
+    "examples": [
+      {
+        "zh": "睡觉之前我会看书。",
+        "es": "Antes de dormir leo un libro."
+      },
+      {
+        "zh": "我之前没来过这里。",
+        "es": "Nunca había venido aquí antes."
+      },
+      {
+        "zh": "三年之前，他还是一个学生。",
+        "es": "Hace tres años, él todavía era estudiante."
+      },
+      {
+        "zh": "考试之前，老师告诉我们要好好休息。",
+        "es": "Antes del examen, el maestro nos dijo que descansáramos bien."
+      }
+    ]
+  }
+]

@@ -1,0 +1,543 @@
+[
+  {
+    "word": "不是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no es",
+      "no ser",
+      "no"
+    ],
+    "examples": [
+      {
+        "zh": "这不是我的。",
+        "es": "Esto no es mío."
+      },
+      {
+        "zh": "我不是美国人。",
+        "es": "No soy estadounidense."
+      },
+      {
+        "zh": "这不是问题，我们可以做。",
+        "es": "Eso no es problema, podemos hacerlo."
+      },
+      {
+        "zh": "他不是不来，是今天没有时间。",
+        "es": "No es que él no quiera venir; es que hoy no tiene tiempo."
+      }
+    ]
+  },
+  {
+    "word": "之",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de (partícula literaria, equivale a 的)",
+      "lo, la (pronombre literario)"
+    ],
+    "examples": [
+      {
+        "zh": "一个月之后，他来了。",
+        "es": "Un mes después, él llegó."
+      },
+      {
+        "zh": "他是我的好朋友之一。",
+        "es": "Él es uno de mis buenos amigos."
+      },
+      {
+        "zh": "三分之一的人没有来。",
+        "es": "Un tercio de las personas no vino."
+      },
+      {
+        "zh": "我来中国之前不会说中文。",
+        "es": "Antes de venir a China, no sabía hablar chino."
+      }
+    ]
+  },
+  {
+    "word": "这些",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estos",
+      "estas"
+    ],
+    "examples": [
+      {
+        "zh": "这些是我的。",
+        "es": "Estos son míos."
+      },
+      {
+        "zh": "这些人是谁？",
+        "es": "¿Quiénes son estas personas?"
+      },
+      {
+        "zh": "这些问题很好。",
+        "es": "Estas preguntas son muy buenas."
+      },
+      {
+        "zh": "你可以把这些给他们吗？",
+        "es": "¿Puedes darles estas cosas a ellos?"
+      }
+    ]
+  },
+  {
+    "word": "想",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "querer",
+      "pensar",
+      "extrañar",
+      "creer"
+    ],
+    "examples": [
+      {
+        "zh": "我想去中国。",
+        "es": "Quiero ir a China."
+      },
+      {
+        "zh": "你在想什么？",
+        "es": "¿En qué estás pensando?"
+      },
+      {
+        "zh": "我很想你。",
+        "es": "Te extraño mucho."
+      },
+      {
+        "zh": "我想这个问题不是很大。",
+        "es": "Creo que este problema no es muy grande."
+      }
+    ]
+  },
+  {
+    "word": "最",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "el más, la más",
+      "lo más",
+      "sumamente"
+    ],
+    "examples": [
+      {
+        "zh": "这个最大。",
+        "es": "Este es el más grande."
+      },
+      {
+        "zh": "我最喜欢中国菜。",
+        "es": "La comida china es mi favorita."
+      },
+      {
+        "zh": "他是我最好的朋友。",
+        "es": "Él es mi mejor amigo."
+      },
+      {
+        "zh": "我最想去的国家是中国。",
+        "es": "El país al que más quiero ir es China."
+      }
+    ]
+  },
+  {
+    "word": "那",
+    "cedict_reading_index": 3,
+    "meanings_es": [
+      "ese, esa",
+      "aquel, aquella",
+      "eso",
+      "entonces"
+    ],
+    "examples": [
+      {
+        "zh": "那是什么？",
+        "es": "¿Qué es eso?"
+      },
+      {
+        "zh": "那个人是谁？",
+        "es": "¿Quién es esa persona?"
+      },
+      {
+        "zh": "那不是我的问题。",
+        "es": "Ese no es mi problema."
+      },
+      {
+        "zh": "你不去？那我也不去了。",
+        "es": "¿No vas? Entonces yo tampoco voy."
+      }
+    ]
+  },
+  {
+    "word": "由",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por (indica quién hace algo)",
+      "a cargo de",
+      "desde, de",
+      "debido a"
+    ],
+    "examples": [
+      {
+        "zh": "由我来说吧。",
+        "es": "Déjame decirlo a mí."
+      },
+      {
+        "zh": "这本书是由他写的。",
+        "es": "Este libro fue escrito por él."
+      },
+      {
+        "zh": "这个工作由他们来做。",
+        "es": "Este trabajo lo van a hacer ellos."
+      },
+      {
+        "zh": "这件事由你来说，还是由我来说？",
+        "es": "¿Esto lo dices tú o lo digo yo?"
+      }
+    ]
+  },
+  {
+    "word": "工作",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "trabajar",
+      "trabajo",
+      "empleo",
+      "funcionar (una máquina)"
+    ],
+    "examples": [
+      {
+        "zh": "我在中国工作。",
+        "es": "Trabajo en China."
+      },
+      {
+        "zh": "你的工作好吗？",
+        "es": "¿Cómo va tu trabajo?"
+      },
+      {
+        "zh": "他现在没有工作。",
+        "es": "Ahora él no tiene trabajo."
+      },
+      {
+        "zh": "这个工作很好，但是我没有时间做。",
+        "es": "Este trabajo es muy bueno, pero no tengo tiempo para hacerlo."
+      }
+    ]
+  },
+  {
+    "word": "及",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "y (formal)",
+      "a tiempo",
+      "alcanzar",
+      "hasta"
+    ],
+    "examples": [
+      {
+        "zh": "来不及了！",
+        "es": "¡Ya no da tiempo!"
+      },
+      {
+        "zh": "他及时来了。",
+        "es": "Él llegó a tiempo."
+      },
+      {
+        "zh": "现在去还来得及。",
+        "es": "Si vamos ahora, todavía llegamos a tiempo."
+      },
+      {
+        "zh": "中国、美国及其他国家的人都来了。",
+        "es": "Vinieron personas de China, Estados Unidos y otros países."
+      }
+    ]
+  },
+  {
+    "word": "吧",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "partícula de sugerencia (vamos a…, ¿qué tal si…?)",
+      "¿verdad?, ¿no?",
+      "supongo que"
+    ],
+    "examples": [
+      {
+        "zh": "我们去吧！",
+        "es": "¡Vamos!"
+      },
+      {
+        "zh": "你是中国人吧？",
+        "es": "Eres chino, ¿verdad?"
+      },
+      {
+        "zh": "好吧，我们明天去。",
+        "es": "Está bien, vamos mañana."
+      },
+      {
+        "zh": "他现在没有来，可能是太忙了吧。",
+        "es": "Todavía no ha llegado; supongo que está muy ocupado."
+      }
+    ]
+  },
+  {
+    "word": "三",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "tres"
+    ],
+    "examples": [
+      {
+        "zh": "我有三个。",
+        "es": "Tengo tres."
+      },
+      {
+        "zh": "三月我去中国。",
+        "es": "En marzo voy a China."
+      },
+      {
+        "zh": "他们三个人都是中国人。",
+        "es": "Los tres son chinos."
+      },
+      {
+        "zh": "我在美国工作了三年。",
+        "es": "Trabajé tres años en Estados Unidos."
+      }
+    ]
+  },
+  {
+    "word": "知道",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "saber",
+      "conocer",
+      "enterarse"
+    ],
+    "examples": [
+      {
+        "zh": "我知道。",
+        "es": "Lo sé."
+      },
+      {
+        "zh": "你知道他是谁吗？",
+        "es": "¿Sabes quién es él?"
+      },
+      {
+        "zh": "我不知道怎么做。",
+        "es": "No sé cómo hacerlo."
+      },
+      {
+        "zh": "他知道这个问题，但是什么也没说。",
+        "es": "Él sabía de este problema, pero no dijo nada."
+      }
+    ]
+  },
+  {
+    "word": "更",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "más",
+      "aún más",
+      "todavía más"
+    ],
+    "examples": [
+      {
+        "zh": "这个更好。",
+        "es": "Este es mejor."
+      },
+      {
+        "zh": "他比我更高。",
+        "es": "Él es más alto que yo."
+      },
+      {
+        "zh": "我更想去中国。",
+        "es": "Tengo más ganas de ir a China."
+      },
+      {
+        "zh": "现在问题更大了，我们要怎么做？",
+        "es": "Ahora el problema es aún mayor, ¿qué vamos a hacer?"
+      }
+    ]
+  },
+  {
+    "word": "前",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "delante, adelante",
+      "antes",
+      "hace (tiempo)",
+      "anterior"
+    ],
+    "examples": [
+      {
+        "zh": "前面有人。",
+        "es": "Hay alguien adelante."
+      },
+      {
+        "zh": "三年前我在中国。",
+        "es": "Hace tres años estaba en China."
+      },
+      {
+        "zh": "你来之前给我打电话。",
+        "es": "Llámame antes de venir."
+      },
+      {
+        "zh": "我们前几天说的问题，现在怎么样了？",
+        "es": "¿Qué pasó con el asunto del que hablamos hace unos días?"
+      }
+    ]
+  },
+  {
+    "word": "就是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "justamente, precisamente",
+      "simplemente",
+      "solo",
+      "aunque"
+    ],
+    "examples": [
+      {
+        "zh": "就是他！",
+        "es": "¡Es él!"
+      },
+      {
+        "zh": "这就是我的家。",
+        "es": "Esta es mi casa."
+      },
+      {
+        "zh": "我就是不想去。",
+        "es": "Simplemente no quiero ir."
+      },
+      {
+        "zh": "就是没有时间，我也会来。",
+        "es": "Aunque no tenga tiempo, voy a venir."
+      }
+    ]
+  },
+  {
+    "word": "时间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tiempo",
+      "hora",
+      "momento"
+    ],
+    "examples": [
+      {
+        "zh": "我没有时间。",
+        "es": "No tengo tiempo."
+      },
+      {
+        "zh": "时间到了。",
+        "es": "Se acabó el tiempo."
+      },
+      {
+        "zh": "你什么时间来？",
+        "es": "¿A qué hora vienes?"
+      },
+      {
+        "zh": "我们没有很多时间，现在就去吧。",
+        "es": "No tenemos mucho tiempo; vamos ahora mismo."
+      }
+    ]
+  },
+  {
+    "word": "已经",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ya"
+    ],
+    "examples": [
+      {
+        "zh": "他已经来了。",
+        "es": "Él ya llegó."
+      },
+      {
+        "zh": "我已经知道了。",
+        "es": "Ya lo sé."
+      },
+      {
+        "zh": "现在已经没有时间了。",
+        "es": "Ya no hay tiempo."
+      },
+      {
+        "zh": "我在中国已经工作了三年了。",
+        "es": "Ya llevo tres años trabajando en China."
+      }
+    ]
+  },
+  {
+    "word": "出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salir",
+      "sacar, producir",
+      "ocurrir, surgir",
+      "clasificador para obras de teatro"
+    ],
+    "examples": [
+      {
+        "zh": "他出去了。",
+        "es": "Él salió."
+      },
+      {
+        "zh": "出了什么问题？",
+        "es": "¿Qué problema hubo?"
+      },
+      {
+        "zh": "你出来吧，我在外面等你。",
+        "es": "Sal, te espero afuera."
+      },
+      {
+        "zh": "我看了很久，也看不出这是什么。",
+        "es": "Lo miré mucho rato y aun así no logro saber qué es."
+      }
+    ]
+  },
+  {
+    "word": "时候",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "momento",
+      "tiempo",
+      "cuando (en …的时候)"
+    ],
+    "examples": [
+      {
+        "zh": "什么时候？",
+        "es": "¿Cuándo?"
+      },
+      {
+        "zh": "你什么时候来？",
+        "es": "¿Cuándo vienes?"
+      },
+      {
+        "zh": "我小的时候在中国。",
+        "es": "De niño viví en China."
+      },
+      {
+        "zh": "我去的时候，他已经不在了。",
+        "es": "Cuando llegué, él ya no estaba."
+      }
+    ]
+  },
+  {
+    "word": "得",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "partícula que indica grado o manera (tras un verbo)",
+      "partícula que indica posibilidad o resultado"
+    ],
+    "examples": [
+      {
+        "zh": "他说得很好。",
+        "es": "Él habla muy bien."
+      },
+      {
+        "zh": "你做得很好！",
+        "es": "¡Lo hiciste muy bien!"
+      },
+      {
+        "zh": "我看得到。",
+        "es": "Sí lo puedo ver."
+      },
+      {
+        "zh": "他中文说得比我好。",
+        "es": "Él habla chino mejor que yo."
+      }
+    ]
+  }
+]

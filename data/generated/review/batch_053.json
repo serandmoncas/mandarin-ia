@@ -1,0 +1,163 @@
+[
+  {
+    "id": "word:红",
+    "ok": true,
+    "issues": [],
+    "content_hash": "231beee20f5227dd99415357b10f16e7650046e8"
+  },
+  {
+    "id": "word:克",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5909bb36494a60e0678d3e7a68d2e480f6b0a66f"
+  },
+  {
+    "id": "word:困难",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d1f9fdcb76653916858967c4170de8d9f2a1b368"
+  },
+  {
+    "id": "word:全面",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 1: 写得 se lee «xiě de», no «xiě dé»."
+    ],
+    "content_hash": "35d060d52df272eed3dcb594b6194112015e2cec"
+  },
+  {
+    "id": "word:怕",
+    "ok": true,
+    "issues": [],
+    "content_hash": "50af1e85cb8fca92e278ff266c3908ddfd61b72b"
+  },
+  {
+    "id": "word:眼睛",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 长时间 se lee «cháng shí jiān», no «zhǎng shí jiān».",
+      "En los ejemplos 1 a 4, 睛 aparece como «jīng», pero la palabra es yǎnjing con tono neutro, como indica la entrada (jing5)."
+    ],
+    "content_hash": "8a3dd09015c8154a4c021a3da24fea66dd66e75a"
+  },
+  {
+    "id": "word:首先",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e0bc2243d8252bfeec0484fa39e68797333033fa"
+  },
+  {
+    "id": "word:留下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "792d3400dbc91bffdaa780ade2daa70fbbbba079"
+  },
+  {
+    "id": "word:面前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf2757ec54afd9dab127727cf748a4ad6acdd21e"
+  },
+  {
+    "id": "word:双方",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8d7ebd1e9f15f320d4f282c0a4b683591b0d0199"
+  },
+  {
+    "id": "word:食物",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «我喜欢中国食物» es poco natural; un hablante nativo diría «我喜欢中国菜»."
+    ],
+    "content_hash": "e9ec5e24f682cb1480fca45f35b9e0332853bec7"
+  },
+  {
+    "id": "word:查",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de4b51b543c84667f318724aa294f6c79e24c436"
+  },
+  {
+    "id": "word:打算",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 1: 哪儿 se lee «nǎr», no «nǎ ér»."
+    ],
+    "content_hash": "69d5c3fbaa56f5a9ba33d03dd675d3b1e2b24cd5"
+  },
+  {
+    "id": "word:武器",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dfd285af036df5261cda79c14a17c7103f57328d"
+  },
+  {
+    "id": "word:掉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c0424f1166591b30084214f5d35453e93bd9e75"
+  },
+  {
+    "id": "word:需求",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bb78efed4d38db65e51dc6049774123e232aacd5"
+  },
+  {
+    "id": "word:状况",
+    "ok": true,
+    "issues": [],
+    "content_hash": "007171af02b85b44546f7264577b0f1cfea4ac93"
+  },
+  {
+    "id": "word:东北",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e7f1a927db11ebc8eb00dac127a008e7ee8e6926"
+  },
+  {
+    "id": "word:业务",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4566f16adc15da6624bb84c9f6a2cc948c2755bc"
+  },
+  {
+    "id": "word:份",
+    "ok": true,
+    "issues": [],
+    "content_hash": "158e02df00d8c4de2b312a512299342a030fe856"
+  },
+  {
+    "id": "word:今日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "edd9f910c884fe7830675c6eed3460065a3bc6fb"
+  },
+  {
+    "id": "word:画",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1fba5edf512fc7ad822510b474120aa08fd5c936"
+  },
+  {
+    "id": "word:体系",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a7f77c988ababa029405bbe19cc124e8399989a"
+  },
+  {
+    "id": "word:教学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e2fc9936d205b4ab690b439b203da0e394212f7"
+  },
+  {
+    "id": "word:协会",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «参加了一个足球协会» suena raro, porque 足球协会 suele designar una federación oficial. Para un aficionado sería más natural «足球俱乐部», o bien usar otro tipo de asociación."
+    ],
+    "content_hash": "5c28019ac553e9be2c24dd2e6b080e68baf670b3"
+  }
+]

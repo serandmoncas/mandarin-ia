@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "65c1f2a7c519ce649f0157fe77df9ac59d137589"
+  },
+  {
+    "id": "word:到达",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f4156bfa38cf5e51ac0eb73aa9289c81826c6cb4"
+  },
+  {
+    "id": "word:发达",
+    "ok": false,
+    "issues": [
+      "El sentido verbal «desarrollar, impulsar» es raro o literario en el chino moderno; aquí 发达 funciona casi siempre como adjetivo, y ningún ejemplo ilustra ese uso. Conviene quitarlo o marcarlo como literario."
+    ],
+    "content_hash": "bbdcdef9112a15c942ec7a2728c464775302ec88"
+  },
+  {
+    "id": "word:房屋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7aff7ce6c044e3d257d75b9a140dafe0aebcd533"
+  },
+  {
+    "id": "word:古",
+    "ok": false,
+    "issues": [
+      "Pinyin de 一本: aparece «yī běn» sin cambio tonal, mientras el resto del contenido aplica el sandhi; debería ser «yì běn»."
+    ],
+    "content_hash": "89b2e567024e4ca08147375eab1e214b1929f796"
+  },
+  {
+    "id": "word:观念",
+    "ok": true,
+    "issues": [],
+    "content_hash": "477e20e93e4615ba5c4a9f52be4e5674b7b942f8"
+  },
+  {
+    "id": "word:建成",
+    "ok": true,
+    "issues": [],
+    "content_hash": "55f21e1085693d1a1c69204eaeff88e2780e20f8"
+  },
+  {
+    "id": "word:生长",
+    "ok": false,
+    "issues": [
+      "Pinyin de 生长得很快: el complemento 得 es neutro; debe escribirse «de», no «dé»."
+    ],
+    "content_hash": "9a07255b1acc863bb3aef6c3e960b8ec7a02ce57"
+  },
+  {
+    "id": "word:舞台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc6ebe25b50d31ecf3b8fedcdb5db3fa29cd8e6b"
+  },
+  {
+    "id": "word:不得不",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ba64a58957aeb89b24cbce5c16bec8bc4785215"
+  },
+  {
+    "id": "word:防止",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3f4f02bc612afaf52c75a1ddbfbc3bed5b4b7a6c"
+  },
+  {
+    "id": "word:浪费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4e5995401ee9372aef56115903e2faa52f841ea"
+  },
+  {
+    "id": "word:气候",
+    "ok": true,
+    "issues": [],
+    "content_hash": "16737d247918b47dfed068bddbf0a36f5fab6535"
+  },
+  {
+    "id": "word:伤",
+    "ok": false,
+    "issues": [
+      "Pinyin de 得休息: aquí 得 significa «tener que» y se lee «děi», no «dé».",
+      "Traducción de 伤了我的心: «me rompió el corazón» exagera; es más fiel «me hirió» o «me dolió»."
+    ],
+    "content_hash": "fdcc20924038e3ac496ac71bceba3bf448e111f1"
+  },
+  {
+    "id": "word:上来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "574abedd415290279b000b1c75357d51fd0911e7"
+  },
+  {
+    "id": "word:相比",
+    "ok": false,
+    "issues": [
+      "Pinyin de 无法相比: aparece «xiàng bǐ»; debe ser «xiāng bǐ».",
+      "En 和去年相比，今年很热 suena más natural usar un comparativo (今年热多了 o 今年更热) que 很热."
+    ],
+    "content_hash": "252ace35350100fae615c8b4d268f2c0bc4d0b38"
+  },
+  {
+    "id": "word:造",
+    "ok": false,
+    "issues": [
+      "Pinyin de 一座: aparece «yī zuò» sin cambio tonal, a diferencia del resto del contenido; debería ser «yí zuò»."
+    ],
+    "content_hash": "145c948790f711fba21e5b6ed36e0fdd0bf963e2"
+  },
+  {
+    "id": "word:保存",
+    "ok": true,
+    "issues": [],
+    "content_hash": "148896d0be6b7b0c85975c68d3db7346f3c9c0f3"
+  },
+  {
+    "id": "word:不论",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a9a2ab35a917cd42771855de960a582d64dc5ea0"
+  },
+  {
+    "id": "word:庆祝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ebb64908c3d067ff163aa91baf0a31653d5520d"
+  },
+  {
+    "id": "word:显得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e43b2ccfc250c246ef8399c13c51982b46c0109"
+  },
+  {
+    "id": "word:直",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a7bd9a814b9e5ad60323a51b616dfaac3df63bd1"
+  },
+  {
+    "id": "word:准",
+    "ok": false,
+    "issues": [
+      "Pinyin de 说得真好: el complemento 得 es neutro; debe escribirse «de», no «dé»."
+    ],
+    "content_hash": "eece9b180c34acdb46c3505ac484c253520ebe04"
+  },
+  {
+    "id": "word:当初",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b1acbbb845a05399edfca6c4c665000d7e29d1a"
+  },
+  {
+    "id": "word:实验室",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dedef349c891903250717ce7a7f6b021e0a9601f"
+  }
+]

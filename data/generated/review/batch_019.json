@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:差",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5629e604f91ceee88558ac32b4c0f31dd00db0eb"
+  },
+  {
+    "id": "word:风",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 听着 se lee «tīng zhe», no «tīng zháo»."
+    ],
+    "content_hash": "c221fd343cfa1c845a0a8c0573e583c7ee6443ac"
+  },
+  {
+    "id": "word:上海",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5b918b313134918c8d6ef6356be50c45093f90b"
+  },
+  {
+    "id": "word:出去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "42be014ed1aa46dfed241f27ad10e92cb31c6e44"
+  },
+  {
+    "id": "word:便",
+    "ok": true,
+    "issues": [],
+    "content_hash": "efc67daa123241bf451971eee1a3203be25ccf29"
+  },
+  {
+    "id": "word:党",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3 poco natural: «参加了一个党» suena raro; lo habitual es «加入了一个政党» (o «入党»)."
+    ],
+    "content_hash": "d240aa24ecc76d2bd2b99547a6805880de355b1e"
+  },
+  {
+    "id": "word:哥哥",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: el segundo 哥 lleva tono neutro, «gē ge», no «gē gē». Esto contradice el encabezado (ge1 ge5)."
+    ],
+    "content_hash": "90630804d803d515b36afac17e92a54fdeb0540c"
+  },
+  {
+    "id": "word:坏",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e36be8d3b289a0542fcd26095ca09b9672f38f8"
+  },
+  {
+    "id": "word:发",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 发书 es «fā shū», no «fà shū»."
+    ],
+    "content_hash": "01e9f33d3601b6854d2d37fcb8086667cd239eff"
+  },
+  {
+    "id": "word:家人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3ad25475482240ab9c2c65d949ff1afc0cd1d02"
+  },
+  {
+    "id": "word:昨天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a81118089625cc53c009e3a9c49501b9ff62af12"
+  },
+  {
+    "id": "word:环境",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0ae58618e2f3e976c3310e4df79adcdc8b466e2"
+  },
+  {
+    "id": "word:名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "909836e498dc56d6cfa37485f400baf4003fa93f"
+  },
+  {
+    "id": "word:口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b7548ad0a321155c30b0814317a1f714bfb33e7d"
+  },
+  {
+    "id": "word:完成",
+    "ok": true,
+    "issues": [],
+    "content_hash": "772cb470f1e988e4573b9aea5451aaaacaf7f520"
+  },
+  {
+    "id": "word:同学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "634b431b4613a2f24fa262238ba5b75bfbd1bdc3"
+  },
+  {
+    "id": "word:一般",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7bc69bee74a54ff78eb17f9a5843c1af80a25cf3"
+  },
+  {
+    "id": "word:小学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "94df4e756cbe6e94fccaf0a9814f8b65428b38f5"
+  },
+  {
+    "id": "word:网络",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a12156bfea2c75f5da8112acc4749c6491bd5ed4"
+  },
+  {
+    "id": "word:早上",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 早上 se escribe «zǎo shang» (tono neutro), no «zǎo shàng». Esto es incoherente con el encabezado (zao3 shang5)."
+    ],
+    "content_hash": "e45426bc44b2c4926b973e43876df2538813f00a"
+  },
+  {
+    "id": "word:达",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 长达 es «cháng dá», no «zhǎng dá»."
+    ],
+    "content_hash": "b0183a3b7444a8d3e7f3a096b191bec89067bb68"
+  },
+  {
+    "id": "word:保护",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8ef3351b00998a737b65d47d2435f22703d107ec"
+  },
+  {
+    "id": "word:考试",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1163819fe4ded5135bc9070d27cfdcb93b627686"
+  },
+  {
+    "id": "word:称",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: en 称…为, 为 se lee «wéi», no «wèi»."
+    ],
+    "content_hash": "412cb828a536b562109314109326d4d54d006a61"
+  },
+  {
+    "id": "word:网上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ef7a399a7b375a2510bce86abeea15289413aaa"
+  }
+]

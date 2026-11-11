@@ -1,0 +1,528 @@
+[
+  {
+    "word": "交费",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pagar una cuota",
+      "pagar (un servicio o trámite)"
+    ],
+    "examples": [
+      {
+        "zh": "我去交费。",
+        "es": "Voy a pagar."
+      },
+      {
+        "zh": "学生要在这里交费。",
+        "es": "Los estudiantes tienen que pagar aquí."
+      },
+      {
+        "zh": "你可以用手机交费吗？",
+        "es": "¿Puedes pagar con el celular?"
+      },
+      {
+        "zh": "住院以前，病人要先去交费。",
+        "es": "Antes de internarse, el paciente tiene que ir a pagar primero."
+      }
+    ]
+  },
+  {
+    "word": "奶茶",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "té con leche"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢喝奶茶。",
+        "es": "Me gusta tomar té con leche."
+      },
+      {
+        "zh": "这杯奶茶太甜了。",
+        "es": "Este té con leche está demasiado dulce."
+      },
+      {
+        "zh": "我们下午一起去买奶茶吧。",
+        "es": "Vamos juntos a comprar té con leche en la tarde."
+      },
+      {
+        "zh": "她每天都喝一杯奶茶，所以有点胖了。",
+        "es": "Ella toma un té con leche todos los días, por eso subió un poco de peso."
+      }
+    ]
+  },
+  {
+    "word": "暖和",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cálido",
+      "templado (clima)",
+      "abrigador",
+      "calentarse"
+    ],
+    "examples": [
+      {
+        "zh": "今天很暖和。",
+        "es": "Hoy está templado."
+      },
+      {
+        "zh": "这件衣服很暖和。",
+        "es": "Esta ropa es muy abrigadora."
+      },
+      {
+        "zh": "春天来了，天气越来越暖和了。",
+        "es": "Llegó la primavera y el clima está cada vez más cálido."
+      },
+      {
+        "zh": "外面太冷了，我们进房间里暖和一下吧。",
+        "es": "Afuera hace mucho frío, entremos al cuarto a calentarnos un poco."
+      }
+    ]
+  },
+  {
+    "word": "衬衣",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "camisa"
+    ],
+    "examples": [
+      {
+        "zh": "这件衬衣很好看。",
+        "es": "Esta camisa está muy bonita."
+      },
+      {
+        "zh": "我想买一件白衬衣。",
+        "es": "Quiero comprar una camisa blanca."
+      },
+      {
+        "zh": "他上班的时候常常穿蓝色的衬衣。",
+        "es": "Cuando va a trabajar, él suele usar camisas azules."
+      },
+      {
+        "zh": "这件衬衣太小了，我能换一件大的吗？",
+        "es": "Esta camisa me queda muy chica, ¿puedo cambiarla por una más grande?"
+      }
+    ]
+  },
+  {
+    "word": "绿茶",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "té verde",
+      "(jerga) chica que aparenta inocencia pero es manipuladora"
+    ],
+    "examples": [
+      {
+        "zh": "我想喝绿茶。",
+        "es": "Quiero tomar té verde."
+      },
+      {
+        "zh": "这杯绿茶有点热。",
+        "es": "Este té verde está un poco caliente."
+      },
+      {
+        "zh": "中国人很喜欢喝绿茶。",
+        "es": "A los chinos les gusta mucho tomar té verde."
+      },
+      {
+        "zh": "医生说，每天喝点绿茶对身体好。",
+        "es": "El doctor dice que tomar un poco de té verde todos los días es bueno para la salud."
+      }
+    ]
+  },
+  {
+    "word": "复印",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fotocopiar",
+      "sacar copias"
+    ],
+    "examples": [
+      {
+        "zh": "请帮我复印一下。",
+        "es": "Por favor, sácame una copia."
+      },
+      {
+        "zh": "我要复印我的护照。",
+        "es": "Necesito fotocopiar mi pasaporte."
+      },
+      {
+        "zh": "老师让我们复印这篇课文。",
+        "es": "El maestro nos pidió fotocopiar este texto."
+      },
+      {
+        "zh": "你可以帮我把这些资料复印三份吗？",
+        "es": "¿Me puedes sacar tres copias de estos documentos?"
+      }
+    ]
+  },
+  {
+    "word": "做客",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ir de visita",
+      "ser invitado (en casa de alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "欢迎来我家做客！",
+        "es": "¡Bienvenido a visitarnos en casa!"
+      },
+      {
+        "zh": "明天我去朋友家做客。",
+        "es": "Mañana voy de visita a casa de un amigo."
+      },
+      {
+        "zh": "上个星期天，我们去老师家做客了。",
+        "es": "El domingo pasado fuimos de visita a casa del maestro."
+      },
+      {
+        "zh": "去别人家做客的时候，最好带一点礼物。",
+        "es": "Cuando vas de visita a casa de alguien, lo mejor es llevar un pequeño regalo."
+      }
+    ]
+  },
+  {
+    "word": "白菜",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "col china",
+      "repollo chino",
+      "bok choy"
+    ],
+    "examples": [
+      {
+        "zh": "我想买白菜。",
+        "es": "Quiero comprar col china."
+      },
+      {
+        "zh": "这里的白菜很便宜。",
+        "es": "La col china de aquí es muy barata."
+      },
+      {
+        "zh": "妈妈今天晚上做了白菜饺子。",
+        "es": "Esta noche mi mamá hizo empanaditas chinas de col."
+      },
+      {
+        "zh": "冬天的时候，北方人常常吃白菜。",
+        "es": "En invierno, la gente del norte come col china con frecuencia."
+      }
+    ]
+  },
+  {
+    "word": "空儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tiempo libre",
+      "rato libre"
+    ],
+    "examples": [
+      {
+        "zh": "你有空儿吗？",
+        "es": "¿Tienes tiempo libre?"
+      },
+      {
+        "zh": "我今天没有空儿。",
+        "es": "Hoy no tengo tiempo."
+      },
+      {
+        "zh": "你明天有空儿的话，我们一起去看电影吧。",
+        "es": "Si mañana tienes tiempo, vamos juntos al cine."
+      },
+      {
+        "zh": "工作太忙了，我连吃饭的空儿都没有。",
+        "es": "Tengo tanto trabajo que ni siquiera tengo tiempo para comer."
+      }
+    ]
+  },
+  {
+    "word": "红茶",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "té negro"
+    ],
+    "examples": [
+      {
+        "zh": "我要一杯红茶。",
+        "es": "Quiero una taza de té negro."
+      },
+      {
+        "zh": "你喜欢喝红茶吗？",
+        "es": "¿Te gusta tomar té negro?"
+      },
+      {
+        "zh": "英国人喜欢在下午喝红茶。",
+        "es": "A los ingleses les gusta tomar té negro en la tarde."
+      },
+      {
+        "zh": "天气冷的时候，喝一杯热红茶很舒服。",
+        "es": "Cuando hace frío, tomar una taza de té negro caliente es muy agradable."
+      }
+    ]
+  },
+  {
+    "word": "理发",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cortarse el pelo",
+      "cortarle el pelo a alguien",
+      "arreglarse el cabello"
+    ],
+    "examples": [
+      {
+        "zh": "我明天去理发。",
+        "es": "Mañana voy a cortarme el pelo."
+      },
+      {
+        "zh": "你的头发太长了，该理发了。",
+        "es": "Tienes el pelo muy largo, ya te toca cortártelo."
+      },
+      {
+        "zh": "我爸爸每个月都去理发。",
+        "es": "Mi papá va a cortarse el pelo cada mes."
+      },
+      {
+        "zh": "附近新开了一家理发店，价格很便宜。",
+        "es": "Abrieron una peluquería nueva cerca de aquí y los precios son muy baratos."
+      }
+    ]
+  },
+  {
+    "word": "连忙",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enseguida",
+      "rápidamente",
+      "de inmediato"
+    ],
+    "examples": [
+      {
+        "zh": "他连忙站起来。",
+        "es": "Él se puso de pie enseguida."
+      },
+      {
+        "zh": "听到电话响了，她连忙去接。",
+        "es": "Al oír que sonaba el teléfono, ella fue rápidamente a contestar."
+      },
+      {
+        "zh": "看见老人上车，我连忙把座位让给他。",
+        "es": "Al ver que subía un anciano, enseguida le cedí mi asiento."
+      },
+      {
+        "zh": "下雨了，妈妈连忙把外面的衣服拿进来。",
+        "es": "Empezó a llover y mi mamá metió de inmediato la ropa que estaba afuera."
+      }
+    ]
+  },
+  {
+    "word": "划船",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "remar",
+      "pasear en bote",
+      "remo (deporte)"
+    ],
+    "examples": [
+      {
+        "zh": "我们去划船吧。",
+        "es": "Vamos a pasear en bote."
+      },
+      {
+        "zh": "你会划船吗？",
+        "es": "¿Sabes remar?"
+      },
+      {
+        "zh": "夏天的时候，很多人在湖上划船。",
+        "es": "En verano, mucha gente pasea en bote por el lago."
+      },
+      {
+        "zh": "周末我和朋友去公园划船，玩得很开心。",
+        "es": "El fin de semana fui con unos amigos a remar en el parque y nos divertimos mucho."
+      }
+    ]
+  },
+  {
+    "word": "书架",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "librero",
+      "estante para libros"
+    ],
+    "examples": [
+      {
+        "zh": "书在书架上。",
+        "es": "El libro está en el librero."
+      },
+      {
+        "zh": "我的书架上有很多书。",
+        "es": "En mi librero hay muchos libros."
+      },
+      {
+        "zh": "请把这本书放回书架上。",
+        "es": "Por favor, vuelve a poner este libro en el estante."
+      },
+      {
+        "zh": "房间太小了，放不下一个大书架。",
+        "es": "El cuarto es muy chico, no cabe un librero grande."
+      }
+    ]
+  },
+  {
+    "word": "皮包",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bolso (de cuero)",
+      "cartera",
+      "maletín"
+    ],
+    "examples": [
+      {
+        "zh": "这个皮包很贵。",
+        "es": "Este bolso es muy caro."
+      },
+      {
+        "zh": "我妈妈有一个红色的皮包。",
+        "es": "Mi mamá tiene un bolso rojo."
+      },
+      {
+        "zh": "她的皮包里有手机和钱包。",
+        "es": "En su bolso hay un celular y una billetera."
+      },
+      {
+        "zh": "我在商场看到一个很漂亮的皮包，可是太贵了。",
+        "es": "Vi un bolso muy bonito en el centro comercial, pero era demasiado caro."
+      }
+    ]
+  },
+  {
+    "word": "短处",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "defecto",
+      "punto débil",
+      "debilidad"
+    ],
+    "examples": [
+      {
+        "zh": "每个人都有短处。",
+        "es": "Todos tenemos defectos."
+      },
+      {
+        "zh": "他知道自己的短处。",
+        "es": "Él conoce sus puntos débiles."
+      },
+      {
+        "zh": "我们不要总是说别人的短处。",
+        "es": "No debemos hablar siempre de los defectos de los demás."
+      },
+      {
+        "zh": "了解自己的长处和短处，才能做得更好。",
+        "es": "Solo conociendo tus fortalezas y debilidades puedes hacerlo mejor."
+      }
+    ]
+  },
+  {
+    "word": "凉水",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "agua fría",
+      "agua sin hervir"
+    ],
+    "examples": [
+      {
+        "zh": "我想喝凉水。",
+        "es": "Quiero tomar agua fría."
+      },
+      {
+        "zh": "天气太热了，我用凉水洗脸。",
+        "es": "Hace mucho calor, me lavo la cara con agua fría."
+      },
+      {
+        "zh": "医生说，生病的时候别喝凉水。",
+        "es": "El doctor dice que no tomes agua fría cuando estés enfermo."
+      },
+      {
+        "zh": "在中国，很多人不喝凉水，喜欢喝热水。",
+        "es": "En China, mucha gente no toma agua fría; prefiere tomar agua caliente."
+      }
+    ]
+  },
+  {
+    "word": "衣架",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gancho para ropa",
+      "perchero"
+    ],
+    "examples": [
+      {
+        "zh": "这里有衣架。",
+        "es": "Aquí hay ganchos para ropa."
+      },
+      {
+        "zh": "请给我一个衣架。",
+        "es": "Por favor, dame un gancho."
+      },
+      {
+        "zh": "我把衬衫挂在衣架上了。",
+        "es": "Colgué la camisa en un gancho."
+      },
+      {
+        "zh": "家里的衣架不够用了，我要去超市买一些。",
+        "es": "Ya no alcanzan los ganchos de la casa, voy a ir al supermercado a comprar algunos."
+      }
+    ]
+  },
+  {
+    "word": "预习",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "preparar la lección (antes de clase)",
+      "estudiar con anticipación"
+    ],
+    "examples": [
+      {
+        "zh": "我在预习课文。",
+        "es": "Estoy preparando el texto de la lección."
+      },
+      {
+        "zh": "上课以前要预习生词。",
+        "es": "Antes de la clase hay que repasar el vocabulario nuevo."
+      },
+      {
+        "zh": "老师让我们预习明天的课文。",
+        "es": "El maestro nos pidió preparar el texto de mañana."
+      },
+      {
+        "zh": "如果你每天都预习，上课的时候就容易懂了。",
+        "es": "Si preparas la lección todos los días, en clase te será más fácil entender."
+      }
+    ]
+  },
+  {
+    "word": "老头儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "viejito",
+      "anciano",
+      "mi viejo (forma familiar para el esposo o el padre)"
+    ],
+    "examples": [
+      {
+        "zh": "那个老头儿是我爷爷。",
+        "es": "Ese viejito es mi abuelo."
+      },
+      {
+        "zh": "楼下住着一个老头儿。",
+        "es": "Abajo vive un viejito."
+      },
+      {
+        "zh": "早上公园里有很多老头儿在跑步。",
+        "es": "En las mañanas hay muchos viejitos corriendo en el parque."
+      },
+      {
+        "zh": "那个老头儿已经八十岁了，身体还很好。",
+        "es": "Ese viejito ya tiene ochenta años y todavía está muy sano."
+      }
+    ]
+  }
+]

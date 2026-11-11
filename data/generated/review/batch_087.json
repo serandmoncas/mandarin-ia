@@ -1,0 +1,172 @@
+[
+  {
+    "id": "word:保",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el tercer ejemplo: en el ordinal 第一 el 一 no cambia de tono; debe ser «dì yī míng», no «dì yì míng»."
+    ],
+    "content_hash": "44ccf1a0e870c1f241770ad1af9fa36cad260eed"
+  },
+  {
+    "id": "word:创业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d1965ed6666b25604b6bee4363fe66a09a81459"
+  },
+  {
+    "id": "word:电视剧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc2787488093fd1f0c291af4d3635896e60c6b4a"
+  },
+  {
+    "id": "word:改进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa3ea174951343d82bc09b4d2e1c6465e16034b6"
+  },
+  {
+    "id": "word:个性",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el cuarto ejemplo: 发展 es «fā zhǎn», no «fà zhǎn»."
+    ],
+    "content_hash": "65616fdf554005c184a649be67dc008e5b57e1f8"
+  },
+  {
+    "id": "word:架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "962f42615589a752a85aade69bfa7564a2e2421c"
+  },
+  {
+    "id": "word:紧",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el tercer ejemplo: la partícula 地 se lee «de», no «dì»."
+    ],
+    "content_hash": "a27b63a53a8932b430bd529ae032502063027c3d"
+  },
+  {
+    "id": "word:进展",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el segundo ejemplo: la partícula 得 se lee «de», no «dé»."
+    ],
+    "content_hash": "fc078a9b9781ae02e3640f577a27b2bbeebeebe7"
+  },
+  {
+    "id": "word:升",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el tercer ejemplo: en 升为 el 为 se lee «wéi», no «wèi».",
+      "Pinyin incorrecto en el cuarto ejemplo: la partícula 得 se lee «de», no «dé»."
+    ],
+    "content_hash": "74baf77724e1ccba57c7db9f5d5ea4c5195c4d42"
+  },
+  {
+    "id": "word:提前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8640aa7cb0764e45ac2c762422989fc263b1a695"
+  },
+  {
+    "id": "word:现金",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86e8e07b0d7b6b0c45eef14b76629a0439d7428e"
+  },
+  {
+    "id": "word:性格",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ae1a4f525c64f9ff8313570ee90abbfe59baefe"
+  },
+  {
+    "id": "word:发言",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ea412ce12d2fbd086a62fe6ad15d1d003f5a0db4"
+  },
+  {
+    "id": "word:空",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el segundo ejemplo: en 我得去 el 得 significa «tener que» y se lee «děi», no «dé».",
+      "Pinyin incorrecto en el cuarto ejemplo: en 空着手 el 着 se lee «zhe», no «zhuó»."
+    ],
+    "content_hash": "e10faa8621dd3b2ee847d4e2ba5f41cfc7087799"
+  },
+  {
+    "id": "word:人工",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el segundo ejemplo: la partícula 得 se lee «de», no «dé»."
+    ],
+    "content_hash": "0e604843747c4d6c12415f2ad484737182a7cf87"
+  },
+  {
+    "id": "word:人群",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a21196d1917dba1ea02888f65f8a83aaa75d96eb"
+  },
+  {
+    "id": "word:演",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el primer ejemplo: la partícula 得 se lee «de», no «dé»."
+    ],
+    "content_hash": "d9dd374e0573ef87f5e00da925d081c298a99378"
+  },
+  {
+    "id": "word:钟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d55e303bb9d2975a5f4b9e2a2b960e0ac863895"
+  },
+  {
+    "id": "word:板",
+    "ok": true,
+    "issues": [],
+    "content_hash": "125fda2c8b948a537299c965962c0d518be8121f"
+  },
+  {
+    "id": "word:场所",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b786cf98abb372100b4c0e279e26cc5041346c1"
+  },
+  {
+    "id": "word:刀",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el tercer ejemplo: 切 («cortar») se lee «qiē», no «qiè»."
+    ],
+    "content_hash": "e6695f40824f366d7ea7f4f5679b4653e1c4c17b"
+  },
+  {
+    "id": "word:服装",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2aaf9f9523f6baa7fbf548336b580ba73bf9a7f"
+  },
+  {
+    "id": "word:工程师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cbeb4972d3c614308bcbb128fd5bfdd6ead2e3a3"
+  },
+  {
+    "id": "word:近期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e98a980ea59b8efed7d4c7cb808dd45ed415885"
+  },
+  {
+    "id": "word:内心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "43ba5d9cf8dfcf30ab2f7a0ebc8be359b19e285a"
+  }
+]

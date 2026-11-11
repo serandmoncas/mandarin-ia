@@ -1,0 +1,536 @@
+[
+  {
+    "word": "站",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar de pie; pararse",
+      "estación; parada",
+      "sitio web"
+    ],
+    "examples": [
+      {
+        "zh": "请站起来。",
+        "es": "Por favor, ponte de pie."
+      },
+      {
+        "zh": "他站在学校前面。",
+        "es": "Él está parado frente a la escuela."
+      },
+      {
+        "zh": "我们在下一站下。",
+        "es": "Nos bajamos en la próxima parada."
+      },
+      {
+        "zh": "他在那个站等了我们很长时间。",
+        "es": "Nos esperó mucho tiempo en esa estación."
+      }
+    ]
+  },
+  {
+    "word": "香港",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Hong Kong"
+    ],
+    "examples": [
+      {
+        "zh": "我去过香港。",
+        "es": "He ido a Hong Kong."
+      },
+      {
+        "zh": "我朋友在香港工作。",
+        "es": "Mi amigo trabaja en Hong Kong."
+      },
+      {
+        "zh": "香港的东西很好吃。",
+        "es": "La comida de Hong Kong es muy rica."
+      },
+      {
+        "zh": "从北京到香港要多长时间？",
+        "es": "¿Cuánto tiempo se tarda de Beijing a Hong Kong?"
+      }
+    ]
+  },
+  {
+    "word": "孩子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "niño; niña",
+      "hijo; hija"
+    ],
+    "examples": [
+      {
+        "zh": "这个孩子很小。",
+        "es": "Este niño es muy pequeño."
+      },
+      {
+        "zh": "你有孩子吗？",
+        "es": "¿Tienes hijos?"
+      },
+      {
+        "zh": "孩子们都喜欢吃这个。",
+        "es": "A todos los niños les gusta comer esto."
+      },
+      {
+        "zh": "她的孩子已经上大学了。",
+        "es": "Su hijo ya está en la universidad."
+      }
+    ]
+  },
+  {
+    "word": "生活",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vida",
+      "vivir",
+      "sustento; forma de ganarse la vida"
+    ],
+    "examples": [
+      {
+        "zh": "我很喜欢这里的生活。",
+        "es": "Me gusta mucho la vida aquí."
+      },
+      {
+        "zh": "他在北京生活了三年。",
+        "es": "Vivió tres años en Beijing."
+      },
+      {
+        "zh": "现在的生活比以前好多了。",
+        "es": "La vida ahora es mucho mejor que antes."
+      },
+      {
+        "zh": "因为工作，他一个人在日本生活。",
+        "es": "Por trabajo, él vive solo en Japón."
+      }
+    ]
+  },
+  {
+    "word": "写",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escribir"
+    ],
+    "examples": [
+      {
+        "zh": "我在写字。",
+        "es": "Estoy escribiendo."
+      },
+      {
+        "zh": "你会写中文吗？",
+        "es": "¿Sabes escribir en chino?"
+      },
+      {
+        "zh": "请把你的名字写在这里。",
+        "es": "Por favor, escribe tu nombre aquí."
+      },
+      {
+        "zh": "这本书是他二十岁的时候写的。",
+        "es": "Él escribió este libro cuando tenía veinte años."
+      }
+    ]
+  },
+  {
+    "word": "这种",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "este tipo de",
+      "esta clase de"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢这种电影。",
+        "es": "Me gusta este tipo de películas."
+      },
+      {
+        "zh": "这种东西很贵吗？",
+        "es": "¿Este tipo de cosas es caro?"
+      },
+      {
+        "zh": "这种问题我们以后再说吧。",
+        "es": "Este tipo de problemas lo hablamos después."
+      },
+      {
+        "zh": "在中国，很多人觉得这种事不重要。",
+        "es": "En China, mucha gente piensa que este tipo de cosas no es importante."
+      }
+    ]
+  },
+  {
+    "word": "元",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "yuan (unidad monetaria)",
+      "primero; original",
+      "básico; fundamental"
+    ],
+    "examples": [
+      {
+        "zh": "这个十元。",
+        "es": "Esto cuesta diez yuanes."
+      },
+      {
+        "zh": "一个苹果两元。",
+        "es": "Una manzana cuesta dos yuanes."
+      },
+      {
+        "zh": "我给了他一百元。",
+        "es": "Le di cien yuanes."
+      },
+      {
+        "zh": "这本书只要二十元，你买吗？",
+        "es": "Este libro solo cuesta veinte yuanes, ¿lo compras?"
+      }
+    ]
+  },
+  {
+    "word": "通过",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasar (por un lugar)",
+      "aprobar (un examen o una ley)",
+      "a través de; por medio de"
+    ],
+    "examples": [
+      {
+        "zh": "他通过了考试。",
+        "es": "Él aprobó el examen."
+      },
+      {
+        "zh": "我们是通过朋友认识的。",
+        "es": "Nos conocimos a través de un amigo."
+      },
+      {
+        "zh": "车不能从这里通过。",
+        "es": "Los autos no pueden pasar por aquí."
+      },
+      {
+        "zh": "政府已经通过了这个新计划。",
+        "es": "El gobierno ya aprobó este nuevo plan."
+      }
+    ]
+  },
+  {
+    "word": "打",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "golpear; pegar",
+      "jugar (ciertos deportes)",
+      "hacer (una llamada)",
+      "pelear"
+    ],
+    "examples": [
+      {
+        "zh": "不要打人！",
+        "es": "¡No le pegues a nadie!"
+      },
+      {
+        "zh": "我喜欢打球。",
+        "es": "Me gusta jugar a la pelota."
+      },
+      {
+        "zh": "我晚上给你打电话。",
+        "es": "Te llamo en la noche."
+      },
+      {
+        "zh": "他们打了两个小时的篮球。",
+        "es": "Ellos jugaron básquetbol durante dos horas."
+      }
+    ]
+  },
+  {
+    "word": "必须",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener que",
+      "deber; ser necesario"
+    ],
+    "examples": [
+      {
+        "zh": "你必须来。",
+        "es": "Tienes que venir."
+      },
+      {
+        "zh": "我们必须走了。",
+        "es": "Ya nos tenemos que ir."
+      },
+      {
+        "zh": "明天你必须早点到学校。",
+        "es": "Mañana tienes que llegar temprano a la escuela."
+      },
+      {
+        "zh": "如果想去中国工作，你必须会说中文。",
+        "es": "Si quieres ir a trabajar a China, tienes que saber hablar chino."
+      }
+    ]
+  },
+  {
+    "word": "非常",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muy; muchísimo",
+      "realmente",
+      "extraordinario; poco común"
+    ],
+    "examples": [
+      {
+        "zh": "今天非常热。",
+        "es": "Hoy hace muchísimo calor."
+      },
+      {
+        "zh": "我非常喜欢你。",
+        "es": "Me gustas mucho."
+      },
+      {
+        "zh": "这个问题非常重要。",
+        "es": "Este problema es muy importante."
+      },
+      {
+        "zh": "他觉得这次活动非常有意思。",
+        "es": "A él le pareció que esta actividad fue muy interesante."
+      }
+    ]
+  },
+  {
+    "word": "分",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dividir; repartir",
+      "minuto",
+      "punto (en un juego o examen)",
+      "centavo (de yuan)"
+    ],
+    "examples": [
+      {
+        "zh": "现在三点十分。",
+        "es": "Son las tres y diez."
+      },
+      {
+        "zh": "我们把钱分了吧。",
+        "es": "Repartamos el dinero."
+      },
+      {
+        "zh": "他这次考了九十分。",
+        "es": "Esta vez sacó noventa puntos en el examen."
+      },
+      {
+        "zh": "老师把学生分成了三个小组。",
+        "es": "El maestro dividió a los estudiantes en tres grupos."
+      }
+    ]
+  },
+  {
+    "word": "同时",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "al mismo tiempo",
+      "simultáneamente",
+      "a la vez; además"
+    ],
+    "examples": [
+      {
+        "zh": "他们同时到了。",
+        "es": "Llegaron al mismo tiempo."
+      },
+      {
+        "zh": "我不能同时做两件事。",
+        "es": "No puedo hacer dos cosas al mismo tiempo."
+      },
+      {
+        "zh": "她在工作，同时也在学中文。",
+        "es": "Ella trabaja y, al mismo tiempo, estudia chino."
+      },
+      {
+        "zh": "政府在发展经济的同时，也应该关心人民的生活。",
+        "es": "Mientras desarrolla la economía, el gobierno también debe ocuparse de la vida de la gente."
+      }
+    ]
+  },
+  {
+    "word": "见",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ver",
+      "encontrarse con; reunirse con",
+      "opinión; punto de vista"
+    ],
+    "examples": [
+      {
+        "zh": "明天见！",
+        "es": "¡Nos vemos mañana!"
+      },
+      {
+        "zh": "我很想见你。",
+        "es": "Tengo muchas ganas de verte."
+      },
+      {
+        "zh": "我昨天在学校见到了他。",
+        "es": "Ayer lo vi en la escuela."
+      },
+      {
+        "zh": "我们已经三年没见了，你还是一样。",
+        "es": "Hace tres años que no nos vemos y sigues igual."
+      }
+    ]
+  },
+  {
+    "word": "为了",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "para",
+      "con el fin de",
+      "por (alguien o algo)"
+    ],
+    "examples": [
+      {
+        "zh": "我来中国是为了学中文。",
+        "es": "Vine a China para estudiar chino."
+      },
+      {
+        "zh": "为了你，我什么都会做。",
+        "es": "Por ti, haría cualquier cosa."
+      },
+      {
+        "zh": "为了买房子，他们每天工作。",
+        "es": "Para comprar una casa, trabajan todos los días."
+      },
+      {
+        "zh": "为了看这个电影，我们很早就到了。",
+        "es": "Para ver esta película, llegamos muy temprano."
+      }
+    ]
+  },
+  {
+    "word": "叫",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llamarse",
+      "llamar (a alguien)",
+      "gritar",
+      "pedir; mandar (que alguien haga algo)"
+    ],
+    "examples": [
+      {
+        "zh": "你叫什么名字？",
+        "es": "¿Cómo te llamas?"
+      },
+      {
+        "zh": "他在外面大叫。",
+        "es": "Él está gritando afuera."
+      },
+      {
+        "zh": "妈妈叫你回家吃饭。",
+        "es": "Mamá dice que vengas a comer a la casa."
+      },
+      {
+        "zh": "这个东西中文叫什么？我不知道。",
+        "es": "¿Cómo se dice esto en chino? No sé."
+      }
+    ]
+  },
+  {
+    "word": "买",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comprar"
+    ],
+    "examples": [
+      {
+        "zh": "我想买这个。",
+        "es": "Quiero comprar esto."
+      },
+      {
+        "zh": "你买了什么？",
+        "es": "¿Qué compraste?"
+      },
+      {
+        "zh": "她给孩子买了一些新衣服。",
+        "es": "Ella le compró ropa nueva a su hijo."
+      },
+      {
+        "zh": "这个太贵了，我们去别的地方买吧。",
+        "es": "Esto está demasiado caro, vamos a comprarlo a otro lado."
+      }
+    ]
+  },
+  {
+    "word": "那些",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "esos; esas",
+      "aquellos; aquellas"
+    ],
+    "examples": [
+      {
+        "zh": "那些是什么？",
+        "es": "¿Qué son esos?"
+      },
+      {
+        "zh": "那些人是谁？",
+        "es": "¿Quiénes son esas personas?"
+      },
+      {
+        "zh": "那些书都是我的。",
+        "es": "Esos libros son todos míos."
+      },
+      {
+        "zh": "你还记得我们以前做过的那些事吗？",
+        "es": "¿Todavía te acuerdas de las cosas que hicimos antes?"
+      }
+    ]
+  },
+  {
+    "word": "所以",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por eso",
+      "así que",
+      "por lo tanto",
+      "la razón por la que"
+    ],
+    "examples": [
+      {
+        "zh": "我病了，所以没去。",
+        "es": "Estaba enfermo, por eso no fui."
+      },
+      {
+        "zh": "今天下雨，所以我不出去。",
+        "es": "Hoy llueve, así que no voy a salir."
+      },
+      {
+        "zh": "因为他很忙，所以不能来。",
+        "es": "Como está muy ocupado, no puede venir."
+      },
+      {
+        "zh": "我喜欢中国电影，所以开始学中文了。",
+        "es": "Me gustan las películas chinas, por eso empecé a estudiar chino."
+      }
+    ]
+  },
+  {
+    "word": "得到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "obtener; conseguir",
+      "recibir",
+      "ganarse"
+    ],
+    "examples": [
+      {
+        "zh": "你得到什么了？",
+        "es": "¿Qué conseguiste?"
+      },
+      {
+        "zh": "我得到了一个好工作。",
+        "es": "Conseguí un buen trabajo."
+      },
+      {
+        "zh": "她得到了大家的爱。",
+        "es": "Ella se ganó el cariño de todos."
+      },
+      {
+        "zh": "如果你想得到什么，就要自己去做。",
+        "es": "Si quieres conseguir algo, tienes que hacerlo tú mismo."
+      }
+    ]
+  }
+]

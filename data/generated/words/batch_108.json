@@ -1,0 +1,544 @@
+[
+  {
+    "word": "打破",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "romper",
+      "quebrar",
+      "batir (un récord)",
+      "acabar con (una costumbre o una regla)"
+    ],
+    "examples": [
+      {
+        "zh": "他打破了杯子。",
+        "es": "Él rompió el vaso."
+      },
+      {
+        "zh": "我不小心打破了碗。",
+        "es": "Sin querer rompí el tazón."
+      },
+      {
+        "zh": "她打破了世界纪录。",
+        "es": "Ella batió el récord mundial."
+      },
+      {
+        "zh": "我们要打破传统的想法，开始新的生活。",
+        "es": "Tenemos que romper con las ideas tradicionales y empezar una nueva vida."
+      }
+    ]
+  },
+  {
+    "word": "歌手",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cantante"
+    ],
+    "examples": [
+      {
+        "zh": "她是歌手。",
+        "es": "Ella es cantante."
+      },
+      {
+        "zh": "我很喜欢这个歌手。",
+        "es": "Me gusta mucho este cantante."
+      },
+      {
+        "zh": "这位歌手的歌非常好听。",
+        "es": "Las canciones de este cantante son muy bonitas."
+      },
+      {
+        "zh": "他从小就想成为一个有名的歌手。",
+        "es": "Desde niño quería ser un cantante famoso."
+      }
+    ]
+  },
+  {
+    "word": "火",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "fuego",
+      "incendio",
+      "popular, de moda",
+      "enojo"
+    ],
+    "examples": [
+      {
+        "zh": "火很热。",
+        "es": "El fuego está muy caliente."
+      },
+      {
+        "zh": "别玩火，很危险。",
+        "es": "No juegues con fuego, es peligroso."
+      },
+      {
+        "zh": "这个歌手现在特别火。",
+        "es": "Este cantante está muy de moda ahora."
+      },
+      {
+        "zh": "昨天晚上山上发生了大火，很多树都没了。",
+        "es": "Anoche hubo un gran incendio en la montaña y se perdieron muchos árboles."
+      }
+    ]
+  },
+  {
+    "word": "突出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "destacado, sobresaliente",
+      "resaltar, poner de relieve",
+      "evidente, notorio",
+      "sobresalir (físicamente)"
+    ],
+    "examples": [
+      {
+        "zh": "他的成绩很突出。",
+        "es": "Sus calificaciones son sobresalientes."
+      },
+      {
+        "zh": "她在公司表现突出。",
+        "es": "Ella tiene un desempeño destacado en la empresa."
+      },
+      {
+        "zh": "这篇文章突出了问题的重要性。",
+        "es": "Este artículo resalta la importancia del problema."
+      },
+      {
+        "zh": "这个地区的环境问题越来越突出了。",
+        "es": "Los problemas ambientales de esta región son cada vez más evidentes."
+      }
+    ]
+  },
+  {
+    "word": "修",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "reparar, arreglar",
+      "construir",
+      "tomar o cursar (una materia)",
+      "decorar, embellecer"
+    ],
+    "examples": [
+      {
+        "zh": "我爸爸会修车。",
+        "es": "Mi papá sabe reparar autos."
+      },
+      {
+        "zh": "我的手机坏了，要去修一下。",
+        "es": "Mi celular se descompuso, tengo que llevarlo a reparar."
+      },
+      {
+        "zh": "政府准备在这里修一条新路。",
+        "es": "El gobierno planea construir un camino nuevo aquí."
+      },
+      {
+        "zh": "这个学期我修了两门专业课，都很难。",
+        "es": "Este semestre tomé dos materias de la carrera y las dos son difíciles."
+      }
+    ]
+  },
+  {
+    "word": "职工",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "empleado",
+      "trabajador",
+      "personal (de una empresa)"
+    ],
+    "examples": [
+      {
+        "zh": "他是这家公司的职工。",
+        "es": "Él es empleado de esta empresa."
+      },
+      {
+        "zh": "工厂有三百个职工。",
+        "es": "La fábrica tiene trescientos trabajadores."
+      },
+      {
+        "zh": "公司给每个职工都买了礼物。",
+        "es": "La empresa le compró un regalo a cada empleado."
+      },
+      {
+        "zh": "职工们希望公司能提高他们的工资。",
+        "es": "Los empleados esperan que la empresa les suba el sueldo."
+      }
+    ]
+  },
+  {
+    "word": "带领",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "guiar",
+      "dirigir, encabezar",
+      "llevar (a un grupo)"
+    ],
+    "examples": [
+      {
+        "zh": "老师带领学生参观工厂。",
+        "es": "El maestro guió a los estudiantes en una visita a la fábrica."
+      },
+      {
+        "zh": "他带领球队赢了比赛。",
+        "es": "Él llevó al equipo a ganar el partido."
+      },
+      {
+        "zh": "在他的带领下，公司发展得很快。",
+        "es": "Bajo su dirección, la empresa creció muy rápido."
+      },
+      {
+        "zh": "她带领大家用了三年时间完成了这个项目。",
+        "es": "Ella dirigió a todos y en tres años terminaron este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "华人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "persona de origen chino",
+      "chinos (como comunidad étnica)"
+    ],
+    "examples": [
+      {
+        "zh": "他是华人。",
+        "es": "Él es de origen chino."
+      },
+      {
+        "zh": "这个城市有很多华人。",
+        "es": "En esta ciudad hay muchas personas de origen chino."
+      },
+      {
+        "zh": "很多华人在国外过春节。",
+        "es": "Muchos chinos celebran el Año Nuevo chino en el extranjero."
+      },
+      {
+        "zh": "我的华人朋友常常给我介绍中国的传统文化。",
+        "es": "Mi amigo de origen chino a menudo me explica la cultura tradicional china."
+      }
+    ]
+  },
+  {
+    "word": "加工",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "procesar",
+      "elaborar, transformar (materia prima)",
+      "procesamiento"
+    ],
+    "examples": [
+      {
+        "zh": "这个工厂加工水果。",
+        "es": "Esta fábrica procesa fruta."
+      },
+      {
+        "zh": "加工以后的食品不太健康。",
+        "es": "Los alimentos procesados no son muy saludables."
+      },
+      {
+        "zh": "这些肉要先加工，然后再卖。",
+        "es": "Esta carne primero se procesa y luego se vende."
+      },
+      {
+        "zh": "这家公司主要从事农产品的加工和销售。",
+        "es": "Esta empresa se dedica principalmente al procesamiento y la venta de productos agrícolas."
+      }
+    ]
+  },
+  {
+    "word": "离婚",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "divorciarse",
+      "divorcio"
+    ],
+    "examples": [
+      {
+        "zh": "他们离婚了。",
+        "es": "Ellos se divorciaron."
+      },
+      {
+        "zh": "她不想离婚。",
+        "es": "Ella no quiere divorciarse."
+      },
+      {
+        "zh": "我父母离婚的时候，我才五岁。",
+        "es": "Cuando mis padres se divorciaron, yo tenía apenas cinco años."
+      },
+      {
+        "zh": "他们结婚十年以后，还是决定离婚了。",
+        "es": "Después de diez años de casados, al final decidieron divorciarse."
+      }
+    ]
+  },
+  {
+    "word": "输入",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ingresar, introducir (datos)",
+      "escribir (en un teclado o pantalla)",
+      "importar",
+      "entrada (de datos)"
+    ],
+    "examples": [
+      {
+        "zh": "请输入你的名字。",
+        "es": "Por favor, ingresa tu nombre."
+      },
+      {
+        "zh": "我在手机上输入汉字。",
+        "es": "Escribo caracteres chinos en el celular."
+      },
+      {
+        "zh": "输入错误的话，系统会告诉你。",
+        "es": "Si ingresas algo incorrecto, el sistema te avisará."
+      },
+      {
+        "zh": "这个国家每年从国外输入大量的石油。",
+        "es": "Este país importa grandes cantidades de petróleo cada año."
+      }
+    ]
+  },
+  {
+    "word": "写作",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escribir (textos, obras)",
+      "escritura, redacción",
+      "obras escritas"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢写作。",
+        "es": "Me gusta escribir."
+      },
+      {
+        "zh": "她的写作能力很强。",
+        "es": "Ella tiene muy buena capacidad de redacción."
+      },
+      {
+        "zh": "他每天早上都花一个小时写作。",
+        "es": "Todas las mañanas dedica una hora a escribir."
+      },
+      {
+        "zh": "学好写作需要多读书，也需要多练习。",
+        "es": "Para escribir bien hay que leer mucho y también practicar mucho."
+      }
+    ]
+  },
+  {
+    "word": "压",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "presionar, apretar",
+      "aplastar, poner peso encima",
+      "contener, reprimir",
+      "presión"
+    ],
+    "examples": [
+      {
+        "zh": "别压我的手。",
+        "es": "No me aplastes la mano."
+      },
+      {
+        "zh": "他把纸压在书下面。",
+        "es": "Puso el papel debajo del libro para que no se moviera."
+      },
+      {
+        "zh": "他用手压住了门，不让它打开。",
+        "es": "Sostuvo la puerta con la mano para que no se abriera."
+      },
+      {
+        "zh": "他努力压住心里的不满，没有说话。",
+        "es": "Se esforzó por contener su descontento y no dijo nada."
+      }
+    ]
+  },
+  {
+    "word": "阳光",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "luz del sol, sol",
+      "alegre, optimista (persona)",
+      "transparente (abierto al público)"
+    ],
+    "examples": [
+      {
+        "zh": "今天阳光很好。",
+        "es": "Hoy hace un sol muy bonito."
+      },
+      {
+        "zh": "房间里有很多阳光。",
+        "es": "Al cuarto le entra mucho sol."
+      },
+      {
+        "zh": "他是一个很阳光的男孩。",
+        "es": "Es un chico muy alegre."
+      },
+      {
+        "zh": "早上的阳光照进房间，让人心情很好。",
+        "es": "El sol de la mañana entra en el cuarto y te pone de buen humor."
+      }
+    ]
+  },
+  {
+    "word": "支",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "(clasificador para lápices, plumas, canciones, equipos, etc.)",
+      "sostener, apoyar",
+      "rama, sucursal",
+      "retirar o pagar (dinero)"
+    ],
+    "examples": [
+      {
+        "zh": "我有一支笔。",
+        "es": "Tengo una pluma."
+      },
+      {
+        "zh": "她给我唱了一支歌。",
+        "es": "Ella me cantó una canción."
+      },
+      {
+        "zh": "他用手支着头，在想问题。",
+        "es": "Apoyaba la cabeza en la mano mientras pensaba en el problema."
+      },
+      {
+        "zh": "这支球队去年拿到了全国比赛的第一名。",
+        "es": "Este equipo ganó el primer lugar en el campeonato nacional el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "保",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "proteger, defender",
+      "conservar, mantener",
+      "garantizar, asegurar"
+    ],
+    "examples": [
+      {
+        "zh": "我保你满意。",
+        "es": "Te garantizo que vas a quedar satisfecho."
+      },
+      {
+        "zh": "他保住了工作。",
+        "es": "Logró conservar su trabajo."
+      },
+      {
+        "zh": "这次考试我保不住第一名了。",
+        "es": "En este examen ya no voy a poder mantener el primer lugar."
+      },
+      {
+        "zh": "医生说孩子的命保住了，大家都放心了。",
+        "es": "El médico dijo que le salvaron la vida al niño, y todos se tranquilizaron."
+      }
+    ]
+  },
+  {
+    "word": "创业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "emprender",
+      "iniciar un negocio",
+      "emprendimiento"
+    ],
+    "examples": [
+      {
+        "zh": "他想创业。",
+        "es": "Él quiere emprender."
+      },
+      {
+        "zh": "很多年轻人喜欢创业。",
+        "es": "A muchos jóvenes les gusta emprender."
+      },
+      {
+        "zh": "创业很难，需要很多钱和时间。",
+        "es": "Emprender es difícil; requiere mucho dinero y tiempo."
+      },
+      {
+        "zh": "他离开了大公司，和朋友一起回国创业。",
+        "es": "Dejó una gran empresa y regresó a su país para emprender con unos amigos."
+      }
+    ]
+  },
+  {
+    "word": "电视剧",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "serie de televisión",
+      "telenovela"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢看电视剧。",
+        "es": "Me gusta ver series de televisión."
+      },
+      {
+        "zh": "这部电视剧很好看。",
+        "es": "Esta serie está muy buena."
+      },
+      {
+        "zh": "妈妈每天晚上都看韩国电视剧。",
+        "es": "Mi mamá ve series coreanas todas las noches."
+      },
+      {
+        "zh": "这部电视剧的故事很有意思，我看了好几次。",
+        "es": "La historia de esta serie es muy interesante; la he visto varias veces."
+      }
+    ]
+  },
+  {
+    "word": "改进",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mejorar",
+      "perfeccionar",
+      "mejora"
+    ],
+    "examples": [
+      {
+        "zh": "我们要改进方法。",
+        "es": "Tenemos que mejorar el método."
+      },
+      {
+        "zh": "这个产品还需要改进。",
+        "es": "Este producto todavía necesita mejoras."
+      },
+      {
+        "zh": "老师帮我改进了我的作文。",
+        "es": "El maestro me ayudó a mejorar mi redacción."
+      },
+      {
+        "zh": "公司根据顾客的意见，改进了服务质量。",
+        "es": "La empresa mejoró la calidad del servicio según las opiniones de los clientes."
+      }
+    ]
+  },
+  {
+    "word": "个性",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "personalidad",
+      "individualidad",
+      "carácter"
+    ],
+    "examples": [
+      {
+        "zh": "她很有个性。",
+        "es": "Ella tiene mucha personalidad."
+      },
+      {
+        "zh": "每个孩子都有自己的个性。",
+        "es": "Cada niño tiene su propia personalidad."
+      },
+      {
+        "zh": "他的个性很强，不喜欢听别人的意见。",
+        "es": "Tiene un carácter muy fuerte y no le gusta escuchar las opiniones de los demás."
+      },
+      {
+        "zh": "好的教育应该让学生发展自己的个性。",
+        "es": "Una buena educación debe permitir que los estudiantes desarrollen su propia individualidad."
+      }
+    ]
+  }
+]

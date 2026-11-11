@@ -1,0 +1,535 @@
+[
+  {
+    "word": "岁",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "años (de edad)",
+      "edad",
+      "año"
+    ],
+    "examples": [
+      {
+        "zh": "我今年二十岁。",
+        "es": "Este año tengo veinte años."
+      },
+      {
+        "zh": "你几岁了？",
+        "es": "¿Cuántos años tienes?"
+      },
+      {
+        "zh": "她已经十八岁了，可以工作了。",
+        "es": "Ella ya tiene dieciocho años y puede trabajar."
+      },
+      {
+        "zh": "我二十岁的时候开始在北京工作。",
+        "es": "Empecé a trabajar en Pekín cuando tenía veinte años."
+      }
+    ]
+  },
+  {
+    "word": "政治",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "política",
+      "político"
+    ],
+    "examples": [
+      {
+        "zh": "我不喜欢政治。",
+        "es": "No me gusta la política."
+      },
+      {
+        "zh": "这是一个政治问题。",
+        "es": "Este es un problema político."
+      },
+      {
+        "zh": "他觉得政治很重要。",
+        "es": "Él cree que la política es muy importante."
+      },
+      {
+        "zh": "经济问题和政治问题一样重要。",
+        "es": "Los problemas económicos son tan importantes como los políticos."
+      }
+    ]
+  },
+  {
+    "word": "情况",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "situación",
+      "circunstancias",
+      "estado de las cosas"
+    ],
+    "examples": [
+      {
+        "zh": "现在情况怎么样？",
+        "es": "¿Cómo está la situación ahora?"
+      },
+      {
+        "zh": "这里的情况很好。",
+        "es": "La situación aquí es muy buena."
+      },
+      {
+        "zh": "我想知道他的情况。",
+        "es": "Quiero saber cómo está él."
+      },
+      {
+        "zh": "如果情况不好，我们就不去了。",
+        "es": "Si la situación no es buena, ya no vamos."
+      }
+    ]
+  },
+  {
+    "word": "家",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "casa, hogar",
+      "familia",
+      "clasificador para empresas y negocios",
+      "sufijo de especialista (-ista, -or)"
+    ],
+    "examples": [
+      {
+        "zh": "我在家。",
+        "es": "Estoy en casa."
+      },
+      {
+        "zh": "你家有几个人？",
+        "es": "¿Cuántas personas hay en tu familia?"
+      },
+      {
+        "zh": "这家公司很大。",
+        "es": "Esta empresa es muy grande."
+      },
+      {
+        "zh": "下午我们一起去你家吃饭吧。",
+        "es": "En la tarde vamos a comer juntos a tu casa."
+      }
+    ]
+  },
+  {
+    "word": "太",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "demasiado",
+      "muy",
+      "sumamente"
+    ],
+    "examples": [
+      {
+        "zh": "太好了！",
+        "es": "¡Qué bien!"
+      },
+      {
+        "zh": "这个太大了。",
+        "es": "Esto es demasiado grande."
+      },
+      {
+        "zh": "你说话太快了，请再说一次。",
+        "es": "Hablas demasiado rápido, por favor repítelo."
+      },
+      {
+        "zh": "这个问题不太重要，我们以后再说吧。",
+        "es": "Este tema no es tan importante, hablemos de eso después."
+      }
+    ]
+  },
+  {
+    "word": "不会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no saber (hacer algo)",
+      "no ir a (no va a pasar)",
+      "es poco probable"
+    ],
+    "examples": [
+      {
+        "zh": "我不会说中国话。",
+        "es": "No sé hablar chino."
+      },
+      {
+        "zh": "他不会来了。",
+        "es": "Él ya no va a venir."
+      },
+      {
+        "zh": "这样做不会有问题。",
+        "es": "Hacerlo así no va a causar problemas."
+      },
+      {
+        "zh": "如果你不说，他们不会知道这件事。",
+        "es": "Si tú no lo dices, ellos no se van a enterar de esto."
+      }
+    ]
+  },
+  {
+    "word": "最后",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "al final",
+      "último",
+      "finalmente"
+    ],
+    "examples": [
+      {
+        "zh": "这是最后一个。",
+        "es": "Este es el último."
+      },
+      {
+        "zh": "最后他来了。",
+        "es": "Al final, él vino."
+      },
+      {
+        "zh": "他是最后一个到公司的人。",
+        "es": "Él fue el último en llegar a la empresa."
+      },
+      {
+        "zh": "我们说了很多，最后还是没有做。",
+        "es": "Hablamos mucho, pero al final no lo hicimos."
+      }
+    ]
+  },
+  {
+    "word": "以及",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "y",
+      "así como",
+      "además de"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢中国以及日本的电影。",
+        "es": "Me gustan las películas de China y de Japón."
+      },
+      {
+        "zh": "学生以及老师都来了。",
+        "es": "Vinieron los estudiantes y también los maestros."
+      },
+      {
+        "zh": "请说说你的工作、家以及朋友。",
+        "es": "Por favor, cuéntanos de tu trabajo, tu familia y tus amigos."
+      },
+      {
+        "zh": "这个计划对经济、社会以及政治都很重要。",
+        "es": "Este plan es muy importante para la economía, la sociedad y la política."
+      }
+    ]
+  },
+  {
+    "word": "东西",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "cosa",
+      "objeto",
+      "(coloquial) persona, tipo"
+    ],
+    "examples": [
+      {
+        "zh": "这是什么东西？",
+        "es": "¿Qué es esto?"
+      },
+      {
+        "zh": "我想去买东西。",
+        "es": "Quiero ir de compras."
+      },
+      {
+        "zh": "我今天还没有吃东西。",
+        "es": "Hoy todavía no he comido nada."
+      },
+      {
+        "zh": "他的东西太多了，一个人拿不了。",
+        "es": "Tiene demasiadas cosas; una sola persona no puede cargarlas."
+      }
+    ]
+  },
+  {
+    "word": "组织",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "organizar",
+      "organización",
+      "(biología) tejido"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个国际组织。",
+        "es": "Esta es una organización internacional."
+      },
+      {
+        "zh": "谁来组织这个活动？",
+        "es": "¿Quién va a organizar esta actividad?"
+      },
+      {
+        "zh": "他在一个很大的组织里工作。",
+        "es": "Él trabaja en una organización muy grande."
+      },
+      {
+        "zh": "这个组织的工作对世界发展很重要。",
+        "es": "El trabajo de esta organización es muy importante para el desarrollo mundial."
+      }
+    ]
+  },
+  {
+    "word": "发生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasar",
+      "ocurrir",
+      "suceder"
+    ],
+    "examples": [
+      {
+        "zh": "发生了什么？",
+        "es": "¿Qué pasó?"
+      },
+      {
+        "zh": "这里发生了一件事。",
+        "es": "Aquí pasó algo."
+      },
+      {
+        "zh": "这种事以前也发生过。",
+        "es": "Esto ya había pasado antes."
+      },
+      {
+        "zh": "如果发生问题，请马上给我打电话。",
+        "es": "Si pasa algún problema, llámame de inmediato, por favor."
+      }
+    ]
+  },
+  {
+    "word": "开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abrir",
+      "encender, prender",
+      "manejar (un vehículo)",
+      "empezar, poner en marcha"
+    ],
+    "examples": [
+      {
+        "zh": "请开门。",
+        "es": "Abre la puerta, por favor."
+      },
+      {
+        "zh": "你可以开灯吗？",
+        "es": "¿Puedes prender la luz?"
+      },
+      {
+        "zh": "他会开车。",
+        "es": "Él sabe manejar."
+      },
+      {
+        "zh": "公司明天开会，我们要早点去。",
+        "es": "Mañana hay reunión en la empresa; tenemos que llegar temprano."
+      }
+    ]
+  },
+  {
+    "word": "其他",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "otro",
+      "los demás",
+      "el resto"
+    ],
+    "examples": [
+      {
+        "zh": "还有其他问题吗？",
+        "es": "¿Hay alguna otra pregunta?"
+      },
+      {
+        "zh": "其他人都走了。",
+        "es": "Los demás ya se fueron."
+      },
+      {
+        "zh": "我不喜欢这个，有其他的吗？",
+        "es": "No me gusta este, ¿tienes otro?"
+      },
+      {
+        "zh": "除了北京，你还去过中国其他地方吗？",
+        "es": "Además de Pekín, ¿has ido a otros lugares de China?"
+      }
+    ]
+  },
+  {
+    "word": "问",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "preguntar",
+      "consultar"
+    ],
+    "examples": [
+      {
+        "zh": "我可以问你一个问题吗？",
+        "es": "¿Puedo hacerte una pregunta?"
+      },
+      {
+        "zh": "你去问他吧。",
+        "es": "Ve a preguntarle a él."
+      },
+      {
+        "zh": "他问我今天去不去公司。",
+        "es": "Me preguntó si hoy iba a ir a la empresa."
+      },
+      {
+        "zh": "如果有不知道的事，可以问老师。",
+        "es": "Si hay algo que no sabes, puedes preguntarle al maestro."
+      }
+    ]
+  },
+  {
+    "word": "人民",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el pueblo",
+      "la gente"
+    ],
+    "examples": [
+      {
+        "zh": "这是人民的国家。",
+        "es": "Este es el país del pueblo."
+      },
+      {
+        "zh": "人民需要一个好政府。",
+        "es": "El pueblo necesita un buen gobierno."
+      },
+      {
+        "zh": "政府应该为人民工作。",
+        "es": "El gobierno debe trabajar para el pueblo."
+      },
+      {
+        "zh": "经济发展了，人民的生活也好了。",
+        "es": "Con el desarrollo económico, la vida de la gente también mejoró."
+      }
+    ]
+  },
+  {
+    "word": "大学",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "universidad"
+    ],
+    "examples": [
+      {
+        "zh": "我是大学生。",
+        "es": "Soy estudiante universitario."
+      },
+      {
+        "zh": "他在北京上大学。",
+        "es": "Él estudia en una universidad de Pekín."
+      },
+      {
+        "zh": "你在哪个大学学习？",
+        "es": "¿En qué universidad estudias?"
+      },
+      {
+        "zh": "大学的时候，我和他是很好的朋友。",
+        "es": "En la universidad, él y yo éramos muy buenos amigos."
+      }
+    ]
+  },
+  {
+    "word": "朋友",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "amigo, amiga"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的朋友。",
+        "es": "Él es mi amigo."
+      },
+      {
+        "zh": "我有很多中国朋友。",
+        "es": "Tengo muchos amigos chinos."
+      },
+      {
+        "zh": "周末我想和朋友去看电影。",
+        "es": "El fin de semana quiero ir al cine con mis amigos."
+      },
+      {
+        "zh": "如果你需要帮助，可以找你的朋友。",
+        "es": "Si necesitas ayuda, puedes buscar a tus amigos."
+      }
+    ]
+  },
+  {
+    "word": "网站",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sitio web",
+      "página web"
+    ],
+    "examples": [
+      {
+        "zh": "这是我们公司的网站。",
+        "es": "Este es el sitio web de nuestra empresa."
+      },
+      {
+        "zh": "你知道这个网站吗？",
+        "es": "¿Conoces este sitio web?"
+      },
+      {
+        "zh": "很多学生用这个网站学习中文。",
+        "es": "Muchos estudiantes usan este sitio web para estudiar chino."
+      },
+      {
+        "zh": "我在一个网站上看到了这个电影。",
+        "es": "Vi esta película en un sitio web."
+      }
+    ]
+  },
+  {
+    "word": "学校",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escuela",
+      "colegio"
+    ],
+    "examples": [
+      {
+        "zh": "我去学校。",
+        "es": "Voy a la escuela."
+      },
+      {
+        "zh": "我们的学校很大。",
+        "es": "Nuestra escuela es muy grande."
+      },
+      {
+        "zh": "你每天几点到学校？",
+        "es": "¿A qué hora llegas a la escuela todos los días?"
+      },
+      {
+        "zh": "这个学校的学生都很喜欢学习历史。",
+        "es": "A todos los estudiantes de esta escuela les gusta mucho estudiar historia."
+      }
+    ]
+  },
+  {
+    "word": "主要",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "principal",
+      "más importante",
+      "principalmente"
+    ],
+    "examples": [
+      {
+        "zh": "这是主要问题。",
+        "es": "Este es el problema principal."
+      },
+      {
+        "zh": "他的主要工作是什么？",
+        "es": "¿Cuál es su trabajo principal?"
+      },
+      {
+        "zh": "这家公司的主要问题是没有钱。",
+        "es": "El problema principal de esta empresa es que no tiene dinero."
+      },
+      {
+        "zh": "我来北京主要是为了学习中文。",
+        "es": "Vine a Pekín principalmente para estudiar chino."
+      }
+    ]
+  }
+]

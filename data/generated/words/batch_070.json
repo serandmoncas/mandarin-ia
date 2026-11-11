@@ -1,0 +1,540 @@
+[
+  {
+    "word": "就要",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar a punto de",
+      "ir a (muy pronto)",
+      "ya casi"
+    ],
+    "examples": [
+      {
+        "zh": "我就要走了。",
+        "es": "Ya me voy."
+      },
+      {
+        "zh": "火车就要开了。",
+        "es": "El tren está a punto de salir."
+      },
+      {
+        "zh": "明天就要考试了，我很担心。",
+        "es": "Mañana ya es el examen y estoy muy preocupado."
+      },
+      {
+        "zh": "下个月就要放假了，我们打算一起去旅游。",
+        "es": "El próximo mes empiezan las vacaciones y pensamos ir de viaje juntos."
+      }
+    ]
+  },
+  {
+    "word": "事业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "carrera profesional",
+      "causa; obra",
+      "empresa; proyecto",
+      "institución pública"
+    ],
+    "examples": [
+      {
+        "zh": "她的事业很成功。",
+        "es": "Su carrera es muy exitosa."
+      },
+      {
+        "zh": "他很重视自己的事业。",
+        "es": "Él le da mucha importancia a su carrera."
+      },
+      {
+        "zh": "教育是很重要的事业。",
+        "es": "La educación es una labor muy importante."
+      },
+      {
+        "zh": "为了事业，他很少回家看父母。",
+        "es": "Por su carrera, casi nunca vuelve a casa a ver a sus padres."
+      }
+    ]
+  },
+  {
+    "word": "片",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "rebanada; trozo delgado",
+      "película",
+      "clasificador para cosas planas y delgadas",
+      "extensión (de tierra, agua, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "我吃了一片面包。",
+        "es": "Me comí una rebanada de pan."
+      },
+      {
+        "zh": "这部片子很好看。",
+        "es": "Esta película está muy buena."
+      },
+      {
+        "zh": "医生让他每天吃两片药。",
+        "es": "El médico le dijo que tomara dos pastillas al día."
+      },
+      {
+        "zh": "下了一夜雪，外边一片白。",
+        "es": "Nevó toda la noche y afuera todo está blanco."
+      }
+    ]
+  },
+  {
+    "word": "数量",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cantidad",
+      "número (de cosas)",
+      "cuantitativo"
+    ],
+    "examples": [
+      {
+        "zh": "数量不多。",
+        "es": "La cantidad no es mucha."
+      },
+      {
+        "zh": "这些东西的数量很大。",
+        "es": "Hay una gran cantidad de estas cosas."
+      },
+      {
+        "zh": "学生的数量每年都在增加。",
+        "es": "El número de estudiantes aumenta cada año."
+      },
+      {
+        "zh": "我们要的不是数量，而是质量。",
+        "es": "Lo que queremos no es cantidad, sino calidad."
+      }
+    ]
+  },
+  {
+    "word": "推",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "empujar",
+      "posponer; aplazar",
+      "impulsar; promover",
+      "evadir (una responsabilidad)"
+    ],
+    "examples": [
+      {
+        "zh": "请推门。",
+        "es": "Empuje la puerta, por favor."
+      },
+      {
+        "zh": "他推了我一下。",
+        "es": "Él me dio un empujón."
+      },
+      {
+        "zh": "会议推到下星期了。",
+        "es": "La reunión se pospuso para la próxima semana."
+      },
+      {
+        "zh": "这是你的责任，不要推给别人。",
+        "es": "Es tu responsabilidad, no se la eches a otros."
+      }
+    ]
+  },
+  {
+    "word": "铁路",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ferrocarril",
+      "vía férrea; vías del tren"
+    ],
+    "examples": [
+      {
+        "zh": "这里有一条铁路。",
+        "es": "Aquí hay una vía de tren."
+      },
+      {
+        "zh": "铁路旁边很危险。",
+        "es": "Junto a las vías del tren es peligroso."
+      },
+      {
+        "zh": "我爸爸在铁路上工作。",
+        "es": "Mi papá trabaja en el ferrocarril."
+      },
+      {
+        "zh": "这条新铁路让两个城市更近了。",
+        "es": "Este nuevo ferrocarril acercó más a las dos ciudades."
+      }
+    ]
+  },
+  {
+    "word": "小组",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grupo",
+      "equipo (de trabajo o estudio)"
+    ],
+    "examples": [
+      {
+        "zh": "我们是一个小组。",
+        "es": "Somos un grupo."
+      },
+      {
+        "zh": "他是小组的负责人。",
+        "es": "Él es el responsable del grupo."
+      },
+      {
+        "zh": "老师让我们分小组讨论。",
+        "es": "El maestro nos pidió discutir en grupos."
+      },
+      {
+        "zh": "每个小组都要在下午五点前完成报告。",
+        "es": "Cada grupo tiene que terminar el informe antes de las cinco de la tarde."
+      }
+    ]
+  },
+  {
+    "word": "通常",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "normalmente",
+      "por lo general",
+      "habitual; común"
+    ],
+    "examples": [
+      {
+        "zh": "我通常七点起床。",
+        "es": "Normalmente me levanto a las siete."
+      },
+      {
+        "zh": "他通常不吃早饭。",
+        "es": "Por lo general él no desayuna."
+      },
+      {
+        "zh": "星期天我们通常在家休息。",
+        "es": "Los domingos normalmente descansamos en casa."
+      },
+      {
+        "zh": "这种情况通常不会发生，别太担心。",
+        "es": "Esto normalmente no pasa, no te preocupes tanto."
+      }
+    ]
+  },
+  {
+    "word": "文件",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "documento",
+      "archivo (de computadora)"
+    ],
+    "examples": [
+      {
+        "zh": "这是什么文件？",
+        "es": "¿Qué documento es este?"
+      },
+      {
+        "zh": "请把文件给我。",
+        "es": "Pásame el documento, por favor."
+      },
+      {
+        "zh": "我把文件放在电脑里了。",
+        "es": "Guardé el archivo en la computadora."
+      },
+      {
+        "zh": "这份文件很重要，开会前一定要看完。",
+        "es": "Este documento es muy importante; tienes que leerlo completo antes de la reunión."
+      }
+    ]
+  },
+  {
+    "word": "短",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "corto",
+      "breve",
+      "faltar; escasear",
+      "defecto; punto débil"
+    ],
+    "examples": [
+      {
+        "zh": "这条路很短。",
+        "es": "Este camino es muy corto."
+      },
+      {
+        "zh": "她的头发很短。",
+        "es": "Ella tiene el pelo muy corto."
+      },
+      {
+        "zh": "冬天白天短，晚上长。",
+        "es": "En invierno los días son cortos y las noches largas."
+      },
+      {
+        "zh": "时间太短了，我没能完成所有的工作。",
+        "es": "El tiempo fue muy poco y no pude terminar todo el trabajo."
+      }
+    ]
+  },
+  {
+    "word": "海",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "mar",
+      "océano",
+      "gran cantidad; multitud"
+    ],
+    "examples": [
+      {
+        "zh": "我想去看海。",
+        "es": "Quiero ir a ver el mar."
+      },
+      {
+        "zh": "今天的海水很冷。",
+        "es": "Hoy el agua del mar está muy fría."
+      },
+      {
+        "zh": "我家离海很近，走路五分钟就到。",
+        "es": "Mi casa está muy cerca del mar; se llega en cinco minutos caminando."
+      },
+      {
+        "zh": "广场上人山人海，我们找不到他。",
+        "es": "La plaza estaba llena de gente y no pudimos encontrarlo."
+      }
+    ]
+  },
+  {
+    "word": "主题",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tema",
+      "asunto principal"
+    ],
+    "examples": [
+      {
+        "zh": "今天的主题是什么？",
+        "es": "¿Cuál es el tema de hoy?"
+      },
+      {
+        "zh": "这部电影的主题是爱情。",
+        "es": "El tema de esta película es el amor."
+      },
+      {
+        "zh": "会议的主题是环境保护。",
+        "es": "El tema de la reunión es la protección del medio ambiente."
+      },
+      {
+        "zh": "请大家根据这个主题，每人写一篇文章。",
+        "es": "Por favor, cada uno escriba un texto sobre este tema."
+      }
+    ]
+  },
+  {
+    "word": "脚",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pie",
+      "pata (de animal o mueble)",
+      "base; pie (de una montaña)"
+    ],
+    "examples": [
+      {
+        "zh": "我的脚很大。",
+        "es": "Tengo los pies muy grandes."
+      },
+      {
+        "zh": "请把脚放下来。",
+        "es": "Baja los pies, por favor."
+      },
+      {
+        "zh": "我们走到了山脚下。",
+        "es": "Llegamos al pie de la montaña."
+      },
+      {
+        "zh": "走了一天路，我的脚又累又疼。",
+        "es": "Después de caminar todo el día, tengo los pies cansados y adoloridos."
+      }
+    ]
+  },
+  {
+    "word": "入",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrar",
+      "ingresar; unirse a",
+      "adecuarse a"
+    ],
+    "examples": [
+      {
+        "zh": "入口在这里。",
+        "es": "La entrada está aquí."
+      },
+      {
+        "zh": "请从东门入场。",
+        "es": "Por favor, entren por la puerta este."
+      },
+      {
+        "zh": "他今年九月入学。",
+        "es": "Él entra a la escuela en septiembre de este año."
+      },
+      {
+        "zh": "他看书看得入了迷，连饭都忘了吃。",
+        "es": "Estaba tan metido en el libro que hasta se olvidó de comer."
+      }
+    ]
+  },
+  {
+    "word": "市长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alcalde",
+      "alcaldesa"
+    ],
+    "examples": [
+      {
+        "zh": "他是市长。",
+        "es": "Él es el alcalde."
+      },
+      {
+        "zh": "市长今天来我们学校了。",
+        "es": "El alcalde vino hoy a nuestra escuela."
+      },
+      {
+        "zh": "新市长要求大家保护环境。",
+        "es": "El nuevo alcalde pidió a todos que cuiden el medio ambiente."
+      },
+      {
+        "zh": "记者问市长怎么解决交通问题。",
+        "es": "El periodista le preguntó al alcalde cómo resolvería el problema del tráfico."
+      }
+    ]
+  },
+  {
+    "word": "再次",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "otra vez",
+      "de nuevo",
+      "una vez más"
+    ],
+    "examples": [
+      {
+        "zh": "我们再次见面了。",
+        "es": "Nos volvimos a ver."
+      },
+      {
+        "zh": "谢谢你再次来看我。",
+        "es": "Gracias por venir a verme otra vez."
+      },
+      {
+        "zh": "他再次说明了自己的想法。",
+        "es": "Él volvió a explicar su idea."
+      },
+      {
+        "zh": "如果再次发生这种问题，请马上告诉我。",
+        "es": "Si vuelve a pasar este problema, avísame de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "及其",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "y su(s)",
+      "así como su(s)"
+    ],
+    "examples": [
+      {
+        "zh": "学生及其家人都来了。",
+        "es": "Vinieron los estudiantes y sus familias."
+      },
+      {
+        "zh": "我们要了解这个问题及其原因。",
+        "es": "Tenemos que entender este problema y sus causas."
+      },
+      {
+        "zh": "这本书介绍了这位作家及其作品。",
+        "es": "Este libro presenta a este escritor y su obra."
+      },
+      {
+        "zh": "这个城市及其附近地区的交通越来越方便。",
+        "es": "El transporte en esta ciudad y sus alrededores es cada vez más cómodo."
+      }
+    ]
+  },
+  {
+    "word": "前年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el año antepasado",
+      "hace dos años"
+    ],
+    "examples": [
+      {
+        "zh": "我前年去了北京。",
+        "es": "Fui a Pekín hace dos años."
+      },
+      {
+        "zh": "前年他还是学生。",
+        "es": "El año antepasado él todavía era estudiante."
+      },
+      {
+        "zh": "我们是前年认识的。",
+        "es": "Nos conocimos hace dos años."
+      },
+      {
+        "zh": "前年我在上海工作，去年才回家。",
+        "es": "Hace dos años trabajaba en Shanghái; apenas el año pasado volví a casa."
+      }
+    ]
+  },
+  {
+    "word": "发行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "publicar",
+      "lanzar (al mercado)",
+      "emitir (moneda, acciones)",
+      "distribuir"
+    ],
+    "examples": [
+      {
+        "zh": "这本书明年发行。",
+        "es": "Este libro se publica el próximo año."
+      },
+      {
+        "zh": "这部电影什么时候发行？",
+        "es": "¿Cuándo se estrena esta película?"
+      },
+      {
+        "zh": "他的新歌下个月发行。",
+        "es": "Su nueva canción sale el próximo mes."
+      },
+      {
+        "zh": "这家报纸已经发行了五十多年。",
+        "es": "Este periódico se publica desde hace más de cincuenta años."
+      }
+    ]
+  },
+  {
+    "word": "刚才",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hace un momento",
+      "hace un rato",
+      "recién"
+    ],
+    "examples": [
+      {
+        "zh": "刚才谁来了？",
+        "es": "¿Quién vino hace un momento?"
+      },
+      {
+        "zh": "你刚才说什么？",
+        "es": "¿Qué dijiste hace un momento?"
+      },
+      {
+        "zh": "刚才下了一场大雨。",
+        "es": "Hace un rato cayó un aguacero."
+      },
+      {
+        "zh": "对不起，我刚才在开会，没听到你的电话。",
+        "es": "Perdón, hace un rato estaba en una reunión y no escuché tu llamada."
+      }
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "word:其次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9eefad3d1b1b2d73e1d49328e461ea6b42b1571a"
+  },
+  {
+    "id": "word:玩具",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40ecc1f36357b858fa8516c57566e9661ebdf96e"
+  },
+  {
+    "id": "word:温暖",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c3b37ab2300a31085422faff3133fc95b3f1f963"
+  },
+  {
+    "id": "word:一方面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8216ff276e5cc179cacda6f0c86ede759b796c83"
+  },
+  {
+    "id": "word:福",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: «yī jiā rén» debería ser «yì jiā rén», con el cambio tonal que se aplica en los demás ejemplos."
+    ],
+    "content_hash": "f70e9553209ee31ed3461716788084080cbf3c5f"
+  },
+  {
+    "id": "word:热爱",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: «yī míng» debería ser «yì míng», por el cambio tonal de 一."
+    ],
+    "content_hash": "51958dea4880771528ec7601638ba35098621fe2"
+  },
+  {
+    "id": "word:糖",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «我不吃糖» se entiende normalmente como «No como dulces» y no como «no como azúcar».",
+      "Ejemplo 2: «你的咖啡要加糖吗？» es un ofrecimiento («¿Quieres azúcar en tu café?»), no una pregunta sobre un hábito («¿Le pones azúcar…?»)."
+    ],
+    "content_hash": "c00559f02e344fce50a634ba453670079d18bda6"
+  },
+  {
+    "id": "word:初中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5c2fd85e4849389a90346baaa670932d159f02d2"
+  },
+  {
+    "id": "word:带动",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: «dài dòng liǎo» debería ser «dài dòng le».",
+      "Pinyin del ejemplo 4: «dàng dì» debería ser «dāng dì» (当地)."
+    ],
+    "content_hash": "9fe635ff8cea58664e5d4ed5243f06309e84f22d"
+  },
+  {
+    "id": "word:高速公路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "821b3414c14158a50760c65bec6ddd3a5781c245"
+  },
+  {
+    "id": "word:胜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e84e5a20383aa4b0de2efc1616cb027dbf43d4f7"
+  },
+  {
+    "id": "word:土",
+    "ok": true,
+    "issues": [],
+    "content_hash": "84cd76dbf7d791fe17c6d6f0630e6fdd06c7698b"
+  },
+  {
+    "id": "word:只好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "18827e60635c31c3dbb23217db455ddb86ecfbf2"
+  },
+  {
+    "id": "word:补",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: «bǔ yī xià» debería ser «bǔ yí xià».",
+      "Pinyin del ejemplo 4: «dōng xī» debería ser «dōng xi», con tono neutro en el sentido de «cosas»."
+    ],
+    "content_hash": "15b00c93b1af738a5d9975dcaf9a7e997be70ea6"
+  },
+  {
+    "id": "word:好奇",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: el 地 adverbial se lee «de», no «dì»."
+    ],
+    "content_hash": "4045c8a863f49d161e7ee8b8d102bb941a97da29"
+  },
+  {
+    "id": "word:普及",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d9668363f0a49c505840b1e505fa7d145c6420bd"
+  },
+  {
+    "id": "word:营养",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34af412b95ca179abcd0dc20fc32e4844d686d66"
+  },
+  {
+    "id": "word:把握",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f618eca502186111b6423fb9dc903d2629bb6076"
+  },
+  {
+    "id": "word:坚强",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1cedcb692b4a7c90d5857695523a2bdf06799544"
+  },
+  {
+    "id": "word:交往",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ff7cbbdb53b006ffd0fff92cae9208aa762a959"
+  },
+  {
+    "id": "word:旅馆",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: «yī jiā» debería ser «yì jiā», por el cambio tonal de 一."
+    ],
+    "content_hash": "808a9d576dcbaa878567a84d2bd3df313fd5fe0c"
+  },
+  {
+    "id": "word:热烈",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: el 地 adverbial se lee «de», no «dì»."
+    ],
+    "content_hash": "7f705ff59b02419479689b2ff8305363eb579f50"
+  },
+  {
+    "id": "word:游",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: el 得 complemento se lee «de», no «dé».",
+      "Ejemplo 2: «我会游» suena poco natural; lo habitual es «我会游泳»."
+    ],
+    "content_hash": "66132dcd0f8accc295d491b063409565c05c660e"
+  },
+  {
+    "id": "word:存",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 照片 se lee «zhào piàn» en la norma actual; «piān» es una lectura coloquial o antigua."
+    ],
+    "content_hash": "0447d6d7f27a4d4849935bf428b842b15ead4e07"
+  },
+  {
+    "id": "word:队员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad561ac7b110bcc3bfd94c03639977b10ea1bcbc"
+  }
+]

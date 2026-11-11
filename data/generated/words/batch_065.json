@@ -1,0 +1,536 @@
+[
+  {
+    "word": "嘛",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "partícula que indica que algo es obvio",
+      "partícula de pausa o énfasis",
+      "pues, anda (para animar o insistir)"
+    ],
+    "examples": [
+      {
+        "zh": "你说嘛。",
+        "es": "Anda, dilo."
+      },
+      {
+        "zh": "这是我的书嘛。",
+        "es": "Pues este es mi libro."
+      },
+      {
+        "zh": "别生气嘛，我们一起去吃饭吧。",
+        "es": "No te enojes, vamos a comer juntos."
+      },
+      {
+        "zh": "他是老师嘛，当然知道这个问题。",
+        "es": "Es maestro, claro que conoce este tema."
+      }
+    ]
+  },
+  {
+    "word": "刚刚",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hace un momento",
+      "acabar de (hacer algo)",
+      "recién"
+    ],
+    "examples": [
+      {
+        "zh": "我刚刚回家。",
+        "es": "Acabo de llegar a casa."
+      },
+      {
+        "zh": "他刚刚走了。",
+        "es": "Se acaba de ir."
+      },
+      {
+        "zh": "你刚刚说什么？",
+        "es": "¿Qué acabas de decir?"
+      },
+      {
+        "zh": "我刚刚给妈妈打电话，她说明天回来。",
+        "es": "Acabo de llamar a mamá y dice que regresa mañana."
+      }
+    ]
+  },
+  {
+    "word": "国务院",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Consejo de Estado (China)",
+      "Departamento de Estado (EE. UU.)"
+    ],
+    "examples": [
+      {
+        "zh": "国务院在北京。",
+        "es": "El Consejo de Estado está en Beijing."
+      },
+      {
+        "zh": "他在国务院工作。",
+        "es": "Él trabaja en el Consejo de Estado."
+      },
+      {
+        "zh": "国务院今天发布了新政策。",
+        "es": "El Consejo de Estado publicó hoy una nueva política."
+      },
+      {
+        "zh": "国务院总理是中国政府的领导。",
+        "es": "El primer ministro del Consejo de Estado es el líder del gobierno chino."
+      }
+    ]
+  },
+  {
+    "word": "科",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "materia, asignatura",
+      "sección, departamento",
+      "rama, especialidad",
+      "familia (en biología)"
+    ],
+    "examples": [
+      {
+        "zh": "你最喜欢哪科？",
+        "es": "¿Qué materia te gusta más?"
+      },
+      {
+        "zh": "我在医院的外科工作。",
+        "es": "Trabajo en el área de cirugía del hospital."
+      },
+      {
+        "zh": "这次考试，我每科都考得很好。",
+        "es": "En este examen me fue bien en todas las materias."
+      },
+      {
+        "zh": "他是我们公司技术科的负责人。",
+        "es": "Él es el responsable de la sección técnica de nuestra empresa."
+      }
+    ]
+  },
+  {
+    "word": "失败",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fracasar",
+      "fracaso",
+      "ser derrotado",
+      "derrota"
+    ],
+    "examples": [
+      {
+        "zh": "我失败了。",
+        "es": "Fracasé."
+      },
+      {
+        "zh": "他的计划失败了。",
+        "es": "Su plan fracasó."
+      },
+      {
+        "zh": "失败是成功之母。",
+        "es": "El fracaso es la madre del éxito."
+      },
+      {
+        "zh": "虽然这次失败了，但是我们会继续努力。",
+        "es": "Aunque esta vez fracasamos, vamos a seguir esforzándonos."
+      }
+    ]
+  },
+  {
+    "word": "战略",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estrategia",
+      "estratégico"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个好战略。",
+        "es": "Esta es una buena estrategia."
+      },
+      {
+        "zh": "公司需要新的战略。",
+        "es": "La empresa necesita una nueva estrategia."
+      },
+      {
+        "zh": "两国建立了战略合作关系。",
+        "es": "Los dos países establecieron una relación de cooperación estratégica."
+      },
+      {
+        "zh": "政府提出了发展经济的长期战略。",
+        "es": "El gobierno propuso una estrategia a largo plazo para desarrollar la economía."
+      }
+    ]
+  },
+  {
+    "word": "特点",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "característica",
+      "rasgo",
+      "particularidad"
+    ],
+    "examples": [
+      {
+        "zh": "他有什么特点？",
+        "es": "¿Qué características tiene él?"
+      },
+      {
+        "zh": "这个城市的特点是什么？",
+        "es": "¿Qué caracteriza a esta ciudad?"
+      },
+      {
+        "zh": "每个人都有自己的特点。",
+        "es": "Cada persona tiene sus propios rasgos."
+      },
+      {
+        "zh": "这个电脑的特点是小，用起来很方便。",
+        "es": "Lo que caracteriza a esta computadora es que es pequeña y muy práctica de usar."
+      }
+    ]
+  },
+  {
+    "word": "教授",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "profesor universitario",
+      "catedrático"
+    ],
+    "examples": [
+      {
+        "zh": "他是大学教授。",
+        "es": "Él es profesor universitario."
+      },
+      {
+        "zh": "王教授今天不来。",
+        "es": "El profesor Wang no viene hoy."
+      },
+      {
+        "zh": "我爸爸是北京大学的教授。",
+        "es": "Mi papá es profesor de la Universidad de Pekín."
+      },
+      {
+        "zh": "那位教授研究中国历史已经二十年了。",
+        "es": "Ese profesor lleva veinte años investigando la historia de China."
+      }
+    ]
+  },
+  {
+    "word": "英文",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "inglés (idioma)"
+    ],
+    "examples": [
+      {
+        "zh": "你会说英文吗？",
+        "es": "¿Sabes hablar inglés?"
+      },
+      {
+        "zh": "这本书是英文的。",
+        "es": "Este libro está en inglés."
+      },
+      {
+        "zh": "我每天晚上学习一个小时英文。",
+        "es": "Todas las noches estudio inglés una hora."
+      },
+      {
+        "zh": "他的英文很好，所以公司让他去美国工作。",
+        "es": "Su inglés es muy bueno, así que la empresa lo mandó a trabajar a Estados Unidos."
+      }
+    ]
+  },
+  {
+    "word": "王",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Wang (apellido chino)"
+    ],
+    "examples": [
+      {
+        "zh": "我姓王。",
+        "es": "Me apellido Wang."
+      },
+      {
+        "zh": "王老师是我的中文老师。",
+        "es": "La maestra Wang es mi profesora de chino."
+      },
+      {
+        "zh": "王先生在银行工作。",
+        "es": "El señor Wang trabaja en un banco."
+      },
+      {
+        "zh": "王小姐昨天给我打电话，说她下个月去上海。",
+        "es": "La señorita Wang me llamó ayer y me dijo que el próximo mes va a Shanghái."
+      }
+    ]
+  },
+  {
+    "word": "重视",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dar importancia a",
+      "valorar",
+      "tomar en serio"
+    ],
+    "examples": [
+      {
+        "zh": "我很重视这件事。",
+        "es": "Le doy mucha importancia a este asunto."
+      },
+      {
+        "zh": "老师很重视学生的意见。",
+        "es": "El maestro valora mucho las opiniones de los estudiantes."
+      },
+      {
+        "zh": "政府非常重视教育问题。",
+        "es": "El gobierno le da mucha importancia a la educación."
+      },
+      {
+        "zh": "我们应该重视环境保护，不要破坏自然。",
+        "es": "Debemos tomar en serio la protección del medio ambiente y no dañar la naturaleza."
+      }
+    ]
+  },
+  {
+    "word": "编辑",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "editar",
+      "editor",
+      "compilar"
+    ],
+    "examples": [
+      {
+        "zh": "他是一名编辑。",
+        "es": "Él es editor."
+      },
+      {
+        "zh": "我在编辑一篇文章。",
+        "es": "Estoy editando un artículo."
+      },
+      {
+        "zh": "这本书的编辑是我的朋友。",
+        "es": "El editor de este libro es mi amigo."
+      },
+      {
+        "zh": "你写完以后，请把文章发给编辑看看。",
+        "es": "Cuando termines de escribir, mándale el artículo al editor para que lo revise."
+      }
+    ]
+  },
+  {
+    "word": "出口",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salida",
+      "exportar",
+      "exportación",
+      "decir, pronunciar"
+    ],
+    "examples": [
+      {
+        "zh": "出口在哪里？",
+        "es": "¿Dónde está la salida?"
+      },
+      {
+        "zh": "请从左边的出口出去。",
+        "es": "Por favor, salga por la salida de la izquierda."
+      },
+      {
+        "zh": "中国向很多国家出口产品。",
+        "es": "China exporta productos a muchos países."
+      },
+      {
+        "zh": "今年这家公司的出口增长了很多。",
+        "es": "Este año las exportaciones de esta empresa crecieron mucho."
+      }
+    ]
+  },
+  {
+    "word": "联盟",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alianza",
+      "unión",
+      "coalición",
+      "liga"
+    ],
+    "examples": [
+      {
+        "zh": "他们成立了一个联盟。",
+        "es": "Ellos formaron una alianza."
+      },
+      {
+        "zh": "欧洲联盟有很多国家。",
+        "es": "La Unión Europea tiene muchos países."
+      },
+      {
+        "zh": "两个国家决定建立联盟。",
+        "es": "Los dos países decidieron formar una alianza."
+      },
+      {
+        "zh": "这个联盟的目标是保护地区和平。",
+        "es": "El objetivo de esta coalición es proteger la paz en la región."
+      }
+    ]
+  },
+  {
+    "word": "质量",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "calidad",
+      "masa (física)"
+    ],
+    "examples": [
+      {
+        "zh": "这件衣服质量很好。",
+        "es": "Esta ropa es de muy buena calidad."
+      },
+      {
+        "zh": "这家店的东西质量不错。",
+        "es": "Las cosas de esta tienda son de buena calidad."
+      },
+      {
+        "zh": "我们要提高产品的质量。",
+        "es": "Tenemos que mejorar la calidad de los productos."
+      },
+      {
+        "zh": "价格虽然贵一点，但是质量比别的好多了。",
+        "es": "Aunque el precio es un poco más alto, la calidad es mucho mejor que la de los demás."
+      }
+    ]
+  },
+  {
+    "word": "高级",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "avanzado",
+      "de alto nivel",
+      "de lujo, fino",
+      "de alto rango"
+    ],
+    "examples": [
+      {
+        "zh": "这是高级汉语课。",
+        "es": "Esta es una clase de chino avanzado."
+      },
+      {
+        "zh": "他住在一家高级饭店。",
+        "es": "Él se hospeda en un hotel de lujo."
+      },
+      {
+        "zh": "我姐姐是一名高级工程师。",
+        "es": "Mi hermana mayor es ingeniera de alto nivel."
+      },
+      {
+        "zh": "我学了三年中文，现在可以上高级班了。",
+        "es": "Estudié chino tres años y ya puedo entrar al curso avanzado."
+      }
+    ]
+  },
+  {
+    "word": "资本",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "capital (economía)",
+      "recurso, ventaja"
+    ],
+    "examples": [
+      {
+        "zh": "开公司需要资本。",
+        "es": "Para abrir una empresa se necesita capital."
+      },
+      {
+        "zh": "这家公司的资本很多。",
+        "es": "Esta empresa tiene mucho capital."
+      },
+      {
+        "zh": "外国资本进入了中国市场。",
+        "es": "El capital extranjero entró al mercado chino."
+      },
+      {
+        "zh": "年轻就是你最大的资本。",
+        "es": "Ser joven es tu mayor ventaja."
+      }
+    ]
+  },
+  {
+    "word": "街",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "calle"
+    ],
+    "examples": [
+      {
+        "zh": "这条街很长。",
+        "es": "Esta calle es muy larga."
+      },
+      {
+        "zh": "我家在这条街上。",
+        "es": "Mi casa está en esta calle."
+      },
+      {
+        "zh": "晚上我们一起去街上走走吧。",
+        "es": "En la noche vamos a dar una vuelta por la calle."
+      },
+      {
+        "zh": "这条街上有很多商店和饭店，星期天人非常多。",
+        "es": "En esta calle hay muchas tiendas y restaurantes, y los domingos hay muchísima gente."
+      }
+    ]
+  },
+  {
+    "word": "阶段",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "etapa",
+      "fase",
+      "período"
+    ],
+    "examples": [
+      {
+        "zh": "这是第一阶段。",
+        "es": "Esta es la primera etapa."
+      },
+      {
+        "zh": "现在是最重要的阶段。",
+        "es": "Ahora es la etapa más importante."
+      },
+      {
+        "zh": "我们的计划已经到了第二阶段。",
+        "es": "Nuestro plan ya llegó a la segunda fase."
+      },
+      {
+        "zh": "每个人在不同的阶段都有不同的问题。",
+        "es": "Cada persona tiene problemas distintos en cada etapa."
+      }
+    ]
+  },
+  {
+    "word": "开心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar contento, alegre",
+      "pasarla bien",
+      "burlarse de alguien"
+    ],
+    "examples": [
+      {
+        "zh": "我今天很开心。",
+        "es": "Hoy estoy muy contento."
+      },
+      {
+        "zh": "见到你我很开心。",
+        "es": "Me alegra mucho verte."
+      },
+      {
+        "zh": "昨天我们在朋友家玩得很开心。",
+        "es": "Ayer la pasamos muy bien en casa de un amigo."
+      },
+      {
+        "zh": "只要家人身体健康，我每天都很开心。",
+        "es": "Mientras mi familia tenga buena salud, yo estoy feliz todos los días."
+      }
+    ]
+  }
+]

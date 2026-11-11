@@ -1,0 +1,545 @@
+[
+  {
+    "word": "常",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "a menudo",
+      "frecuentemente",
+      "común",
+      "constante"
+    ],
+    "examples": [
+      {
+        "zh": "我常去北京。",
+        "es": "Voy a Beijing a menudo."
+      },
+      {
+        "zh": "他常给妈妈打电话。",
+        "es": "Él llama a su mamá con frecuencia."
+      },
+      {
+        "zh": "我们常在一起吃东西。",
+        "es": "Muchas veces comemos juntos."
+      },
+      {
+        "zh": "他小时候常和朋友在学校外面跑。",
+        "es": "De niño, a menudo corría con sus amigos afuera de la escuela."
+      }
+    ]
+  },
+  {
+    "word": "过去",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasado",
+      "antes, anteriormente",
+      "pasar (por un lugar)",
+      "ir hacia allá"
+    ],
+    "examples": [
+      {
+        "zh": "过去的事就别想了。",
+        "es": "Ya no pienses en lo que pasó."
+      },
+      {
+        "zh": "过去我不喜欢吃这个。",
+        "es": "Antes no me gustaba comer esto."
+      },
+      {
+        "zh": "你先过去，我一会儿就来。",
+        "es": "Ve tú primero, yo llego en un momento."
+      },
+      {
+        "zh": "过去十年，这个城市发展得非常快。",
+        "es": "En los últimos diez años, esta ciudad se ha desarrollado muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "电",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "electricidad",
+      "luz (corriente eléctrica)",
+      "eléctrico",
+      "batería (carga)"
+    ],
+    "examples": [
+      {
+        "zh": "家里没电了。",
+        "es": "Se fue la luz en la casa."
+      },
+      {
+        "zh": "我的手机没电了。",
+        "es": "Mi celular se quedó sin batería."
+      },
+      {
+        "zh": "现在有很多电动汽车。",
+        "es": "Ahora hay muchos autos eléctricos."
+      },
+      {
+        "zh": "用电的时候一定要注意安全。",
+        "es": "Cuando uses la electricidad, siempre ten cuidado."
+      }
+    ]
+  },
+  {
+    "word": "单位",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lugar de trabajo",
+      "institución, entidad",
+      "unidad (de medida)"
+    ],
+    "examples": [
+      {
+        "zh": "你在哪个单位工作？",
+        "es": "¿En qué institución trabajas?"
+      },
+      {
+        "zh": "我们单位有三百个人。",
+        "es": "En mi trabajo somos trescientas personas."
+      },
+      {
+        "zh": "“米”是一个长度单位。",
+        "es": "El \"metro\" es una unidad de longitud."
+      },
+      {
+        "zh": "他的单位离家很远，每天要坐一个小时车。",
+        "es": "Su trabajo queda muy lejos de su casa; todos los días viaja una hora."
+      }
+    ]
+  },
+  {
+    "word": "回答",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "responder, contestar",
+      "respuesta"
+    ],
+    "examples": [
+      {
+        "zh": "请回答我的问题。",
+        "es": "Por favor, responde mi pregunta."
+      },
+      {
+        "zh": "他没有回答。",
+        "es": "Él no contestó."
+      },
+      {
+        "zh": "这个问题太难了，我回答不了。",
+        "es": "Esta pregunta es demasiado difícil, no puedo responderla."
+      },
+      {
+        "zh": "老师问了很多问题，她都回答得很好。",
+        "es": "La maestra hizo muchas preguntas y ella las respondió todas muy bien."
+      }
+    ]
+  },
+  {
+    "word": "道",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "camino",
+      "principio, razón",
+      "clasificador para preguntas, platillos, puertas, etc.",
+      "decir (en narraciones)"
+    ],
+    "examples": [
+      {
+        "zh": "这道题很难。",
+        "es": "Esta pregunta es difícil."
+      },
+      {
+        "zh": "这是一道中国菜。",
+        "es": "Este es un platillo chino."
+      },
+      {
+        "zh": "他笑着说道：“我明白了。”",
+        "es": "Él dijo sonriendo: \"Ya entendí\"."
+      },
+      {
+        "zh": "老师给了我们五道题，我只做出来三道。",
+        "es": "El maestro nos dio cinco ejercicios y solo pude resolver tres."
+      }
+    ]
+  },
+  {
+    "word": "有时",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a veces",
+      "de vez en cuando"
+    ],
+    "examples": [
+      {
+        "zh": "我有时去北京。",
+        "es": "A veces voy a Beijing."
+      },
+      {
+        "zh": "他有时很忙。",
+        "es": "A veces él está muy ocupado."
+      },
+      {
+        "zh": "我有时在家工作，有时去公司。",
+        "es": "A veces trabajo en casa y a veces voy a la oficina."
+      },
+      {
+        "zh": "这个问题有时很难回答，因为每个人想的不一样。",
+        "es": "A veces esta pregunta es difícil de responder, porque cada quien piensa distinto."
+      }
+    ]
+  },
+  {
+    "word": "妈",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mamá",
+      "madre"
+    ],
+    "examples": [
+      {
+        "zh": "妈，我回来了！",
+        "es": "¡Mamá, ya llegué!"
+      },
+      {
+        "zh": "我妈是老师。",
+        "es": "Mi mamá es maestra."
+      },
+      {
+        "zh": "我妈不喜欢我玩游戏。",
+        "es": "A mi mamá no le gusta que juegue videojuegos."
+      },
+      {
+        "zh": "我妈每天晚上都给我打电话。",
+        "es": "Mi mamá me llama todas las noches."
+      }
+    ]
+  },
+  {
+    "word": "会议",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "reunión",
+      "conferencia",
+      "congreso"
+    ],
+    "examples": [
+      {
+        "zh": "下午有一个会议。",
+        "es": "En la tarde hay una reunión."
+      },
+      {
+        "zh": "会议几点开始？",
+        "es": "¿A qué hora empieza la reunión?"
+      },
+      {
+        "zh": "这次会议很重要，你一定要来。",
+        "es": "Esta reunión es muy importante, tienes que venir."
+      },
+      {
+        "zh": "明天的国际会议有很多国家的人参加。",
+        "es": "En la conferencia internacional de mañana participan personas de muchos países."
+      }
+    ]
+  },
+  {
+    "word": "建立",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "establecer",
+      "fundar",
+      "crear, construir"
+    ],
+    "examples": [
+      {
+        "zh": "我们建立了新公司。",
+        "es": "Fundamos una nueva empresa."
+      },
+      {
+        "zh": "这个学校是哪年建立的？",
+        "es": "¿En qué año se fundó esta escuela?"
+      },
+      {
+        "zh": "他和中国朋友建立了很好的关系。",
+        "es": "Él estableció una muy buena relación con sus amigos chinos."
+      },
+      {
+        "zh": "两个国家在一九七二年建立了关系。",
+        "es": "Los dos países establecieron relaciones en 1972."
+      }
+    ]
+  },
+  {
+    "word": "听到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oír",
+      "escuchar",
+      "enterarse de"
+    ],
+    "examples": [
+      {
+        "zh": "你听到了吗？",
+        "es": "¿Lo oíste?"
+      },
+      {
+        "zh": "我听到有人叫我。",
+        "es": "Escuché que alguien me llamaba."
+      },
+      {
+        "zh": "听到这个新闻，大家都很高兴。",
+        "es": "Al oír esta noticia, todos se pusieron muy contentos."
+      },
+      {
+        "zh": "我在门外听到他们在说我的名字。",
+        "es": "Desde afuera de la puerta oí que estaban diciendo mi nombre."
+      }
+    ]
+  },
+  {
+    "word": "生产",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "producir",
+      "fabricar",
+      "producción",
+      "dar a luz"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司生产汽车。",
+        "es": "Esta empresa fabrica autos."
+      },
+      {
+        "zh": "这些手机是在中国生产的。",
+        "es": "Estos celulares se fabricaron en China."
+      },
+      {
+        "zh": "她下个月就要生产了。",
+        "es": "Ella va a dar a luz el próximo mes."
+      },
+      {
+        "zh": "这个企业去年生产了三万台电脑。",
+        "es": "Esta empresa produjo treinta mil computadoras el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "认真",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dedicado, aplicado",
+      "serio",
+      "con atención",
+      "tomar en serio"
+    ],
+    "examples": [
+      {
+        "zh": "他学习很认真。",
+        "es": "Él estudia con mucha dedicación."
+      },
+      {
+        "zh": "请认真听。",
+        "es": "Por favor, escucha con atención."
+      },
+      {
+        "zh": "这只是个游戏，别太认真。",
+        "es": "Es solo un juego, no te lo tomes tan en serio."
+      },
+      {
+        "zh": "老师认真看了每个学生写的东西。",
+        "es": "El maestro leyó con cuidado lo que escribió cada estudiante."
+      }
+    ]
+  },
+  {
+    "word": "完全",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "completamente",
+      "totalmente",
+      "completo, entero"
+    ],
+    "examples": [
+      {
+        "zh": "我完全明白。",
+        "es": "Entiendo perfectamente."
+      },
+      {
+        "zh": "你说得完全对。",
+        "es": "Tienes toda la razón."
+      },
+      {
+        "zh": "这两个地方完全不一样。",
+        "es": "Estos dos lugares son totalmente diferentes."
+      },
+      {
+        "zh": "他说话太快了，我完全听不懂他在说什么。",
+        "es": "Habla demasiado rápido; no entiendo para nada lo que dice."
+      }
+    ]
+  },
+  {
+    "word": "下午",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tarde (después del mediodía)",
+      "p. m."
+    ],
+    "examples": [
+      {
+        "zh": "下午见！",
+        "es": "¡Nos vemos en la tarde!"
+      },
+      {
+        "zh": "我下午三点有课。",
+        "es": "Tengo clase a las tres de la tarde."
+      },
+      {
+        "zh": "今天下午你有时间吗？",
+        "es": "¿Tienes tiempo hoy en la tarde?"
+      },
+      {
+        "zh": "明天下午我要去机场送一个朋友。",
+        "es": "Mañana en la tarde voy al aeropuerto a despedir a un amigo."
+      }
+    ]
+  },
+  {
+    "word": "相关",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "relacionado",
+      "pertinente",
+      "estar relacionado",
+      "correlación (estadística)"
+    ],
+    "examples": [
+      {
+        "zh": "这两件事相关吗？",
+        "es": "¿Estas dos cosas están relacionadas?"
+      },
+      {
+        "zh": "请给我相关的资料。",
+        "es": "Por favor, dame la información pertinente."
+      },
+      {
+        "zh": "他找了一份和电脑相关的工作。",
+        "es": "Encontró un trabajo relacionado con computadoras."
+      },
+      {
+        "zh": "很多社会问题都和经济发展相关。",
+        "es": "Muchos problemas sociales están relacionados con el desarrollo económico."
+      }
+    ]
+  },
+  {
+    "word": "坐",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "sentarse",
+      "tomar (un transporte)",
+      "ir en (avión, autobús, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "请坐。",
+        "es": "Siéntese, por favor."
+      },
+      {
+        "zh": "我们坐飞机去北京。",
+        "es": "Vamos a Beijing en avión."
+      },
+      {
+        "zh": "你坐这里吧，我站着就可以。",
+        "es": "Siéntate aquí, yo puedo quedarme parado."
+      },
+      {
+        "zh": "他每天坐一个小时的车去公司上班。",
+        "es": "Todos los días viaja una hora para ir a trabajar a la oficina."
+      }
+    ]
+  },
+  {
+    "word": "产品",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "producto",
+      "mercancía"
+    ],
+    "examples": [
+      {
+        "zh": "这是我们的新产品。",
+        "es": "Este es nuestro nuevo producto."
+      },
+      {
+        "zh": "这个产品多少钱？",
+        "es": "¿Cuánto cuesta este producto?"
+      },
+      {
+        "zh": "很多人喜欢这家公司的产品。",
+        "es": "A mucha gente le gustan los productos de esta empresa."
+      },
+      {
+        "zh": "这些产品在美国和日本的市场都很好卖。",
+        "es": "Estos productos se venden muy bien en los mercados de Estados Unidos y Japón."
+      }
+    ]
+  },
+  {
+    "word": "即",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "es decir, o sea",
+      "de inmediato",
+      "aun si (en 即使)",
+      "estar a punto de (en 即将)"
+    ],
+    "examples": [
+      {
+        "zh": "即使很难，我也要学。",
+        "es": "Aunque sea difícil, voy a aprenderlo."
+      },
+      {
+        "zh": "请你立即回家。",
+        "es": "Por favor, regresa a casa de inmediato."
+      },
+      {
+        "zh": "电影即将开始，请大家坐好。",
+        "es": "La película está por empezar; por favor, tomen asiento."
+      },
+      {
+        "zh": "他们的儿子，即我的朋友小明，在美国工作。",
+        "es": "Su hijo, o sea, mi amigo Xiaoming, trabaja en Estados Unidos."
+      }
+    ]
+  },
+  {
+    "word": "打开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abrir",
+      "prender, encender",
+      "mostrar (un boleto)"
+    ],
+    "examples": [
+      {
+        "zh": "请打开门。",
+        "es": "Por favor, abre la puerta."
+      },
+      {
+        "zh": "打开电视看看新闻吧。",
+        "es": "Prende la tele y veamos las noticias."
+      },
+      {
+        "zh": "你能帮我打开这个吗？",
+        "es": "¿Me ayudas a abrir esto?"
+      },
+      {
+        "zh": "他打开手机，发现有三个妈妈打来的电话。",
+        "es": "Prendió el celular y vio que tenía tres llamadas de su mamá."
+      }
+    ]
+  }
+]

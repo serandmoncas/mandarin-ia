@@ -1,0 +1,539 @@
+[
+  {
+    "word": "保持",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mantener",
+      "conservar",
+      "preservar"
+    ],
+    "examples": [
+      {
+        "zh": "我们要保持联系。",
+        "es": "Tenemos que mantenernos en contacto."
+      },
+      {
+        "zh": "请保持房间干净。",
+        "es": "Por favor, mantén limpio el cuarto."
+      },
+      {
+        "zh": "他每天跑步，保持身体健康。",
+        "es": "Él corre todos los días para mantenerse sano."
+      },
+      {
+        "zh": "虽然工作很忙，她还是保持每天读书。",
+        "es": "Aunque está muy ocupada con el trabajo, sigue leyendo todos los días."
+      }
+    ]
+  },
+  {
+    "word": "报道",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "informar (noticias)",
+      "reportaje",
+      "nota periodística"
+    ],
+    "examples": [
+      {
+        "zh": "记者在报道新闻。",
+        "es": "El periodista está informando la noticia."
+      },
+      {
+        "zh": "我看了这个报道。",
+        "es": "Leí este reportaje."
+      },
+      {
+        "zh": "电视上报道了这件事。",
+        "es": "En la televisión informaron sobre este asunto."
+      },
+      {
+        "zh": "很多媒体报道了这次比赛的结果。",
+        "es": "Muchos medios informaron el resultado de este partido."
+      }
+    ]
+  },
+  {
+    "word": "错误",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "error",
+      "equivocación",
+      "equivocado",
+      "incorrecto"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个错误。",
+        "es": "Esto es un error."
+      },
+      {
+        "zh": "你的回答是错误的。",
+        "es": "Tu respuesta es incorrecta."
+      },
+      {
+        "zh": "我们要从错误中学习。",
+        "es": "Debemos aprender de los errores."
+      },
+      {
+        "zh": "他发现报告里有一个严重的错误。",
+        "es": "Él descubrió un error grave en el informe."
+      }
+    ]
+  },
+  {
+    "word": "狗",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "perro"
+    ],
+    "examples": [
+      {
+        "zh": "我有一只狗。",
+        "es": "Tengo un perro."
+      },
+      {
+        "zh": "我家的狗很大。",
+        "es": "El perro de mi casa es muy grande."
+      },
+      {
+        "zh": "我每天下午带狗出去走走。",
+        "es": "Todas las tardes saco a pasear al perro."
+      },
+      {
+        "zh": "那只小狗每天在门口等我回家。",
+        "es": "Ese perrito me espera todos los días en la puerta hasta que vuelvo a casa."
+      }
+    ]
+  },
+  {
+    "word": "黑",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "negro",
+      "oscuro",
+      "ilegal",
+      "turbio"
+    ],
+    "examples": [
+      {
+        "zh": "这件衣服是黑色的。",
+        "es": "Esta prenda es negra."
+      },
+      {
+        "zh": "天黑了，我们回家吧。",
+        "es": "Ya oscureció, volvamos a casa."
+      },
+      {
+        "zh": "晚上房间里很黑，我看不见。",
+        "es": "En la noche el cuarto está muy oscuro y no veo nada."
+      },
+      {
+        "zh": "他在黑市上买了两张火车票。",
+        "es": "Compró dos boletos de tren en el mercado negro."
+      }
+    ]
+  },
+  {
+    "word": "欢迎",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dar la bienvenida",
+      "bienvenido",
+      "recibir con gusto"
+    ],
+    "examples": [
+      {
+        "zh": "欢迎你来中国！",
+        "es": "¡Bienvenido a China!"
+      },
+      {
+        "zh": "欢迎大家来我家。",
+        "es": "Bienvenidos todos a mi casa."
+      },
+      {
+        "zh": "我们欢迎新同学加入我们班。",
+        "es": "Damos la bienvenida a los nuevos compañeros que se unen a nuestra clase."
+      },
+      {
+        "zh": "这个游戏在学生中很受欢迎。",
+        "es": "Este juego es muy popular entre los estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "仅",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "solo",
+      "solamente",
+      "apenas"
+    ],
+    "examples": [
+      {
+        "zh": "这里仅有两个房间。",
+        "es": "Aquí solo hay dos habitaciones."
+      },
+      {
+        "zh": "这仅是一个开始。",
+        "es": "Esto es solo el comienzo."
+      },
+      {
+        "zh": "他仅用了三天就完成了工作。",
+        "es": "Terminó el trabajo en solo tres días."
+      },
+      {
+        "zh": "去年这个城市的人口仅增长了百分之一。",
+        "es": "El año pasado la población de esta ciudad creció apenas un uno por ciento."
+      }
+    ]
+  },
+  {
+    "word": "进一步",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "más a fondo",
+      "aún más",
+      "dar un paso más"
+    ],
+    "examples": [
+      {
+        "zh": "我们可以进一步讨论。",
+        "es": "Podemos hablarlo con más detalle."
+      },
+      {
+        "zh": "这个问题需要进一步研究。",
+        "es": "Este problema necesita más investigación."
+      },
+      {
+        "zh": "政府决定进一步加强安全管理。",
+        "es": "El gobierno decidió reforzar aún más la gestión de la seguridad."
+      },
+      {
+        "zh": "为了进一步学习汉语，他决定去北京上大学。",
+        "es": "Para avanzar más en el chino, decidió ir a la universidad en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "经历",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "experiencia",
+      "vivir (algo)",
+      "pasar por"
+    ],
+    "examples": [
+      {
+        "zh": "这是一次难忘的经历。",
+        "es": "Fue una experiencia inolvidable."
+      },
+      {
+        "zh": "他经历了很多事情。",
+        "es": "Él ha vivido muchas cosas."
+      },
+      {
+        "zh": "你能介绍一下你的工作经历吗？",
+        "es": "¿Puedes contarnos un poco sobre tu experiencia laboral?"
+      },
+      {
+        "zh": "这个国家经历了战争，现在终于开始发展了。",
+        "es": "Este país pasó por una guerra y ahora por fin empieza a desarrollarse."
+      }
+    ]
+  },
+  {
+    "word": "卖",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vender",
+      "traicionar",
+      "presumir"
+    ],
+    "examples": [
+      {
+        "zh": "这家店卖水果。",
+        "es": "Esta tienda vende fruta."
+      },
+      {
+        "zh": "你的车卖了吗？",
+        "es": "¿Ya vendiste tu auto?"
+      },
+      {
+        "zh": "这本书卖得非常好。",
+        "es": "Este libro se vende muy bien."
+      },
+      {
+        "zh": "他把房子卖了，然后去国外生活了。",
+        "es": "Vendió su casa y luego se fue a vivir al extranjero."
+      }
+    ]
+  },
+  {
+    "word": "农民",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "campesino",
+      "agricultor"
+    ],
+    "examples": [
+      {
+        "zh": "他爸爸是农民。",
+        "es": "Su papá es campesino."
+      },
+      {
+        "zh": "农民在地里工作。",
+        "es": "Los campesinos trabajan en el campo."
+      },
+      {
+        "zh": "今年雨很少，农民的生活很难。",
+        "es": "Este año llovió poco y la vida de los campesinos es difícil."
+      },
+      {
+        "zh": "政府提供了新技术，帮助农民提高生产。",
+        "es": "El gobierno ofreció nuevas tecnologías para ayudar a los campesinos a aumentar la producción."
+      }
+    ]
+  },
+  {
+    "word": "失去",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "perder"
+    ],
+    "examples": [
+      {
+        "zh": "他失去了工作。",
+        "es": "Él perdió su trabajo."
+      },
+      {
+        "zh": "我不想失去你。",
+        "es": "No quiero perderte."
+      },
+      {
+        "zh": "不要失去希望，一切都会好起来的。",
+        "es": "No pierdas la esperanza; todo va a mejorar."
+      },
+      {
+        "zh": "因为一个严重的错误，这家公司失去了很多用户。",
+        "es": "Por un error grave, esta empresa perdió muchos usuarios."
+      }
+    ]
+  },
+  {
+    "word": "下来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bajar (hacia aquí)",
+      "dejar registrado (tras un verbo)",
+      "continuar hasta ahora (tras un verbo)"
+    ],
+    "examples": [
+      {
+        "zh": "你快下来！",
+        "es": "¡Baja rápido!"
+      },
+      {
+        "zh": "请把这些字写下来。",
+        "es": "Por favor, anota estas palabras."
+      },
+      {
+        "zh": "他从楼上走下来了。",
+        "es": "Él bajó del piso de arriba."
+      },
+      {
+        "zh": "天黑下来以后，路上就没有人了。",
+        "es": "Después de que anocheció, ya no había nadie en la calle."
+      }
+    ]
+  },
+  {
+    "word": "形式",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "forma",
+      "formato",
+      "formalidad"
+    ],
+    "examples": [
+      {
+        "zh": "这只是一个形式。",
+        "es": "Esto es solo una formalidad."
+      },
+      {
+        "zh": "学习的形式有很多种。",
+        "es": "Hay muchas formas de aprender."
+      },
+      {
+        "zh": "这次会议采用网上形式进行。",
+        "es": "Esta reunión se realizará en formato en línea."
+      },
+      {
+        "zh": "这本小说后来以电影的形式介绍给了大家。",
+        "es": "Más tarde, esta novela se presentó al público en forma de película."
+      }
+    ]
+  },
+  {
+    "word": "真实",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "real",
+      "verdadero",
+      "auténtico"
+    ],
+    "examples": [
+      {
+        "zh": "这是真实的故事。",
+        "es": "Esta es una historia real."
+      },
+      {
+        "zh": "这部电影拍得非常真实。",
+        "es": "Esta película está filmada de forma muy realista."
+      },
+      {
+        "zh": "请告诉我你真实的想法。",
+        "es": "Por favor, dime lo que realmente piensas."
+      },
+      {
+        "zh": "记者应该报道真实的情况。",
+        "es": "Los periodistas deben informar la situación real."
+      }
+    ]
+  },
+  {
+    "word": "至少",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "al menos",
+      "por lo menos",
+      "como mínimo"
+    ],
+    "examples": [
+      {
+        "zh": "我至少要睡八个小时。",
+        "es": "Necesito dormir al menos ocho horas."
+      },
+      {
+        "zh": "至少有一百个人来了。",
+        "es": "Vinieron por lo menos cien personas."
+      },
+      {
+        "zh": "你至少应该给他打个电话。",
+        "es": "Al menos deberías llamarlo por teléfono."
+      },
+      {
+        "zh": "学好一门语言至少需要几年的时间。",
+        "es": "Aprender bien un idioma requiere como mínimo varios años."
+      }
+    ]
+  },
+  {
+    "word": "状态",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estado",
+      "condición",
+      "forma (física o anímica)"
+    ],
+    "examples": [
+      {
+        "zh": "他今天状态很好。",
+        "es": "Hoy él está en muy buena forma."
+      },
+      {
+        "zh": "这台电脑的状态不太好。",
+        "es": "Esta computadora no está en muy buen estado."
+      },
+      {
+        "zh": "比赛前，运动员要保持好的状态。",
+        "es": "Antes de la competencia, los atletas deben mantenerse en buena forma."
+      },
+      {
+        "zh": "病人现在的状态比较稳定，但还需要休息。",
+        "es": "El estado del paciente ahora es bastante estable, pero todavía necesita descansar."
+      }
+    ]
+  },
+  {
+    "word": "内部",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "interior",
+      "interno",
+      "dentro de"
+    ],
+    "examples": [
+      {
+        "zh": "房子内部很干净。",
+        "es": "El interior de la casa está muy limpio."
+      },
+      {
+        "zh": "这是公司内部的事情。",
+        "es": "Este es un asunto interno de la empresa."
+      },
+      {
+        "zh": "这些资料只能在内部使用。",
+        "es": "Estos datos solo se pueden usar internamente."
+      },
+      {
+        "zh": "组织内部出现了不同的意见，问题还没有解决。",
+        "es": "Surgieron opiniones distintas dentro de la organización y el problema aún no se resuelve."
+      }
+    ]
+  },
+  {
+    "word": "减少",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "reducir",
+      "disminuir",
+      "bajar"
+    ],
+    "examples": [
+      {
+        "zh": "我想减少吃肉。",
+        "es": "Quiero comer menos carne."
+      },
+      {
+        "zh": "今年学生的人数减少了。",
+        "es": "Este año disminuyó el número de estudiantes."
+      },
+      {
+        "zh": "我们应该减少使用手机的时间。",
+        "es": "Deberíamos reducir el tiempo que usamos el celular."
+      },
+      {
+        "zh": "政府希望通过新的政策减少城市里的汽车。",
+        "es": "El gobierno espera reducir los autos en la ciudad con nuevas políticas."
+      }
+    ]
+  },
+  {
+    "word": "女孩",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "niña",
+      "chica",
+      "muchacha"
+    ],
+    "examples": [
+      {
+        "zh": "那个女孩是我妹妹。",
+        "es": "Esa niña es mi hermana menor."
+      },
+      {
+        "zh": "女孩们在外边玩。",
+        "es": "Las niñas están jugando afuera."
+      },
+      {
+        "zh": "这个女孩很喜欢唱歌。",
+        "es": "A esta chica le gusta mucho cantar."
+      },
+      {
+        "zh": "那个穿白衣服的女孩是我的同学。",
+        "es": "La chica vestida de blanco es mi compañera de clase."
+      }
+    ]
+  }
+]

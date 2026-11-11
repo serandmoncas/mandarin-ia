@@ -1,0 +1,163 @@
+[
+  {
+    "id": "word:回来",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 'hoy no vuelve a comer' es ambiguo en español (puede entenderse como 'no come de nuevo'); mejor 'hoy no viene a comer a casa'."
+    ],
+    "content_hash": "3ceb81f130d51cfb89bde4bef6fd3b3c9c4f4f8a"
+  },
+  {
+    "id": "word:较",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: pinyin incorrecto, 长 en 较长 se lee 'cháng', no 'zhǎng'."
+    ],
+    "content_hash": "7168f4c900778e444f9a04bd89eb49b75e36a9dd"
+  },
+  {
+    "id": "word:男",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab6d1e840bb000c2bb4f8fad836f2bc1e3d346e5"
+  },
+  {
+    "id": "word:跑",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: pinyin incorrecto, el complemento 得 se lee 'de' (tono neutro), no 'dé'.",
+      "Significados: 'hacer vueltas' es regional; en español neutro es preferible 'hacer mandados o diligencias'."
+    ],
+    "content_hash": "d12b6cc100cbb15edae88ddeaf17726dfe1bb116"
+  },
+  {
+    "id": "word:人们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "46e5b5ed59cc0eb63ad2cd7990a331ab5b7a0b9c"
+  },
+  {
+    "id": "word:名字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "78595d5876399f2e10adf91ce999855c93bf1cc0"
+  },
+  {
+    "id": "word:少",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6bbb853a3c07387b32fae979ba98efdc802b3d18"
+  },
+  {
+    "id": "word:支持",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce4a8ade5e035232f65920c76555921b577f1df6"
+  },
+  {
+    "id": "word:中心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ff7d426345b5431b734dbaf31c044c61ed82c76a"
+  },
+  {
+    "id": "word:放",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0bb6ec6be4d7a4be49ef50dc6cc102a125a543d0"
+  },
+  {
+    "id": "word:无",
+    "ok": false,
+    "issues": [
+      "Significados: '-less' es un sufijo inglés y no un prefijo; en español debería ser algo como 'in-, des-, sin- (prefijo de negación)'."
+    ],
+    "content_hash": "c70dd23934d597b7bec66d20d9bb247676cdc87f"
+  },
+  {
+    "id": "word:门",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99ec8394065be13b3d5e12926aff4789f9706e49"
+  },
+  {
+    "id": "word:城市",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7c9e0344d9f34732caf584846d5568490ee3d865"
+  },
+  {
+    "id": "word:穿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7166386e6dd4e4b84f7cbba479e7aae38b4fc299"
+  },
+  {
+    "id": "word:继续",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2aede8112d1491cc7d4b8bba3b8c6113ae83eff6"
+  },
+  {
+    "id": "word:西",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02743ddd99bae11e5c053f351df29d5160e46650"
+  },
+  {
+    "id": "word:区",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e5c645a5104b264989b551778fa3d04ddc1c94d1"
+  },
+  {
+    "id": "word:笑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad1c54ac96654b78bd44acd76a28637f525a0e02"
+  },
+  {
+    "id": "word:市场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a42f648c9ad56ed14beca9613b542e79c17d97dd"
+  },
+  {
+    "id": "word:难",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce82ee200e3e1249c32233246f1202d930b161be"
+  },
+  {
+    "id": "word:飞机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5e8956b60be3c1e9c04bc71ba5f45da03b4d034"
+  },
+  {
+    "id": "word:一直",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bde093506ecdb377fc7501afdb1acb9b4880f0fe"
+  },
+  {
+    "id": "word:四",
+    "ok": true,
+    "issues": [],
+    "content_hash": "74a86984405393d9e6f640d5f3b39281f15805d0"
+  },
+  {
+    "id": "word:约",
+    "ok": true,
+    "issues": [],
+    "content_hash": "db748ac069158350f49161381c8ff06d9ab7a5e8"
+  },
+  {
+    "id": "word:者",
+    "ok": false,
+    "issues": [
+      "Significados: 'el último / el primero' no es un significado de 者 por sí solo, sino de 后者/前者 ('este último' / 'el primero'). Debería aclararse que 者 se usa tras 前/后 o tras un número para referirse a algo ya mencionado."
+    ],
+    "content_hash": "90d4c663656cf40c17892b4d694d74bc08606e78"
+  }
+]

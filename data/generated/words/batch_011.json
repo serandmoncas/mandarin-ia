@@ -1,0 +1,543 @@
+[
+  {
+    "word": "所有",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo, todos",
+      "poseer, ser dueño de"
+    ],
+    "examples": [
+      {
+        "zh": "所有人都来了。",
+        "es": "Vinieron todos."
+      },
+      {
+        "zh": "我喜欢所有的电影。",
+        "es": "Me gustan todas las películas."
+      },
+      {
+        "zh": "所有的学生都在学校里。",
+        "es": "Todos los estudiantes están en la escuela."
+      },
+      {
+        "zh": "他把所有的钱都给了自己的孩子。",
+        "es": "Le dio todo su dinero a sus hijos."
+      }
+    ]
+  },
+  {
+    "word": "天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "día",
+      "cielo",
+      "paraíso, los cielos"
+    ],
+    "examples": [
+      {
+        "zh": "我等了三天。",
+        "es": "Esperé tres días."
+      },
+      {
+        "zh": "你看，天上有什么？",
+        "es": "Mira, ¿qué hay en el cielo?"
+      },
+      {
+        "zh": "他一天工作十个小时。",
+        "es": "Él trabaja diez horas al día."
+      },
+      {
+        "zh": "我们在北京玩了两天，还想再去。",
+        "es": "Pasamos dos días en Beijing y queremos volver."
+      }
+    ]
+  },
+  {
+    "word": "发现",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "descubrir, encontrar",
+      "darse cuenta de, notar",
+      "descubrimiento"
+    ],
+    "examples": [
+      {
+        "zh": "我发现了一个问题。",
+        "es": "Encontré un problema."
+      },
+      {
+        "zh": "你发现什么了吗？",
+        "es": "¿Notaste algo?"
+      },
+      {
+        "zh": "他发现自己的钱没有了。",
+        "es": "Se dio cuenta de que ya no tenía su dinero."
+      },
+      {
+        "zh": "学生们发现这个问题比他们想的更重要。",
+        "es": "Los estudiantes descubrieron que este problema era más importante de lo que pensaban."
+      }
+    ]
+  },
+  {
+    "word": "正",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "justo, precisamente (en ese momento)",
+      "recto, derecho",
+      "correcto, apropiado",
+      "principal"
+    ],
+    "examples": [
+      {
+        "zh": "他正在吃饭。",
+        "es": "Él está comiendo en este momento."
+      },
+      {
+        "zh": "你来得正好！",
+        "es": "¡Llegaste justo a tiempo!"
+      },
+      {
+        "zh": "我们正要去学校，他就来了。",
+        "es": "Justo íbamos a salir para la escuela cuando él llegó."
+      },
+      {
+        "zh": "她正在看电影的时候，朋友打来了电话。",
+        "es": "Justo cuando estaba viendo una película, la llamó una amiga."
+      }
+    ]
+  },
+  {
+    "word": "间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entre, en medio de",
+      "cuarto, habitación",
+      "clasificador para cuartos"
+    ],
+    "examples": [
+      {
+        "zh": "这间房子很大。",
+        "es": "Esta casa es muy grande."
+      },
+      {
+        "zh": "你和他之间发生了什么？",
+        "es": "¿Qué pasó entre tú y él?"
+      },
+      {
+        "zh": "学校里有一间很小的书店。",
+        "es": "En la escuela hay una librería muy pequeña."
+      },
+      {
+        "zh": "这两个国家之间的问题已经很多年了。",
+        "es": "Los problemas entre estos dos países llevan muchos años."
+      }
+    ]
+  },
+  {
+    "word": "长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "largo",
+      "longitud, largo",
+      "punto fuerte",
+      "ser bueno en algo"
+    ],
+    "examples": [
+      {
+        "zh": "这条路很长。",
+        "es": "Este camino es muy largo."
+      },
+      {
+        "zh": "她的头发很长。",
+        "es": "Ella tiene el pelo muy largo."
+      },
+      {
+        "zh": "这部电影太长了，我不想看。",
+        "es": "Esta película es demasiado larga, no quiero verla."
+      },
+      {
+        "zh": "中国有很长的历史，我想多知道一些。",
+        "es": "China tiene una historia muy larga y quiero saber más sobre ella."
+      }
+    ]
+  },
+  {
+    "word": "本",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clasificador para libros y revistas",
+      "este, el presente (año, mes, etc.)",
+      "originalmente, en un principio",
+      "raíz, origen"
+    ],
+    "examples": [
+      {
+        "zh": "我买了一本书。",
+        "es": "Compré un libro."
+      },
+      {
+        "zh": "这本书是谁的？",
+        "es": "¿De quién es este libro?"
+      },
+      {
+        "zh": "我本来想去，但是没有时间。",
+        "es": "En un principio quería ir, pero no tuve tiempo."
+      },
+      {
+        "zh": "他写的那本书，在中国和日本都很有名。",
+        "es": "El libro que escribió es muy famoso en China y en Japón."
+      }
+    ]
+  },
+  {
+    "word": "包括",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "incluir",
+      "abarcar, comprender",
+      "constar de"
+    ],
+    "examples": [
+      {
+        "zh": "所有人都来了，包括他。",
+        "es": "Vinieron todos, incluido él."
+      },
+      {
+        "zh": "包括我，一共有三个人。",
+        "es": "Contándome a mí, somos tres en total."
+      },
+      {
+        "zh": "这些东西包括吃的和用的。",
+        "es": "Estas cosas incluyen comida y artículos de uso diario."
+      },
+      {
+        "zh": "他去过很多地方，包括北京、香港和日本。",
+        "es": "Ha estado en muchos lugares, incluidos Beijing, Hong Kong y Japón."
+      }
+    ]
+  },
+  {
+    "word": "干",
+    "cedict_reading_index": 6,
+    "meanings_es": [
+      "hacer",
+      "trabajar",
+      "capaz, competente",
+      "tronco, parte principal"
+    ],
+    "examples": [
+      {
+        "zh": "你在干什么？",
+        "es": "¿Qué estás haciendo?"
+      },
+      {
+        "zh": "我们一起干吧！",
+        "es": "¡Hagámoslo juntos!"
+      },
+      {
+        "zh": "这个工作他干了三年。",
+        "es": "Él hizo este trabajo durante tres años."
+      },
+      {
+        "zh": "他想自己干，不想在大公司工作。",
+        "es": "Quiere trabajar por su cuenta; no quiere trabajar en una empresa grande."
+      }
+    ]
+  },
+  {
+    "word": "出现",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aparecer",
+      "surgir",
+      "presentarse"
+    ],
+    "examples": [
+      {
+        "zh": "他没有出现。",
+        "es": "Él no apareció."
+      },
+      {
+        "zh": "问题又出现了。",
+        "es": "El problema volvió a surgir."
+      },
+      {
+        "zh": "这个问题是什么时候出现的？",
+        "es": "¿Cuándo surgió este problema?"
+      },
+      {
+        "zh": "在电影里，她只出现了两次，但是很多人喜欢她。",
+        "es": "En la película solo aparece dos veces, pero a mucha gente le encanta."
+      }
+    ]
+  },
+  {
+    "word": "找",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "buscar",
+      "encontrar",
+      "ir a ver a alguien",
+      "dar el cambio (vuelto)"
+    ],
+    "examples": [
+      {
+        "zh": "你找谁？",
+        "es": "¿A quién buscas?"
+      },
+      {
+        "zh": "我在找你。",
+        "es": "Te estoy buscando."
+      },
+      {
+        "zh": "我找不到我的钱了。",
+        "es": "No encuentro mi dinero."
+      },
+      {
+        "zh": "他来北京三个月了，还没有找到工作。",
+        "es": "Lleva tres meses en Beijing y todavía no encuentra trabajo."
+      }
+    ]
+  },
+  {
+    "word": "您",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "usted"
+    ],
+    "examples": [
+      {
+        "zh": "您好！",
+        "es": "¡Buenos días! (formal)"
+      },
+      {
+        "zh": "您要吃点什么？",
+        "es": "¿Qué desea comer?"
+      },
+      {
+        "zh": "请问您叫什么名字？",
+        "es": "Disculpe, ¿cómo se llama usted?"
+      },
+      {
+        "zh": "没有您，就没有我们的今天。",
+        "es": "Sin usted, no estaríamos donde estamos hoy."
+      }
+    ]
+  },
+  {
+    "word": "决定",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "decidir",
+      "decisión",
+      "determinar"
+    ],
+    "examples": [
+      {
+        "zh": "我决定去。",
+        "es": "Decidí ir."
+      },
+      {
+        "zh": "这是我的决定。",
+        "es": "Esta es mi decisión."
+      },
+      {
+        "zh": "你决定了吗？去还是不去？",
+        "es": "¿Ya decidiste? ¿Vas o no vas?"
+      },
+      {
+        "zh": "她决定明年去日本学习历史。",
+        "es": "Decidió irse a Japón el próximo año a estudiar historia."
+      }
+    ]
+  },
+  {
+    "word": "进",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrar",
+      "avanzar",
+      "ingresar (a una escuela, empresa, etc.)",
+      "meter, introducir"
+    ],
+    "examples": [
+      {
+        "zh": "请进！",
+        "es": "¡Pase, por favor!"
+      },
+      {
+        "zh": "我们进去吧。",
+        "es": "Entremos."
+      },
+      {
+        "zh": "他走进来，什么话也没说。",
+        "es": "Entró sin decir ni una palabra."
+      },
+      {
+        "zh": "他进这家公司已经三年了。",
+        "es": "Ya hace tres años que entró a esta empresa."
+      }
+    ]
+  },
+  {
+    "word": "全国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo el país",
+      "nacional, a nivel nacional"
+    ],
+    "examples": [
+      {
+        "zh": "全国都知道了。",
+        "es": "Ya lo sabe todo el país."
+      },
+      {
+        "zh": "他在全国很有名。",
+        "es": "Es muy famoso en todo el país."
+      },
+      {
+        "zh": "这个电影在全国都很有名。",
+        "es": "Esta película es muy famosa en todo el país."
+      },
+      {
+        "zh": "政府计划在全国开始这个活动。",
+        "es": "El gobierno planea iniciar esta campaña a nivel nacional."
+      }
+    ]
+  },
+  {
+    "word": "真",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "realmente, de verdad",
+      "verdadero, real",
+      "auténtico"
+    ],
+    "examples": [
+      {
+        "zh": "真好！",
+        "es": "¡Qué bien!"
+      },
+      {
+        "zh": "这是真的吗？",
+        "es": "¿Es cierto esto?"
+      },
+      {
+        "zh": "你今天真好看。",
+        "es": "Hoy te ves muy bien."
+      },
+      {
+        "zh": "他说的话是真的，我们应该相信他。",
+        "es": "Lo que dice es verdad; deberíamos creerle."
+      }
+    ]
+  },
+  {
+    "word": "如何",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cómo",
+      "de qué manera",
+      "qué tal"
+    ],
+    "examples": [
+      {
+        "zh": "你觉得如何？",
+        "es": "¿Qué te parece?"
+      },
+      {
+        "zh": "我不知道如何开始。",
+        "es": "No sé cómo empezar."
+      },
+      {
+        "zh": "我们应该如何使用这些钱？",
+        "es": "¿Cómo deberíamos usar este dinero?"
+      },
+      {
+        "zh": "他问我如何在北京找到好工作。",
+        "es": "Me preguntó cómo encontrar un buen trabajo en Beijing."
+      }
+    ]
+  },
+  {
+    "word": "准备",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "preparar, prepararse",
+      "tener la intención de, pensar (hacer algo)",
+      "preparación"
+    ],
+    "examples": [
+      {
+        "zh": "我准备好了。",
+        "es": "Ya estoy listo."
+      },
+      {
+        "zh": "他在准备明天的工作。",
+        "es": "Está preparando el trabajo de mañana."
+      },
+      {
+        "zh": "我们准备明年去中国。",
+        "es": "Pensamos ir a China el próximo año."
+      },
+      {
+        "zh": "学生们都在准备考试，没有时间出去玩。",
+        "es": "Los estudiantes están preparando sus exámenes y no tienen tiempo para salir."
+      }
+    ]
+  },
+  {
+    "word": "为什么",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿por qué?",
+      "¿por qué razón?"
+    ],
+    "examples": [
+      {
+        "zh": "为什么？",
+        "es": "¿Por qué?"
+      },
+      {
+        "zh": "你为什么不来？",
+        "es": "¿Por qué no vienes?"
+      },
+      {
+        "zh": "他为什么没有来学校？",
+        "es": "¿Por qué no vino a la escuela?"
+      },
+      {
+        "zh": "我不知道她为什么不喜欢这个地方。",
+        "es": "No sé por qué no le gusta este lugar."
+      }
+    ]
+  },
+  {
+    "word": "哪里",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿dónde?",
+      "en algún lugar, en cualquier lugar",
+      "¡para nada! (respuesta modesta a un elogio)"
+    ],
+    "examples": [
+      {
+        "zh": "你在哪里？",
+        "es": "¿Dónde estás?"
+      },
+      {
+        "zh": "你是哪里人？",
+        "es": "¿De dónde eres?"
+      },
+      {
+        "zh": "哪里哪里，我的中文还不好。",
+        "es": "¡Para nada! Mi chino todavía no es bueno."
+      },
+      {
+        "zh": "我不知道他把钱放在哪里了。",
+        "es": "No sé dónde dejó el dinero."
+      }
+    ]
+  }
+]

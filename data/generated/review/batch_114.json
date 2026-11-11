@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:南",
+    "ok": true,
+    "issues": [],
+    "content_hash": "15befbf314b77ef62315dc874a68b48f8ecaa588"
+  },
+  {
+    "id": "char:台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4e57a193339efd3ced1c3f9d0da0ac94c9f8bef"
+  },
+  {
+    "id": "char:湾",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6be945d4fb8591b8c8b7f8d5c039b947f505b56b"
+  },
+  {
+    "id": "char:读",
+    "ok": true,
+    "issues": [],
+    "content_hash": "13f40a861a4a3cc33b084edf39de0246ea981805"
+  },
+  {
+    "id": "char:曾",
+    "ok": false,
+    "issues": [
+      "El componente central no es exactamente 田: en la forma estándar china (曾) el recuadro lleva 丷 dentro en lugar de una cruz; 田 corresponde a la variante japonesa 曽. Conviene describirlo como «recuadro con vapor/rejilla» en vez de 田 = campo."
+    ],
+    "content_hash": "8591bc76b3ebd2e4d37cd269bd380c4048f5733c"
+  },
+  {
+    "id": "char:参",
+    "ok": true,
+    "issues": [],
+    "content_hash": "923b1756ad492141ab0b4a1bd7b0f43b5ff10c51"
+  },
+  {
+    "id": "char:加",
+    "ok": true,
+    "issues": [],
+    "content_hash": "302dd08b35c7b90f03c3fe540cb1e33ad1bb8661"
+  },
+  {
+    "id": "char:单",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c6dbeb54abbff4466f0927310ec52545da452f9"
+  },
+  {
+    "id": "char:位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e267576b4ef3a9e6bbf120aaccac84b77410e59b"
+  },
+  {
+    "id": "char:答",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70a0690d8b40af0a7b8dc2a8df20ddb8b6a98ea1"
+  },
+  {
+    "id": "char:议",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f4c2319bfe0cca1bb69958d57909cc37e7353eb"
+  },
+  {
+    "id": "char:立",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2edda4da3d9c3427b9b6d2a82302c477dca474a9"
+  },
+  {
+    "id": "char:产",
+    "ok": true,
+    "issues": [],
+    "content_hash": "52fc1e8ccc4493f9b01e67afbeb66694556d1c53"
+  },
+  {
+    "id": "char:完",
+    "ok": true,
+    "issues": [],
+    "content_hash": "873ea421013ce6f5be509ba4e1963935bae3596a"
+  },
+  {
+    "id": "char:午",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8867df471556fa4936528b783724282d5b779b60"
+  },
+  {
+    "id": "char:相",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0232714612c760d0a57a3013d482d2fdafbbd65f"
+  },
+  {
+    "id": "char:坐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f632e875108c12c40099e138a41e0da7ffa9c9eb"
+  },
+  {
+    "id": "char:品",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce342f9a730ac87cf0963b56ad40dd82cc8fa3a0"
+  },
+  {
+    "id": "char:即",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b9c54f37662cc314516fd787b9eeaee390333d4"
+  },
+  {
+    "id": "char:兴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "763ce81d670cca2d43e0d5a3ab542390ecc4781a"
+  },
+  {
+    "id": "char:喝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69d36ce795f8b0203baeefe2e3c9d902a19c6a59"
+  },
+  {
+    "id": "char:总",
+    "ok": true,
+    "issues": [],
+    "content_hash": "730a51c492d230567728ec473cf6818126ab175c"
+  },
+  {
+    "id": "char:委",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86d37b20b4f511ccea4bcc9673b863bd7b3b8c9e"
+  },
+  {
+    "id": "char:员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "94dc45d85817fbb297935511573afd9a05d2d79e"
+  },
+  {
+    "id": "char:热",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ed51efa9eb38472d3d671192f0ad706943e9562"
+  }
+]

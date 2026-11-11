@@ -1,0 +1,538 @@
+[
+  {
+    "word": "行为",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comportamiento",
+      "conducta",
+      "acción",
+      "actividad"
+    ],
+    "examples": [
+      {
+        "zh": "这种行为不好。",
+        "es": "Este comportamiento no está bien."
+      },
+      {
+        "zh": "老师不喜欢他的行为。",
+        "es": "Al maestro no le gusta su conducta."
+      },
+      {
+        "zh": "他的行为让妈妈很生气。",
+        "es": "Su comportamiento hizo enojar mucho a su mamá."
+      },
+      {
+        "zh": "孩子的行为常常会影响别人。",
+        "es": "El comportamiento de los niños muchas veces influye en los demás."
+      }
+    ]
+  },
+  {
+    "word": "哥",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermano mayor"
+    ],
+    "examples": [
+      {
+        "zh": "我哥很高。",
+        "es": "Mi hermano mayor es muy alto."
+      },
+      {
+        "zh": "哥，你去哪里？",
+        "es": "Hermano, ¿a dónde vas?"
+      },
+      {
+        "zh": "我哥在北京工作。",
+        "es": "Mi hermano mayor trabaja en Pekín."
+      },
+      {
+        "zh": "我哥每天晚上都打电话给妈妈。",
+        "es": "Mi hermano mayor le llama a mi mamá todas las noches."
+      }
+    ]
+  },
+  {
+    "word": "传统",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tradición",
+      "tradicional"
+    ],
+    "examples": [
+      {
+        "zh": "这是中国的传统。",
+        "es": "Esta es una tradición china."
+      },
+      {
+        "zh": "我很喜欢传统文化。",
+        "es": "Me gusta mucho la cultura tradicional."
+      },
+      {
+        "zh": "他们家有很多老传统。",
+        "es": "En su familia tienen muchas tradiciones antiguas."
+      },
+      {
+        "zh": "我们应该保护自己的传统文化。",
+        "es": "Debemos proteger nuestra cultura tradicional."
+      }
+    ]
+  },
+  {
+    "word": "洗",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lavar",
+      "bañarse",
+      "revelar (fotos)",
+      "barajar (cartas)"
+    ],
+    "examples": [
+      {
+        "zh": "我去洗手。",
+        "es": "Voy a lavarme las manos."
+      },
+      {
+        "zh": "妈妈在洗衣服。",
+        "es": "Mi mamá está lavando la ropa."
+      },
+      {
+        "zh": "吃饭之前要先洗手。",
+        "es": "Antes de comer hay que lavarse las manos."
+      },
+      {
+        "zh": "我昨天把这些照片洗出来了。",
+        "es": "Ayer revelé estas fotos."
+      }
+    ]
+  },
+  {
+    "word": "独立",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "independiente",
+      "independencia",
+      "valerse por sí mismo"
+    ],
+    "examples": [
+      {
+        "zh": "她很独立。",
+        "es": "Ella es muy independiente."
+      },
+      {
+        "zh": "这个国家是什么时候独立的？",
+        "es": "¿Cuándo se independizó este país?"
+      },
+      {
+        "zh": "孩子长大了，应该学会独立。",
+        "es": "Cuando los niños crecen, deben aprender a ser independientes."
+      },
+      {
+        "zh": "他十八岁就开始一个人独立生活了。",
+        "es": "A los dieciocho años ya empezó a vivir solo, por su cuenta."
+      }
+    ]
+  },
+  {
+    "word": "韩国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Corea del Sur"
+    ],
+    "examples": [
+      {
+        "zh": "我想去韩国。",
+        "es": "Quiero ir a Corea del Sur."
+      },
+      {
+        "zh": "她是韩国人。",
+        "es": "Ella es surcoreana."
+      },
+      {
+        "zh": "我很喜欢看韩国电影。",
+        "es": "Me gusta mucho ver películas coreanas."
+      },
+      {
+        "zh": "我哥哥去年在韩国工作了半年。",
+        "es": "El año pasado mi hermano mayor trabajó medio año en Corea del Sur."
+      }
+    ]
+  },
+  {
+    "word": "有时候",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a veces",
+      "de vez en cuando"
+    ],
+    "examples": [
+      {
+        "zh": "有时候我很忙。",
+        "es": "A veces estoy muy ocupado."
+      },
+      {
+        "zh": "我有时候在家吃饭。",
+        "es": "A veces como en casa."
+      },
+      {
+        "zh": "他有时候不回答我的问题。",
+        "es": "A veces no contesta mis preguntas."
+      },
+      {
+        "zh": "有时候我觉得学习中文非常难。",
+        "es": "A veces siento que aprender chino es muy difícil."
+      }
+    ]
+  },
+  {
+    "word": "产生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "producir",
+      "generar",
+      "surgir",
+      "causar"
+    ],
+    "examples": [
+      {
+        "zh": "这样会产生问题。",
+        "es": "Así se van a generar problemas."
+      },
+      {
+        "zh": "他们之间产生了一些问题。",
+        "es": "Surgieron algunos problemas entre ellos."
+      },
+      {
+        "zh": "这个决定产生了很大的影响。",
+        "es": "Esta decisión tuvo un gran impacto."
+      },
+      {
+        "zh": "新技术的发展产生了很多新工作。",
+        "es": "El desarrollo de la nueva tecnología generó muchos empleos nuevos."
+      }
+    ]
+  },
+  {
+    "word": "考",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hacer un examen",
+      "examinar",
+      "presentar examen de admisión",
+      "comprobar"
+    ],
+    "examples": [
+      {
+        "zh": "明天要考中文。",
+        "es": "Mañana hay examen de chino."
+      },
+      {
+        "zh": "你考得怎么样？",
+        "es": "¿Cómo te fue en el examen?"
+      },
+      {
+        "zh": "老师今天考了我们三个问题。",
+        "es": "Hoy el maestro nos evaluó con tres preguntas."
+      },
+      {
+        "zh": "他希望明年能考上北京大学。",
+        "es": "Él espera entrar a la Universidad de Pekín el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "调查",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "investigación",
+      "investigar",
+      "encuesta",
+      "sondeo"
+    ],
+    "examples": [
+      {
+        "zh": "我们要做一个调查。",
+        "es": "Vamos a hacer una encuesta."
+      },
+      {
+        "zh": "政府正在调查这件事。",
+        "es": "El gobierno está investigando este asunto."
+      },
+      {
+        "zh": "记者去那里调查情况。",
+        "es": "El periodista fue allá a investigar la situación."
+      },
+      {
+        "zh": "根据调查，很多学生每天睡觉不到七个小时。",
+        "es": "Según una encuesta, muchos estudiantes duermen menos de siete horas al día."
+      }
+    ]
+  },
+  {
+    "word": "上班",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ir a trabajar",
+      "entrar a trabajar",
+      "estar de turno"
+    ],
+    "examples": [
+      {
+        "zh": "我今天不上班。",
+        "es": "Hoy no voy a trabajar."
+      },
+      {
+        "zh": "你几点上班？",
+        "es": "¿A qué hora entras a trabajar?"
+      },
+      {
+        "zh": "我爸爸每天坐车去上班。",
+        "es": "Mi papá va al trabajo en carro todos los días."
+      },
+      {
+        "zh": "明天下午我要上班，不能跟你见面了。",
+        "es": "Mañana en la tarde tengo que trabajar, así que no puedo verte."
+      }
+    ]
+  },
+  {
+    "word": "读书",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "leer",
+      "estudiar",
+      "ir a la escuela"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢读书。",
+        "es": "Me gusta leer."
+      },
+      {
+        "zh": "她在北京读书。",
+        "es": "Ella estudia en Pekín."
+      },
+      {
+        "zh": "我妹妹每天晚上都在房间里读书。",
+        "es": "Mi hermana menor estudia en su cuarto todas las noches."
+      },
+      {
+        "zh": "他小时候家里没钱，所以不能去学校读书。",
+        "es": "De niño su familia no tenía dinero, así que no pudo ir a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "各种",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo tipo de",
+      "diversos",
+      "varios"
+    ],
+    "examples": [
+      {
+        "zh": "这里有各种书。",
+        "es": "Aquí hay todo tipo de libros."
+      },
+      {
+        "zh": "商店里有各种衣服。",
+        "es": "En la tienda hay ropa de todo tipo."
+      },
+      {
+        "zh": "他会做各种中国菜。",
+        "es": "Él sabe preparar todo tipo de platillos chinos."
+      },
+      {
+        "zh": "在网上可以找到各种资料和视频。",
+        "es": "En internet se puede encontrar todo tipo de información y videos."
+      }
+    ]
+  },
+  {
+    "word": "目标",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "meta",
+      "objetivo",
+      "blanco"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的目标。",
+        "es": "Esta es mi meta."
+      },
+      {
+        "zh": "你今年的目标是什么？",
+        "es": "¿Cuál es tu objetivo para este año?"
+      },
+      {
+        "zh": "我们的目标是帮助更多的孩子。",
+        "es": "Nuestro objetivo es ayudar a más niños."
+      },
+      {
+        "zh": "为了完成这个目标，他每天都学习十个小时。",
+        "es": "Para lograr esta meta, estudia diez horas todos los días."
+      }
+    ]
+  },
+  {
+    "word": "商店",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tienda",
+      "comercio"
+    ],
+    "examples": [
+      {
+        "zh": "这家商店很大。",
+        "es": "Esta tienda es muy grande."
+      },
+      {
+        "zh": "我去商店买东西。",
+        "es": "Voy a la tienda a comprar cosas."
+      },
+      {
+        "zh": "学校旁边有一家小商店。",
+        "es": "Al lado de la escuela hay una tiendita."
+      },
+      {
+        "zh": "这家商店的衣服很好看，但是太贵了。",
+        "es": "La ropa de esta tienda es muy bonita, pero es demasiado cara."
+      }
+    ]
+  },
+  {
+    "word": "右",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "derecha",
+      "derecho (lado)",
+      "derecha (política)"
+    ],
+    "examples": [
+      {
+        "zh": "请向右走。",
+        "es": "Por favor, camine hacia la derecha."
+      },
+      {
+        "zh": "我用右手写字。",
+        "es": "Escribo con la mano derecha."
+      },
+      {
+        "zh": "商店就在学校的右边。",
+        "es": "La tienda está justo a la derecha de la escuela."
+      },
+      {
+        "zh": "在前面向右走，医院就在你的右边。",
+        "es": "Más adelante gira a la derecha y el hospital queda a tu derecha."
+      }
+    ]
+  },
+  {
+    "word": "人类",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "humanidad",
+      "ser humano",
+      "especie humana"
+    ],
+    "examples": [
+      {
+        "zh": "人类需要水。",
+        "es": "Los seres humanos necesitan agua."
+      },
+      {
+        "zh": "这是人类的历史。",
+        "es": "Esta es la historia de la humanidad."
+      },
+      {
+        "zh": "科学改变了人类的生活。",
+        "es": "La ciencia cambió la vida de la humanidad."
+      },
+      {
+        "zh": "战争对人类来说是一个很大的问题。",
+        "es": "La guerra es un gran problema para la humanidad."
+      }
+    ]
+  },
+  {
+    "word": "病人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "paciente",
+      "enfermo"
+    ],
+    "examples": [
+      {
+        "zh": "病人需要休息。",
+        "es": "El paciente necesita descansar."
+      },
+      {
+        "zh": "医生正在看病人。",
+        "es": "El doctor está revisando al paciente."
+      },
+      {
+        "zh": "医院里今天有很多病人。",
+        "es": "Hoy hay muchos pacientes en el hospital."
+      },
+      {
+        "zh": "医生告诉病人每天要多喝水，早点睡觉。",
+        "es": "El doctor le dijo al paciente que tome más agua todos los días y se duerma temprano."
+      }
+    ]
+  },
+  {
+    "word": "饿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener hambre",
+      "hambriento",
+      "hacer pasar hambre"
+    ],
+    "examples": [
+      {
+        "zh": "我饿了。",
+        "es": "Tengo hambre."
+      },
+      {
+        "zh": "你饿不饿？",
+        "es": "¿Tienes hambre?"
+      },
+      {
+        "zh": "我很饿，我们去吃饭吧。",
+        "es": "Tengo mucha hambre, vamos a comer."
+      },
+      {
+        "zh": "他一天没吃东西，饿得说不出话来。",
+        "es": "No comió nada en todo el día y tenía tanta hambre que no podía ni hablar."
+      }
+    ]
+  },
+  {
+    "word": "它们",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ellos, ellas (cosas o animales)",
+      "los, las (cosas o animales)"
+    ],
+    "examples": [
+      {
+        "zh": "它们很小。",
+        "es": "Son muy pequeños."
+      },
+      {
+        "zh": "你看，它们在吃东西。",
+        "es": "Mira, están comiendo."
+      },
+      {
+        "zh": "这些书很重要，请把它们放好。",
+        "es": "Estos libros son muy importantes, por favor guárdalos bien."
+      },
+      {
+        "zh": "我家有两只狗，我每天下午都带它们出去玩。",
+        "es": "Tengo dos perros y todas las tardes los saco a pasear."
+      }
+    ]
+  }
+]

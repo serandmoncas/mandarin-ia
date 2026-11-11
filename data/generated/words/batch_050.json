@@ -1,0 +1,546 @@
+[
+  {
+    "word": "容易",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fácil",
+      "sencillo",
+      "propenso a",
+      "con facilidad"
+    ],
+    "examples": [
+      {
+        "zh": "这个很容易。",
+        "es": "Esto es muy fácil."
+      },
+      {
+        "zh": "汉语不容易学。",
+        "es": "El chino no es fácil de aprender."
+      },
+      {
+        "zh": "天气冷的时候，人很容易生病。",
+        "es": "Cuando hace frío, la gente se enferma con facilidad."
+      },
+      {
+        "zh": "找到一个好工作没有你想的那么容易。",
+        "es": "Encontrar un buen trabajo no es tan fácil como piensas."
+      }
+    ]
+  },
+  {
+    "word": "实际",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "real",
+      "práctico",
+      "realidad",
+      "realista"
+    ],
+    "examples": [
+      {
+        "zh": "这个办法不太实际。",
+        "es": "Este método no es muy práctico."
+      },
+      {
+        "zh": "实际情况跟你说的不一样。",
+        "es": "La situación real no es como tú dices."
+      },
+      {
+        "zh": "你的计划要根据实际情况来做。",
+        "es": "Tu plan debe hacerse según la situación real."
+      },
+      {
+        "zh": "他看起来很年轻，实际上已经五十岁了。",
+        "es": "Se ve muy joven, pero en realidad ya tiene cincuenta años."
+      }
+    ]
+  },
+  {
+    "word": "消息",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "noticia",
+      "información",
+      "mensaje"
+    ],
+    "examples": [
+      {
+        "zh": "这是个好消息。",
+        "es": "Es una buena noticia."
+      },
+      {
+        "zh": "你有他的消息吗？",
+        "es": "¿Tienes noticias de él?"
+      },
+      {
+        "zh": "我在手机上看到了这个消息。",
+        "es": "Vi esta noticia en el celular."
+      },
+      {
+        "zh": "听到这个消息以后，大家都马上给家人打了电话。",
+        "es": "Al oír esta noticia, todos llamaron de inmediato a sus familias."
+      }
+    ]
+  },
+  {
+    "word": "永远",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "para siempre",
+      "siempre",
+      "eterno"
+    ],
+    "examples": [
+      {
+        "zh": "我永远爱你。",
+        "es": "Te amaré para siempre."
+      },
+      {
+        "zh": "我永远不会忘记你。",
+        "es": "Nunca te voy a olvidar."
+      },
+      {
+        "zh": "他永远是我最好的朋友。",
+        "es": "Él siempre será mi mejor amigo."
+      },
+      {
+        "zh": "如果你需要帮忙，家人永远会在你身边。",
+        "es": "Si necesitas ayuda, tu familia siempre estará a tu lado."
+      }
+    ]
+  },
+  {
+    "word": "重点",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "punto clave",
+      "punto principal",
+      "prioridad",
+      "enfocarse en"
+    ],
+    "examples": [
+      {
+        "zh": "这是重点。",
+        "es": "Este es el punto clave."
+      },
+      {
+        "zh": "请你说重点，我没有时间。",
+        "es": "Ve al grano, por favor; no tengo tiempo."
+      },
+      {
+        "zh": "老师说这一课的重点是汉字。",
+        "es": "El profesor dijo que lo principal de esta lección son los caracteres."
+      },
+      {
+        "zh": "今年公司的工作重点是开发新产品。",
+        "es": "Este año, la prioridad de la empresa es desarrollar nuevos productos."
+      }
+    ]
+  },
+  {
+    "word": "些",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "algunos",
+      "unos cuantos",
+      "un poco"
+    ],
+    "examples": [
+      {
+        "zh": "这些是我的书。",
+        "es": "Estos son mis libros."
+      },
+      {
+        "zh": "我想买些水果。",
+        "es": "Quiero comprar algo de fruta."
+      },
+      {
+        "zh": "你吃得太少了，再吃些吧。",
+        "es": "Comiste muy poco, come un poco más."
+      },
+      {
+        "zh": "那些在门口等车的人都是我们学校的学生。",
+        "es": "Esas personas que esperan el autobús en la entrada son todas estudiantes de nuestra escuela."
+      }
+    ]
+  },
+  {
+    "word": "权力",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "poder",
+      "autoridad"
+    ],
+    "examples": [
+      {
+        "zh": "他很有权力。",
+        "es": "Él tiene mucho poder."
+      },
+      {
+        "zh": "谁有权力做这个决定？",
+        "es": "¿Quién tiene la autoridad para tomar esta decisión?"
+      },
+      {
+        "zh": "政府的权力应该受到法律的控制。",
+        "es": "El poder del gobierno debe estar controlado por la ley."
+      },
+      {
+        "zh": "有些人有了权力以后，就忘记了人民。",
+        "es": "Algunas personas, cuando obtienen poder, se olvidan del pueblo."
+      }
+    ]
+  },
+  {
+    "word": "然而",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sin embargo",
+      "pero",
+      "no obstante"
+    ],
+    "examples": [
+      {
+        "zh": "我想去，然而没有时间。",
+        "es": "Quiero ir; sin embargo, no tengo tiempo."
+      },
+      {
+        "zh": "他很努力，然而没有成功。",
+        "es": "Se esforzó mucho; sin embargo, no tuvo éxito."
+      },
+      {
+        "zh": "这个办法看起来简单，然而实际上很难。",
+        "es": "Este método parece sencillo; sin embargo, en realidad es muy difícil."
+      },
+      {
+        "zh": "大家都认为这个计划会成功，然而结果完全不同。",
+        "es": "Todos pensaban que el plan funcionaría; sin embargo, el resultado fue totalmente distinto."
+      }
+    ]
+  },
+  {
+    "word": "看看",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "echar un vistazo",
+      "mirar",
+      "revisar"
+    ],
+    "examples": [
+      {
+        "zh": "我看看。",
+        "es": "Déjame ver."
+      },
+      {
+        "zh": "你看看这些照片。",
+        "es": "Mira estas fotos."
+      },
+      {
+        "zh": "我们去商店看看吧。",
+        "es": "Vamos a echar un vistazo a la tienda."
+      },
+      {
+        "zh": "你先看看这个计划，然后告诉我你的意见。",
+        "es": "Primero revisa este plan y luego dime tu opinión."
+      }
+    ]
+  },
+  {
+    "word": "考虑",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pensar (algo) con calma",
+      "considerar",
+      "tomar en cuenta"
+    ],
+    "examples": [
+      {
+        "zh": "我会考虑的。",
+        "es": "Lo voy a pensar."
+      },
+      {
+        "zh": "让我考虑一下。",
+        "es": "Déjame pensarlo un poco."
+      },
+      {
+        "zh": "你应该考虑一下别人的感觉。",
+        "es": "Deberías tomar en cuenta los sentimientos de los demás."
+      },
+      {
+        "zh": "他考虑了很久，最后决定去北京上大学。",
+        "es": "Lo pensó mucho tiempo y al final decidió ir a la universidad en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "按",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "presionar",
+      "apretar",
+      "según",
+      "de acuerdo con"
+    ],
+    "examples": [
+      {
+        "zh": "请按这里。",
+        "es": "Por favor, presiona aquí."
+      },
+      {
+        "zh": "我们按计划去做吧。",
+        "es": "Hagámoslo según el plan."
+      },
+      {
+        "zh": "你按一下这个，电脑就开了。",
+        "es": "Presiona esto y la computadora se enciende."
+      },
+      {
+        "zh": "请大家按老师说的方法写汉字。",
+        "es": "Por favor, escriban los caracteres de la forma que dijo el profesor."
+      }
+    ]
+  },
+  {
+    "word": "变成",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "convertirse en",
+      "transformarse en",
+      "volverse"
+    ],
+    "examples": [
+      {
+        "zh": "他变成了一个好人。",
+        "es": "Se convirtió en una buena persona."
+      },
+      {
+        "zh": "她的爱好变成了她的工作。",
+        "es": "Su pasatiempo se convirtió en su trabajo."
+      },
+      {
+        "zh": "这里以前是山，现在变成了城市。",
+        "es": "Antes aquí había montañas; ahora se convirtió en una ciudad."
+      },
+      {
+        "zh": "这个小学生长大以后变成了有名的医生。",
+        "es": "Este alumno de primaria, al crecer, se convirtió en un médico famoso."
+      }
+    ]
+  },
+  {
+    "word": "里面",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "adentro",
+      "dentro de",
+      "interior"
+    ],
+    "examples": [
+      {
+        "zh": "里面有人吗？",
+        "es": "¿Hay alguien adentro?"
+      },
+      {
+        "zh": "书包里面有什么？",
+        "es": "¿Qué hay dentro de la mochila?"
+      },
+      {
+        "zh": "外边很冷，我们去里面坐吧。",
+        "es": "Afuera hace mucho frío, vamos a sentarnos adentro."
+      },
+      {
+        "zh": "这个房子里面的东西都是我爷爷的。",
+        "es": "Todas las cosas que hay dentro de esta casa son de mi abuelo."
+      }
+    ]
+  },
+  {
+    "word": "另外",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "además",
+      "otro",
+      "aparte"
+    ],
+    "examples": [
+      {
+        "zh": "我还有另外一个问题。",
+        "es": "Tengo otra pregunta más."
+      },
+      {
+        "zh": "这个不好，我们看看另外一个吧。",
+        "es": "Este no es bueno, veamos otro."
+      },
+      {
+        "zh": "我想买个面包，另外还要一杯牛奶。",
+        "es": "Quiero comprar un pan y, además, un vaso de leche."
+      },
+      {
+        "zh": "这个工作钱很少，另外离家也太远了。",
+        "es": "Este trabajo paga muy poco; además, queda muy lejos de casa."
+      }
+    ]
+  },
+  {
+    "word": "美元",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dólar estadounidense",
+      "dólar"
+    ],
+    "examples": [
+      {
+        "zh": "你有美元吗？",
+        "es": "¿Tienes dólares?"
+      },
+      {
+        "zh": "这个十美元。",
+        "es": "Esto cuesta diez dólares."
+      },
+      {
+        "zh": "这个手机多少美元？",
+        "es": "¿Cuántos dólares cuesta este celular?"
+      },
+      {
+        "zh": "去年这家公司在中国投资了五百万美元。",
+        "es": "El año pasado esta empresa invirtió cinco millones de dólares en China."
+      }
+    ]
+  },
+  {
+    "word": "设备",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "equipo",
+      "equipamiento",
+      "instalaciones"
+    ],
+    "examples": [
+      {
+        "zh": "这些设备很贵。",
+        "es": "Estos equipos son muy caros."
+      },
+      {
+        "zh": "医院有很多新设备。",
+        "es": "El hospital tiene mucho equipo nuevo."
+      },
+      {
+        "zh": "请大家注意保护学校的设备。",
+        "es": "Por favor, cuiden el equipo de la escuela."
+      },
+      {
+        "zh": "这家公司的技术和设备都是世界上最好的。",
+        "es": "La tecnología y los equipos de esta empresa son los mejores del mundo."
+      }
+    ]
+  },
+  {
+    "word": "声音",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "voz",
+      "sonido",
+      "ruido"
+    ],
+    "examples": [
+      {
+        "zh": "你的声音很好听。",
+        "es": "Tu voz es muy bonita."
+      },
+      {
+        "zh": "你听到那个声音了吗？",
+        "es": "¿Escuchaste ese sonido?"
+      },
+      {
+        "zh": "请说话的声音小一点儿。",
+        "es": "Por favor, habla más bajo."
+      },
+      {
+        "zh": "晚上我在房间里听见门口有人说话的声音。",
+        "es": "En la noche, desde mi cuarto, escuché voces de alguien hablando en la puerta."
+      }
+    ]
+  },
+  {
+    "word": "线",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hilo",
+      "cable",
+      "línea"
+    ],
+    "examples": [
+      {
+        "zh": "这条线很长。",
+        "es": "Este cable es muy largo."
+      },
+      {
+        "zh": "请在这条线后边等。",
+        "es": "Por favor, espere detrás de esta línea."
+      },
+      {
+        "zh": "电脑的线在桌子下边。",
+        "es": "El cable de la computadora está debajo de la mesa."
+      },
+      {
+        "zh": "这个手机的线坏了，我得再买一条。",
+        "es": "El cable de este celular se dañó; tengo que comprar otro."
+      }
+    ]
+  },
+  {
+    "word": "相当",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bastante",
+      "considerablemente",
+      "equivalente a",
+      "adecuado"
+    ],
+    "examples": [
+      {
+        "zh": "这个问题相当难。",
+        "es": "Esta pregunta es bastante difícil."
+      },
+      {
+        "zh": "他的汉语说得相当好。",
+        "es": "Habla chino bastante bien."
+      },
+      {
+        "zh": "这次考试相当重要，你要认真准备。",
+        "es": "Este examen es bastante importante; tienes que prepararte bien."
+      },
+      {
+        "zh": "这个城市的变化相当大，跟十年前完全不一样了。",
+        "es": "Esta ciudad ha cambiado bastante; es totalmente distinta de hace diez años."
+      }
+    ]
+  },
+  {
+    "word": "应用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aplicación (app)",
+      "aplicar",
+      "uso práctico",
+      "aplicado"
+    ],
+    "examples": [
+      {
+        "zh": "这个应用很好用。",
+        "es": "Esta aplicación es muy fácil de usar."
+      },
+      {
+        "zh": "你手机上有什么应用？",
+        "es": "¿Qué aplicaciones tienes en tu celular?"
+      },
+      {
+        "zh": "我们要把学到的知识应用到生活中。",
+        "es": "Debemos aplicar en la vida diaria lo que aprendemos."
+      },
+      {
+        "zh": "这种新技术已经应用在很多城市的医院里了。",
+        "es": "Esta nueva tecnología ya se usa en hospitales de muchas ciudades."
+      }
+    ]
+  }
+]

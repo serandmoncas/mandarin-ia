@@ -1,0 +1,410 @@
+[
+  {
+    "char": "谈",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "炎",
+        "meaning_es": "llamas, calor intenso"
+      }
+    ],
+    "mnemonic_es": "Palabras junto a una fogata ardiente: los amigos se sientan alrededor del fuego a conversar."
+  },
+  {
+    "char": "愿",
+    "components": [
+      {
+        "char": "原",
+        "meaning_es": "origen, llanura"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Lo que nace en el origen de tu corazón es tu deseo más sincero."
+  },
+  {
+    "char": "张",
+    "components": [
+      {
+        "char": "弓",
+        "meaning_es": "arco"
+      },
+      {
+        "char": "长",
+        "meaning_es": "largo"
+      }
+    ],
+    "mnemonic_es": "Para disparar lejos, estiras el arco hasta que la cuerda queda bien larga: tensar, abrir."
+  },
+  {
+    "char": "抓",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "爪",
+        "meaning_es": "garra"
+      }
+    ],
+    "mnemonic_es": "Una mano que se cierra como garra: así se agarra algo con fuerza."
+  },
+  {
+    "char": "转",
+    "components": [
+      {
+        "char": "车",
+        "meaning_es": "vehículo, carro"
+      },
+      {
+        "char": "专",
+        "meaning_es": "especial, concentrado"
+      }
+    ],
+    "mnemonic_es": "Un carro necesita un conductor muy concentrado para dar la vuelta y girar sin chocar."
+  },
+  {
+    "char": "误",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "吴",
+        "meaning_es": "Wu (apellido, antiguo reino)"
+      }
+    ],
+    "mnemonic_es": "Imagina al señor Wu, que siempre habla de más y comete errores con sus palabras."
+  },
+  {
+    "char": "狗",
+    "components": [
+      {
+        "char": "犭",
+        "meaning_es": "animal, perro"
+      },
+      {
+        "char": "句",
+        "meaning_es": "frase, oración"
+      }
+    ],
+    "mnemonic_es": "Un animal que parece entender cada frase que le dices: tu fiel perro."
+  },
+  {
+    "char": "黑",
+    "components": [
+      {
+        "char": "黑",
+        "meaning_es": "negro, oscuro"
+      }
+    ],
+    "mnemonic_es": "Imagina una chimenea con cuatro puntos de fuego abajo: el hollín sube y lo deja todo negro."
+  },
+  {
+    "char": "迎",
+    "components": [
+      {
+        "char": "卬",
+        "meaning_es": "alzar la vista"
+      },
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      }
+    ],
+    "mnemonic_es": "Caminas hacia alguien levantando la mirada con alegría para darle la bienvenida."
+  },
+  {
+    "char": "步",
+    "components": [
+      {
+        "char": "步",
+        "meaning_es": "paso"
+      }
+    ],
+    "mnemonic_es": "Arriba ves un pie (止) y abajo otro pie torcido: un pie tras otro, eso es dar un paso."
+  },
+  {
+    "char": "卖",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      },
+      {
+        "char": "买",
+        "meaning_es": "comprar"
+      }
+    ],
+    "mnemonic_es": "Pon una cruz extra encima de «comprar» y cambias de lado del mostrador: ahora tú vendes."
+  },
+  {
+    "char": "失",
+    "components": [
+      {
+        "char": "丿",
+        "meaning_es": "trazo inclinado"
+      },
+      {
+        "char": "夫",
+        "meaning_es": "hombre adulto"
+      }
+    ],
+    "mnemonic_es": "Un hombre al que algo se le resbala de la mano con un trazo inclinado: lo perdió."
+  },
+  {
+    "char": "状",
+    "components": [
+      {
+        "char": "丬",
+        "meaning_es": "tabla, cama"
+      },
+      {
+        "char": "犬",
+        "meaning_es": "perro"
+      }
+    ],
+    "mnemonic_es": "El veterinario mira al perro acostado sobre la tabla para revisar su estado y su forma."
+  },
+  {
+    "char": "态",
+    "components": [
+      {
+        "char": "太",
+        "meaning_es": "demasiado, muy"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Cuando tu corazón siente algo demasiado fuerte, se nota en tu actitud."
+  },
+  {
+    "char": "减",
+    "components": [
+      {
+        "char": "冫",
+        "meaning_es": "hielo"
+      },
+      {
+        "char": "咸",
+        "meaning_es": "salado"
+      }
+    ],
+    "mnemonic_es": "Si la sopa está muy salada, échale hielo para reducir lo salado: restar, disminuir."
+  },
+  {
+    "char": "攻",
+    "components": [
+      {
+        "char": "工",
+        "meaning_es": "trabajo, herramienta"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear, mano con palo"
+      }
+    ],
+    "mnemonic_es": "Agarras una herramienta y empiezas a golpear con ella: ¡al ataque!"
+  },
+  {
+    "char": "击",
+    "components": [
+      {
+        "char": "击",
+        "meaning_es": "golpear, atacar"
+      }
+    ],
+    "mnemonic_es": "Míralo como un martillo que baja con fuerza sobre un recipiente abierto: ¡golpe seco!"
+  },
+  {
+    "char": "黄",
+    "components": [
+      {
+        "char": "廿",
+        "meaning_es": "veinte"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho"
+      }
+    ],
+    "mnemonic_es": "Veinte días de sol sobre el campo y las ocho espigas que salen abajo se ponen amarillas."
+  },
+  {
+    "char": "极",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "及",
+        "meaning_es": "alcanzar"
+      }
+    ],
+    "mnemonic_es": "Trepas al árbol hasta alcanzar la rama más alta: llegaste al extremo, al máximo."
+  },
+  {
+    "char": "交",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa, cabeza"
+      },
+      {
+        "char": "父",
+        "meaning_es": "padre"
+      }
+    ],
+    "mnemonic_es": "Un papá con la cabeza en alto y las piernas cruzadas: cruzar, intercambiar, entregar."
+  },
+  {
+    "char": "营",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "techo, cubierta"
+      },
+      {
+        "char": "吕",
+        "meaning_es": "Lü (apellido), vértebras"
+      }
+    ],
+    "mnemonic_es": "Sobre la hierba montan un techo con dos cuartos pegados: un campamento que hay que administrar."
+  },
+  {
+    "char": "绝",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda, hilo"
+      },
+      {
+        "char": "色",
+        "meaning_es": "color"
+      }
+    ],
+    "mnemonic_es": "Cortas el hilo de seda y se le va todo el color: se acabó, es absoluto y definitivo."
+  },
+  {
+    "char": "清",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "青",
+        "meaning_es": "azul verdoso"
+      }
+    ],
+    "mnemonic_es": "Agua tan limpia que se ve azul verdosa: clara y transparente."
+  },
+  {
+    "char": "楚",
+    "components": [
+      {
+        "char": "林",
+        "meaning_es": "bosque"
+      },
+      {
+        "char": "疋",
+        "meaning_es": "pie"
+      }
+    ],
+    "mnemonic_es": "Sales del bosque a pie y por fin todo se ve claro (como en 清楚)."
+  },
+  {
+    "char": "届",
+    "components": [
+      {
+        "char": "尸",
+        "meaning_es": "cuerpo, cubierta"
+      },
+      {
+        "char": "由",
+        "meaning_es": "motivo, origen"
+      }
+    ],
+    "mnemonic_es": "Bajo el mismo techo se reúne cada generación por un motivo: la edición o promoción de este año."
+  },
+  {
+    "char": "承",
+    "components": [
+      {
+        "char": "承",
+        "meaning_es": "sostener, asumir"
+      }
+    ],
+    "mnemonic_es": "Imagina varias manos sosteniendo a una persona en el centro: cargar con algo, asumir una responsabilidad."
+  },
+  {
+    "char": "担",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "旦",
+        "meaning_es": "amanecer"
+      }
+    ],
+    "mnemonic_es": "Desde el amanecer tus manos cargan el peso del día: llevar, asumir una carga."
+  },
+  {
+    "char": "苏",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "办",
+        "meaning_es": "hacer, gestionar"
+      }
+    ],
+    "mnemonic_es": "La hierba seca se pone manos a la obra y vuelve a la vida: revivir, despertar."
+  },
+  {
+    "char": "底",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "cobertizo, techo"
+      },
+      {
+        "char": "氐",
+        "meaning_es": "base, raíz"
+      }
+    ],
+    "mnemonic_es": "Debajo del techo, lo que sostiene todo es la base: el fondo, la parte de abajo."
+  },
+  {
+    "char": "段",
+    "components": [
+      {
+        "char": "段",
+        "meaning_es": "tramo, sección"
+      }
+    ],
+    "mnemonic_es": "A la derecha ves una mano con un palo (殳) que corta un objeto largo en pedazos: tramos, secciones."
+  }
+]

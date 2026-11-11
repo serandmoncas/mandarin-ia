@@ -1,0 +1,541 @@
+[
+  {
+    "word": "结果",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "resultado",
+      "consecuencia",
+      "al final",
+      "como resultado"
+    ],
+    "examples": [
+      {
+        "zh": "结果怎么样？",
+        "es": "¿Cuál fue el resultado?"
+      },
+      {
+        "zh": "这个结果很好。",
+        "es": "Este resultado es muy bueno."
+      },
+      {
+        "zh": "我等了他三个小时，结果他没来。",
+        "es": "Lo esperé tres horas y al final no vino."
+      },
+      {
+        "zh": "这个研究的结果对我们非常重要。",
+        "es": "Los resultados de esta investigación son muy importantes para nosotros."
+      }
+    ]
+  },
+  {
+    "word": "先生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "señor",
+      "esposo",
+      "maestro (tratamiento respetuoso)"
+    ],
+    "examples": [
+      {
+        "zh": "王先生，你好！",
+        "es": "¡Hola, señor Wang!"
+      },
+      {
+        "zh": "这位先生是谁？",
+        "es": "¿Quién es este señor?"
+      },
+      {
+        "zh": "我先生在一家公司工作。",
+        "es": "Mi esposo trabaja en una empresa."
+      },
+      {
+        "zh": "李先生告诉我，他明天要去北京。",
+        "es": "El señor Li me dijo que mañana va a ir a Pekín."
+      }
+    ]
+  },
+  {
+    "word": "儿子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hijo"
+    ],
+    "examples": [
+      {
+        "zh": "这是我儿子。",
+        "es": "Este es mi hijo."
+      },
+      {
+        "zh": "他儿子今年五岁。",
+        "es": "Su hijo tiene cinco años este año."
+      },
+      {
+        "zh": "我儿子很喜欢看书。",
+        "es": "A mi hijo le gusta mucho leer."
+      },
+      {
+        "zh": "她儿子已经在北京工作两年了。",
+        "es": "Su hijo ya lleva dos años trabajando en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "任何",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cualquier",
+      "ningún (en frases negativas)",
+      "todo"
+    ],
+    "examples": [
+      {
+        "zh": "我没有任何问题。",
+        "es": "No tengo ningún problema."
+      },
+      {
+        "zh": "任何人都可以来。",
+        "es": "Cualquier persona puede venir."
+      },
+      {
+        "zh": "他不想跟任何人说话。",
+        "es": "No quiere hablar con nadie."
+      },
+      {
+        "zh": "如果有任何问题，请给我打电话。",
+        "es": "Si tienes cualquier pregunta, llámame por favor."
+      }
+    ]
+  },
+  {
+    "word": "那里",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "allí",
+      "allá",
+      "ese lugar"
+    ],
+    "examples": [
+      {
+        "zh": "你在那里吗？",
+        "es": "¿Estás allí?"
+      },
+      {
+        "zh": "那里有很多人。",
+        "es": "Allá hay mucha gente."
+      },
+      {
+        "zh": "我在那里住了三年。",
+        "es": "Viví allí tres años."
+      },
+      {
+        "zh": "我想去那里看看，你想跟我一起去吗？",
+        "es": "Quiero ir a conocer ese lugar, ¿quieres venir conmigo?"
+      }
+    ]
+  },
+  {
+    "word": "只有",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "solo tener",
+      "solo hay",
+      "solo si",
+      "únicamente"
+    ],
+    "examples": [
+      {
+        "zh": "我只有一个孩子。",
+        "es": "Solo tengo un hijo."
+      },
+      {
+        "zh": "这里只有我们两个人。",
+        "es": "Aquí solo estamos nosotros dos."
+      },
+      {
+        "zh": "只有你知道这件事。",
+        "es": "Solo tú sabes esto."
+      },
+      {
+        "zh": "只有多学习，才能学好中文。",
+        "es": "Solo estudiando mucho se puede aprender bien chino."
+      }
+    ]
+  },
+  {
+    "word": "车",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "auto, carro",
+      "vehículo",
+      "máquina"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的车。",
+        "es": "Este es mi carro."
+      },
+      {
+        "zh": "他的车很新。",
+        "es": "Su auto es muy nuevo."
+      },
+      {
+        "zh": "我每天开车去公司。",
+        "es": "Todos los días voy manejando a la empresa."
+      },
+      {
+        "zh": "路上车太多了，我们走路去吧。",
+        "es": "Hay demasiados carros en la calle, mejor vamos caminando."
+      }
+    ]
+  },
+  {
+    "word": "自",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desde",
+      "de (procedencia)",
+      "uno mismo",
+      "naturalmente"
+    ],
+    "examples": [
+      {
+        "zh": "我来自中国。",
+        "es": "Soy de China."
+      },
+      {
+        "zh": "这些学生来自不同的国家。",
+        "es": "Estos estudiantes vienen de distintos países."
+      },
+      {
+        "zh": "自今天起，这里不能用手机。",
+        "es": "A partir de hoy, aquí no se puede usar el celular."
+      },
+      {
+        "zh": "自那时起，他再也没有来过我家。",
+        "es": "Desde entonces, nunca volvió a venir a mi casa."
+      }
+    ]
+  },
+  {
+    "word": "介绍",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "presentar (a alguien)",
+      "dar a conocer",
+      "recomendar",
+      "presentación"
+    ],
+    "examples": [
+      {
+        "zh": "我来介绍一下，这是我朋友。",
+        "es": "Déjame presentarte: este es mi amigo."
+      },
+      {
+        "zh": "请你介绍一下你自己。",
+        "es": "Por favor, preséntate."
+      },
+      {
+        "zh": "你能给我介绍一个好老师吗？",
+        "es": "¿Me puedes recomendar un buen maestro?"
+      },
+      {
+        "zh": "他给我们介绍了中国的历史和文化。",
+        "es": "Nos habló de la historia y la cultura de China."
+      }
+    ]
+  },
+  {
+    "word": "带",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llevar, traer",
+      "guiar",
+      "cuidar (a alguien)",
+      "cinta, cinturón"
+    ],
+    "examples": [
+      {
+        "zh": "你带钱了吗？",
+        "es": "¿Trajiste dinero?"
+      },
+      {
+        "zh": "我带你去吧。",
+        "es": "Yo te llevo."
+      },
+      {
+        "zh": "明天请带你的书来学校。",
+        "es": "Mañana, por favor, trae tu libro a la escuela."
+      },
+      {
+        "zh": "他带我们去看了北京最老的地方。",
+        "es": "Nos llevó a ver los lugares más antiguos de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "今年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "este año"
+    ],
+    "examples": [
+      {
+        "zh": "你今年多大？",
+        "es": "¿Cuántos años tienes?"
+      },
+      {
+        "zh": "今年我二十岁。",
+        "es": "Este año cumplo veinte años."
+      },
+      {
+        "zh": "今年我们公司来了很多新人。",
+        "es": "Este año llegó mucha gente nueva a nuestra empresa."
+      },
+      {
+        "zh": "我希望今年能去中国学习中文。",
+        "es": "Espero poder ir a China a estudiar chino este año."
+      }
+    ]
+  },
+  {
+    "word": "学院",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "facultad",
+      "escuela superior",
+      "instituto"
+    ],
+    "examples": [
+      {
+        "zh": "这是我们学院。",
+        "es": "Esta es nuestra facultad."
+      },
+      {
+        "zh": "他在医学院学习。",
+        "es": "Él estudia en la facultad de medicina."
+      },
+      {
+        "zh": "我们学院有很多外国学生。",
+        "es": "En nuestra facultad hay muchos estudiantes extranjeros."
+      },
+      {
+        "zh": "她想去北京的电影学院学习。",
+        "es": "Ella quiere estudiar en la escuela de cine de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "虽然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aunque",
+      "a pesar de que",
+      "si bien"
+    ],
+    "examples": [
+      {
+        "zh": "虽然很贵，但是我很喜欢。",
+        "es": "Aunque es caro, me gusta mucho."
+      },
+      {
+        "zh": "虽然他很忙，但还是来了。",
+        "es": "Aunque estaba muy ocupado, de todos modos vino."
+      },
+      {
+        "zh": "虽然我不认识他，但是我知道他是谁。",
+        "es": "Aunque no lo conozco, sé quién es."
+      },
+      {
+        "zh": "虽然已经很晚了，他还在公司工作。",
+        "es": "Aunque ya es muy tarde, él sigue trabajando en la empresa."
+      }
+    ]
+  },
+  {
+    "word": "找到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "encontrar",
+      "hallar"
+    ],
+    "examples": [
+      {
+        "zh": "我找到了！",
+        "es": "¡Lo encontré!"
+      },
+      {
+        "zh": "他还没找到工作。",
+        "es": "Todavía no ha encontrado trabajo."
+      },
+      {
+        "zh": "你找到你的手机了吗？",
+        "es": "¿Encontraste tu celular?"
+      },
+      {
+        "zh": "我找了一个小时，才找到那家医院。",
+        "es": "Busqué una hora hasta que por fin encontré ese hospital."
+      }
+    ]
+  },
+  {
+    "word": "手",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mano",
+      "persona hábil en algo",
+      "a mano, personalmente"
+    ],
+    "examples": [
+      {
+        "zh": "我的手很冷。",
+        "es": "Tengo las manos muy frías."
+      },
+      {
+        "zh": "请先洗手。",
+        "es": "Primero lávate las manos, por favor."
+      },
+      {
+        "zh": "他手里拿着一本书。",
+        "es": "Tiene un libro en la mano."
+      },
+      {
+        "zh": "她用左手写字，写得非常好。",
+        "es": "Ella escribe con la mano izquierda y lo hace muy bien."
+      }
+    ]
+  },
+  {
+    "word": "因此",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por lo tanto",
+      "por eso",
+      "en consecuencia"
+    ],
+    "examples": [
+      {
+        "zh": "他病了，因此没来。",
+        "es": "Se enfermó, por eso no vino."
+      },
+      {
+        "zh": "今天下雨，因此我们不去了。",
+        "es": "Hoy llueve, así que no vamos a ir."
+      },
+      {
+        "zh": "她非常喜欢中国文化，因此决定学中文。",
+        "es": "Le encanta la cultura china, por eso decidió estudiar chino."
+      },
+      {
+        "zh": "这个问题非常重要，因此我们必须马上研究。",
+        "es": "Este asunto es muy importante, por lo tanto debemos analizarlo de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "电视",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "televisión",
+      "televisor, tele"
+    ],
+    "examples": [
+      {
+        "zh": "你家有电视吗？",
+        "es": "¿Tienes televisor en tu casa?"
+      },
+      {
+        "zh": "我在看电视。",
+        "es": "Estoy viendo la tele."
+      },
+      {
+        "zh": "我爸爸每天晚上都看电视。",
+        "es": "Mi papá ve televisión todas las noches."
+      },
+      {
+        "zh": "我觉得孩子们不应该每天看太多电视。",
+        "es": "Creo que los niños no deberían ver tanta televisión todos los días."
+      }
+    ]
+  },
+  {
+    "word": "游戏",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "juego",
+      "videojuego",
+      "jugar"
+    ],
+    "examples": [
+      {
+        "zh": "我们玩游戏吧！",
+        "es": "¡Juguemos a algo!"
+      },
+      {
+        "zh": "他很喜欢玩电脑游戏。",
+        "es": "A él le gustan mucho los videojuegos de computadora."
+      },
+      {
+        "zh": "这个游戏是谁做的？",
+        "es": "¿Quién hizo este juego?"
+      },
+      {
+        "zh": "我儿子每天都玩两个小时的手机游戏。",
+        "es": "Mi hijo juega en el celular dos horas todos los días."
+      }
+    ]
+  },
+  {
+    "word": "妈妈",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mamá",
+      "madre"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈，我爱你。",
+        "es": "Mamá, te quiero."
+      },
+      {
+        "zh": "我妈妈是老师。",
+        "es": "Mi mamá es maestra."
+      },
+      {
+        "zh": "我每个星期给妈妈打电话。",
+        "es": "Llamo a mi mamá todas las semanas."
+      },
+      {
+        "zh": "妈妈告诉我，吃饭以前要先洗手。",
+        "es": "Mi mamá me dijo que hay que lavarse las manos antes de comer."
+      }
+    ]
+  },
+  {
+    "word": "如",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "como",
+      "por ejemplo",
+      "si (formal)",
+      "igual que"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃水果，如苹果。",
+        "es": "Me gusta comer fruta, como las manzanas."
+      },
+      {
+        "zh": "如有问题，请问老师。",
+        "es": "Si tienen dudas, pregúntenle al maestro."
+      },
+      {
+        "zh": "中国有很多大城市，如北京和上海。",
+        "es": "China tiene muchas ciudades grandes, como Pekín y Shanghái."
+      },
+      {
+        "zh": "如你所说，这个问题非常重要。",
+        "es": "Como dijiste, este asunto es muy importante."
+      }
+    ]
+  }
+]

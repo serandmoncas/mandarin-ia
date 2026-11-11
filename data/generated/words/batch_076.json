@@ -1,0 +1,539 @@
+[
+  {
+    "word": "伟大",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grande (en importancia)",
+      "grandioso",
+      "admirable",
+      "magnífico"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个伟大的人。",
+        "es": "Él es una gran persona."
+      },
+      {
+        "zh": "母亲的爱很伟大。",
+        "es": "El amor de una madre es inmenso."
+      },
+      {
+        "zh": "中国有很多伟大的作家。",
+        "es": "China tiene muchos grandes escritores."
+      },
+      {
+        "zh": "我觉得这是一个伟大的想法，我们应该试试。",
+        "es": "Creo que es una gran idea; deberíamos intentarlo."
+      }
+    ]
+  },
+  {
+    "word": "一生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "toda la vida",
+      "a lo largo de la vida"
+    ],
+    "examples": [
+      {
+        "zh": "他一生都在北京。",
+        "es": "Pasó toda su vida en Pekín."
+      },
+      {
+        "zh": "我一生都不会忘记你。",
+        "es": "Nunca te voy a olvidar en toda mi vida."
+      },
+      {
+        "zh": "她一生都在学校教书。",
+        "es": "Ella fue maestra en una escuela toda su vida."
+      },
+      {
+        "zh": "爷爷一生做了很多事，大家都很喜欢他。",
+        "es": "Mi abuelo hizo muchas cosas en su vida y todos lo querían mucho."
+      }
+    ]
+  },
+  {
+    "word": "草",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pasto",
+      "hierba",
+      "paja",
+      "borrador"
+    ],
+    "examples": [
+      {
+        "zh": "地上有很多草。",
+        "es": "Hay mucho pasto en el suelo."
+      },
+      {
+        "zh": "马喜欢吃草。",
+        "es": "A los caballos les gusta comer pasto."
+      },
+      {
+        "zh": "公园里的草是绿色的。",
+        "es": "El pasto del parque es verde."
+      },
+      {
+        "zh": "下雨以后，山上的草长得很快。",
+        "es": "Después de la lluvia, el pasto de la montaña crece muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "车辆",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vehículo",
+      "vehículos"
+    ],
+    "examples": [
+      {
+        "zh": "路上的车辆很多。",
+        "es": "Hay muchos vehículos en la calle."
+      },
+      {
+        "zh": "车辆不能进入学校。",
+        "es": "Los vehículos no pueden entrar a la escuela."
+      },
+      {
+        "zh": "晚上路上的车辆比较少。",
+        "es": "En la noche hay menos vehículos en la calle."
+      },
+      {
+        "zh": "为了安全，所有车辆都必须慢慢开。",
+        "es": "Por seguridad, todos los vehículos deben avanzar despacio."
+      }
+    ]
+  },
+  {
+    "word": "主张",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "defender (una idea)",
+      "proponer",
+      "postura",
+      "opinión"
+    ],
+    "examples": [
+      {
+        "zh": "这是他的主张。",
+        "es": "Esa es su postura."
+      },
+      {
+        "zh": "我们主张和平。",
+        "es": "Nosotros defendemos la paz."
+      },
+      {
+        "zh": "老师主张学生多读书。",
+        "es": "El maestro propone que los estudiantes lean más."
+      },
+      {
+        "zh": "很多人不同意政府的主张，但是政府没有改变。",
+        "es": "Mucha gente no está de acuerdo con la postura del gobierno, pero este no cambió."
+      }
+    ]
+  },
+  {
+    "word": "河",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "río"
+    ],
+    "examples": [
+      {
+        "zh": "这条河很长。",
+        "es": "Este río es muy largo."
+      },
+      {
+        "zh": "孩子们在河里玩。",
+        "es": "Los niños juegan en el río."
+      },
+      {
+        "zh": "我家旁边有一条河。",
+        "es": "Hay un río junto a mi casa."
+      },
+      {
+        "zh": "河水太冷了，我们明天再去河边玩吧。",
+        "es": "El agua del río está demasiado fría; mejor vamos a jugar a la orilla mañana."
+      }
+    ]
+  },
+  {
+    "word": "成长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "crecer",
+      "madurar",
+      "crecimiento"
+    ],
+    "examples": [
+      {
+        "zh": "孩子成长得很快。",
+        "es": "Los niños crecen muy rápido."
+      },
+      {
+        "zh": "我是在北京成长的。",
+        "es": "Yo crecí en Pekín."
+      },
+      {
+        "zh": "父母都希望孩子健康成长。",
+        "es": "Todos los padres desean que sus hijos crezcan sanos."
+      },
+      {
+        "zh": "这次失败让他成长了很多，他现在更努力了。",
+        "es": "Este fracaso lo hizo madurar mucho; ahora se esfuerza más."
+      }
+    ]
+  },
+  {
+    "word": "旅行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "viajar",
+      "viaje"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢旅行。",
+        "es": "Me gusta viajar."
+      },
+      {
+        "zh": "明年我们去日本旅行。",
+        "es": "El próximo año vamos a viajar a Japón."
+      },
+      {
+        "zh": "这次旅行我们玩得很开心。",
+        "es": "En este viaje nos divertimos mucho."
+      },
+      {
+        "zh": "他一个人旅行了三个月，认识了很多新朋友。",
+        "es": "Viajó solo durante tres meses y conoció a muchos amigos nuevos."
+      }
+    ]
+  },
+  {
+    "word": "发出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "emitir",
+      "producir (un sonido)",
+      "enviar",
+      "dar (una orden)"
+    ],
+    "examples": [
+      {
+        "zh": "手机发出了声音。",
+        "es": "El celular hizo un sonido."
+      },
+      {
+        "zh": "公司发出了新的通知。",
+        "es": "La empresa emitió un nuevo aviso."
+      },
+      {
+        "zh": "这个声音是从哪里发出的？",
+        "es": "¿De dónde salió este sonido?"
+      },
+      {
+        "zh": "晚上楼上常常发出很大的声音，我睡不着。",
+        "es": "En la noche suelen oírse ruidos fuertes en el piso de arriba y no puedo dormir."
+      }
+    ]
+  },
+  {
+    "word": "满意",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "satisfecho",
+      "contento",
+      "conforme"
+    ],
+    "examples": [
+      {
+        "zh": "我很满意。",
+        "es": "Estoy muy satisfecho."
+      },
+      {
+        "zh": "你满意吗？",
+        "es": "¿Estás satisfecho?"
+      },
+      {
+        "zh": "老师对我的考试成绩很满意。",
+        "es": "El maestro está muy satisfecho con mi calificación del examen."
+      },
+      {
+        "zh": "如果你对这个产品不满意，可以在七天内换。",
+        "es": "Si no estás satisfecho con este producto, puedes cambiarlo en un plazo de siete días."
+      }
+    ]
+  },
+  {
+    "word": "合法",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "legal",
+      "lícito",
+      "legítimo"
+    ],
+    "examples": [
+      {
+        "zh": "这是合法的。",
+        "es": "Esto es legal."
+      },
+      {
+        "zh": "他的工作合法吗？",
+        "es": "¿Su trabajo es legal?"
+      },
+      {
+        "zh": "在这个国家，这种行为不合法。",
+        "es": "En este país, este tipo de conducta no es legal."
+      },
+      {
+        "zh": "只有合法的公司才能参加这个项目。",
+        "es": "Solo las empresas legales pueden participar en este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "校长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "director (de escuela)",
+      "rector (de universidad)"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们的校长。",
+        "es": "Él es nuestro director."
+      },
+      {
+        "zh": "校长在办公室吗？",
+        "es": "¿El director está en la oficina?"
+      },
+      {
+        "zh": "校长明天要来我们班。",
+        "es": "Mañana el director va a venir a nuestra clase."
+      },
+      {
+        "zh": "大学校长在会议上说，学校会给学生更多帮助。",
+        "es": "El rector dijo en la reunión que la universidad dará más apoyo a los estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "对话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conversación",
+      "diálogo",
+      "conversar",
+      "dialogar"
+    ],
+    "examples": [
+      {
+        "zh": "我们读一下这个对话。",
+        "es": "Leamos este diálogo."
+      },
+      {
+        "zh": "我听到了他们的对话。",
+        "es": "Escuché su conversación."
+      },
+      {
+        "zh": "这是一段很有意思的对话。",
+        "es": "Esta es una conversación muy interesante."
+      },
+      {
+        "zh": "两个国家的领导人进行了对话，双方都很满意。",
+        "es": "Los líderes de los dos países dialogaron y ambas partes quedaron muy satisfechas."
+      }
+    ]
+  },
+  {
+    "word": "接着",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "luego",
+      "a continuación",
+      "seguir (haciendo algo)",
+      "atrapar"
+    ],
+    "examples": [
+      {
+        "zh": "你接着说吧。",
+        "es": "Sigue hablando."
+      },
+      {
+        "zh": "他吃完饭，接着去上班了。",
+        "es": "Terminó de comer y luego se fue a trabajar."
+      },
+      {
+        "zh": "休息一下，我们接着看电影。",
+        "es": "Descansemos un poco y luego seguimos viendo la película."
+      },
+      {
+        "zh": "他先去了北京，接着又去了上海和香港。",
+        "es": "Primero fue a Pekín y después fue a Shanghái y Hong Kong."
+      }
+    ]
+  },
+  {
+    "word": "适合",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ser adecuado",
+      "quedar bien",
+      "convenir"
+    ],
+    "examples": [
+      {
+        "zh": "这件衣服很适合你。",
+        "es": "Esta ropa te queda muy bien."
+      },
+      {
+        "zh": "这本书适合孩子看。",
+        "es": "Este libro es adecuado para niños."
+      },
+      {
+        "zh": "我觉得这个工作不适合我。",
+        "es": "Creo que este trabajo no es para mí."
+      },
+      {
+        "zh": "今天天气很好，非常适合去公园玩。",
+        "es": "Hoy hace muy buen tiempo; es ideal para ir a pasear al parque."
+      }
+    ]
+  },
+  {
+    "word": "猫",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gato"
+    ],
+    "examples": [
+      {
+        "zh": "我有一只猫。",
+        "es": "Tengo un gato."
+      },
+      {
+        "zh": "这只猫很可爱。",
+        "es": "Este gato es muy lindo."
+      },
+      {
+        "zh": "我的猫喜欢在床上睡觉。",
+        "es": "A mi gato le gusta dormir en la cama."
+      },
+      {
+        "zh": "妹妹想要一只猫，但是妈妈说家里太小了。",
+        "es": "Mi hermana menor quiere un gato, pero mi mamá dice que la casa es muy pequeña."
+      }
+    ]
+  },
+  {
+    "word": "校园",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "campus",
+      "recinto escolar"
+    ],
+    "examples": [
+      {
+        "zh": "这个校园很大。",
+        "es": "Este campus es muy grande."
+      },
+      {
+        "zh": "我们在校园里走路。",
+        "es": "Caminamos por el campus."
+      },
+      {
+        "zh": "校园里有很多树和花。",
+        "es": "Hay muchos árboles y flores en el campus."
+      },
+      {
+        "zh": "新同学来了以后，老师带他们在校园里看了看。",
+        "es": "Cuando llegaron los compañeros nuevos, el maestro les mostró el campus."
+      }
+    ]
+  },
+  {
+    "word": "地铁",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "metro",
+      "tren subterráneo"
+    ],
+    "examples": [
+      {
+        "zh": "我坐地铁上班。",
+        "es": "Voy al trabajo en metro."
+      },
+      {
+        "zh": "地铁站在哪里？",
+        "es": "¿Dónde está la estación de metro?"
+      },
+      {
+        "zh": "坐地铁比打车快多了。",
+        "es": "Ir en metro es mucho más rápido que tomar un taxi."
+      },
+      {
+        "zh": "早上地铁里人太多了，我们走路去吧。",
+        "es": "En la mañana el metro va muy lleno; mejor vamos caminando."
+      }
+    ]
+  },
+  {
+    "word": "好处",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "beneficio",
+      "ventaja",
+      "provecho"
+    ],
+    "examples": [
+      {
+        "zh": "运动有很多好处。",
+        "es": "Hacer ejercicio tiene muchos beneficios."
+      },
+      {
+        "zh": "这样做有什么好处？",
+        "es": "¿Qué ventaja tiene hacerlo así?"
+      },
+      {
+        "zh": "多喝水对身体有好处。",
+        "es": "Tomar mucha agua es bueno para la salud."
+      },
+      {
+        "zh": "住在城市有很多好处，但是空气不太好。",
+        "es": "Vivir en la ciudad tiene muchas ventajas, pero el aire no es muy bueno."
+      }
+    ]
+  },
+  {
+    "word": "传",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasar (algo a alguien)",
+      "difundir",
+      "transmitir",
+      "contagiar"
+    ],
+    "examples": [
+      {
+        "zh": "请把球传给我。",
+        "es": "Pásame la pelota, por favor."
+      },
+      {
+        "zh": "这个消息很快传开了。",
+        "es": "La noticia se difundió rápidamente."
+      },
+      {
+        "zh": "他把照片传到了网上。",
+        "es": "Subió las fotos a internet."
+      },
+      {
+        "zh": "这个病会传给别人，你要多注意身体。",
+        "es": "Esta enfermedad se contagia a otras personas; cuida mucho tu salud."
+      }
+    ]
+  }
+]

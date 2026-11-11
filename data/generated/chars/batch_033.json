@@ -1,0 +1,422 @@
+[
+  {
+    "char": "祝",
+    "components": [
+      {
+        "char": "礻",
+        "meaning_es": "altar, ritual"
+      },
+      {
+        "char": "兄",
+        "meaning_es": "hermano mayor"
+      }
+    ],
+    "mnemonic_es": "Imagina al hermano mayor frente al altar familiar, pidiendo buenos deseos para todos: así se desea y se felicita."
+  },
+  {
+    "char": "咖",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "加",
+        "meaning_es": "sumar, agregar"
+      }
+    ],
+    "mnemonic_es": "A tu boca le agregas una taza tras otra: el sonido «ka» de 咖啡, el café."
+  },
+  {
+    "char": "啡",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "非",
+        "meaning_es": "no, incorrecto"
+      }
+    ],
+    "mnemonic_es": "Tu boca dice «¡no!» a dormir porque tomaste café: es la «fei» de 咖啡."
+  },
+  {
+    "char": "华",
+    "components": [
+      {
+        "char": "化",
+        "meaning_es": "transformar"
+      },
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      }
+    ],
+    "mnemonic_es": "Algo que se transforma diez veces hasta volverse espléndido: piensa en la grandeza de China (中华)."
+  },
+  {
+    "char": "剧",
+    "components": [
+      {
+        "char": "居",
+        "meaning_es": "residir, vivir"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "En la casa donde viven aparece un cuchillo: ¡ya tienes un drama de telenovela!"
+  },
+  {
+    "char": "架",
+    "components": [
+      {
+        "char": "加",
+        "meaning_es": "sumar, agregar"
+      },
+      {
+        "char": "木",
+        "meaning_es": "madera, árbol"
+      }
+    ],
+    "mnemonic_es": "Vas agregando tablas de madera una sobre otra hasta armar un estante o un marco."
+  },
+  {
+    "char": "刀",
+    "components": [
+      {
+        "char": "刀",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Míralo como un cuchillo de cocina con el mango curvado hacia la izquierda, listo para cortar."
+  },
+  {
+    "char": "桥",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "madera, árbol"
+      },
+      {
+        "char": "乔",
+        "meaning_es": "alto"
+      }
+    ],
+    "mnemonic_es": "Troncos de madera colocados en lo alto sobre el río: así se cruza por el puente."
+  },
+  {
+    "char": "落",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, planta"
+      },
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "各",
+        "meaning_es": "cada uno"
+      }
+    ],
+    "mnemonic_es": "Cada hoja de la planta, mojada por la lluvia, cae al suelo una por una."
+  },
+  {
+    "char": "搬",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "舟",
+        "meaning_es": "barco"
+      },
+      {
+        "char": "殳",
+        "meaning_es": "golpear, herramienta"
+      }
+    ],
+    "mnemonic_es": "Con las manos y herramientas cargas tus cosas en un barco: ¡te estás mudando!"
+  },
+  {
+    "char": "恐",
+    "components": [
+      {
+        "char": "工",
+        "meaning_es": "trabajo"
+      },
+      {
+        "char": "凡",
+        "meaning_es": "ordinario, común"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Un trabajo común encima del corazón, que late fuerte: es el miedo de no cumplir con la tarea."
+  },
+  {
+    "char": "彩",
+    "components": [
+      {
+        "char": "采",
+        "meaning_es": "recoger, cosechar"
+      },
+      {
+        "char": "彡",
+        "meaning_es": "pinceladas, brillo"
+      }
+    ],
+    "mnemonic_es": "Recoges flores y les agregas tres pinceladas brillantes: todo se llena de colores."
+  },
+  {
+    "char": "烟",
+    "components": [
+      {
+        "char": "火",
+        "meaning_es": "fuego"
+      },
+      {
+        "char": "因",
+        "meaning_es": "causa, razón"
+      }
+    ],
+    "mnemonic_es": "El fuego es la causa del humo; y un cigarrillo encendido también es 烟."
+  },
+  {
+    "char": "赶",
+    "components": [
+      {
+        "char": "走",
+        "meaning_es": "caminar, ir"
+      },
+      {
+        "char": "干",
+        "meaning_es": "hacer, seco"
+      }
+    ],
+    "mnemonic_es": "Caminas rápido porque tienes mucho que hacer: ¡vas apurado para alcanzar el bus!"
+  },
+  {
+    "char": "顿",
+    "components": [
+      {
+        "char": "屯",
+        "meaning_es": "acumular, aldea"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "La aldea entera inclina la cabeza y hace una pausa para comer: se usa para contar comidas (一顿饭)."
+  },
+  {
+    "char": "泳",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "永",
+        "meaning_es": "eterno, para siempre"
+      }
+    ],
+    "mnemonic_es": "Quisieras quedarte en el agua para siempre: ¡nadar es lo tuyo!"
+  },
+  {
+    "char": "皮",
+    "components": [
+      {
+        "char": "皮",
+        "meaning_es": "piel, cuero"
+      }
+    ],
+    "mnemonic_es": "Imagina una mano que tira de una piel de animal colgada para quitarla: piel, cuero, cáscara."
+  },
+  {
+    "char": "暖",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "爰",
+        "meaning_es": "tirar con las manos (componente)"
+      }
+    ],
+    "mnemonic_es": "Con las manos jalas el sol hacia ti y todo se vuelve cálido."
+  },
+  {
+    "char": "糖",
+    "components": [
+      {
+        "char": "米",
+        "meaning_es": "arroz, grano"
+      },
+      {
+        "char": "唐",
+        "meaning_es": "dinastía Tang"
+      }
+    ],
+    "mnemonic_es": "Granos dulces dignos de un banquete imperial de la dinastía Tang: azúcar y dulces."
+  },
+  {
+    "char": "握",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "屋",
+        "meaning_es": "casa, cuarto"
+      }
+    ],
+    "mnemonic_es": "Con la mano agarras fuerte la manija de la casa: agarrar, apretar, dar la mano (握手)."
+  },
+  {
+    "char": "汤",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "昜",
+        "meaning_es": "sol naciente (forma simplificada)"
+      }
+    ],
+    "mnemonic_es": "Agua calentada por el sol hasta que hierve: ya tienes una sopa caliente."
+  },
+  {
+    "char": "夫",
+    "components": [
+      {
+        "char": "大",
+        "meaning_es": "grande, adulto"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno, línea"
+      }
+    ],
+    "mnemonic_es": "Un adulto grande con una horquilla atravesada en el cabello: imagínalo como el hombre de la casa, el esposo (丈夫)."
+  },
+  {
+    "char": "材",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "madera, árbol"
+      },
+      {
+        "char": "才",
+        "meaning_es": "talento"
+      }
+    ],
+    "mnemonic_es": "Con talento conviertes la madera en buen material para construir."
+  },
+  {
+    "char": "缺",
+    "components": [
+      {
+        "char": "缶",
+        "meaning_es": "vasija de barro"
+      },
+      {
+        "char": "夬",
+        "meaning_es": "partir, romper"
+      }
+    ],
+    "mnemonic_es": "La vasija de barro se partió y le falta un pedazo: algo falta, hay escasez."
+  },
+  {
+    "char": "齐",
+    "components": [
+      {
+        "char": "齐",
+        "meaning_es": "parejo, completo"
+      }
+    ],
+    "mnemonic_es": "Ve el trazo de arriba como 文 sostenido por dos patas iguales: todo bien parejo, ¡ya estamos todos completos!"
+  },
+  {
+    "char": "邮",
+    "components": [
+      {
+        "char": "由",
+        "meaning_es": "de, desde, causa"
+      },
+      {
+        "char": "阝",
+        "meaning_es": "ciudad (a la derecha)"
+      }
+    ],
+    "mnemonic_es": "Cartas que salen desde una ciudad hacia otra: eso es el correo."
+  },
+  {
+    "char": "哈",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "合",
+        "meaning_es": "juntar, unir"
+      }
+    ],
+    "mnemonic_es": "Bocas juntas que se ríen a la vez: ¡ja, ja, ja (哈哈)!"
+  },
+  {
+    "char": "迷",
+    "components": [
+      {
+        "char": "米",
+        "meaning_es": "arroz"
+      },
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      }
+    ],
+    "mnemonic_es": "Caminas por un campo de arroz que parece no terminar y te pierdes; también es ser fan obsesivo (球迷)."
+  },
+  {
+    "char": "订",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "丁",
+        "meaning_es": "clavo"
+      }
+    ],
+    "mnemonic_es": "Tus palabras quedan clavadas en el sistema: reservaste la mesa o el boleto."
+  },
+  {
+    "char": "裤",
+    "components": [
+      {
+        "char": "衤",
+        "meaning_es": "ropa"
+      },
+      {
+        "char": "库",
+        "meaning_es": "almacén, bodega"
+      }
+    ],
+    "mnemonic_es": "La ropa que funciona como bodega para tus piernas: los pantalones."
+  }
+]

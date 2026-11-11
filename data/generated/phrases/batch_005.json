@@ -1,0 +1,152 @@
+[
+  {
+    "mission": "directions",
+    "zh": "请问，洗手间在哪里？",
+    "es": "Disculpe, ¿dónde está el baño?"
+  },
+  {
+    "mission": "directions",
+    "zh": "请问，地铁站在哪里？",
+    "es": "Disculpe, ¿dónde está la estación del metro?"
+  },
+  {
+    "mission": "directions",
+    "zh": "我迷路了，可以帮我吗？",
+    "es": "Me perdí, ¿me puede ayudar?"
+  },
+  {
+    "mission": "directions",
+    "zh": "我想去这个地方。",
+    "es": "Quiero ir a este lugar."
+  },
+  {
+    "mission": "directions",
+    "zh": "离这里远吗？",
+    "es": "¿Está lejos de aquí?"
+  },
+  {
+    "mission": "directions",
+    "zh": "走路要多长时间？",
+    "es": "¿Cuánto tiempo se tarda caminando?"
+  },
+  {
+    "mission": "directions",
+    "zh": "一直往前走。",
+    "es": "Siga todo derecho."
+  },
+  {
+    "mission": "directions",
+    "zh": "往左拐。",
+    "es": "Doble a la izquierda."
+  },
+  {
+    "mission": "directions",
+    "zh": "往右拐。",
+    "es": "Doble a la derecha."
+  },
+  {
+    "mission": "directions",
+    "zh": "可以在地图上指给我看吗？",
+    "es": "¿Me lo puede mostrar en el mapa?"
+  },
+  {
+    "mission": "directions",
+    "zh": "请再说一遍，慢一点。",
+    "es": "¿Me lo repite, más despacio, por favor?"
+  },
+  {
+    "mission": "directions",
+    "zh": "就在那边。",
+    "es": "Está justo allá."
+  },
+  {
+    "mission": "directions",
+    "zh": "在红绿灯那儿拐。",
+    "es": "Doble en el semáforo."
+  },
+  {
+    "mission": "directions",
+    "zh": "过马路就到了。",
+    "es": "Cruzando la calle ya llega."
+  },
+  {
+    "mission": "directions",
+    "zh": "不远，走五分钟就到。",
+    "es": "No está lejos, son cinco minutos caminando."
+  },
+  {
+    "mission": "directions",
+    "zh": "这条路对吗？",
+    "es": "¿Voy bien por este camino?"
+  },
+  {
+    "mission": "directions",
+    "zh": "公交车站在哪里？",
+    "es": "¿Dónde está la parada del autobús?"
+  },
+  {
+    "mission": "directions",
+    "zh": "最近的出口在哪里？",
+    "es": "¿Dónde está la salida más cercana?"
+  },
+  {
+    "mission": "directions",
+    "zh": "我们现在在哪里？",
+    "es": "¿Dónde estamos ahora?"
+  },
+  {
+    "mission": "directions",
+    "zh": "在第二个路口右转。",
+    "es": "Gire a la derecha en la segunda esquina."
+  },
+  {
+    "mission": "directions",
+    "zh": "在银行的对面。",
+    "es": "Está enfrente del banco."
+  },
+  {
+    "mission": "directions",
+    "zh": "在超市旁边。",
+    "es": "Está al lado del supermercado."
+  },
+  {
+    "mission": "directions",
+    "zh": "你走错了，要往回走。",
+    "es": "Se equivocó de camino, tiene que regresar."
+  },
+  {
+    "mission": "directions",
+    "zh": "附近有药店吗？",
+    "es": "¿Hay una farmacia cerca?"
+  },
+  {
+    "mission": "directions",
+    "zh": "坐几号线可以到？",
+    "es": "¿Qué línea tomo para llegar?"
+  },
+  {
+    "mission": "directions",
+    "zh": "要在哪一站换乘？",
+    "es": "¿En qué estación tengo que transbordar?"
+  },
+  {
+    "mission": "directions",
+    "zh": "从A口出来就到了。",
+    "es": "Sale por la salida A y ya llegó."
+  },
+  {
+    "mission": "directions",
+    "zh": "我也不太清楚，问问别人吧。",
+    "es": "No estoy muy seguro, mejor pregúntele a alguien más."
+  },
+  {
+    "mission": "directions",
+    "zh": "可以打车去吗？",
+    "es": "¿Se puede ir en taxi?"
+  },
+  {
+    "mission": "directions",
+    "zh": "谢谢你的帮助！",
+    "es": "¡Gracias por su ayuda!"
+  }
+]

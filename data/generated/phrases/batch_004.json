@@ -1,0 +1,142 @@
+[
+  {
+    "mission": "shopping",
+    "zh": "这个多少钱？",
+    "es": "¿Cuánto cuesta esto?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "太贵了，便宜一点吧。",
+    "es": "Está muy caro, ¿me lo deja más barato?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "我只是看看，谢谢。",
+    "es": "Solo estoy mirando, gracias."
+  },
+  {
+    "mission": "shopping",
+    "zh": "我要这个。",
+    "es": "Me llevo este."
+  },
+  {
+    "mission": "shopping",
+    "zh": "可以刷卡吗？",
+    "es": "¿Puedo pagar con tarjeta?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "可以用现金吗？",
+    "es": "¿Puedo pagar en efectivo?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "你需要什么？",
+    "es": "¿Qué necesita?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "一共多少钱？",
+    "es": "¿Cuánto es en total?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "有别的颜色吗？",
+    "es": "¿Lo tiene en otro color?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "有大一点的吗？",
+    "es": "¿Tiene uno más grande?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "有小一点的吗？",
+    "es": "¿Tiene uno más chico?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "我可以试一下吗？",
+    "es": "¿Me lo puedo probar?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "试衣间在哪里？",
+    "es": "¿Dónde está el probador?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "您穿多大号？",
+    "es": "¿Qué talla usa?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "请给我一个袋子。",
+    "es": "Deme una bolsa, por favor."
+  },
+  {
+    "mission": "shopping",
+    "zh": "要袋子吗？",
+    "es": "¿Quiere bolsa?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "可以开发票吗？",
+    "es": "¿Me puede dar factura?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "可以退换吗？",
+    "es": "¿Se puede cambiar o devolver?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "现在有打折吗？",
+    "es": "¿Hay descuentos ahora?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "能便宜点吗？",
+    "es": "¿Me hace un descuento?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "最低多少钱？",
+    "es": "¿Cuál es su último precio?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "我再看看。",
+    "es": "Lo voy a pensar."
+  },
+  {
+    "mission": "shopping",
+    "zh": "可以用微信支付吗？",
+    "es": "¿Puedo pagar con WeChat Pay?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "可以用支付宝吗？",
+    "es": "¿Puedo pagar con Alipay?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "这是什么做的？",
+    "es": "¿De qué material es?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "请帮我包起来。",
+    "es": "¿Me lo envuelve, por favor?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "能写下价格吗？",
+    "es": "¿Me puede escribir el precio?"
+  },
+  {
+    "mission": "shopping",
+    "zh": "找您十块钱。",
+    "es": "Le doy diez yuanes de cambio."
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:右",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd606e2461c3e0ac2c11af2b24e863a5fa64fcc2"
+  },
+  {
+    "id": "word:人类",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b0b4e08e44e73e3a040469b5bafae3400017b9a"
+  },
+  {
+    "id": "word:病人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc564653fd758058a4f1a0dc902b50af0d20f60b"
+  },
+  {
+    "id": "word:饿",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 饿得 se transcribe 'è dé', pero 得 como partícula complementaria es neutro: 'è de'."
+    ],
+    "content_hash": "9b9fc6dd350fd1476c6c549da56c12fc6925d8d8"
+  },
+  {
+    "id": "word:它们",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 两只狗 aparece como 'liǎng zhǐ'; el clasificador 只 se lee 'zhī' (primer tono)."
+    ],
+    "content_hash": "dcf2f5b354eed60b2573ab2aad66076f35cb2817"
+  },
+  {
+    "id": "word:真正",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e4b51aba2c82cd99e84e1cd249ad64904d6a5cc"
+  },
+  {
+    "id": "word:床",
+    "ok": true,
+    "issues": [],
+    "content_hash": "50c895816e668258b95b904a9e30f9bd840b4ff9"
+  },
+  {
+    "id": "word:分析",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ccaf83369815b3a31f63510619e80d1c0a7f005"
+  },
+  {
+    "id": "word:开车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c54b79c6aa45eb67d8485c95c9ba4302f7ab8a56"
+  },
+  {
+    "id": "word:制",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a7562613daecd72c460dbee5115a82172ecb5283"
+  },
+  {
+    "id": "word:哪儿",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 哪儿 se transcribe 'nǎ ér'; debe ser 'nǎr', porque 儿 es sufijo de erhua y no una sílaba aparte."
+    ],
+    "content_hash": "34b34e1b2e4aa19c53f2f68b7094bcf45aac5958"
+  },
+  {
+    "id": "word:投资",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8dcb466c81ba512bcbbe06d3c85f11467192010f"
+  },
+  {
+    "id": "word:下次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e55c53b50fdf3b430319fb63b8e1373885d22d97"
+  },
+  {
+    "id": "word:期间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "68701ebd133c8bd57e385b4abc0278d62f389999"
+  },
+  {
+    "id": "word:法国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e8d5da935f948764162f651f5ad4ab90aef0350"
+  },
+  {
+    "id": "word:记住",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c768753c26369472f33f4002497771d59a501f4"
+  },
+  {
+    "id": "word:帮助",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d98ed6406078092fce6dd40fc00461b33cccb33a"
+  },
+  {
+    "id": "word:门口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "940ee84dca5ed0a95972a5e3e51d2e938ba38d3f"
+  },
+  {
+    "id": "word:并且",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 1 y 4: 唱得 y 做得 aparecen como 'chàng dé' y 'zuò dé'; la partícula 得 es neutra: 'chàng de', 'zuò de'."
+    ],
+    "content_hash": "1e2067849c17527fd1d968abbe201ca1c401450b"
+  },
+  {
+    "id": "word:那边",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 处理 aparece como 'chù lǐ'; debe ser 'chǔ lǐ'."
+    ],
+    "content_hash": "b9a422d927a6a794e47a8004f23247211bc5276c"
+  },
+  {
+    "id": "word:饭店",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb999ed5e20565359c927ae4281d0fd321098d30"
+  },
+  {
+    "id": "word:仍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5da9dbb8d57078dfbc746fbdbf832d4f92bc8bd"
+  },
+  {
+    "id": "word:世纪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c984337f0b4379c92169f9c955d6a835b48e888b"
+  },
+  {
+    "id": "word:汉语",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53789f7a00c2000e0951652732ce424d14be03ca"
+  },
+  {
+    "id": "word:行动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86e8f08c6ffaaf7c5c62cd2c7bfaf36b810f9dbf"
+  }
+]

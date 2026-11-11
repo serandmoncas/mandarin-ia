@@ -1,0 +1,542 @@
+[
+  {
+    "word": "队长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "capitán (de un equipo)",
+      "líder de equipo",
+      "jefe de grupo"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们的队长。",
+        "es": "Él es nuestro capitán."
+      },
+      {
+        "zh": "队长让我们早上七点到。",
+        "es": "El capitán nos pidió llegar a las siete de la mañana."
+      },
+      {
+        "zh": "我们的队长篮球打得非常好。",
+        "es": "Nuestro capitán juega muy bien al básquetbol."
+      },
+      {
+        "zh": "比赛前，队长告诉大家一定要努力。",
+        "es": "Antes del partido, el capitán les dijo a todos que tenían que esforzarse."
+      }
+    ]
+  },
+  {
+    "word": "资格",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "derecho (a algo)",
+      "requisitos",
+      "calificación",
+      "antigüedad"
+    ],
+    "examples": [
+      {
+        "zh": "你有资格参加比赛吗？",
+        "es": "¿Tienes derecho a participar en la competencia?"
+      },
+      {
+        "zh": "他没有资格说这种话。",
+        "es": "Él no tiene derecho a decir algo así."
+      },
+      {
+        "zh": "只有大学生有资格申请这个项目。",
+        "es": "Solo los estudiantes universitarios pueden postularse a este proyecto."
+      },
+      {
+        "zh": "他工作了十年，很有资格当我们的经理。",
+        "es": "Ha trabajado diez años; está muy calificado para ser nuestro gerente."
+      }
+    ]
+  },
+  {
+    "word": "公斤",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "kilogramo",
+      "kilo"
+    ],
+    "examples": [
+      {
+        "zh": "我六十公斤。",
+        "es": "Peso sesenta kilos."
+      },
+      {
+        "zh": "这个包有五公斤重。",
+        "es": "Esta bolsa pesa cinco kilos."
+      },
+      {
+        "zh": "我想买两公斤苹果。",
+        "es": "Quiero comprar dos kilos de manzanas."
+      },
+      {
+        "zh": "我去年七十公斤，现在只有六十五公斤了。",
+        "es": "El año pasado pesaba setenta kilos y ahora solo peso sesenta y cinco."
+      }
+    ]
+  },
+  {
+    "word": "旅客",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasajero",
+      "viajero",
+      "turista"
+    ],
+    "examples": [
+      {
+        "zh": "火车上有很多旅客。",
+        "es": "En el tren hay muchos pasajeros."
+      },
+      {
+        "zh": "请旅客们在门口等一下。",
+        "es": "Se pide a los pasajeros que esperen un momento en la puerta."
+      },
+      {
+        "zh": "机场里的旅客都在找自己的包。",
+        "es": "Los viajeros del aeropuerto están buscando sus maletas."
+      },
+      {
+        "zh": "因为下雨，很多旅客的飞机票被取消了。",
+        "es": "Por la lluvia, se cancelaron los vuelos de muchos pasajeros."
+      }
+    ]
+  },
+  {
+    "word": "机器",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "máquina",
+      "aparato"
+    ],
+    "examples": [
+      {
+        "zh": "这台机器坏了。",
+        "es": "Esta máquina está descompuesta."
+      },
+      {
+        "zh": "这个机器怎么用？",
+        "es": "¿Cómo se usa esta máquina?"
+      },
+      {
+        "zh": "现在很多工作都可以用机器做。",
+        "es": "Hoy en día muchos trabajos se pueden hacer con máquinas."
+      },
+      {
+        "zh": "工人们正在学习怎么使用新的机器。",
+        "es": "Los trabajadores están aprendiendo a usar la máquina nueva."
+      }
+    ]
+  },
+  {
+    "word": "千",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mil",
+      "muchísimos"
+    ],
+    "examples": [
+      {
+        "zh": "这个手机三千元。",
+        "es": "Este celular cuesta tres mil yuanes."
+      },
+      {
+        "zh": "我们学校有两千个学生。",
+        "es": "Nuestra escuela tiene dos mil estudiantes."
+      },
+      {
+        "zh": "这个城市有一千多年的历史。",
+        "es": "Esta ciudad tiene más de mil años de historia."
+      },
+      {
+        "zh": "这次活动有几千人参加，非常成功。",
+        "es": "Varios miles de personas participaron en el evento; fue todo un éxito."
+      }
+    ]
+  },
+  {
+    "word": "集中",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "concentrar(se)",
+      "reunir(se)",
+      "centralizar",
+      "concentrado"
+    ],
+    "examples": [
+      {
+        "zh": "上课要集中注意力。",
+        "es": "En clase hay que concentrarse."
+      },
+      {
+        "zh": "我太累了，不能集中精神。",
+        "es": "Estoy demasiado cansado, no me puedo concentrar."
+      },
+      {
+        "zh": "学生们早上八点在门口集中。",
+        "es": "Los estudiantes se reúnen en la entrada a las ocho de la mañana."
+      },
+      {
+        "zh": "中国的人口主要集中在东边和南边。",
+        "es": "La población de China se concentra principalmente en el este y el sur."
+      }
+    ]
+  },
+  {
+    "word": "送给",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "regalar (a alguien)",
+      "dar",
+      "enviar"
+    ],
+    "examples": [
+      {
+        "zh": "这是送给你的。",
+        "es": "Esto es para ti."
+      },
+      {
+        "zh": "我想送给妈妈一个礼物。",
+        "es": "Quiero darle un regalo a mi mamá."
+      },
+      {
+        "zh": "这本书是我朋友送给我的生日礼物。",
+        "es": "Este libro me lo regaló un amigo por mi cumpleaños."
+      },
+      {
+        "zh": "他把自己的旧电脑送给了一个需要的学生。",
+        "es": "Le regaló su computadora vieja a un estudiante que la necesitaba."
+      }
+    ]
+  },
+  {
+    "word": "纪念",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conmemorar",
+      "recuerdo",
+      "recordar (a alguien)",
+      "aniversario"
+    ],
+    "examples": [
+      {
+        "zh": "这张照片很有纪念意义。",
+        "es": "Esta foto tiene mucho valor sentimental."
+      },
+      {
+        "zh": "我们买了一些东西做纪念。",
+        "es": "Compramos algunas cosas de recuerdo."
+      },
+      {
+        "zh": "今天是我们结婚十周年的纪念日。",
+        "es": "Hoy es nuestro décimo aniversario de bodas."
+      },
+      {
+        "zh": "人们每年都会纪念在战争中死去的人。",
+        "es": "Cada año la gente recuerda a quienes murieron en la guerra."
+      }
+    ]
+  },
+  {
+    "word": "紧张",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nervioso",
+      "tenso",
+      "intenso",
+      "escaso"
+    ],
+    "examples": [
+      {
+        "zh": "我有点紧张。",
+        "es": "Estoy un poco nervioso."
+      },
+      {
+        "zh": "别紧张，慢慢说。",
+        "es": "No te pongas nervioso, habla despacio."
+      },
+      {
+        "zh": "考试前他非常紧张。",
+        "es": "Antes del examen estaba muy nervioso."
+      },
+      {
+        "zh": "最近两个国家的关系越来越紧张。",
+        "es": "Últimamente la relación entre los dos países está cada vez más tensa."
+      }
+    ]
+  },
+  {
+    "word": "西北",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "noroeste",
+      "el noroeste de China"
+    ],
+    "examples": [
+      {
+        "zh": "我家在城市的西北边。",
+        "es": "Mi casa está en el noroeste de la ciudad."
+      },
+      {
+        "zh": "明天会有很大的西北风。",
+        "es": "Mañana habrá un fuerte viento del noroeste."
+      },
+      {
+        "zh": "北京的西北有很多山。",
+        "es": "Al noroeste de Pekín hay muchas montañas."
+      },
+      {
+        "zh": "学校在火车站的西北方向，走路十分钟就到。",
+        "es": "La escuela está al noroeste de la estación de tren, a diez minutos caminando."
+      }
+    ]
+  },
+  {
+    "word": "故意",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a propósito",
+      "intencionalmente",
+      "adrede"
+    ],
+    "examples": [
+      {
+        "zh": "对不起，我不是故意的。",
+        "es": "Perdón, no fue a propósito."
+      },
+      {
+        "zh": "他故意不接我的电话。",
+        "es": "No me contesta el teléfono a propósito."
+      },
+      {
+        "zh": "你是不是故意让我等这么久？",
+        "es": "¿Me hiciste esperar tanto a propósito?"
+      },
+      {
+        "zh": "她故意说得很慢，让外国学生能听懂。",
+        "es": "Habla despacio a propósito para que los estudiantes extranjeros entiendan."
+      }
+    ]
+  },
+  {
+    "word": "黄色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "amarillo",
+      "obsceno",
+      "pornográfico"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢黄色。",
+        "es": "Me gusta el amarillo."
+      },
+      {
+        "zh": "她穿了一件黄色的衣服。",
+        "es": "Ella se puso una prenda amarilla."
+      },
+      {
+        "zh": "那辆黄色的车是我爸爸的。",
+        "es": "Ese carro amarillo es de mi papá."
+      },
+      {
+        "zh": "我们学校的门和墙都是黄色的，非常好看。",
+        "es": "Las puertas y las paredes de nuestra escuela son amarillas; se ven muy bonitas."
+      }
+    ]
+  },
+  {
+    "word": "入口",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrada",
+      "importar (productos)"
+    ],
+    "examples": [
+      {
+        "zh": "入口在哪里？",
+        "es": "¿Dónde está la entrada?"
+      },
+      {
+        "zh": "请在入口买票。",
+        "es": "Por favor, compre los boletos en la entrada."
+      },
+      {
+        "zh": "地铁站的入口就在银行旁边。",
+        "es": "La entrada de la estación del metro está justo al lado del banco."
+      },
+      {
+        "zh": "公园有三个入口，最近的入口在东边。",
+        "es": "El parque tiene tres entradas; la más cercana está del lado este."
+      }
+    ]
+  },
+  {
+    "word": "推广",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "promover",
+      "difundir",
+      "popularizar",
+      "promoción"
+    ],
+    "examples": [
+      {
+        "zh": "我们要推广这个新产品。",
+        "es": "Tenemos que promocionar este producto nuevo."
+      },
+      {
+        "zh": "政府在全国推广普通话。",
+        "es": "El gobierno promueve el chino estándar en todo el país."
+      },
+      {
+        "zh": "这个方法很有用，应该推广到其他学校。",
+        "es": "Este método es muy útil; debería extenderse a otras escuelas."
+      },
+      {
+        "zh": "公司花了很多钱在网上推广他们的手机。",
+        "es": "La empresa gastó mucho dinero en promocionar sus celulares en internet."
+      }
+    ]
+  },
+  {
+    "word": "修改",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "modificar",
+      "corregir",
+      "cambiar",
+      "enmendar"
+    ],
+    "examples": [
+      {
+        "zh": "我要修改一下这篇文章。",
+        "es": "Tengo que corregir un poco este artículo."
+      },
+      {
+        "zh": "老师帮我修改了作业。",
+        "es": "La maestra me ayudó a corregir la tarea."
+      },
+      {
+        "zh": "这个计划还需要修改几个地方。",
+        "es": "Todavía hay que modificar algunas partes de este plan."
+      },
+      {
+        "zh": "你修改完以后，请把文件发给我。",
+        "es": "Cuando termines de hacer los cambios, mándame el archivo, por favor."
+      }
+    ]
+  },
+  {
+    "word": "参观",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "visitar (un lugar)",
+      "recorrer",
+      "conocer (un lugar)"
+    ],
+    "examples": [
+      {
+        "zh": "我们明天去参观大学。",
+        "es": "Mañana vamos a visitar la universidad."
+      },
+      {
+        "zh": "欢迎大家来参观我们学校。",
+        "es": "Bienvenidos todos a conocer nuestra escuela."
+      },
+      {
+        "zh": "上个星期，我们参观了一家汽车公司。",
+        "es": "La semana pasada visitamos una empresa automotriz."
+      },
+      {
+        "zh": "每年有很多外国游客来北京参观历史建筑。",
+        "es": "Cada año muchos turistas extranjeros vienen a Pekín a visitar edificios históricos."
+      }
+    ]
+  },
+  {
+    "word": "自身",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "uno mismo",
+      "propio",
+      "sí mismo"
+    ],
+    "examples": [
+      {
+        "zh": "你要注意自身安全。",
+        "es": "Tienes que cuidar tu propia seguridad."
+      },
+      {
+        "zh": "这是他自身的问题。",
+        "es": "Ese es un problema de él mismo."
+      },
+      {
+        "zh": "每个人都应该了解自身的优势。",
+        "es": "Cada persona debería conocer sus propias fortalezas."
+      },
+      {
+        "zh": "公司要发展，首先要解决自身的问题。",
+        "es": "Para crecer, la empresa primero tiene que resolver sus propios problemas."
+      }
+    ]
+  },
+  {
+    "word": "出门",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salir (de casa)",
+      "irse de viaje",
+      "estar fuera de casa"
+    ],
+    "examples": [
+      {
+        "zh": "我出门了！",
+        "es": "¡Ya me voy!"
+      },
+      {
+        "zh": "下雨天我不想出门。",
+        "es": "Cuando llueve no quiero salir."
+      },
+      {
+        "zh": "他每天早上七点出门上班。",
+        "es": "Todos los días sale de su casa a las siete de la mañana para ir al trabajo."
+      },
+      {
+        "zh": "出门前，妈妈总是告诉我要注意安全。",
+        "es": "Antes de salir, mi mamá siempre me dice que me cuide."
+      }
+    ]
+  },
+  {
+    "word": "蛋",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "huevo",
+      "cosa ovalada"
+    ],
+    "examples": [
+      {
+        "zh": "这个蛋很大。",
+        "es": "Este huevo es muy grande."
+      },
+      {
+        "zh": "我早饭吃了两个鸡蛋。",
+        "es": "Desayuné dos huevos."
+      },
+      {
+        "zh": "妈妈去商店买了一些蛋和牛奶。",
+        "es": "Mi mamá fue a la tienda a comprar huevos y leche."
+      },
+      {
+        "zh": "小鸟在树上生了三个蛋，非常可爱。",
+        "es": "Un pajarito puso tres huevos en el árbol; son muy lindos."
+      }
+    ]
+  }
+]

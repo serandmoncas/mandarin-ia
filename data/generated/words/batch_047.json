@@ -1,0 +1,535 @@
+[
+  {
+    "word": "下边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abajo",
+      "debajo",
+      "la parte de abajo"
+    ],
+    "examples": [
+      {
+        "zh": "书在下边。",
+        "es": "El libro está abajo."
+      },
+      {
+        "zh": "桌子下边有一个包。",
+        "es": "Debajo de la mesa hay una bolsa."
+      },
+      {
+        "zh": "我的手机在床下边。",
+        "es": "Mi celular está debajo de la cama."
+      },
+      {
+        "zh": "请看下边的图片，然后回答问题。",
+        "es": "Por favor, mira la imagen de abajo y luego responde la pregunta."
+      }
+    ]
+  },
+  {
+    "word": "父亲",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "padre"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的父亲。",
+        "es": "Él es mi padre."
+      },
+      {
+        "zh": "我父亲在医院工作。",
+        "es": "Mi padre trabaja en un hospital."
+      },
+      {
+        "zh": "父亲每天早上六点起床。",
+        "es": "Mi padre se levanta todos los días a las seis de la mañana."
+      },
+      {
+        "zh": "父亲告诉我，学习比钱更重要。",
+        "es": "Mi padre me dijo que estudiar es más importante que el dinero."
+      }
+    ]
+  },
+  {
+    "word": "不客气",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de nada",
+      "no hay de qué",
+      "descortés, grosero"
+    ],
+    "examples": [
+      {
+        "zh": "谢谢你！不客气。",
+        "es": "—¡Gracias! —De nada."
+      },
+      {
+        "zh": "不客气，这是我应该做的。",
+        "es": "No hay de qué, es lo que tenía que hacer."
+      },
+      {
+        "zh": "他说话很不客气，大家都不高兴。",
+        "es": "Él habló de forma muy grosera y todos se molestaron."
+      },
+      {
+        "zh": "朋友之间不用说谢谢，也不用说不客气。",
+        "es": "Entre amigos no hace falta decir gracias, ni tampoco de nada."
+      }
+    ]
+  },
+  {
+    "word": "关注",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prestar atención a",
+      "seguir de cerca",
+      "seguir (en redes sociales)",
+      "interés, atención"
+    ],
+    "examples": [
+      {
+        "zh": "请关注我们的网站。",
+        "es": "Por favor, sigue nuestro sitio web."
+      },
+      {
+        "zh": "很多人关注这个新闻。",
+        "es": "Mucha gente está pendiente de esta noticia."
+      },
+      {
+        "zh": "我在网上关注了这个老师。",
+        "es": "Seguí a este maestro en internet."
+      },
+      {
+        "zh": "政府应该更关注老人和孩子的生活。",
+        "es": "El gobierno debería prestar más atención a la vida de los ancianos y los niños."
+      }
+    ]
+  },
+  {
+    "word": "简单",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sencillo",
+      "simple",
+      "fácil"
+    ],
+    "examples": [
+      {
+        "zh": "这个问题很简单。",
+        "es": "Esta pregunta es muy sencilla."
+      },
+      {
+        "zh": "这个游戏很简单，孩子也会玩。",
+        "es": "Este juego es muy sencillo, hasta los niños saben jugarlo."
+      },
+      {
+        "zh": "我们晚上吃点简单的东西吧。",
+        "es": "Esta noche comamos algo sencillo."
+      },
+      {
+        "zh": "他用简单的话介绍了自己的工作。",
+        "es": "Presentó su trabajo con palabras sencillas."
+      }
+    ]
+  },
+  {
+    "word": "没事儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no pasa nada",
+      "no es nada, está bien",
+      "estar libre, no tener nada que hacer"
+    ],
+    "examples": [
+      {
+        "zh": "你没事儿吧？",
+        "es": "¿Estás bien?"
+      },
+      {
+        "zh": "对不起！没事儿。",
+        "es": "—¡Perdón! —No pasa nada."
+      },
+      {
+        "zh": "我今天下午没事儿，可以去找你。",
+        "es": "Hoy en la tarde estoy libre, puedo ir a buscarte."
+      },
+      {
+        "zh": "他病了一个星期，现在已经没事儿了。",
+        "es": "Estuvo enfermo una semana, pero ya está bien."
+      }
+    ]
+  },
+  {
+    "word": "前边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adelante",
+      "enfrente",
+      "la parte de adelante"
+    ],
+    "examples": [
+      {
+        "zh": "银行在前边。",
+        "es": "El banco está adelante."
+      },
+      {
+        "zh": "前边有一家饭店。",
+        "es": "Más adelante hay un restaurante."
+      },
+      {
+        "zh": "上课的时候，我喜欢坐在前边。",
+        "es": "En clase me gusta sentarme adelante."
+      },
+      {
+        "zh": "到了前边的路口，你就能看见车站。",
+        "es": "Al llegar al cruce de adelante, vas a ver la estación."
+      }
+    ]
+  },
+  {
+    "word": "理论",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "teoría",
+      "discutir (para aclarar algo)"
+    ],
+    "examples": [
+      {
+        "zh": "这个理论很难。",
+        "es": "Esta teoría es muy difícil."
+      },
+      {
+        "zh": "我们学习了很多新理论。",
+        "es": "Aprendimos muchas teorías nuevas."
+      },
+      {
+        "zh": "理论很重要，但是经验也很重要。",
+        "es": "La teoría es importante, pero la experiencia también."
+      },
+      {
+        "zh": "这位专家的理论在国际上影响很大。",
+        "es": "La teoría de este experto tiene mucha influencia a nivel internacional."
+      }
+    ]
+  },
+  {
+    "word": "教学楼",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "edificio de aulas",
+      "edificio académico"
+    ],
+    "examples": [
+      {
+        "zh": "这是我们的教学楼。",
+        "es": "Este es nuestro edificio de aulas."
+      },
+      {
+        "zh": "教学楼旁边有一个图书馆。",
+        "es": "Al lado del edificio de aulas hay una biblioteca."
+      },
+      {
+        "zh": "我们每天早上八点到教学楼上课。",
+        "es": "Todos los días a las ocho de la mañana vamos al edificio de aulas a tomar clase."
+      },
+      {
+        "zh": "学校去年建了新教学楼，里边有很多电脑。",
+        "es": "El año pasado la escuela construyó un nuevo edificio de aulas, y adentro hay muchas computadoras."
+      }
+    ]
+  },
+  {
+    "word": "讨论",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "discutir, conversar sobre un tema",
+      "debatir",
+      "comentar"
+    ],
+    "examples": [
+      {
+        "zh": "我们讨论一下吧。",
+        "es": "Platiquemos un poco sobre esto."
+      },
+      {
+        "zh": "大家在讨论明天的计划。",
+        "es": "Todos están hablando del plan de mañana."
+      },
+      {
+        "zh": "这个问题我们明天开会再讨论。",
+        "es": "Este tema lo vamos a discutir mañana en la reunión."
+      },
+      {
+        "zh": "经过三个小时的讨论，大家决定支持这个计划。",
+        "es": "Después de tres horas de discusión, todos decidieron apoyar este plan."
+      }
+    ]
+  },
+  {
+    "word": "小孩儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "niño, niña",
+      "criatura, chiquillo"
+    ],
+    "examples": [
+      {
+        "zh": "这个小孩儿三岁了。",
+        "es": "Este niño tiene tres años."
+      },
+      {
+        "zh": "很多小孩儿喜欢玩游戏。",
+        "es": "A muchos niños les gusta jugar videojuegos."
+      },
+      {
+        "zh": "别把我当小孩儿，我已经十八岁了！",
+        "es": "¡No me trates como a un niño, ya tengo dieciocho años!"
+      },
+      {
+        "zh": "他们家有两个小孩儿，一个男孩儿，一个女孩儿。",
+        "es": "En su familia hay dos niños: un niño y una niña."
+      }
+    ]
+  },
+  {
+    "word": "以前",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "antes",
+      "anteriormente",
+      "hace (tiempo)"
+    ],
+    "examples": [
+      {
+        "zh": "我以前住在北京。",
+        "es": "Antes vivía en Beijing."
+      },
+      {
+        "zh": "三年以前，我来到了中国。",
+        "es": "Hace tres años llegué a China."
+      },
+      {
+        "zh": "睡觉以前最好不要喝太多茶。",
+        "es": "Antes de dormir es mejor no tomar demasiado té."
+      },
+      {
+        "zh": "他以前是老师，现在在一家公司工作。",
+        "es": "Antes era maestro; ahora trabaja en una empresa."
+      }
+    ]
+  },
+  {
+    "word": "面条儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fideos",
+      "tallarines"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃面条儿。",
+        "es": "Me gusta comer fideos."
+      },
+      {
+        "zh": "中午我们去吃面条儿吧。",
+        "es": "Vamos a comer fideos al mediodía."
+      },
+      {
+        "zh": "妈妈做的面条儿特别好吃。",
+        "es": "Los fideos que hace mi mamá son riquísimos."
+      },
+      {
+        "zh": "在中国，很多人过生日的时候会吃面条儿。",
+        "es": "En China, mucha gente come fideos en su cumpleaños."
+      }
+    ]
+  },
+  {
+    "word": "证明",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "demostrar, probar",
+      "comprobar",
+      "certificado, constancia"
+    ],
+    "examples": [
+      {
+        "zh": "你能证明吗？",
+        "es": "¿Puedes demostrarlo?"
+      },
+      {
+        "zh": "请假要有医院的证明。",
+        "es": "Para pedir permiso necesitas una constancia del hospital."
+      },
+      {
+        "zh": "这些照片可以证明他说的是真的。",
+        "es": "Estas fotos pueden demostrar que lo que dice es verdad."
+      },
+      {
+        "zh": "科学家用很多数据证明了这个理论是对的。",
+        "es": "Los científicos demostraron con muchos datos que esta teoría es correcta."
+      }
+    ]
+  },
+  {
+    "word": "好玩儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "divertido",
+      "entretenido",
+      "gracioso"
+    ],
+    "examples": [
+      {
+        "zh": "这个游戏很好玩儿。",
+        "es": "Este juego es muy divertido."
+      },
+      {
+        "zh": "北京有什么好玩儿的地方？",
+        "es": "¿Qué lugares divertidos hay en Beijing?"
+      },
+      {
+        "zh": "我觉得学汉语很好玩儿，每天都想学。",
+        "es": "Creo que aprender chino es muy divertido; quiero estudiar todos los días."
+      },
+      {
+        "zh": "昨天的活动不太好玩儿，我很早就回家了。",
+        "es": "La actividad de ayer no estuvo muy divertida, así que me fui temprano a casa."
+      }
+    ]
+  },
+  {
+    "word": "中央",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "centro, en medio",
+      "central",
+      "gobierno central"
+    ],
+    "examples": [
+      {
+        "zh": "他站在马路中央。",
+        "es": "Está parado en medio de la calle."
+      },
+      {
+        "zh": "房间中央有一张桌子。",
+        "es": "En el centro de la habitación hay una mesa."
+      },
+      {
+        "zh": "这是中央电视台的新闻。",
+        "es": "Estas son las noticias de la Televisión Central de China."
+      },
+      {
+        "zh": "中央政府提出了新的经济政策。",
+        "es": "El gobierno central propuso una nueva política económica."
+      }
+    ]
+  },
+  {
+    "word": "俄罗斯",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Rusia"
+    ],
+    "examples": [
+      {
+        "zh": "他是俄罗斯人。",
+        "es": "Él es ruso."
+      },
+      {
+        "zh": "俄罗斯的冬天非常冷。",
+        "es": "El invierno en Rusia es muy frío."
+      },
+      {
+        "zh": "明年我想去俄罗斯学习。",
+        "es": "El próximo año quiero ir a estudiar a Rusia."
+      },
+      {
+        "zh": "俄罗斯和中国在经济方面有很多合作。",
+        "es": "Rusia y China tienen mucha cooperación en el área económica."
+      }
+    ]
+  },
+  {
+    "word": "区域",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "zona",
+      "región",
+      "área"
+    ],
+    "examples": [
+      {
+        "zh": "这是安全区域。",
+        "es": "Esta es una zona segura."
+      },
+      {
+        "zh": "请不要进入这个区域。",
+        "es": "Por favor, no entres en esta zona."
+      },
+      {
+        "zh": "这个区域有很多商店。",
+        "es": "En esta zona hay muchas tiendas."
+      },
+      {
+        "zh": "政府计划在这个区域建设一个新的机场。",
+        "es": "El gobierno planea construir un nuevo aeropuerto en esta zona."
+      }
+    ]
+  },
+  {
+    "word": "工程",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "obra (de construcción)",
+      "proyecto",
+      "ingeniería"
+    ],
+    "examples": [
+      {
+        "zh": "这个工程很大。",
+        "es": "Esta obra es muy grande."
+      },
+      {
+        "zh": "我哥哥是学工程的。",
+        "es": "Mi hermano mayor estudió ingeniería."
+      },
+      {
+        "zh": "这个工程需要两年才能完成。",
+        "es": "Esta obra va a tardar dos años en terminarse."
+      },
+      {
+        "zh": "这个工程完成以后，会给城市带来很多机会。",
+        "es": "Cuando termine esta obra, traerá muchas oportunidades a la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "结构",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estructura",
+      "composición",
+      "organización"
+    ],
+    "examples": [
+      {
+        "zh": "这个房子的结构很好。",
+        "es": "La estructura de esta casa es muy buena."
+      },
+      {
+        "zh": "汉字的结构很有意思。",
+        "es": "La estructura de los caracteres chinos es muy interesante."
+      },
+      {
+        "zh": "这个建筑的结构非常特别。",
+        "es": "La estructura de este edificio es muy especial."
+      },
+      {
+        "zh": "中国的经济结构这二十年发生了很大变化。",
+        "es": "La estructura económica de China ha cambiado mucho en los últimos veinte años."
+      }
+    ]
+  }
+]

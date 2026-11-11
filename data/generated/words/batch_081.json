@@ -1,0 +1,542 @@
+[
+  {
+    "word": "老板",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "jefe",
+      "dueño (de un negocio)",
+      "patrón"
+    ],
+    "examples": [
+      {
+        "zh": "我们的老板很好。",
+        "es": "Nuestro jefe es muy bueno."
+      },
+      {
+        "zh": "老板今天不在公司。",
+        "es": "El jefe no está hoy en la empresa."
+      },
+      {
+        "zh": "你认识这家饭店的老板吗？",
+        "es": "¿Conoces al dueño de este restaurante?"
+      },
+      {
+        "zh": "老板说明天开会的时候要介绍新项目。",
+        "es": "El jefe dijo que mañana en la reunión va a presentar el nuevo proyecto."
+      }
+    ]
+  },
+  {
+    "word": "那时候",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en ese entonces",
+      "en aquel momento",
+      "en esa época"
+    ],
+    "examples": [
+      {
+        "zh": "那时候我还很小。",
+        "es": "En ese entonces yo todavía era muy pequeño."
+      },
+      {
+        "zh": "那时候他们没有手机。",
+        "es": "En aquella época ellos no tenían celular."
+      },
+      {
+        "zh": "那时候我住在北京，常常去公园。",
+        "es": "En ese entonces vivía en Pekín y a menudo iba al parque."
+      },
+      {
+        "zh": "那时候我们都很年轻，觉得什么都可以做。",
+        "es": "En aquel entonces todos éramos muy jóvenes y sentíamos que podíamos hacer cualquier cosa."
+      }
+    ]
+  },
+  {
+    "word": "美丽",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermoso",
+      "bello",
+      "lindo"
+    ],
+    "examples": [
+      {
+        "zh": "这个城市很美丽。",
+        "es": "Esta ciudad es muy hermosa."
+      },
+      {
+        "zh": "她有一双美丽的眼睛。",
+        "es": "Ella tiene unos ojos hermosos."
+      },
+      {
+        "zh": "这里的山和河都非常美丽。",
+        "es": "Las montañas y los ríos de aquí son muy bellos."
+      },
+      {
+        "zh": "我希望我们的世界越来越美丽。",
+        "es": "Espero que nuestro mundo sea cada vez más hermoso."
+      }
+    ]
+  },
+  {
+    "word": "球队",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "equipo (deportivo)",
+      "equipo de fútbol, básquetbol, etc."
+    ],
+    "examples": [
+      {
+        "zh": "我们学校有一个球队。",
+        "es": "Nuestra escuela tiene un equipo."
+      },
+      {
+        "zh": "你喜欢哪个球队？",
+        "es": "¿Qué equipo te gusta?"
+      },
+      {
+        "zh": "他们的球队今天赢了比赛。",
+        "es": "Su equipo ganó el partido hoy."
+      },
+      {
+        "zh": "这个球队已经连续三年获得第一了。",
+        "es": "Este equipo ya ha quedado en primer lugar tres años seguidos."
+      }
+    ]
+  },
+  {
+    "word": "某",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cierto",
+      "algún",
+      "fulano (alguien o algo indeterminado)"
+    ],
+    "examples": [
+      {
+        "zh": "某天我在路上见到了他。",
+        "es": "Cierto día lo vi en la calle."
+      },
+      {
+        "zh": "某个同学忘记带书了。",
+        "es": "Algún compañero olvidó traer su libro."
+      },
+      {
+        "zh": "这件事和某些人有关系。",
+        "es": "Este asunto tiene que ver con ciertas personas."
+      },
+      {
+        "zh": "听说某公司正在研究新技术。",
+        "es": "Dicen que cierta empresa está investigando una nueva tecnología."
+      }
+    ]
+  },
+  {
+    "word": "评价",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "evaluar",
+      "valorar",
+      "evaluación; opinión"
+    ],
+    "examples": [
+      {
+        "zh": "老师对他的评价很好。",
+        "es": "La maestra tiene una muy buena opinión de él."
+      },
+      {
+        "zh": "你怎么评价这部电影？",
+        "es": "¿Cómo valoras esta película?"
+      },
+      {
+        "zh": "大家对这个产品的评价不太一样。",
+        "es": "Las opiniones de la gente sobre este producto son bastante distintas."
+      },
+      {
+        "zh": "我们不应该只根据成绩评价一个学生。",
+        "es": "No deberíamos evaluar a un estudiante solo por sus calificaciones."
+      }
+    ]
+  },
+  {
+    "word": "院",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "patio",
+      "instituto; institución",
+      "hospital (en palabras como 住院)"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们在院里玩儿。",
+        "es": "Los niños están jugando en el patio."
+      },
+      {
+        "zh": "他昨天出院了。",
+        "es": "Él salió del hospital ayer."
+      },
+      {
+        "zh": "我奶奶生病住院了。",
+        "es": "Mi abuela se enfermó y está internada en el hospital."
+      },
+      {
+        "zh": "我家院里有一棵大树，夏天可以在下面休息。",
+        "es": "En el patio de mi casa hay un árbol grande; en verano uno puede descansar debajo."
+      }
+    ]
+  },
+  {
+    "word": "强烈",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fuerte",
+      "intenso",
+      "enérgico"
+    ],
+    "examples": [
+      {
+        "zh": "今天的太阳很强烈。",
+        "es": "Hoy el sol está muy fuerte."
+      },
+      {
+        "zh": "我强烈建议你去看看这部电影。",
+        "es": "Te recomiendo mucho que veas esta película."
+      },
+      {
+        "zh": "很多人强烈反对这个计划。",
+        "es": "Mucha gente se opone rotundamente a este plan."
+      },
+      {
+        "zh": "她对这件事的反应非常强烈。",
+        "es": "Su reacción ante este asunto fue muy intensa."
+      }
+    ]
+  },
+  {
+    "word": "做法",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "manera de hacer algo",
+      "método",
+      "receta (de un platillo)",
+      "práctica"
+    ],
+    "examples": [
+      {
+        "zh": "你的做法是对的。",
+        "es": "Tu manera de hacerlo es correcta."
+      },
+      {
+        "zh": "这个菜的做法很简单。",
+        "es": "La receta de este platillo es muy sencilla."
+      },
+      {
+        "zh": "我不同意他们的做法。",
+        "es": "No estoy de acuerdo con su forma de actuar."
+      },
+      {
+        "zh": "每个国家对这个问题的做法都不一样。",
+        "es": "Cada país maneja este problema de manera distinta."
+      }
+    ]
+  },
+  {
+    "word": "人生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vida (de una persona)",
+      "la existencia humana"
+    ],
+    "examples": [
+      {
+        "zh": "人生很短。",
+        "es": "La vida es muy corta."
+      },
+      {
+        "zh": "这是我人生中最快乐的一天。",
+        "es": "Este es el día más feliz de mi vida."
+      },
+      {
+        "zh": "每个人都有自己的人生。",
+        "es": "Cada persona tiene su propia vida."
+      },
+      {
+        "zh": "人生不可能一直顺利，要学会面对困难。",
+        "es": "La vida no puede ir siempre bien; hay que aprender a enfrentar las dificultades."
+      }
+    ]
+  },
+  {
+    "word": "懂得",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entender",
+      "saber",
+      "comprender"
+    ],
+    "examples": [
+      {
+        "zh": "他懂得很多。",
+        "es": "Él sabe mucho."
+      },
+      {
+        "zh": "孩子要懂得感谢父母。",
+        "es": "Los niños deben saber agradecer a sus padres."
+      },
+      {
+        "zh": "你懂得怎么用这个软件吗？",
+        "es": "¿Sabes cómo usar este programa?"
+      },
+      {
+        "zh": "经历了失败以后，我才懂得努力的意义。",
+        "es": "Solo después de fracasar entendí el sentido del esfuerzo."
+      }
+    ]
+  },
+  {
+    "word": "食品",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alimento",
+      "comida",
+      "productos alimenticios"
+    ],
+    "examples": [
+      {
+        "zh": "这家商店卖很多食品。",
+        "es": "Esta tienda vende muchos alimentos."
+      },
+      {
+        "zh": "孩子不应该吃太多这种食品。",
+        "es": "Los niños no deberían comer demasiado este tipo de comida."
+      },
+      {
+        "zh": "食品安全是一个重要的问题。",
+        "es": "La seguridad alimentaria es un tema importante."
+      },
+      {
+        "zh": "政府应该加强对食品质量的管理。",
+        "es": "El gobierno debería reforzar el control de la calidad de los alimentos."
+      }
+    ]
+  },
+  {
+    "word": "接下来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a continuación",
+      "luego",
+      "siguiente; próximo"
+    ],
+    "examples": [
+      {
+        "zh": "接下来我们去哪儿？",
+        "es": "¿A dónde vamos luego?"
+      },
+      {
+        "zh": "接下来请看这张图。",
+        "es": "A continuación, miren esta imagen, por favor."
+      },
+      {
+        "zh": "接下来的几天会一直下雨。",
+        "es": "En los próximos días va a llover sin parar."
+      },
+      {
+        "zh": "我们完成了第一部分，接下来要讨论价格问题。",
+        "es": "Terminamos la primera parte; a continuación vamos a hablar del tema de los precios."
+      }
+    ]
+  },
+  {
+    "word": "双",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "par (clasificador)",
+      "doble",
+      "ambos",
+      "par (número)"
+    ],
+    "examples": [
+      {
+        "zh": "我买了一双鞋。",
+        "es": "Compré un par de zapatos."
+      },
+      {
+        "zh": "她有一双很大的眼睛。",
+        "es": "Ella tiene unos ojos muy grandes."
+      },
+      {
+        "zh": "这件事对双方都有好处。",
+        "es": "Este asunto es bueno para ambas partes."
+      },
+      {
+        "zh": "这是一个双赢的合作，大家都很满意。",
+        "es": "Es una colaboración en la que todos ganan, y todos están muy satisfechos."
+      }
+    ]
+  },
+  {
+    "word": "绿",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "verde",
+      "ponerse verde",
+      "(coloquial) ponerle los cuernos a alguien"
+    ],
+    "examples": [
+      {
+        "zh": "夏天到了，树都绿了。",
+        "es": "Llegó el verano y los árboles se pusieron verdes."
+      },
+      {
+        "zh": "前面的灯绿了，可以走了。",
+        "es": "El semáforo de enfrente se puso en verde, ya podemos avanzar."
+      },
+      {
+        "zh": "她今天穿了一件绿衣服。",
+        "es": "Hoy ella se puso una prenda verde."
+      },
+      {
+        "zh": "下了几天雨以后，这里的草都变绿了。",
+        "es": "Después de varios días de lluvia, el pasto de aquí se puso verde."
+      }
+    ]
+  },
+  {
+    "word": "推进",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "impulsar",
+      "hacer avanzar",
+      "promover",
+      "avanzar"
+    ],
+    "examples": [
+      {
+        "zh": "这个项目推进得很快。",
+        "es": "Este proyecto está avanzando muy rápido."
+      },
+      {
+        "zh": "我们要继续推进改革。",
+        "es": "Tenemos que seguir impulsando la reforma."
+      },
+      {
+        "zh": "公司正在推进新的计划。",
+        "es": "La empresa está impulsando un nuevo plan."
+      },
+      {
+        "zh": "由于资金不够，这项工作很难推进下去。",
+        "es": "Por falta de fondos, es difícil seguir adelante con este trabajo."
+      }
+    ]
+  },
+  {
+    "word": "南方",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sur",
+      "el sur (de China)",
+      "del sur; sureño"
+    ],
+    "examples": [
+      {
+        "zh": "他是南方人。",
+        "es": "Él es del sur."
+      },
+      {
+        "zh": "南方的夏天很热。",
+        "es": "Los veranos en el sur son muy calurosos."
+      },
+      {
+        "zh": "天气冷了，很多鸟会飞到南方去。",
+        "es": "Cuando hace frío, muchos pájaros vuelan hacia el sur."
+      },
+      {
+        "zh": "我在南方住了十年，已经习惯了那里的生活。",
+        "es": "Viví diez años en el sur y ya me acostumbré a la vida de allá."
+      }
+    ]
+  },
+  {
+    "word": "文明",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "civilización",
+      "civilizado",
+      "educado; cortés",
+      "cultura"
+    ],
+    "examples": [
+      {
+        "zh": "我们要做文明的人。",
+        "es": "Debemos ser personas educadas."
+      },
+      {
+        "zh": "中国文明的历史非常长。",
+        "es": "La civilización china tiene una historia muy larga."
+      },
+      {
+        "zh": "在公共地方说话要文明。",
+        "es": "En lugares públicos hay que hablar con educación."
+      },
+      {
+        "zh": "每个国家都有自己的文明和传统。",
+        "es": "Cada país tiene su propia civilización y sus tradiciones."
+      }
+    ]
+  },
+  {
+    "word": "夏天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "verano"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢夏天。",
+        "es": "Me gusta el verano."
+      },
+      {
+        "zh": "北京的夏天非常热。",
+        "es": "El verano en Pekín es muy caluroso."
+      },
+      {
+        "zh": "今年夏天我们打算去海边旅游。",
+        "es": "Este verano pensamos ir de viaje a la playa."
+      },
+      {
+        "zh": "夏天的时候，孩子们每天都在河里玩水。",
+        "es": "En verano, los niños juegan en el río todos los días."
+      }
+    ]
+  },
+  {
+    "word": "显然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "obviamente",
+      "evidentemente",
+      "claramente"
+    ],
+    "examples": [
+      {
+        "zh": "他显然不高兴。",
+        "es": "Obviamente, él no está contento."
+      },
+      {
+        "zh": "显然，这个办法不对。",
+        "es": "Evidentemente, este método no funciona."
+      },
+      {
+        "zh": "她显然没有准备好今天的考试。",
+        "es": "Está claro que ella no se preparó para el examen de hoy."
+      },
+      {
+        "zh": "从他的回答来看，他显然没有认真读那本书。",
+        "es": "Por su respuesta, es evidente que no leyó ese libro con atención."
+      }
+    ]
+  }
+]

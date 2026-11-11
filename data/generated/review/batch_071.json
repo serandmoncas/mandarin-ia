@@ -1,0 +1,172 @@
+[
+  {
+    "id": "word:完美",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 做得 es «zuò de» (de en tono neutro), no «zuò dé»."
+    ],
+    "content_hash": "b5f7ef49b49521bc52a3a27a198fd15c649565d7"
+  },
+  {
+    "id": "word:东南",
+    "ok": true,
+    "issues": [],
+    "content_hash": "23d82608bf3e855cafb08852fcd88261452a05b1"
+  },
+  {
+    "id": "word:疼",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «seguido» como «a menudo» es regionalismo (México); en español neutro conviene «a menudo» o «con frecuencia»."
+    ],
+    "content_hash": "06301b2356974dd5dda9bc3d95c1907ef15383e7"
+  },
+  {
+    "id": "word:安静",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f948f92f471239a624a6a7d552dce72db3c1f4e7"
+  },
+  {
+    "id": "word:春天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0a23436672bd4ec24d169cc0bf9164fc1671e69"
+  },
+  {
+    "id": "word:灯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4999724823612d8d41fe8a26dd86b0082736304"
+  },
+  {
+    "id": "word:这时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "867b154122824b4c9ebe5171aa328ce6df5309e4"
+  },
+  {
+    "id": "word:从来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f621849404e35f1788df08d3bb12e92f6ba6d11"
+  },
+  {
+    "id": "word:大约",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3bfec9d8673ffd05279a844ff3005b4bdd875fd6"
+  },
+  {
+    "id": "word:相机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "84d645a005efbd3fed10736da83c21aa480d32af"
+  },
+  {
+    "id": "word:挂",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente con el resto del contenido: en el ejemplo 2, 一张 debería ser «yì zhāng» por sandhi tonal (en otros ejemplos se aplica, p. ej. «yí gè»)."
+    ],
+    "content_hash": "80d5f98bbccf2272c474105a367eaf67c60fb2cb"
+  },
+  {
+    "id": "word:有意思",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1148c8da358195d3fc28b4f73fecd82df4494e64"
+  },
+  {
+    "id": "word:就业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d36cf900792acc95c49fb5b548cdc6a92b836f98"
+  },
+  {
+    "id": "word:常用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0fff899f09a045b0fb962ff714a5dd7b0a9f4886"
+  },
+  {
+    "id": "word:领",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente con el resto del contenido: en el ejemplo 4, 一本 debería ser «yì běn» por sandhi tonal."
+    ],
+    "content_hash": "7e01abaf0078b6f04743242652655320ec5d9e1f"
+  },
+  {
+    "id": "word:超市",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7afae748e798deb260a5ac59b1bf155aa32e7616"
+  },
+  {
+    "id": "word:确保",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «cartera» es ambiguo en Latinoamérica (en algunos países significa bolso de mujer); para 钱包 es más neutro «billetera»."
+    ],
+    "content_hash": "794364b7706ec9f702f0464328902b767ebd6965"
+  },
+  {
+    "id": "word:完整",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a4b36e97eab11244739a7dc9f38ea3d58ff88038"
+  },
+  {
+    "id": "word:全年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "84a766d2656477b7bddcc31d476b8c16e06cb70d"
+  },
+  {
+    "id": "word:消失",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9bbcae2e2df2ec4d31abb99df0787215d994b6ff"
+  },
+  {
+    "id": "word:闻",
+    "ok": false,
+    "issues": [
+      "Los significados «oír» y «noticia» son literarios o solo aparecen en compuestos (新闻, 听闻); como palabra aislada en el chino moderno, 闻 significa «oler». Conviene indicarlo para no confundir al estudiante."
+    ],
+    "content_hash": "60cc1070a83cd4cc953a874778abf3f0ec9a793a"
+  },
+  {
+    "id": "word:护照",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente con el resto del contenido: en el ejemplo 3, 一下 debería ser «yí xià» por sandhi tonal."
+    ],
+    "content_hash": "919de3defac949d05afe688b20b3ec1512eae7de"
+  },
+  {
+    "id": "word:直播",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «Seguido» como «a menudo» es regionalismo (México); en español neutro conviene «A menudo» o «Con frecuencia»."
+    ],
+    "content_hash": "91dddbd979456996fc49473312c7db647fd2c725"
+  },
+  {
+    "id": "word:难题",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente con el resto del contenido: en el ejemplo 2, 一道 debería ser «yí dào» por sandhi tonal."
+    ],
+    "content_hash": "413034ac336e1ba9de3cfb4049a53ae6e897605f"
+  },
+  {
+    "id": "word:早晨",
+    "ok": false,
+    "issues": [
+      "El significado «madrugada» es incorrecto: la madrugada es el lapso entre la medianoche y el amanecer (凌晨). 早晨 significa «mañana (temprano)»."
+    ],
+    "content_hash": "2637076126ff462708ccd3d911145da3aa41e9bc"
+  }
+]

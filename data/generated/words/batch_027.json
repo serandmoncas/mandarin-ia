@@ -1,0 +1,534 @@
+[
+  {
+    "word": "每",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cada",
+      "todos los"
+    ],
+    "examples": [
+      {
+        "zh": "我每天都喝水。",
+        "es": "Tomo agua todos los días."
+      },
+      {
+        "zh": "每个人都有自己的名字。",
+        "es": "Cada persona tiene su propio nombre."
+      },
+      {
+        "zh": "他每年都和家人去北京。",
+        "es": "Todos los años va a Pekín con su familia."
+      },
+      {
+        "zh": "他每次来我家都给孩子买东西。",
+        "es": "Cada vez que viene a mi casa, les compra cosas a los niños."
+      }
+    ]
+  },
+  {
+    "word": "中间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en medio",
+      "el centro",
+      "entre",
+      "mientras tanto"
+    ],
+    "examples": [
+      {
+        "zh": "我坐在中间。",
+        "es": "Me siento en el medio."
+      },
+      {
+        "zh": "他站在两个人中间。",
+        "es": "Está parado entre dos personas."
+      },
+      {
+        "zh": "学校在两条路中间。",
+        "es": "La escuela está entre dos calles."
+      },
+      {
+        "zh": "他工作了一年，中间回了两次家。",
+        "es": "Trabajó un año y, en ese tiempo, volvió a casa dos veces."
+      }
+    ]
+  },
+  {
+    "word": "房子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "casa",
+      "edificio",
+      "departamento"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的房子。",
+        "es": "Esta es mi casa."
+      },
+      {
+        "zh": "他们的房子很大。",
+        "es": "Su casa es muy grande."
+      },
+      {
+        "zh": "我想在北京买房子。",
+        "es": "Quiero comprar una casa en Pekín."
+      },
+      {
+        "zh": "那个房子太老了，没有人想住。",
+        "es": "Esa casa es demasiado vieja; nadie quiere vivir ahí."
+      }
+    ]
+  },
+  {
+    "word": "人员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "personal",
+      "empleados",
+      "equipo"
+    ],
+    "examples": [
+      {
+        "zh": "医院的人员很忙。",
+        "es": "El personal del hospital está muy ocupado."
+      },
+      {
+        "zh": "公司需要新的工作人员。",
+        "es": "La empresa necesita personal nuevo."
+      },
+      {
+        "zh": "机场的工作人员告诉我们去哪里。",
+        "es": "El personal del aeropuerto nos dijo a dónde ir."
+      },
+      {
+        "zh": "政府已经让相关人员去那个地区了。",
+        "es": "El gobierno ya envió al personal correspondiente a esa zona."
+      }
+    ]
+  },
+  {
+    "word": "楼",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "edificio",
+      "piso (nivel de un edificio)"
+    ],
+    "examples": [
+      {
+        "zh": "我家在三楼。",
+        "es": "Vivo en el tercer piso."
+      },
+      {
+        "zh": "这个楼很高。",
+        "es": "Este edificio es muy alto."
+      },
+      {
+        "zh": "他住在学校后面的那个楼里。",
+        "es": "Vive en el edificio que está detrás de la escuela."
+      },
+      {
+        "zh": "你先上楼，我买完东西就回来。",
+        "es": "Sube tú primero; regreso en cuanto termine de comprar."
+      }
+    ]
+  },
+  {
+    "word": "事情",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "asunto",
+      "cosa",
+      "situación",
+      "trabajo"
+    ],
+    "examples": [
+      {
+        "zh": "我有事情要做。",
+        "es": "Tengo cosas que hacer."
+      },
+      {
+        "zh": "发生了什么事情？",
+        "es": "¿Qué pasó?"
+      },
+      {
+        "zh": "这件事情很重要。",
+        "es": "Este asunto es muy importante."
+      },
+      {
+        "zh": "这件事情你不要告诉别人，好吗？",
+        "es": "No le cuentes esto a nadie, ¿sí?"
+      }
+    ]
+  },
+  {
+    "word": "进去",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrar",
+      "meterse"
+    ],
+    "examples": [
+      {
+        "zh": "请进去吧。",
+        "es": "Entra, por favor."
+      },
+      {
+        "zh": "门开着，我们进去吧。",
+        "es": "La puerta está abierta, entremos."
+      },
+      {
+        "zh": "他走进去以后就没出来。",
+        "es": "Después de entrar, ya no salió."
+      },
+      {
+        "zh": "这里是学校，外面的人不能进去。",
+        "es": "Esto es una escuela; la gente de afuera no puede entrar."
+      }
+    ]
+  },
+  {
+    "word": "信息",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "información",
+      "mensaje",
+      "noticia"
+    ],
+    "examples": [
+      {
+        "zh": "我给你发了信息。",
+        "es": "Te mandé un mensaje."
+      },
+      {
+        "zh": "你看到我的信息了吗？",
+        "es": "¿Viste mi mensaje?"
+      },
+      {
+        "zh": "这个网站有很多信息。",
+        "es": "Este sitio web tiene mucha información."
+      },
+      {
+        "zh": "我们需要更多关于这个问题的信息。",
+        "es": "Necesitamos más información sobre este problema."
+      }
+    ]
+  },
+  {
+    "word": "马上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enseguida",
+      "de inmediato",
+      "pronto"
+    ],
+    "examples": [
+      {
+        "zh": "我马上来。",
+        "es": "Ya voy."
+      },
+      {
+        "zh": "他马上就回来。",
+        "es": "Regresa enseguida."
+      },
+      {
+        "zh": "电影马上就要开始了。",
+        "es": "La película está por empezar."
+      },
+      {
+        "zh": "妈妈叫我马上回家，我就走了。",
+        "es": "Mi mamá me dijo que volviera a casa de inmediato, así que me fui."
+      }
+    ]
+  },
+  {
+    "word": "没什么",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no es nada",
+      "no importa",
+      "de nada",
+      "no pasa nada"
+    ],
+    "examples": [
+      {
+        "zh": "没什么，不用谢。",
+        "es": "No es nada, no hay de qué."
+      },
+      {
+        "zh": "你怎么了？没什么，我很好。",
+        "es": "¿Qué te pasa? —Nada, estoy bien."
+      },
+      {
+        "zh": "这没什么，大家都有错的时候。",
+        "es": "No pasa nada, todos nos equivocamos alguna vez."
+      },
+      {
+        "zh": "考试没考好也没什么，下次认真学习就好。",
+        "es": "No pasa nada si no te fue bien en el examen; la próxima vez estudia en serio y listo."
+      }
+    ]
+  },
+  {
+    "word": "照片",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "foto",
+      "fotografía"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的照片。",
+        "es": "Esta es mi foto."
+      },
+      {
+        "zh": "你给我看看你的照片吧。",
+        "es": "Muéstrame tus fotos."
+      },
+      {
+        "zh": "我在北京拍了很多照片。",
+        "es": "Tomé muchas fotos en Pekín."
+      },
+      {
+        "zh": "这张照片是我和爸爸妈妈去年在上海照的。",
+        "es": "Esta foto nos la tomamos mis papás y yo el año pasado en Shanghái."
+      }
+    ]
+  },
+  {
+    "word": "种",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tipo",
+      "clase",
+      "semilla",
+      "especie"
+    ],
+    "examples": [
+      {
+        "zh": "我不喜欢这种电影。",
+        "es": "No me gusta este tipo de películas."
+      },
+      {
+        "zh": "这里有三种书，你要哪种？",
+        "es": "Aquí hay tres tipos de libros, ¿cuál quieres?"
+      },
+      {
+        "zh": "这种手机现在很多人用。",
+        "es": "Ahora mucha gente usa este tipo de celular."
+      },
+      {
+        "zh": "世界上有很多种文化，每种都很重要。",
+        "es": "En el mundo hay muchas culturas y cada una es importante."
+      }
+    ]
+  },
+  {
+    "word": "七",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siete"
+    ],
+    "examples": [
+      {
+        "zh": "我七岁了。",
+        "es": "Tengo siete años."
+      },
+      {
+        "zh": "现在是七点。",
+        "es": "Son las siete."
+      },
+      {
+        "zh": "一个星期有七天。",
+        "es": "Una semana tiene siete días."
+      },
+      {
+        "zh": "我们七个人一起去吃饭，一共花了五百元。",
+        "es": "Fuimos siete a comer y gastamos quinientos yuanes en total."
+      }
+    ]
+  },
+  {
+    "word": "之间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entre",
+      "en medio de"
+    ],
+    "examples": [
+      {
+        "zh": "朋友之间要说真话。",
+        "es": "Entre amigos hay que decir la verdad."
+      },
+      {
+        "zh": "三点和五点之间，我都在家。",
+        "es": "Entre las tres y las cinco estoy en casa."
+      },
+      {
+        "zh": "两国之间的关系很好。",
+        "es": "La relación entre los dos países es muy buena."
+      },
+      {
+        "zh": "他和哥哥之间是不是有什么问题？",
+        "es": "¿Será que hay algún problema entre él y su hermano mayor?"
+      }
+    ]
+  },
+  {
+    "word": "肉",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "carne",
+      "pulpa (de fruta)"
+    ],
+    "examples": [
+      {
+        "zh": "我不吃肉。",
+        "es": "No como carne."
+      },
+      {
+        "zh": "这个肉很好吃。",
+        "es": "Esta carne está muy rica."
+      },
+      {
+        "zh": "妈妈去市场买了一些肉。",
+        "es": "Mi mamá fue al mercado a comprar un poco de carne."
+      },
+      {
+        "zh": "医生说他应该少吃肉，多运动。",
+        "es": "El médico dijo que debería comer menos carne y hacer más ejercicio."
+      }
+    ]
+  },
+  {
+    "word": "处",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "lugar",
+      "parte",
+      "oficina",
+      "departamento"
+    ],
+    "examples": [
+      {
+        "zh": "他到处找他的手机。",
+        "es": "Busca su celular por todas partes."
+      },
+      {
+        "zh": "学习中文有很多好处。",
+        "es": "Estudiar chino tiene muchas ventajas."
+      },
+      {
+        "zh": "你写的东西有三处错，请再看看。",
+        "es": "Lo que escribiste tiene errores en tres partes; revísalo otra vez, por favor."
+      },
+      {
+        "zh": "这个人也有他的长处，我们应该看到。",
+        "es": "Esta persona también tiene sus puntos fuertes; deberíamos reconocerlos."
+      }
+    ]
+  },
+  {
+    "word": "天气",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clima",
+      "tiempo (atmosférico)"
+    ],
+    "examples": [
+      {
+        "zh": "今天天气很好。",
+        "es": "Hoy hace buen tiempo."
+      },
+      {
+        "zh": "明天天气怎么样？",
+        "es": "¿Cómo va a estar el clima mañana?"
+      },
+      {
+        "zh": "天气太热了，我们去喝点水吧。",
+        "es": "Hace demasiado calor; vamos a tomar un poco de agua."
+      },
+      {
+        "zh": "如果明天天气好，我们就去山上玩。",
+        "es": "Si mañana hace buen tiempo, vamos a pasear a la montaña."
+      }
+    ]
+  },
+  {
+    "word": "总统",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "presidente"
+    ],
+    "examples": [
+      {
+        "zh": "他是美国总统。",
+        "es": "Él es el presidente de Estados Unidos."
+      },
+      {
+        "zh": "总统今天来到了我们的城市。",
+        "es": "Hoy el presidente llegó a nuestra ciudad."
+      },
+      {
+        "zh": "很多人认为新总统做得很好。",
+        "es": "Mucha gente cree que el nuevo presidente lo está haciendo muy bien."
+      },
+      {
+        "zh": "总统在会议上表示，政府会继续支持教育。",
+        "es": "En la reunión, el presidente dijo que el gobierno seguirá apoyando la educación."
+      }
+    ]
+  },
+  {
+    "word": "大学生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estudiante universitario",
+      "universitario"
+    ],
+    "examples": [
+      {
+        "zh": "我是大学生。",
+        "es": "Soy estudiante universitario."
+      },
+      {
+        "zh": "很多大学生喜欢这个游戏。",
+        "es": "A muchos universitarios les gusta este juego."
+      },
+      {
+        "zh": "现在的大学生找工作很难。",
+        "es": "Hoy en día es difícil para los universitarios encontrar trabajo."
+      },
+      {
+        "zh": "作为大学生，你应该学会自己生活。",
+        "es": "Como universitario, deberías aprender a vivir por tu cuenta."
+      }
+    ]
+  },
+  {
+    "word": "战争",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "guerra",
+      "conflicto"
+    ],
+    "examples": [
+      {
+        "zh": "我不喜欢战争。",
+        "es": "No me gusta la guerra."
+      },
+      {
+        "zh": "很多人在战争中死了。",
+        "es": "Mucha gente murió en la guerra."
+      },
+      {
+        "zh": "战争以后，那里的人生活很难。",
+        "es": "Después de la guerra, la vida de la gente de ahí era muy difícil."
+      },
+      {
+        "zh": "我们都希望世界上没有战争，大家都能好好生活。",
+        "es": "Todos queremos que no haya guerras en el mundo y que todos puedan vivir bien."
+      }
+    ]
+  }
+]

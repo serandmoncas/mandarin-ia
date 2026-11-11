@@ -1,0 +1,528 @@
+[
+  {
+    "word": "椅子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "silla"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的椅子。",
+        "es": "Esta es mi silla."
+      },
+      {
+        "zh": "请坐在这把椅子上。",
+        "es": "Por favor, siéntate en esta silla."
+      },
+      {
+        "zh": "房间里只有一张桌子和两把椅子。",
+        "es": "En la habitación solo hay una mesa y dos sillas."
+      },
+      {
+        "zh": "这把椅子太旧了，坐着很不舒服。",
+        "es": "Esta silla es muy vieja; es muy incómodo sentarse en ella."
+      }
+    ]
+  },
+  {
+    "word": "调",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "ajustar, regular",
+      "sazonar (la comida)",
+      "mezclar, combinar",
+      "conciliar, reconciliar"
+    ],
+    "examples": [
+      {
+        "zh": "请把声音调小一点。",
+        "es": "Por favor, baja un poco el volumen."
+      },
+      {
+        "zh": "你帮我调一下电视吧。",
+        "es": "Ayúdame a ajustar la tele, por favor."
+      },
+      {
+        "zh": "天气太热，把空调温度调低一点吧。",
+        "es": "Hace mucho calor; baja un poco la temperatura del aire acondicionado."
+      },
+      {
+        "zh": "这个菜的味道是妈妈自己调的，非常好吃。",
+        "es": "Mamá misma sazonó este plato; está riquísimo."
+      }
+    ]
+  },
+  {
+    "word": "手表",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "reloj de pulsera",
+      "reloj"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的新手表。",
+        "es": "Este es mi reloj nuevo."
+      },
+      {
+        "zh": "这块手表很贵吗？",
+        "es": "¿Este reloj es caro?"
+      },
+      {
+        "zh": "我看了看手表，已经八点了。",
+        "es": "Miré mi reloj y ya eran las ocho."
+      },
+      {
+        "zh": "这块手表是爸爸送给我的生日礼物。",
+        "es": "Este reloj fue el regalo de cumpleaños que me dio mi papá."
+      }
+    ]
+  },
+  {
+    "word": "词语",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "palabra",
+      "expresión",
+      "término"
+    ],
+    "examples": [
+      {
+        "zh": "这个词语是什么意思？",
+        "es": "¿Qué significa esta palabra?"
+      },
+      {
+        "zh": "课文里有很多新词语。",
+        "es": "En el texto de la lección hay muchas palabras nuevas."
+      },
+      {
+        "zh": "老师让我们用这些词语写句子。",
+        "es": "La maestra nos pidió escribir oraciones con estas palabras."
+      },
+      {
+        "zh": "学汉语的时候，最好每天记几个新词语。",
+        "es": "Cuando aprendes chino, lo mejor es memorizar algunas palabras nuevas cada día."
+      }
+    ]
+  },
+  {
+    "word": "秋天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "otoño"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢秋天。",
+        "es": "Me gusta el otoño."
+      },
+      {
+        "zh": "北京的秋天很漂亮。",
+        "es": "El otoño en Beijing es muy bonito."
+      },
+      {
+        "zh": "秋天的天气不冷也不热。",
+        "es": "En otoño no hace ni frío ni calor."
+      },
+      {
+        "zh": "去年秋天，我和朋友一起去中国旅游了。",
+        "es": "El otoño pasado viajé a China con mis amigos."
+      }
+    ]
+  },
+  {
+    "word": "外地",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "otra ciudad o región",
+      "fuera de la localidad",
+      "de afuera, forastero"
+    ],
+    "examples": [
+      {
+        "zh": "他是外地人。",
+        "es": "Él es de otra ciudad."
+      },
+      {
+        "zh": "我哥哥在外地工作。",
+        "es": "Mi hermano trabaja en otra ciudad."
+      },
+      {
+        "zh": "每年春节，很多外地人都回家过年。",
+        "es": "Cada Año Nuevo chino, mucha gente que vive lejos de su tierra regresa a casa para celebrarlo."
+      },
+      {
+        "zh": "刚来外地上学的时候，我常常想家。",
+        "es": "Cuando recién me fui a estudiar a otra ciudad, extrañaba mucho mi casa."
+      }
+    ]
+  },
+  {
+    "word": "适应",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adaptarse",
+      "acostumbrarse",
+      "ajustarse a"
+    ],
+    "examples": [
+      {
+        "zh": "我已经适应了。",
+        "es": "Ya me adapté."
+      },
+      {
+        "zh": "你适应这里的天气了吗？",
+        "es": "¿Ya te acostumbraste al clima de aquí?"
+      },
+      {
+        "zh": "他很快就适应了新的工作。",
+        "es": "Se adaptó muy rápido a su nuevo trabajo."
+      },
+      {
+        "zh": "刚到中国的时候，我很不适应中国菜。",
+        "es": "Cuando recién llegué a China, me costó mucho acostumbrarme a la comida china."
+      }
+    ]
+  },
+  {
+    "word": "体验",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "experimentar, vivir en carne propia",
+      "experiencia (vivida)"
+    ],
+    "examples": [
+      {
+        "zh": "这是一次很好的体验。",
+        "es": "Fue una muy buena experiencia."
+      },
+      {
+        "zh": "我想体验一下中国的生活。",
+        "es": "Quiero conocer de primera mano cómo es la vida en China."
+      },
+      {
+        "zh": "在农村住了一个月，他体验到了不同的文化。",
+        "es": "Después de vivir un mes en el campo, conoció de primera mano una cultura distinta."
+      },
+      {
+        "zh": "很多外国游客来中国，就是为了体验传统文化。",
+        "es": "Muchos turistas extranjeros vienen a China precisamente para vivir la cultura tradicional."
+      }
+    ]
+  },
+  {
+    "word": "普通话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "chino mandarín estándar",
+      "putonghua"
+    ],
+    "examples": [
+      {
+        "zh": "你会说普通话吗？",
+        "es": "¿Sabes hablar mandarín?"
+      },
+      {
+        "zh": "他的普通话说得很好。",
+        "es": "Habla muy bien el mandarín."
+      },
+      {
+        "zh": "在中国，学校的老师都用普通话上课。",
+        "es": "En China, los maestros de las escuelas dan clase en mandarín estándar."
+      },
+      {
+        "zh": "虽然我学了两年，但是我的普通话还是不太标准。",
+        "es": "Aunque estudié dos años, mi mandarín todavía no suena muy estándar."
+      }
+    ]
+  },
+  {
+    "word": "体育场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estadio"
+    ],
+    "examples": [
+      {
+        "zh": "体育场很大。",
+        "es": "El estadio es muy grande."
+      },
+      {
+        "zh": "学校旁边有一个新的体育场。",
+        "es": "Al lado de la escuela hay un estadio nuevo."
+      },
+      {
+        "zh": "我们去体育场看足球比赛吧。",
+        "es": "Vamos al estadio a ver un partido de fútbol."
+      },
+      {
+        "zh": "昨天晚上，体育场里坐满了来看比赛的观众。",
+        "es": "Anoche el estadio estaba lleno de espectadores que vinieron a ver el partido."
+      }
+    ]
+  },
+  {
+    "word": "照",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "tomar (una foto)",
+      "según, conforme a",
+      "iluminar, alumbrar",
+      "reflejarse, mirarse (en un espejo)"
+    ],
+    "examples": [
+      {
+        "zh": "我给你照一张照片吧。",
+        "es": "Déjame tomarte una foto."
+      },
+      {
+        "zh": "太阳照在身上很舒服。",
+        "es": "Es muy agradable sentir el sol en el cuerpo."
+      },
+      {
+        "zh": "你就照老师说的做吧。",
+        "es": "Haz lo que dijo el maestro."
+      },
+      {
+        "zh": "这张照片是我们去年在北京照的。",
+        "es": "Esta foto la tomamos el año pasado en Beijing."
+      }
+    ]
+  },
+  {
+    "word": "行人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "peatón",
+      "transeúnte"
+    ],
+    "examples": [
+      {
+        "zh": "路上的行人很多。",
+        "es": "Hay muchos peatones en la calle."
+      },
+      {
+        "zh": "开车的时候要注意行人。",
+        "es": "Cuando manejas, tienes que tener cuidado con los peatones."
+      },
+      {
+        "zh": "下雨了，街上没有什么行人。",
+        "es": "Está lloviendo y casi no hay gente en la calle."
+      },
+      {
+        "zh": "司机停下车，让路口的行人先过马路。",
+        "es": "El conductor se detuvo para dejar que los peatones de la esquina cruzaran primero."
+      }
+    ]
+  },
+  {
+    "word": "打印",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "imprimir",
+      "sellar, estampar un sello"
+    ],
+    "examples": [
+      {
+        "zh": "请帮我打印这个文件。",
+        "es": "Por favor, imprímeme este documento."
+      },
+      {
+        "zh": "我要打印两张机票。",
+        "es": "Necesito imprimir dos boletos de avión."
+      },
+      {
+        "zh": "办公室的电脑不能打印了。",
+        "es": "La computadora de la oficina ya no puede imprimir."
+      },
+      {
+        "zh": "考试以前，老师把所有的题都打印出来了。",
+        "es": "Antes del examen, el maestro imprimió todas las preguntas."
+      }
+    ]
+  },
+  {
+    "word": "组合",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "combinación",
+      "combinar, juntar",
+      "grupo (musical)"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个很好的组合。",
+        "es": "Es una muy buena combinación."
+      },
+      {
+        "zh": "红色和白色的组合很好看。",
+        "es": "La combinación de rojo y blanco se ve muy bonita."
+      },
+      {
+        "zh": "把这些字组合起来，就是一个新词。",
+        "es": "Si combinas estos caracteres, formas una palabra nueva."
+      },
+      {
+        "zh": "这个音乐组合有三个人，他们唱的歌非常好听。",
+        "es": "Este grupo musical tiene tres integrantes y sus canciones son muy bonitas."
+      }
+    ]
+  },
+  {
+    "word": "大自然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la naturaleza"
+    ],
+    "examples": [
+      {
+        "zh": "我爱大自然。",
+        "es": "Amo la naturaleza."
+      },
+      {
+        "zh": "我们应该保护大自然。",
+        "es": "Debemos proteger la naturaleza."
+      },
+      {
+        "zh": "孩子们喜欢在大自然里玩。",
+        "es": "A los niños les gusta jugar en la naturaleza."
+      },
+      {
+        "zh": "周末我常常去山上走走，感受大自然的美。",
+        "es": "Los fines de semana suelo ir a caminar a la montaña para disfrutar de la belleza de la naturaleza."
+      }
+    ]
+  },
+  {
+    "word": "好久",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mucho tiempo",
+      "un buen rato"
+    ],
+    "examples": [
+      {
+        "zh": "好久不见！",
+        "es": "¡Cuánto tiempo sin verte!"
+      },
+      {
+        "zh": "我等了你好久。",
+        "es": "Te esperé mucho tiempo."
+      },
+      {
+        "zh": "我好久没回家了，很想爸爸妈妈。",
+        "es": "Hace mucho que no voy a casa; extraño mucho a mis papás."
+      },
+      {
+        "zh": "这个问题我想了好久，还是不知道怎么回答。",
+        "es": "Pensé mucho tiempo en esta pregunta y todavía no sé cómo responderla."
+      }
+    ]
+  },
+  {
+    "word": "动力",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "motivación",
+      "impulso, empuje",
+      "fuerza motriz, potencia"
+    ],
+    "examples": [
+      {
+        "zh": "我没有动力了。",
+        "es": "Ya no tengo motivación."
+      },
+      {
+        "zh": "孩子是我工作的动力。",
+        "es": "Mis hijos son mi motivación para trabajar."
+      },
+      {
+        "zh": "这辆车的动力很强。",
+        "es": "Este carro tiene mucha potencia."
+      },
+      {
+        "zh": "我学汉语最大的动力是对中国文化的爱。",
+        "es": "Mi mayor motivación para aprender chino es mi amor por la cultura china."
+      }
+    ]
+  },
+  {
+    "word": "句子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oración",
+      "frase"
+    ],
+    "examples": [
+      {
+        "zh": "请读一下这个句子。",
+        "es": "Por favor, lee esta oración."
+      },
+      {
+        "zh": "这个句子很长。",
+        "es": "Esta oración es muy larga."
+      },
+      {
+        "zh": "你能用这个词写一个句子吗？",
+        "es": "¿Puedes escribir una oración con esta palabra?"
+      },
+      {
+        "zh": "这个句子太难了，我看了很多次还是不明白。",
+        "es": "Esta oración es muy difícil; la leí muchas veces y todavía no la entiendo."
+      }
+    ]
+  },
+  {
+    "word": "对待",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tratar (a alguien o algo)",
+      "afrontar, encarar",
+      "trato"
+    ],
+    "examples": [
+      {
+        "zh": "他对待朋友很好。",
+        "es": "Trata muy bien a sus amigos."
+      },
+      {
+        "zh": "老师对待每个学生都一样。",
+        "es": "El maestro trata igual a todos los estudiantes."
+      },
+      {
+        "zh": "我们应该认真对待这个问题。",
+        "es": "Debemos tomar este problema en serio."
+      },
+      {
+        "zh": "不管有多大的困难，都要用积极的态度对待。",
+        "es": "No importa qué tan grandes sean las dificultades, hay que afrontarlas con una actitud positiva."
+      }
+    ]
+  },
+  {
+    "word": "快要",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar a punto de",
+      "ya casi"
+    ],
+    "examples": [
+      {
+        "zh": "快要下雨了。",
+        "es": "Ya va a llover."
+      },
+      {
+        "zh": "我快要到家了。",
+        "es": "Ya casi llego a casa."
+      },
+      {
+        "zh": "火车快要开了，我们快走吧。",
+        "es": "El tren está a punto de salir; vámonos rápido."
+      },
+      {
+        "zh": "快要考试了，大家都在图书馆里认真学习。",
+        "es": "Ya casi son los exámenes, y todos están estudiando mucho en la biblioteca."
+      }
+    ]
+  }
+]

@@ -1,0 +1,438 @@
+[
+  {
+    "char": "编",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "扁",
+        "meaning_es": "plano"
+      }
+    ],
+    "mnemonic_es": "Imagina hilos tejidos hasta formar una tela plana: así se teje, se organiza y se edita algo."
+  },
+  {
+    "char": "辑",
+    "components": [
+      {
+        "char": "车",
+        "meaning_es": "carro, vehículo"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "耳",
+        "meaning_es": "oreja"
+      }
+    ],
+    "mnemonic_es": "Un carro lleno de noticias: una boca las cuenta y una oreja las escucha para reunirlas y editarlas."
+  },
+  {
+    "char": "盟",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna"
+      },
+      {
+        "char": "皿",
+        "meaning_es": "recipiente, plato"
+      }
+    ],
+    "mnemonic_es": "El sol y la luna brindan sobre el mismo recipiente para sellar un pacto: es una alianza."
+  },
+  {
+    "char": "质",
+    "components": [
+      {
+        "char": "斤",
+        "meaning_es": "hacha"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      }
+    ],
+    "mnemonic_es": "Golpeas una concha valiosa con un hacha para comprobar si es auténtica: así revisas su calidad."
+  },
+  {
+    "char": "街",
+    "components": [
+      {
+        "char": "行",
+        "meaning_es": "caminar, ir"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "Gente caminando a ambos lados de un camino de tierra apisonada: eso es una calle."
+  },
+  {
+    "char": "阶",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina"
+      },
+      {
+        "char": "介",
+        "meaning_es": "entre, interponerse"
+      }
+    ],
+    "mnemonic_es": "Entre la base y la cima de la colina hay escalones: cada uno es un nivel o etapa."
+  },
+  {
+    "char": "词",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "司",
+        "meaning_es": "dirigir, encargarse"
+      }
+    ],
+    "mnemonic_es": "El que dirige la reunión elige cada palabra con cuidado: este carácter significa palabra o término."
+  },
+  {
+    "char": "红",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "工",
+        "meaning_es": "trabajo"
+      }
+    ],
+    "mnemonic_es": "Una trabajadora tiñe hilos de seda con mucho esfuerzo hasta dejarlos de un rojo brillante."
+  },
+  {
+    "char": "克",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      },
+      {
+        "char": "兄",
+        "meaning_es": "hermano mayor"
+      }
+    ],
+    "mnemonic_es": "Un hermano mayor que vale por diez: puede con todo y supera cualquier obstáculo."
+  },
+  {
+    "char": "困",
+    "components": [
+      {
+        "char": "囗",
+        "meaning_es": "cerco, encierro"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Un árbol encerrado en una caja no puede crecer: está atrapado, en apuros y hasta con sueño de aburrimiento."
+  },
+  {
+    "char": "怕",
+    "components": [
+      {
+        "char": "忄",
+        "meaning_es": "corazón"
+      },
+      {
+        "char": "白",
+        "meaning_es": "blanco"
+      }
+    ],
+    "mnemonic_es": "Cuando tienes miedo, el corazón late fuerte y la cara se te pone blanca."
+  },
+  {
+    "char": "眼",
+    "components": [
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      },
+      {
+        "char": "艮",
+        "meaning_es": "firme, obstinado"
+      }
+    ],
+    "mnemonic_es": "Un ojo que mira fijo y firme sin parpadear: es el ojo."
+  },
+  {
+    "char": "睛",
+    "components": [
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      },
+      {
+        "char": "青",
+        "meaning_es": "azul verdoso, joven"
+      }
+    ],
+    "mnemonic_es": "El centro del ojo brilla con un color azul verdoso: es la pupila, y junto a 眼 forma 眼睛, ojos."
+  },
+  {
+    "char": "首",
+    "components": [
+      {
+        "char": "丷",
+        "meaning_es": "pelos, mechones"
+      },
+      {
+        "char": "自",
+        "meaning_es": "nariz, uno mismo"
+      }
+    ],
+    "mnemonic_es": "Dibuja unos mechones de pelo sobre una nariz: ya tienes una cabeza, lo primero y principal."
+  },
+  {
+    "char": "留",
+    "components": [
+      {
+        "char": "卯",
+        "meaning_es": "conejo (signo del zodiaco)"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      }
+    ],
+    "mnemonic_es": "Un conejo encuentra un campo lleno de zanahorias y decide quedarse allí para siempre."
+  },
+  {
+    "char": "双",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano, otra vez"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano, otra vez"
+      }
+    ],
+    "mnemonic_es": "Dos manos iguales, una al lado de la otra: forman un par."
+  },
+  {
+    "char": "食",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona, techo"
+      },
+      {
+        "char": "良",
+        "meaning_es": "bueno"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo, algo bueno para la persona: un plato de comida."
+  },
+  {
+    "char": "武",
+    "components": [
+      {
+        "char": "止",
+        "meaning_es": "detener, pie"
+      },
+      {
+        "char": "弋",
+        "meaning_es": "estaca, arma"
+      }
+    ],
+    "mnemonic_es": "Un guerrero que sabe detener un arma con un pie: domina las artes marciales."
+  },
+  {
+    "char": "器",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca, abertura"
+      },
+      {
+        "char": "犬",
+        "meaning_es": "perro"
+      }
+    ],
+    "mnemonic_es": "Un perro cuida cuatro vasijas con boca abierta: son los utensilios y aparatos de la casa."
+  },
+  {
+    "char": "掉",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "卓",
+        "meaning_es": "alto, sobresaliente"
+      }
+    ],
+    "mnemonic_es": "Una mano suelta algo desde un lugar alto y se cae: se pierde."
+  },
+  {
+    "char": "份",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "分",
+        "meaning_es": "dividir"
+      }
+    ],
+    "mnemonic_es": "Divides el pastel para que cada persona reciba su porción."
+  },
+  {
+    "char": "画",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno, línea"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      },
+      {
+        "char": "凵",
+        "meaning_es": "recipiente abierto"
+      }
+    ],
+    "mnemonic_es": "Trazas una línea arriba y dibujas un campo dentro de un marco: estás pintando un cuadro."
+  },
+  {
+    "char": "申",
+    "components": [
+      {
+        "char": "申",
+        "meaning_es": "declarar, expresar, solicitar"
+      }
+    ],
+    "mnemonic_es": "Una línea que atraviesa una caja de arriba abajo, como una idea que sale clara: expresas y solicitas algo, como en 申请."
+  },
+  {
+    "char": "购",
+    "components": [
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      },
+      {
+        "char": "勾",
+        "meaning_es": "gancho"
+      }
+    ],
+    "mnemonic_es": "Con dinero en una mano y un gancho en la otra, enganchas lo que quieres: estás comprando."
+  },
+  {
+    "char": "速",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "束",
+        "meaning_es": "atar, manojo"
+      }
+    ],
+    "mnemonic_es": "Atas bien tu mochila y sales avanzando a toda prisa: vas rápido."
+  },
+  {
+    "char": "危",
+    "components": [
+      {
+        "char": "⺈",
+        "meaning_es": "persona arriba"
+      },
+      {
+        "char": "厂",
+        "meaning_es": "acantilado"
+      },
+      {
+        "char": "㔾",
+        "meaning_es": "persona arrodillada"
+      }
+    ],
+    "mnemonic_es": "Alguien al borde de un acantilado y otra persona agachada debajo: ¡qué peligro!"
+  },
+  {
+    "char": "险",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina"
+      },
+      {
+        "char": "佥",
+        "meaning_es": "todos, juntos"
+      }
+    ],
+    "mnemonic_es": "Todos juntos escalando una colina empinada: el camino es arriesgado y peligroso."
+  },
+  {
+    "char": "妇",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "彐",
+        "meaning_es": "mano (con escoba)"
+      }
+    ],
+    "mnemonic_es": "Una mujer con una escoba en la mano cuidando su hogar: así recuerdas mujer casada o señora."
+  },
+  {
+    "char": "拒",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "巨",
+        "meaning_es": "enorme"
+      }
+    ],
+    "mnemonic_es": "Levantas una mano enorme frente a ti para decir que no: rechazas."
+  },
+  {
+    "char": "既",
+    "components": [
+      {
+        "char": "皀",
+        "meaning_es": "grano, comida"
+      },
+      {
+        "char": "旡",
+        "meaning_es": "persona que voltea la cabeza"
+      }
+    ],
+    "mnemonic_es": "Alguien frente a su plato voltea la cabeza porque ya terminó de comer: significa ya."
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "char:势",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1876d19f5bc35e50206e5270d9b2ae400bb8eb0"
+  },
+  {
+    "id": "char:背",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5c37d479a94397a0746b0a56db0271d398e07bef"
+  },
+  {
+    "id": "char:宜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4f24a9d9a7b101ce264f239d724abab508bc576"
+  },
+  {
+    "id": "char:救",
+    "ok": true,
+    "issues": [],
+    "content_hash": "912d45eb48252afcba7a184f7a017565add69240"
+  },
+  {
+    "id": "char:初",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ede7ec6ee2c58547e67ff4cbd9d3759824331ef2"
+  },
+  {
+    "id": "char:舒",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c4e43d05d96edbbd8c9b07246345dd62a7b362e"
+  },
+  {
+    "id": "char:夜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "524e7ad511d78d9e4a5be98569bc5e87b6cf046f"
+  },
+  {
+    "id": "char:篮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "140a973a25a41c54257bd7a0b219a3ded660db75"
+  },
+  {
+    "id": "char:碰",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4265c6b64335513247f0b166675e8bbaf0d1bfe5"
+  },
+  {
+    "id": "char:伤",
+    "ok": false,
+    "issues": [
+      "𠂉 no significa «techo inclinado»: es un fragmento gráfico sin significado propio (en 伤 procede de la simplificación de 昜). Conviene presentarlo solo como una forma visual, sin atribuirle un significado inventado."
+    ],
+    "content_hash": "222233ecd6f5082a375e1295ce098e49090b01c2"
+  },
+  {
+    "id": "char:骑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "874966051aa7ad889ffbf158efe23643d978312f"
+  },
+  {
+    "id": "char:喊",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f34b60dda4f50a4c67b56ab9031253f7e36937c"
+  },
+  {
+    "id": "char:斤",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f11169dbc924cab607eed3609af680318e5a4dff"
+  },
+  {
+    "id": "char:千",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f55fce6cc40baa94190f4aae3598aa67512cfc44"
+  },
+  {
+    "id": "char:紧",
+    "ok": false,
+    "issues": [
+      "Falta un componente: arriba a la izquierda hay dos trazos verticales (〢, simplificación de 臣) junto a 又. La descomposición 又 + 糸 está incompleta."
+    ],
+    "content_hash": "dce0305ddc9c4a333e43aec65e297b7d28b59722"
+  },
+  {
+    "id": "char:修",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69391f29946acef21540cc6b5a73964b32dea816"
+  },
+  {
+    "id": "char:充",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25c57d94f6e17c7a31a764eb38017436673ed50f"
+  },
+  {
+    "id": "char:湖",
+    "ok": true,
+    "issues": [],
+    "content_hash": "74e1e6b68d45d19a8eb6faaecd700e607d9191eb"
+  },
+  {
+    "id": "char:笔",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a7852bf10449a20472d5010ecd64bfe1f24191cd"
+  },
+  {
+    "id": "char:爬",
+    "ok": true,
+    "issues": [],
+    "content_hash": "13a3fa508179660b2d8f512f511e84433ff20cfa"
+  },
+  {
+    "id": "char:付",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e905eecbc69b8b59d1e1db79c0d54f3c44214fa3"
+  },
+  {
+    "id": "char:姓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd5413c836a3eb22cc770c98062feadd201af79e"
+  },
+  {
+    "id": "char:输",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4480eb2f203b038617b19665f1ea1b5801e62bb"
+  },
+  {
+    "id": "char:熟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3b54f2d7cd621f671ed81c157ed5c6432ad7303"
+  },
+  {
+    "id": "char:喂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ee75929cbbc48d0e104ec346a1bc8f43e07befc"
+  }
+]

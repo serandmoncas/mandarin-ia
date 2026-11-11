@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:杯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d91bf921d4428703cc5869f6a0a6bbcb015e14b"
+  },
+  {
+    "id": "word:处理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86ec4f4f1291b1f0e0cdf63e462609d2db211c44"
+  },
+  {
+    "id": "word:对不起",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 不 en 对不起 debe ir en tono neutro (duì bu qǐ), no «bù»; además contradice la lectura indicada (bu5)."
+    ],
+    "content_hash": "0c31fb543096b90a987011fc9abcbfef2a19a12b"
+  },
+  {
+    "id": "word:见面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba39e5b52504677f9dd3b1e3e269272652596033"
+  },
+  {
+    "id": "word:生日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d36721d8633c223dbe1bfcdb076b7af67c71222e"
+  },
+  {
+    "id": "word:感觉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e73236870822b6797b8f41fde9b492fed0e1b27c"
+  },
+  {
+    "id": "word:解决",
+    "ok": true,
+    "issues": [],
+    "content_hash": "847cbb73e80eb5b93da79c10c26472da8e5516f6"
+  },
+  {
+    "id": "word:树",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fba51960188cc03dec1f540d3a0a26382eae241e"
+  },
+  {
+    "id": "word:举行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a41e8dd7b165b076cfa0b851b4949334dbecc2ac"
+  },
+  {
+    "id": "word:听见",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: en 对不起, 不 va en tono neutro (duì bu qǐ), no «bù»."
+    ],
+    "content_hash": "127af79e75c96a8a6c821ee85af43f1168001414"
+  },
+  {
+    "id": "word:马",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f744869d22acbffb149d5e506a6c9840eccf0df"
+  },
+  {
+    "id": "word:图书馆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "65b1428bed5f0d7ce74cc2651e790f05ac962647"
+  },
+  {
+    "id": "word:能力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e6108f1cd60aa5ff947f0728a559ae623f01b6d"
+  },
+  {
+    "id": "word:干净",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: pinyin incorrecto «bù gàn jìng»; debe ser «bù gān jìng» (干 de 干净 es primer tono).",
+      "Ejemplo 4: 得 como partícula de complemento se lee «de» (xǐ de), no «dé»."
+    ],
+    "content_hash": "a33c5107dcb5095901cee9bdd41d7a9a73454199"
+  },
+  {
+    "id": "word:时代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1b51185003489fde6d5f916e94c55b03e4deb37"
+  },
+  {
+    "id": "word:艺术",
+    "ok": true,
+    "issues": [],
+    "content_hash": "484c821c349cad1cd36872f76aa4802334c88b6e"
+  },
+  {
+    "id": "word:帮忙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c25cd019b96d48cf826258dde7b356abace93c7b"
+  },
+  {
+    "id": "word:了解",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b932b338224f34b882c5e872b62a7faf7d59296"
+  },
+  {
+    "id": "word:贵",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e1dcc393a196ba36b1b742422422377d8929854"
+  },
+  {
+    "id": "word:副",
+    "ok": true,
+    "issues": [],
+    "content_hash": "54e62538d2022c0001f27e75efffe506a0fc5d90"
+  },
+  {
+    "id": "word:零",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d626312d6b10ebd05cc100ab252951a65c1c0f57"
+  },
+  {
+    "id": "word:拥有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "809212f8871d79779099c7dd88fad4f436b55c0f"
+  },
+  {
+    "id": "word:生气",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a4b49015d42a60e341fb3232049dcb795d1f516"
+  },
+  {
+    "id": "word:超过",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 得 como partícula de complemento se lee «de» (pǎo de), no «dé».",
+      "Ejemplo 2: «rebasó» es regionalismo (México); en español neutro mejor «me pasó» o «me adelantó»."
+    ],
+    "content_hash": "8c26128f06e31c7cf7cf375a4dc92938e901f6d4"
+  },
+  {
+    "id": "word:机会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "342016883f4a28f1f337096c61a9d1eeb3e917dd"
+  }
+]

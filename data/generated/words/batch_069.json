@@ -1,0 +1,547 @@
+[
+  {
+    "word": "拒绝",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rechazar",
+      "negarse",
+      "declinar"
+    ],
+    "examples": [
+      {
+        "zh": "他拒绝了我。",
+        "es": "Él me rechazó."
+      },
+      {
+        "zh": "她拒绝回答这个问题。",
+        "es": "Ella se negó a responder esta pregunta."
+      },
+      {
+        "zh": "我不能拒绝朋友的要求。",
+        "es": "No puedo rechazar lo que me pide un amigo."
+      },
+      {
+        "zh": "公司拒绝了他的申请，因为他没有经验。",
+        "es": "La empresa rechazó su solicitud porque no tenía experiencia."
+      }
+    ]
+  },
+  {
+    "word": "公平",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "justo",
+      "imparcial",
+      "equitativo"
+    ],
+    "examples": [
+      {
+        "zh": "这不公平！",
+        "es": "¡Esto no es justo!"
+      },
+      {
+        "zh": "老师对每个学生都很公平。",
+        "es": "El maestro es justo con todos los estudiantes."
+      },
+      {
+        "zh": "我觉得这个比赛不太公平。",
+        "es": "Creo que esta competencia no es muy justa."
+      },
+      {
+        "zh": "每个人都希望得到公平的机会。",
+        "es": "Todos esperan tener una oportunidad justa."
+      }
+    ]
+  },
+  {
+    "word": "既",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tanto... como",
+      "y además",
+      "ya que; puesto que",
+      "ya (literario)"
+    ],
+    "examples": [
+      {
+        "zh": "她既漂亮又认真。",
+        "es": "Ella es bonita y además muy responsable."
+      },
+      {
+        "zh": "这个菜既好吃又健康。",
+        "es": "Este plato es sabroso y además saludable."
+      },
+      {
+        "zh": "他既会说中文，也会说英语。",
+        "es": "Él sabe hablar tanto chino como inglés."
+      },
+      {
+        "zh": "这份工作既有意思又能学到很多东西。",
+        "es": "Este trabajo es interesante y además te permite aprender mucho."
+      }
+    ]
+  },
+  {
+    "word": "权",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "derecho",
+      "poder",
+      "autoridad"
+    ],
+    "examples": [
+      {
+        "zh": "你有权知道这件事。",
+        "es": "Tienes derecho a saber esto."
+      },
+      {
+        "zh": "他没有权这样做。",
+        "es": "Él no tiene derecho a hacer eso."
+      },
+      {
+        "zh": "现在公司的大权在他手里。",
+        "es": "Ahora el poder de la empresa está en sus manos."
+      },
+      {
+        "zh": "学生有权对学校的规定提出意见。",
+        "es": "Los estudiantes tienen derecho a opinar sobre las reglas de la escuela."
+      }
+    ]
+  },
+  {
+    "word": "日子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "día",
+      "fecha",
+      "vida; días (de la vida)",
+      "época"
+    ],
+    "examples": [
+      {
+        "zh": "今天是个好日子。",
+        "es": "Hoy es un buen día."
+      },
+      {
+        "zh": "我们的日子越来越好了。",
+        "es": "Nuestra vida va cada vez mejor."
+      },
+      {
+        "zh": "你还记得我们见面的日子吗？",
+        "es": "¿Todavía recuerdas el día en que nos conocimos?"
+      },
+      {
+        "zh": "那段日子很难，但我们一起走过来了。",
+        "es": "Esa época fue difícil, pero la superamos juntos."
+      }
+    ]
+  },
+  {
+    "word": "治疗",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tratar (una enfermedad)",
+      "tratamiento médico",
+      "terapia"
+    ],
+    "examples": [
+      {
+        "zh": "他在医院接受治疗。",
+        "es": "Él está recibiendo tratamiento en el hospital."
+      },
+      {
+        "zh": "这种病可以治疗吗？",
+        "es": "¿Esta enfermedad se puede tratar?"
+      },
+      {
+        "zh": "医生说他需要治疗三个月。",
+        "es": "El médico dijo que necesita tres meses de tratamiento."
+      },
+      {
+        "zh": "经过一年的治疗，她的身体好多了。",
+        "es": "Después de un año de tratamiento, su salud mejoró mucho."
+      }
+    ]
+  },
+  {
+    "word": "太阳",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sol",
+      "luz del sol"
+    ],
+    "examples": [
+      {
+        "zh": "太阳出来了。",
+        "es": "Salió el sol."
+      },
+      {
+        "zh": "今天的太阳很热。",
+        "es": "Hoy el sol quema mucho."
+      },
+      {
+        "zh": "太阳下山以后，天就冷了。",
+        "es": "Cuando se pone el sol, empieza a hacer frío."
+      },
+      {
+        "zh": "孩子们在太阳下面玩了一下午。",
+        "es": "Los niños jugaron toda la tarde bajo el sol."
+      }
+    ]
+  },
+  {
+    "word": "监督",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "supervisar",
+      "vigilar",
+      "supervisión"
+    ],
+    "examples": [
+      {
+        "zh": "老师在监督学生考试。",
+        "es": "El maestro está vigilando el examen de los alumnos."
+      },
+      {
+        "zh": "这个项目由他负责监督。",
+        "es": "Él se encarga de supervisar este proyecto."
+      },
+      {
+        "zh": "政府应该接受人民的监督。",
+        "es": "El gobierno debe aceptar la supervisión del pueblo."
+      },
+      {
+        "zh": "没有人监督，他们的工作就做得不认真。",
+        "es": "Si nadie los supervisa, no hacen su trabajo con cuidado."
+      }
+    ]
+  },
+  {
+    "word": "装",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fingir",
+      "instalar",
+      "meter; empacar; cargar",
+      "ropa; vestimenta"
+    ],
+    "examples": [
+      {
+        "zh": "别装了，我知道是你。",
+        "es": "Deja de fingir, sé que fuiste tú."
+      },
+      {
+        "zh": "他装没看见我。",
+        "es": "Él fingió no verme."
+      },
+      {
+        "zh": "我在电脑上装了一个新游戏。",
+        "es": "Instalé un juego nuevo en la computadora."
+      },
+      {
+        "zh": "请把这些东西装进包里，我们马上出发。",
+        "es": "Por favor, mete estas cosas en la bolsa; salimos enseguida."
+      }
+    ]
+  },
+  {
+    "word": "网址",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dirección web",
+      "URL"
+    ],
+    "examples": [
+      {
+        "zh": "这是我们的网址。",
+        "es": "Esta es nuestra dirección web."
+      },
+      {
+        "zh": "你能把网址告诉我吗？",
+        "es": "¿Me puedes dar la dirección web?"
+      },
+      {
+        "zh": "这个网站的网址很难记。",
+        "es": "La dirección de este sitio web es difícil de recordar."
+      },
+      {
+        "zh": "我把网址发给你了，你打开看看。",
+        "es": "Ya te mandé el enlace; ábrelo y échale un vistazo."
+      }
+    ]
+  },
+  {
+    "word": "层",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "piso (de un edificio)",
+      "capa",
+      "clasificador para capas y pisos"
+    ],
+    "examples": [
+      {
+        "zh": "我住在三层。",
+        "es": "Vivo en el tercer piso."
+      },
+      {
+        "zh": "这个楼一共有几层？",
+        "es": "¿Cuántos pisos tiene este edificio en total?"
+      },
+      {
+        "zh": "天冷了，多穿一层衣服吧。",
+        "es": "Hace frío, ponte otra capa de ropa."
+      },
+      {
+        "zh": "书店在商场的五层，电影院在六层。",
+        "es": "La librería está en el quinto piso del centro comercial y el cine, en el sexto."
+      }
+    ]
+  },
+  {
+    "word": "规划",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "planificar",
+      "planear",
+      "plan",
+      "planificación"
+    ],
+    "examples": [
+      {
+        "zh": "你对未来有什么规划？",
+        "es": "¿Qué planes tienes para el futuro?"
+      },
+      {
+        "zh": "我们需要好好规划时间。",
+        "es": "Necesitamos organizar bien nuestro tiempo."
+      },
+      {
+        "zh": "这个城市的规划非常好。",
+        "es": "La planificación de esta ciudad es muy buena."
+      },
+      {
+        "zh": "政府正在规划新的交通系统。",
+        "es": "El gobierno está planificando un nuevo sistema de transporte."
+      }
+    ]
+  },
+  {
+    "word": "针对",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ir dirigido a",
+      "enfocarse en",
+      "ir en contra de",
+      "en respuesta a"
+    ],
+    "examples": [
+      {
+        "zh": "我不是针对你。",
+        "es": "No va contra ti."
+      },
+      {
+        "zh": "这个计划是针对小学生的。",
+        "es": "Este plan está dirigido a estudiantes de primaria."
+      },
+      {
+        "zh": "针对这个问题，我们开了一个会。",
+        "es": "Para tratar este problema, tuvimos una reunión."
+      },
+      {
+        "zh": "政府针对交通问题提出了新的政策。",
+        "es": "El gobierno propuso nuevas políticas para atender los problemas de tránsito."
+      }
+    ]
+  },
+  {
+    "word": "酒店",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hotel",
+      "restaurante",
+      "bar; taberna"
+    ],
+    "examples": [
+      {
+        "zh": "这家酒店很贵。",
+        "es": "Este hotel es muy caro."
+      },
+      {
+        "zh": "我们住在机场旁边的酒店。",
+        "es": "Nos quedamos en un hotel junto al aeropuerto."
+      },
+      {
+        "zh": "你能告诉我去酒店怎么走吗？",
+        "es": "¿Me puedes decir cómo llegar al hotel?"
+      },
+      {
+        "zh": "这家酒店的房间很干净，早饭也很好吃。",
+        "es": "Las habitaciones de este hotel están muy limpias y el desayuno también es muy rico."
+      }
+    ]
+  },
+  {
+    "word": "创作",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "crear (una obra)",
+      "componer; escribir",
+      "obra creativa",
+      "creación"
+    ],
+    "examples": [
+      {
+        "zh": "他喜欢创作音乐。",
+        "es": "A él le gusta componer música."
+      },
+      {
+        "zh": "这首歌是她自己创作的。",
+        "es": "Esta canción la compuso ella misma."
+      },
+      {
+        "zh": "这位作家正在创作一本新小说。",
+        "es": "Este escritor está escribiendo una nueva novela."
+      },
+      {
+        "zh": "他的很多作品都是在北京创作的。",
+        "es": "Muchas de sus obras las creó en Beijing."
+      }
+    ]
+  },
+  {
+    "word": "平等",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "igual",
+      "igualdad"
+    ],
+    "examples": [
+      {
+        "zh": "男女平等。",
+        "es": "Igualdad entre hombres y mujeres."
+      },
+      {
+        "zh": "我们都是平等的。",
+        "es": "Todos somos iguales."
+      },
+      {
+        "zh": "在法律面前，人人平等。",
+        "es": "Ante la ley, todos somos iguales."
+      },
+      {
+        "zh": "很多妇女还在为平等的权利努力。",
+        "es": "Muchas mujeres todavía luchan por la igualdad de derechos."
+      }
+    ]
+  },
+  {
+    "word": "少年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "joven; muchacho",
+      "adolescente",
+      "adolescencia"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个快乐的少年。",
+        "es": "Es un joven alegre."
+      },
+      {
+        "zh": "那个少年跑得很快。",
+        "es": "Ese muchacho corre muy rápido."
+      },
+      {
+        "zh": "少年时期，他常常一个人去图书馆。",
+        "es": "En su adolescencia, a menudo iba solo a la biblioteca."
+      },
+      {
+        "zh": "这本小说讲的是一个少年改变自己的故事。",
+        "es": "Esta novela cuenta la historia de un joven que logra cambiar."
+      }
+    ]
+  },
+  {
+    "word": "收",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recibir",
+      "aceptar",
+      "guardar; recoger",
+      "admitir; cobrar"
+    ],
+    "examples": [
+      {
+        "zh": "你收到我的信了吗？",
+        "es": "¿Recibiste mi carta?"
+      },
+      {
+        "zh": "这个钱我不能收。",
+        "es": "No puedo aceptar este dinero."
+      },
+      {
+        "zh": "这个学校今年收了五百个学生。",
+        "es": "Esta escuela admitió a quinientos estudiantes este año."
+      },
+      {
+        "zh": "下雨了，快把外边的衣服收进来。",
+        "es": "Está lloviendo, mete rápido la ropa que está afuera."
+      }
+    ]
+  },
+  {
+    "word": "难道",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿acaso...?",
+      "no me digas que...",
+      "¿será que...?"
+    ],
+    "examples": [
+      {
+        "zh": "难道你不知道吗？",
+        "es": "¿Acaso no lo sabías?"
+      },
+      {
+        "zh": "难道他忘了今天是我的生日？",
+        "es": "¿Será que olvidó que hoy es mi cumpleaños?"
+      },
+      {
+        "zh": "你难道不想回家看看妈妈吗？",
+        "es": "¿Acaso no quieres volver a casa a ver a tu mamá?"
+      },
+      {
+        "zh": "这么简单的问题，难道你还要问老师吗？",
+        "es": "¿Una pregunta tan sencilla y todavía vas a preguntarle al maestro?"
+      }
+    ]
+  },
+  {
+    "word": "群",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "grupo",
+      "multitud",
+      "manada; rebaño",
+      "grupo de chat"
+    ],
+    "examples": [
+      {
+        "zh": "山上有一群马。",
+        "es": "En la montaña hay una manada de caballos."
+      },
+      {
+        "zh": "一群孩子在外边玩。",
+        "es": "Un grupo de niños está jugando afuera."
+      },
+      {
+        "zh": "我把你加进我们的群里了。",
+        "es": "Te agregué a nuestro grupo de chat."
+      },
+      {
+        "zh": "他不喜欢一个人，总是和一群朋友在一起。",
+        "es": "No le gusta estar solo; siempre anda con un grupo de amigos."
+      }
+    ]
+  }
+]

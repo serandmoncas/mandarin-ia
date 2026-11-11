@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:吃",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e7d9db6642f4a36b5aaba8a298b2b44ac5b6b31a"
+  },
+  {
+    "id": "word:话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8c45ac6e165667d4861b16b6bae99fb9775f4b05"
+  },
+  {
+    "id": "word:应该",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d7926a7c35e75e68c2b1fb898c6b4c6211492f46"
+  },
+  {
+    "id": "word:今天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e04619aa28a2161623e3e9b3b0781f9cdc8507e"
+  },
+  {
+    "id": "word:历史",
+    "ok": true,
+    "issues": [],
+    "content_hash": "15ee7a030f0ac6db397609204fad549339c8eb97"
+  },
+  {
+    "id": "word:岁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ecc641eb82614d8509e98d995e7ad9d9b841eb6a"
+  },
+  {
+    "id": "word:政治",
+    "ok": false,
+    "issues": [
+      "En el cuarto ejemplo, 一样 debe escribirse «yí yàng» por el sandhi tonal de 一. Los demás ejemplos sí lo aplican (yí gè)."
+    ],
+    "content_hash": "0c65271ac154a115252f0f7d775b7a6d9044586f"
+  },
+  {
+    "id": "word:情况",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35d37bce17d317fbb1da1176c9fae81c3662db37"
+  },
+  {
+    "id": "word:家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b00046a1182f21213d80de10a2b0031214e46b03"
+  },
+  {
+    "id": "word:太",
+    "ok": false,
+    "issues": [
+      "En el tercer ejemplo, 一次 debe escribirse «yí cì» por el sandhi tonal de 一."
+    ],
+    "content_hash": "b33e1fb65075d88f5ff8b360bff45c18701d09b8"
+  },
+  {
+    "id": "word:不会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4bc27f016dc73f3dcc2bc0d5f9d8f627c3ac8693"
+  },
+  {
+    "id": "word:最后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "39b3a5148258ab89b756d12c88fa633af69d1ceb"
+  },
+  {
+    "id": "word:以及",
+    "ok": false,
+    "issues": [
+      "En el tercer ejemplo, 家 suelto en la enumeración suena poco natural y se lee como «casa», no como «familia». Sería más natural 家人 o 家庭.",
+      "以及 es de registro formal o escrito y no suele unir solo dos elementos simples en frases coloquiales. En el primer ejemplo (中国以及日本的电影) lo natural sería 和."
+    ],
+    "content_hash": "2cd02090a1ff5c06134a0dbda80ffe785fd7df70"
+  },
+  {
+    "id": "word:东西",
+    "ok": false,
+    "issues": [
+      "Con el sentido de «cosa», 东西 se pronuncia con tono neutro en la segunda sílaba (dōng xi), como indica la propia entrada (dong1 xi5). Los ejemplos escriben «dōng xī», que significa «este y oeste»."
+    ],
+    "content_hash": "ee17950e98914a14c473c84201145cc445f2c70f"
+  },
+  {
+    "id": "word:组织",
+    "ok": true,
+    "issues": [],
+    "content_hash": "277386e2f54a1cb1dc4424cb23d4f99d4ba4f336"
+  },
+  {
+    "id": "word:发生",
+    "ok": false,
+    "issues": [
+      "En el segundo ejemplo, 一件 debe escribirse «yí jiàn» por el sandhi tonal de 一."
+    ],
+    "content_hash": "1f3f7d24a64b59654e53b686adf0b73ff38828a2"
+  },
+  {
+    "id": "word:开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37791656e356f9ca76a96238a64b61e4cd363ea7"
+  },
+  {
+    "id": "word:其他",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3a121c83f3c9380777776aef2f9ce380b58e13e"
+  },
+  {
+    "id": "word:问",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5cbcf3d0062517623fd7928904463f8e2142a049"
+  },
+  {
+    "id": "word:人民",
+    "ok": false,
+    "issues": [
+      "En el tercer ejemplo, 为 significa «para, en beneficio de» y se lee «wèi», no «wéi»."
+    ],
+    "content_hash": "4038aa6e2af5577fba59156c5866a82e562135a7"
+  },
+  {
+    "id": "word:大学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fe90bf3bf099c6c8bba770c00cdf1764ed61668c"
+  },
+  {
+    "id": "word:朋友",
+    "ok": false,
+    "issues": [
+      "友 se pronuncia con tono neutro en 朋友 (péng you), como indica la propia entrada (peng2 you5). Los ejemplos escriben «péng yǒu»."
+    ],
+    "content_hash": "1068b31aeee3b107a5a6746db1161cbf0ec8c2be"
+  },
+  {
+    "id": "word:网站",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ef8b82bebadbd2b04de00ccb589e2e416d09c91"
+  },
+  {
+    "id": "word:学校",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fbdd06135672bdd5280644d359a261a5074b361e"
+  },
+  {
+    "id": "word:主要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6323015b2c7e02d69df25cc367cdfa45e1ffb4ff"
+  }
+]

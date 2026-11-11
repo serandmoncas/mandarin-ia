@@ -1,0 +1,170 @@
+[
+  {
+    "id": "word:未",
+    "ok": true,
+    "issues": [],
+    "content_hash": "748f8c82c7396b57e953cd9ec3b6095cc20ed9cb"
+  },
+  {
+    "id": "word:吃饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e9abd715a68c0008473707a23f99b6eda6a570e"
+  },
+  {
+    "id": "word:资源",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3fde7e6361e63d05d13102f101decb3331810b90"
+  },
+  {
+    "id": "word:回去",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 妈妈 aparece como «mā mā»; debe ser «mā ma», con tono neutro en la segunda sílaba."
+    ],
+    "content_hash": "636064a0ea03dd8c9e3a48c18fb8dbc7116e877c"
+  },
+  {
+    "id": "word:集团",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76b8a38572432b940cf788a96030ddd5d3f495f7"
+  },
+  {
+    "id": "word:路上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6eaa8237c9e33cd4d79830d1cc376c9b8b13a26"
+  },
+  {
+    "id": "word:成立",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b47b2b6a2c2edad4545ea8c83e185b4acb107515"
+  },
+  {
+    "id": "word:老人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f6efb73317c8f1c86c3b8b550392ef855177b53e"
+  },
+  {
+    "id": "word:规定",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 东西 («cosa, comida») aparece como «dōng xī»; debe ser «dōng xi». La forma «dōngxī» significa «este y oeste»."
+    ],
+    "content_hash": "23fff48b75b8403f74d5122892179671ae560fc9"
+  },
+  {
+    "id": "word:科学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "339c49c4105f715c0ad5285f09b0c149135b3716"
+  },
+  {
+    "id": "word:弟弟",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 哥哥 aparece como «gē gē»; debe ser «gē ge». Además es inconsistente con «dì di».",
+      "Pinyin del ejemplo 4: 妈妈 aparece como «mā mā»; debe ser «mā ma»."
+    ],
+    "content_hash": "07acfb4da1ffd94731289ed7c693bcdcf6149467"
+  },
+  {
+    "id": "word:饭",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 妈妈 aparece como «mā mā»; debe ser «mā ma»."
+    ],
+    "content_hash": "168d1eae8ace82a320ea878017bca2448344bbb8"
+  },
+  {
+    "id": "word:任务",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9c64fff70c8f3f09c1af6b182f64879a0972354"
+  },
+  {
+    "id": "word:日期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "190301f81372f8f4e0454790fe55f8a8e8c67987"
+  },
+  {
+    "id": "word:唱",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 3 y 4: la partícula 得 aparece como «dé»; debe ser «de», con tono neutro.",
+      "El significado «gritar» es engañoso. La acepción «to call loudly» es «anunciar en voz alta», como en 唱名 (pasar lista), no gritar en general."
+    ],
+    "content_hash": "d453d5cb63baa09083d030d10196bb0e6cbf6943"
+  },
+  {
+    "id": "word:原因",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2f10e32c880300206b28bf7554ff5411c45d1c7"
+  },
+  {
+    "id": "word:旁边",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 哥哥 aparece como «gē gē»; debe ser «gē ge»."
+    ],
+    "content_hash": "de423501626f8e396c4aa55ba01d6235fed96f4a"
+  },
+  {
+    "id": "word:专业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "600fa38682b3afa56e2d3d720685d6b24f8a8440"
+  },
+  {
+    "id": "word:打电话",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 妈妈 aparece como «mā mā»; debe ser «mā ma»."
+    ],
+    "content_hash": "d0eb126b1ede2c4f860598d7a7a0877b36769885"
+  },
+  {
+    "id": "word:之前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "95fbcdea2d369ee03ef1245ebdd76b915262d101"
+  },
+  {
+    "id": "word:上午",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2315af9425c05aa9f939cc1405d0aef56a800568"
+  },
+  {
+    "id": "word:参与",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ceb6175ed1291019a86f108c6a8f97e1ed8c204"
+  },
+  {
+    "id": "word:火车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96e330e90dd64e5b80ce22956a79275ae87e5f63"
+  },
+  {
+    "id": "word:是否",
+    "ok": true,
+    "issues": [],
+    "content_hash": "332ab033b581deeae798f0311ca5fd4cfad44978"
+  },
+  {
+    "id": "word:经",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: «yī shuō» debería llevar sandhi tonal, «yì shuō», como en el resto del material (yí gè, yì qǐ)."
+    ],
+    "content_hash": "0fa5ca867ee452c5c40cad263066b3bffa7b7029"
+  }
+]

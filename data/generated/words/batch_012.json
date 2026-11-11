@@ -1,0 +1,543 @@
+[
+  {
+    "word": "女",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mujer",
+      "femenino",
+      "hija"
+    ],
+    "examples": [
+      {
+        "zh": "她是女学生。",
+        "es": "Ella es estudiante."
+      },
+      {
+        "zh": "我有一个女朋友。",
+        "es": "Tengo novia."
+      },
+      {
+        "zh": "她女儿今年三岁了。",
+        "es": "Su hija cumplió tres años este año."
+      },
+      {
+        "zh": "他们家的两个孩子都是女孩。",
+        "es": "Los dos hijos de esa familia son niñas."
+      }
+    ]
+  },
+  {
+    "word": "学习",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estudiar",
+      "aprender",
+      "aprendizaje"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢学习。",
+        "es": "Me gusta estudiar."
+      },
+      {
+        "zh": "他今天在家学习。",
+        "es": "Hoy él estudia en casa."
+      },
+      {
+        "zh": "我们应该向他学习。",
+        "es": "Deberíamos aprender de él."
+      },
+      {
+        "zh": "为了去中国工作，她已经开始学习中文了。",
+        "es": "Para ir a trabajar a China, ella ya empezó a estudiar chino."
+      }
+    ]
+  },
+  {
+    "word": "正在",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar (haciendo algo)",
+      "en este momento"
+    ],
+    "examples": [
+      {
+        "zh": "我正在吃饭。",
+        "es": "Estoy comiendo."
+      },
+      {
+        "zh": "他正在看电影。",
+        "es": "Él está viendo una película."
+      },
+      {
+        "zh": "你打电话的时候，我正在写东西。",
+        "es": "Cuando llamaste, yo estaba escribiendo algo."
+      },
+      {
+        "zh": "政府正在准备一个新的发展计划。",
+        "es": "El gobierno está preparando un nuevo plan de desarrollo."
+      }
+    ]
+  },
+  {
+    "word": "其中",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entre ellos",
+      "de ellos",
+      "en eso"
+    ],
+    "examples": [
+      {
+        "zh": "我有三个朋友，其中一个是日本人。",
+        "es": "Tengo tres amigos; uno de ellos es japonés."
+      },
+      {
+        "zh": "我买了很多东西，其中有一些是给你的。",
+        "es": "Compré muchas cosas y algunas son para ti."
+      },
+      {
+        "zh": "今天来了很多人，其中有我的老朋友。",
+        "es": "Hoy vino mucha gente, y entre ellos estaba un viejo amigo mío."
+      },
+      {
+        "zh": "中国有很多地区，其中有些地方的经济发展很快。",
+        "es": "China tiene muchas regiones, y en algunas la economía crece muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "次",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vez",
+      "siguiente",
+      "secundario",
+      "de baja calidad"
+    ],
+    "examples": [
+      {
+        "zh": "下次你来我家吧。",
+        "es": "La próxima vez ven a mi casa."
+      },
+      {
+        "zh": "我去过北京两次。",
+        "es": "He ido a Beijing dos veces."
+      },
+      {
+        "zh": "这是我第一次吃中国菜。",
+        "es": "Es la primera vez que como comida china."
+      },
+      {
+        "zh": "这次的问题比上次更重要，我们必须快点决定。",
+        "es": "El problema de esta vez es más importante que el de la vez anterior; tenemos que decidir pronto."
+      }
+    ]
+  },
+  {
+    "word": "老",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "viejo, mayor",
+      "antiguo, de hace mucho",
+      "siempre, todo el tiempo",
+      "(prefijo de confianza antes de un apellido)"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的老朋友。",
+        "es": "Él es un viejo amigo mío."
+      },
+      {
+        "zh": "这个人已经很老了。",
+        "es": "Esta persona ya es muy mayor."
+      },
+      {
+        "zh": "你为什么老问这个问题？",
+        "es": "¿Por qué siempre haces esa pregunta?"
+      },
+      {
+        "zh": "老王在这家公司工作了三十年。",
+        "es": "El viejo Wang ha trabajado treinta años en esta empresa."
+      }
+    ]
+  },
+  {
+    "word": "企业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "empresa",
+      "compañía",
+      "corporación"
+    ],
+    "examples": [
+      {
+        "zh": "这是一家大企业。",
+        "es": "Esta es una gran empresa."
+      },
+      {
+        "zh": "他在一家日本企业工作。",
+        "es": "Él trabaja en una empresa japonesa."
+      },
+      {
+        "zh": "很多企业需要新的技术。",
+        "es": "Muchas empresas necesitan nueva tecnología."
+      },
+      {
+        "zh": "现在中国的很多企业都开始走向世界了。",
+        "es": "Hoy en día muchas empresas chinas han empezado a expandirse al mundo."
+      }
+    ]
+  },
+  {
+    "word": "认识",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conocer (a alguien)",
+      "reconocer",
+      "conocimiento, comprensión"
+    ],
+    "examples": [
+      {
+        "zh": "我认识他。",
+        "es": "Lo conozco."
+      },
+      {
+        "zh": "很高兴认识你。",
+        "es": "Mucho gusto en conocerte."
+      },
+      {
+        "zh": "你们是怎么认识的？",
+        "es": "¿Cómo se conocieron ustedes?"
+      },
+      {
+        "zh": "通过这次活动，我认识了很多新朋友。",
+        "es": "Gracias a esta actividad conocí a muchos amigos nuevos."
+      }
+    ]
+  },
+  {
+    "word": "影响",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "influencia",
+      "influir, afectar",
+      "molestar, interrumpir",
+      "efecto"
+    ],
+    "examples": [
+      {
+        "zh": "别影响他工作。",
+        "es": "No lo interrumpas mientras trabaja."
+      },
+      {
+        "zh": "他对我影响很大。",
+        "es": "Él ha tenido mucha influencia en mí."
+      },
+      {
+        "zh": "这部电影影响了很多人。",
+        "es": "Esta película influyó en mucha gente."
+      },
+      {
+        "zh": "美国的经济问题已经影响到了全世界。",
+        "es": "Los problemas económicos de Estados Unidos ya han afectado a todo el mundo."
+      }
+    ]
+  },
+  {
+    "word": "有些",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "algunos",
+      "un poco, algo"
+    ],
+    "examples": [
+      {
+        "zh": "我今天有些累。",
+        "es": "Hoy estoy un poco cansado."
+      },
+      {
+        "zh": "有些人喜欢吃中国菜。",
+        "es": "A algunas personas les gusta la comida china."
+      },
+      {
+        "zh": "有些问题我们现在不能回答。",
+        "es": "Hay algunas preguntas que no podemos responder ahora."
+      },
+      {
+        "zh": "这个计划有些地方还需要再想想。",
+        "es": "Hay algunos puntos de este plan que todavía hay que pensar mejor."
+      }
+    ]
+  },
+  {
+    "word": "女人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mujer",
+      "esposa (coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "那个女人是谁？",
+        "es": "¿Quién es esa mujer?"
+      },
+      {
+        "zh": "她是一个很好的女人。",
+        "es": "Ella es una muy buena mujer."
+      },
+      {
+        "zh": "在这个公司，女人和男人做一样的工作。",
+        "es": "En esta empresa, las mujeres y los hombres hacen el mismo trabajo."
+      },
+      {
+        "zh": "历史上有很多女人做了非常重要的事。",
+        "es": "A lo largo de la historia, muchas mujeres han hecho cosas muy importantes."
+      }
+    ]
+  },
+  {
+    "word": "文化",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cultura",
+      "cultural",
+      "civilización"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢中国文化。",
+        "es": "Me gusta la cultura china."
+      },
+      {
+        "zh": "每个国家都有自己的文化。",
+        "es": "Cada país tiene su propia cultura."
+      },
+      {
+        "zh": "学习一个国家的文化需要很长时间。",
+        "es": "Aprender la cultura de un país toma mucho tiempo."
+      },
+      {
+        "zh": "这个活动让更多人知道了香港的文化和历史。",
+        "es": "Esta actividad permitió que más gente conociera la cultura y la historia de Hong Kong."
+      }
+    ]
+  },
+  {
+    "word": "外",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "afuera, fuera",
+      "extranjero",
+      "externo",
+      "además"
+    ],
+    "examples": [
+      {
+        "zh": "外面很冷。",
+        "es": "Afuera hace mucho frío."
+      },
+      {
+        "zh": "他在门外等你。",
+        "es": "Te está esperando afuera de la puerta."
+      },
+      {
+        "zh": "我们学校有很多外国学生。",
+        "es": "En nuestra escuela hay muchos estudiantes extranjeros."
+      },
+      {
+        "zh": "他已经在国外工作了三年，今年准备回来。",
+        "es": "Él ya lleva tres años trabajando en el extranjero y este año piensa regresar."
+      }
+    ]
+  },
+  {
+    "word": "则",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en cambio, mientras que",
+      "entonces",
+      "norma, regla",
+      "(clasificador de textos y noticias)"
+    ],
+    "examples": [
+      {
+        "zh": "我看了一则新闻。",
+        "es": "Leí una noticia."
+      },
+      {
+        "zh": "北京很冷，香港则很热。",
+        "es": "En Beijing hace mucho frío; en Hong Kong, en cambio, hace mucho calor."
+      },
+      {
+        "zh": "他喜欢看电影，我则喜欢听音乐。",
+        "es": "A él le gusta ver películas; a mí, en cambio, me gusta escuchar música."
+      },
+      {
+        "zh": "有些人认为这样很好，有些人则认为不对。",
+        "es": "Algunos creen que así está bien, mientras que otros piensan que no es correcto."
+      }
+    ]
+  },
+  {
+    "word": "小时",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hora"
+    ],
+    "examples": [
+      {
+        "zh": "我等了你一个小时。",
+        "es": "Te esperé una hora."
+      },
+      {
+        "zh": "他每天工作十个小时。",
+        "es": "Él trabaja diez horas al día."
+      },
+      {
+        "zh": "从这里到北京要两个小时。",
+        "es": "De aquí a Beijing se tarda dos horas."
+      },
+      {
+        "zh": "我已经学习了三个小时，现在想出去走走。",
+        "es": "Ya estudié tres horas; ahora quiero salir a caminar un rato."
+      }
+    ]
+  },
+  {
+    "word": "不过",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pero, sin embargo",
+      "solo, nada más que",
+      "(tras adjetivo) lo más ... posible"
+    ],
+    "examples": [
+      {
+        "zh": "他不过是个孩子。",
+        "es": "No es más que un niño."
+      },
+      {
+        "zh": "这个东西很好，不过太贵了。",
+        "es": "Esto es muy bueno, pero es demasiado caro."
+      },
+      {
+        "zh": "我很想去，不过今天没有时间。",
+        "es": "Tengo muchas ganas de ir, pero hoy no tengo tiempo."
+      },
+      {
+        "zh": "你能和我们一起去，那真是再好不过了。",
+        "es": "Si puedes ir con nosotros, no podría ser mejor."
+      }
+    ]
+  },
+  {
+    "word": "电话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "teléfono",
+      "llamada telefónica",
+      "número de teléfono"
+    ],
+    "examples": [
+      {
+        "zh": "我给你打电话。",
+        "es": "Te voy a llamar por teléfono."
+      },
+      {
+        "zh": "你的电话是多少？",
+        "es": "¿Cuál es tu número de teléfono?"
+      },
+      {
+        "zh": "刚才有人给你打电话。",
+        "es": "Hace un rato alguien te llamó."
+      },
+      {
+        "zh": "我昨天给他打了三次电话，他都没有接。",
+        "es": "Ayer lo llamé tres veces y nunca contestó."
+      }
+    ]
+  },
+  {
+    "word": "技术",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tecnología",
+      "técnica",
+      "habilidad"
+    ],
+    "examples": [
+      {
+        "zh": "他的技术很好。",
+        "es": "Él tiene muy buena técnica."
+      },
+      {
+        "zh": "这是一种新技术。",
+        "es": "Esta es una nueva tecnología."
+      },
+      {
+        "zh": "学习这个技术需要很多时间。",
+        "es": "Aprender esta técnica requiere mucho tiempo."
+      },
+      {
+        "zh": "这些年中国的技术发展得非常快。",
+        "es": "En estos años, la tecnología en China ha avanzado muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "多少",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "cuánto, cuántos",
+      "qué número (de teléfono, etc.)",
+      "más o menos, algo"
+    ],
+    "examples": [
+      {
+        "zh": "这个多少钱？",
+        "es": "¿Cuánto cuesta esto?"
+      },
+      {
+        "zh": "你们学校有多少学生？",
+        "es": "¿Cuántos estudiantes hay en su escuela?"
+      },
+      {
+        "zh": "你的电话号码是多少？",
+        "es": "¿Cuál es tu número de teléfono?"
+      },
+      {
+        "zh": "你知道从北京到香港要多少个小时吗？",
+        "es": "¿Sabes cuántas horas se tarda de Beijing a Hong Kong?"
+      }
+    ]
+  },
+  {
+    "word": "那么",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tan, así de",
+      "entonces, en ese caso",
+      "de esa manera",
+      "más o menos (antes de un número)"
+    ],
+    "examples": [
+      {
+        "zh": "那么，我们走吧。",
+        "es": "Entonces, vámonos."
+      },
+      {
+        "zh": "他没有你那么高。",
+        "es": "Él no es tan alto como tú."
+      },
+      {
+        "zh": "你为什么要那么做？",
+        "es": "¿Por qué tenías que hacerlo así?"
+      },
+      {
+        "zh": "如果你真的那么喜欢他，那么就告诉他吧。",
+        "es": "Si de verdad te gusta tanto, entonces díselo."
+      }
+    ]
+  }
+]

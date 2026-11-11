@@ -1,0 +1,534 @@
+[
+  {
+    "word": "遍",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "vez (de principio a fin)",
+      "por todas partes"
+    ],
+    "examples": [
+      {
+        "zh": "请再说一遍。",
+        "es": "Por favor, dilo otra vez."
+      },
+      {
+        "zh": "这本书我看了三遍。",
+        "es": "Leí este libro tres veces."
+      },
+      {
+        "zh": "老师让我们把课文读两遍。",
+        "es": "La maestra nos pidió leer el texto dos veces."
+      },
+      {
+        "zh": "这个电影我看了好几遍，还是很喜欢。",
+        "es": "He visto esta película varias veces y todavía me gusta mucho."
+      }
+    ]
+  },
+  {
+    "word": "动物园",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "zoológico"
+    ],
+    "examples": [
+      {
+        "zh": "我想去动物园。",
+        "es": "Quiero ir al zoológico."
+      },
+      {
+        "zh": "明天我们一起去动物园吧。",
+        "es": "Mañana vamos juntos al zoológico."
+      },
+      {
+        "zh": "动物园里有很多可爱的动物。",
+        "es": "En el zoológico hay muchos animales lindos."
+      },
+      {
+        "zh": "小时候爸爸常常带我去北京动物园。",
+        "es": "De niño, mi papá me llevaba seguido al zoológico de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "演员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "actor",
+      "actriz",
+      "intérprete"
+    ],
+    "examples": [
+      {
+        "zh": "她是演员。",
+        "es": "Ella es actriz."
+      },
+      {
+        "zh": "这个演员很有名。",
+        "es": "Este actor es muy famoso."
+      },
+      {
+        "zh": "我哥哥想成为一名电影演员。",
+        "es": "Mi hermano mayor quiere ser actor de cine."
+      },
+      {
+        "zh": "这部电影的演员都非常年轻，表演也很好。",
+        "es": "Los actores de esta película son muy jóvenes y actúan muy bien."
+      }
+    ]
+  },
+  {
+    "word": "海边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "playa",
+      "orilla del mar",
+      "costa"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢海边。",
+        "es": "Me gusta la playa."
+      },
+      {
+        "zh": "夏天我们去海边玩吧。",
+        "es": "En verano vamos a la playa a divertirnos."
+      },
+      {
+        "zh": "他家就在海边，每天都能看到海。",
+        "es": "Su casa está junto al mar; todos los días puede ver el mar."
+      },
+      {
+        "zh": "周末我们全家开车去海边，在那里住了两天。",
+        "es": "El fin de semana toda la familia fue en carro a la playa y nos quedamos allí dos días."
+      }
+    ]
+  },
+  {
+    "word": "应当",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "deber",
+      "tener que"
+    ],
+    "examples": [
+      {
+        "zh": "你应当休息。",
+        "es": "Deberías descansar."
+      },
+      {
+        "zh": "学生应当认真学习。",
+        "es": "Los estudiantes deben estudiar con dedicación."
+      },
+      {
+        "zh": "我们应当保护环境。",
+        "es": "Debemos proteger el medio ambiente."
+      },
+      {
+        "zh": "有问题的时候，我们应当一起想办法解决。",
+        "es": "Cuando hay problemas, debemos buscar juntos la forma de resolverlos."
+      }
+    ]
+  },
+  {
+    "word": "音乐会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "concierto"
+    ],
+    "examples": [
+      {
+        "zh": "我想去音乐会。",
+        "es": "Quiero ir al concierto."
+      },
+      {
+        "zh": "今天晚上有一场音乐会。",
+        "es": "Esta noche hay un concierto."
+      },
+      {
+        "zh": "你买到音乐会的票了吗？",
+        "es": "¿Conseguiste boletos para el concierto?"
+      },
+      {
+        "zh": "上个星期我和朋友去听了一场很好听的音乐会。",
+        "es": "La semana pasada fui con un amigo a un concierto muy bonito."
+      }
+    ]
+  },
+  {
+    "word": "主动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por iniciativa propia",
+      "tomar la iniciativa",
+      "proactivo",
+      "activo"
+    ],
+    "examples": [
+      {
+        "zh": "他很主动。",
+        "es": "Él es muy proactivo."
+      },
+      {
+        "zh": "她主动帮我拿东西。",
+        "es": "Ella me ayudó a cargar las cosas por iniciativa propia."
+      },
+      {
+        "zh": "有问题的话，你应该主动问老师。",
+        "es": "Si tienes dudas, deberías preguntarle tú mismo al maestro."
+      },
+      {
+        "zh": "他每次都主动打电话给妈妈，从来不让她担心。",
+        "es": "Siempre es él quien llama a su mamá; nunca deja que se preocupe."
+      }
+    ]
+  },
+  {
+    "word": "打工",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "trabajar medio tiempo",
+      "tener un trabajo temporal",
+      "trabajar (de empleado)"
+    ],
+    "examples": [
+      {
+        "zh": "我在打工。",
+        "es": "Estoy trabajando medio tiempo."
+      },
+      {
+        "zh": "他周末在饭店打工。",
+        "es": "Los fines de semana trabaja en un restaurante."
+      },
+      {
+        "zh": "放假的时候，很多学生去打工。",
+        "es": "En vacaciones, muchos estudiantes consiguen un trabajo temporal."
+      },
+      {
+        "zh": "她一边上大学一边打工，因为家里没有钱。",
+        "es": "Ella estudia en la universidad y trabaja a la vez porque su familia no tiene dinero."
+      }
+    ]
+  },
+  {
+    "word": "路边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "orilla de la calle",
+      "borde del camino",
+      "banqueta"
+    ],
+    "examples": [
+      {
+        "zh": "车在路边。",
+        "es": "El carro está a la orilla de la calle."
+      },
+      {
+        "zh": "路边有一家小商店。",
+        "es": "Junto a la calle hay una tiendita."
+      },
+      {
+        "zh": "请把车停在路边。",
+        "es": "Por favor, estaciona el carro a un lado de la calle."
+      },
+      {
+        "zh": "我在路边看到一只小猫，就把它带回家了。",
+        "es": "Vi un gatito a la orilla de la calle y me lo llevé a casa."
+      }
+    ]
+  },
+  {
+    "word": "全家",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "toda la familia"
+    ],
+    "examples": [
+      {
+        "zh": "我全家都很好。",
+        "es": "Toda mi familia está bien."
+      },
+      {
+        "zh": "新年我们全家一起吃饭。",
+        "es": "En Año Nuevo, toda la familia come junta."
+      },
+      {
+        "zh": "周末全家人去公园玩。",
+        "es": "El fin de semana, toda la familia fue a pasear al parque."
+      },
+      {
+        "zh": "他找到工作以后，全家都为他感到高兴。",
+        "es": "Cuando encontró trabajo, toda la familia se puso feliz por él."
+      }
+    ]
+  },
+  {
+    "word": "敢",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "atreverse",
+      "animarse",
+      "valiente"
+    ],
+    "examples": [
+      {
+        "zh": "我不敢。",
+        "es": "No me atrevo."
+      },
+      {
+        "zh": "你敢吃这个吗？",
+        "es": "¿Te atreves a comer esto?"
+      },
+      {
+        "zh": "她晚上不敢一个人回家。",
+        "es": "De noche no se atreve a volver sola a casa."
+      },
+      {
+        "zh": "他太害怕了，连话都不敢说。",
+        "es": "Tenía tanto miedo que ni siquiera se atrevía a hablar."
+      }
+    ]
+  },
+  {
+    "word": "天上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el cielo",
+      "en el cielo"
+    ],
+    "examples": [
+      {
+        "zh": "天上有云。",
+        "es": "Hay nubes en el cielo."
+      },
+      {
+        "zh": "你看，天上有一只鸟。",
+        "es": "Mira, hay un pájaro en el cielo."
+      },
+      {
+        "zh": "今天晚上天上的月亮特别亮。",
+        "es": "Esta noche la luna brilla muchísimo en el cielo."
+      },
+      {
+        "zh": "小时候我常常看着天上的飞机，想去很远的地方。",
+        "es": "De niño, miraba seguido los aviones en el cielo y soñaba con ir muy lejos."
+      }
+    ]
+  },
+  {
+    "word": "古代",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la antigüedad",
+      "tiempos antiguos",
+      "antiguo"
+    ],
+    "examples": [
+      {
+        "zh": "这是古代的书。",
+        "es": "Este es un libro de la antigüedad."
+      },
+      {
+        "zh": "我喜欢中国古代历史。",
+        "es": "Me gusta la historia de la China antigua."
+      },
+      {
+        "zh": "古代的人没有手机和电脑。",
+        "es": "En la antigüedad, la gente no tenía celulares ni computadoras."
+      },
+      {
+        "zh": "在古代，人们出门只能走路或者骑马。",
+        "es": "En la antigüedad, la gente solo podía viajar a pie o a caballo."
+      }
+    ]
+  },
+  {
+    "word": "广大",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vasto",
+      "extenso",
+      "amplio",
+      "numeroso"
+    ],
+    "examples": [
+      {
+        "zh": "中国土地广大。",
+        "es": "China tiene un territorio vasto."
+      },
+      {
+        "zh": "广大学生都喜欢这个活动。",
+        "es": "A la gran mayoría de los estudiantes les gusta esta actividad."
+      },
+      {
+        "zh": "这个节目受到广大观众的欢迎。",
+        "es": "Este programa tiene muy buena acogida entre el gran público."
+      },
+      {
+        "zh": "政府应该为广大人民提供更好的服务。",
+        "es": "El gobierno debe ofrecer mejores servicios a toda la población."
+      }
+    ]
+  },
+  {
+    "word": "晚会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fiesta (de noche)",
+      "velada",
+      "gala"
+    ],
+    "examples": [
+      {
+        "zh": "今天有晚会。",
+        "es": "Hoy hay una fiesta."
+      },
+      {
+        "zh": "你去参加晚会吗？",
+        "es": "¿Vas a ir a la fiesta?"
+      },
+      {
+        "zh": "新年晚会上，大家一起唱歌。",
+        "es": "En la fiesta de Año Nuevo, todos cantamos juntos."
+      },
+      {
+        "zh": "我们学校每年都举办一个很大的春节晚会。",
+        "es": "Nuestra escuela organiza cada año una gran gala de Año Nuevo chino."
+      }
+    ]
+  },
+  {
+    "word": "阴",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "nublado",
+      "sombrío",
+      "oculto",
+      "yin (principio femenino)"
+    ],
+    "examples": [
+      {
+        "zh": "今天天气很阴。",
+        "es": "Hoy está muy nublado."
+      },
+      {
+        "zh": "天阴了，可能要下雨。",
+        "es": "Se nubló; tal vez va a llover."
+      },
+      {
+        "zh": "明天是阴天，不会太热。",
+        "es": "Mañana estará nublado, no hará mucho calor."
+      },
+      {
+        "zh": "天一直很阴，所以我们就在家里看电视了。",
+        "es": "El cielo estuvo nublado todo el día, así que nos quedamos en casa viendo la tele."
+      }
+    ]
+  },
+  {
+    "word": "大海",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mar",
+      "océano"
+    ],
+    "examples": [
+      {
+        "zh": "我爱大海。",
+        "es": "Amo el mar."
+      },
+      {
+        "zh": "大海是蓝色的。",
+        "es": "El mar es azul."
+      },
+      {
+        "zh": "我从来没有见过大海。",
+        "es": "Nunca he visto el mar."
+      },
+      {
+        "zh": "站在海边看着大海，我的心情好多了。",
+        "es": "Parado en la orilla, mirando el mar, me sentí mucho mejor."
+      }
+    ]
+  },
+  {
+    "word": "命运",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "destino",
+      "suerte"
+    ],
+    "examples": [
+      {
+        "zh": "这是命运。",
+        "es": "Es el destino."
+      },
+      {
+        "zh": "我不相信命运。",
+        "es": "No creo en el destino."
+      },
+      {
+        "zh": "每个人都有自己的命运。",
+        "es": "Cada quien tiene su propio destino."
+      },
+      {
+        "zh": "他认为努力学习可以改变自己的命运。",
+        "es": "Él cree que estudiar con esfuerzo puede cambiar su destino."
+      }
+    ]
+  },
+  {
+    "word": "咱",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "nosotros (incluye al oyente)",
+      "yo (coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "咱走吧。",
+        "es": "Vámonos."
+      },
+      {
+        "zh": "咱去吃饭吧。",
+        "es": "Vamos a comer."
+      },
+      {
+        "zh": "今天晚上咱在家吃吧。",
+        "es": "Hoy en la noche comamos en casa."
+      },
+      {
+        "zh": "这件事咱得好好想想，别太快决定。",
+        "es": "Este asunto tenemos que pensarlo bien; no decidamos tan rápido."
+      }
+    ]
+  },
+  {
+    "word": "牛",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "vaca",
+      "toro",
+      "buey",
+      "genial (coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "这是一头牛。",
+        "es": "Esta es una vaca."
+      },
+      {
+        "zh": "他家有很多牛。",
+        "es": "Su familia tiene muchas vacas."
+      },
+      {
+        "zh": "我爷爷每天早上都去山上放牛。",
+        "es": "Mi abuelo lleva las vacas a pastar al cerro todas las mañanas."
+      },
+      {
+        "zh": "你一个人做完了这么多工作，真牛！",
+        "es": "¡Terminaste tú solo todo ese trabajo, qué genial!"
+      }
+    ]
+  }
+]

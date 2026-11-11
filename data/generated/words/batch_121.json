@@ -1,0 +1,531 @@
+[
+  {
+    "word": "衬衫",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "camisa",
+      "blusa"
+    ],
+    "examples": [
+      {
+        "zh": "这件衬衫很好看。",
+        "es": "Esta camisa se ve muy bien."
+      },
+      {
+        "zh": "我想买一件白色的衬衫。",
+        "es": "Quiero comprar una camisa blanca."
+      },
+      {
+        "zh": "他今天穿了一件蓝色的衬衫。",
+        "es": "Hoy él se puso una camisa azul."
+      },
+      {
+        "zh": "这件衬衫太贵了，我们去别的商店看看吧。",
+        "es": "Esta camisa está demasiado cara; vamos a ver en otra tienda."
+      }
+    ]
+  },
+  {
+    "word": "静",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tranquilo",
+      "silencioso, callado",
+      "quieto, inmóvil"
+    ],
+    "examples": [
+      {
+        "zh": "请静一静。",
+        "es": "Por favor, guarden silencio."
+      },
+      {
+        "zh": "晚上这里很静。",
+        "es": "De noche aquí está muy tranquilo."
+      },
+      {
+        "zh": "房间里静得没有一点声音。",
+        "es": "El cuarto estaba tan tranquilo que no se oía ni un ruido."
+      },
+      {
+        "zh": "心静下来以后，问题就容易解决了。",
+        "es": "Cuando la mente se calma, los problemas son más fáciles de resolver."
+      }
+    ]
+  },
+  {
+    "word": "可乐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "refresco de cola",
+      "coca-cola",
+      "divertido, gracioso"
+    ],
+    "examples": [
+      {
+        "zh": "我要一杯可乐。",
+        "es": "Quiero un vaso de refresco de cola."
+      },
+      {
+        "zh": "孩子很喜欢喝可乐。",
+        "es": "A los niños les gusta mucho tomar coca-cola."
+      },
+      {
+        "zh": "天气太热了，我们去商店买几瓶可乐吧。",
+        "es": "Hace demasiado calor; vamos a la tienda a comprar unas botellas de refresco."
+      },
+      {
+        "zh": "医生说可乐对身体不好，所以我现在只喝水。",
+        "es": "El médico dijo que el refresco de cola es malo para la salud, así que ahora solo tomo agua."
+      }
+    ]
+  },
+  {
+    "word": "票价",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "precio del boleto",
+      "tarifa",
+      "precio de la entrada"
+    ],
+    "examples": [
+      {
+        "zh": "票价是多少？",
+        "es": "¿Cuánto cuesta el boleto?"
+      },
+      {
+        "zh": "火车的票价不贵。",
+        "es": "El boleto de tren no es caro."
+      },
+      {
+        "zh": "明天的飞机票价比今天便宜很多。",
+        "es": "El boleto de avión de mañana es mucho más barato que el de hoy."
+      },
+      {
+        "zh": "春节期间回家的人很多，火车票价也提高了。",
+        "es": "Durante el Año Nuevo chino mucha gente vuelve a casa, y los boletos de tren también subieron de precio."
+      }
+    ]
+  },
+  {
+    "word": "有的是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener de sobra",
+      "haber mucho, no faltar"
+    ],
+    "examples": [
+      {
+        "zh": "我有的是时间。",
+        "es": "Tengo tiempo de sobra."
+      },
+      {
+        "zh": "别担心，钱我们有的是。",
+        "es": "No te preocupes, dinero nos sobra."
+      },
+      {
+        "zh": "这种水果在我家乡有的是，一点也不贵。",
+        "es": "En mi pueblo esta fruta abunda, no es nada cara."
+      },
+      {
+        "zh": "机会有的是，你不要因为一次失败就难过。",
+        "es": "Oportunidades hay muchas; no te pongas triste por un solo fracaso."
+      }
+    ]
+  },
+  {
+    "word": "预报",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pronóstico",
+      "pronosticar, anunciar con anticipación"
+    ],
+    "examples": [
+      {
+        "zh": "天气预报说明天下雨。",
+        "es": "El pronóstico del tiempo dice que mañana va a llover."
+      },
+      {
+        "zh": "你看今天的天气预报了吗？",
+        "es": "¿Viste el pronóstico del tiempo de hoy?"
+      },
+      {
+        "zh": "预报说今天会很冷，你多穿一点衣服吧。",
+        "es": "El pronóstico dice que hoy va a hacer mucho frío; abrígate más."
+      },
+      {
+        "zh": "根据天气预报，这个周末的气温会在零度以下。",
+        "es": "Según el pronóstico del tiempo, este fin de semana la temperatura estará bajo cero."
+      }
+    ]
+  },
+  {
+    "word": "认得",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "reconocer",
+      "conocer (a alguien o algo)",
+      "saber leer (un carácter)"
+    ],
+    "examples": [
+      {
+        "zh": "你认得他吗？",
+        "es": "¿Lo conoces?"
+      },
+      {
+        "zh": "这个字我不认得。",
+        "es": "No conozco este carácter."
+      },
+      {
+        "zh": "我认得去图书馆的路，你跟我走吧。",
+        "es": "Conozco el camino a la biblioteca; ven conmigo."
+      },
+      {
+        "zh": "十年没见面，他变化很大，我已经不认得他了。",
+        "es": "Llevamos diez años sin vernos; él cambió tanto que ya no lo reconozco."
+      }
+    ]
+  },
+  {
+    "word": "话剧",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "obra de teatro",
+      "teatro (hablado)"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢看话剧。",
+        "es": "Me gusta ver obras de teatro."
+      },
+      {
+        "zh": "今天晚上我们去看话剧吧。",
+        "es": "Vamos a ver una obra de teatro esta noche."
+      },
+      {
+        "zh": "这个话剧的故事很有意思，演员也很好。",
+        "es": "La historia de esta obra es muy interesante y los actores también son muy buenos."
+      },
+      {
+        "zh": "她从小爱好表演，大学时演过很多话剧。",
+        "es": "Desde niña le encanta actuar; en la universidad actuó en muchas obras de teatro."
+      }
+    ]
+  },
+  {
+    "word": "收听",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escuchar (la radio)",
+      "sintonizar"
+    ],
+    "examples": [
+      {
+        "zh": "我每天早上收听新闻。",
+        "es": "Todas las mañanas escucho las noticias en la radio."
+      },
+      {
+        "zh": "你常常收听这个电台吗？",
+        "es": "¿Sueles escuchar esta estación de radio?"
+      },
+      {
+        "zh": "爷爷喜欢一边吃早饭一边收听广播。",
+        "es": "A mi abuelo le gusta escuchar la radio mientras desayuna."
+      },
+      {
+        "zh": "现在很多人用手机在网上收听广播节目。",
+        "es": "Hoy en día mucha gente escucha programas de radio por internet en el celular."
+      }
+    ]
+  },
+  {
+    "word": "服务员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mesero, mesera",
+      "empleado de atención al cliente",
+      "encargado, dependiente"
+    ],
+    "examples": [
+      {
+        "zh": "服务员，请给我菜单。",
+        "es": "Mesero, tráigame el menú, por favor."
+      },
+      {
+        "zh": "这家饭店的服务员很热情。",
+        "es": "Los meseros de este restaurante son muy amables."
+      },
+      {
+        "zh": "服务员，我们点的菜怎么还没来？",
+        "es": "Mesero, ¿por qué todavía no llega la comida que pedimos?"
+      },
+      {
+        "zh": "放假的时候，我姐姐在一家咖啡店当服务员。",
+        "es": "En vacaciones, mi hermana mayor trabaja de mesera en una cafetería."
+      }
+    ]
+  },
+  {
+    "word": "请教",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pedir consejo",
+      "consultar",
+      "preguntar (con respeto)"
+    ],
+    "examples": [
+      {
+        "zh": "我想请教你一个问题。",
+        "es": "Quisiera consultarte una cosa."
+      },
+      {
+        "zh": "有问题可以请教老师。",
+        "es": "Si tienes dudas, puedes consultar al maestro."
+      },
+      {
+        "zh": "这个汉字怎么读？我能请教一下吗？",
+        "es": "¿Cómo se lee este carácter? ¿Le puedo preguntar?"
+      },
+      {
+        "zh": "刚开始工作时，他常常向老同事请教。",
+        "es": "Cuando empezó a trabajar, a menudo les pedía consejo a sus compañeros con más experiencia."
+      }
+    ]
+  },
+  {
+    "word": "散步",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dar un paseo",
+      "caminar, pasear"
+    ],
+    "examples": [
+      {
+        "zh": "我们去散步吧。",
+        "es": "Vamos a dar un paseo."
+      },
+      {
+        "zh": "爷爷每天晚饭后都去散步。",
+        "es": "Mi abuelo sale a caminar todos los días después de cenar."
+      },
+      {
+        "zh": "天气这么好，我们一起去公园散步吧。",
+        "es": "Hace tan buen día; vamos a pasear juntos al parque."
+      },
+      {
+        "zh": "医生说多散步对身体好，所以我每天走路去上班。",
+        "es": "El médico dice que caminar es bueno para la salud, así que voy a pie al trabajo todos los días."
+      }
+    ]
+  },
+  {
+    "word": "房租",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "renta, alquiler (de vivienda)"
+    ],
+    "examples": [
+      {
+        "zh": "这里的房租很贵。",
+        "es": "La renta aquí es muy cara."
+      },
+      {
+        "zh": "我每个月都要付房租。",
+        "es": "Tengo que pagar la renta cada mes."
+      },
+      {
+        "zh": "这个房子离地铁站很近，房租也不贵。",
+        "es": "Esta casa está muy cerca de la estación del metro y la renta tampoco es cara."
+      },
+      {
+        "zh": "因为房租越来越高，很多年轻人只好住在城外。",
+        "es": "Como las rentas suben cada vez más, muchos jóvenes no tienen más remedio que vivir fuera de la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "功课",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tarea (escolar)",
+      "materia, asignatura",
+      "lección, estudio"
+    ],
+    "examples": [
+      {
+        "zh": "你的功课做完了吗？",
+        "es": "¿Ya terminaste la tarea?"
+      },
+      {
+        "zh": "我今天的功课很多。",
+        "es": "Hoy tengo mucha tarea."
+      },
+      {
+        "zh": "妈妈说做完功课以后才能玩游戏。",
+        "es": "Mi mamá dice que solo puedo jugar videojuegos después de terminar la tarea."
+      },
+      {
+        "zh": "她每门功课的成绩都很好，老师很喜欢她。",
+        "es": "Ella tiene muy buenas calificaciones en todas las materias, y los maestros la quieren mucho."
+      }
+    ]
+  },
+  {
+    "word": "景色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "paisaje",
+      "vista",
+      "panorama"
+    ],
+    "examples": [
+      {
+        "zh": "这里的景色很美。",
+        "es": "El paisaje aquí es muy bonito."
+      },
+      {
+        "zh": "春天的景色真漂亮。",
+        "es": "El paisaje en primavera es realmente hermoso."
+      },
+      {
+        "zh": "从山上看下去，城市的景色非常美丽。",
+        "es": "Vista desde la montaña, la ciudad es preciosa."
+      },
+      {
+        "zh": "湖边的景色太美了，大家都忘记了累。",
+        "es": "El paisaje junto al lago era tan bonito que todos se olvidaron del cansancio."
+      }
+    ]
+  },
+  {
+    "word": "木头",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "madera",
+      "tronco, leño",
+      "(fig.) persona torpe, zoquete"
+    ],
+    "examples": [
+      {
+        "zh": "这张桌子是木头的。",
+        "es": "Esta mesa es de madera."
+      },
+      {
+        "zh": "这把椅子是用木头做的。",
+        "es": "Esta silla está hecha de madera."
+      },
+      {
+        "zh": "他站在那里一动不动，像一块木头。",
+        "es": "Se quedó ahí parado sin moverse, como un tronco."
+      },
+      {
+        "zh": "以前的房子大多是用木头建的，所以很怕火。",
+        "es": "Antes la mayoría de las casas se construían con madera, así que eran muy vulnerables al fuego."
+      }
+    ]
+  },
+  {
+    "word": "上衣",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prenda de arriba (camisa, blusa, playera)",
+      "chaqueta, saco"
+    ],
+    "examples": [
+      {
+        "zh": "我的上衣脏了。",
+        "es": "Mi blusa se ensució."
+      },
+      {
+        "zh": "你穿这件红色的上衣很漂亮。",
+        "es": "Te ves muy bien con esa prenda roja."
+      },
+      {
+        "zh": "外面很冷，出门前多穿一件上衣吧。",
+        "es": "Afuera hace mucho frío; ponte otra prenda antes de salir."
+      },
+      {
+        "zh": "这件上衣的颜色我很喜欢，但是对我来说太小了。",
+        "es": "Me gusta mucho el color de esta prenda, pero me queda demasiado chica."
+      }
+    ]
+  },
+  {
+    "word": "握手",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dar la mano",
+      "estrecharse la mano"
+    ],
+    "examples": [
+      {
+        "zh": "他们握手了。",
+        "es": "Se dieron la mano."
+      },
+      {
+        "zh": "见面时，中国人常常握手。",
+        "es": "Al saludarse, los chinos suelen darse la mano."
+      },
+      {
+        "zh": "比赛结束后，两个队的队员互相握手。",
+        "es": "Al terminar el partido, los jugadores de los dos equipos se dieron la mano."
+      },
+      {
+        "zh": "总统和外国代表握手以后，会议就正式开始了。",
+        "es": "Después de que el presidente estrechó la mano de los representantes extranjeros, la reunión comenzó oficialmente."
+      }
+    ]
+  },
+  {
+    "word": "分组",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dividir en grupos",
+      "formar equipos",
+      "subgrupo"
+    ],
+    "examples": [
+      {
+        "zh": "老师让我们分组。",
+        "es": "El maestro nos pidió que formáramos grupos."
+      },
+      {
+        "zh": "我们分组讨论吧。",
+        "es": "Vamos a discutirlo en grupos."
+      },
+      {
+        "zh": "我们班一共二十个人，分组以后每组五个人。",
+        "es": "En nuestra clase somos veinte en total; al dividirnos en grupos, quedan cinco por grupo."
+      },
+      {
+        "zh": "比赛开始前先分组，每个小组选一个组长。",
+        "es": "Antes de que empiece la competencia hay que formar grupos, y cada grupo elige a un líder."
+      }
+    ]
+  },
+  {
+    "word": "认出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "reconocer",
+      "identificar"
+    ],
+    "examples": [
+      {
+        "zh": "我认出他了。",
+        "es": "Lo reconocí."
+      },
+      {
+        "zh": "你能认出这个字吗？",
+        "es": "¿Puedes reconocer este carácter?"
+      },
+      {
+        "zh": "她穿了新衣服，我开始没认出她。",
+        "es": "Ella llevaba ropa nueva y al principio no la reconocí."
+      },
+      {
+        "zh": "二十年没见了，我还是一眼就认出了他。",
+        "es": "Llevábamos veinte años sin vernos, pero aun así lo reconocí a primera vista."
+      }
+    ]
+  }
+]

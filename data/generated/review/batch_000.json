@@ -1,0 +1,170 @@
+[
+  {
+    "id": "word:的",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc517598ee245e61d5fe2d74312e081439fa918d"
+  },
+  {
+    "id": "word:是",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: 得 como partícula de complemento es «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "d6c0c4ce06352254a63a3c3878bd3b86c010e260"
+  },
+  {
+    "id": "word:在",
+    "ok": true,
+    "issues": [],
+    "content_hash": "38280c68aaceee63d3e54a709474f74f5ef11089"
+  },
+  {
+    "id": "word:了",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cca1f48de1c9a8f23757202bbff2263c0602d943"
+  },
+  {
+    "id": "word:我",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 一下 se pronuncia «yí xià» (cambio tonal ante cuarto tono). El resto de la app marca este cambio, por ejemplo «yí gè».",
+      "Pinyin del ejemplo 4: 一杯 se pronuncia «yì bēi» (cambio tonal ante primer tono)."
+    ],
+    "content_hash": "a9aedfc5362e2b459edac854395e3daed5e2e862"
+  },
+  {
+    "id": "word:和",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8085af050cce682c289f7374fe9908b96a51d3f4"
+  },
+  {
+    "id": "word:有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7905bfe171caccf775ecc07f1750a3340aaf2caf"
+  },
+  {
+    "id": "word:不",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd01a90c4f1b9bf3acf2f60df99602cecd5315f8"
+  },
+  {
+    "id": "word:人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a40741d47fbc7579d761a8c2d31e9a81fef6694"
+  },
+  {
+    "id": "word:你",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec75dfc2cecea681859b8b6e87a5683772ea4cd3"
+  },
+  {
+    "id": "word:也",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 一杯 debe ser «yì bēi» (cambio tonal). Además es incoherente con «yì diǎn» del ejemplo 3."
+    ],
+    "content_hash": "9d1912dc1bce15eb599aaa2f3af712eff6a2d4d6"
+  },
+  {
+    "id": "word:为",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 中国 es «zhōng guó», no «zhòng guó»."
+    ],
+    "content_hash": "71d65b33fe69539f21979680c474c34c8d273242"
+  },
+  {
+    "id": "word:他",
+    "ok": true,
+    "issues": [],
+    "content_hash": "597fd1d9b4cbbf46081750bb59df4c265b9c8545"
+  },
+  {
+    "id": "word:这",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a2bf836e015e26f9211f84547c28b0c106a949ee"
+  },
+  {
+    "id": "word:中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c3e994c54ac066b9b7109f9099c34ca53866307"
+  },
+  {
+    "id": "word:年",
+    "ok": false,
+    "issues": [
+      "Traducción poco fiel en el ejemplo 2: 今年我二十岁 significa «Este año tengo veinte años». «Cumplo» añade un matiz que no está en el original."
+    ],
+    "content_hash": "a22c70d5003fb4b966c426ae1e9944166fff99c5"
+  },
+  {
+    "id": "word:与",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97c95f815c84923e8d105ca94020ecb9fae03582"
+  },
+  {
+    "id": "word:对",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 得 como partícula de complemento es «de» (tono neutro), no «dé».",
+      "El significado «con» es impreciso para 对. Encaja mejor «hacia» o «con respecto a» (他对我很好 = «es bueno conmigo», pero 对 no equivale a «con»)."
+    ],
+    "content_hash": "d2169cd0947bcd3095778f7480914508f13adc01"
+  },
+  {
+    "id": "word:就",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 一到 se pronuncia «yí dào» (cambio tonal ante cuarto tono). Es incoherente con la notación del resto de la app."
+    ],
+    "content_hash": "dd5ec86e2940b982a5533d82dcefdbdae550e87b"
+  },
+  {
+    "id": "word:都",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ecb41d394c3410fca627681d127f2920738abf6"
+  },
+  {
+    "id": "word:一个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fdc3611b1153f18c52d270795623d19a560e51f7"
+  },
+  {
+    "id": "word:上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "13203407961f70d902fc7212fddab32137527d97"
+  },
+  {
+    "id": "word:说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac7990e60c3172bc39f7df72c7ba2ed9664f14f5"
+  },
+  {
+    "id": "word:吗",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 都 es «dōu», no «dū»."
+    ],
+    "content_hash": "0bc59e6ef117d07ab4cb63b194e3a27590727bea"
+  },
+  {
+    "id": "word:我们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53b90d0cc3d2d73b8bdcc5d11c87553a46452f59"
+  }
+]

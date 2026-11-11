@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:妹",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba713db724737a7eb35c3fea14c27d770a76c988"
+  },
+  {
+    "id": "char:改",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c47666dc173f7db74bef099fa95926e841920fa7"
+  },
+  {
+    "id": "char:变",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dbc6b850fb36472af325cb0d62b0f3f4d3991e9a"
+  },
+  {
+    "id": "char:各",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97916f6c31f809962aa61dd91a71e1f4069acc4e"
+  },
+  {
+    "id": "char:歌",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4b8781e06823c9647fd18c5791079e3b30594a3"
+  },
+  {
+    "id": "char:科",
+    "ok": true,
+    "issues": [],
+    "content_hash": "11839d067ba9d2b92e1a985870c81eaa1e9e99e9"
+  },
+  {
+    "id": "char:九",
+    "ok": true,
+    "issues": [],
+    "content_hash": "492f5cefe70cc5438ef9dd31044e0d77700a700f"
+  },
+  {
+    "id": "char:星",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ecb1d8b2c48332f7a36eaae0c21f9edc054ba24"
+  },
+  {
+    "id": "char:期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f599f129d794d126befaa0147373d639175b0a93"
+  },
+  {
+    "id": "char:策",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c6ac01bdf4f2b8b3662d78b1f21804d4bd4c6373"
+  },
+  {
+    "id": "char:项",
+    "ok": true,
+    "issues": [],
+    "content_hash": "94e715060262764d48c493609238b73aaf21b5f6"
+  },
+  {
+    "id": "char:票",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e24f242497ac1de846bb8d683abf0a87bcf8c70a"
+  },
+  {
+    "id": "char:断",
+    "ok": false,
+    "issues": [
+      "La descomposición 米 + 斤 está incompleta: el lado izquierdo es 米 rodeado por el trazo envolvente ㇄ (𠃊), que suma 1 de los 11 trazos y no aparece en los componentes."
+    ],
+    "content_hash": "574d597727dc35a60dfc5ae234e31caed2406350"
+  },
+  {
+    "id": "char:面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "59333b6f5280e4d5a6c4b4ff0698e82a47250b48"
+  },
+  {
+    "id": "char:故",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63b8d612bc01a743da78da8c1182b2bbcf633257"
+  },
+  {
+    "id": "char:合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87f059d563c6c1edb364d4e33a41f955844cef7d"
+  },
+  {
+    "id": "char:十",
+    "ok": true,
+    "issues": [],
+    "content_hash": "38bcbc98968a2e86a1cee2e08c206ec006acb867"
+  },
+  {
+    "id": "char:八",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c84b406135177e5ad8d5c0489a3fe75dbc48304"
+  },
+  {
+    "id": "char:省",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6235d16b40beb2279623d0aaf68f7faf0d4ff20"
+  },
+  {
+    "id": "char:课",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8588de5d69113cd68e99aa2429b75fa8a90a18eb"
+  },
+  {
+    "id": "char:休",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d84747b0041021791f1adf88b7bde0be3f07e68d"
+  },
+  {
+    "id": "char:未",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6d136f5c1fc647f395e30a93408d3693e08685f"
+  },
+  {
+    "id": "char:饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed890132945b2c6a5b775ef13686cd4125b4cec9"
+  },
+  {
+    "id": "char:源",
+    "ok": true,
+    "issues": [],
+    "content_hash": "633cc382d9b1dc610a3df0ad48af7b40c924f728"
+  },
+  {
+    "id": "char:集",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c0d7b0ba5d5a07729313c1751293e36a1c65927"
+  }
+]

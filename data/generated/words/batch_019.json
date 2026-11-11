@@ -1,0 +1,534 @@
+[
+  {
+    "word": "错",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "equivocado, incorrecto",
+      "error, culpa",
+      "mal (en 不错: no está mal)"
+    ],
+    "examples": [
+      {
+        "zh": "我错了。",
+        "es": "Me equivoqué."
+      },
+      {
+        "zh": "这个字写错了。",
+        "es": "Este carácter está mal escrito."
+      },
+      {
+        "zh": "对不起，是我的错。",
+        "es": "Perdón, fue mi culpa."
+      },
+      {
+        "zh": "他走错了路，所以到学校的时候已经很晚了。",
+        "es": "Tomó el camino equivocado, así que cuando llegó a la escuela ya era muy tarde."
+      }
+    ]
+  },
+  {
+    "word": "安全",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "seguro",
+      "seguridad"
+    ],
+    "examples": [
+      {
+        "zh": "这里很安全。",
+        "es": "Aquí es seguro."
+      },
+      {
+        "zh": "晚上一个人走路不安全。",
+        "es": "No es seguro caminar solo de noche."
+      },
+      {
+        "zh": "坐飞机比坐汽车更安全吗？",
+        "es": "¿Es más seguro viajar en avión que en auto?"
+      },
+      {
+        "zh": "政府应该让人民生活得更安全。",
+        "es": "El gobierno debería lograr que la gente viva con más seguridad."
+      }
+    ]
+  },
+  {
+    "word": "电脑",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "computadora"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的电脑。",
+        "es": "Esta es mi computadora."
+      },
+      {
+        "zh": "我在电脑上看电影。",
+        "es": "Veo películas en la computadora."
+      },
+      {
+        "zh": "你的电脑多少钱？",
+        "es": "¿Cuánto costó tu computadora?"
+      },
+      {
+        "zh": "我的电脑太老了，我想买一个新的。",
+        "es": "Mi computadora es muy vieja; quiero comprar una nueva."
+      }
+    ]
+  },
+  {
+    "word": "成",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "convertirse en",
+      "lograr, tener éxito",
+      "terminar, completar",
+      "¡de acuerdo!, está bien"
+    ],
+    "examples": [
+      {
+        "zh": "他成了我的好朋友。",
+        "es": "Se convirtió en mi buen amigo."
+      },
+      {
+        "zh": "我把她看成了别人。",
+        "es": "La confundí con otra persona."
+      },
+      {
+        "zh": "这个工作太难，我一个人做不成。",
+        "es": "Este trabajo es muy difícil; yo solo no puedo lograrlo."
+      },
+      {
+        "zh": "学了三年中文以后，他成了一个中文老师。",
+        "es": "Después de estudiar chino tres años, se convirtió en profesor de chino."
+      }
+    ]
+  },
+  {
+    "word": "说话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hablar",
+      "conversar",
+      "palabras, lo que alguien dice"
+    ],
+    "examples": [
+      {
+        "zh": "请不要说话。",
+        "es": "Por favor, no hablen."
+      },
+      {
+        "zh": "他说话很快。",
+        "es": "Él habla muy rápido."
+      },
+      {
+        "zh": "我想跟你说话。",
+        "es": "Quiero hablar contigo."
+      },
+      {
+        "zh": "孩子还小，但是已经开始说话了。",
+        "es": "El niño todavía es pequeño, pero ya empezó a hablar."
+      }
+    ]
+  },
+  {
+    "word": "五",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cinco"
+    ],
+    "examples": [
+      {
+        "zh": "我有五本书。",
+        "es": "Tengo cinco libros."
+      },
+      {
+        "zh": "我儿子今年五岁。",
+        "es": "Mi hijo tiene cinco años."
+      },
+      {
+        "zh": "我们五点在学校门口见吧。",
+        "es": "Veámonos a las cinco en la entrada de la escuela."
+      },
+      {
+        "zh": "这本书我看了五次，还是很喜欢。",
+        "es": "Leí este libro cinco veces y todavía me gusta mucho."
+      }
+    ]
+  },
+  {
+    "word": "远",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lejos, lejano",
+      "distante",
+      "por mucho (en comparaciones)"
+    ],
+    "examples": [
+      {
+        "zh": "机场很远。",
+        "es": "El aeropuerto está muy lejos."
+      },
+      {
+        "zh": "你家离学校远吗？",
+        "es": "¿Tu casa está lejos de la escuela?"
+      },
+      {
+        "zh": "我住的地方离这里不远。",
+        "es": "El lugar donde vivo no está lejos de aquí."
+      },
+      {
+        "zh": "这个城市离北京很远，坐飞机要三个小时。",
+        "es": "Esta ciudad está muy lejos de Beijing; en avión son tres horas."
+      }
+    ]
+  },
+  {
+    "word": "一种",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un tipo de",
+      "una clase de"
+    ],
+    "examples": [
+      {
+        "zh": "这是一种花。",
+        "es": "Este es un tipo de flor."
+      },
+      {
+        "zh": "这是一种新技术。",
+        "es": "Esta es un nuevo tipo de tecnología."
+      },
+      {
+        "zh": "这是一种很好的学习方式。",
+        "es": "Esta es una muy buena forma de aprender."
+      },
+      {
+        "zh": "对我来说，学习中文也是一种生活方式。",
+        "es": "Para mí, aprender chino también es un estilo de vida."
+      }
+    ]
+  },
+  {
+    "word": "不大",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no muy",
+      "no mucho, casi no",
+      "no con frecuencia"
+    ],
+    "examples": [
+      {
+        "zh": "我们的学校不大。",
+        "es": "Nuestra escuela no es muy grande."
+      },
+      {
+        "zh": "他不大说话。",
+        "es": "Él casi no habla."
+      },
+      {
+        "zh": "我不大喜欢这个电影。",
+        "es": "No me gusta mucho esta película."
+      },
+      {
+        "zh": "我听得不大明白，你能再说一次吗？",
+        "es": "No te entendí muy bien, ¿puedes repetirlo?"
+      }
+    ]
+  },
+  {
+    "word": "关于",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sobre, acerca de",
+      "en cuanto a, respecto a"
+    ],
+    "examples": [
+      {
+        "zh": "这是一本关于中国的书。",
+        "es": "Este es un libro sobre China."
+      },
+      {
+        "zh": "你知道关于他的事吗？",
+        "es": "¿Sabes algo sobre él?"
+      },
+      {
+        "zh": "关于这个问题，我们明天再说吧。",
+        "es": "En cuanto a este asunto, hablemos mañana."
+      },
+      {
+        "zh": "我看了一部关于日本历史的电影，非常有意思。",
+        "es": "Vi una película sobre la historia de Japón; fue muy interesante."
+      }
+    ]
+  },
+  {
+    "word": "回到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "volver a",
+      "regresar a"
+    ],
+    "examples": [
+      {
+        "zh": "我回到家了。",
+        "es": "Ya volví a casa."
+      },
+      {
+        "zh": "他什么时候回到北京？",
+        "es": "¿Cuándo regresa a Beijing?"
+      },
+      {
+        "zh": "下个月我要回到中国工作。",
+        "es": "El próximo mes voy a regresar a China a trabajar."
+      },
+      {
+        "zh": "回到家以后，他先给妈妈打了一个电话。",
+        "es": "Al volver a casa, primero llamó por teléfono a su mamá."
+      }
+    ]
+  },
+  {
+    "word": "因",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "por, debido a",
+      "causa, razón",
+      "porque"
+    ],
+    "examples": [
+      {
+        "zh": "他因工作去了北京。",
+        "es": "Fue a Beijing por trabajo."
+      },
+      {
+        "zh": "他因病没来上学。",
+        "es": "No vino a la escuela porque estaba enfermo."
+      },
+      {
+        "zh": "因天气不好，今天的活动没有进行。",
+        "es": "Debido al mal tiempo, la actividad de hoy no se realizó."
+      },
+      {
+        "zh": "很多人因经济问题离开了这个城市。",
+        "es": "Mucha gente se fue de esta ciudad por problemas económicos."
+      }
+    ]
+  },
+  {
+    "word": "部分",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parte",
+      "porción, sección"
+    ],
+    "examples": [
+      {
+        "zh": "这只是一部分。",
+        "es": "Esto es solo una parte."
+      },
+      {
+        "zh": "大部分学生都喜欢他。",
+        "es": "A la mayoría de los estudiantes les cae bien."
+      },
+      {
+        "zh": "这本书的第一部分很难。",
+        "es": "La primera parte de este libro es muy difícil."
+      },
+      {
+        "zh": "一部分人认为这个计划不对，但也有一部分人支持。",
+        "es": "Algunas personas creen que este plan está mal, pero también hay quienes lo apoyan."
+      }
+    ]
+  },
+  {
+    "word": "重",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pesado",
+      "grave, serio",
+      "dar importancia a"
+    ],
+    "examples": [
+      {
+        "zh": "这个很重。",
+        "es": "Esto es muy pesado."
+      },
+      {
+        "zh": "你的书太重了。",
+        "es": "Tus libros pesan demasiado."
+      },
+      {
+        "zh": "你的东西这么重，我帮你拿吧。",
+        "es": "Tus cosas pesan tanto; déjame ayudarte a cargarlas."
+      },
+      {
+        "zh": "他病得很重，已经在医院住了两个月。",
+        "es": "Está gravemente enfermo; ya lleva dos meses en el hospital."
+      }
+    ]
+  },
+  {
+    "word": "第二",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "segundo",
+      "siguiente (第二天: al día siguiente)",
+      "secundario"
+    ],
+    "examples": [
+      {
+        "zh": "他是第二个来的。",
+        "es": "Él fue el segundo en llegar."
+      },
+      {
+        "zh": "这是我第二次来中国。",
+        "es": "Esta es la segunda vez que vengo a China."
+      },
+      {
+        "zh": "第二天，我们去了机场。",
+        "es": "Al día siguiente, fuimos al aeropuerto."
+      },
+      {
+        "zh": "我第二次看这个电影的时候，才明白它的内容。",
+        "es": "Hasta la segunda vez que vi esta película entendí de qué trataba."
+      }
+    ]
+  },
+  {
+    "word": "大家",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todos",
+      "todo el mundo"
+    ],
+    "examples": [
+      {
+        "zh": "大家好！",
+        "es": "¡Hola a todos!"
+      },
+      {
+        "zh": "谢谢大家。",
+        "es": "Gracias a todos."
+      },
+      {
+        "zh": "大家都喜欢她。",
+        "es": "A todos les cae bien."
+      },
+      {
+        "zh": "请大家明天早上八点在学校门口等我。",
+        "es": "Por favor, espérenme todos mañana a las ocho en la entrada de la escuela."
+      }
+    ]
+  },
+  {
+    "word": "身上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "encima, consigo (lo que uno lleva)",
+      "en el cuerpo",
+      "en alguien (rasgos, problemas)"
+    ],
+    "examples": [
+      {
+        "zh": "我身上没有钱。",
+        "es": "No traigo dinero."
+      },
+      {
+        "zh": "你身上有手机吗？",
+        "es": "¿Traes tu celular?"
+      },
+      {
+        "zh": "他身上的衣服很新。",
+        "es": "La ropa que lleva puesta es muy nueva."
+      },
+      {
+        "zh": "这种问题在很多孩子身上都会出现。",
+        "es": "Este tipo de problema aparece en muchos niños."
+      }
+    ]
+  },
+  {
+    "word": "运动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer ejercicio",
+      "deporte",
+      "movimiento (social o político)",
+      "movimiento"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢运动。",
+        "es": "Me gusta hacer ejercicio."
+      },
+      {
+        "zh": "你每天运动吗？",
+        "es": "¿Haces ejercicio todos los días?"
+      },
+      {
+        "zh": "多运动对身体很好。",
+        "es": "Hacer mucho ejercicio es muy bueno para la salud."
+      },
+      {
+        "zh": "他工作太忙，已经很久没有时间去运动了。",
+        "es": "Está muy ocupado con el trabajo; hace mucho que no tiene tiempo para hacer ejercicio."
+      }
+    ]
+  },
+  {
+    "word": "几",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "cuántos (para cantidades pequeñas)",
+      "algunos, unos cuantos",
+      "varios"
+    ],
+    "examples": [
+      {
+        "zh": "你几岁？",
+        "es": "¿Cuántos años tienes?"
+      },
+      {
+        "zh": "现在几点？",
+        "es": "¿Qué hora es?"
+      },
+      {
+        "zh": "我有几个中国朋友。",
+        "es": "Tengo algunos amigos chinos."
+      },
+      {
+        "zh": "我在北京住过几年，所以知道很多好吃的地方。",
+        "es": "Viví unos años en Beijing, así que conozco muchos lugares donde se come rico."
+      }
+    ]
+  },
+  {
+    "word": "国外",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el extranjero",
+      "en el extranjero",
+      "exterior, extranjero"
+    ],
+    "examples": [
+      {
+        "zh": "他在国外。",
+        "es": "Él está en el extranjero."
+      },
+      {
+        "zh": "我想去国外学习。",
+        "es": "Quiero ir a estudiar al extranjero."
+      },
+      {
+        "zh": "她的女儿在国外工作了三年。",
+        "es": "Su hija trabajó tres años en el extranjero."
+      },
+      {
+        "zh": "现在很多人喜欢去国外买东西，因为那里便宜。",
+        "es": "Hoy en día a mucha gente le gusta ir de compras al extranjero porque allá es más barato."
+      }
+    ]
+  }
+]

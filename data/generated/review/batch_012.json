@@ -1,0 +1,165 @@
+[
+  {
+    "id": "word:结果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa9a7639f51f268fb0bf6fd7a3aaa2f6732ff61f"
+  },
+  {
+    "id": "word:先生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e03e47c4f151611f1d67dfc47cac929a2a5dceac"
+  },
+  {
+    "id": "word:儿子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5f4afd32067496693d04eb3ab05a4563abf8575"
+  },
+  {
+    "id": "word:任何",
+    "ok": false,
+    "issues": [
+      "El significado «todo» es engañoso: 任何 significa «cualquier» o «ningún» (en negación). Solo equivale a «todos» en la estructura 任何…都."
+    ],
+    "content_hash": "909fd18a021f3fa033b6273bb1cc547c56c890a8"
+  },
+  {
+    "id": "word:那里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "febe1af06e517a97f0311af9970dcab75e197bcf"
+  },
+  {
+    "id": "word:只有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f118024a201f7f1caf016101d6d67f2bb966a36e"
+  },
+  {
+    "id": "word:车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e41ac48397c0760da5fa743086cae641de40c1e"
+  },
+  {
+    "id": "word:自",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30b6c9fd3a9854039124e58527683b6439a774ef"
+  },
+  {
+    "id": "word:介绍",
+    "ok": false,
+    "issues": [
+      "La traducción «Déjame presentarte: este es mi amigo» es ambigua, porque parece que se presenta al interlocutor. Mejor: «Les presento: este es mi amigo» o «Déjame hacer las presentaciones: este es mi amigo»."
+    ],
+    "content_hash": "4fa3f94a2438d13a28caec8757896c754ce45920"
+  },
+  {
+    "id": "word:带",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c85ae370a8670c6769b498e20b00939ed0df97ba"
+  },
+  {
+    "id": "word:今年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91ea9e478c6711a365539f924d7a063a1dde223f"
+  },
+  {
+    "id": "word:学院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70d54805fe405d8ae05f3f2ded6802c6d37abc43"
+  },
+  {
+    "id": "word:虽然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5c95e4a4961d3bb8ded94ed798df5ed732e47a5e"
+  },
+  {
+    "id": "word:找到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "556f5e2fe9d13a4bbe03e2fa2c18fafc42678d10"
+  },
+  {
+    "id": "word:手",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «写得非常好»: el complemento 得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "f29e02cfd6a89ef2a417a61fce8b8fb1e5088230"
+  },
+  {
+    "id": "word:因此",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3d5748bc56d063d7a0ee5ccb70e3e0f41566de38"
+  },
+  {
+    "id": "word:电视",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f19efac1f2c724dccada3517ecd2429ba81cb75d"
+  },
+  {
+    "id": "word:游戏",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad6a58fcfd83df3915d3a1c0f16303ef960c6b1b"
+  },
+  {
+    "id": "word:妈妈",
+    "ok": true,
+    "issues": [],
+    "content_hash": "328dfa69351a9cbc087dd31454155bffb525ff47"
+  },
+  {
+    "id": "word:如",
+    "ok": false,
+    "issues": [
+      "«我喜欢吃水果，如苹果» suena poco natural porque mezcla un registro coloquial con 如, que es formal/escrito. Lo natural sería «比如苹果»."
+    ],
+    "content_hash": "20fc5446f89b093e9b4b8ab3f0618682a220d29b"
+  },
+  {
+    "id": "word:明白",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «说得很明白»: 得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "ea14108b62e354abc0e4954e2573405872e9b214"
+  },
+  {
+    "id": "word:女儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "500f748b919fb104d8d981c2b4cb9cf525aebcc7"
+  },
+  {
+    "id": "word:代表",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef1deb35986056ea704f977ead0899be9a3a0ace"
+  },
+  {
+    "id": "word:汽车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "035b1097fdb43f4347e5c415f79267bcbfa18f46"
+  },
+  {
+    "id": "word:而且",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «说得很好»: 得 se lee «de», no «dé».",
+      "Pinyin incorrecto en «时间也不长»: 长 se lee «cháng» (largo), no «zhǎng»."
+    ],
+    "content_hash": "b5733e47792d1b6fb67868af8aa4e0dc8a0706cc"
+  }
+]

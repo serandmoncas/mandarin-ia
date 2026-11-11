@@ -1,0 +1,540 @@
+[
+  {
+    "word": "一会儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un momento",
+      "un rato",
+      "en un momento",
+      "ahora... y luego..."
+    ],
+    "examples": [
+      {
+        "zh": "请等一会儿。",
+        "es": "Espera un momento, por favor."
+      },
+      {
+        "zh": "我休息一会儿。",
+        "es": "Voy a descansar un rato."
+      },
+      {
+        "zh": "他一会儿就回来。",
+        "es": "Él regresa en un momento."
+      },
+      {
+        "zh": "我们一会儿去饭店吃饭，你也来吧。",
+        "es": "En un rato vamos a comer a un restaurante, ven tú también."
+      }
+    ]
+  },
+  {
+    "word": "造成",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "causar",
+      "provocar",
+      "ocasionar"
+    ],
+    "examples": [
+      {
+        "zh": "这造成了很多问题。",
+        "es": "Esto causó muchos problemas."
+      },
+      {
+        "zh": "是什么造成了这种情况？",
+        "es": "¿Qué causó esta situación?"
+      },
+      {
+        "zh": "大雨造成飞机晚了两个小时。",
+        "es": "La lluvia fuerte hizo que el avión se retrasara dos horas."
+      },
+      {
+        "zh": "战争给这个地区的人民造成了很大的影响。",
+        "es": "La guerra tuvo un gran impacto en la gente de esta región."
+      }
+    ]
+  },
+  {
+    "word": "请问",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "disculpe, ¿me podría decir...?",
+      "perdón, una pregunta"
+    ],
+    "examples": [
+      {
+        "zh": "请问，你叫什么名字？",
+        "es": "Disculpa, ¿cómo te llamas?"
+      },
+      {
+        "zh": "请问，医院在哪里？",
+        "es": "Disculpe, ¿dónde está el hospital?"
+      },
+      {
+        "zh": "请问，去机场怎么走？",
+        "es": "Disculpe, ¿cómo llego al aeropuerto?"
+      },
+      {
+        "zh": "请问，这本书多少钱？我想送给我女儿。",
+        "es": "Disculpe, ¿cuánto cuesta este libro? Quiero regalárselo a mi hija."
+      }
+    ]
+  },
+  {
+    "word": "增加",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aumentar",
+      "incrementar",
+      "subir"
+    ],
+    "examples": [
+      {
+        "zh": "我们班的学生增加了。",
+        "es": "Aumentaron los estudiantes de nuestra clase."
+      },
+      {
+        "zh": "今年公司的工作增加了很多。",
+        "es": "Este año el trabajo en la empresa aumentó mucho."
+      },
+      {
+        "zh": "城市人口每年都在增加。",
+        "es": "La población de la ciudad aumenta cada año."
+      },
+      {
+        "zh": "政府决定增加教育方面的投资，让更多孩子上学。",
+        "es": "El gobierno decidió aumentar la inversión en educación para que más niños vayan a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "这儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aquí",
+      "acá"
+    ],
+    "examples": [
+      {
+        "zh": "我在这儿。",
+        "es": "Estoy aquí."
+      },
+      {
+        "zh": "你来这儿做什么？",
+        "es": "¿Qué vienes a hacer aquí?"
+      },
+      {
+        "zh": "这儿的菜非常好吃。",
+        "es": "La comida de aquí es muy rica."
+      },
+      {
+        "zh": "我在这儿住了三年，已经很喜欢这个城市了。",
+        "es": "Llevo tres años viviendo aquí y ya me gusta mucho esta ciudad."
+      }
+    ]
+  },
+  {
+    "word": "严重",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grave",
+      "serio",
+      "severo",
+      "crítico"
+    ],
+    "examples": [
+      {
+        "zh": "他的病很严重。",
+        "es": "Su enfermedad es muy grave."
+      },
+      {
+        "zh": "这个问题非常严重。",
+        "es": "Este problema es muy serio."
+      },
+      {
+        "zh": "这次事件造成了严重的影响。",
+        "es": "Este incidente tuvo consecuencias graves."
+      },
+      {
+        "zh": "环境问题越来越严重，我们必须马上解决。",
+        "es": "Los problemas ambientales son cada vez más graves; tenemos que resolverlos ya."
+      }
+    ]
+  },
+  {
+    "word": "军",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ejército",
+      "militar",
+      "fuerzas armadas"
+    ],
+    "examples": [
+      {
+        "zh": "他是军人。",
+        "es": "Él es militar."
+      },
+      {
+        "zh": "我哥哥想当军人。",
+        "es": "Mi hermano mayor quiere ser militar."
+      },
+      {
+        "zh": "美军已经离开这个地区了。",
+        "es": "El ejército estadounidense ya se retiró de esta región."
+      },
+      {
+        "zh": "他十八岁就参加了军队，在那里工作了十年。",
+        "es": "Entró al ejército a los dieciocho años y trabajó ahí diez años."
+      }
+    ]
+  },
+  {
+    "word": "累",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "cansado",
+      "agotado",
+      "cansar",
+      "esforzarse mucho"
+    ],
+    "examples": [
+      {
+        "zh": "我很累。",
+        "es": "Estoy muy cansado."
+      },
+      {
+        "zh": "今天工作太累了。",
+        "es": "El trabajo de hoy fue agotador."
+      },
+      {
+        "zh": "你累不累？累了就休息一下吧。",
+        "es": "¿Estás cansado? Si lo estás, descansa un poco."
+      },
+      {
+        "zh": "他昨天晚上没睡觉，所以今天上班非常累。",
+        "es": "Anoche no durmió, así que hoy en el trabajo está muy cansado."
+      }
+    ]
+  },
+  {
+    "word": "同",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mismo",
+      "igual",
+      "juntos",
+      "con"
+    ],
+    "examples": [
+      {
+        "zh": "我们同岁。",
+        "es": "Tenemos la misma edad."
+      },
+      {
+        "zh": "我们在同一个学校学习。",
+        "es": "Estudiamos en la misma escuela."
+      },
+      {
+        "zh": "他和我同一年来到北京。",
+        "es": "Él y yo llegamos a Pekín el mismo año."
+      },
+      {
+        "zh": "他同我一起去了上海，在那里住了一个星期。",
+        "es": "Fue conmigo a Shanghái y nos quedamos allá una semana."
+      }
+    ]
+  },
+  {
+    "word": "上网",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conectarse a internet",
+      "navegar por internet",
+      "publicarse en internet"
+    ],
+    "examples": [
+      {
+        "zh": "我每天上网。",
+        "es": "Me conecto a internet todos los días."
+      },
+      {
+        "zh": "你在家能上网吗？",
+        "es": "¿Puedes conectarte a internet en tu casa?"
+      },
+      {
+        "zh": "他晚上常常上网看电影。",
+        "es": "En las noches suele ver películas en internet."
+      },
+      {
+        "zh": "现在很多人用手机上网，买东西也很方便。",
+        "es": "Hoy mucha gente usa internet en el celular, y comprar cosas también es muy fácil."
+      }
+    ]
+  },
+  {
+    "word": "负责",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "encargarse de",
+      "ser responsable de",
+      "responsable (concienzudo)"
+    ],
+    "examples": [
+      {
+        "zh": "这件事谁负责？",
+        "es": "¿Quién se encarga de este asunto?"
+      },
+      {
+        "zh": "他负责公司的网站。",
+        "es": "Él se encarga del sitio web de la empresa."
+      },
+      {
+        "zh": "她是一个很负责的老师。",
+        "es": "Ella es una maestra muy responsable."
+      },
+      {
+        "zh": "我们会对这次事件负责，马上调查发生了什么。",
+        "es": "Asumiremos la responsabilidad por este incidente e investigaremos de inmediato qué pasó."
+      }
+    ]
+  },
+  {
+    "word": "爷爷",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abuelo (paterno)",
+      "abuelito"
+    ],
+    "examples": [
+      {
+        "zh": "我爱爷爷。",
+        "es": "Quiero a mi abuelo."
+      },
+      {
+        "zh": "爷爷今年八十岁了。",
+        "es": "Mi abuelo cumple ochenta años este año."
+      },
+      {
+        "zh": "我爷爷每天早上喝茶看新闻。",
+        "es": "Mi abuelo toma té y ve las noticias todas las mañanas."
+      },
+      {
+        "zh": "爷爷生病住院了，我们一家人明天去医院看他。",
+        "es": "Mi abuelo se enfermó y está internado; mañana toda la familia va a visitarlo al hospital."
+      }
+    ]
+  },
+  {
+    "word": "工业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "industria",
+      "industrial"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个工业城市。",
+        "es": "Esta es una ciudad industrial."
+      },
+      {
+        "zh": "中国的工业发展很快。",
+        "es": "La industria china se desarrolla muy rápido."
+      },
+      {
+        "zh": "这个地区以前没有什么工业。",
+        "es": "Antes esta región casi no tenía industria."
+      },
+      {
+        "zh": "工业发展对环境造成了很大的影响。",
+        "es": "El desarrollo industrial ha tenido un gran impacto en el medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "好吃",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rico",
+      "sabroso",
+      "delicioso"
+    ],
+    "examples": [
+      {
+        "zh": "这个菜很好吃。",
+        "es": "Este platillo está muy rico."
+      },
+      {
+        "zh": "妈妈做的饭最好吃。",
+        "es": "La comida que hace mi mamá es la más rica."
+      },
+      {
+        "zh": "这家饭店的东西又便宜又好吃。",
+        "es": "La comida de este restaurante es barata y sabrosa."
+      },
+      {
+        "zh": "你觉得中国菜和日本菜哪个更好吃？",
+        "es": "¿Qué te parece más rica, la comida china o la japonesa?"
+      }
+    ]
+  },
+  {
+    "word": "基础",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "base",
+      "fundamento",
+      "básico",
+      "fundamental"
+    ],
+    "examples": [
+      {
+        "zh": "他的中文基础很好。",
+        "es": "Tiene buenas bases de chino."
+      },
+      {
+        "zh": "学习要从基础开始。",
+        "es": "Para aprender hay que empezar por lo básico."
+      },
+      {
+        "zh": "这是一本基础汉语书。",
+        "es": "Este es un libro de chino básico."
+      },
+      {
+        "zh": "教育是一个国家发展的基础，非常重要。",
+        "es": "La educación es la base del desarrollo de un país; es muy importante."
+      }
+    ]
+  },
+  {
+    "word": "家庭",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "familia",
+      "hogar",
+      "familiar (doméstico)"
+    ],
+    "examples": [
+      {
+        "zh": "他的家庭很大。",
+        "es": "Su familia es muy grande."
+      },
+      {
+        "zh": "家庭对孩子很重要。",
+        "es": "La familia es muy importante para los niños."
+      },
+      {
+        "zh": "现在很多家庭都有汽车。",
+        "es": "Hoy muchas familias tienen carro."
+      },
+      {
+        "zh": "因为家庭原因，他不能继续上大学了。",
+        "es": "Por motivos familiares, ya no puede seguir en la universidad."
+      }
+    ]
+  },
+  {
+    "word": "女朋友",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "novia"
+    ],
+    "examples": [
+      {
+        "zh": "他有女朋友。",
+        "es": "Él tiene novia."
+      },
+      {
+        "zh": "这是我女朋友。",
+        "es": "Ella es mi novia."
+      },
+      {
+        "zh": "你女朋友是哪里人？",
+        "es": "¿De dónde es tu novia?"
+      },
+      {
+        "zh": "我明天要跟女朋友去看电影，所以不能去你家了。",
+        "es": "Mañana voy al cine con mi novia, así que ya no puedo ir a tu casa."
+      }
+    ]
+  },
+  {
+    "word": "受到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recibir",
+      "sufrir (un efecto)",
+      "ser objeto de"
+    ],
+    "examples": [
+      {
+        "zh": "他受到了老师的帮助。",
+        "es": "Recibió ayuda del maestro."
+      },
+      {
+        "zh": "这个地区受到了战争的影响。",
+        "es": "Esta región se vio afectada por la guerra."
+      },
+      {
+        "zh": "这部电影受到了很多年轻人的欢迎。",
+        "es": "Esta película tuvo muy buena acogida entre los jóvenes."
+      },
+      {
+        "zh": "在这次事件中，很多孩子受到了伤害。",
+        "es": "En este incidente, muchos niños resultaron lastimados."
+      }
+    ]
+  },
+  {
+    "word": "雨",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lluvia"
+    ],
+    "examples": [
+      {
+        "zh": "下雨了。",
+        "es": "Está lloviendo."
+      },
+      {
+        "zh": "今天雨很大。",
+        "es": "Hoy llueve muy fuerte."
+      },
+      {
+        "zh": "外面在下雨，别出去了。",
+        "es": "Está lloviendo afuera, mejor no salgas."
+      },
+      {
+        "zh": "昨天下了一天的雨，所以我们没去山上玩。",
+        "es": "Ayer llovió todo el día, así que no fuimos a pasear a la montaña."
+      }
+    ]
+  },
+  {
+    "word": "台",
+    "cedict_reading_index": 5,
+    "meanings_es": [
+      "escenario",
+      "plataforma",
+      "estación (de radio o televisión)",
+      "clasificador para máquinas y aparatos"
+    ],
+    "examples": [
+      {
+        "zh": "他上台唱歌。",
+        "es": "Él subió al escenario a cantar."
+      },
+      {
+        "zh": "他在电视台工作。",
+        "es": "Trabaja en una estación de televisión."
+      },
+      {
+        "zh": "我买了一台新电脑。",
+        "es": "Compré una computadora nueva."
+      },
+      {
+        "zh": "我们在三号站台等你，火车马上就要开了。",
+        "es": "Te esperamos en el andén tres; el tren ya va a salir."
+      }
+    ]
+  }
+]
