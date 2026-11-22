@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:快点儿",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: en 要不上学就晚了, 要不 es la conjunción 'si no' (yàobù). El pinyin 'yào bú shàng xué' hace pensar que 不 va con 上学 ('no ir a la escuela'), lo que lleva a una lectura errónea.",
+      "Ejemplo 2: 你快点儿走吧 suele significar 'vete ya / apúrate a irte', no necesariamente 'camina más rápido'. Conviene ajustar la traducción o el ejemplo."
+    ],
+    "content_hash": "f48efd2ae70b3a03df45df9fb7a747e47b9c7254"
+  },
+  {
+    "id": "word:有一点儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd4e9c59f03720e1e3fd7eaf859377d7e4d10f2d"
+  },
+  {
+    "id": "word:有空儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1cc35239abd7c4c84ff58938c3d24183417c3851"
+  },
+  {
+    "id": "word:干活儿",
+    "ok": false,
+    "issues": [
+      "El significado 'chambear' es un regionalismo (México y parte de Centroamérica), no es español neutro. Conviene quitarlo o sustituirlo."
+    ],
+    "content_hash": "fea2273b225c3b1a28a7c303cb6224819a302f79"
+  },
+  {
+    "id": "word:选手",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin 'yī bǎi' debería ser 'yì bǎi' por el sandhi tonal de 一, que sí se aplica en los demás ejemplos.",
+      "Ejemplo 1: 他是足球选手 suena poco natural para decir 'jugador de fútbol'. Lo habitual es 足球运动员; 选手 se usa más en el contexto de una competencia concreta."
+    ],
+    "content_hash": "e147efe33eb33a87d00c189d4a8e25da951091e2"
+  },
+  {
+    "id": "word:上来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c75275eb9c50b0032dc0f131601a9a884aaf7eac"
+  },
+  {
+    "id": "word:咖啡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "150cfa29fcf93008f33528e0c8b99439ca8a8408"
+  },
+  {
+    "id": "word:现金",
+    "ok": true,
+    "issues": [],
+    "content_hash": "41a623610de5cb437b1b187a3313c95511511252"
+  },
+  {
+    "id": "word:性格",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f02bf80ac81a45c4f3801acb21b70c2d09ba3fff"
+  },
+  {
+    "id": "word:人群",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: 人群越来越多了 resulta poco natural, porque 人群 es un colectivo. Lo natural sería 人越来越多了 o 人群越来越大了."
+    ],
+    "content_hash": "7bd95047c88c31c29f2b6e4705c3a535480f6c14"
+  },
+  {
+    "id": "word:服装",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a223da42a87b4b0fbd73de507bb08f1a8210a830"
+  },
+  {
+    "id": "word:工程师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1fb27675dd727bd9113b7fa04609de5118ec064d"
+  },
+  {
+    "id": "word:近期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30ea53c7a2d13773c124dcc071daaf63cab81e49"
+  },
+  {
+    "id": "word:种子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a4d1986d496de40cd523f7c7985dfc43bad690c"
+  },
+  {
+    "id": "word:基本上",
+    "ok": false,
+    "issues": [
+      "Inconsistencia de tono: la palabra se presenta como ji1 ben3 shang5 (上 en tono neutro), pero todos los ejemplos escriben 'jī běn shàng' con cuarto tono."
+    ],
+    "content_hash": "85490864ad10bdcd1fe4413331027d813993cc7f"
+  },
+  {
+    "id": "word:顿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91f9064fca8815deaeb5189dceb9693f59d2be60"
+  },
+  {
+    "id": "word:年纪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ee6e6f6193ef5c8b3b3409524e99d3f70b09ab85"
+  },
+  {
+    "id": "word:皮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80910ddb90df4f8199356bba85007472e15e860a"
+  },
+  {
+    "id": "word:从前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bb233d29e6039bb1e4d490e3cf39135839f4cf4e"
+  },
+  {
+    "id": "word:汤",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f90c04448696a718a69e28f142b5e9404be93eaf"
+  },
+  {
+    "id": "word:乐观",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c61567a830e1429c66ca2c180c294e4e5a0b992"
+  },
+  {
+    "id": "word:大使馆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1608e93cdc900a154d915893e20192e4796ef33"
+  },
+  {
+    "id": "word:金牌",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a1b4c2609bce4df5e5477836342601a7685d986e"
+  },
+  {
+    "id": "word:衬衫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8ae1bf68beff26cd727f26df516f4c6769249773"
+  },
+  {
+    "id": "word:可乐",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 可乐 se traduce como 'refresco' a secas y se pierde 'de cola', lo que puede confundir al estudiante sobre el significado.",
+      "El sentido 'divertido, gracioso' es poco frecuente en el habla actual. Convendría indicarlo como uso raro o coloquial."
+    ],
+    "content_hash": "90307d38a4fefe968afb79b8c27f574ebe9dfa08"
+  }
+]

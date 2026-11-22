@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:美丽",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e23943f51d7ff4206008a23e974bbaebc7edd732"
+  },
+  {
+    "id": "word:院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c1ffbcc466a8d164ac45628971f02360854158f3"
+  },
+  {
+    "id": "word:接下来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab159dcd2166fa06f30a7d3f2452b24f3f7a4d80"
+  },
+  {
+    "id": "word:双",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5ffe40b782e1cf7025cfd4d2246f486400cf938"
+  },
+  {
+    "id": "word:绿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d1d2b9ef9783c1bff81c52831ca387966e4b482"
+  },
+  {
+    "id": "word:重复",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c72d212c9b7085c29d2cec8297dc2a5184762b70"
+  },
+  {
+    "id": "word:便宜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ff259ea73a123cd1573b636bdb5075dd8b2d853e"
+  },
+  {
+    "id": "word:大人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e854fc784fbd7c2dc25b1a4abee12a12f8ddb65"
+  },
+  {
+    "id": "word:放心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "157c4f8d466cd454fa338ec38b1a9adea2b4173c"
+  },
+  {
+    "id": "word:超级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a94d6a7c47e99c5afaf409112955a607d1425952"
+  },
+  {
+    "id": "word:千",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: «一千» aparece como «yī qiān». Con el sandhi tonal que se aplica en el resto de los ejemplos (yì shuāng, yí gè), debería ser «yì qiān»."
+    ],
+    "content_hash": "3c8f59e2829399944291ffb2b4f6f9ec50ce2e73"
+  },
+  {
+    "id": "word:花园",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6775bc2138a4495d19ed01211fae7d9a6b6f3ca8"
+  },
+  {
+    "id": "word:比例",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7242e5ed95d48676c5021121650b06f9790b096c"
+  },
+  {
+    "id": "word:角",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ede7146b62d76e7bb1b0b4f5d2db18bb8a128526"
+  },
+  {
+    "id": "word:喂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2753d2528ec0fa682a3adc74448955ffd5d1f41"
+  },
+  {
+    "id": "word:走进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1051e0f2113384751c080c013355a892740fb570"
+  },
+  {
+    "id": "word:实习",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0e71dbed3363abfeab8d409a32c51fd9f98679b"
+  },
+  {
+    "id": "word:普遍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e718c1c8aa9ae00e206d00f5441fd95b4d487586"
+  },
+  {
+    "id": "word:坏人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "339bb99db21a69326882292e3ec39f9b4ee29f3b"
+  },
+  {
+    "id": "word:出租",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be9687c61619619f8ad1993926675e24159bb005"
+  },
+  {
+    "id": "word:忽然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "16af4f1e74bcb522f612e08f62fe0d4a387a0cc4"
+  },
+  {
+    "id": "word:接近",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: «一千万» aparece como «yī qiān wàn». Con el sandhi tonal aplicado en los demás ejemplos, debería ser «yì qiān wàn»."
+    ],
+    "content_hash": "6f67652dd00db70cc593119108393f31dd151802"
+  },
+  {
+    "id": "word:龙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b002ee354a1847a56fea848363800b41afa029c"
+  },
+  {
+    "id": "word:遍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6b50e80ce4d6b2bcb9c18127a9f958d212b601c"
+  },
+  {
+    "id": "word:演员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d33996a8ee88bc3ebec20cfbc96b6db8a6c3f90"
+  }
+]

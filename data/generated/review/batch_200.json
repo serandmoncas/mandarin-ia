@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:音乐会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ce8b3bc43dba40fb8d009884e5980a08884d3f9"
+  },
+  {
+    "id": "word:休假",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bfc9a56dd5d5c37f089dcdb45fa78ca9b02d10f6"
+  },
+  {
+    "id": "word:组长",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, el pinyin de 星期一 debe ser «xīng qī yī», no «yì». El 一 ordinal o final de palabra no cambia de tono."
+    ],
+    "content_hash": "9338bcd2a66b0b48b69d03bb586faecf71b38f93"
+  },
+  {
+    "id": "word:感情",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1231be4a0a16c8ac2e98cde272e0309067737d9b"
+  },
+  {
+    "id": "word:笔记本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d3f8823b266175adfe44f8530d3110c881570bd"
+  },
+  {
+    "id": "word:词典",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f13889a20c768c16ff263257c22fc302c1d3bbb"
+  },
+  {
+    "id": "word:夜里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9351706913b015fef39ce4d6adf7b047e21f7fd"
+  },
+  {
+    "id": "word:人民币",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b3fa4ef949f7044ad5278b6c2c355d8e2d3cf82b"
+  },
+  {
+    "id": "word:院子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da2625e71a0c35fa7c838e4af2d0e6715eefbc5d"
+  },
+  {
+    "id": "word:菜单",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce5f71f818904f3e2401c6486e0413c70d65588c"
+  },
+  {
+    "id": "word:要是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "697136de8629857bb1f2782f59c42ea3af19b1cc"
+  },
+  {
+    "id": "word:有点儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "21ad0b87da4e5b868a25f2e92ad3448b2aec548a"
+  },
+  {
+    "id": "word:布",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b82b87e27aa4e6a7c3757ace440b7e2d57d65780"
+  },
+  {
+    "id": "word:晚报",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc48af1f354c840fc2ba11e53d909c369bf503fe"
+  },
+  {
+    "id": "word:麻烦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f07b290b904eeb59fa07d357165e270b35b218ba"
+  },
+  {
+    "id": "word:药店",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87fef02f70233da02d68d8c71b077c292c9b20d3"
+  },
+  {
+    "id": "word:画儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a52b36206dc3b4c8b5d0788328c6f6eecf2e79e0"
+  },
+  {
+    "id": "word:猪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "17e248c3186de32d7e97f4bffb674dba05d47c80"
+  },
+  {
+    "id": "word:零下",
+    "ok": false,
+    "issues": [
+      "El ejemplo 3, «这里一年有半年都在零下», suena poco natural porque le falta el sujeto 气温. Sería más natural «这里一年有半年气温都在零下» o «…都在零度以下»."
+    ],
+    "content_hash": "92c89e62fe1f2852f80fc1f7f2f560f1787d4bf7"
+  },
+  {
+    "id": "word:药水",
+    "ok": true,
+    "issues": [],
+    "content_hash": "66804f7cc2f6a110c0d34e76181a462e59c6731c"
+  },
+  {
+    "id": "word:笑话儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d7eabf6fc0821fe070428e34dda71926e4920d2"
+  },
+  {
+    "id": "word:那会儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8ab81cf5f8d34dbdf54999fd683743fa236e5c40"
+  },
+  {
+    "id": "word:球鞋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3719584f1906d2d328c047903bbc836ef5f27c3c"
+  },
+  {
+    "id": "word:午睡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "112c4ae613c95d063982cdd6e8c661c8846a5705"
+  },
+  {
+    "id": "word:西餐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c766867ca8c7bb838fce89bacd6ed013d16235a"
+  }
+]

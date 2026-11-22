@@ -46,3 +46,19 @@ visibles pasan de 1739 a **2282 (91,3 %)**, por encima de la meta del 90 %.
 
 Los ~160 casos sin pinyin (naturalidad, traducción, significado) necesitan regenerar
 ejemplos o revisarlos a mano; se tratan después, junto con la revisión de 20 palabras al azar.
+
+## Resultado (2026-11-22)
+
+Implementado según `docs/superpowers/plans/2026-11-22-pinyin-hibrido.md` y ejecutado en dos vueltas
+(`pinyin` → `review` → `build`):
+
+| | Antes | Vuelta 1 | Vuelta 2 |
+|---|---|---|---|
+| Palabras visibles | 1739 (70 %) | 2178 (87,1 %) | **2268 (90,7 %)** |
+| Issues de la revisión (palabras) | 962 | 397 | 281 |
+| …de ellos, de pinyin | 716 | 143 | 27 |
+| Frases visibles | 174 | 181 | 181 |
+
+Ningún ejemplo cayó al fallback (`pinyin_fallback` = 0). La segunda vuelta hizo falta porque la
+re-revisión (y el sandhi, que cambió el texto de muchos ejemplos) destapó palabras que la primera no
+había marcado. Quedan ~254 issues que no son de pinyin (naturalidad, traducción, significado).

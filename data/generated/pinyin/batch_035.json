@@ -1,0 +1,422 @@
+[
+  {
+    "word": "组长",
+    "examples": [
+      {
+        "zh": "他是我们的组长。",
+        "pinyin": "ta1 shi4 wo3 men5 de5 zu3 zhang3"
+      },
+      {
+        "zh": "组长，我有一个问题。",
+        "pinyin": "zu3 zhang3 wo3 you3 yi1 ge4 wen4 ti2"
+      },
+      {
+        "zh": "老师让她当我们小组的组长。",
+        "pinyin": "lao3 shi1 rang4 ta1 dang1 wo3 men5 xiao3 zu3 de5 zu3 zhang3"
+      },
+      {
+        "zh": "组长每个星期一开会，告诉大家这周的任务。",
+        "pinyin": "zu3 zhang3 mei3 ge4 xing1 qi1 yi1 kai1 hui4 gao4 su5 da4 jia1 zhe4 zhou1 de5 ren4 wu5"
+      }
+    ]
+  },
+  {
+    "word": "感情",
+    "examples": [
+      {
+        "zh": "他们的感情很好。",
+        "pinyin": "ta1 men5 de5 gan3 qing2 hen3 hao3"
+      },
+      {
+        "zh": "我和姐姐从小感情就很好。",
+        "pinyin": "wo3 he2 jie3 jie5 cong2 xiao3 gan3 qing2 jiu4 hen3 hao3"
+      },
+      {
+        "zh": "她唱歌很有感情，大家都很感动。",
+        "pinyin": "ta1 chang4 ge1 hen3 you3 gan3 qing2 da4 jia1 dou1 hen3 gan3 dong4"
+      },
+      {
+        "zh": "他们结婚十年了，感情还是像以前一样好。",
+        "pinyin": "ta1 men5 jie2 hun1 shi2 nian2 le5 gan3 qing2 hai2 shi4 xiang4 yi3 qian2 yi1 yang4 hao3"
+      }
+    ]
+  },
+  {
+    "word": "笔记本",
+    "examples": [
+      {
+        "zh": "这是我的笔记本。",
+        "pinyin": "zhe4 shi4 wo3 de5 bi3 ji4 ben3"
+      },
+      {
+        "zh": "我在书店买了两本笔记本。",
+        "pinyin": "wo3 zai4 shu1 dian4 mai3 le5 liang3 ben3 bi3 ji4 ben3"
+      },
+      {
+        "zh": "上课的时候，他把老师说的话都写在笔记本上。",
+        "pinyin": "shang4 ke4 de5 shi2 hou5 ta1 ba3 lao3 shi1 shuo1 de5 hua4 dou1 xie3 zai4 bi3 ji4 ben3 shang5"
+      },
+      {
+        "zh": "我的笔记本电脑太旧了，想买一台新的。",
+        "pinyin": "wo3 de5 bi3 ji4 ben3 dian4 nao3 tai4 jiu4 le5 xiang3 mai3 yi1 tai2 xin1 de5"
+      }
+    ]
+  },
+  {
+    "word": "词典",
+    "examples": [
+      {
+        "zh": "你有词典吗？",
+        "pinyin": "ni3 you3 ci2 dian3 ma5"
+      },
+      {
+        "zh": "我在书店买了一本新词典。",
+        "pinyin": "wo3 zai4 shu1 dian4 mai3 le5 yi1 ben3 xin1 ci2 dian3"
+      },
+      {
+        "zh": "我不认识这个字，可以用一下你的词典吗？",
+        "pinyin": "wo3 bu4 ren4 shi5 zhe4 ge5 zi4 ke3 yi3 yong4 yi1 xia4 ni3 de5 ci2 dian3 ma5"
+      },
+      {
+        "zh": "现在很多学生用手机上的词典学习外语。",
+        "pinyin": "xian4 zai4 hen3 duo1 xue2 sheng5 yong4 shou3 ji1 shang5 de5 ci2 dian3 xue2 xi2 wai4 yu3"
+      }
+    ]
+  },
+  {
+    "word": "夜里",
+    "examples": [
+      {
+        "zh": "他夜里常常不睡觉。",
+        "pinyin": "ta1 ye4 li5 chang2 chang2 bu4 shui4 jiao4"
+      },
+      {
+        "zh": "夜里很冷，多穿一点。",
+        "pinyin": "ye4 li5 hen3 leng3 duo1 chuan1 yi1 dian3"
+      },
+      {
+        "zh": "昨天夜里下了一场大雨。",
+        "pinyin": "zuo2 tian1 ye4 li5 xia4 le5 yi1 chang2 da4 yu3"
+      },
+      {
+        "zh": "孩子夜里生病了，妈妈马上带他去医院。",
+        "pinyin": "hai2 zi5 ye4 li5 sheng1 bing4 le5 ma1 ma5 ma3 shang4 dai4 ta1 qu4 yi1 yuan4"
+      }
+    ]
+  },
+  {
+    "word": "人民币",
+    "examples": [
+      {
+        "zh": "这本书三十块人民币。",
+        "pinyin": "zhe4 ben3 shu1 san1 shi2 kuai4 ren2 min2 bi4"
+      },
+      {
+        "zh": "你带人民币了吗？",
+        "pinyin": "ni3 dai4 ren2 min2 bi4 le5 ma5"
+      },
+      {
+        "zh": "在中国，买东西一般用人民币。",
+        "pinyin": "zai4 zhong1 guo2 mai3 dong1 xi5 yi1 ban1 yong4 ren2 min2 bi4"
+      },
+      {
+        "zh": "我想把一些美元换成人民币，请问去哪里换？",
+        "pinyin": "wo3 xiang3 ba3 yi1 xie1 mei3 yuan2 huan4 cheng2 ren2 min2 bi4 qing3 wen4 qu4 na3 li3 huan4"
+      }
+    ]
+  },
+  {
+    "word": "院子",
+    "examples": [
+      {
+        "zh": "院子里有很多花。",
+        "pinyin": "yuan4 zi5 li5 you3 hen3 duo1 hua1"
+      },
+      {
+        "zh": "孩子们在院子里玩儿。",
+        "pinyin": "hai2 zi5 men5 zai4 yuan4 zi5 li5 wan2 r5"
+      },
+      {
+        "zh": "我们家的院子不大，但是很干净。",
+        "pinyin": "wo3 men5 jia1 de5 yuan4 zi5 bu4 da4 dan4 shi4 hen3 gan1 jing4"
+      },
+      {
+        "zh": "夏天的晚上，爷爷喜欢坐在院子里喝茶。",
+        "pinyin": "xia4 tian1 de5 wan3 shang5 ye2 ye5 xi3 huan5 zuo4 zai4 yuan4 zi5 li5 he1 cha2"
+      }
+    ]
+  },
+  {
+    "word": "要是",
+    "examples": [
+      {
+        "zh": "要是下雨，我就不去了。",
+        "pinyin": "yao4 shi4 xia4 yu3 wo3 jiu4 bu4 qu4 le5"
+      },
+      {
+        "zh": "要是你累了，就休息一下吧。",
+        "pinyin": "yao4 shi4 ni3 lei4 le5 jiu4 xiu1 xi5 yi1 xia4 ba5"
+      },
+      {
+        "zh": "要是有问题，请给我打电话。",
+        "pinyin": "yao4 shi4 you3 wen4 ti2 qing3 gei3 wo3 da3 dian4 hua4"
+      },
+      {
+        "zh": "要是我早点知道，我就会去机场接你了。",
+        "pinyin": "yao4 shi4 wo3 zao3 dian3 zhi1 dao5 wo3 jiu4 hui4 qu4 ji1 chang3 jie1 ni3 le5"
+      }
+    ]
+  },
+  {
+    "word": "布",
+    "examples": [
+      {
+        "zh": "这块布很漂亮。",
+        "pinyin": "zhe4 kuai4 bu4 hen3 piao4 liang5"
+      },
+      {
+        "zh": "妈妈去商店买布。",
+        "pinyin": "ma1 ma5 qu4 shang1 dian4 mai3 bu4"
+      },
+      {
+        "zh": "我用这块白布做了一件衣服。",
+        "pinyin": "wo3 yong4 zhe4 kuai4 bai2 bu4 zuo4 le5 yi1 jian4 yi1 fu5"
+      },
+      {
+        "zh": "这种布很便宜，可是洗了以后变小了。",
+        "pinyin": "zhe4 zhong3 bu4 hen3 pian2 yi5 ke3 shi4 xi3 le5 yi3 hou4 bian4 xiao3 le5"
+      }
+    ]
+  },
+  {
+    "word": "麻烦",
+    "examples": [
+      {
+        "zh": "真麻烦！",
+        "pinyin": "zhen1 ma2 fan5"
+      },
+      {
+        "zh": "麻烦你帮我一下。",
+        "pinyin": "ma2 fan5 ni3 bang1 wo3 yi1 xia4"
+      },
+      {
+        "zh": "对不起，给你带来麻烦了。",
+        "pinyin": "dui4 bu5 qi3 gei3 ni3 dai4 lai2 ma2 fan5 le5"
+      },
+      {
+        "zh": "坐地铁去机场太麻烦了，我们打车吧。",
+        "pinyin": "zuo4 di4 tie3 qu4 ji1 chang3 tai4 ma2 fan5 le5 wo3 men5 da3 che1 ba5"
+      }
+    ]
+  },
+  {
+    "word": "药店",
+    "examples": [
+      {
+        "zh": "药店在哪里？",
+        "pinyin": "yao4 dian4 zai4 na3 li3"
+      },
+      {
+        "zh": "前边有一家药店。",
+        "pinyin": "qian2 bian5 you3 yi1 jia1 yao4 dian4"
+      },
+      {
+        "zh": "我去药店给妈妈买药。",
+        "pinyin": "wo3 qu4 yao4 dian4 gei3 ma1 ma5 mai3 yao4"
+      },
+      {
+        "zh": "医生说你得去药店买这种药，每天吃三次。",
+        "pinyin": "yi1 sheng1 shuo1 ni3 dei3 qu4 yao4 dian4 mai3 zhe4 zhong3 yao4 mei3 tian1 chi1 san1 ci4"
+      }
+    ]
+  },
+  {
+    "word": "猪",
+    "examples": [
+      {
+        "zh": "这是一头猪。",
+        "pinyin": "zhe4 shi4 yi1 tou2 zhu1"
+      },
+      {
+        "zh": "我不吃猪肉。",
+        "pinyin": "wo3 bu4 chi1 zhu1 rou4"
+      },
+      {
+        "zh": "她家里养了两头猪。",
+        "pinyin": "ta1 jia1 li5 yang3 le5 liang3 tou2 zhu1"
+      },
+      {
+        "zh": "农村的爷爷奶奶每年都养几头猪。",
+        "pinyin": "nong2 cun1 de5 ye2 ye5 nai3 nai5 mei3 nian2 dou1 yang3 ji3 tou2 zhu1"
+      }
+    ]
+  },
+  {
+    "word": "零下",
+    "examples": [
+      {
+        "zh": "今天零下五度。",
+        "pinyin": "jin1 tian1 ling2 xia4 wu3 du4"
+      },
+      {
+        "zh": "外面零下十度，多穿点衣服吧。",
+        "pinyin": "wai4 mian4 ling2 xia4 shi2 du4 duo1 chuan1 dian3 yi1 fu5 ba5"
+      },
+      {
+        "zh": "这里一年有半年都在零下。",
+        "pinyin": "zhe4 li3 yi1 nian2 you3 ban4 nian2 dou1 zai4 ling2 xia4"
+      },
+      {
+        "zh": "明天最低气温是零下三度，记得多穿衣服。",
+        "pinyin": "ming2 tian1 zui4 di1 qi4 wen1 shi4 ling2 xia4 san1 du4 ji4 de5 duo1 chuan1 yi1 fu5"
+      }
+    ]
+  },
+  {
+    "word": "药水",
+    "examples": [
+      {
+        "zh": "这是什么药水？",
+        "pinyin": "zhe4 shi4 shen2 me5 yao4 shui3"
+      },
+      {
+        "zh": "这瓶药水很难喝。",
+        "pinyin": "zhe4 ping2 yao4 shui3 hen3 nan2 he1"
+      },
+      {
+        "zh": "医生让我每天喝三次药水。",
+        "pinyin": "yi1 sheng1 rang4 wo3 mei3 tian1 he1 san1 ci4 yao4 shui3"
+      },
+      {
+        "zh": "孩子生病了，妈妈去药店给他买了一瓶药水。",
+        "pinyin": "hai2 zi5 sheng1 bing4 le5 ma1 ma5 qu4 yao4 dian4 gei3 ta1 mai3 le5 yi1 ping2 yao4 shui3"
+      }
+    ]
+  },
+  {
+    "word": "球鞋",
+    "examples": [
+      {
+        "zh": "你的球鞋真好看。",
+        "pinyin": "ni3 de5 qiu2 xie2 zhen1 hao3 kan4"
+      },
+      {
+        "zh": "我买了一双新球鞋。",
+        "pinyin": "wo3 mai3 le5 yi1 shuang1 xin1 qiu2 xie2"
+      },
+      {
+        "zh": "打篮球的时候要穿球鞋。",
+        "pinyin": "da3 lan2 qiu2 de5 shi2 hou5 yao4 chuan1 qiu2 xie2"
+      },
+      {
+        "zh": "这双球鞋太贵了，我想再看看别的。",
+        "pinyin": "zhe4 shuang1 qiu2 xie2 tai4 gui4 le5 wo3 xiang3 zai4 kan4 kan5 bie2 de5"
+      }
+    ]
+  },
+  {
+    "word": "西餐",
+    "examples": [
+      {
+        "zh": "你喜欢吃西餐吗？",
+        "pinyin": "ni3 xi3 huan5 chi1 xi1 can1 ma5"
+      },
+      {
+        "zh": "今天晚上我们去吃西餐吧。",
+        "pinyin": "jin1 tian1 wan3 shang5 wo3 men5 qu4 chi1 xi1 can1 ba5"
+      },
+      {
+        "zh": "吃西餐的时候不用筷子。",
+        "pinyin": "chi1 xi1 can1 de5 shi2 hou5 bu4 yong4 kuai4 zi5"
+      },
+      {
+        "zh": "我第一次吃西餐，不知道该怎么吃。",
+        "pinyin": "wo3 di4 yi1 ci4 chi1 xi1 can1 bu4 zhi1 dao5 gai1 zen3 me5 chi1"
+      }
+    ]
+  },
+  {
+    "word": "选手",
+    "examples": [
+      {
+        "zh": "他是足球选手。",
+        "pinyin": "ta1 shi4 zu2 qiu2 xuan3 shou3"
+      },
+      {
+        "zh": "这位选手跑得很快。",
+        "pinyin": "zhe4 wei4 xuan3 shou3 pao3 de5 hen3 kuai4"
+      },
+      {
+        "zh": "比赛有一百多名选手参加。",
+        "pinyin": "bi3 sai4 you3 yi1 bai3 duo1 ming2 xuan3 shou3 can1 jia1"
+      },
+      {
+        "zh": "那个年轻选手第一次参加国际比赛就赢了。",
+        "pinyin": "na4 ge5 nian2 qing1 xuan3 shou3 di4 yi1 ci4 can1 jia1 guo2 ji4 bi3 sai4 jiu4 ying2 le5"
+      }
+    ]
+  },
+  {
+    "word": "上来",
+    "examples": [
+      {
+        "zh": "你上来吧！",
+        "pinyin": "ni3 shang4 lai5 ba5"
+      },
+      {
+        "zh": "他从楼下走上来了。",
+        "pinyin": "ta1 cong2 lou2 xia4 zou3 shang5 lai5 le5"
+      },
+      {
+        "zh": "这个问题太难，我答不上来。",
+        "pinyin": "zhe4 ge5 wen4 ti2 tai4 nan2 wo3 da2 bu5 shang4 lai5"
+      },
+      {
+        "zh": "我在楼上等你，你买完东西就上来吧。",
+        "pinyin": "wo3 zai4 lou2 shang4 deng3 ni3 ni3 mai3 wan2 dong1 xi5 jiu4 shang4 lai5 ba5"
+      }
+    ]
+  },
+  {
+    "word": "咖啡",
+    "examples": [
+      {
+        "zh": "我喜欢喝咖啡。",
+        "pinyin": "wo3 xi3 huan5 he1 ka1 fei1"
+      },
+      {
+        "zh": "请给我一杯咖啡。",
+        "pinyin": "qing3 gei3 wo3 yi1 bei1 ka1 fei1"
+      },
+      {
+        "zh": "晚上喝咖啡，我会睡不着。",
+        "pinyin": "wan3 shang5 he1 ka1 fei1 wo3 hui4 shui4 bu5 zhao2"
+      },
+      {
+        "zh": "我们去公司旁边那家店喝咖啡吧。",
+        "pinyin": "wo3 men5 qu4 gong1 si1 pang2 bian1 na4 jia1 dian4 he1 ka1 fei1 ba5"
+      }
+    ]
+  },
+  {
+    "word": "现金",
+    "examples": [
+      {
+        "zh": "我没有现金。",
+        "pinyin": "wo3 mei2 you3 xian4 jin1"
+      },
+      {
+        "zh": "可以用现金吗？",
+        "pinyin": "ke3 yi3 yong4 xian4 jin1 ma5"
+      },
+      {
+        "zh": "这家商店只收现金。",
+        "pinyin": "zhe4 jia1 shang1 dian4 zhi3 shou1 xian4 jin1"
+      },
+      {
+        "zh": "现在很多中国人买东西都不用现金了。",
+        "pinyin": "xian4 zai4 hen3 duo1 zhong1 guo2 ren2 mai3 dong1 xi5 dou1 bu4 yong4 xian4 jin1 le5"
+      }
+    ]
+  }
+]

@@ -19,8 +19,8 @@ Diseño: `docs/superpowers/specs/2026-10-29-mandarin-ia-design.md` · Plan Fase 
    - [ ] `NEXT_PUBLIC_AUDIO_BASE_URL={SUPABASE_URL}/storage/v1/object/public/audio/` (con barra final).
 2. [ ] Prueba de audio: `audio --limit 5`.
 3. [x] Analizar las entradas en `review` (2026-11-22): ver `docs/analisis-review-2026-11-22.md`. El 74 % de los problemas es pinyin calculado por pypinyin; arreglarlo lleva al 91 %.
-   - [ ] Implementar el pinyin híbrido (Claude propone, CC-CEDICT valida) + sandhi de 一/不 en tono hablado; reprocesar ~600 palabras y re-revisar.
-   - [ ] Después: los ~160 casos sin pinyin (naturalidad, traducción, significado).
+   - [x] Pinyin híbrido + sandhi de 一/不 implementados y ejecutados (2026-11-22): **2268 palabras visibles (90,7 %)**, meta cumplida.
+   - [ ] Después: los ~254 issues que no son de pinyin (naturalidad, traducción, significado) y los 27 de pinyin restantes.
 4. [ ] Revisar 20 palabras al azar con Sergio.
 5. [ ] Audio completo: `audio` (~16 h a ≤18 clips/min, reanudable) → `build` → commit con `data/audio-manifest.json`.
 6. [ ] Tarea 11: despliegue en Vercel Hobby — **solo con aprobación de Sergio**; requiere `NEXT_PUBLIC_AUDIO_BASE_URL` en build.

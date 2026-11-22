@@ -1,0 +1,65 @@
+[
+  {
+    "id": "word:收听",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f9f9b990aba39530f88d868d9ab05acd0122640"
+  },
+  {
+    "id": "word:认出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f030fe102bce4fb7017c4238b29b5cd37a939b04"
+  },
+  {
+    "id": "word:卫生间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e75afaad41779bf3508bd43ae11f1c2d866e2d1"
+  },
+  {
+    "id": "word:红酒",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a19c5047fcbb2209e97442fc2fa6b0a057d9d76"
+  },
+  {
+    "id": "word:连续剧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ef25d0c6753cea015db1c50c657bb3d6eb98ea8"
+  },
+  {
+    "id": "word:工夫",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, con el sentido de 'esforzarse', la forma normativa actual es 下功夫. 下工夫 aparece en textos antiguos, pero no conviene enseñarlo como modelo."
+    ],
+    "content_hash": "d50f957c0c35e88f76eec298b9c4a34832c5be30"
+  },
+  {
+    "id": "word:初一",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: 初一 se lee chū yī, no 'chū yì'. En ordinales y fechas el 一 no cambia de tono.",
+      "Pinyin incorrecto en el ejemplo 4: debe ser chū yī, no 'chū yí'.",
+      "En el ejemplo 4, 他初一的时候 suena algo forzado; es más natural 他上初一的时候."
+    ],
+    "content_hash": "894b415f8e3df00b34258cfe1e33696054424649"
+  },
+  {
+    "id": "word:空儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce78aaa82c422040ec99b5536b25fc52c8f1e9e0"
+  },
+  {
+    "id": "word:老头儿",
+    "ok": false,
+    "issues": [
+      "老头儿 es coloquial y puede sonar poco respetuoso con desconocidos; traducirlo siempre como 'viejito' (afectuoso) no refleja ese matiz. Falta una nota de registro.",
+      "El ejemplo 1 (那个老头儿是我爷爷) llama 老头儿 al propio abuelo, lo que suena irreverente; sería más natural 那位老人是我爷爷 o 那个老爷爷是我爷爷."
+    ],
+    "content_hash": "14cd2723a2d3e00a877007965fbd096d21fefeb0"
+  }
+]

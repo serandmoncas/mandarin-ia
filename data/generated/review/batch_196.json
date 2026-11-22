@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:月",
+    "ok": true,
+    "issues": [],
+    "content_hash": "05edf15c983429b6c99a3117d7d4a9c1cf8732d5"
+  },
+  {
+    "id": "word:让",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b5f7dbf249360d57dac62c842e1d67a7c051289"
+  },
+  {
+    "id": "word:去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "579f6ca25c504d5b35aed0596b1ff8be24e74f3c"
+  },
+  {
+    "id": "word:之",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en 三分之一的人: debe ser 'zhī yī' (一 en fracciones no cambia de tono), no 'zhī yí'.",
+      "Los ejemplos (之后, 之前, 之一, 分之) no ilustran los significados listados ('de' literario, pronombre). Conviene añadir estos usos como significados o cambiar los ejemplos."
+    ],
+    "content_hash": "cde12a2eac779d52e4c401f711cc3e870974446a"
+  },
+  {
+    "id": "word:有的",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e2d3fa8e607f6b0b628d8395b3405ad51179fe9"
+  },
+  {
+    "id": "word:买",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e532be403ba392bf774b0b9f534068687c980f68"
+  },
+  {
+    "id": "word:女人",
+    "ok": false,
+    "issues": [
+      "El significado 'esposa (coloquial)' corresponde a la lectura nǚren (tono neutro), no a nǚ rén. CEDICT no lo da para esta lectura."
+    ],
+    "content_hash": "8d30c834c8b52742ae69e49a779949858a65d729"
+  },
+  {
+    "id": "word:多少",
+    "ok": false,
+    "issues": [
+      "El significado 'más o menos, algo' corresponde a la lectura duōshǎo (shao3), no a duō shao (shao5)."
+    ],
+    "content_hash": "30cd3512f465e87c84f87e839333f931909796b7"
+  },
+  {
+    "id": "word:万",
+    "ok": false,
+    "issues": [
+      "El pinyin de 一万 debería ser 'yí wàn' por sandhi tonal, para ser coherente con el resto del contenido (yí gè, etc.).",
+      "'muchísimo' es dudoso: como adverbio, 万 significa 'absolutamente/de ningún modo' (万不可) y no 'muchísimo'."
+    ],
+    "content_hash": "6dc2659a45b118f61edc19fe1b86487e077106ba"
+  },
+  {
+    "id": "word:市场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad5a93937cfa657ee10e6a877524aaa725908dc5"
+  },
+  {
+    "id": "word:过去",
+    "ok": false,
+    "issues": [
+      "En el uso verbal/direccional (你先过去) la pronunciación estándar es 'guò qu', con tono neutro, no 'guò qù'."
+    ],
+    "content_hash": "3696071a2eca20b8b0f6a860c9eaf377110d4c09"
+  },
+  {
+    "id": "word:山",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7cad4c29d4a85525a069820fb8096b78d40d1d9"
+  },
+  {
+    "id": "word:小姐",
+    "ok": false,
+    "issues": [
+      "王小姐是我的老师 es poco natural: a una maestra se le llama 王老师.",
+      "Usar 小姐 para dirigirse a una dependienta o mesera (ejemplos 1 y 3) puede resultar ofensivo en China continental por la connotación de 'prostituta'. Falta una advertencia de uso, o conviene cambiar los ejemplos (服务员, 你好)."
+    ],
+    "content_hash": "b18093a96d532c82a573c11181cdb69bcf578bf8"
+  },
+  {
+    "id": "word:没什么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f8d9ca270fc2666848d6f096c95d1b092af9127b"
+  },
+  {
+    "id": "word:肉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9734e141e6b08110426706ec48fe54b66089bf1"
+  },
+  {
+    "id": "word:课",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e31038ac956c2a428a198f5a58e1189dc4afd8be"
+  },
+  {
+    "id": "word:试",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07794b723b01abe7fc5b9a96d24e100a02e7620f"
+  },
+  {
+    "id": "word:杯",
+    "ok": false,
+    "issues": [
+      "妈妈给每个人一杯热水 suena poco natural; lo esperable es 给每个人倒了一杯热水. Además, sin 了 el tiempo pasado de la traducción no está marcado."
+    ],
+    "content_hash": "2fa244b9e2e44b00fac35d9eae121c7f45f9a0bf"
+  },
+  {
+    "id": "word:生日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7649f15856e2c9047caf95524b0ba6da3bc17ff9"
+  },
+  {
+    "id": "word:哪儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1eb53b4847ad00180e522a59389611c54688406"
+  },
+  {
+    "id": "word:一会儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e586c91c6f02acc6125c30fda2c33a0ee5237661"
+  },
+  {
+    "id": "word:这儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "19a82119c2a3c9f09f1cfa23a5035264e99e6edd"
+  },
+  {
+    "id": "word:那儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ecdd3b647af8d5a96a939a7d7cc2e633eebaccdd"
+  },
+  {
+    "id": "word:新年",
+    "ok": false,
+    "issues": [
+      "新年的时候，我们一家人吃饭 suena incompleta o poco natural; lo esperable es 一家人一起吃饭. La traducción añade 'junta', que no está en el chino."
+    ],
+    "content_hash": "57f5cabf5c48625ff8d8f1cff67392beba632f2b"
+  },
+  {
+    "id": "word:白天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0a4c4c2f4a2fd308ca217daf0691ce681933a19"
+  }
+]
