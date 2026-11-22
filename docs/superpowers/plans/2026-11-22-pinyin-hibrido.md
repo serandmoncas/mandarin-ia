@@ -29,7 +29,7 @@
 
 ---
 
-### Task 1: Sandhi de 一/不 (lo escribe Sergio)
+### Task 1: Sandhi de 一/不
 
 **Files:**
 - Create: `scripts/mandarin_pipeline/sandhi.py` (stub con `retone` ya hecho y `apply_yi_bu_sandhi` como TODO)
