@@ -21,6 +21,9 @@ Diseño: `docs/superpowers/specs/2026-10-29-mandarin-ia-design.md` · Plan Fase 
 3. [x] Analizar las entradas en `review` (2026-11-22): ver `docs/analisis-review-2026-11-22.md`. El 74 % de los problemas es pinyin calculado por pypinyin; arreglarlo lleva al 91 %.
    - [x] Pinyin híbrido + sandhi de 一/不 implementados y ejecutados (2026-11-22): **2268 palabras visibles (90,7 %)**, meta cumplida.
    - [ ] Después: los ~254 issues que no son de pinyin (naturalidad, traducción, significado) y los 27 de pinyin restantes.
+   - [ ] Tonos neutros por palabra CEDICT: 15 ejemplos visibles aún dicen 对不起 «duì bù qǐ» / 找不到 «zhǎo bú dào» (ver el análisis). Usar las lecturas de palabras CEDICT de la frase (jieba) para fijar los neutros.
+   - [ ] Antes de una tercera pasada `pinyin`: guardar en cada lote el hash de revisión que respondió, para que no vuelva a pedir palabras ya resueltas (hoy re-pide ~10).
+   - [ ] Menores diferidos de la revisión final: una palabra con `pinyin_fallback` nunca vuelve a ser objetivo; el erhua no se une en el camino de pypinyin; 儿 y el sandhi cruzan la puntuación; el orden de lotes falla después de `batch_999`; import local de `sandhi` en `sentence_pinyin` (ciclo por `_mark`); `_pinyin` repite la carga de CEDICT de `_review`.
 4. [ ] Revisar 20 palabras al azar con Sergio.
 5. [ ] Audio completo: `audio` (~16 h a ≤18 clips/min, reanudable) → `build` → commit con `data/audio-manifest.json`.
 6. [ ] Tarea 11: despliegue en Vercel Hobby — **solo con aprobación de Sergio**; requiere `NEXT_PUBLIC_AUDIO_BASE_URL` en build.
