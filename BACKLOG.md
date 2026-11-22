@@ -1,6 +1,6 @@
 # Backlog — mandarin-ia
 
-Última actualización: 2026-11-11. Rama de trabajo: `feat/fase-1-diccionario` (sin remoto todavía).
+Última actualización: 2026-11-22. Rama de trabajo: `feat/fase-1-diccionario`. Repo público: https://github.com/serandmoncas/mandarin-ia (código MIT, `data/` CC BY-SA 4.0).
 Diseño: `docs/superpowers/specs/2026-10-29-mandarin-ia-design.md` · Plan Fase 1: `docs/superpowers/plans/2026-10-29-fase-1-diccionario.md`.
 
 ## Estado de la Fase 1 (Diccionario)
@@ -22,7 +22,7 @@ Diseño: `docs/superpowers/specs/2026-10-29-mandarin-ia-design.md` · Plan Fase 
 4. [ ] Revisar 20 palabras al azar con Sergio.
 5. [ ] Audio completo: `audio` (~16 h a ≤18 clips/min, reanudable) → `build` → commit con `data/audio-manifest.json`.
 6. [ ] Tarea 11: despliegue en Vercel Hobby — **solo con aprobación de Sergio**; requiere `NEXT_PUBLIC_AUDIO_BASE_URL` en build.
-7. [ ] Integrar la rama: merge a `main` o PR (crear remoto en GitHub primero).
+7. [ ] Integrar la rama: PR #1 abierto el 2026-11-22; mergear cuando Sergio lo apruebe.
 8. [ ] Opcional (Sergio): reescribir `scoreMatch` en `src/lib/search/index.ts`.
 
 ## Fases siguientes (del diseño)

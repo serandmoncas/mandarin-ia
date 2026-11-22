@@ -1,0 +1,12 @@
+El contenido de este directorio (data/), incluido dictionary.json y los lotes en
+data/generated/, se distribuye bajo la licencia Creative Commons
+Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/deed.es
+
+Es una obra derivada de CC-CEDICT (CC BY-SA 4.0, https://www.mdbg.net/chinese/dictionary?page=cedict),
+por lo que debe compartirse bajo la misma licencia. También usa la lista HSK 3.0 de
+complete-hsk-vocabulary (MIT, Copyright (c) 2026 Yanis Zafirópulos) y frecuencias de
+SUBTLEX-CH (Cai y Brysbaert, 2010) vía wordfreq. Detalle de fuentes en SOURCES.md.
+
+Las traducciones, frases de ejemplo y explicaciones en español fueron generadas con IA
+(Claude) y revisadas automáticamente; pueden contener errores.
