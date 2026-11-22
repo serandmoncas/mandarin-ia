@@ -1,3 +1,5 @@
+import json
+
 from mandarin_pipeline.cedict import CedictEntry
 from mandarin_pipeline.checks import (
     apply_review,
@@ -5,9 +7,9 @@ from mandarin_pipeline.checks import (
     check_phrase,
     check_word,
     known_before_ratio,
+    load_checked_words,
     review_items_from,
 )
-from mandarin_pipeline.pinyin import sentence_pinyin
 from mandarin_pipeline.models import (
     CharContent,
     Component,
@@ -15,6 +17,7 @@ from mandarin_pipeline.models import (
     PhraseContent,
     WordContent,
 )
+from mandarin_pipeline.pinyin import sentence_pinyin
 
 
 def word(w, idx=0, meanings=("sentido",), examples=None):
@@ -158,7 +161,7 @@ MAMA = [CedictEntry("媽媽", "妈妈", "ma1 ma5", ["mom"])]
 MAMA_EXAMPLES = [
     GeneratedExample(zh=z, es="x") for z in ("我的妈妈", "她是妈妈", "妈妈是她", "我是妈妈")
 ]
-MAMA_READINGS = {"妈": {"ma"}, "我": {"wo"}, "的": {"de"}, "她": {"ta"}, "是": {"shi"}}
+MAMA_READINGS = {"妈": {"ma1", "ma5"}, "我": {"wo3"}, "的": {"de5", "di4"}, "她": {"ta1"}, "是": {"shi4"}}
 
 
 def test_check_word_uses_valid_proposal():
@@ -172,7 +175,7 @@ def test_check_word_uses_valid_proposal():
 def test_check_word_flags_invalid_proposal():
     proposals = {"我的妈妈": "xx3 de5 ma1 ma5"}
     r = check_word(word("妈妈", examples=MAMA_EXAMPLES), MAMA, set(), proposals, MAMA_READINGS)
-    assert r.examples[0].pinyin == "wǒ de mā mā"
+    assert r.examples[0].pinyin == sentence_pinyin("我的妈妈")[0]
     assert r.flags.count("pinyin_fallback") == 1
 
 
@@ -195,6 +198,34 @@ def test_review_hash_changes_with_new_pinyin():
         word("妈妈", examples=MAMA_EXAMPLES), MAMA, set(),
         {"我的妈妈": "wo3 de5 ma1 ma5"}, MAMA_READINGS,
     )
-    h = lambda w: review_items_from({"妈妈": w}, [], [])[0]["content_hash"]
+
+    def h(w):
+        return review_items_from({"妈妈": w}, [], [])[0]["content_hash"]
+
     assert before.examples[0].pinyin != after.examples[0].pinyin
     assert h(before) != h(after)
+
+
+def test_load_checked_words_reads_pinyin_batches_later_wins(tmp_path):
+    (tmp_path / "words").mkdir()
+    content = word("妈妈", examples=MAMA_EXAMPLES).model_dump(by_alias=True)
+    (tmp_path / "words" / "batch_000.json").write_text(json.dumps([content]), encoding="utf-8")
+    cedict = {"妈妈": MAMA}
+    for ch in "我的她是":
+        cedict[ch] = [CedictEntry(ch, ch, {"我": "wo3", "的": "de5", "她": "ta1", "是": "shi4"}[ch], ["x"])]
+    cedict["妈"] = [CedictEntry("媽", "妈", "ma1", ["mom"])]
+
+    def ex(py):
+        return [{"word": "妈妈", "examples": [{"zh": "我的妈妈", "pinyin": py}]}]
+
+    def first(words):
+        return words["妈妈"].examples[0].pinyin
+
+    assert first(load_checked_words(tmp_path, cedict, {"妈妈": 1})) == sentence_pinyin("我的妈妈")[0]
+    pdir = tmp_path / "pinyin"
+    pdir.mkdir()
+    (pdir / "batch_000.json").write_text(json.dumps(ex("wo3 de5 ma1 ma1")), encoding="utf-8")
+    (pdir / "batch_001.json").write_text(json.dumps(ex("wo3 de5 ma1 ma5")), encoding="utf-8")
+    words = load_checked_words(tmp_path, cedict, {"妈妈": 1})
+    assert first(words) == "wǒ de mā ma"
+    assert "pinyin_fallback" not in words["妈妈"].flags

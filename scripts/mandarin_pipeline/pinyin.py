@@ -95,7 +95,7 @@ def _normalize(syl: str) -> str:
 
 
 def char_readings(cedict: dict[str, list[CedictEntry]]) -> dict[str, set[str]]:
-    """Toneless bases (ü as v) of every known reading of each han character."""
+    """Numbered syllables (ü as v, e.g. "de2", "de5") of every known reading of each character."""
     readings: dict[str, set[str]] = {}
     for entries in cedict.values():
         for entry in entries:
@@ -104,17 +104,27 @@ def char_readings(cedict: dict[str, list[CedictEntry]]) -> dict[str, set[str]]:
                 continue
             for ch, syl in zip(entry.simplified, syls):
                 if _is_han(ch):
-                    readings.setdefault(ch, set()).add(_split_tone(_normalize(syl))[0])
+                    base, tone = _split_tone(_normalize(syl))
+                    readings.setdefault(ch, set()).add(f"{base}{tone}")
     for ch in set(readings) | {c for c in cedict if len(c) == 1 and _is_han(c)}:
-        for item in pinyin(ch, style=Style.NORMAL, heteronym=True):
-            readings.setdefault(ch, set()).update(_normalize(r) for r in item)
+        for item in pinyin(ch, style=Style.TONE3, neutral_tone_with_five=True, heteronym=True):
+            for r in item:
+                base, tone = _split_tone(_normalize(r))
+                readings.setdefault(ch, set()).add(f"{base}{tone}")
     return readings
+
+
+# 一 and 不 are validated with their dictionary tone; sandhi alone decides the spoken one.
+_DICTIONARY_TONE = {"一": 1, "不": 4}
 
 
 def validate_numbered(
     zh: str, numbered: str, readings: dict[str, set[str]]
 ) -> list[Syllable] | None:
-    """Accept proposed numbered pinyin only if each syllable is a real reading of its character."""
+    """Accept proposed numbered pinyin only if each syllable is a real reading of its character.
+
+    Tones 1-4 must match a known numbered reading; tone 5 only needs a known base.
+    """
     han = [ch for ch in zh if _is_han(ch)]
     parts = numbered.split()
     if len(han) != len(parts):
@@ -122,10 +132,16 @@ def validate_numbered(
     out = []
     for i, (ch, part) in enumerate(zip(han, parts)):
         base, tone = _split_tone(_normalize(part))
+        tone = _DICTIONARY_TONE.get(ch, tone)
         if ch == "儿" and base == "r" and i > 0:
             out.append(Syllable(hanzi=ch, pinyin="r", tone=5))
             continue
-        if base not in readings.get(ch, set()):
+        known = readings.get(ch, set())
+        if tone == 5:
+            ok = any(r[:-1] == base for r in known)
+        else:
+            ok = f"{base}{tone}" in known
+        if not ok:
             return None
         out.append(Syllable(hanzi=ch, pinyin=_mark(base, tone), tone=tone))
     return out

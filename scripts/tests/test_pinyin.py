@@ -42,8 +42,10 @@ def test_sentence_pinyin_leaves_punctuation_without_syllable():
     assert syl[0].tone == 3
 
 
-R = {"妈": {"ma"}, "我": {"wo"}, "吃": {"chi"}, "得": {"de", "dei"}, "快": {"kuai"},
-     "活": {"huo"}, "儿": {"er"}, "女": {"nv"}, "有": {"you"}, "个": {"ge"}}
+R = {"妈": {"ma1", "ma5"}, "我": {"wo3"}, "吃": {"chi1"}, "得": {"de2", "de5", "dei3"},
+     "快": {"kuai4"}, "活": {"huo2"}, "儿": {"er2"}, "女": {"nv3"}, "有": {"you3"},
+     "个": {"ge4", "ge5"}, "一": {"yi1", "yi2", "yi4"}, "不": {"bu4", "bu2"}, "天": {"tian1"},
+     "好": {"hao3", "hao4"}}
 
 
 def test_validate_accepts_neutral_tone():
@@ -53,6 +55,15 @@ def test_validate_accepts_neutral_tone():
 
 def test_validate_accepts_contextual_reading():
     assert [x.pinyin for x in validate_numbered("吃得快", "chi1 de5 kuai4", R)] == ["chī", "de", "kuài"]
+
+
+def test_validate_rejects_wrong_tone():
+    assert validate_numbered("妈妈", "ma3 ma3", R) is None
+    assert validate_numbered("妈妈", "ma1 ma5", R) is not None
+
+
+def test_validate_normalizes_yi_bu_to_dictionary_tone():
+    assert [x.tone for x in validate_numbered("一不", "yi2 bu2", R)] == [1, 4]
 
 
 def test_validate_rejects_unknown_base():
@@ -80,4 +91,14 @@ def test_validate_erhua():
 def test_char_readings_includes_multichar_entries():
     cedict = parse_cedict(["媽媽 妈妈 [ma1 ma5] /mom/", "得 得 [de2] /to obtain/"])
     r = char_readings(cedict)
-    assert "ma" in r["妈"] and {"de", "dei"} <= r["得"]
+    assert {"ma1", "ma5"} <= r["妈"] and {"de2", "de5", "dei3"} <= r["得"]
+
+
+def test_sentence_pinyin_sandhi_decides_yi_bu_over_proposal():
+    for zh, proposed, expected in [
+        ("一天", "yi2 tian1", "yì tiān"),
+        ("不好", "bu2 hao3", "bù hǎo"),
+        ("一个", "yi2 ge4", "yí gè"),
+    ]:
+        text, _, fell_back = sentence_pinyin(zh, proposed, R)
+        assert (text, fell_back) == (expected, False)
