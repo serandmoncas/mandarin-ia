@@ -1,6 +1,6 @@
 {
-  "version": "202611221628",
-  "generatedAt": "2026-11-22T16:28:12Z",
+  "version": "202611221633",
+  "generatedAt": "2026-11-22T16:33:05Z",
   "words": [
     {
       "id": "的",
@@ -154509,7 +154509,7 @@
       "examples": [
         {
           "zh": "对不起，我来晚了。",
-          "pinyin": "duì bù qǐ wǒ lái wǎn le",
+          "pinyin": "duì bu qǐ wǒ lái wǎn le",
           "syllables": [
             {
               "hanzi": "对",
@@ -154518,8 +154518,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -154553,7 +154553,7 @@
         },
         {
           "zh": "对不起，请问机场怎么走？",
-          "pinyin": "duì bù qǐ qǐng wèn jī chǎng zěn me zǒu",
+          "pinyin": "duì bu qǐ qǐng wèn jī chǎng zěn me zǒu",
           "syllables": [
             {
               "hanzi": "对",
@@ -154562,8 +154562,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -154612,7 +154612,7 @@
         },
         {
           "zh": "对不起，我忘记你的生日了。",
-          "pinyin": "duì bù qǐ wǒ wàng jì nǐ de shēng rì le",
+          "pinyin": "duì bu qǐ wǒ wàng jì nǐ de shēng rì le",
           "syllables": [
             {
               "hanzi": "对",
@@ -154621,8 +154621,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -154676,7 +154676,7 @@
         },
         {
           "zh": "我觉得对不起妈妈，因为我没有好好学习。",
-          "pinyin": "wǒ jué de duì bù qǐ mā ma yīn wèi wǒ méi yǒu hǎo hǎo xué xí",
+          "pinyin": "wǒ jué de duì bu qǐ mā ma yīn wèi wǒ méi yǒu hǎo hǎo xué xí",
           "syllables": [
             {
               "hanzi": "我",
@@ -154700,8 +154700,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -154769,10 +154769,8 @@
           "audio": null
         }
       ],
-      "status": "generated",
-      "flags": [
-        "review:Pinyin de los ejemplos: «duì bù qǐ» contradice la lectura de la palabra (dui4 bu5 qi3); debe ser «duì bu qǐ»."
-      ]
+      "status": "auto_checked",
+      "flags": []
     },
     {
       "id": "见面",
@@ -156522,7 +156520,7 @@
         },
         {
           "zh": "对不起，我没听见你说什么。",
-          "pinyin": "duì bù qǐ wǒ méi tīng jiàn nǐ shuō shén me",
+          "pinyin": "duì bu qǐ wǒ méi tīng jiàn nǐ shuō shén me",
           "syllables": [
             {
               "hanzi": "对",
@@ -156531,8 +156529,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -185062,7 +185060,7 @@
       "examples": [
         {
           "zh": "对不起！——没关系。",
-          "pinyin": "duì bù qǐ méi guān xi",
+          "pinyin": "duì bu qǐ méi guān xi",
           "syllables": [
             {
               "hanzi": "对",
@@ -185071,8 +185069,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -238752,7 +238750,7 @@
         },
         {
           "zh": "对不起！没事儿。",
-          "pinyin": "duì bù qǐ méi shìr",
+          "pinyin": "duì bu qǐ méi shìr",
           "syllables": [
             {
               "hanzi": "对",
@@ -238761,8 +238759,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -245343,7 +245341,7 @@
         },
         {
           "zh": "我找不到我的手机。",
-          "pinyin": "wǒ zhǎo bú dào wǒ de shǒu jī",
+          "pinyin": "wǒ zhǎo bu dào wǒ de shǒu jī",
           "syllables": [
             {
               "hanzi": "我",
@@ -245357,8 +245355,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bú",
-              "tone": 2
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "到",
@@ -245521,8 +245519,7 @@
       ],
       "status": "generated",
       "flags": [
-        "review:El ejemplo «我找不到我的手机» no muestra la palabra 不到 («menos de / no alcanzar»). Ahí es el complemento potencial 找不到 («no poder encontrar»), así que confunde al estudiante.",
-        "review:En ese complemento potencial, 不 va en tono neutro: «zhǎo bu dào», no «zhǎo bú dào»."
+        "review:El ejemplo 我找不到我的手机 no usa la palabra 不到 con los sentidos listados: es el complemento potencial de 找到 (找+不+到, 'no poder encontrar'), y puede confundir al estudiante."
       ]
     },
     {
@@ -306058,7 +306055,7 @@
         },
         {
           "zh": "你信不信他说的话？",
-          "pinyin": "nǐ xìn bú xìn tā shuō de huà",
+          "pinyin": "nǐ xìn bu xìn tā shuō de huà",
           "syllables": [
             {
               "hanzi": "你",
@@ -306072,8 +306069,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bú",
-              "tone": 2
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "信",
@@ -311785,7 +311782,7 @@
         },
         {
           "zh": "无论下不下雨，比赛都会继续进行。",
-          "pinyin": "wú lùn xià bú xià yǔ bǐ sài dōu huì jì xù jìn xíng",
+          "pinyin": "wú lùn xià bu xià yǔ bǐ sài dōu huì jì xù jìn xíng",
           "syllables": [
             {
               "hanzi": "无",
@@ -311804,8 +311801,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bú",
-              "tone": 2
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "下",
@@ -311940,7 +311937,7 @@
         },
         {
           "zh": "你数一数这里有几个人。",
-          "pinyin": "nǐ shǔ yì shǔ zhè lǐ yǒu jǐ gè rén",
+          "pinyin": "nǐ shǔ yi shǔ zhè lǐ yǒu jǐ gè rén",
           "syllables": [
             {
               "hanzi": "你",
@@ -311954,8 +311951,8 @@
             },
             {
               "hanzi": "一",
-              "pinyin": "yì",
-              "tone": 4
+              "pinyin": "yi",
+              "tone": 5
             },
             {
               "hanzi": "数",
@@ -312121,11 +312118,8 @@
           "audio": null
         }
       ],
-      "status": "generated",
-      "flags": [
-        "review:Ejemplo 1: en «从一数到十» el 一 es un número que se cuenta y se pronuncia «yī», sin sandhi; el pinyin «yì» es incorrecto.",
-        "review:Ejemplo 2: en «数一数» el 一 va en tono neutro («shǔ yi shǔ»), no «yì»."
-      ]
+      "status": "auto_checked",
+      "flags": []
     },
     {
       "id": "限制",
@@ -322281,7 +322275,7 @@
         },
         {
           "zh": "这本书太难了，我看不懂。",
-          "pinyin": "zhè běn shū tài nán le wǒ kàn bù dǒng",
+          "pinyin": "zhè běn shū tài nán le wǒ kàn bu dǒng",
           "syllables": [
             {
               "hanzi": "这",
@@ -322325,8 +322319,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "懂",
@@ -322340,7 +322334,7 @@
         },
         {
           "zh": "他说得太快了，我一句也听不懂。",
-          "pinyin": "tā shuō de tài kuài le wǒ yí jù yě tīng bù dǒng",
+          "pinyin": "tā shuō de tài kuài le wǒ yí jù yě tīng bu dǒng",
           "syllables": [
             {
               "hanzi": "他",
@@ -322399,8 +322393,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "懂",
@@ -371324,7 +371318,7 @@
         },
         {
           "zh": "山上的信号很差，打不了电话。",
-          "pinyin": "shān shàng de xìn hào hěn chà dǎ bù liǎo diàn huà",
+          "pinyin": "shān shàng de xìn hào hěn chà dǎ bu liǎo diàn huà",
           "syllables": [
             {
               "hanzi": "山",
@@ -371368,8 +371362,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "了",
@@ -371473,7 +371467,7 @@
       ],
       "status": "generated",
       "flags": [
-        "review:4.º ejemplo poco natural: «他用手给我一个信号» no marca pasado y suena forzado. Mejor «他用手给我打了个信号/手势，让我别说话», con el pinyin ajustado."
+        "review:El ejemplo 他用手给我一个信号 suena poco natural: para un hecho pasado falta 了 (给了我一个信号), y lo habitual es 用手给我打了个手势 o 用手示意."
       ]
     },
     {
@@ -377003,7 +376997,7 @@
         },
         {
           "zh": "电话打不通。",
-          "pinyin": "diàn huà dǎ bù tōng",
+          "pinyin": "diàn huà dǎ bu tōng",
           "syllables": [
             {
               "hanzi": "电",
@@ -377022,8 +377016,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "通",
@@ -377161,7 +377155,8 @@
       ],
       "status": "generated",
       "flags": [
-        "review:En «他昨天给我打了一通电话» el pinyin «yí tòng» es incorrecto: como clasificador de llamadas se lee tōng («yì tōng diàn huà»)."
+        "review:En 一通电话 el pinyin aparece como 'yí tòng', lo que no coincide con la lectura tong1 de la entrada. Para llamadas suele leerse 'yì tōng'; la lectura tòng corresponde al clasificador de acciones (说了一通).",
+        "review:'Este camino no tiene salida' es una traducción algo restrictiva de 这条路不通; también significa 'está cortado o no se puede pasar'."
       ]
     },
     {
@@ -446577,7 +446572,7 @@
       "examples": [
         {
           "zh": "对不起，我不是故意的。",
-          "pinyin": "duì bù qǐ wǒ bú shì gù yì de",
+          "pinyin": "duì bu qǐ wǒ bú shì gù yì de",
           "syllables": [
             {
               "hanzi": "对",
@@ -446586,8 +446581,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -468736,7 +468731,7 @@
         },
         {
           "zh": "我的护照找不到了。",
-          "pinyin": "wǒ de hù zhào zhǎo bú dào le",
+          "pinyin": "wǒ de hù zhào zhǎo bu dào le",
           "syllables": [
             {
               "hanzi": "我",
@@ -468765,8 +468760,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bú",
-              "tone": 2
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "到",
@@ -472078,7 +472073,7 @@
         },
         {
           "zh": "他的头碰到了门，疼得说不出话来。",
-          "pinyin": "tā de tóu pèng dào le mén téng de shuō bù chū huà lái",
+          "pinyin": "tā de tóu pèng dào le mén téng de shuō bu chū huà lái",
           "syllables": [
             {
               "hanzi": "他",
@@ -472132,8 +472127,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "出",
@@ -528409,7 +528404,7 @@
         },
         {
           "zh": "对不起，给你带来麻烦了。",
-          "pinyin": "duì bù qǐ gěi nǐ dài lái má fan le",
+          "pinyin": "duì bu qǐ gěi nǐ dài lái má fan le",
           "syllables": [
             {
               "hanzi": "对",
@@ -528418,8 +528413,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -528551,8 +528546,10 @@
           "audio": null
         }
       ],
-      "status": "auto_checked",
-      "flags": []
+      "status": "generated",
+      "flags": [
+        "review:'¡Qué lata!' es coloquial regional (México y Chile), no español neutro. Mejor '¡Qué complicado!' o '¡Qué fastidio!'."
+      ]
     },
     {
       "id": "叫作",
@@ -563296,7 +563293,7 @@
         },
         {
           "zh": "这个问题太难，我答不上来。",
-          "pinyin": "zhè ge wèn tí tài nán wǒ dá bú shàng lai",
+          "pinyin": "zhè ge wèn tí tài nán wǒ dá bu shàng lai",
           "syllables": [
             {
               "hanzi": "这",
@@ -563340,8 +563337,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bú",
-              "tone": 2
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "上",
@@ -567730,7 +567727,7 @@
         },
         {
           "zh": "晚上喝咖啡，我会睡不着。",
-          "pinyin": "wǎn shang hē kā fēi wǒ huì shuì bù zháo",
+          "pinyin": "wǎn shang hē kā fēi wǒ huì shuì bu zháo",
           "syllables": [
             {
               "hanzi": "晚",
@@ -567774,8 +567771,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "着",
@@ -588299,7 +588296,7 @@
         },
         {
           "zh": "他跑得很快，我赶不上他。",
-          "pinyin": "tā pǎo de hěn kuài wǒ gǎn bú shàng tā",
+          "pinyin": "tā pǎo de hěn kuài wǒ gǎn bu shàng tā",
           "syllables": [
             {
               "hanzi": "他",
@@ -588338,8 +588335,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bú",
-              "tone": 2
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "上",
@@ -604235,7 +604232,7 @@
         },
         {
           "zh": "他身体不好，医生说要多吃点东西补一补。",
-          "pinyin": "tā shēn tǐ bù hǎo yī shēng shuō yào duō chī diǎn dōng xi bǔ yì bǔ",
+          "pinyin": "tā shēn tǐ bù hǎo yī shēng shuō yào duō chī diǎn dōng xi bǔ yi bǔ",
           "syllables": [
             {
               "hanzi": "他",
@@ -604314,8 +604311,8 @@
             },
             {
               "hanzi": "一",
-              "pinyin": "yì",
-              "tone": 4
+              "pinyin": "yi",
+              "tone": 5
             },
             {
               "hanzi": "补",
@@ -611677,7 +611674,7 @@
         },
         {
           "zh": "他自觉做得不对，就向朋友说了对不起。",
-          "pinyin": "tā zì jué zuò de bú duì jiù xiàng péng you shuō le duì bù qǐ",
+          "pinyin": "tā zì jué zuò de bú duì jiù xiàng péng you shuō le duì bu qǐ",
           "syllables": [
             {
               "hanzi": "他",
@@ -611751,8 +611748,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
@@ -614615,7 +614612,7 @@
         },
         {
           "zh": "东西太贵了，很多老百姓都买不起。",
-          "pinyin": "dōng xi tài guì le hěn duō lǎo bǎi xìng dōu mǎi bù qǐ",
+          "pinyin": "dōng xi tài guì le hěn duō lǎo bǎi xìng dōu mǎi bu qǐ",
           "syllables": [
             {
               "hanzi": "东",
@@ -614679,8 +614676,8 @@
             },
             {
               "hanzi": "不",
-              "pinyin": "bù",
-              "tone": 4
+              "pinyin": "bu",
+              "tone": 5
             },
             {
               "hanzi": "起",
