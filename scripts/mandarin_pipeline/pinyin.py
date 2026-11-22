@@ -141,10 +141,13 @@ def validate_numbered(
     out = []
     for i, (ch, part) in enumerate(zip(han, parts)):
         base, tone = _split_tone(_normalize(part))
-        tone = _DICTIONARY_TONE.get(ch, tone)
         if ch == "儿" and base == "r" and i > 0:
             out.append(Syllable(hanzi=ch, pinyin="r", tone=5))
             continue
+        if part[-1] not in "12345":
+            return None
+        if tone != 5:  # a neutral 一/不 stays neutral; otherwise sandhi decides
+            tone = _DICTIONARY_TONE.get(ch, tone)
         known = readings.get(ch, set())
         if tone == 5:
             ok = any(r[:-1] == base for r in known)

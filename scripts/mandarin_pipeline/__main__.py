@@ -37,7 +37,7 @@ from mandarin_pipeline.build import (
 from mandarin_pipeline.checks import _load_dir, build_review_items, load_checked_words
 from mandarin_pipeline.frequency import top_frequency_words, word_frequency
 from mandarin_pipeline.hsk import load_hsk
-from mandarin_pipeline.models import CharContent, PhraseContent, WordContent, WordPinyin
+from mandarin_pipeline.models import CharContent, PhraseContent, WordContent
 from mandarin_pipeline.order import Candidate, learning_order, select_candidates, write_candidates
 from mandarin_pipeline.sources import download_sources
 from mandarin_pipeline.tts import (

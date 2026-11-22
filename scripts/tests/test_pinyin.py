@@ -104,6 +104,21 @@ def test_sentence_pinyin_sandhi_decides_yi_bu_over_proposal():
         assert (text, fell_back) == (expected, False)
 
 
+def test_sentence_pinyin_keeps_neutral_yi_bu():
+    readings = {**R, "对": {"dui4"}, "起": {"qi3"}, "看": {"kan4"}}
+    for zh, proposed, expected in [
+        ("对不起", "dui4 bu5 qi3", "duì bu qǐ"),
+        ("看一看", "kan4 yi5 kan4", "kàn yi kàn"),
+    ]:
+        text, _, fell_back = sentence_pinyin(zh, proposed, readings)
+        assert (text, fell_back) == (expected, False)
+
+
+def test_validate_rejects_proposal_without_tone_digits():
+    assert validate_numbered("我好", "wo hao", R) is None
+    assert validate_numbered("我", "wo", R) is None
+
+
 def test_sentence_pinyin_joins_erhua_in_text_only():
     text, syllables, fell_back = sentence_pinyin("那儿", "na4 r5", {**R, "那": {"na4"}})
     assert text == "nàr"
