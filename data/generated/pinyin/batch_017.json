@@ -1,0 +1,422 @@
+[
+  {
+    "word": "空气",
+    "examples": [
+      {
+        "zh": "这里的空气很好。",
+        "pinyin": "zhe4 li3 de5 kong1 qi4 hen3 hao3"
+      },
+      {
+        "zh": "早上的空气特别干净。",
+        "pinyin": "zao3 shang5 de5 kong1 qi4 te4 bie2 gan1 jing4"
+      },
+      {
+        "zh": "城市里车太多，空气不太好。",
+        "pinyin": "cheng2 shi4 li3 che1 tai4 duo1 kong1 qi4 bu4 tai4 hao3"
+      },
+      {
+        "zh": "我们应该保护环境，让空气变得更干净。",
+        "pinyin": "wo3 men5 ying1 gai1 bao3 hu4 huan2 jing4 rang4 kong1 qi4 bian4 de5 geng4 gan1 jing4"
+      }
+    ]
+  },
+  {
+    "word": "轻",
+    "examples": [
+      {
+        "zh": "这个包很轻。",
+        "pinyin": "zhe4 ge4 bao1 hen3 qing1"
+      },
+      {
+        "zh": "请你说话轻一点。",
+        "pinyin": "qing3 ni3 shuo1 hua4 qing1 yi1 dian3"
+      },
+      {
+        "zh": "他的病不轻，需要去医院。",
+        "pinyin": "ta1 de5 bing4 bu4 qing1 xu1 yao4 qu4 yi1 yuan4"
+      },
+      {
+        "zh": "他轻轻地打开门，走进了房间。",
+        "pinyin": "ta1 qing1 qing1 de5 da3 kai1 men2 zou3 jin4 le5 fang2 jian1"
+      }
+    ]
+  },
+  {
+    "word": "草",
+    "examples": [
+      {
+        "zh": "地上有很多草。",
+        "pinyin": "di4 shang4 you3 hen3 duo1 cao3"
+      },
+      {
+        "zh": "马喜欢吃草。",
+        "pinyin": "ma3 xi3 huan5 chi1 cao3"
+      },
+      {
+        "zh": "公园里的草是绿色的。",
+        "pinyin": "gong1 yuan2 li3 de5 cao3 shi4 lv4 se4 de5"
+      },
+      {
+        "zh": "下雨以后，山上的草长得很快。",
+        "pinyin": "xia4 yu3 yi3 hou4 shan1 shang4 de5 cao3 zhang3 de5 hen3 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "成长",
+    "examples": [
+      {
+        "zh": "孩子成长得很快。",
+        "pinyin": "hai2 zi5 cheng2 zhang3 de5 hen3 kuai4"
+      },
+      {
+        "zh": "我是在北京成长的。",
+        "pinyin": "wo3 shi4 zai4 bei3 jing1 cheng2 zhang3 de5"
+      },
+      {
+        "zh": "父母都希望孩子健康成长。",
+        "pinyin": "fu4 mu3 dou1 xi1 wang4 hai2 zi5 jian4 kang1 cheng2 zhang3"
+      },
+      {
+        "zh": "这次失败让他成长了很多，他现在更努力了。",
+        "pinyin": "zhe4 ci4 shi1 bai4 rang4 ta1 cheng2 zhang3 le5 hen3 duo1 ta1 xian4 zai4 geng4 nu3 li4 le5"
+      }
+    ]
+  },
+  {
+    "word": "旅行",
+    "examples": [
+      {
+        "zh": "我喜欢旅行。",
+        "pinyin": "wo3 xi3 huan5 lv3 xing2"
+      },
+      {
+        "zh": "明年我们去日本旅行。",
+        "pinyin": "ming2 nian2 wo3 men5 qu4 ri4 ben3 lv3 xing2"
+      },
+      {
+        "zh": "这次旅行我们玩得很开心。",
+        "pinyin": "zhe4 ci4 lv3 xing2 wo3 men5 wan2 de5 hen3 kai1 xin1"
+      },
+      {
+        "zh": "他一个人旅行了三个月，认识了很多新朋友。",
+        "pinyin": "ta1 yi1 ge4 ren2 lv3 xing2 le5 san1 ge4 yue4 ren4 shi5 le5 hen3 duo1 xin1 peng2 you5"
+      }
+    ]
+  },
+  {
+    "word": "猫",
+    "examples": [
+      {
+        "zh": "我有一只猫。",
+        "pinyin": "wo3 you3 yi1 zhi1 mao1"
+      },
+      {
+        "zh": "这只猫很可爱。",
+        "pinyin": "zhe4 zhi1 mao1 hen3 ke3 ai4"
+      },
+      {
+        "zh": "我的猫喜欢在床上睡觉。",
+        "pinyin": "wo3 de5 mao1 xi3 huan5 zai4 chuang2 shang4 shui4 jiao4"
+      },
+      {
+        "zh": "妹妹想要一只猫，但是妈妈说家里太小了。",
+        "pinyin": "mei4 mei5 xiang3 yao4 yi1 zhi1 mao1 dan4 shi4 ma1 ma5 shuo1 jia1 li3 tai4 xiao3 le5"
+      }
+    ]
+  },
+  {
+    "word": "快速",
+    "examples": [
+      {
+        "zh": "这是一种快速的方法。",
+        "pinyin": "zhe4 shi4 yi1 zhong3 kuai4 su4 de5 fang1 fa3"
+      },
+      {
+        "zh": "他快速地看了一下这本书。",
+        "pinyin": "ta1 kuai4 su4 de5 kan4 le5 yi1 xia4 zhe4 ben3 shu1"
+      },
+      {
+        "zh": "我们需要快速解决这个问题。",
+        "pinyin": "wo3 men5 xu1 yao4 kuai4 su4 jie3 jue2 zhe4 ge4 wen4 ti2"
+      },
+      {
+        "zh": "这几年中国的城市快速发展，变化非常大。",
+        "pinyin": "zhe4 ji3 nian2 zhong1 guo2 de5 cheng2 shi4 kuai4 su4 fa1 zhan3 bian4 hua4 fei1 chang2 da4"
+      }
+    ]
+  },
+  {
+    "word": "男子",
+    "examples": [
+      {
+        "zh": "一名男子在门口等你。",
+        "pinyin": "yi1 ming2 nan2 zi3 zai4 men2 kou3 deng3 ni3"
+      },
+      {
+        "zh": "他参加了男子足球比赛。",
+        "pinyin": "ta1 can1 jia1 le5 nan2 zi3 zu2 qiu2 bi3 sai4"
+      },
+      {
+        "zh": "警察说，那名男子已经离开了。",
+        "pinyin": "jing3 cha2 shuo1 na4 ming2 nan2 zi3 yi3 jing1 li2 kai1 le5"
+      },
+      {
+        "zh": "昨天下午一名年轻男子在银行门口被警察抓了。",
+        "pinyin": "zuo2 tian1 xia4 wu3 yi1 ming2 nian2 qing1 nan2 zi3 zai4 yin2 hang2 men2 kou3 bei4 jing3 cha2 zhua1 le5"
+      }
+    ]
+  },
+  {
+    "word": "流",
+    "examples": [
+      {
+        "zh": "河水向东流。",
+        "pinyin": "he2 shui3 xiang4 dong1 liu2"
+      },
+      {
+        "zh": "水从山上流下来。",
+        "pinyin": "shui3 cong2 shan1 shang4 liu2 xia4 lai5"
+      },
+      {
+        "zh": "他的手流血了，快送他去医院。",
+        "pinyin": "ta1 de5 shou3 liu2 xue4 le5 kuai4 song4 ta1 qu4 yi1 yuan4"
+      },
+      {
+        "zh": "时间过得很快，就像河水一样流走了。",
+        "pinyin": "shi2 jian1 guo4 de5 hen3 kuai4 jiu4 xiang4 he2 shui3 yi1 yang4 liu2 zou3 le5"
+      }
+    ]
+  },
+  {
+    "word": "鸟",
+    "examples": [
+      {
+        "zh": "这只鸟很漂亮。",
+        "pinyin": "zhe4 zhi1 niao3 hen3 piao4 liang5"
+      },
+      {
+        "zh": "树上有一只鸟。",
+        "pinyin": "shu4 shang4 you3 yi1 zhi1 niao3"
+      },
+      {
+        "zh": "早上我听见鸟在外边唱歌。",
+        "pinyin": "zao3 shang5 wo3 ting1 jian4 niao3 zai4 wai4 bian5 chang4 ge1"
+      },
+      {
+        "zh": "我爷爷很喜欢鸟，每天早上都去公园看鸟。",
+        "pinyin": "wo3 ye2 ye5 hen3 xi3 huan5 niao3 mei3 tian1 zao3 shang5 dou1 qu4 gong1 yuan2 kan4 niao3"
+      }
+    ]
+  },
+  {
+    "word": "表演",
+    "examples": [
+      {
+        "zh": "他的表演很好。",
+        "pinyin": "ta1 de5 biao3 yan3 hen3 hao3"
+      },
+      {
+        "zh": "晚上我们去看表演吧。",
+        "pinyin": "wan3 shang5 wo3 men5 qu4 kan4 biao3 yan3 ba5"
+      },
+      {
+        "zh": "孩子们在学校表演了一个节目。",
+        "pinyin": "hai2 zi5 men5 zai4 xue2 xiao4 biao3 yan3 le5 yi1 ge4 jie2 mu4"
+      },
+      {
+        "zh": "这次表演很成功，大家都觉得他唱得非常好。",
+        "pinyin": "zhe4 ci4 biao3 yan3 hen3 cheng2 gong1 da4 jia1 dou1 jue2 de5 ta1 chang4 de5 fei1 chang2 hao3"
+      }
+    ]
+  },
+  {
+    "word": "鸡",
+    "examples": [
+      {
+        "zh": "我喜欢吃鸡肉。",
+        "pinyin": "wo3 xi3 huan5 chi1 ji1 rou4"
+      },
+      {
+        "zh": "奶奶家有很多鸡。",
+        "pinyin": "nai3 nai5 jia1 you3 hen3 duo1 ji1"
+      },
+      {
+        "zh": "这只鸡每天都下一个蛋。",
+        "pinyin": "zhe4 zhi1 ji1 mei3 tian1 dou1 xia4 yi1 ge4 dan4"
+      },
+      {
+        "zh": "今天晚饭妈妈做了鸡，大家都说很好吃。",
+        "pinyin": "jin1 tian1 wan3 fan4 ma1 ma5 zuo4 le5 ji1 da4 jia1 dou1 shuo1 hen3 hao3 chi1"
+      }
+    ]
+  },
+  {
+    "word": "复杂",
+    "examples": [
+      {
+        "zh": "这个问题很复杂。",
+        "pinyin": "zhe4 ge4 wen4 ti2 hen3 fu4 za2"
+      },
+      {
+        "zh": "这个故事太复杂了。",
+        "pinyin": "zhe4 ge4 gu4 shi5 tai4 fu4 za2 le5"
+      },
+      {
+        "zh": "他的家庭关系比较复杂。",
+        "pinyin": "ta1 de5 jia1 ting2 guan1 xi4 bi3 jiao4 fu4 za2"
+      },
+      {
+        "zh": "情况比我们想的复杂得多。",
+        "pinyin": "qing2 kuang4 bi3 wo3 men5 xiang3 de5 fu4 za2 de5 duo1"
+      }
+    ]
+  },
+  {
+    "word": "主人",
+    "examples": [
+      {
+        "zh": "这只狗的主人是谁？",
+        "pinyin": "zhe4 zhi1 gou3 de5 zhu3 ren2 shi4 shei2"
+      },
+      {
+        "zh": "主人请我们吃饭。",
+        "pinyin": "zhu3 ren2 qing3 wo3 men5 chi1 fan4"
+      },
+      {
+        "zh": "这个房子的主人住在上海。",
+        "pinyin": "zhe4 ge4 fang2 zi5 de5 zhu3 ren2 zhu4 zai4 shang4 hai3"
+      },
+      {
+        "zh": "猫看到主人回家，就跑到门口。",
+        "pinyin": "mao1 kan4 dao4 zhu3 ren2 hui2 jia1 jiu4 pao3 dao4 men2 kou3"
+      }
+    ]
+  },
+  {
+    "word": "明确",
+    "examples": [
+      {
+        "zh": "他的目标很明确。",
+        "pinyin": "ta1 de5 mu4 biao1 hen3 ming2 que4"
+      },
+      {
+        "zh": "请你说得明确一点。",
+        "pinyin": "qing3 ni3 shuo1 de5 ming2 que4 yi1 dian3"
+      },
+      {
+        "zh": "公司还没有明确的计划。",
+        "pinyin": "gong1 si1 hai2 mei2 you3 ming2 que4 de5 ji4 hua4"
+      },
+      {
+        "zh": "老师明确告诉我们明天要考试。",
+        "pinyin": "lao3 shi1 ming2 que4 gao4 su5 wo3 men5 ming2 tian1 yao4 kao3 shi4"
+      }
+    ]
+  },
+  {
+    "word": "封",
+    "examples": [
+      {
+        "zh": "我写了一封信。",
+        "pinyin": "wo3 xie3 le5 yi1 feng1 xin4"
+      },
+      {
+        "zh": "这封信是谁的？",
+        "pinyin": "zhe4 feng1 xin4 shi4 shei2 de5"
+      },
+      {
+        "zh": "他给妈妈写了一封很长的信。",
+        "pinyin": "ta1 gei3 ma1 ma5 xie3 le5 yi1 feng1 hen3 chang2 de5 xin4"
+      },
+      {
+        "zh": "这条路被警察封了，我们只能走另一条路。",
+        "pinyin": "zhe4 tiao2 lu4 bei4 jing3 cha2 feng1 le5 wo3 men5 zhi3 neng2 zou3 ling4 yi1 tiao2 lu4"
+      }
+    ]
+  },
+  {
+    "word": "指导",
+    "examples": [
+      {
+        "zh": "谢谢您的指导！",
+        "pinyin": "xie4 xie5 nin2 de5 zhi3 dao3"
+      },
+      {
+        "zh": "老师指导我们写文章。",
+        "pinyin": "lao3 shi1 zhi3 dao3 wo3 men5 xie3 wen2 zhang1"
+      },
+      {
+        "zh": "这个项目需要专家的指导。",
+        "pinyin": "zhe4 ge4 xiang4 mu4 xu1 yao4 zhuan1 jia1 de5 zhi3 dao3"
+      },
+      {
+        "zh": "在老师的指导下，他的汉语水平提高得很快。",
+        "pinyin": "zai4 lao3 shi1 de5 zhi3 dao3 xia4 ta1 de5 han4 yu3 shui3 ping2 ti2 gao1 de5 hen3 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "头发",
+    "examples": [
+      {
+        "zh": "她的头发很长。",
+        "pinyin": "ta1 de5 tou2 fa5 hen3 chang2"
+      },
+      {
+        "zh": "我要去洗头发。",
+        "pinyin": "wo3 yao4 qu4 xi3 tou2 fa5"
+      },
+      {
+        "zh": "妈妈的头发越来越白了。",
+        "pinyin": "ma1 ma5 de5 tou2 fa5 yue4 lai2 yue4 bai2 le5"
+      },
+      {
+        "zh": "他工作压力太大，头发都快没了。",
+        "pinyin": "ta1 gong1 zuo4 ya1 li4 tai4 da4 tou2 fa5 dou1 kuai4 mei2 le5"
+      }
+    ]
+  },
+  {
+    "word": "传播",
+    "examples": [
+      {
+        "zh": "新闻传播得很快。",
+        "pinyin": "xin1 wen2 chuan2 bo1 de5 hen3 kuai4"
+      },
+      {
+        "zh": "这种病会通过水传播。",
+        "pinyin": "zhe4 zhong3 bing4 hui4 tong1 guo4 shui3 chuan2 bo1"
+      },
+      {
+        "zh": "互联网让信息传播得更快。",
+        "pinyin": "hu4 lian2 wang3 rang4 xin4 xi1 chuan2 bo1 de5 geng4 kuai4"
+      },
+      {
+        "zh": "我们应该把中国文化传播到世界各地。",
+        "pinyin": "wo3 men5 ying1 gai1 ba3 zhong1 guo2 wen2 hua4 chuan2 bo1 dao4 shi4 jie4 ge4 di4"
+      }
+    ]
+  },
+  {
+    "word": "准确",
+    "examples": [
+      {
+        "zh": "这个时间准确吗？",
+        "pinyin": "zhe4 ge4 shi2 jian1 zhun3 que4 ma5"
+      },
+      {
+        "zh": "这个数字不太准确。",
+        "pinyin": "zhe4 ge4 shu4 zi4 bu4 tai4 zhun3 que4"
+      },
+      {
+        "zh": "他的汉语说得很准确。",
+        "pinyin": "ta1 de5 han4 yu3 shuo1 de5 hen3 zhun3 que4"
+      },
+      {
+        "zh": "记者的报道必须准确，不能有错误。",
+        "pinyin": "ji4 zhe3 de5 bao4 dao4 bi4 xu1 zhun3 que4 bu4 neng2 you3 cuo4 wu4"
+      }
+    ]
+  }
+]

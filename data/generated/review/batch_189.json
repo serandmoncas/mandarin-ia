@@ -1,0 +1,165 @@
+[
+  {
+    "id": "word:反正",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4 la traducción omite 反正, que es justamente la palabra que se enseña; mejor: «Diga lo que diga, de todos modos yo ya lo decidí»."
+    ],
+    "content_hash": "af955f85dd32a78c09e47d0b3b74bb9a943b2c99"
+  },
+  {
+    "id": "word:加快",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b13fad3b16f832559fdea39a130b2bbf2e0916fa"
+  },
+  {
+    "id": "word:客观",
+    "ok": true,
+    "issues": [],
+    "content_hash": "639157357849e6726c7ec790ec9d1195c6198407"
+  },
+  {
+    "id": "word:亲自",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d57eca86f4874225587d79594263ee88f4bc970"
+  },
+  {
+    "id": "word:通信",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d02ec69db6f825952ac06ad4d4506c0d8399c2ff"
+  },
+  {
+    "id": "word:外面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c3fedb2f3d393ad468cb7a6ba2af2f431e11007c"
+  },
+  {
+    "id": "word:搬",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba89c070d48655e7be7f16928baa770181db9eb1"
+  },
+  {
+    "id": "word:性别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f1c5a63c13d9d61501df8976494e4c291811a05"
+  },
+  {
+    "id": "word:步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f14f77f724db7570577792d846d123804829ac3"
+  },
+  {
+    "id": "word:教练",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d9e40da4ace6357be107cb1ec43cb8b8c53d5257"
+  },
+  {
+    "id": "word:恐怕",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0931f962e860268cfe0482cd4120d08f45566fe4"
+  },
+  {
+    "id": "word:世界杯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c43b9cf54640126927b0b94a47ffe7ffd88b91f2"
+  },
+  {
+    "id": "word:争",
+    "ok": true,
+    "issues": [],
+    "content_hash": "794d9ef006ac9c7231e0d60524242cf9bfe50adf"
+  },
+  {
+    "id": "word:环",
+    "ok": false,
+    "issues": [
+      "«Anillo» puede confundir: un anillo de dedo es 戒指, no 环. Conviene precisar «aro, argolla».",
+      "«这个环很漂亮» suena poco natural; 环 casi nunca va solo como sustantivo (se dice 耳环, 手环, 圆环).",
+      "«她手上有一个金环» es ambiguo y poco natural. Se entendería más como pulsera o brazalete (金手镯) que como «anillo»."
+    ],
+    "content_hash": "4e96e094b9f5d7a1b9b71dca7685a47ec7c72ff9"
+  },
+  {
+    "id": "word:配",
+    "ok": true,
+    "issues": [],
+    "content_hash": "75f2db9e3d23f2e116df3dd2b05609d2ae824da0"
+  },
+  {
+    "id": "word:烟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60e86866cf6c10405f75add8d999b1b264224a59"
+  },
+  {
+    "id": "word:眼前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eef54cd9c7ce3c8d2c6aa55aef2828cf3e99caa3"
+  },
+  {
+    "id": "word:证",
+    "ok": false,
+    "issues": [
+      "«请给我看一下你的证» suena poco natural sin contexto; lo habitual es «你的证件» o nombrar el documento concreto (身份证, 学生证)."
+    ],
+    "content_hash": "69aba7241e6a8672146df512757b2d6ef13179bd"
+  },
+  {
+    "id": "word:断",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f9d369733c9c946596c12d97f99646f8e769d9b0"
+  },
+  {
+    "id": "word:赶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1dc4a498e7350c3650912137bf98db91fc996ca4"
+  },
+  {
+    "id": "word:标题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5c73678d680ec8fe103016350cd6e22d98bdb63"
+  },
+  {
+    "id": "word:基本上",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente: la palabra aparece como «shang5» (tono neutro), pero los ejemplos usan «shàng». Conviene unificar."
+    ],
+    "content_hash": "47d2346524d2bf2c4a61d8f33f949e908581e7bd"
+  },
+  {
+    "id": "word:另一方面",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «很大，另一方面也很贵» es poco natural; para un simple contraste se usaría «但是也很贵». 另一方面 suele ir con 一方面 o introducir otro aspecto que se analiza.",
+      "Ejemplo 4: las dos partes no son paralelas («他喜欢这个工作» frente a «压力太大»). Sería más natural «另一方面他觉得压力太大»."
+    ],
+    "content_hash": "f6ad98dd7c14c023902858ca203de5c8d0d55c3e"
+  },
+  {
+    "id": "word:公务员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "720b96bf04bdbe415eac4db5f0fe175d58458405"
+  },
+  {
+    "id": "word:念",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7bdf26edf6925b0d181e4057be96f1535ca1fe93"
+  }
+]

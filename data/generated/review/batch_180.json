@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:笑话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "654d6d7e4c52dc9c692eb1e90c016107540df52d"
+  },
+  {
+    "id": "word:角",
+    "ok": false,
+    "issues": [
+      "En «那头牛的角又长又大» el pinyin de 长 debe ser cháng (largo), no zhǎng.",
+      "«这个图有三个角» suena poco natural; lo normal sería 这个图形有三个角 para referirse a una figura geométrica."
+    ],
+    "content_hash": "d8c786a52f3b422201e684fefeabbf61810bd2b5"
+  },
+  {
+    "id": "word:拿出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1aa4e28256a2681707d7d2559e85e623850a5a2a"
+  },
+  {
+    "id": "word:熟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc7269077bff31a9566b4836d895f8620b9a51ca"
+  },
+  {
+    "id": "word:喂",
+    "ok": false,
+    "issues": [
+      "La palabra se presenta como wei2 (wéi), pero todos los ejemplos usan wèi. Al contestar el teléfono se suele decir wéi; wèi corresponde al «¡oye!» para llamar la atención. Hay que unificar el pinyin o explicar las dos lecturas."
+    ],
+    "content_hash": "82e82a6d4f676563646009dabf3a008cdccd3ce5"
+  },
+  {
+    "id": "word:走进",
+    "ok": false,
+    "issues": [
+      "En el último ejemplo, 衣服 debe transcribirse yī fu (tono neutro), no yī fú."
+    ],
+    "content_hash": "8e00cdc4e829a9ee10857e4cafafeca779f40e19"
+  },
+  {
+    "id": "word:完美",
+    "ok": true,
+    "issues": [],
+    "content_hash": "36df02e87c14a64b829d69fe420f002346dac306"
+  },
+  {
+    "id": "word:春天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be64e4e6d7037cbd4bd52ac17d9c4e85e554c77e"
+  },
+  {
+    "id": "word:挂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "59aa8070649532c5441b6f0424d2f3eebdfaf2b1"
+  },
+  {
+    "id": "word:领",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b8b32893f3bfb3e28be4feeef5a678c93986b7a"
+  },
+  {
+    "id": "word:护照",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0eb9a4ad9ded6021642b391cdfe5559f789aeb56"
+  },
+  {
+    "id": "word:难题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0bc004a58bc26467cd53e78d2e24ad368df73356"
+  },
+  {
+    "id": "word:自行车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "198d9742ba18e7b24930196324fc298eb64d382c"
+  },
+  {
+    "id": "word:工厂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9cf1bd48501a70e5ca12b13c307d64b15f5a0fc"
+  },
+  {
+    "id": "word:建",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7b79d9b4f8499a03e4126237f96b420f3fdc5b8"
+  },
+  {
+    "id": "word:小时候",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c48b15057ce69c6ac9630938cdb045904103f11b"
+  },
+  {
+    "id": "word:雪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e4f879fc08a8ac7b4fb409f0b963f02542a7143"
+  },
+  {
+    "id": "word:碰到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d1e42a96cec474d4b87d812f41f77d84c77e85db"
+  },
+  {
+    "id": "word:从小",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2dd2fc77b746b05f2766e514b16d665d8f0b9db3"
+  },
+  {
+    "id": "word:卫生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "695f0e74f59509e15c345b678714d069202a5947"
+  },
+  {
+    "id": "word:信用卡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "85697d486cc9359ad3a910102932ed7f2ed55933"
+  },
+  {
+    "id": "word:厂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "46a039d013b13e591ba1004e22388da3ba7e6f0c"
+  },
+  {
+    "id": "word:冬天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eaea7df2a54fdc499ac1813730852ecff7e77de9"
+  },
+  {
+    "id": "word:费用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b74b7b084e8520cdc5d0f547b6d79ed1d2a4308f"
+  },
+  {
+    "id": "word:实习",
+    "ok": false,
+    "issues": [
+      "En «实习的时候，我学到了很多东西», 东西 (cosas) debe ser dōng xi con tono neutro; dōng xī significa «este y oeste».",
+      "En el mismo ejemplo, 时候 debe ser shí hou (tono neutro), no shí hòu."
+    ],
+    "content_hash": "1acb7b8411f515fe54af6ca621cafb3c2b4832bd"
+  }
+]

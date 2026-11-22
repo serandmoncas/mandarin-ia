@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:好玩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e5645ea37cbb1c1837e642621aad6546bde53dc7"
+  },
+  {
+    "id": "word:中央",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33bb1521d61bc65835547e77fca440315bdabd08"
+  },
+  {
+    "id": "word:工程",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a44e95e790b2e84fc7871b4734a3d84afdd41dd4"
+  },
+  {
+    "id": "word:最近",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d534be149bc9b0cb727e7f06fe2853c23d46644"
+  },
+  {
+    "id": "word:范围",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a552ce766465a0e0f18bf1cdbb2b46dcf0839289"
+  },
+  {
+    "id": "word:功能",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40102f68efb79928af3e4503d954aef038490901"
+  },
+  {
+    "id": "word:级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b06dfa8558164c58e7414e410bf31b7c34232168"
+  },
+  {
+    "id": "word:力量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d8db8af01675093ddc65f307cfe67c7d7b64c102"
+  },
+  {
+    "id": "word:例如",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b8794f0d1b9b5b9af8a52c6ba0b509d901e9060"
+  },
+  {
+    "id": "word:旅游",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2158319382c1565d68098682ed2951ebe683838"
+  },
+  {
+    "id": "word:取得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e0ae3fa1a6a9e4a49e376cc74efd00850129043"
+  },
+  {
+    "id": "word:场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7084697ca6574f4be4535c02f658bdb3db186170"
+  },
+  {
+    "id": "word:开放",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c46d15d1bc6b1688e4a2a4ccff3c5783dd5a3cca"
+  },
+  {
+    "id": "word:实际",
+    "ok": true,
+    "issues": [],
+    "content_hash": "84d28ae634dc7b3a364b0ba6e34221584d7bf1ce"
+  },
+  {
+    "id": "word:重点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc695157a226657cbbdcd4f6ec44ace95fe237e8"
+  },
+  {
+    "id": "word:些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc007b6f7aa83f046df458919caddea16b1b1425"
+  },
+  {
+    "id": "word:看看",
+    "ok": true,
+    "issues": [],
+    "content_hash": "21a84d0324f6d7ced43d9cb0f37d8df6c608861c"
+  },
+  {
+    "id": "word:考虑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37b2765b7c6086d335206ea9dc98fb3f5a9d6898"
+  },
+  {
+    "id": "word:按",
+    "ok": true,
+    "issues": [],
+    "content_hash": "16eb4ce83320031f2019e37eece2f3bf2b03d82f"
+  },
+  {
+    "id": "word:里面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "04c74067c4604f747da594683030755851b7a947"
+  },
+  {
+    "id": "word:另外",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2, el pinyin de 看看 debe ser «kàn kan» (segunda sílaba en tono neutro), no «kàn kàn»."
+    ],
+    "content_hash": "13816e35fc986185882ecadca7b00a0d3de20729"
+  },
+  {
+    "id": "word:线",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, 得 en «我得再买一条» significa «tener que» y se pronuncia «děi», no «dé»."
+    ],
+    "content_hash": "3fe3c2402ab7b2378caf28465f7bb20559041476"
+  },
+  {
+    "id": "word:相当",
+    "ok": true,
+    "issues": [],
+    "content_hash": "50149e7291fefd360e8412e465e3db5a4f12c68c"
+  },
+  {
+    "id": "word:位于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c2d7b996871cf9c0d6fea38a36485ebd4f8d314"
+  },
+  {
+    "id": "word:型",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bdcbf6ecba8fa7c252d25fa1655e99592d2ac403"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:适应",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98dec97d228f98a0bba2383a09cb747a47346259"
+  },
+  {
+    "id": "word:体验",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4cd2463be8e51afbba3bf8c55b4ad1853e058214"
+  },
+  {
+    "id": "word:普通话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4855f1b4be8569072d8681857092cda4c271b1bc"
+  },
+  {
+    "id": "word:体育场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e287a177a8c0bafa2f1ae2482a8b50857d207bca"
+  },
+  {
+    "id": "word:照",
+    "ok": true,
+    "issues": [],
+    "content_hash": "831a6d96d86ef7c11397d5f7c11551b26b345ae0"
+  },
+  {
+    "id": "word:行人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "59968b76f7fc232972c1f58813b6a90d1a79e444"
+  },
+  {
+    "id": "word:大自然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "711fbc69b769d447616169f7ff543a5b49165eb0"
+  },
+  {
+    "id": "word:好久",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3fee7225c730f9e3a8d46708249ae7ba03dc153f"
+  },
+  {
+    "id": "word:句子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e1dc4376f0a5db3c7e88bcf09ba98db42e17ce4"
+  },
+  {
+    "id": "word:对待",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ab44d4bab5631db1b7259b8d708b669d966095e"
+  },
+  {
+    "id": "word:脏",
+    "ok": false,
+    "issues": [
+      "'桌子太脏了，你用水洗一下吧' es poco natural: para una mesa se dice 擦 (p. ej. '你擦一下吧'), no 洗."
+    ],
+    "content_hash": "797146b6e2842229ecdcc35d6ce68698b0ae0d62"
+  },
+  {
+    "id": "word:住院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9f3ebe5b17c8c8b5f7e9a9a328e353458d7729b"
+  },
+  {
+    "id": "word:刻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e4559fd3228bff69c46418716a6ad4a42598677"
+  },
+  {
+    "id": "word:配合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad11bacb43e7ba9f783567cee27584093a08df97"
+  },
+  {
+    "id": "word:老年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d259acf9e24dc3947981c5e5cd59ffc03fc2d46"
+  },
+  {
+    "id": "word:事实上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "efb8f77ea3428d833f5e326d793ee88ae16250c3"
+  },
+  {
+    "id": "word:里头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86ae6d32fd25908bcd4f1af41ec950337b4d1436"
+  },
+  {
+    "id": "word:凉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca259648a01e1e00f0f0847cb34f00abcc6a8a4a"
+  },
+  {
+    "id": "word:背后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b136cdd16c4d25d8486658a3fddaa43067742e33"
+  },
+  {
+    "id": "word:休假",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 debe ser 'shí hou' (tono neutro), no 'shí hòu'."
+    ],
+    "content_hash": "ae73fd82a61870eb1a642d8523ad6b8110bf8ff9"
+  },
+  {
+    "id": "word:组长",
+    "ok": false,
+    "issues": [
+      "Pinyin: 告诉 debe ser 'gào su' (tono neutro), no 'gào sù'."
+    ],
+    "content_hash": "c8523f43df567987999f71241d70f07c08f3366d"
+  },
+  {
+    "id": "word:感情",
+    "ok": false,
+    "issues": [
+      "Pinyin: 姐姐 debe ser 'jiě jie' (tono neutro), no 'jiě jiě'.",
+      "La traducción 'desde pequeñas' asume que el hablante es mujer; el chino no lo indica (mejor 'desde chicos/desde la infancia')."
+    ],
+    "content_hash": "716529d530e97896a2c576643583421b3f4223ae"
+  },
+  {
+    "id": "word:笔记本",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 debe ser 'shí hou' (tono neutro), no 'shí hòu'."
+    ],
+    "content_hash": "7d01e890c428dc37dc7c16d9994c335452def772"
+  },
+  {
+    "id": "word:复习",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2541766f0df8e5e750c1b9298d419930332c839e"
+  },
+  {
+    "id": "word:词典",
+    "ok": false,
+    "issues": [
+      "Pinyin: 认识 debe ser 'rèn shi' (tono neutro), no 'rèn shí'.",
+      "Pinyin: 学生 debe ser 'xué sheng' (tono neutro), no 'xué shēng'."
+    ],
+    "content_hash": "5f76e6465a1d9d9e00120e21ba23d43a8bd6083d"
+  }
+]

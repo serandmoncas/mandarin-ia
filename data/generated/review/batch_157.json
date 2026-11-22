@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:相关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "880d4eaa28fb415dcb4146941dfa8570097f53e9"
+  },
+  {
+    "id": "word:高兴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "72fab88cb090679168c2af08f2a1e09fa7c87748"
+  },
+  {
+    "id": "word:喝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc9b2d716d3d483b70c7b4ebb88b5b4ef545740e"
+  },
+  {
+    "id": "word:选择",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99c6c9399e92650eccbdf8da89613f736fe31bf0"
+  },
+  {
+    "id": "word:山",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 衣服 debe ser «yī fu» (tono neutro), no «yī fú»."
+    ],
+    "content_hash": "d540355d857ad5c65beb970e594102e7b2f761dc"
+  },
+  {
+    "id": "word:管理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c8705db07b071cf7be5853ac3c348cc7df0fb4a"
+  },
+  {
+    "id": "word:页",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6cd19b3f92edaf161bd62fa047f84c003a9f0ddb"
+  },
+  {
+    "id": "word:一切",
+    "ok": false,
+    "issues": [
+      "El significado «cualquier» no es correcto: 一切 significa «todo / todos los», no «cualquier»."
+    ],
+    "content_hash": "11888be872e5be8fae997d2d6a066e4451e6d886"
+  },
+  {
+    "id": "word:睡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c53287873bc396a201ad8621cc6fb533e0f191e"
+  },
+  {
+    "id": "word:一次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5dfdcbfff42c014c76e5b37038ff6bb18946720"
+  },
+  {
+    "id": "word:中文",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8e6e5561f22f60d6fa090d8acdf18d58dc330ec8"
+  },
+  {
+    "id": "word:另",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e7308597ff3086d93c83f7cccf7387a390e81b96"
+  },
+  {
+    "id": "word:块",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 一块 (= 一块儿, «juntos») es un uso distinto de los significados que se dan para 块. Confunde al estudiante: conviene añadir ese significado o cambiar el ejemplo."
+    ],
+    "content_hash": "f0a6e0adb171c53a82e683bb4ec6becdd64a2a55"
+  },
+  {
+    "id": "word:风",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0a07b91b68ff5602e793057b30caf5fea308d35"
+  },
+  {
+    "id": "word:出去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ad01418db169a14afeec2e93c91525babfc0103"
+  },
+  {
+    "id": "word:便",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c946b48d422cd637fb9990d403c1fc048115531"
+  },
+  {
+    "id": "word:哥哥",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4800508370348738666c28cda1aad5fc00a7007b"
+  },
+  {
+    "id": "word:发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "29fa7610dc1d0b02f7a0536133196f90b00524fa"
+  },
+  {
+    "id": "word:名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7b020b5847633fbc93a082bdbd880bcdfc64cc4"
+  },
+  {
+    "id": "word:口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f96fda5d141adc5dae1c5e0969e8a6875dd8cd53"
+  },
+  {
+    "id": "word:网络",
+    "ok": true,
+    "issues": [],
+    "content_hash": "88339d95e5f1223af9debd4e9278d82661a38acd"
+  },
+  {
+    "id": "word:早上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7b063b629140ebaf4b04b1eb02e60f013d7717c"
+  },
+  {
+    "id": "word:达",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d7ad54d2eac5dece9bee1fb669b039d163a5046c"
+  },
+  {
+    "id": "word:称",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «那个人称自己是记者» es poco natural y ambiguo, porque 人称 se puede leer como palabra («persona gramatical»). Es más natural «那个人自称是记者»."
+    ],
+    "content_hash": "bbcc7e786cfcba77d159cb502491d5883316652b"
+  },
+  {
+    "id": "word:白",
+    "ok": true,
+    "issues": [],
+    "content_hash": "256212ed13207c9453d2b8a089061f41679cadd2"
+  }
+]

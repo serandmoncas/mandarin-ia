@@ -1,0 +1,157 @@
+[
+  {
+    "id": "word:茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "961740c3d33b3ccaf28996944c4a20b16b20efec"
+  },
+  {
+    "id": "word:行为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "379134aeeb8dbfd2e7b166723da2cac9a2dd448c"
+  },
+  {
+    "id": "word:哥",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, «le llama a mi mamá» es leísmo y no corresponde al español neutro latinoamericano. Mejor: «llama a mi mamá»."
+    ],
+    "content_hash": "8253ab3f9a41de48621940efd102effbd204b79a"
+  },
+  {
+    "id": "word:传统",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d08b64dc6e0e8a0b24b127d30e17dc6d665173d8"
+  },
+  {
+    "id": "word:洗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7cd5cb0afd41fe1224ae373ef7a034004792f086"
+  },
+  {
+    "id": "word:韩国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "119d55b15554e50e776dcd5c2c64cacf06890ce5"
+  },
+  {
+    "id": "word:有时候",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e78e9be41342d47fbb41d3a7a7dd8ef157c5a3e"
+  },
+  {
+    "id": "word:产生",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, la colocación 产生了很多新工作 es poco natural; lo habitual es 创造了/带来了很多新工作.",
+      "«新技术» se traduce más fielmente como «las nuevas tecnologías» que como «la nueva tecnología»."
+    ],
+    "content_hash": "56351b84aa64f6a47a780864e2583aba2b8b8ed6"
+  },
+  {
+    "id": "word:考",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6bfd6ca1a328924934fafc3d35438cc25a44941a"
+  },
+  {
+    "id": "word:上班",
+    "ok": true,
+    "issues": [],
+    "content_hash": "19172cc737171e2ec01b2a4ef77dec49759f42aa"
+  },
+  {
+    "id": "word:读书",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2186912153a5b5805dc1212461596dab6e90fcb"
+  },
+  {
+    "id": "word:各种",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8c62bf6b739e55f386112d50431b2c080bfa2b31"
+  },
+  {
+    "id": "word:商店",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5151f4d3f158e16a10e1262383207e0563bf57ea"
+  },
+  {
+    "id": "word:饿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e3dafb4bd6a057a28fec87906cf12425f9c5e73"
+  },
+  {
+    "id": "word:它们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5c41a3432a9b23202b2881754e99dd2d245a3648"
+  },
+  {
+    "id": "word:分析",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dafa01f15c10c6e55af780ad988bce65f8962161"
+  },
+  {
+    "id": "word:哪儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "406affaf7bb77d04dbdc0c35f6caa4c1f48fb85b"
+  },
+  {
+    "id": "word:并且",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bee4203cfef43a57b9059f302347fe75abefa409"
+  },
+  {
+    "id": "word:那边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5a4b3241e5eadd3efe6c225e104e74c3ed1b1f3"
+  },
+  {
+    "id": "word:饭店",
+    "ok": true,
+    "issues": [],
+    "content_hash": "17c2ed2acf845fb2f911245ba7f4bef9740a8ea6"
+  },
+  {
+    "id": "word:汉语",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10bda5c7c2a490dbed74f851e193015e0cb4317c"
+  },
+  {
+    "id": "word:行动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "edf69acc093046ad907823ac26b0d30ff1e16f39"
+  },
+  {
+    "id": "word:一会儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "702da606030de500199537c57c0318de906e46bf"
+  },
+  {
+    "id": "word:这儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7854e7cca5f6687f19892150d975afc38da84db8"
+  },
+  {
+    "id": "word:累",
+    "ok": true,
+    "issues": [],
+    "content_hash": "751a071ea2d94a71919cede91830987ae61e80e5"
+  }
+]

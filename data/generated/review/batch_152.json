@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70f6dd88b97f0b0be2695eff7e3f194db04bb60e"
+  },
+  {
+    "id": "word:过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b38f34815ca365d43bcde0d359257cac7a6a7ff"
+  },
+  {
+    "id": "word:时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed7133dd620897c431d76845fc9138b729085f24"
+  },
+  {
+    "id": "word:现在",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99d7ffe9f62f41ff69236147c3a9bda48c3f3de0"
+  },
+  {
+    "id": "word:因为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e6ac0beefabf318edf9e57b0eea73aba862a8e3b"
+  },
+  {
+    "id": "word:用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c74b0fb8f22af69efe8f53a337bf03f169a749d2"
+  },
+  {
+    "id": "word:之",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «三分之一的人»: 一 se pronuncia «yī» (fin de número/fracción), no «yí»."
+    ],
+    "content_hash": "720dd70a64f724d1acc7d75f41f9a4714fc7c74d"
+  },
+  {
+    "id": "word:那",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02aef355ff6784567a4e841c2e32102e637b0a77"
+  },
+  {
+    "id": "word:时候",
+    "ok": false,
+    "issues": [
+      "«我去的时候» significa «cuando fui», no «cuando llegué».",
+      "«他已经不在了» suele entenderse como eufemismo de «ya había muerto»; la frase es ambigua para un principiante y conviene cambiarla (p. ej. «他已经走了»)."
+    ],
+    "content_hash": "48b04ec781a75661adaeb41abc67bdd082757061"
+  },
+  {
+    "id": "word:得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df8f85cda6b07b0c6a5e480439bc68420d3a0fb0"
+  },
+  {
+    "id": "word:发展",
+    "ok": false,
+    "issues": [
+      "«发展是现在最大的问题» es semánticamente rara y poco natural: presenta el desarrollo como un problema. Mejor algo como «发展是现在最重要的事»."
+    ],
+    "content_hash": "ca8bd4386fa74e9d237e656ff89cde376943a2f9"
+  },
+  {
+    "id": "word:再",
+    "ok": true,
+    "issues": [],
+    "content_hash": "113ef0596051184c455de943c3164ca5c8476ac0"
+  },
+  {
+    "id": "word:爱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "75ac8df7c45071cacf73d3f5ceeb516d3631fc9e"
+  },
+  {
+    "id": "word:第",
+    "ok": false,
+    "issues": [
+      "«这是她第三年在美国工作» es poco natural; lo idiomático es «这是她在美国工作的第三年»."
+    ],
+    "content_hash": "d74a0586da0024c503d7c1144ddc1958adde1829"
+  },
+  {
+    "id": "word:公司",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2fcd0966a4581c64508ab3124678db8c3a1d9c7e"
+  },
+  {
+    "id": "word:谁",
+    "ok": false,
+    "issues": [
+      "«谁知道这个问题？» es poco natural con el sentido de «saber la respuesta». Mejor «谁知道这个问题的答案？», o traducir como «¿Quién sabe de este asunto?»."
+    ],
+    "content_hash": "46f9b0b578c461ffb54a38d778f9e6b6e0a0fa18"
+  },
+  {
+    "id": "word:地方",
+    "ok": false,
+    "issues": [
+      "«这个问题有很多地方我不知道» suena forzado; lo natural es «这个问题有很多地方我不明白/不懂», con la traducción ajustada a «no entiendo»."
+    ],
+    "content_hash": "fd557a782fb2f6e905b2220e2163740ac4dd6271"
+  },
+  {
+    "id": "word:快",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5828e3778877bd85bdda8c302237a29d35443956"
+  },
+  {
+    "id": "word:事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "68e418bb98125f6fd25142d4ab027fa8e3ac5954"
+  },
+  {
+    "id": "word:有的",
+    "ok": false,
+    "issues": [
+      "Pinyin: en «有的时候», 候 va en tono neutro («shí hou»), no «shí hòu»; además es inconsistente con la entrada de 时候."
+    ],
+    "content_hash": "706582806dad126b514be6de660cc51fda12f269"
+  },
+  {
+    "id": "word:比",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f65e05e998a9e03b1de722b78d115ee1f434e684"
+  },
+  {
+    "id": "word:如果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "443c9e7df515af62e0c5a1f5d2c75a625f655492"
+  },
+  {
+    "id": "word:世界",
+    "ok": true,
+    "issues": [],
+    "content_hash": "16ec4d64fc5b6650b46254ffa6bf6e83d26d20ca"
+  },
+  {
+    "id": "word:一些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e256afa85fcd760b199e70ba19cb7d111556df20"
+  },
+  {
+    "id": "word:一样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e798bc9aba13d03b4b5c78e557948128dd5cc3a3"
+  }
+]

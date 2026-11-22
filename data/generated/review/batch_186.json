@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:日常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9bb215f724b4047ce6566e99eb38ed9306f74d7"
+  },
+  {
+    "id": "word:碰见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b021fdb5856033bf5ade25846bbd8ce787d162fa"
+  },
+  {
+    "id": "word:适用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b4644dcc6ba6394a506046030b8801e6849e5f3"
+  },
+  {
+    "id": "word:下雪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d25f76b4cfcdd645b93909c759592e8392f4698e"
+  },
+  {
+    "id": "word:读音",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60286d971d297a864558a058932e089ac811f7c3"
+  },
+  {
+    "id": "word:猪",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 爷爷奶奶 debe ser «yé ye nǎi nai» (tono neutro), no «yé yé nǎi nǎi»."
+    ],
+    "content_hash": "a64a7f21cbdc4e2ef7fe8e8d4f3067933aa06010"
+  },
+  {
+    "id": "word:零下",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 2 y 4: 衣服 debe ser «yī fu» (tono neutro), no «yī fú»."
+    ],
+    "content_hash": "0cca936871cc2c1f5ce3dddd8a62e6d211041f82"
+  },
+  {
+    "id": "word:表明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ba7d2de36ad4edf5028a6e6208a38665f034925"
+  },
+  {
+    "id": "word:立刻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7b2598a7ce5cdaff9d7b9b4f7e3a8a342961578"
+  },
+  {
+    "id": "word:药水",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 妈妈 debe ser «mā ma» (tono neutro), no «mā mā»."
+    ],
+    "content_hash": "3734213a5d6d3f7accd69a42760960475b6f4c86"
+  },
+  {
+    "id": "word:笑话儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b58fc6977ccd325ed749b02e14b98ed7309b3aa"
+  },
+  {
+    "id": "word:那会儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f17e7264a06aaf3fd1ba8c666b71ad67ee0e244"
+  },
+  {
+    "id": "word:破",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0960fedaae6c253cab573f4374a9191ccdfe82cf"
+  },
+  {
+    "id": "word:前进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ed05ba646d6ccb9f1041f03f9e0dc775032a7a5"
+  },
+  {
+    "id": "word:球鞋",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 时候 debe ser «shí hou» (tono neutro), no «shí hòu».",
+      "Pinyin del ejemplo 4: 看看 debe ser «kàn kan» (tono neutro), no «kàn kàn»."
+    ],
+    "content_hash": "074df31d47193c3fd490acdf3ccdce72c6d06ecd"
+  },
+  {
+    "id": "word:饭馆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "353561b74b572842855145d2c84be2d7be3c4654"
+  },
+  {
+    "id": "word:方便面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b8f38ed5a8a9d8aee5e21f03612f6b970bdbf27c"
+  },
+  {
+    "id": "word:午睡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd94f16447a4f936f340bce363ac384a6ff7a624"
+  },
+  {
+    "id": "word:西餐",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 喜欢 debe ser «xǐ huan» (tono neutro), no «xǐ huān».",
+      "Pinyin del ejemplo 2: 晚上 debe ser «wǎn shang» (tono neutro), no «wǎn shàng».",
+      "Pinyin del ejemplo 3: 时候 debe ser «shí hou» (tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "5b71ea756a4bdef77ae75cffcf27c1897efae972"
+  },
+  {
+    "id": "word:改造",
+    "ok": true,
+    "issues": [],
+    "content_hash": "939e78249f40bce7df488e6fd2a0d2ca03129c1b"
+  },
+  {
+    "id": "word:快点儿",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 要不 («si no, de lo contrario») suele escribirse «yào bù». Con «yào bú shàng xué» el estudiante puede leer 不上学 («no ir a la escuela»)."
+    ],
+    "content_hash": "cfc9327fe71a0e6cec14a0c8ed5fab829b027572"
+  },
+  {
+    "id": "word:有一点儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7e056adf9a7217247fe39df88d8b9eff11a0520"
+  },
+  {
+    "id": "word:有空儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "71921dd2e9d493eac74e911fc5528135026f3b3b"
+  },
+  {
+    "id": "word:事故",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5cecf894f7c428b45f2cfb9e6a1fadde7b33b17a"
+  },
+  {
+    "id": "word:干活儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89b98d01c2604a0c99b433d4113ab01e5b0da6b2"
+  }
+]

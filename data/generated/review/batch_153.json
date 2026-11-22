@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:学生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc5e93d21cd6f259bfadf59eb893f6c77c5ca035"
+  },
+  {
+    "id": "word:地区",
+    "ok": true,
+    "issues": [],
+    "content_hash": "accf692cfd003abacbb63721b5110fe1bcac55ba"
+  },
+  {
+    "id": "word:点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "488057ae8704cc86c7147d7d0039cbab7c5b4594"
+  },
+  {
+    "id": "word:起",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2643a27226394491f85dfe37554d6df6142cd5b5"
+  },
+  {
+    "id": "word:却",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2136cdfdb1c376f4d70f3c6ef3a0bed677e9fa2c"
+  },
+  {
+    "id": "word:国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dfdaf0213c31f2d366c78c0067fe65b7ada7332b"
+  },
+  {
+    "id": "word:使用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4d5a7a6da4699ee65ff85a7800df7dfb109ed8f"
+  },
+  {
+    "id": "word:走",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f4c262d3c2a09b5f1ada4b91f5b8248410569ff8"
+  },
+  {
+    "id": "word:但是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "468c5e3292b4160c6b6918e26953585bda308a9f"
+  },
+  {
+    "id": "word:话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a3ba836d396b7e5dc0ada92f7b0c8074679caa5"
+  },
+  {
+    "id": "word:政治",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25dce253ec88cb9b3222981c054ad469b527d479"
+  },
+  {
+    "id": "word:情况",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b3794d86493b6d6cef56bc35c73faa748bd95f9"
+  },
+  {
+    "id": "word:太",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e24652d0293db4be2b5e9f4e2e7551e8bf9884a6"
+  },
+  {
+    "id": "word:东西",
+    "ok": false,
+    "issues": [
+      "El significado '(coloquial) persona, tipo' no advierte que este uso es despectivo (p. ej., 老东西, 不是东西); presentarlo como neutro puede hacer que el estudiante insulte sin querer."
+    ],
+    "content_hash": "95f79d4a484f8a9e3b613c3c130aa7f1e2a2444d"
+  },
+  {
+    "id": "word:发生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f76be869ed911c721a53b9fb5c6769a6d48bf4c"
+  },
+  {
+    "id": "word:问",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f6d5d0b9d9ba0d247379fdceb85a750bff515f9b"
+  },
+  {
+    "id": "word:朋友",
+    "ok": true,
+    "issues": [],
+    "content_hash": "58ec398a7f83003a7a54b07425fbc156c6c5067a"
+  },
+  {
+    "id": "word:站",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40b92b42ec88dbf476e36ef7795d389c8e6d4491"
+  },
+  {
+    "id": "word:香港",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f2822777eb5b6a5d81ff7141948168749327bf4"
+  },
+  {
+    "id": "word:见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9dc8b12e9458f78776c083b650d0d3c82672bbd4"
+  },
+  {
+    "id": "word:为了",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0eedf5fa5d85bc1c71f4efceb5ac4264447de3f1"
+  },
+  {
+    "id": "word:买",
+    "ok": false,
+    "issues": [
+      "Pinyin: 衣服 debe ser 'yī fu' (segunda sílaba en tono neutro), no 'yī fú'.",
+      "Pinyin: 地方 ('lugar') debe ser 'dì fang', no 'dì fāng'. Además es inconsistente con el ejemplo de 使用."
+    ],
+    "content_hash": "a3b416a14200485268287566b6daf33c81ae8ce5"
+  },
+  {
+    "id": "word:得到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d29416fb8e8ea3e6070ac75cc993f432b05a38ec"
+  },
+  {
+    "id": "word:天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "55efbc7f53b79122203c004f8823b0a1a29f6fdb"
+  },
+  {
+    "id": "word:间",
+    "ok": false,
+    "issues": [
+      "'这间房子很大' se traduce como 'Esta casa es muy grande', pero 间 clasifica cuartos o habitaciones. Con 'casa' lo esperable es 这座/这个房子; si se mantiene 间, conviene traducir 'cuarto'.",
+      "'这两个国家之间的问题已经很多年了' no es natural: falta un verbo, como en 已经存在很多年了 o 已经有很多年了."
+    ],
+    "content_hash": "a65166afb17770b6777bf52800c724a81d0672d1"
+  }
+]

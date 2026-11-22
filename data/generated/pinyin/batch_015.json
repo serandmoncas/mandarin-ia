@@ -1,0 +1,422 @@
+[
+  {
+    "word": "普通",
+    "examples": [
+      {
+        "zh": "他是一个普通人。",
+        "pinyin": "ta1 shi4 yi1 ge4 pu3 tong1 ren2"
+      },
+      {
+        "zh": "我只是一个普通的学生。",
+        "pinyin": "wo3 zhi3 shi4 yi1 ge4 pu3 tong1 de5 xue2 sheng5"
+      },
+      {
+        "zh": "她普通话说得很好。",
+        "pinyin": "ta1 pu3 tong1 hua4 shuo1 de5 hen3 hao3"
+      },
+      {
+        "zh": "这家饭店的菜很普通，但是很贵。",
+        "pinyin": "zhe4 jia1 fan4 dian4 de5 cai4 hen3 pu3 tong1 dan4 shi4 hen3 gui4"
+      }
+    ]
+  },
+  {
+    "word": "医疗",
+    "examples": [
+      {
+        "zh": "这里的医疗条件很好。",
+        "pinyin": "zhe4 li3 de5 yi1 liao2 tiao2 jian4 hen3 hao3"
+      },
+      {
+        "zh": "这个城市的医疗技术发展得很快。",
+        "pinyin": "zhe4 ge4 cheng2 shi4 de5 yi1 liao2 ji4 shu4 fa1 zhan3 de5 hen3 kuai4"
+      },
+      {
+        "zh": "政府应该提供免费的医疗服务。",
+        "pinyin": "zheng4 fu3 ying1 gai1 ti2 gong1 mian3 fei4 de5 yi1 liao2 fu2 wu4"
+      },
+      {
+        "zh": "很多农村地区的医疗条件还不太好。",
+        "pinyin": "hen3 duo1 nong2 cun1 di4 qu1 de5 yi1 liao2 tiao2 jian4 hai2 bu4 tai4 hao3"
+      }
+    ]
+  },
+  {
+    "word": "漂亮",
+    "examples": [
+      {
+        "zh": "她很漂亮。",
+        "pinyin": "ta1 hen3 piao4 liang5"
+      },
+      {
+        "zh": "这件衣服真漂亮！",
+        "pinyin": "zhe4 jian4 yi1 fu5 zhen1 piao4 liang5"
+      },
+      {
+        "zh": "你的汉字写得很漂亮。",
+        "pinyin": "ni3 de5 han4 zi4 xie3 de5 hen3 piao4 liang5"
+      },
+      {
+        "zh": "那个城市晚上特别漂亮，很多人去那儿旅游。",
+        "pinyin": "na4 ge4 cheng2 shi4 wan3 shang5 te4 bie2 piao4 liang5 hen3 duo1 ren2 qu4 na4 r5 lü3 you2"
+      }
+    ]
+  },
+  {
+    "word": "销售",
+    "examples": [
+      {
+        "zh": "他做销售工作。",
+        "pinyin": "ta1 zuo4 xiao1 shou4 gong1 zuo4"
+      },
+      {
+        "zh": "这个产品销售得很好。",
+        "pinyin": "zhe4 ge4 chan3 pin3 xiao1 shou4 de5 hen3 hao3"
+      },
+      {
+        "zh": "今年公司的销售增加了很多。",
+        "pinyin": "jin1 nian2 gong1 si1 de5 xiao1 shou4 zeng1 jia1 le5 hen3 duo1"
+      },
+      {
+        "zh": "我们需要新的方法来销售这些产品。",
+        "pinyin": "wo3 men5 xu1 yao4 xin1 de5 fang1 fa3 lai2 xiao1 shou4 zhe4 xie1 chan3 pin3"
+      }
+    ]
+  },
+  {
+    "word": "程度",
+    "examples": [
+      {
+        "zh": "他的中文程度很高。",
+        "pinyin": "ta1 de5 zhong1 wen2 cheng2 du4 hen3 gao1"
+      },
+      {
+        "zh": "在一定程度上，他说得对。",
+        "pinyin": "zai4 yi1 ding4 cheng2 du4 shang4 ta1 shuo1 de5 dui4"
+      },
+      {
+        "zh": "教育程度会影响一个人的收入。",
+        "pinyin": "jiao4 yu4 cheng2 du4 hui4 ying3 xiang3 yi1 ge4 ren2 de5 shou1 ru4"
+      },
+      {
+        "zh": "我不知道问题严重到什么程度。",
+        "pinyin": "wo3 bu4 zhi1 dao4 wen4 ti2 yan2 zhong4 dao4 shen2 me5 cheng2 du4"
+      }
+    ]
+  },
+  {
+    "word": "云",
+    "examples": [
+      {
+        "zh": "天上有很多云。",
+        "pinyin": "tian1 shang4 you3 hen3 duo1 yun2"
+      },
+      {
+        "zh": "你看，那朵云像一只狗。",
+        "pinyin": "ni3 kan4 na4 duo3 yun2 xiang4 yi1 zhi1 gou3"
+      },
+      {
+        "zh": "今天云很多，可能会下雨。",
+        "pinyin": "jin1 tian1 yun2 hen3 duo1 ke3 neng2 hui4 xia4 yu3"
+      },
+      {
+        "zh": "我把照片都放在云上了，用手机也能看。",
+        "pinyin": "wo3 ba3 zhao4 pian4 dou1 fang4 zai4 yun2 shang4 le5 yong4 shou3 ji1 ye3 neng2 kan4"
+      }
+    ]
+  },
+  {
+    "word": "儿童",
+    "examples": [
+      {
+        "zh": "儿童票多少钱？",
+        "pinyin": "er2 tong2 piao4 duo1 shao3 qian2"
+      },
+      {
+        "zh": "这是一本儿童书。",
+        "pinyin": "zhe4 shi4 yi1 ben3 er2 tong2 shu1"
+      },
+      {
+        "zh": "公园里有很多儿童在玩。",
+        "pinyin": "gong1 yuan2 li3 you3 hen3 duo1 er2 tong2 zai4 wan2"
+      },
+      {
+        "zh": "我们应该保护儿童的权利，让他们快乐地生活。",
+        "pinyin": "wo3 men5 ying1 gai1 bao3 hu4 er2 tong2 de5 quan2 li4 rang4 ta1 men5 kuai4 le4 de5 sheng1 huo2"
+      }
+    ]
+  },
+  {
+    "word": "科",
+    "examples": [
+      {
+        "zh": "你最喜欢哪科？",
+        "pinyin": "ni3 zui4 xi3 huan5 na3 ke1"
+      },
+      {
+        "zh": "我在医院的外科工作。",
+        "pinyin": "wo3 zai4 yi1 yuan4 de5 wai4 ke1 gong1 zuo4"
+      },
+      {
+        "zh": "这次考试，我每科都考得很好。",
+        "pinyin": "zhe4 ci4 kao3 shi4 wo3 mei3 ke1 dou1 kao3 de5 hen3 hao3"
+      },
+      {
+        "zh": "他是我们公司技术科的负责人。",
+        "pinyin": "ta1 shi4 wo3 men5 gong1 si1 ji4 shu4 ke1 de5 fu4 ze2 ren2"
+      }
+    ]
+  },
+  {
+    "word": "战略",
+    "examples": [
+      {
+        "zh": "这是一个好战略。",
+        "pinyin": "zhe4 shi4 yi1 ge4 hao3 zhan4 lüe4"
+      },
+      {
+        "zh": "公司需要新的战略。",
+        "pinyin": "gong1 si1 xu1 yao4 xin1 de5 zhan4 lüe4"
+      },
+      {
+        "zh": "两国建立了战略合作关系。",
+        "pinyin": "liang3 guo2 jian4 li4 le5 zhan4 lüe4 he2 zuo4 guan1 xi4"
+      },
+      {
+        "zh": "政府提出了发展经济的长期战略。",
+        "pinyin": "zheng4 fu3 ti2 chu1 le5 fa1 zhan3 jing1 ji4 de5 chang2 qi1 zhan4 lüe4"
+      }
+    ]
+  },
+  {
+    "word": "街",
+    "examples": [
+      {
+        "zh": "这条街很长。",
+        "pinyin": "zhe4 tiao2 jie1 hen3 chang2"
+      },
+      {
+        "zh": "我家在这条街上。",
+        "pinyin": "wo3 jia1 zai4 zhe4 tiao2 jie1 shang4"
+      },
+      {
+        "zh": "晚上我们一起去街上走走吧。",
+        "pinyin": "wan3 shang5 wo3 men5 yi1 qi3 qu4 jie1 shang4 zou3 zou5 ba5"
+      },
+      {
+        "zh": "这条街上有很多商店和饭店，星期天人非常多。",
+        "pinyin": "zhe4 tiao2 jie1 shang4 you3 hen3 duo1 shang1 dian4 he2 fan4 dian4 xing1 qi1 tian1 ren2 fei1 chang2 duo1"
+      }
+    ]
+  },
+  {
+    "word": "开心",
+    "examples": [
+      {
+        "zh": "我今天很开心。",
+        "pinyin": "wo3 jin1 tian1 hen3 kai1 xin1"
+      },
+      {
+        "zh": "见到你我很开心。",
+        "pinyin": "jian4 dao4 ni3 wo3 hen3 kai1 xin1"
+      },
+      {
+        "zh": "昨天我们在朋友家玩得很开心。",
+        "pinyin": "zuo2 tian1 wo3 men5 zai4 peng2 you5 jia1 wan2 de5 hen3 kai1 xin1"
+      },
+      {
+        "zh": "只要家人身体健康，我每天都很开心。",
+        "pinyin": "zhi3 yao4 jia1 ren2 shen1 ti3 jian4 kang1 wo3 mei3 tian1 dou1 hen3 kai1 xin1"
+      }
+    ]
+  },
+  {
+    "word": "城",
+    "examples": [
+      {
+        "zh": "我住在城里。",
+        "pinyin": "wo3 zhu4 zai4 cheng2 li3"
+      },
+      {
+        "zh": "这个城很大。",
+        "pinyin": "zhe4 ge4 cheng2 hen3 da4"
+      },
+      {
+        "zh": "他明天要去城里买东西。",
+        "pinyin": "ta1 ming2 tian1 yao4 qu4 cheng2 li3 mai3 dong1 xi5"
+      },
+      {
+        "zh": "北京城有很长的历史，很多人喜欢去那里旅游。",
+        "pinyin": "bei3 jing1 cheng2 you3 hen3 chang2 de5 li4 shi3 hen3 duo1 ren2 xi3 huan5 qu4 na4 li3 lü3 you2"
+      }
+    ]
+  },
+  {
+    "word": "调整",
+    "examples": [
+      {
+        "zh": "我们要调整计划。",
+        "pinyin": "wo3 men5 yao4 tiao2 zheng3 ji4 hua4"
+      },
+      {
+        "zh": "公司调整了上班时间。",
+        "pinyin": "gong1 si1 tiao2 zheng3 le5 shang4 ban1 shi2 jian1"
+      },
+      {
+        "zh": "天气变冷了，你要调整一下生活习惯。",
+        "pinyin": "tian1 qi4 bian4 leng3 le5 ni3 yao4 tiao2 zheng3 yi1 xia4 sheng1 huo2 xi2 guan4"
+      },
+      {
+        "zh": "政府决定调整经济政策，支持小企业发展。",
+        "pinyin": "zheng4 fu3 jue2 ding4 tiao2 zheng3 jing1 ji4 zheng4 ce4 zhi1 chi2 xiao3 qi3 ye4 fa1 zhan3"
+      }
+    ]
+  },
+  {
+    "word": "全面",
+    "examples": [
+      {
+        "zh": "这个报告写得很全面。",
+        "pinyin": "zhe4 ge4 bao4 gao4 xie3 de5 hen3 quan2 mian4"
+      },
+      {
+        "zh": "学校希望学生全面发展。",
+        "pinyin": "xue2 xiao4 xi1 wang4 xue2 sheng5 quan2 mian4 fa1 zhan3"
+      },
+      {
+        "zh": "医生给他做了全面的身体检查。",
+        "pinyin": "yi1 sheng1 gei3 ta1 zuo4 le5 quan2 mian4 de5 shen1 ti3 jian3 cha2"
+      },
+      {
+        "zh": "为了全面了解这个问题，记者调查了三个月。",
+        "pinyin": "wei4 le5 quan2 mian4 liao3 jie3 zhe4 ge4 wen4 ti2 ji4 zhe3 diao4 cha2 le5 san1 ge4 yue4"
+      }
+    ]
+  },
+  {
+    "word": "眼睛",
+    "examples": [
+      {
+        "zh": "她的眼睛很漂亮。",
+        "pinyin": "ta1 de5 yan3 jing5 hen3 piao4 liang5"
+      },
+      {
+        "zh": "我的眼睛不太好。",
+        "pinyin": "wo3 de5 yan3 jing5 bu4 tai4 hao3"
+      },
+      {
+        "zh": "看了一天电脑，我的眼睛很累。",
+        "pinyin": "kan4 le5 yi1 tian1 dian4 nao3 wo3 de5 yan3 jing5 hen3 lei4"
+      },
+      {
+        "zh": "医生说长时间看手机对眼睛不好。",
+        "pinyin": "yi1 sheng1 shuo1 chang2 shi2 jian1 kan4 shou3 ji1 dui4 yan3 jing5 bu4 hao3"
+      }
+    ]
+  },
+  {
+    "word": "打算",
+    "examples": [
+      {
+        "zh": "你打算去哪儿？",
+        "pinyin": "ni3 da3 suan4 qu4 na3 r5"
+      },
+      {
+        "zh": "我打算明年去中国。",
+        "pinyin": "wo3 da3 suan4 ming2 nian2 qu4 zhong1 guo2"
+      },
+      {
+        "zh": "放假的时候，你有什么打算？",
+        "pinyin": "fang4 jia4 de5 shi2 hou5 ni3 you3 shen2 me5 da3 suan4"
+      },
+      {
+        "zh": "我们打算先在北京住几天，然后去上海。",
+        "pinyin": "wo3 men5 da3 suan4 xian1 zai4 bei3 jing1 zhu4 ji3 tian1 ran2 hou4 qu4 shang4 hai3"
+      }
+    ]
+  },
+  {
+    "word": "节",
+    "examples": [
+      {
+        "zh": "今天我有两节课。",
+        "pinyin": "jin1 tian1 wo3 you3 liang3 jie2 ke4"
+      },
+      {
+        "zh": "春节是中国最重要的节日。",
+        "pinyin": "chun1 jie2 shi4 zhong1 guo2 zui4 zhong4 yao4 de5 jie2 ri4"
+      },
+      {
+        "zh": "每到过节，家人都会回家一起吃饭。",
+        "pinyin": "mei3 dao4 guo4 jie2 jia1 ren2 dou1 hui4 hui2 jia1 yi1 qi3 chi1 fan4"
+      },
+      {
+        "zh": "为了保护环境，我们应该节约用水。",
+        "pinyin": "wei4 le5 bao3 hu4 huan2 jing4 wo3 men5 ying1 gai1 jie2 yue1 yong4 shui3"
+      }
+    ]
+  },
+  {
+    "word": "商业",
+    "examples": [
+      {
+        "zh": "这里是商业中心。",
+        "pinyin": "zhe4 li3 shi4 shang1 ye4 zhong1 xin1"
+      },
+      {
+        "zh": "他在一家商业银行工作。",
+        "pinyin": "ta1 zai4 yi1 jia1 shang1 ye4 yin2 hang2 gong1 zuo4"
+      },
+      {
+        "zh": "这个城市的商业发展得很快。",
+        "pinyin": "zhe4 ge4 cheng2 shi4 de5 shang1 ye4 fa1 zhan3 de5 hen3 kuai4"
+      },
+      {
+        "zh": "这部电影太商业了，没有什么艺术价值。",
+        "pinyin": "zhe4 bu4 dian4 ying3 tai4 shang1 ye4 le5 mei2 you3 shen2 me5 yi4 shu4 jia4 zhi2"
+      }
+    ]
+  },
+  {
+    "word": "监督",
+    "examples": [
+      {
+        "zh": "老师在监督学生考试。",
+        "pinyin": "lao3 shi1 zai4 jian1 du1 xue2 sheng5 kao3 shi4"
+      },
+      {
+        "zh": "这个项目由他负责监督。",
+        "pinyin": "zhe4 ge4 xiang4 mu4 you2 ta1 fu4 ze2 jian1 du1"
+      },
+      {
+        "zh": "政府应该接受人民的监督。",
+        "pinyin": "zheng4 fu3 ying1 gai1 jie1 shou4 ren2 min2 de5 jian1 du1"
+      },
+      {
+        "zh": "没有人监督，他们的工作就做得不认真。",
+        "pinyin": "mei2 you3 ren2 jian1 du1 ta1 men5 de5 gong1 zuo4 jiu4 zuo4 de5 bu4 ren4 zhen1"
+      }
+    ]
+  },
+  {
+    "word": "少年",
+    "examples": [
+      {
+        "zh": "他是一个快乐的少年。",
+        "pinyin": "ta1 shi4 yi1 ge4 kuai4 le4 de5 shao4 nian2"
+      },
+      {
+        "zh": "那个少年跑得很快。",
+        "pinyin": "na4 ge4 shao4 nian2 pao3 de5 hen3 kuai4"
+      },
+      {
+        "zh": "少年时期，他常常一个人去图书馆。",
+        "pinyin": "shao4 nian2 shi2 qi1 ta1 chang2 chang2 yi1 ge4 ren2 qu4 tu2 shu1 guan3"
+      },
+      {
+        "zh": "这本小说讲的是一个少年改变自己的故事。",
+        "pinyin": "zhe4 ben3 xiao3 shuo1 jiang3 de5 shi4 yi1 ge4 shao4 nian2 gai3 bian4 zi4 ji3 de5 gu4 shi5"
+      }
+    ]
+  }
+]

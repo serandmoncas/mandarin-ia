@@ -1,0 +1,163 @@
+[
+  {
+    "id": "word:中间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3624072c26adca49c7645e65dbe5704f4c0641f5"
+  },
+  {
+    "id": "word:事情",
+    "ok": true,
+    "issues": [],
+    "content_hash": "28f99707da16d0a0325bc1b835bbad19b6309946"
+  },
+  {
+    "id": "word:马上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "248d46bce1d9ad7576459cf767a44e83ccc8529f"
+  },
+  {
+    "id": "word:没什么",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 时候 se escribe «shí hou», con la segunda sílaba en tono neutro, no «shí hòu»."
+    ],
+    "content_hash": "a25f359f2e18b66352b1ac7794a744a01f1a18e2"
+  },
+  {
+    "id": "word:照片",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ee316ab37b45ee14b0a14e0fcd1e0088191bcc3c"
+  },
+  {
+    "id": "word:七",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de12fd17209c7b54ea6e564eab6f2610162bc270"
+  },
+  {
+    "id": "word:肉",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 妈妈 debe ser «mā ma», no «mā mā»."
+    ],
+    "content_hash": "5d77d253e5bd3defca73915628b4f973d94941b0"
+  },
+  {
+    "id": "word:总统",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f5ce4656487d8325e0e879ae956fc1fd915e35c"
+  },
+  {
+    "id": "word:妹妹",
+    "ok": true,
+    "issues": [],
+    "content_hash": "170cdd8185384e4ca3fa56dffa94c2d1aa4a539c"
+  },
+  {
+    "id": "word:女生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b27e23e9eeab9ff8613a38ea9fbb1d90ce1a1550"
+  },
+  {
+    "id": "word:市",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5691d58279dc11ae898049c43aa8dcc404b20e2"
+  },
+  {
+    "id": "word:政策",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f97f59b1d20cbab2b27f6f3b62472d83e7569117"
+  },
+  {
+    "id": "word:不断",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f92c91969cd679e254b00abb1e374f779b946ab"
+  },
+  {
+    "id": "word:故事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "606b89a6c7633828c5c914d7e39ffed22b69c248"
+  },
+  {
+    "id": "word:合作",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dbfda3f2284b8279470e0d435a6158f520d9d99a"
+  },
+  {
+    "id": "word:位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8fb86780df9ce6dfd4d076ab679652621b93ae6f"
+  },
+  {
+    "id": "word:课",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 时候 se escribe «shí hou», con la segunda sílaba en tono neutro, no «shí hòu»."
+    ],
+    "content_hash": "eb68f34b5a7ca44426d4b42b4270eb6ad4a6ec01"
+  },
+  {
+    "id": "word:试",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 1 y 3: en el verbo reduplicado 试试 la segunda sílaba va en tono neutro («shì shi»), no «shì shì».",
+      "Pinyin del ejemplo 2: 衣服 se escribe «yī fu», no «yī fú»."
+    ],
+    "content_hash": "c470fa8766fbbc3fe9a56c944271b0b1a904038d"
+  },
+  {
+    "id": "word:休息",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf866cbf1504da3bfc2cff86ec85e8051b04c576"
+  },
+  {
+    "id": "word:一下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e48a7c15d6d365c2dd9454bb0425ea7e432440e6"
+  },
+  {
+    "id": "word:有一些",
+    "ok": false,
+    "issues": [
+      "Todos los ejemplos usan 有 (verbo «tener/haber») seguido de 一些 («algunos»). Ninguno muestra el uso adverbial de 有一些 como «un poco/algo», que es el sentido propio de la palabra según CEDICT (p. ej., 我今天有一些累 «hoy estoy un poco cansado»). El significado «un poco» queda sin ejemplo."
+    ],
+    "content_hash": "3e744f092a15548577c9f618070e53953a393b4a"
+  },
+  {
+    "id": "word:回去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7002818011bd899871910ffcf122e8fb2c270aff"
+  },
+  {
+    "id": "word:规定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a86d59c7a1273f1f86d18f99e5edabe846eb2f2"
+  },
+  {
+    "id": "word:科学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "862d25ae4515f731d123f24814cfb5628c918341"
+  },
+  {
+    "id": "word:弟弟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6d2bc3c57da4875a12e738604e905a7e7e0fd3c"
+  }
+]

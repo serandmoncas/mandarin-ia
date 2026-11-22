@@ -1,0 +1,422 @@
+[
+  {
+    "word": "算",
+    "examples": [
+      {
+        "zh": "这个不算。",
+        "pinyin": "zhe4 ge5 bu4 suan4"
+      },
+      {
+        "zh": "你算一下这些多少钱。",
+        "pinyin": "ni3 suan4 yi1 xia4 zhe4 xie1 duo1 shao3 qian2"
+      },
+      {
+        "zh": "他算是我的好朋友。",
+        "pinyin": "ta1 suan4 shi4 wo3 de5 hao3 peng2 you5"
+      },
+      {
+        "zh": "如果把孩子也算上，我们有六个人。",
+        "pinyin": "ru2 guo3 ba3 hai2 zi5 ye3 suan4 shang5 wo3 men5 you3 liu4 ge4 ren2"
+      }
+    ]
+  },
+  {
+    "word": "工具",
+    "examples": [
+      {
+        "zh": "这是什么工具？",
+        "pinyin": "zhe4 shi4 shen2 me5 gong1 ju4"
+      },
+      {
+        "zh": "手机是很重要的工具。",
+        "pinyin": "shou3 ji1 shi4 hen3 zhong4 yao4 de5 gong1 ju4"
+      },
+      {
+        "zh": "我需要一些工具来做这个。",
+        "pinyin": "wo3 xu1 yao4 yi1 xie1 gong1 ju4 lai2 zuo4 zhe4 ge5"
+      },
+      {
+        "zh": "语言不只是工具，也是一种文化。",
+        "pinyin": "yu3 yan2 bu4 zhi3 shi4 gong1 ju4 ye3 shi4 yi1 zhong3 wen2 hua4"
+      }
+    ]
+  },
+  {
+    "word": "信",
+    "examples": [
+      {
+        "zh": "我不信。",
+        "pinyin": "wo3 bu4 xin4"
+      },
+      {
+        "zh": "我给妈妈写信。",
+        "pinyin": "wo3 gei3 ma1 ma5 xie3 xin4"
+      },
+      {
+        "zh": "你信不信他说的话？",
+        "pinyin": "ni3 xin4 bu5 xin4 ta1 shuo1 de5 hua4"
+      },
+      {
+        "zh": "这是我朋友从美国给我写的信。",
+        "pinyin": "zhe4 shi4 wo3 peng2 you5 cong2 mei3 guo2 gei3 wo3 xie3 de5 xin4"
+      }
+    ]
+  },
+  {
+    "word": "正常",
+    "examples": [
+      {
+        "zh": "这很正常。",
+        "pinyin": "zhe4 hen3 zheng4 chang2"
+      },
+      {
+        "zh": "明天学校正常上课。",
+        "pinyin": "ming2 tian1 xue2 xiao4 zheng4 chang2 shang4 ke4"
+      },
+      {
+        "zh": "医生说我的身体一切正常。",
+        "pinyin": "yi1 sheng1 shuo1 wo3 de5 shen1 ti3 yi1 qie4 zheng4 chang2"
+      },
+      {
+        "zh": "第一次学汉语觉得难，这是很正常的。",
+        "pinyin": "di4 yi1 ci4 xue2 han4 yu3 jue2 de5 nan2 zhe4 shi4 hen3 zheng4 chang2 de5"
+      }
+    ]
+  },
+  {
+    "word": "交通",
+    "examples": [
+      {
+        "zh": "北京的交通怎么样？",
+        "pinyin": "bei3 jing1 de5 jiao1 tong1 zen3 me5 yang4"
+      },
+      {
+        "zh": "这里的交通不太好。",
+        "pinyin": "zhe4 li3 de5 jiao1 tong1 bu4 tai4 hao3"
+      },
+      {
+        "zh": "开车的时候要注意交通安全。",
+        "pinyin": "kai1 che1 de5 shi2 hou5 yao4 zhu4 yi4 jiao1 tong1 an1 quan2"
+      },
+      {
+        "zh": "城市越来越大，交通问题也越来越严重。",
+        "pinyin": "cheng2 shi4 yue4 lai2 yue4 da4 jiao1 tong1 wen4 ti2 ye3 yue4 lai2 yue4 yan2 zhong4"
+      }
+    ]
+  },
+  {
+    "word": "不错",
+    "examples": [
+      {
+        "zh": "这个菜不错。",
+        "pinyin": "zhe4 ge5 cai4 bu4 cuo4"
+      },
+      {
+        "zh": "今天天气不错。",
+        "pinyin": "jin1 tian1 tian1 qi4 bu4 cuo4"
+      },
+      {
+        "zh": "你的汉语说得很不错。",
+        "pinyin": "ni3 de5 han4 yu3 shuo1 de5 hen3 bu4 cuo4"
+      },
+      {
+        "zh": "不错，你说得对，这个办法确实很好。",
+        "pinyin": "bu4 cuo4 ni3 shuo1 de5 dui4 zhe4 ge5 ban4 fa3 que4 shi2 hen3 hao3"
+      }
+    ]
+  },
+  {
+    "word": "刚",
+    "examples": [
+      {
+        "zh": "我刚到。",
+        "pinyin": "wo3 gang1 dao4"
+      },
+      {
+        "zh": "我刚吃完饭。",
+        "pinyin": "wo3 gang1 chi1 wan2 fan4"
+      },
+      {
+        "zh": "我到车站的时候，火车刚走。",
+        "pinyin": "wo3 dao4 che1 zhan4 de5 shi2 hou5 huo3 che1 gang1 zou3"
+      },
+      {
+        "zh": "他刚来北京的时候，一个朋友也没有。",
+        "pinyin": "ta1 gang1 lai2 bei3 jing1 de5 shi2 hou5 yi1 ge4 peng2 you5 ye3 mei2 you3"
+      }
+    ]
+  },
+  {
+    "word": "正确",
+    "examples": [
+      {
+        "zh": "你的回答是正确的。",
+        "pinyin": "ni3 de5 hui2 da2 shi4 zheng4 que4 de5"
+      },
+      {
+        "zh": "这个字写得不正确。",
+        "pinyin": "zhe4 ge5 zi4 xie3 de5 bu4 zheng4 que4"
+      },
+      {
+        "zh": "我们要用正确的方法学习汉语。",
+        "pinyin": "wo3 men5 yao4 yong4 zheng4 que4 de5 fang1 fa3 xue2 xi2 han4 yu3"
+      },
+      {
+        "zh": "现在看来，当时离开那家公司是正确的选择。",
+        "pinyin": "xian4 zai4 kan4 lai2 dang1 shi2 li2 kai1 na4 jia1 gong1 si1 shi4 zheng4 que4 de5 xuan3 ze2"
+      }
+    ]
+  },
+  {
+    "word": "快乐",
+    "examples": [
+      {
+        "zh": "生日快乐！",
+        "pinyin": "sheng1 ri4 kuai4 le4"
+      },
+      {
+        "zh": "孩子们玩得很快乐。",
+        "pinyin": "hai2 zi5 men5 wan2 de5 hen3 kuai4 le4"
+      },
+      {
+        "zh": "和朋友在一起，我觉得很快乐。",
+        "pinyin": "he2 peng2 you5 zai4 yi1 qi3 wo3 jue2 de5 hen3 kuai4 le4"
+      },
+      {
+        "zh": "钱不能买到快乐，但是可以让生活更容易。",
+        "pinyin": "qian2 bu4 neng2 mai3 dao4 kuai4 le4 dan4 shi4 ke3 yi3 rang4 sheng1 huo2 geng4 rong2 yi4"
+      }
+    ]
+  },
+  {
+    "word": "资金",
+    "examples": [
+      {
+        "zh": "我们没有资金。",
+        "pinyin": "wo3 men5 mei2 you3 zi1 jin1"
+      },
+      {
+        "zh": "公司需要更多资金。",
+        "pinyin": "gong1 si1 xu1 yao4 geng4 duo1 zi1 jin1"
+      },
+      {
+        "zh": "这个项目的资金从哪里来？",
+        "pinyin": "zhe4 ge5 xiang4 mu4 de5 zi1 jin1 cong2 na3 li3 lai2"
+      },
+      {
+        "zh": "政府决定给农村提供更多的资金。",
+        "pinyin": "zheng4 fu3 jue2 ding4 gei3 nong2 cun1 ti2 gong1 geng4 duo1 de5 zi1 jin1"
+      }
+    ]
+  },
+  {
+    "word": "倒",
+    "examples": [
+      {
+        "zh": "树倒了。",
+        "pinyin": "shu4 dao3 le5"
+      },
+      {
+        "zh": "他跑得太快，倒在地上了。",
+        "pinyin": "ta1 pao3 de5 tai4 kuai4 dao3 zai4 di4 shang5 le5"
+      },
+      {
+        "zh": "昨天风很大，路边的树都倒了。",
+        "pinyin": "zuo2 tian1 feng1 hen3 da4 lu4 bian1 de5 shu4 dou1 dao3 le5"
+      },
+      {
+        "zh": "那家公司去年就倒了，很多人没有工作。",
+        "pinyin": "na4 jia1 gong1 si1 qu4 nian2 jiu4 dao3 le5 hen3 duo1 ren2 mei2 you3 gong1 zuo4"
+      }
+    ]
+  },
+  {
+    "word": "检查",
+    "examples": [
+      {
+        "zh": "请检查一下。",
+        "pinyin": "qing3 jian3 cha2 yi1 xia4"
+      },
+      {
+        "zh": "医生给我检查了身体。",
+        "pinyin": "yi1 sheng1 gei3 wo3 jian3 cha2 le5 shen1 ti3"
+      },
+      {
+        "zh": "写完以后，请再检查一次。",
+        "pinyin": "xie3 wan2 yi3 hou4 qing3 zai4 jian3 cha2 yi1 ci4"
+      },
+      {
+        "zh": "每次开车以前，他都会检查一下汽车。",
+        "pinyin": "mei3 ci4 kai1 che1 yi3 qian2 ta1 dou1 hui4 jian3 cha2 yi1 xia4 qi4 che1"
+      }
+    ]
+  },
+  {
+    "word": "无论",
+    "examples": [
+      {
+        "zh": "无论如何，我都会来。",
+        "pinyin": "wu2 lun4 ru2 he2 wo3 dou1 hui4 lai2"
+      },
+      {
+        "zh": "无论多忙，他每天都看书。",
+        "pinyin": "wu2 lun4 duo1 mang2 ta1 mei3 tian1 dou1 kan4 shu1"
+      },
+      {
+        "zh": "无论你去哪儿，我都跟着你。",
+        "pinyin": "wu2 lun4 ni3 qu4 na3 r5 wo3 dou1 gen1 zhe5 ni3"
+      },
+      {
+        "zh": "无论下不下雨，比赛都会继续进行。",
+        "pinyin": "wu2 lun4 xia4 bu5 xia4 yu3 bi3 sai4 dou1 hui4 ji4 xu4 jin4 xing2"
+      }
+    ]
+  },
+  {
+    "word": "数",
+    "examples": [
+      {
+        "zh": "孩子会从一数到十。",
+        "pinyin": "hai2 zi5 hui4 cong2 yi1 shu3 dao4 shi2"
+      },
+      {
+        "zh": "你数一数这里有几个人。",
+        "pinyin": "ni3 shu3 yi5 shu3 zhe4 li3 you3 ji3 ge4 ren2"
+      },
+      {
+        "zh": "钱我数了三次，还是不对。",
+        "pinyin": "qian2 wo3 shu3 le5 san1 ci4 hai2 shi4 bu4 dui4"
+      },
+      {
+        "zh": "在我们班，他的汉语数第一。",
+        "pinyin": "zai4 wo3 men5 ban1 ta1 de5 han4 yu3 shu3 di4 yi1"
+      }
+    ]
+  },
+  {
+    "word": "水平",
+    "examples": [
+      {
+        "zh": "他的汉语水平很高。",
+        "pinyin": "ta1 de5 han4 yu3 shui3 ping2 hen3 gao1"
+      },
+      {
+        "zh": "我想提高我的中文水平。",
+        "pinyin": "wo3 xiang3 ti2 gao1 wo3 de5 zhong1 wen2 shui3 ping2"
+      },
+      {
+        "zh": "这几年，中国人的生活水平提高了很多。",
+        "pinyin": "zhe4 ji3 nian2 zhong1 guo2 ren2 de5 sheng1 huo2 shui3 ping2 ti2 gao1 le5 hen3 duo1"
+      },
+      {
+        "zh": "这个学校的教学水平在全国都很有名。",
+        "pinyin": "zhe4 ge5 xue2 xiao4 de5 jiao4 xue2 shui3 ping2 zai4 quan2 guo2 dou1 hen3 you3 ming2"
+      }
+    ]
+  },
+  {
+    "word": "英语",
+    "examples": [
+      {
+        "zh": "我会说英语。",
+        "pinyin": "wo3 hui4 shuo1 ying1 yu3"
+      },
+      {
+        "zh": "她的英语很好。",
+        "pinyin": "ta1 de5 ying1 yu3 hen3 hao3"
+      },
+      {
+        "zh": "我每天晚上学习一个小时英语。",
+        "pinyin": "wo3 mei3 tian1 wan3 shang5 xue2 xi2 yi1 ge4 xiao3 shi2 ying1 yu3"
+      },
+      {
+        "zh": "他在美国住了三年，英语说得非常好。",
+        "pinyin": "ta1 zai4 mei3 guo2 zhu4 le5 san1 nian2 ying1 yu3 shuo1 de5 fei1 chang2 hao3"
+      }
+    ]
+  },
+  {
+    "word": "组",
+    "examples": [
+      {
+        "zh": "我在第一组。",
+        "pinyin": "wo3 zai4 di4 yi1 zu3"
+      },
+      {
+        "zh": "我们三个人一组。",
+        "pinyin": "wo3 men5 san1 ge4 ren2 yi1 zu3"
+      },
+      {
+        "zh": "老师把学生分成四组。",
+        "pinyin": "lao3 shi1 ba3 xue2 sheng5 fen1 cheng2 si4 zu3"
+      },
+      {
+        "zh": "我们组的同学一起完成了这个项目。",
+        "pinyin": "wo3 men5 zu3 de5 tong2 xue2 yi1 qi3 wan2 cheng2 le5 zhe4 ge5 xiang4 mu4"
+      }
+    ]
+  },
+  {
+    "word": "举办",
+    "examples": [
+      {
+        "zh": "学校举办了一个活动。",
+        "pinyin": "xue2 xiao4 ju3 ban4 le5 yi1 ge4 huo2 dong4"
+      },
+      {
+        "zh": "明天我们要举办一个生日晚会。",
+        "pinyin": "ming2 tian1 wo3 men5 yao4 ju3 ban4 yi1 ge4 sheng1 ri4 wan3 hui4"
+      },
+      {
+        "zh": "这个城市每年都举办音乐节。",
+        "pinyin": "zhe4 ge5 cheng2 shi4 mei3 nian2 dou1 ju3 ban4 yin1 yue4 jie2"
+      },
+      {
+        "zh": "公司决定下个月在上海举办一次国际会议。",
+        "pinyin": "gong1 si1 jue2 ding4 xia4 ge4 yue4 zai4 shang4 hai3 ju3 ban4 yi1 ci4 guo2 ji4 hui4 yi4"
+      }
+    ]
+  },
+  {
+    "word": "懂",
+    "examples": [
+      {
+        "zh": "我不懂。",
+        "pinyin": "wo3 bu4 dong3"
+      },
+      {
+        "zh": "你懂我的意思吗？",
+        "pinyin": "ni3 dong3 wo3 de5 yi4 si5 ma5"
+      },
+      {
+        "zh": "这本书太难了，我看不懂。",
+        "pinyin": "zhe4 ben3 shu1 tai4 nan2 le5 wo3 kan4 bu5 dong3"
+      },
+      {
+        "zh": "他说得太快了，我一句也听不懂。",
+        "pinyin": "ta1 shuo1 de5 tai4 kuai4 le5 wo3 yi1 ju4 ye3 ting1 bu5 dong3"
+      }
+    ]
+  },
+  {
+    "word": "假",
+    "examples": [
+      {
+        "zh": "这是假的。",
+        "pinyin": "zhe4 shi4 jia3 de5"
+      },
+      {
+        "zh": "这张照片是假的吗？",
+        "pinyin": "zhe4 zhang1 zhao4 pian4 shi4 jia3 de5 ma5"
+      },
+      {
+        "zh": "他说的话都是假的，你别相信。",
+        "pinyin": "ta1 shuo1 de5 hua4 dou1 shi4 jia3 de5 ni3 bie2 xiang1 xin4"
+      },
+      {
+        "zh": "在网上买东西的时候，要注意别买到假的。",
+        "pinyin": "zai4 wang3 shang4 mai3 dong1 xi5 de5 shi2 hou5 yao4 zhu4 yi4 bie2 mai3 dao4 jia3 de5"
+      }
+    ]
+  }
+]

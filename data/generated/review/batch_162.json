@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba634979f98771de725a6a88f09ef2dd6be51a3f"
+  },
+  {
+    "id": "word:爷爷",
+    "ok": true,
+    "issues": [],
+    "content_hash": "62e838e1bece65e56227be2f8907a2fa493758be"
+  },
+  {
+    "id": "word:基础",
+    "ok": true,
+    "issues": [],
+    "content_hash": "784c8f95c0bd353e6feb452a91b77a46c60a8960"
+  },
+  {
+    "id": "word:女朋友",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e7441468ed7fc977438eeeecb8a8f56ab9bb5715"
+  },
+  {
+    "id": "word:雨",
+    "ok": true,
+    "issues": [],
+    "content_hash": "73271e93c2447abf3319d711ffb3133243597a06"
+  },
+  {
+    "id": "word:台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2750e520ccd209cf0b85700e04feb3369ed96608"
+  },
+  {
+    "id": "word:男朋友",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a7f89f3d7673900347b9d0ce63029a832630e791"
+  },
+  {
+    "id": "word:男生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6042241f672aea036a70d50c148febff14847f48"
+  },
+  {
+    "id": "word:上学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "261b4b2e6d18452d3deb10b39d146f0b81ded98b"
+  },
+  {
+    "id": "word:水果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "564936b5559f45732f31d3836dcaf44bb6177cb1"
+  },
+  {
+    "id": "word:奶奶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27ad0f9d51fc3ca97ec1ec76f051bf718c68b4cf"
+  },
+  {
+    "id": "word:有用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "690c22c2cc45fbef7300327865936160af391bae"
+  },
+  {
+    "id": "word:没关系",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2cc8e17ab1a1aa5ccb7ea81fc75fe0e4e6a15bad"
+  },
+  {
+    "id": "word:面包",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34f50790c6e4224c3d22ad1e58cad48d3fbd9c04"
+  },
+  {
+    "id": "word:非",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8208d3610f96207dc5a70a6b353ac89fb1ff3ae8"
+  },
+  {
+    "id": "word:经过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80967e9acce80e7fede28f250cada34f3ec9dac3"
+  },
+  {
+    "id": "word:唱歌",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d943a9f83f977c699d184eb875b6bc9a54d74fe6"
+  },
+  {
+    "id": "word:努力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "48ca022eb34cb32c87e651b69400c27079e1e51e"
+  },
+  {
+    "id": "word:那儿",
+    "ok": false,
+    "issues": [
+      "El pinyin de 那儿 en todos los ejemplos es «nà ér»; debe ser «nàr» (erhua, no se pronuncia como sílaba aparte).",
+      "Pinyin con tonos llenos donde corresponde tono neutro: 时候 «shí hòu» → «shíhou», 认识 «rèn shí» → «rènshi», 朋友 «péng yǒu» → «péngyou»."
+    ],
+    "content_hash": "0387ba0580aece75b5395a1b1f6575e4ad1de500"
+  },
+  {
+    "id": "word:牛奶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f50678de4bf5e45baaccda8ecf197f89edd8e818"
+  },
+  {
+    "id": "word:只要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d5f57790a458b4d1ebd1b648d16256516a74b27"
+  },
+  {
+    "id": "word:新年",
+    "ok": false,
+    "issues": [
+      "«新年的时候，我们一家人吃饭。» suena poco natural: le falta 一起 o algo como 吃团圆饭. La traducción «come junta» añade un sentido que la frase china no expresa con claridad.",
+      "Pinyin: 爷爷 aparece como «yé yé»; debe ser «yé ye». 时候 aparece como «shí hòu»; debe ser «shíhou»."
+    ],
+    "content_hash": "f92feb66a1f0be959bb2cb7833c0ebdadcfb62a4"
+  },
+  {
+    "id": "word:选举",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef7cf68e6d30c403caa501d0abaa53d3d9d52497"
+  },
+  {
+    "id": "word:有名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "845c55521d9da48c5ac534151f06748295845b20"
+  },
+  {
+    "id": "word:白天",
+    "ok": false,
+    "issues": [
+      "Pinyin: 晚上 aparece como «wǎn shàng»; debe ser «wǎn shang» (tono neutro), igual que en las demás entradas."
+    ],
+    "content_hash": "c322b435377885e628e710aa390b0817c2c006ee"
+  }
+]

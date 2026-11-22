@@ -1,0 +1,169 @@
+[
+  {
+    "id": "word:吵架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fd9f815cb298c7043a363ca42f3c9f34c0efa53d"
+  },
+  {
+    "id": "word:旅行社",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ef593e1c1233cdf5199e136c4ded0dccf791003"
+  },
+  {
+    "id": "word:全场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f34c553c8fdaf1d00b42c7a7f9cb28d8e90b0ace"
+  },
+  {
+    "id": "word:动人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1fd36901cc720dd91a50e34c7288dac07b392b20"
+  },
+  {
+    "id": "word:衬衫",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: pinyin de 看看 con tono neutro en la segunda sílaba: «kàn kan», no «kàn kàn»."
+    ],
+    "content_hash": "921e301e1c6f610fd01efdf721147444d0aadbcb"
+  },
+  {
+    "id": "word:静",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a7a9031da55ef6c949ca1c82ce7e9acd844ad07e"
+  },
+  {
+    "id": "word:可乐",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 喜欢 se escribe normalmente «xǐ huan» (tono neutro), no «xǐ huān».",
+      "Ejemplo 3: «unas botellas de refresco» pierde el sentido de «cola». Mejor «unas botellas de refresco de cola» o «unas coca-colas»."
+    ],
+    "content_hash": "7f096f61384de2bd26e559adf720f55948b6e4d5"
+  },
+  {
+    "id": "word:票价",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de820f2bf517395a1cb0df6ada61dab68cc315fb"
+  },
+  {
+    "id": "word:有的是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "979a62b64c43f157cb977ff4206ccd1d9e108f49"
+  },
+  {
+    "id": "word:认得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0342163045b17f3546acf184f5ce2b2a5daf21c"
+  },
+  {
+    "id": "word:收听",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: 早上 es «zǎo shang» (tono neutro), no «zǎo shàng».",
+      "Ejemplo 3: 爷爷 es «yé ye» (tono neutro), no «yé yé». También 喜欢 es «xǐ huan»."
+    ],
+    "content_hash": "6f49464d85b95c6da11ac41858601e2ee2f015e3"
+  },
+  {
+    "id": "word:服务员",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 时候 es «shí hou», no «shí hòu». 姐姐 es «jiě jie», no «jiě jiě»."
+    ],
+    "content_hash": "5e97d360aa83a69a9f95d23a8d9fa3b03107d42c"
+  },
+  {
+    "id": "word:请教",
+    "ok": true,
+    "issues": [],
+    "content_hash": "910c0674f3651a9767cf74084d239a7a0000a013"
+  },
+  {
+    "id": "word:房租",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0dfce83c6e658c6168192db7a73d36c6042117fc"
+  },
+  {
+    "id": "word:木头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fad2d5b517bad9ed35663dfa1ed78a67937acc13"
+  },
+  {
+    "id": "word:上衣",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d91f152067b36dac126e3b136d73d4d5e21af548"
+  },
+  {
+    "id": "word:分组",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7443b7580460fc4a7639b237f9b77b819fab865a"
+  },
+  {
+    "id": "word:认出",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 衣服 es «yī fu» (tono neutro), no «yī fú»."
+    ],
+    "content_hash": "57e6f889774c74a41cad1105178608ed0f9b0d4e"
+  },
+  {
+    "id": "word:房东",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: con una llamada telefónica, «他没有回答» suena poco natural. Lo idiomático es «他没有接» o «他没接电话»."
+    ],
+    "content_hash": "36910c4355cb4319eb5c12933a0445fbe0e9f480"
+  },
+  {
+    "id": "word:干吗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc601520bd53c5f7e6e60546af7c60da248fe795"
+  },
+  {
+    "id": "word:电子邮件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc9cee2ca282965e1ee2145316fe9955dd262bf8"
+  },
+  {
+    "id": "word:卫生间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a458cd1e1110bf1779c2e5479b654a231d7153a3"
+  },
+  {
+    "id": "word:红酒",
+    "ok": true,
+    "issues": [],
+    "content_hash": "72a7b550a8446711e17abf97f2cc2a532206795b"
+  },
+  {
+    "id": "word:本领",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14547d75dd77d8bdb4d40ade1abb3dbb7b725a5f"
+  },
+  {
+    "id": "word:连续剧",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: 妈妈 es «mā ma», no «mā mā». 喜欢 es «xǐ huan», no «xǐ huān».",
+      "Ejemplo 3: 晚上 es «wǎn shang» (tono neutro), no «wǎn shàng»."
+    ],
+    "content_hash": "a0a95dff6a5fe42cfcfa0d3040d6b937c0d1a288"
+  }
+]

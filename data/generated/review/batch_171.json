@@ -1,0 +1,163 @@
+[
+  {
+    "id": "word:懂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d318bd92cf6eaa0e3e9039ed65fe0fc9ac93bd45"
+  },
+  {
+    "id": "word:训练",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1eee18d7638be6013a2376498a639412e0b7bc10"
+  },
+  {
+    "id": "word:脸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "50b0b8c9c6b71f4ccb71812ce98bf4ddd19a2fd1"
+  },
+  {
+    "id": "word:假",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f59fa761b3da256132e52f37934a2e19dde7717"
+  },
+  {
+    "id": "word:主任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f149f2b346616ec4233557a1b89b41eb96a430a"
+  },
+  {
+    "id": "word:作者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c89b0d71ed7a113a9fb5940b32e18b780857e7d"
+  },
+  {
+    "id": "word:改",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f67839168372dd41764069a5d0a78cc8422b3e0"
+  },
+  {
+    "id": "word:普通",
+    "ok": false,
+    "issues": [
+      "El ejemplo 她普通话说得很好 usa la palabra compuesta 普通话 (mandarín estándar), no 普通 con su significado de 'común'. Puede confundir al estudiante; conviene reemplazarlo por un ejemplo con 普通."
+    ],
+    "content_hash": "3ef8111ebe732d151cfeb9b462a96280488f0980"
+  },
+  {
+    "id": "word:医疗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1e0274032888b5b8744be8cacb70e83624846ed3"
+  },
+  {
+    "id": "word:一部分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "332412c012726b6c644bf56b8c3f6e028627a34e"
+  },
+  {
+    "id": "word:漂亮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7138ea8d6c521657f70f61e56c9fa32ae0322fd4"
+  },
+  {
+    "id": "word:销售",
+    "ok": false,
+    "issues": [
+      "En 公司的销售增加了很多 sería más natural 销售额 o 销量 que 销售 solo."
+    ],
+    "content_hash": "9f6e67f4aba9810662fe1753c06f1ef48e1c4b6e"
+  },
+  {
+    "id": "word:不够",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec935925786eed36cb1c71f73b38004150408c2c"
+  },
+  {
+    "id": "word:程度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6fb544c1c81b39452f84ed9f8d382469b5468124"
+  },
+  {
+    "id": "word:见到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e7c3a40546d92078c68b12bad5f21b4838bd5f4"
+  },
+  {
+    "id": "word:通知",
+    "ok": false,
+    "issues": [
+      "Error de pinyin: 星期一 se pronuncia xīng qī yī. Aquí 一 es ordinal y no sufre cambio tonal, así que 'yí' es incorrecto."
+    ],
+    "content_hash": "53eae5f903a628734a4ba44350fec04708b99db4"
+  },
+  {
+    "id": "word:云",
+    "ok": false,
+    "issues": [
+      "放在云上 suena poco natural para el almacenamiento en la nube; lo habitual es 存到云端 o 传到云盘."
+    ],
+    "content_hash": "ee09f66bbf4e49733957690eff02d0ae37b248d1"
+  },
+  {
+    "id": "word:儿童",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8d31d6c91329f38595da7d3cc0cd08e1a81f55fd"
+  },
+  {
+    "id": "word:允许",
+    "ok": true,
+    "issues": [],
+    "content_hash": "13f8e15ba45d258674a70baea7fb8d71c829f86d"
+  },
+  {
+    "id": "word:出版",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd95a4fd794dae40d2c68e967d52918551e5f57a"
+  },
+  {
+    "id": "word:周",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0fc14b673b8c4abf2251dda5090508ab00f806e3"
+  },
+  {
+    "id": "word:科",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51b681a7b228d23d0f1236314903c741ebb7f961"
+  },
+  {
+    "id": "word:战略",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd4badcd74920b9995e7d96b2758232590f2ab84"
+  },
+  {
+    "id": "word:编辑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "526f2a6f4528ffe4056918de52aecea5249b959a"
+  },
+  {
+    "id": "word:质量",
+    "ok": false,
+    "issues": [
+      "Error de pinyin: 东西 ('cosas') es dōng xi, con tono neutro. Con 'dōng xī' significa 'este y oeste'.",
+      "Error de pinyin: 衣服 es yī fu, con tono neutro, no 'yī fú'."
+    ],
+    "content_hash": "f6649072d453da527dd3f0457eda2aba8cd5dab4"
+  }
+]

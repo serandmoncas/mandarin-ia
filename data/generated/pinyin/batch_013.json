@@ -1,0 +1,422 @@
+[
+  {
+    "word": "卖",
+    "examples": [
+      {
+        "zh": "这家店卖水果。",
+        "pinyin": "zhe4 jia1 dian4 mai4 shui3 guo3"
+      },
+      {
+        "zh": "你的车卖了吗？",
+        "pinyin": "ni3 de5 che1 mai4 le5 ma5"
+      },
+      {
+        "zh": "这本书卖得非常好。",
+        "pinyin": "zhe4 ben3 shu1 mai4 de5 fei1 chang2 hao3"
+      },
+      {
+        "zh": "他把房子卖了，然后去国外生活了。",
+        "pinyin": "ta1 ba3 fang2 zi5 mai4 le5 ran2 hou4 qu4 guo2 wai4 sheng1 huo2 le5"
+      }
+    ]
+  },
+  {
+    "word": "失去",
+    "examples": [
+      {
+        "zh": "他失去了工作。",
+        "pinyin": "ta1 shi1 qu4 le5 gong1 zuo4"
+      },
+      {
+        "zh": "我不想失去你。",
+        "pinyin": "wo3 bu4 xiang3 shi1 qu4 ni3"
+      },
+      {
+        "zh": "不要失去希望，一切都会好起来的。",
+        "pinyin": "bu4 yao4 shi1 qu4 xi1 wang4 yi1 qie4 dou1 hui4 hao3 qi3 lai5 de5"
+      },
+      {
+        "zh": "因为一个严重的错误，这家公司失去了很多用户。",
+        "pinyin": "yin1 wei4 yi1 ge4 yan2 zhong4 de5 cuo4 wu4 zhe4 jia1 gong1 si1 shi1 qu4 le5 hen3 duo1 yong4 hu4"
+      }
+    ]
+  },
+  {
+    "word": "真实",
+    "examples": [
+      {
+        "zh": "这是真实的故事。",
+        "pinyin": "zhe4 shi4 zhen1 shi2 de5 gu4 shi5"
+      },
+      {
+        "zh": "这部电影拍得非常真实。",
+        "pinyin": "zhe4 bu4 dian4 ying3 pai1 de5 fei1 chang2 zhen1 shi2"
+      },
+      {
+        "zh": "请告诉我你真实的想法。",
+        "pinyin": "qing3 gao4 su5 wo3 ni3 zhen1 shi2 de5 xiang3 fa3"
+      },
+      {
+        "zh": "记者应该报道真实的情况。",
+        "pinyin": "ji4 zhe3 ying1 gai1 bao4 dao4 zhen1 shi2 de5 qing2 kuang4"
+      }
+    ]
+  },
+  {
+    "word": "规模",
+    "examples": [
+      {
+        "zh": "这个公司的规模很大。",
+        "pinyin": "zhe4 ge4 gong1 si1 de5 gui1 mo2 hen3 da4"
+      },
+      {
+        "zh": "学校的规模比以前大了。",
+        "pinyin": "xue2 xiao4 de5 gui1 mo2 bi3 yi3 qian2 da4 le5"
+      },
+      {
+        "zh": "这次活动的规模超过了去年。",
+        "pinyin": "zhe4 ci4 huo2 dong4 de5 gui1 mo2 chao1 guo4 le5 qu4 nian2"
+      },
+      {
+        "zh": "政府决定减少这个项目的规模。",
+        "pinyin": "zheng4 fu3 jue2 ding4 jian3 shao3 zhe4 ge4 xiang4 mu4 de5 gui1 mo2"
+      }
+    ]
+  },
+  {
+    "word": "积极",
+    "examples": [
+      {
+        "zh": "他很积极。",
+        "pinyin": "ta1 hen3 ji1 ji2"
+      },
+      {
+        "zh": "学生们积极参加活动。",
+        "pinyin": "xue2 sheng1 men5 ji1 ji2 can1 jia1 huo2 dong4"
+      },
+      {
+        "zh": "她总是很积极地帮助别人。",
+        "pinyin": "ta1 zong3 shi4 hen3 ji1 ji2 de5 bang1 zhu4 bie2 ren2"
+      },
+      {
+        "zh": "政府应该采取更积极的政策支持小企业。",
+        "pinyin": "zheng4 fu3 ying1 gai1 cai3 qu3 geng4 ji1 ji2 de5 zheng4 ce4 zhi1 chi2 xiao3 qi3 ye4"
+      }
+    ]
+  },
+  {
+    "word": "经营",
+    "examples": [
+      {
+        "zh": "他经营一家饭店。",
+        "pinyin": "ta1 jing1 ying2 yi1 jia1 fan4 dian4"
+      },
+      {
+        "zh": "这家商店经营得很好。",
+        "pinyin": "zhe4 jia1 shang1 dian4 jing1 ying2 de5 hen3 hao3"
+      },
+      {
+        "zh": "她和哥哥一起经营一家公司。",
+        "pinyin": "ta1 he2 ge1 ge5 yi1 qi3 jing1 ying2 yi1 jia1 gong1 si1"
+      },
+      {
+        "zh": "因为经营不好，这家公司去年关门了。",
+        "pinyin": "yin1 wei4 jing1 ying2 bu4 hao3 zhe4 jia1 gong1 si1 qu4 nian2 guan1 men2 le5"
+      }
+    ]
+  },
+  {
+    "word": "那样",
+    "examples": [
+      {
+        "zh": "别那样说话。",
+        "pinyin": "bie2 na4 yang4 shuo1 hua4"
+      },
+      {
+        "zh": "我也想要那样的衣服。",
+        "pinyin": "wo3 ye3 xiang3 yao4 na4 yang4 de5 yi1 fu5"
+      },
+      {
+        "zh": "他不是你想的那样。",
+        "pinyin": "ta1 bu4 shi4 ni3 xiang3 de5 na4 yang4"
+      },
+      {
+        "zh": "如果你那样做，妈妈一定会生气的。",
+        "pinyin": "ru2 guo3 ni3 na4 yang4 zuo4 ma1 ma5 yi1 ding4 hui4 sheng1 qi4 de5"
+      }
+    ]
+  },
+  {
+    "word": "清楚",
+    "examples": [
+      {
+        "zh": "请说清楚一点。",
+        "pinyin": "qing3 shuo1 qing1 chu5 yi1 dian3"
+      },
+      {
+        "zh": "我听不清楚。",
+        "pinyin": "wo3 ting1 bu4 qing1 chu5"
+      },
+      {
+        "zh": "我不清楚他住在哪里。",
+        "pinyin": "wo3 bu4 qing1 chu5 ta1 zhu4 zai4 na3 li5"
+      },
+      {
+        "zh": "老师把这个问题解释得很清楚。",
+        "pinyin": "lao3 shi1 ba3 zhe4 ge4 wen4 ti2 jie3 shi4 de5 hen3 qing1 chu5"
+      }
+    ]
+  },
+  {
+    "word": "思想",
+    "examples": [
+      {
+        "zh": "每个人都有自己的思想。",
+        "pinyin": "mei3 ge4 ren2 dou1 you3 zi4 ji3 de5 si1 xiang3"
+      },
+      {
+        "zh": "我爷爷的思想比较传统。",
+        "pinyin": "wo3 ye2 ye5 de5 si1 xiang3 bi3 jiao4 chuan2 tong3"
+      },
+      {
+        "zh": "我们应该了解不同的思想和文化。",
+        "pinyin": "wo3 men5 ying1 gai1 liao3 jie3 bu4 tong2 de5 si1 xiang3 he2 wen2 hua4"
+      },
+      {
+        "zh": "这本书对很多人的思想产生了重要影响。",
+        "pinyin": "zhe4 ben3 shu1 dui4 hen3 duo1 ren2 de5 si1 xiang3 chan3 sheng1 le5 zhong4 yao4 ying3 xiang3"
+      }
+    ]
+  },
+  {
+    "word": "承认",
+    "examples": [
+      {
+        "zh": "我承认你说得对。",
+        "pinyin": "wo3 cheng2 ren4 ni3 shuo1 de5 dui4"
+      },
+      {
+        "zh": "他承认了自己的错误。",
+        "pinyin": "ta1 cheng2 ren4 le5 zi4 ji3 de5 cuo4 wu4"
+      },
+      {
+        "zh": "他一直不承认是他拿了钱。",
+        "pinyin": "ta1 yi1 zhi2 bu4 cheng2 ren4 shi4 ta1 na2 le5 qian2"
+      },
+      {
+        "zh": "很多国家还没有承认这个新政府。",
+        "pinyin": "hen3 duo1 guo2 jia1 hai2 mei2 you3 cheng2 ren4 zhe4 ge4 xin1 zheng4 fu3"
+      }
+    ]
+  },
+  {
+    "word": "担心",
+    "examples": [
+      {
+        "zh": "别担心！",
+        "pinyin": "bie2 dan1 xin1"
+      },
+      {
+        "zh": "妈妈很担心我。",
+        "pinyin": "ma1 ma5 hen3 dan1 xin1 wo3"
+      },
+      {
+        "zh": "我担心明天会下雨。",
+        "pinyin": "wo3 dan1 xin1 ming2 tian1 hui4 xia4 yu3"
+      },
+      {
+        "zh": "他的病越来越严重，家人都很担心。",
+        "pinyin": "ta1 de5 bing4 yue4 lai2 yue4 yan2 zhong4 jia1 ren2 dou1 hen3 dan1 xin1"
+      }
+    ]
+  },
+  {
+    "word": "后年",
+    "examples": [
+      {
+        "zh": "后年我要去中国。",
+        "pinyin": "hou4 nian2 wo3 yao4 qu4 zhong1 guo2"
+      },
+      {
+        "zh": "我妹妹后年上小学。",
+        "pinyin": "wo3 mei4 mei5 hou4 nian2 shang4 xiao3 xue2"
+      },
+      {
+        "zh": "后年我们公司计划在上海开一个新商店。",
+        "pinyin": "hou4 nian2 wo3 men5 gong1 si1 ji4 hua4 zai4 shang4 hai3 kai1 yi1 ge4 xin1 shang1 dian4"
+      },
+      {
+        "zh": "今年太忙了，明年也不行，我们后年再去吧。",
+        "pinyin": "jin1 nian2 tai4 mang2 le5 ming2 nian2 ye3 bu4 xing2 wo3 men5 hou4 nian2 zai4 qu4 ba5"
+      }
+    ]
+  },
+  {
+    "word": "农村",
+    "examples": [
+      {
+        "zh": "我奶奶住在农村。",
+        "pinyin": "wo3 nai3 nai5 zhu4 zai4 nong2 cun1"
+      },
+      {
+        "zh": "农村的环境很好。",
+        "pinyin": "nong2 cun1 de5 huan2 jing4 hen3 hao3"
+      },
+      {
+        "zh": "很多人离开农村，去城市工作。",
+        "pinyin": "hen3 duo1 ren2 li2 kai1 nong2 cun1 qu4 cheng2 shi4 gong1 zuo4"
+      },
+      {
+        "zh": "政府提出了很多帮助农村发展的新政策。",
+        "pinyin": "zheng4 fu3 ti2 chu1 le5 hen3 duo1 bang1 zhu4 nong2 cun1 fa1 zhan3 de5 xin1 zheng4 ce4"
+      }
+    ]
+  },
+  {
+    "word": "同意",
+    "examples": [
+      {
+        "zh": "我同意。",
+        "pinyin": "wo3 tong2 yi4"
+      },
+      {
+        "zh": "你同意吗？",
+        "pinyin": "ni3 tong2 yi4 ma5"
+      },
+      {
+        "zh": "我同意你说的话。",
+        "pinyin": "wo3 tong2 yi4 ni3 shuo1 de5 hua4"
+      },
+      {
+        "zh": "妈妈不同意我一个人去国外旅游。",
+        "pinyin": "ma1 ma5 bu4 tong2 yi4 wo3 yi1 ge4 ren2 qu4 guo2 wai4 lü3 you2"
+      }
+    ]
+  },
+  {
+    "word": "不想",
+    "examples": [
+      {
+        "zh": "我不想去。",
+        "pinyin": "wo3 bu4 xiang3 qu4"
+      },
+      {
+        "zh": "今天我不想吃饭。",
+        "pinyin": "jin1 tian1 wo3 bu4 xiang3 chi1 fan4"
+      },
+      {
+        "zh": "他太累了，不想说话。",
+        "pinyin": "ta1 tai4 lei4 le5 bu4 xiang3 shuo1 hua4"
+      },
+      {
+        "zh": "我不想让妈妈担心，所以没告诉她。",
+        "pinyin": "wo3 bu4 xiang3 rang4 ma1 ma5 dan1 xin1 suo3 yi3 mei2 gao4 su5 ta1"
+      }
+    ]
+  },
+  {
+    "word": "尽管",
+    "examples": [
+      {
+        "zh": "有问题尽管问。",
+        "pinyin": "you3 wen4 ti2 jin3 guan3 wen4"
+      },
+      {
+        "zh": "尽管很累，他还是去上班了。",
+        "pinyin": "jin3 guan3 hen3 lei4 ta1 hai2 shi4 qu4 shang4 ban1 le5"
+      },
+      {
+        "zh": "尽管下雨了，比赛还是继续进行。",
+        "pinyin": "jin3 guan3 xia4 yu3 le5 bi3 sai4 hai2 shi4 ji4 xu4 jin4 xing2"
+      },
+      {
+        "zh": "尽管他学汉语才半年，但是已经说得很好了。",
+        "pinyin": "jin3 guan3 ta1 xue2 han4 yu3 cai2 ban4 nian2 dan4 shi4 yi3 jing1 shuo1 de5 hen3 hao3 le5"
+      }
+    ]
+  },
+  {
+    "word": "每年",
+    "examples": [
+      {
+        "zh": "我每年都去北京。",
+        "pinyin": "wo3 mei3 nian2 dou1 qu4 bei3 jing1"
+      },
+      {
+        "zh": "每年生日，妈妈都给我做包子。",
+        "pinyin": "mei3 nian2 sheng1 ri4 ma1 ma5 dou1 gei3 wo3 zuo4 bao1 zi5"
+      },
+      {
+        "zh": "这个城市每年都有很多外国人来旅游。",
+        "pinyin": "zhe4 ge4 cheng2 shi4 mei3 nian2 dou1 you3 hen3 duo1 wai4 guo2 ren2 lai2 lü3 you2"
+      },
+      {
+        "zh": "每年的这个时候，这里都会举行音乐活动。",
+        "pinyin": "mei3 nian2 de5 zhe4 ge4 shi2 hou5 zhe4 li5 dou1 hui4 ju3 xing2 yin1 yue4 huo2 dong4"
+      }
+    ]
+  },
+  {
+    "word": "第一次",
+    "examples": [
+      {
+        "zh": "我第一次吃中国菜。",
+        "pinyin": "wo3 di4 yi1 ci4 chi1 zhong1 guo2 cai4"
+      },
+      {
+        "zh": "这是我第一次来北京。",
+        "pinyin": "zhe4 shi4 wo3 di4 yi1 ci4 lai2 bei3 jing1"
+      },
+      {
+        "zh": "你第一次见她是什么时候？",
+        "pinyin": "ni3 di4 yi1 ci4 jian4 ta1 shi4 shen2 me5 shi2 hou5"
+      },
+      {
+        "zh": "第一次坐飞机的时候，我非常高兴。",
+        "pinyin": "di4 yi1 ci4 zuo4 fei1 ji1 de5 shi2 hou5 wo3 fei1 chang2 gao1 xing4"
+      }
+    ]
+  },
+  {
+    "word": "件",
+    "examples": [
+      {
+        "zh": "这件事很重要。",
+        "pinyin": "zhe4 jian4 shi4 hen3 zhong4 yao4"
+      },
+      {
+        "zh": "我买了一件衣服。",
+        "pinyin": "wo3 mai3 le5 yi1 jian4 yi1 fu5"
+      },
+      {
+        "zh": "她今天穿了一件白衣服。",
+        "pinyin": "ta1 jin1 tian1 chuan1 le5 yi1 jian4 bai2 yi1 fu5"
+      },
+      {
+        "zh": "有一件事情，我想告诉你。",
+        "pinyin": "you3 yi1 jian4 shi4 qing5 wo3 xiang3 gao4 su5 ni3"
+      }
+    ]
+  },
+  {
+    "word": "创新",
+    "examples": [
+      {
+        "zh": "创新很重要。",
+        "pinyin": "chuang4 xin1 hen3 zhong4 yao4"
+      },
+      {
+        "zh": "公司需要创新。",
+        "pinyin": "gong1 si1 xu1 yao4 chuang4 xin1"
+      },
+      {
+        "zh": "技术创新可以影响经济发展。",
+        "pinyin": "ji4 shu4 chuang4 xin1 ke3 yi3 ying3 xiang3 jing1 ji4 fa1 zhan3"
+      },
+      {
+        "zh": "我们必须不断创新，才能在市场上成功。",
+        "pinyin": "wo3 men5 bi4 xu1 bu4 duan4 chuang4 xin1 cai2 neng2 zai4 shi4 chang3 shang4 cheng2 gong1"
+      }
+    ]
+  }
+]

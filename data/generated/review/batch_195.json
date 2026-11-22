@@ -1,0 +1,120 @@
+[
+  {
+    "id": "word:衣架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a4ae88aa9ffd4ef9b154e41cbd27627dd0d4af6"
+  },
+  {
+    "id": "word:老头儿",
+    "ok": false,
+    "issues": [
+      "El pinyin separa la erización como sílaba aparte («lǎo tóu r»); lo correcto es «lǎo tóur».",
+      "老头儿 es coloquial y puede sonar poco respetuoso, mientras que «viejito» en español suele ser afectuoso; conviene advertir sobre el registro.",
+      "En «那个老头儿是我爷爷», llamar 老头儿 al propio abuelo suena irrespetuoso o raro; sería más natural 那位老人 o 那个老爷爷."
+    ],
+    "content_hash": "0a9d35efe760a9f911c558bc4976b7df812664a6"
+  },
+  {
+    "id": "phrase:introductions:009",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f9217885fcc90f0d610cb7bdc0939eec2d1bb66"
+  },
+  {
+    "id": "phrase:restaurant:016",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6735848b293401e4703ac7d0ba6ecab15ccb7d9a"
+  },
+  {
+    "id": "phrase:restaurant:023",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0996e870092569b52afb378855bc1298cf905acb"
+  },
+  {
+    "id": "phrase:transport:006",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8efa96b363a8f04ffa1b4d501f4a27ea56f7a502"
+  },
+  {
+    "id": "phrase:transport:008",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ad984b18730ce5eb99787f6829bb1f6fe38c616"
+  },
+  {
+    "id": "phrase:transport:012",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1cd653e2143ddfb60bf40cd03ee21eaff493deb1"
+  },
+  {
+    "id": "phrase:transport:017",
+    "ok": true,
+    "issues": [],
+    "content_hash": "057c6564dd7d600b89bbcd86264c650fa184e5c1"
+  },
+  {
+    "id": "phrase:transport:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1b9724bd7e22bf0fef5b35414acc2859c36e38d"
+  },
+  {
+    "id": "phrase:hotel:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3a69c6fbf6cfb910cf1a6154a2d267361d09d2e"
+  },
+  {
+    "id": "phrase:hotel:024",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e9677d735006681366da51ee32a1d54b7e96eea"
+  },
+  {
+    "id": "phrase:shopping:007",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a143ba6ce359fdf4255611d8583bd8a4e34db3d7"
+  },
+  {
+    "id": "phrase:shopping:009",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a260fe5162e41510d2b6e5c047cff522f3dcc03"
+  },
+  {
+    "id": "phrase:shopping:011",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0a4b58d69ce8d4f3776115fe731524247f0b775d"
+  },
+  {
+    "id": "phrase:directions:010",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d25d59a5938710d1f8ba4ccec0c81aaa214bcb33"
+  },
+  {
+    "id": "phrase:directions:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "73502598bd04de0e8b4a402f7b88a90ece7dac63"
+  },
+  {
+    "id": "phrase:directions:027",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c8bff4e10f4bfeb6925498f4633610370b57ec7"
+  },
+  {
+    "id": "phrase:emergencies:026",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6b2a282ace96a6f13ca8133fdd5b53503329fef"
+  }
+]

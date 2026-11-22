@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:一种",
+    "ok": false,
+    "issues": [
+      "Error de concordancia en la traducción del ejemplo 2: «Esta es un nuevo tipo de tecnología» debería ser «Este es un nuevo tipo de tecnología» o «Esta es una nueva tecnología»."
+    ],
+    "content_hash": "d42574552a6031a845607b7d2247691eee01a75f"
+  },
+  {
+    "id": "word:不大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "713aec1fdb854684ee84cfa4327636e4302bbef3"
+  },
+  {
+    "id": "word:关于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd686cd4b535ab4916ccb5d29a4851f39288f104"
+  },
+  {
+    "id": "word:部分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e1f0014928eec4dafdf8122764c3901b63973cf"
+  },
+  {
+    "id": "word:重",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec265e1e2eb9d4e90c2fccd82971b6c24b150a03"
+  },
+  {
+    "id": "word:身上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c718c4de9c7e5083d816d51dd97a8f83f218ded6"
+  },
+  {
+    "id": "word:死",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef0b3cfad212eb9c0b5781e5ba9f399f27b289dd"
+  },
+  {
+    "id": "word:不用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "83b5599677a8cc352df9f2d45e0466d8b0dfb26f"
+  },
+  {
+    "id": "word:记得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2b9b797a3277a1c7490dbb92a4113a0e24d467e"
+  },
+  {
+    "id": "word:教",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a91704ddae1ca3da81bca999bf58ccbdcf90aeb4"
+  },
+  {
+    "id": "word:图",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b9e99b4bfe079d44f38b8d6265cce5bb92af98a"
+  },
+  {
+    "id": "word:回家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b912e4830cc60920626c35c2f5045c1e7886d016"
+  },
+  {
+    "id": "word:有人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8e6a5268a2e66a7f54fd644de3426ac4f652f69a"
+  },
+  {
+    "id": "word:医生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5fc59d98e45e4681166bcba15215669ccc63545c"
+  },
+  {
+    "id": "word:自由",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ddbea4b3a734c4741416c15ebd3f44565a9e85a"
+  },
+  {
+    "id": "word:台湾",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f4b5a888386ae8b661d1661b7162d05d5770d8a"
+  },
+  {
+    "id": "word:读",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6db8f0dad292ed723374c4b186989dd78211eb2b"
+  },
+  {
+    "id": "word:曾",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07c96572e7054654c0aa2cd054f21631e3ce9021"
+  },
+  {
+    "id": "word:当时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69b38c238590ece8d4be1225c9639c3852c39ce3"
+  },
+  {
+    "id": "word:常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d8b86b96186d9e74578658105a24e0b701fa7c8"
+  },
+  {
+    "id": "word:过去",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: «yí huì r» separa la «r» como si fuera una sílaba; con erhua debe escribirse «yí huìr»."
+    ],
+    "content_hash": "3bdf638afb14f25e521e993cbcf40d6ba969db74"
+  },
+  {
+    "id": "word:回答",
+    "ok": true,
+    "issues": [],
+    "content_hash": "43e3ba50aca06dd56b2c9461ea50ece94b4eeeca"
+  },
+  {
+    "id": "word:道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c201c577859f77e71ca3b8790b7db0ad77fe4f5"
+  },
+  {
+    "id": "word:认真",
+    "ok": true,
+    "issues": [],
+    "content_hash": "adceb369fc0f39679a2094420aac1d4481acd25e"
+  },
+  {
+    "id": "word:完全",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b4ba61856e7f97a442cfd810b5dc60570ce88817"
+  }
+]

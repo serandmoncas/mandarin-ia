@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:想法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fbfb052710d77b1f8a1aa26c6163a1a5a483382c"
+  },
+  {
+    "id": "word:团",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cfabc7be0fe737e3fd2865f1b29114842e0514bd"
+  },
+  {
+    "id": "word:现实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "873a0cef8461ce6a83c431901379bb12e5ce0f98"
+  },
+  {
+    "id": "word:员",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 哥哥 se lee «gē ge» (segunda sílaba en tono neutro), no «gē gē»."
+    ],
+    "content_hash": "648956a4eac9e7dc290e1846a47cabfe8c3d0278"
+  },
+  {
+    "id": "word:爱情",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b45814bd8ab1a42445194da7e36828393d1b918"
+  },
+  {
+    "id": "word:东方",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «不太一样» significa «no son muy iguales / son algo distintas»; «bastante distintas» exagera la diferencia. Mejor: «no son muy parecidas»."
+    ],
+    "content_hash": "00c7cd202376b97168d20481e40e545b1d6a5642"
+  },
+  {
+    "id": "word:妇女",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f05694ea634170c07bec539dd7825eec360c0cc"
+  },
+  {
+    "id": "word:公平",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e588646568f2380ac2c64ecdac50bc3c8600a4a9"
+  },
+  {
+    "id": "word:治疗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec4f117985b933969f2c9018e664a07ca2883a00"
+  },
+  {
+    "id": "word:太阳",
+    "ok": true,
+    "issues": [],
+    "content_hash": "94d6fd5966a22cf3094d6a455f80c483a1becc12"
+  },
+  {
+    "id": "word:监督",
+    "ok": true,
+    "issues": [],
+    "content_hash": "994b8ceb38e51fda204641f6608bff63ec255839"
+  },
+  {
+    "id": "word:层",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 衣服 se lee «yī fu» (tono neutro), no «yī fú»."
+    ],
+    "content_hash": "d0bd5655fa46ff8b6337a192bd1c2d1718e99f30"
+  },
+  {
+    "id": "word:创作",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5f05b867819865c15b041327fdb3947f6ae56ab6"
+  },
+  {
+    "id": "word:少年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4c32578d67afc5189980c7c000f2fa439f6a6e2"
+  },
+  {
+    "id": "word:群",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0a8461dd3cad314107712ac3593954ba9abd0a3"
+  },
+  {
+    "id": "word:片",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7c931ad7044829669bbb2b42e51db3ac75aaec82"
+  },
+  {
+    "id": "word:推",
+    "ok": true,
+    "issues": [],
+    "content_hash": "794b0b8764cdb2522c0d02e78505b041a9704b0f"
+  },
+  {
+    "id": "word:铁路",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 爸爸 se lee «bà ba» (tono neutro), no «bà bà»."
+    ],
+    "content_hash": "1575a9f8d1d85eabe3627ff4531e8bd96fd90ad5"
+  },
+  {
+    "id": "word:短",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1967d552b91d911ed724c474b0ed14d38158949d"
+  },
+  {
+    "id": "word:脚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f01d8617263d428efb6df6b5768206f5699849d5"
+  },
+  {
+    "id": "word:入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e1a71faa5f82e5b7e76679eb065633cba8a1bfe"
+  },
+  {
+    "id": "word:刚才",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f31f448ed16d916f6cbc488cc80e8c1aa1c6b42"
+  },
+  {
+    "id": "word:名单",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b78d24d2dad042c4fb5fb6281e68569d705d8f9f"
+  },
+  {
+    "id": "word:挺",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9682595e5b3b3963b14d39ec4ab8c62ffe7c74dd"
+  },
+  {
+    "id": "word:软件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de0dcb67f1195d7996aeba385b39b60b6dfad73e"
+  }
+]

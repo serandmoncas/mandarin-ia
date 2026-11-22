@@ -1,0 +1,158 @@
+[
+  {
+    "id": "word:长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b0a0b29449b8ee2ca569415b3a9bd79e860ae9a"
+  },
+  {
+    "id": "word:本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7c3362149ac9ac25492d09bc9c5537ce54eced45"
+  },
+  {
+    "id": "word:包括",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c12f9bfb200402d1c7182d3941bef81612e6a154"
+  },
+  {
+    "id": "word:决定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf9adc1ab5e6f526a466e27c39d0e9657117629b"
+  },
+  {
+    "id": "word:全国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "757430b794e57383c2a6fb2efa9c72f4e6cd495d"
+  },
+  {
+    "id": "word:其中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6897307c17c5c02ac8990873e087bf66d54c9c06"
+  },
+  {
+    "id": "word:企业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d1e0ed9314295b3fffd3cc0f8bbf479b82c97c3"
+  },
+  {
+    "id": "word:认识",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9deeb13c8d7576045d511bf3f513f17a66dc5a29"
+  },
+  {
+    "id": "word:女人",
+    "ok": false,
+    "issues": [
+      "El significado 'esposa (coloquial)' corresponde a la lectura nǚren (tono neutro) y es dialectal; no es adecuado para la lectura nǚ rén ni aparece en las glosas."
+    ],
+    "content_hash": "9de64182d534d664274184c339a545dc91023be5"
+  },
+  {
+    "id": "word:则",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4bc87a945130cccc6e69050c2e6f74f0351d94f"
+  },
+  {
+    "id": "word:不过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "730b65d7f1df409be0cdfe11be87b62793d78998"
+  },
+  {
+    "id": "word:技术",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7892ab6dc311dfa29e885837a77fc935baa33b8"
+  },
+  {
+    "id": "word:多少",
+    "ok": false,
+    "issues": [
+      "El significado 'más o menos, algo' corresponde a la lectura duōshǎo (tercer tono), no a duō shao (tono neutro) de esta entrada."
+    ],
+    "content_hash": "e840a0b2afd72a6d0cee8e845156595c84f7d48e"
+  },
+  {
+    "id": "word:告诉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df5e475a32395bf0b05a2c08b8d20fd6cdba5a25"
+  },
+  {
+    "id": "word:拿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "85452e3fd0217a6ca7e0a44dbd769f8bd11369ea"
+  },
+  {
+    "id": "word:提供",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5d45818a4887f357da24609ef5735baa5c92849"
+  },
+  {
+    "id": "word:至",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad615a602e45ceb4e9efcbe902c8f9c1ff0fe76c"
+  },
+  {
+    "id": "word:先",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e88b2c485bbe5d0e01bd1eafcdd5fb96624b9fd"
+  },
+  {
+    "id": "word:男人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c7a10e2e2e0b4dead32f8b25ab548bba92870e1"
+  },
+  {
+    "id": "word:使",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b70dc1cbd9d938dc5076f0d4b740941562e57b4"
+  },
+  {
+    "id": "word:万",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 一万 debe ser 'yí wàn' por sandhi tonal (ante cuarto tono), coherente con el resto del contenido."
+    ],
+    "content_hash": "615cc1e779675a277c4dac59ebb0bd81a03002c6"
+  },
+  {
+    "id": "word:像",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4acc834a4d68e39f917236923108d5d854d30197"
+  },
+  {
+    "id": "word:关系",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b4e5b9f00b9b7f13c7e582ce13719a837c97461"
+  },
+  {
+    "id": "word:研究",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2b44e53a784e25f29abb8613ed4c1427c3afee5"
+  },
+  {
+    "id": "word:医院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a543be0e0000851da48277acd612c6d28e4cb080"
+  }
+]

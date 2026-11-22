@@ -1,0 +1,422 @@
+[
+  {
+    "word": "笑话儿",
+    "examples": [
+      {
+        "zh": "我爱听笑话儿。",
+        "pinyin": "wo3 ai4 ting1 xiao4 hua5 r5"
+      },
+      {
+        "zh": "爷爷给我讲了一个笑话儿。",
+        "pinyin": "ye2 ye5 gei3 wo3 jiang3 le5 yi1 ge4 xiao4 hua5 r5"
+      },
+      {
+        "zh": "这个笑话儿太有意思了，大家都笑了。",
+        "pinyin": "zhe4 ge4 xiao4 hua5 r5 tai4 you3 yi4 si5 le5 da4 jia1 dou1 xiao4 le5"
+      },
+      {
+        "zh": "你别把这件事当笑话儿，这很重要。",
+        "pinyin": "ni3 bie2 ba3 zhe4 jian4 shi4 dang4 xiao4 hua5 r5 zhe4 hen3 zhong4 yao4"
+      }
+    ]
+  },
+  {
+    "word": "那会儿",
+    "examples": [
+      {
+        "zh": "那会儿我还小。",
+        "pinyin": "na4 hui4 r5 wo3 hai2 xiao3"
+      },
+      {
+        "zh": "那会儿你在哪儿？",
+        "pinyin": "na4 hui4 r5 ni3 zai4 na3 r5"
+      },
+      {
+        "zh": "我上大学那会儿，没有手机。",
+        "pinyin": "wo3 shang4 da4 xue2 na4 hui4 r5 mei2 you3 shou3 ji1"
+      },
+      {
+        "zh": "等你回来那会儿，我可能已经睡觉了。",
+        "pinyin": "deng3 ni3 hui2 lai5 na4 hui4 r5 wo3 ke3 neng2 yi3 jing1 shui4 jiao4 le5"
+      }
+    ]
+  },
+  {
+    "word": "破",
+    "examples": [
+      {
+        "zh": "我的鞋破了。",
+        "pinyin": "wo3 de5 xie2 po4 le5"
+      },
+      {
+        "zh": "杯子被他打破了。",
+        "pinyin": "bei1 zi5 bei4 ta1 da3 po4 le5"
+      },
+      {
+        "zh": "这件衣服太破了，别再穿了。",
+        "pinyin": "zhe4 jian4 yi1 fu5 tai4 po4 le5 bie2 zai4 chuan1 le5"
+      },
+      {
+        "zh": "这台破电脑又不能用了，我得买新的。",
+        "pinyin": "zhe4 tai2 po4 dian4 nao3 you4 bu4 neng2 yong4 le5 wo3 dei3 mai3 xin1 de5"
+      }
+    ]
+  },
+  {
+    "word": "前进",
+    "examples": [
+      {
+        "zh": "前进！大家跟我来！",
+        "pinyin": "qian2 jin4 da4 jia1 gen1 wo3 lai2"
+      },
+      {
+        "zh": "车在雪里慢慢地前进。",
+        "pinyin": "che1 zai4 xue3 li3 man4 man4 de5 qian2 jin4"
+      },
+      {
+        "zh": "只要努力，我们就会不断前进。",
+        "pinyin": "zhi3 yao4 nu3 li4 wo3 men5 jiu4 hui4 bu4 duan4 qian2 jin4"
+      },
+      {
+        "zh": "不管多困难，我们都要继续前进。",
+        "pinyin": "bu4 guan3 duo1 kun4 nan5 wo3 men5 dou1 yao4 ji4 xu4 qian2 jin4"
+      }
+    ]
+  },
+  {
+    "word": "方便面",
+    "examples": [
+      {
+        "zh": "我想吃方便面。",
+        "pinyin": "wo3 xiang3 chi1 fang1 bian4 mian4"
+      },
+      {
+        "zh": "他太忙了，每天都吃方便面。",
+        "pinyin": "ta1 tai4 mang2 le5 mei3 tian1 dou1 chi1 fang1 bian4 mian4"
+      },
+      {
+        "zh": "方便面很方便，但是对身体不好。",
+        "pinyin": "fang1 bian4 mian4 hen3 fang1 bian4 dan4 shi4 dui4 shen1 ti3 bu4 hao3"
+      },
+      {
+        "zh": "妈妈不在家的时候，我和弟弟常常吃方便面。",
+        "pinyin": "ma1 ma5 bu4 zai4 jia1 de5 shi2 hou5 wo3 he2 di4 di5 chang2 chang2 chi1 fang1 bian4 mian4"
+      }
+    ]
+  },
+  {
+    "word": "午睡",
+    "examples": [
+      {
+        "zh": "我每天都午睡。",
+        "pinyin": "wo3 mei3 tian1 dou1 wu3 shui4"
+      },
+      {
+        "zh": "爷爷正在午睡，请小声一点儿。",
+        "pinyin": "ye2 ye5 zheng4 zai4 wu3 shui4 qing3 xiao3 sheng1 yi1 dian3 r5"
+      },
+      {
+        "zh": "午睡以后，我觉得舒服多了。",
+        "pinyin": "wu3 shui4 yi3 hou4 wo3 jue2 de5 shu1 fu5 duo1 le5"
+      },
+      {
+        "zh": "在中国，很多学校中午都有午睡的时间。",
+        "pinyin": "zai4 zhong1 guo2 hen3 duo1 xue2 xiao4 zhong1 wu3 dou1 you3 wu3 shui4 de5 shi2 jian1"
+      }
+    ]
+  },
+  {
+    "word": "改造",
+    "examples": [
+      {
+        "zh": "这个老房子需要改造。",
+        "pinyin": "zhe4 ge4 lao3 fang2 zi5 xu1 yao4 gai3 zao4"
+      },
+      {
+        "zh": "政府计划改造这条路。",
+        "pinyin": "zheng4 fu3 ji4 hua4 gai3 zao4 zhe4 tiao2 lu4"
+      },
+      {
+        "zh": "他们把工厂改造成了图书馆。",
+        "pinyin": "ta1 men5 ba3 gong1 chang3 gai3 zao4 cheng2 le5 tu2 shu1 guan3"
+      },
+      {
+        "zh": "改造以后，这个城市变得更漂亮了。",
+        "pinyin": "gai3 zao4 yi3 hou4 zhe4 ge4 cheng2 shi4 bian4 de5 geng4 piao4 liang5 le5"
+      }
+    ]
+  },
+  {
+    "word": "快点儿",
+    "examples": [
+      {
+        "zh": "快点儿！",
+        "pinyin": "kuai4 dian3 r5"
+      },
+      {
+        "zh": "你快点儿走吧。",
+        "pinyin": "ni3 kuai4 dian3 r5 zou3 ba5"
+      },
+      {
+        "zh": "快点儿吃，火车快开了。",
+        "pinyin": "kuai4 dian3 r5 chi1 huo3 che1 kuai4 kai1 le5"
+      },
+      {
+        "zh": "妈妈让我快点儿起床，要不上学就晚了。",
+        "pinyin": "ma1 ma5 rang4 wo3 kuai4 dian3 r5 qi3 chuang2 yao4 bu4 shang4 xue2 jiu4 wan3 le5"
+      }
+    ]
+  },
+  {
+    "word": "有一点儿",
+    "examples": [
+      {
+        "zh": "我有一点儿累。",
+        "pinyin": "wo3 you3 yi1 dian3 r5 lei4"
+      },
+      {
+        "zh": "今天有一点儿冷。",
+        "pinyin": "jin1 tian1 you3 yi1 dian3 r5 leng3"
+      },
+      {
+        "zh": "这个菜有一点儿贵，但是很好吃。",
+        "pinyin": "zhe4 ge4 cai4 you3 yi1 dian3 r5 gui4 dan4 shi4 hen3 hao3 chi1"
+      },
+      {
+        "zh": "第一次见他的父母，我有一点儿紧张。",
+        "pinyin": "di4 yi1 ci4 jian4 ta1 de5 fu4 mu3 wo3 you3 yi1 dian3 r5 jin3 zhang1"
+      }
+    ]
+  },
+  {
+    "word": "有空儿",
+    "examples": [
+      {
+        "zh": "你明天有空儿吗？",
+        "pinyin": "ni3 ming2 tian1 you3 kong4 r5 ma5"
+      },
+      {
+        "zh": "我有空儿就去看你。",
+        "pinyin": "wo3 you3 kong4 r5 jiu4 qu4 kan4 ni3"
+      },
+      {
+        "zh": "周末有空儿的话，我们一起去看电影吧。",
+        "pinyin": "zhou1 mo4 you3 kong4 r5 de5 hua4 wo3 men5 yi1 qi3 qu4 kan4 dian4 ying3 ba5"
+      },
+      {
+        "zh": "他工作太忙，很少有空儿跟孩子一起玩儿。",
+        "pinyin": "ta1 gong1 zuo4 tai4 mang2 hen3 shao3 you3 kong4 r5 gen1 hai2 zi5 yi1 qi3 wan2 r5"
+      }
+    ]
+  },
+  {
+    "word": "事故",
+    "examples": [
+      {
+        "zh": "路上发生了事故。",
+        "pinyin": "lu4 shang5 fa1 sheng1 le5 shi4 gu4"
+      },
+      {
+        "zh": "这次事故没有人受伤。",
+        "pinyin": "zhe4 ci4 shi4 gu4 mei2 you3 ren2 shou4 shang1"
+      },
+      {
+        "zh": "因为交通事故，我们晚到了一个小时。",
+        "pinyin": "yin1 wei4 jiao1 tong1 shi4 gu4 wo3 men5 wan3 dao4 le5 yi1 ge4 xiao3 shi2"
+      },
+      {
+        "zh": "警察正在调查这起事故的原因。",
+        "pinyin": "jing3 cha2 zheng4 zai4 diao4 cha2 zhe4 qi3 shi4 gu4 de5 yuan2 yin1"
+      }
+    ]
+  },
+  {
+    "word": "干活儿",
+    "examples": [
+      {
+        "zh": "他在外边干活儿。",
+        "pinyin": "ta1 zai4 wai4 bian5 gan4 huo2 r5"
+      },
+      {
+        "zh": "别说话了，快干活儿吧！",
+        "pinyin": "bie2 shuo1 hua4 le5 kuai4 gan4 huo2 r5 ba5"
+      },
+      {
+        "zh": "我爸爸每天早上去工厂干活儿。",
+        "pinyin": "wo3 ba4 ba5 mei3 tian1 zao3 shang5 qu4 gong1 chang3 gan4 huo2 r5"
+      },
+      {
+        "zh": "他干活儿很认真，老板非常喜欢他。",
+        "pinyin": "ta1 gan4 huo2 r5 hen3 ren4 zhen1 lao3 ban3 fei1 chang2 xi3 huan5 ta1"
+      }
+    ]
+  },
+  {
+    "word": "高速",
+    "examples": [
+      {
+        "zh": "我们走高速吧。",
+        "pinyin": "wo3 men5 zou3 gao1 su4 ba5"
+      },
+      {
+        "zh": "中国的高速火车非常方便。",
+        "pinyin": "zhong1 guo2 de5 gao1 su4 huo3 che1 fei1 chang2 fang1 bian4"
+      },
+      {
+        "zh": "这辆车在高速上开得很快。",
+        "pinyin": "zhe4 liang4 che1 zai4 gao1 su4 shang4 kai1 de5 hen3 kuai4"
+      },
+      {
+        "zh": "因为下大雪，高速公路关了一天。",
+        "pinyin": "yin1 wei4 xia4 da4 xue3 gao1 su4 gong1 lu4 guan1 le5 yi1 tian1"
+      }
+    ]
+  },
+  {
+    "word": "仅仅",
+    "examples": [
+      {
+        "zh": "这仅仅是开始。",
+        "pinyin": "zhe4 jin3 jin3 shi4 kai1 shi3"
+      },
+      {
+        "zh": "我仅仅等了五分钟。",
+        "pinyin": "wo3 jin3 jin3 deng3 le5 wu3 fen1 zhong1"
+      },
+      {
+        "zh": "仅仅有钱是不够的，还需要努力。",
+        "pinyin": "jin3 jin3 you3 qian2 shi4 bu4 gou4 de5 hai2 xu1 yao4 nu3 li4"
+      },
+      {
+        "zh": "他仅仅学了一年中文，就说得很流利。",
+        "pinyin": "ta1 jin3 jin3 xue2 le5 yi1 nian2 zhong1 wen2 jiu4 shuo1 de5 hen3 liu2 li4"
+      }
+    ]
+  },
+  {
+    "word": "谈判",
+    "examples": [
+      {
+        "zh": "两家公司正在谈判。",
+        "pinyin": "liang3 jia1 gong1 si1 zheng4 zai4 tan2 pan4"
+      },
+      {
+        "zh": "谈判进行得很顺利。",
+        "pinyin": "tan2 pan4 jin4 xing2 de5 hen3 shun4 li4"
+      },
+      {
+        "zh": "这次谈判已经持续了三天。",
+        "pinyin": "zhe4 ci4 tan2 pan4 yi3 jing1 chi2 xu4 le5 san1 tian1"
+      },
+      {
+        "zh": "双方经过多次谈判，终于达成了协议。",
+        "pinyin": "shuang1 fang1 jing1 guo4 duo1 ci4 tan2 pan4 zhong1 yu2 da2 cheng2 le5 xie2 yi4"
+      }
+    ]
+  },
+  {
+    "word": "亲",
+    "examples": [
+      {
+        "zh": "她亲了孩子一下。",
+        "pinyin": "ta1 qin1 le5 hai2 zi5 yi1 xia4"
+      },
+      {
+        "zh": "他是我亲哥哥。",
+        "pinyin": "ta1 shi4 wo3 qin1 ge1 ge5"
+      },
+      {
+        "zh": "这是我亲手做的饭。",
+        "pinyin": "zhe4 shi4 wo3 qin1 shou3 zuo4 de5 fan4"
+      },
+      {
+        "zh": "亲，这件衣服今天很便宜哦！",
+        "pinyin": "qin1 zhe4 jian4 yi1 fu5 jin1 tian1 hen3 pian2 yi5 o5"
+      }
+    ]
+  },
+  {
+    "word": "选手",
+    "examples": [
+      {
+        "zh": "他是足球选手。",
+        "pinyin": "ta1 shi4 zu2 qiu2 xuan3 shou3"
+      },
+      {
+        "zh": "这位选手跑得很快。",
+        "pinyin": "zhe4 wei4 xuan3 shou3 pao3 de5 hen3 kuai4"
+      },
+      {
+        "zh": "比赛有一百多名选手参加。",
+        "pinyin": "bi3 sai4 you3 yi1 bai3 duo1 ming2 xuan3 shou3 can1 jia1"
+      },
+      {
+        "zh": "那个年轻选手第一次参加国际比赛就赢了。",
+        "pinyin": "na4 ge4 nian2 qing1 xuan3 shou3 di4 yi1 ci4 can1 jia1 guo2 ji4 bi3 sai4 jiu4 ying2 le5"
+      }
+    ]
+  },
+  {
+    "word": "姑娘",
+    "examples": [
+      {
+        "zh": "这个姑娘很漂亮。",
+        "pinyin": "zhe4 ge4 gu1 niang5 hen3 piao4 liang5"
+      },
+      {
+        "zh": "那位姑娘是谁？",
+        "pinyin": "na4 wei4 gu1 niang5 shi4 shei2"
+      },
+      {
+        "zh": "他家的小姑娘今年五岁了。",
+        "pinyin": "ta1 jia1 de5 xiao3 gu1 niang5 jin1 nian2 wu3 sui4 le5"
+      },
+      {
+        "zh": "那个穿红衣服的姑娘是我妹妹的同学。",
+        "pinyin": "na4 ge4 chuan1 hong2 yi1 fu5 de5 gu1 niang5 shi4 wo3 mei4 mei5 de5 tong2 xue2"
+      }
+    ]
+  },
+  {
+    "word": "上升",
+    "examples": [
+      {
+        "zh": "气温上升了。",
+        "pinyin": "qi4 wen1 shang4 sheng1 le5"
+      },
+      {
+        "zh": "飞机开始上升。",
+        "pinyin": "fei1 ji1 kai1 shi3 shang4 sheng1"
+      },
+      {
+        "zh": "今年的价格上升得很快。",
+        "pinyin": "jin1 nian2 de5 jia4 ge2 shang4 sheng1 de5 hen3 kuai4"
+      },
+      {
+        "zh": "最近几年，这个城市的人口一直在上升。",
+        "pinyin": "zui4 jin4 ji3 nian2 zhe4 ge4 cheng2 shi4 de5 ren2 kou3 yi1 zhi2 zai4 shang4 sheng1"
+      }
+    ]
+  },
+  {
+    "word": "古",
+    "examples": [
+      {
+        "zh": "这是一本古书。",
+        "pinyin": "zhe4 shi4 yi1 ben3 gu3 shu1"
+      },
+      {
+        "zh": "北京有很多古建筑。",
+        "pinyin": "bei3 jing1 you3 hen3 duo1 gu3 jian4 zhu4"
+      },
+      {
+        "zh": "古人常常在晚上看月亮。",
+        "pinyin": "gu3 ren2 chang2 chang2 zai4 wan3 shang5 kan4 yue4 liang5"
+      },
+      {
+        "zh": "我喜欢去古城旅游，那里的生活很安静。",
+        "pinyin": "wo3 xi3 huan5 qu4 gu3 cheng2 lv3 you2 na4 li3 de5 sheng1 huo2 hen3 an1 jing4"
+      }
+    ]
+  }
+]

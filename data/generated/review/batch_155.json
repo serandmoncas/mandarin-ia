@@ -1,0 +1,154 @@
+[
+  {
+    "id": "word:水",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0584ffb986df64f7fb29c4ca0649621d60c79ce"
+  },
+  {
+    "id": "word:服务",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ee3c4c3484f50398c83cbb082840e0e22cde9b95"
+  },
+  {
+    "id": "word:先生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "962607205354c7d48d409ced50bb643e121d5f68"
+  },
+  {
+    "id": "word:介绍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3d3aefcf3583a843bd714dadc578c2ac2b141c2f"
+  },
+  {
+    "id": "word:虽然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "035d540094d5be1f537033cf6e1d574d962224d3"
+  },
+  {
+    "id": "word:手",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8083b14cde42bf74b7e8163559715f17b092789d"
+  },
+  {
+    "id": "word:因此",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f973e603261dbeb98cf4f203d59821b6f7875d73"
+  },
+  {
+    "id": "word:明白",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a55dad90c667b5be87e7f967d6c480fc4b5062db"
+  },
+  {
+    "id": "word:汽车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ef1f2cfe176f959b7182662c37dbc6a2497ab8d"
+  },
+  {
+    "id": "word:而且",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7c0d97a5a35fbf3a5dfa27caecdc79e455215981"
+  },
+  {
+    "id": "word:较",
+    "ok": true,
+    "issues": [],
+    "content_hash": "74175304df339f885e36bfad7ac973e93055d4f2"
+  },
+  {
+    "id": "word:男",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d6a260adac42741d26227eee812c34bffcce5c2e"
+  },
+  {
+    "id": "word:跑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "65bb86234c262bb7e1163bce631ada528d70aa82"
+  },
+  {
+    "id": "word:少",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6fd334cce0d13e4f53cc5770ef722af058dbb1b"
+  },
+  {
+    "id": "word:市场",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2, 东西 ('cosas') se transcribe 'dōng xī'; debe ser 'dōng xi' con tono neutro. 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "0b47bb97dbd0772a64fc3157878fce8fa4b10b68"
+  },
+  {
+    "id": "word:帮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ddc5f27e43b1a35c1e6e8ee6f9792a4db42bcea8"
+  },
+  {
+    "id": "word:东",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30f807201ca229b13baeb4e59516768227554ab4"
+  },
+  {
+    "id": "word:动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1cec9fc316c585b9c0578ba7a28441963780ec30"
+  },
+  {
+    "id": "word:看见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aaf988870fa9564e71f0d3e5983da1c72c0ad53f"
+  },
+  {
+    "id": "word:字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53765f61398416688ad61e01d3666f9527faeb8e"
+  },
+  {
+    "id": "word:对于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c85a3da453933e8074ca5388e22161c4a92a33ec"
+  },
+  {
+    "id": "word:方式",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e79f6e850f904c26f731598f3c99a10de6d67ce0"
+  },
+  {
+    "id": "word:子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "047d9e776395ba11172518425a0918a1412194ec"
+  },
+  {
+    "id": "word:目前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2195ac924df1425d0bbffb5b25e6715ee9f05f99"
+  },
+  {
+    "id": "word:安全",
+    "ok": true,
+    "issues": [],
+    "content_hash": "871c477766c0bfa2aea1886a6a26625f084daf9b"
+  }
+]

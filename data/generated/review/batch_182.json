@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:音乐会",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en los ejemplos 2 y 4: el clasificador 场 para espectáculos se lee chǎng, así que debe ser «yì chǎng», no «yì cháng»."
+    ],
+    "content_hash": "c1ef8bf1377999075d0d6d24b48649f1c6eba78b"
+  },
+  {
+    "id": "word:主动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24b19e1c77e9719e686863be528ca4cf77ad18a3"
+  },
+  {
+    "id": "word:打工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bce17a6a2883f06c9b614f44425ced0a0f33fa06"
+  },
+  {
+    "id": "word:路边",
+    "ok": false,
+    "issues": [
+      "«banqueta» significa acera (en México), no orilla ni borde del camino; no equivale a 路边 y además es un regionalismo, no español neutro."
+    ],
+    "content_hash": "3d059ff2d1a2b5c2fd0582e9841ef6d48ea4f623"
+  },
+  {
+    "id": "word:天上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6c2ceae763fe2ef8f0c12ed8d53f5da640f7aac"
+  },
+  {
+    "id": "word:牛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c52d6007212a26bbb5203bd1f56592f9e509906a"
+  },
+  {
+    "id": "word:过年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f282855460781b12330fb9d88e5dd4088016aff4"
+  },
+  {
+    "id": "word:难受",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8cc15948b9d9560b96321325f05196000168a20"
+  },
+  {
+    "id": "word:跳",
+    "ok": false,
+    "issues": [
+      "El ejemplo 4 usa el compuesto 跳舞 (bailar), así que no ilustra 跳 con ninguno de los significados listados.",
+      "En ese ejemplo, «现在是一名演员» resulta incoherente con el baile; lo natural sería «舞蹈演员» (bailarina)."
+    ],
+    "content_hash": "a9923dc8227796a7ffb81d9084d0453170dbabd0"
+  },
+  {
+    "id": "word:西部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33d8920ef601bc525bb0619fa95201f34f442760"
+  },
+  {
+    "id": "word:公交车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a18fbbe4e857bfb8b487baaf872ad4fa6ecb7f41"
+  },
+  {
+    "id": "word:商量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "619c9345545231ff016e387495273e9e1f0c71e8"
+  },
+  {
+    "id": "word:演出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "577568e18e2657d93631fad5cd99a4896e66e76d"
+  },
+  {
+    "id": "word:星星",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ffd4e537136110d62c96244134439c524179e8c"
+  },
+  {
+    "id": "word:播放",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1abcf07e41e1ef52b4cf89702c475a208bac8e76"
+  },
+  {
+    "id": "word:晚餐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aba04ee455653ab6fa198b40834f9ef27cc63521"
+  },
+  {
+    "id": "word:碗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "05c97078d7f8d09125a15b02baa9953cfde3eeef"
+  },
+  {
+    "id": "word:半夜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b21e1670629587e9709c9f5b430a27bb8c4600fb"
+  },
+  {
+    "id": "word:等待",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e75c15d3522a3f8ca4ff97c078a89a800a97f0a3"
+  },
+  {
+    "id": "word:椅子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5356a103115a15e71a60d4bd89424ce4670c9e55"
+  },
+  {
+    "id": "word:调",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4bbb652568604cd994332c7e40a160bdb5f3a899"
+  },
+  {
+    "id": "word:手表",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf12ca528a2c193a52af469fa37dfb3d261e5395"
+  },
+  {
+    "id": "word:词语",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aad6dac620934bfdc39df7957210fe97e2a583ad"
+  },
+  {
+    "id": "word:秋天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb80b6982da5724b5d66a52ab30ec3f06486f261"
+  },
+  {
+    "id": "word:外地",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, «刚来外地上学» suena forzado: lo natural es «刚去外地上学» o «刚到外地上学».",
+      "La traducción «me fui» no corresponde a 来 (venir)."
+    ],
+    "content_hash": "b0d40666a93e1580425cd6633bf24f6d3f49c07d"
+  }
+]
