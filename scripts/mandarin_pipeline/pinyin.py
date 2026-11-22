@@ -94,9 +94,10 @@ def _base_of(marked: str) -> str:
 
 WordReadings = dict[str, list[list[tuple[str, int]]]]
 
-# CEDICT neutral readings that only fit a rare sense: 大人 "adult" is dàrén (neutral only
-# as an honorific), 那是 is nà shì except as colloquial "of course".
-_UNRELIABLE_NEUTRAL = {"大人", "那是"}
+# CEDICT neutral readings that only fit a rare sense, so they would mislabel the common one:
+# 大人 "adult" is dàrén (neutral only as an honorific), 那是 is nà shì except as "of course",
+# 这不/可不 are colloquial fillers that capture 这不可能/可不小, 在那儿 "there" is zài nàr.
+_UNRELIABLE_NEUTRAL = {"大人", "那是", "这不", "可不", "在那儿"}
 
 
 def word_readings(cedict: dict[str, list[CedictEntry]]) -> WordReadings:

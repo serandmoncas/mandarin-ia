@@ -219,5 +219,16 @@ def test_neutral_tone_matches_word_inside_longer_token():
 
 
 def test_word_readings_skips_unreliable_neutral_sources():
-    cedict = parse_cedict(["大人 大人 [da4 ren5] /adult/", "那是 那是 [na4 shi5] /(coll.) of course/"])
+    cedict = parse_cedict(
+        [
+            "大人 大人 [da4 ren5] /adult/",
+            "那是 那是 [na4 shi5] /(coll.) of course/",
+            "這不 这不 [zhe4 bu5] /(coll.) as a matter of fact/",
+        ]
+    )
     assert word_readings(cedict) == {}
+
+
+def test_neutral_tone_ignores_colloquial_filler_across_tokens():
+    cedict = parse_cedict(["這不 这不 [zhe4 bu5] /(coll.)/", "可能 可能 [ke3 neng2] /maybe/"])
+    assert sentence_pinyin("这不可能！", words=word_readings(cedict))[0].startswith("zhè bù kě néng")
