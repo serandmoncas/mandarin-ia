@@ -18,7 +18,9 @@ Diseño: `docs/superpowers/specs/2026-10-29-mandarin-ia-design.md` · Plan Fase 
    - [ ] Azure Speech: recurso **F0** (nunca S0), región `eastus`; copiar KEY 1 y región al `.env`.
    - [ ] `NEXT_PUBLIC_AUDIO_BASE_URL={SUPABASE_URL}/storage/v1/object/public/audio/` (con barra final).
 2. [ ] Prueba de audio: `audio --limit 5`.
-3. [ ] Analizar por qué 962 entradas quedaron con flag `review` (70 % vs. meta 90 %); corregir prompts/checks y regenerar lo necesario.
+3. [x] Analizar las entradas en `review` (2026-11-22): ver `docs/analisis-review-2026-11-22.md`. El 74 % de los problemas es pinyin calculado por pypinyin; arreglarlo lleva al 91 %.
+   - [ ] Implementar el pinyin híbrido (Claude propone, CC-CEDICT valida) + sandhi de 一/不 en tono hablado; reprocesar ~600 palabras y re-revisar.
+   - [ ] Después: los ~160 casos sin pinyin (naturalidad, traducción, significado).
 4. [ ] Revisar 20 palabras al azar con Sergio.
 5. [ ] Audio completo: `audio` (~16 h a ≤18 clips/min, reanudable) → `build` → commit con `data/audio-manifest.json`.
 6. [ ] Tarea 11: despliegue en Vercel Hobby — **solo con aprobación de Sergio**; requiere `NEXT_PUBLIC_AUDIO_BASE_URL` en build.
