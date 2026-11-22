@@ -7,7 +7,6 @@ from pathlib import Path
 import httpx
 
 from mandarin_pipeline.cedict import parse_cedict
-from mandarin_pipeline.pinyin import word_readings
 from mandarin_pipeline.generate import (
     MAX_CONSECUTIVE_FAILURES,
     BatchReport,
@@ -40,6 +39,7 @@ from mandarin_pipeline.frequency import top_frequency_words, word_frequency
 from mandarin_pipeline.hsk import load_hsk
 from mandarin_pipeline.models import CharContent, PhraseContent, WordContent
 from mandarin_pipeline.order import Candidate, learning_order, select_candidates, write_candidates
+from mandarin_pipeline.pinyin import word_readings
 from mandarin_pipeline.sources import download_sources
 from mandarin_pipeline.tts import (
     MissingConfig,

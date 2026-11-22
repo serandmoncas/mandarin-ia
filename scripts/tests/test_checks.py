@@ -221,14 +221,17 @@ def test_load_checked_words_reads_pinyin_batches_later_wins(tmp_path):
     def first(words):
         return words["妈妈"].examples[0].pinyin
 
-    fallback = sentence_pinyin("我的妈妈", words=word_readings(cedict))[0]
+    fallback = sentence_pinyin("我的妈妈")[0]
+    assert fallback == "wǒ de mā mā"
     assert first(load_checked_words(tmp_path, cedict, {"妈妈": 1})) == fallback
     pdir = tmp_path / "pinyin"
     pdir.mkdir()
     (pdir / "batch_000.json").write_text(json.dumps(ex("wo3 de5 ma1 ma1")), encoding="utf-8")
+    earlier = first(load_checked_words(tmp_path, cedict, {"妈妈": 1}))
+    assert earlier == "wǒ de mā mā" and earlier == fallback
     (pdir / "batch_001.json").write_text(json.dumps(ex("wo3 de5 ma1 ma5")), encoding="utf-8")
     words = load_checked_words(tmp_path, cedict, {"妈妈": 1})
-    assert first(words) == "wǒ de mā ma"
+    assert first(words) == "wǒ de mā ma" and first(words) != earlier
     assert "pinyin_fallback" not in words["妈妈"].flags
 
 

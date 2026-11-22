@@ -241,10 +241,12 @@ def load_checked_words(
     order: dict[str, int],
     neutral_words: WordReadings | None = None,
 ) -> dict[str, CheckedWord]:
-    """Run check_word over every generated word, with the words learned before it as known."""
+    """Run check_word over every generated word, with the words learned before it as known.
+
+    `neutral_words` None means no CEDICT neutral tones (callers pass `word_readings(cedict)`).
+    """
     by_order = sorted(order.items(), key=lambda kv: kv[1])
     readings = char_readings(cedict)
-    neutral_words = word_readings(cedict) if neutral_words is None else neutral_words
     proposals = _load_pinyin_proposals(Path(gen_dir) / "pinyin")
     words: dict[str, CheckedWord] = {}
     for raw in _load_dir(Path(gen_dir) / "words"):

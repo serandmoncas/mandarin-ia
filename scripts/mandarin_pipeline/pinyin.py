@@ -91,6 +91,7 @@ def _base_of(marked: str) -> str:
     """Toneless base of a marked syllable, ü as v ("lǜ" -> "lv")."""
     return "".join(_UNMARK.get(c, c) for c in marked.lower())
 
+
 WordReadings = dict[str, list[list[tuple[str, int]]]]
 
 
