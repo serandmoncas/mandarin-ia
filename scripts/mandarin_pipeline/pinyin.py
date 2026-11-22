@@ -1,6 +1,7 @@
 """Pinyin helpers: numbered -> tone-marked, per-character syllables, sentence pinyin."""
 from pypinyin import Style, pinyin
 
+from mandarin_pipeline.cedict import CedictEntry
 from mandarin_pipeline.models import Syllable
 
 _MARKS = {
@@ -69,3 +70,44 @@ def sentence_pinyin(zh: str) -> tuple[str, list[Syllable]]:
         base, tone = _split_tone(item[0])
         syllables.append(Syllable(hanzi=ch, pinyin=_mark(base, tone), tone=tone))
     return " ".join(s.pinyin for s in syllables), syllables
+
+
+def _normalize(syl: str) -> str:
+    return syl.lower().replace("u:", "v").replace("ü", "v")
+
+
+def char_readings(cedict: dict[str, list[CedictEntry]]) -> dict[str, set[str]]:
+    """Toneless bases (ü as v) of every known reading of each han character."""
+    readings: dict[str, set[str]] = {}
+    for entries in cedict.values():
+        for entry in entries:
+            syls = entry.pinyin_numbered.split()
+            if len(syls) != len(entry.simplified):
+                continue
+            for ch, syl in zip(entry.simplified, syls):
+                if _is_han(ch):
+                    readings.setdefault(ch, set()).add(_split_tone(_normalize(syl))[0])
+    for ch in set(readings) | {c for c in cedict if len(c) == 1 and _is_han(c)}:
+        for item in pinyin(ch, style=Style.NORMAL, heteronym=True):
+            readings.setdefault(ch, set()).update(_normalize(r) for r in item)
+    return readings
+
+
+def validate_numbered(
+    zh: str, numbered: str, readings: dict[str, set[str]]
+) -> list[Syllable] | None:
+    """Accept proposed numbered pinyin only if each syllable is a real reading of its character."""
+    han = [ch for ch in zh if _is_han(ch)]
+    parts = numbered.split()
+    if len(han) != len(parts):
+        return None
+    out = []
+    for i, (ch, part) in enumerate(zip(han, parts)):
+        base, tone = _split_tone(_normalize(part))
+        if ch == "儿" and base == "r" and i > 0:
+            out.append(Syllable(hanzi=ch, pinyin="r", tone=5))
+            continue
+        if base not in readings.get(ch, set()):
+            return None
+        out.append(Syllable(hanzi=ch, pinyin=_mark(base, tone), tone=tone))
+    return out
