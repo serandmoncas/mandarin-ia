@@ -11,14 +11,15 @@ from typing import Callable, Literal
 
 from pydantic import BaseModel, ValidationError
 
+from mandarin_pipeline.checks import _load_dir
 from mandarin_pipeline.models import MISSIONS, ReviewResult
 
 Runner = Callable[[str], str]
-Kind = Literal["words", "chars", "phrases", "review"]
+Kind = Literal["words", "chars", "phrases", "review", "pinyin"]
 
 PROMPTS_DIR = Path(__file__).parent / "prompts"
 _FENCE = re.compile(r"^```[a-zA-Z]*\s*\n(.*?)\n?```\s*$", re.DOTALL)
-_KEY = {"words": "word", "chars": "char", "review": "id"}
+_KEY = {"words": "word", "chars": "char", "review": "id", "pinyin": "word"}
 # Consecutive failed batches before giving up (e.g. the Claude subscription limit was hit).
 MAX_CONSECUTIVE_FAILURES = 3
 
@@ -209,6 +210,20 @@ def _load_prompt(name: str) -> Template:
     return Template((PROMPTS_DIR / f"{name}.md").read_text(encoding="utf-8"))
 
 
+_PINYIN_ISSUE = re.compile(r"pinyin|tono|lectura|pronunci|sandhi", re.IGNORECASE)
+
+
+def pinyin_targets(gen_dir: Path, review_dir: Path) -> list[dict]:
+    """Words whose latest review verdict flags a pinyin problem, in generation order."""
+    latest = {r.id: r for r in load_reviews(review_dir)}  # later batches override earlier
+    targets = []
+    for raw in _load_dir(Path(gen_dir) / "words"):
+        review = latest.get(f"word:{raw['word']}")
+        if review and any(_PINYIN_ISSUE.search(i) for i in review.issues):
+            targets.append({"word": raw["word"], "examples": [e["zh"] for e in raw["examples"]]})
+    return targets
+
+
 def build_word_items(candidates: list[dict], cedict: dict) -> list[dict]:
     items = []
     for c in sorted(candidates, key=lambda c: c["order"]):
@@ -267,4 +282,12 @@ def make_review_renderer() -> Callable[[list[dict]], str]:
     template = _load_prompt("review")
     return lambda batch: template.substitute(
         items="\n\n".join(f"[{i['id']}]\n{i['text']}" for i in batch), count=len(batch)
+    )
+
+
+def make_pinyin_renderer() -> Callable[[list[dict]], str]:
+    template = _load_prompt("pinyin")
+    return lambda batch: template.substitute(
+        items="\n\n".join("\n".join([i["word"], *i["examples"]]) for i in batch),
+        count=len(batch),
     )

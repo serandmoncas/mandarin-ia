@@ -82,3 +82,13 @@ class ReviewResult(CamelModel):
     # sha1 of the reviewed text. Always set by the pipeline from the item it sent (never
     # trusted from the model); "" (legacy/missing) never matches current content.
     content_hash: str = ""
+
+
+class ExamplePinyin(CamelModel):
+    zh: str
+    pinyin: str  # numbered, one syllable per han character, e.g. "ni3 hao3"
+
+
+class WordPinyin(CamelModel):
+    word: str
+    examples: list[ExamplePinyin]

@@ -17,8 +17,10 @@ from mandarin_pipeline.generate import (
     load_reviews,
     make_char_renderer,
     make_phrase_renderer,
+    make_pinyin_renderer,
     make_review_renderer,
     make_word_renderer,
+    pinyin_targets,
     run_batches,
     run_review,
 )
@@ -34,7 +36,7 @@ from mandarin_pipeline.build import (
 from mandarin_pipeline.checks import _load_dir, build_review_items, load_checked_words
 from mandarin_pipeline.frequency import top_frequency_words, word_frequency
 from mandarin_pipeline.hsk import load_hsk
-from mandarin_pipeline.models import CharContent, PhraseContent, WordContent
+from mandarin_pipeline.models import CharContent, PhraseContent, WordContent, WordPinyin
 from mandarin_pipeline.order import Candidate, learning_order, select_candidates, write_candidates
 from mandarin_pipeline.sources import download_sources
 from mandarin_pipeline.tts import (
@@ -122,6 +124,16 @@ def _review(args: argparse.Namespace) -> None:
     _finish_batches("review", len(items), report, out_dir)
 
 
+def _pinyin(args: argparse.Namespace) -> None:
+    gen = ROOT / "data" / "generated"
+    items = pinyin_targets(gen, gen / "review")[: args.limit]
+    out_dir = gen / "pinyin"
+    report = run_batches(
+        "pinyin", items, make_pinyin_renderer(), WordPinyin, claude_runner, out_dir, batch_size=20
+    )
+    _finish_batches("pinyin", len(items), report, out_dir)
+
+
 def _assemble() -> tuple[list[Candidate], Dictionary]:
     data = ROOT / "data"
     rows = json.loads((data / "candidates.json").read_text(encoding="utf-8"))
@@ -204,6 +216,7 @@ COMMANDS = {
     "stats": ("Counts by status, flag and HSK level", _stats),
     "audio": ("Synthesize audio with Azure TTS and upload it to Supabase Storage", _audio),
     "review": ("Second AI review pass over content that passed the automatic checks", _review),
+    "pinyin": ("Ask claude -p for numbered pinyin of examples flagged by the review", _pinyin),
 }
 
 
@@ -215,7 +228,7 @@ def main(argv: list[str] | None = None) -> None:
         p.set_defaults(handler=handler)
         if name == "generate":
             p.add_argument("kind", choices=["words", "chars", "phrases"])
-        if name in ("generate", "review", "audio"):
+        if name in ("generate", "review", "pinyin", "audio"):
             p.add_argument("--limit", type=int, default=None, help="Process at most N items (audio: new jobs only)")
     args = parser.parse_args(argv)
     args.handler(args)

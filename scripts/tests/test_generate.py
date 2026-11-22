@@ -2,8 +2,14 @@ import json
 
 import pytest
 
-from mandarin_pipeline.generate import BatchReport, run_batches, strip_code_fences
-from mandarin_pipeline.models import WordContent
+from mandarin_pipeline.generate import (
+    BatchReport,
+    make_pinyin_renderer,
+    pinyin_targets,
+    run_batches,
+    strip_code_fences,
+)
+from mandarin_pipeline.models import WordContent, WordPinyin
 
 
 def _word_obj(word: str, examples: int = 4) -> dict:
@@ -250,3 +256,55 @@ def test_claude_runner_disables_tools_and_uses_neutral_cwd(monkeypatch):
     repo = Path(__file__).resolve().parents[2]
     cwd = Path(seen["kw"]["cwd"]).resolve()
     assert seen["cwd_exists"] and repo not in (cwd, *cwd.parents)
+
+
+def _write_words(gen_dir, words):
+    d = gen_dir / "words"
+    d.mkdir(parents=True)
+    (d / "batch_000.json").write_text(
+        json.dumps([_word_obj(w) for w in words], ensure_ascii=False), encoding="utf-8"
+    )
+
+
+def _write_review(review_dir, idx, verdicts):
+    review_dir.mkdir(parents=True, exist_ok=True)
+    rows = [{"id": f"word:{w}", "ok": not issues, "issues": issues, "content_hash": "h"}
+            for w, issues in verdicts]
+    (review_dir / f"batch_{idx:03d}.json").write_text(
+        json.dumps(rows, ensure_ascii=False), encoding="utf-8"
+    )
+
+
+def test_pinyin_targets_selects_words_with_pinyin_issues(tmp_path):
+    _write_words(tmp_path, ["妈妈", "你好", "谢谢"])
+    _write_review(tmp_path / "review", 0, [
+        ("妈妈", ["Pinyin: 妈妈 debe ser mā ma"]),
+        ("你好", ["La traducción es imprecisa"]),
+        ("谢谢", []),
+    ])
+    assert pinyin_targets(tmp_path, tmp_path / "review") == [
+        {"word": "妈妈", "examples": ["妈妈好"] * 4}
+    ]
+
+
+def test_pinyin_targets_uses_latest_review(tmp_path):
+    _write_words(tmp_path, ["妈妈", "你好"])
+    _write_review(tmp_path / "review", 0, [("妈妈", ["Pinyin mal"]), ("你好", [])])
+    _write_review(tmp_path / "review", 1, [("妈妈", []), ("你好", ["Tono incorrecto"])])
+    assert [t["word"] for t in pinyin_targets(tmp_path, tmp_path / "review")] == ["你好"]
+
+
+def test_pinyin_renderer_lists_words_and_examples():
+    prompt = make_pinyin_renderer()([{"word": "妈妈", "examples": ["妈妈好", "我爱妈妈"]}])
+    assert "妈妈\n妈妈好\n我爱妈妈" in prompt
+    assert "$" not in prompt
+
+
+def test_run_batches_pinyin_validates_word_key(tmp_path):
+    items = [{"word": "妈妈", "examples": ["妈妈好"]}]
+
+    def runner(prompt: str) -> str:
+        return json.dumps([{"word": "爸爸", "examples": [{"zh": "妈妈好", "pinyin": "ma1 ma5 hao3"}]}])
+
+    report = run_batches("pinyin", items, lambda b: "p", WordPinyin, runner, tmp_path)
+    assert report.failed == [0]
