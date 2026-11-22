@@ -12,7 +12,7 @@ from typing import Callable, Literal
 from pydantic import BaseModel, ValidationError
 
 from mandarin_pipeline.checks import _load_dir
-from mandarin_pipeline.models import MISSIONS, ReviewResult
+from mandarin_pipeline.models import MISSIONS, ReviewResult, WordPinyin
 
 Runner = Callable[[str], str]
 Kind = Literal["words", "chars", "phrases", "review", "pinyin"]
@@ -213,15 +213,40 @@ def _load_prompt(name: str) -> Template:
 _PINYIN_ISSUE = re.compile(r"pinyin|tono|lectura|pronunci|sandhi", re.IGNORECASE)
 
 
-def pinyin_targets(gen_dir: Path, review_dir: Path) -> list[dict]:
-    """Words whose latest review verdict flags a pinyin problem, in generation order."""
+def pinyin_targets(gen_dir: Path, review_dir: Path, current_hashes: dict[str, str]) -> list[dict]:
+    """Words whose latest review verdict flags a pinyin problem, in generation order.
+
+    `current_hashes` maps review id to the content_hash of the word's current review item.
+    A verdict about older content (e.g. a pinyin proposal stored but not re-reviewed yet) is
+    skipped, so reruns do not ask twice for the same word.
+    """
     latest = {r.id: r for r in load_reviews(review_dir)}  # later batches override earlier
     targets = []
     for raw in _load_dir(Path(gen_dir) / "words"):
-        review = latest.get(f"word:{raw['word']}")
-        if review and any(_PINYIN_ISSUE.search(i) for i in review.issues):
+        item_id = f"word:{raw['word']}"
+        review = latest.get(item_id)
+        if (
+            review
+            and review.content_hash == current_hashes.get(item_id)
+            and any(_PINYIN_ISSUE.search(i) for i in review.issues)
+        ):
             targets.append({"word": raw["word"], "examples": [e["zh"] for e in raw["examples"]]})
     return targets
+
+
+def run_pinyin(
+    items: list[dict],
+    render_prompt: Callable[[list[dict]], str],
+    runner: Runner,
+    out_dir: Path,
+    batch_size: int = 20,
+) -> BatchReport:
+    """Run the pinyin pass into NEW batch files; existing batch files are never rewritten."""
+    out_dir = Path(out_dir)
+    return run_batches(
+        "pinyin", items, render_prompt, WordPinyin, runner, out_dir,
+        batch_size=batch_size, first_index=_next_batch_index(out_dir),
+    )
 
 
 def build_word_items(candidates: list[dict], cedict: dict) -> list[dict]:

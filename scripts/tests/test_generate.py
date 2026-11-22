@@ -6,6 +6,7 @@ from mandarin_pipeline.generate import (
     BatchReport,
     make_pinyin_renderer,
     pinyin_targets,
+    run_pinyin,
     run_batches,
     strip_code_fences,
 )
@@ -266,13 +267,17 @@ def _write_words(gen_dir, words):
     )
 
 
-def _write_review(review_dir, idx, verdicts):
+def _write_review(review_dir, idx, verdicts, content_hash="h"):
     review_dir.mkdir(parents=True, exist_ok=True)
-    rows = [{"id": f"word:{w}", "ok": not issues, "issues": issues, "content_hash": "h"}
+    rows = [{"id": f"word:{w}", "ok": not issues, "issues": issues, "content_hash": content_hash}
             for w, issues in verdicts]
     (review_dir / f"batch_{idx:03d}.json").write_text(
         json.dumps(rows, ensure_ascii=False), encoding="utf-8"
     )
+
+
+def _hashes(*words, h="h"):
+    return {f"word:{w}": h for w in words}
 
 
 def test_pinyin_targets_selects_words_with_pinyin_issues(tmp_path):
@@ -282,7 +287,7 @@ def test_pinyin_targets_selects_words_with_pinyin_issues(tmp_path):
         ("你好", ["La traducción es imprecisa"]),
         ("谢谢", []),
     ])
-    assert pinyin_targets(tmp_path, tmp_path / "review") == [
+    assert pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", "你好", "谢谢")) == [
         {"word": "妈妈", "examples": ["妈妈好"] * 4}
     ]
 
@@ -291,7 +296,43 @@ def test_pinyin_targets_uses_latest_review(tmp_path):
     _write_words(tmp_path, ["妈妈", "你好"])
     _write_review(tmp_path / "review", 0, [("妈妈", ["Pinyin mal"]), ("你好", [])])
     _write_review(tmp_path / "review", 1, [("妈妈", []), ("你好", ["Tono incorrecto"])])
-    assert [t["word"] for t in pinyin_targets(tmp_path, tmp_path / "review")] == ["你好"]
+    targets = pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", "你好"))
+    assert [t["word"] for t in targets] == ["你好"]
+
+
+def test_pinyin_targets_skips_verdict_of_stale_content(tmp_path):
+    _write_words(tmp_path, ["妈妈"])
+    _write_review(tmp_path / "review", 0, [("妈妈", ["Pinyin mal"])], content_hash="old")
+    assert pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", h="new")) == []
+
+
+def test_pinyin_targets_keeps_verdict_of_current_content(tmp_path):
+    _write_words(tmp_path, ["妈妈"])
+    _write_review(tmp_path / "review", 0, [("妈妈", ["Pinyin mal"])], content_hash="cur")
+    targets = pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", h="cur"))
+    assert [t["word"] for t in targets] == ["妈妈"]
+
+
+def test_pinyin_rerun_appends_new_batch_and_keeps_old_bytes(tmp_path):
+    _write_words(tmp_path, ["妈妈", "你好"])
+    _write_review(tmp_path / "review", 0, [("妈妈", ["Pinyin mal"]), ("你好", ["Pinyin mal"])])
+    out_dir = tmp_path / "pinyin"
+    out_dir.mkdir()
+    old = out_dir / "batch_000.json"
+    old.write_bytes('[{"word": "妈妈", "examples": []}]\n'.encode("utf-8"))
+    before = old.read_bytes()
+    items = pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", "你好"))
+
+    def runner(prompt: str) -> str:
+        return json.dumps([
+            {"word": i["word"], "examples": [{"zh": z, "pinyin": "ma1"} for z in i["examples"]]}
+            for i in items
+        ], ensure_ascii=False)
+
+    report = run_pinyin(items, lambda b: "p", runner, out_dir, batch_size=20)
+    assert report.done == 1
+    assert old.read_bytes() == before
+    assert (out_dir / "batch_001.json").exists()
 
 
 def test_pinyin_renderer_lists_words_and_examples():

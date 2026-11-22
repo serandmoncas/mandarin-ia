@@ -22,6 +22,7 @@ from mandarin_pipeline.generate import (
     make_word_renderer,
     pinyin_targets,
     run_batches,
+    run_pinyin,
     run_review,
 )
 from mandarin_pipeline.build import (
@@ -125,12 +126,14 @@ def _review(args: argparse.Namespace) -> None:
 
 
 def _pinyin(args: argparse.Namespace) -> None:
+    candidates = json.loads((ROOT / "data" / "candidates.json").read_text(encoding="utf-8"))
+    with open(SOURCES_DIR / "cedict_ts.txt", encoding="utf-8") as f:
+        cedict = parse_cedict(f)
     gen = ROOT / "data" / "generated"
-    items = pinyin_targets(gen, gen / "review")[: args.limit]
+    current = {i["id"]: i["content_hash"] for i in build_review_items(gen, cedict, candidates)}
+    items = pinyin_targets(gen, gen / "review", current)[: args.limit]
     out_dir = gen / "pinyin"
-    report = run_batches(
-        "pinyin", items, make_pinyin_renderer(), WordPinyin, claude_runner, out_dir, batch_size=20
-    )
+    report = run_pinyin(items, make_pinyin_renderer(), claude_runner, out_dir, batch_size=20)
     _finish_batches("pinyin", len(items), report, out_dir)
 
 

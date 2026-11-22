@@ -102,3 +102,10 @@ def test_sentence_pinyin_sandhi_decides_yi_bu_over_proposal():
     ]:
         text, _, fell_back = sentence_pinyin(zh, proposed, R)
         assert (text, fell_back) == (expected, False)
+
+
+def test_sentence_pinyin_joins_erhua_in_text_only():
+    text, syllables, fell_back = sentence_pinyin("那儿", "na4 r5", {**R, "那": {"na4"}})
+    assert text == "nàr"
+    assert len(syllables) == 2
+    assert not fell_back

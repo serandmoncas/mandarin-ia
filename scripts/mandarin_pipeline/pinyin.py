@@ -72,6 +72,15 @@ def _pypinyin_syllables(zh: str) -> list[Syllable]:
     return syllables
 
 
+def _join_text(syllables: list[Syllable]) -> str:
+    """Space-joined pinyin text; an erhua syllable (儿 read "r") attaches to the previous one."""
+    text = ""
+    for i, s in enumerate(syllables):
+        erhua = s.hanzi == "儿" and s.pinyin == "r" and i > 0
+        text += s.pinyin if erhua or not text else f" {s.pinyin}"
+    return text
+
+
 def sentence_pinyin(
     zh: str, proposed: str | None = None, readings: dict[str, set[str]] | None = None
 ) -> tuple[str, list[Syllable], bool]:
@@ -87,7 +96,7 @@ def sentence_pinyin(
     if syllables is None:
         syllables = _pypinyin_syllables(zh)
     syllables = apply_yi_bu_sandhi(syllables)
-    return " ".join(s.pinyin for s in syllables), syllables, fell_back
+    return _join_text(syllables), syllables, fell_back
 
 
 def _normalize(syl: str) -> str:
