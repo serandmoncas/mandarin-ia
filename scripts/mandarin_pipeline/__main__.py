@@ -7,6 +7,7 @@ from pathlib import Path
 import httpx
 
 from mandarin_pipeline.cedict import parse_cedict
+from mandarin_pipeline.pinyin import word_readings
 from mandarin_pipeline.generate import (
     MAX_CONSECUTIVE_FAILURES,
     BatchReport,
@@ -146,14 +147,15 @@ def _assemble() -> tuple[list[Candidate], Dictionary]:
     with open(SOURCES_DIR / "cedict_ts.txt", encoding="utf-8") as f:
         cedict = parse_cedict(f)
     gen = data / "generated"
-    words = load_checked_words(gen, cedict, {c.word: c.order for c in candidates})
+    neutral_words = word_readings(cedict)
+    words = load_checked_words(gen, cedict, {c.word: c.order for c in candidates}, neutral_words)
     reviews = load_reviews(gen / "review")
     chars = [CharContent.model_validate(x) for x in _load_dir(gen / "chars")]
     phrases = [PhraseContent.model_validate(x) for x in _load_dir(gen / "phrases")]
     manifest = load_manifest(data / "audio-manifest.json")
     version, stamp = now_stamps()
     return candidates, build_dictionary(
-        candidates, words, reviews, chars, phrases, manifest, version, stamp
+        candidates, words, reviews, chars, phrases, manifest, version, stamp, neutral_words
     )
 
 

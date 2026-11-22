@@ -17,7 +17,7 @@ from mandarin_pipeline.models import (
     PhraseContent,
     WordContent,
 )
-from mandarin_pipeline.pinyin import sentence_pinyin
+from mandarin_pipeline.pinyin import sentence_pinyin, word_readings
 
 
 def word(w, idx=0, meanings=("sentido",), examples=None):
@@ -221,7 +221,8 @@ def test_load_checked_words_reads_pinyin_batches_later_wins(tmp_path):
     def first(words):
         return words["妈妈"].examples[0].pinyin
 
-    assert first(load_checked_words(tmp_path, cedict, {"妈妈": 1})) == sentence_pinyin("我的妈妈")[0]
+    fallback = sentence_pinyin("我的妈妈", words=word_readings(cedict))[0]
+    assert first(load_checked_words(tmp_path, cedict, {"妈妈": 1})) == fallback
     pdir = tmp_path / "pinyin"
     pdir.mkdir()
     (pdir / "batch_000.json").write_text(json.dumps(ex("wo3 de5 ma1 ma1")), encoding="utf-8")
@@ -229,3 +230,28 @@ def test_load_checked_words_reads_pinyin_batches_later_wins(tmp_path):
     words = load_checked_words(tmp_path, cedict, {"妈妈": 1})
     assert first(words) == "wǒ de mā ma"
     assert "pinyin_fallback" not in words["妈妈"].flags
+
+
+def test_phrase_hash_matches_between_review_and_build(tmp_path):
+    import json
+
+    from mandarin_pipeline.build import build_dictionary
+    from mandarin_pipeline.checks import build_review_items
+    from mandarin_pipeline.models import ReviewResult
+
+    (tmp_path / "words").mkdir()
+    (tmp_path / "chars").mkdir()
+    (tmp_path / "phrases").mkdir()
+    (tmp_path / "phrases" / "batch_000.json").write_text(
+        json.dumps([{"mission": "hotel", "zh": "对不起", "es": "perdón"}]), encoding="utf-8"
+    )
+    cedict = {"对不起": [CedictEntry("對不起", "对不起", "dui4 bu5 qi3", ["sorry"])]}
+    items = build_review_items(tmp_path, cedict, [])
+    assert "duì bu qǐ" in items[0]["text"]
+    reviews = [ReviewResult(id=items[0]["id"], ok=True, content_hash=items[0]["content_hash"])]
+    phrases = [PhraseContent(mission="hotel", zh="对不起", es="perdón")]
+    d = build_dictionary(
+        [], {}, reviews, [], phrases, {}, "v", "t", neutral_words=word_readings(cedict)
+    )
+    assert d.phrases[0].status == "auto_checked"
+    assert d.phrases[0].pinyin == "duì bu qǐ"

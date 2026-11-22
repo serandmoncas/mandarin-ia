@@ -16,7 +16,14 @@ from mandarin_pipeline.models import (
     WordContent,
     WordPinyin,
 )
-from mandarin_pipeline.pinyin import _is_han, char_readings, sentence_pinyin, syllables_for
+from mandarin_pipeline.pinyin import (
+    WordReadings,
+    _is_han,
+    char_readings,
+    sentence_pinyin,
+    syllables_for,
+    word_readings,
+)
 
 MAX_HAN = 20
 MIN_EXAMPLES = 2
@@ -59,6 +66,7 @@ def check_word(
     known: set[str],
     proposals: dict[str, str] | None = None,
     readings: dict[str, set[str]] | None = None,
+    words: WordReadings | None = None,
 ) -> CheckedWord:
     """`proposals` maps an example's zh to proposed numbered pinyin, validated with `readings`."""
     flags: list[str] = []
@@ -84,7 +92,7 @@ def check_word(
             continue
         seen_zh.add(ex.zh)
         pinyin_text, syllables, fell_back = sentence_pinyin(
-            ex.zh, (proposals or {}).get(ex.zh), readings
+            ex.zh, (proposals or {}).get(ex.zh), readings, words
         )
         if fell_back and "pinyin_fallback" not in flags:
             flags.append("pinyin_fallback")
@@ -120,13 +128,15 @@ def check_char(content: CharContent) -> list[str]:
     return flags
 
 
-def check_phrase(content: PhraseContent) -> tuple[str, list[Syllable], list[str]]:
+def check_phrase(
+    content: PhraseContent, words: WordReadings | None = None
+) -> tuple[str, list[Syllable], list[str]]:
     flags = []
     if not content.es.strip():
         flags.append("empty_translation")
     if _han_count(content.zh) > MAX_HAN:
         flags.append("too_long")
-    pinyin_text, syllables, _ = sentence_pinyin(content.zh)
+    pinyin_text, syllables, _ = sentence_pinyin(content.zh, words=words)
     return pinyin_text, syllables, flags
 
 
@@ -165,7 +175,10 @@ def _item(item_id: str, text: str) -> dict:
 
 
 def review_items_from(
-    words: dict[str, CheckedWord], chars: list[CharContent], phrases: list[PhraseContent]
+    words: dict[str, CheckedWord],
+    chars: list[CharContent],
+    phrases: list[PhraseContent],
+    neutral_words: WordReadings | None = None,
 ) -> list[dict]:
     """Review items ({id, text, content_hash}) for content with no automatic flags.
 
@@ -199,7 +212,7 @@ def review_items_from(
     for phrase in phrases:
         idx = counters.get(phrase.mission, 0)
         counters[phrase.mission] = idx + 1
-        pinyin_text, _, flags = check_phrase(phrase)
+        pinyin_text, _, flags = check_phrase(phrase, neutral_words)
         if flags:
             continue
         items.append(
@@ -223,11 +236,15 @@ def _load_pinyin_proposals(path: Path) -> dict[str, dict[str, str]]:
 
 
 def load_checked_words(
-    gen_dir: Path, cedict: dict[str, list[CedictEntry]], order: dict[str, int]
+    gen_dir: Path,
+    cedict: dict[str, list[CedictEntry]],
+    order: dict[str, int],
+    neutral_words: WordReadings | None = None,
 ) -> dict[str, CheckedWord]:
     """Run check_word over every generated word, with the words learned before it as known."""
     by_order = sorted(order.items(), key=lambda kv: kv[1])
     readings = char_readings(cedict)
+    neutral_words = word_readings(cedict) if neutral_words is None else neutral_words
     proposals = _load_pinyin_proposals(Path(gen_dir) / "pinyin")
     words: dict[str, CheckedWord] = {}
     for raw in _load_dir(Path(gen_dir) / "words"):
@@ -235,7 +252,8 @@ def load_checked_words(
         before = order.get(content.word, 0)
         known = {w for w, o in by_order if o < before}
         words[content.word] = check_word(
-            content, cedict.get(content.word, []), known, proposals.get(content.word), readings
+            content, cedict.get(content.word, []), known, proposals.get(content.word), readings,
+            neutral_words,
         )
     return words
 
@@ -245,7 +263,10 @@ def build_review_items(
 ) -> list[dict]:
     """Items that passed the automatic checks, read from the generated batch files."""
     gen_dir = Path(gen_dir)
-    words = load_checked_words(gen_dir, cedict, {c["word"]: c["order"] for c in candidates})
+    neutral_words = word_readings(cedict)
+    words = load_checked_words(
+        gen_dir, cedict, {c["word"]: c["order"] for c in candidates}, neutral_words
+    )
     chars = [CharContent.model_validate(x) for x in _load_dir(gen_dir / "chars")]
     phrases = [PhraseContent.model_validate(x) for x in _load_dir(gen_dir / "phrases")]
-    return review_items_from(words, chars, phrases)
+    return review_items_from(words, chars, phrases, neutral_words)

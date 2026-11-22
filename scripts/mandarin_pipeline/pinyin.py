@@ -81,10 +81,66 @@ def _join_text(syllables: list[Syllable]) -> str:
     return text
 
 
+_MAX_WORD_LEN = 4
+_UNMARK = {
+    mark: ("v" if plain == "ü" else plain) for plain, marks in _MARKS.items() for mark in marks
+}
+
+
+def _base_of(marked: str) -> str:
+    """Toneless base of a marked syllable, ü as v ("lǜ" -> "lv")."""
+    return "".join(_UNMARK.get(c, c) for c in marked.lower())
+
+WordReadings = dict[str, list[list[tuple[str, int]]]]
+
+
+def word_readings(cedict: dict[str, list[CedictEntry]]) -> WordReadings:
+    """Per multi-character word, every CEDICT reading as [(base, tone), ...] (ü as v)."""
+    words: WordReadings = {}
+    for word, entries in cedict.items():
+        if len(word) < 2:
+            continue
+        for entry in entries:
+            syls = entry.pinyin_numbered.split()
+            if len(syls) != len(word):
+                continue
+            words.setdefault(word, []).append([_split_tone(_normalize(s)) for s in syls])
+    return words
+
+
+def apply_word_neutral_tones(syllables: list[Syllable], words: WordReadings) -> list[Syllable]:
+    """Make neutral the syllables that every CEDICT reading of a word marks as tone 5.
+
+    Longest word first, left to right; only a syllable whose base matches CEDICT's changes.
+    """
+    out = list(syllables)
+    han = [i for i, s in enumerate(out) if _is_han(s.hanzi)]
+    pos = 0
+    while pos < len(han):
+        for size in range(min(_MAX_WORD_LEN, len(han) - pos), 1, -1):
+            idxs = han[pos : pos + size]
+            readings = words.get("".join(out[i].hanzi for i in idxs))
+            if not readings:
+                continue
+            for k, i in enumerate(idxs):
+                if all(r[k][1] == 5 for r in readings):
+                    base = readings[0][k][0]
+                    if _base_of(out[i].pinyin) == base:
+                        out[i] = out[i].model_copy(update={"pinyin": _mark(base, 5), "tone": 5})
+            pos += size
+            break
+        else:
+            pos += 1
+    return out
+
+
 def sentence_pinyin(
-    zh: str, proposed: str | None = None, readings: dict[str, set[str]] | None = None
+    zh: str,
+    proposed: str | None = None,
+    readings: dict[str, set[str]] | None = None,
+    words: WordReadings | None = None,
 ) -> tuple[str, list[Syllable], bool]:
-    """Pinyin of a sentence with 一/不 sandhi applied.
+    """Pinyin of a sentence with CEDICT neutral tones (when `words`) and 一/不 sandhi applied.
 
     Uses the proposed numbered pinyin when it validates against `readings`; otherwise pypinyin.
     The bool is True when a proposal existed but failed validation.
@@ -95,6 +151,8 @@ def sentence_pinyin(
     fell_back = bool(proposed) and syllables is None
     if syllables is None:
         syllables = _pypinyin_syllables(zh)
+    if words is not None:
+        syllables = apply_word_neutral_tones(syllables, words)
     syllables = apply_yi_bu_sandhi(syllables)
     return _join_text(syllables), syllables, fell_back
 

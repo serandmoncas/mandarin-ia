@@ -26,7 +26,7 @@ from mandarin_pipeline.models import (
     Syllable,
 )
 from mandarin_pipeline.order import Candidate
-from mandarin_pipeline.pinyin import numbered_to_marked
+from mandarin_pipeline.pinyin import WordReadings, numbered_to_marked
 
 # Mirrors data/SOURCES.md; keep both in sync.
 CREDITS: list[dict[str, str]] = [
@@ -126,6 +126,7 @@ def matching_reviews(
     chars: list[CharContent],
     phrases: list[PhraseContent],
     reviews: list[ReviewResult],
+    neutral_words: WordReadings | None = None,
 ) -> dict[str, ReviewResult]:
     """Reviews (by id) whose content hash matches the item's current review text.
 
@@ -134,7 +135,7 @@ def matching_reviews(
     """
     by_key = {(r.id, r.content_hash): r for r in reviews if r.content_hash}
     out: dict[str, ReviewResult] = {}
-    for item in review_items_from(words, chars, phrases):
+    for item in review_items_from(words, chars, phrases, neutral_words):
         review = by_key.get((item["id"], item["content_hash"]))
         if review is not None:
             out[item["id"]] = review
@@ -150,8 +151,9 @@ def build_dictionary(
     manifest: dict[str, str],
     version: str,
     generated_at: str,
+    neutral_words: WordReadings | None = None,
 ) -> Dictionary:
-    reviews_by_id = matching_reviews(words, chars, phrases, reviews)
+    reviews_by_id = matching_reviews(words, chars, phrases, reviews, neutral_words)
     word_entries: list[WordEntry] = []
     for cand in sorted(candidates, key=lambda c: c.order):
         checked = words.get(cand.word)
@@ -202,7 +204,7 @@ def build_dictionary(
     for p in phrases:
         pid = phrase_id(p.mission, counters[p.mission])
         counters[p.mission] += 1
-        pinyin_text, syllables, auto_flags = check_phrase(p)
+        pinyin_text, syllables, auto_flags = check_phrase(p, neutral_words)
         status, flags = _resolve(reviews_by_id.get(pid), auto_flags)
         phrase_entries.append(
             PhraseEntry(

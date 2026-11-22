@@ -2,11 +2,13 @@ import pytest
 
 from mandarin_pipeline.cedict import parse_cedict
 from mandarin_pipeline.pinyin import (
+    apply_word_neutral_tones,
     char_readings,
     numbered_to_marked,
     sentence_pinyin,
     syllables_for,
     validate_numbered,
+    word_readings,
 )
 
 
@@ -124,3 +126,68 @@ def test_sentence_pinyin_joins_erhua_in_text_only():
     assert text == "nàr"
     assert len(syllables) == 2
     assert not fell_back
+
+
+_NEUTRAL_CEDICT = parse_cedict(
+    [
+        "對不起 对不起 [dui4 bu5 qi3] /sorry/",
+        "找不到 找不到 [zhao3 bu5 dao4] /cannot find/",
+        "喜歡 喜欢 [xi3 huan5] /to like/",
+        "東西 东西 [dong1 xi1] /east and west/",
+        "東西 东西 [dong1 xi5] /thing/",
+    ]
+)
+W = word_readings(_NEUTRAL_CEDICT)
+
+
+def test_word_readings_normalizes_and_keeps_all_readings():
+    assert W["对不起"] == [[("dui", 4), ("bu", 5), ("qi", 3)]]
+    assert W["东西"] == [[("dong", 1), ("xi", 1)], [("dong", 1), ("xi", 5)]]
+
+
+def test_word_readings_skips_single_chars_and_mismatched_counts():
+    cedict = parse_cedict(["好 好 [hao3] /good/", "二百五 二百五 [er4 bai3] /x/"])
+    assert word_readings(cedict) == {}
+
+
+def test_neutral_tone_pypinyin_path():
+    text, _, _ = sentence_pinyin("对不起，我来晚了。", words=W)
+    assert text.startswith("duì bu qǐ")
+    assert "zhǎo bu dào" in sentence_pinyin("我找不到。", words=W)[0]
+    assert "xǐ huan" in sentence_pinyin("我喜欢你", words=W)[0]
+
+
+def test_neutral_tone_proposal_path():
+    readings = char_readings(_NEUTRAL_CEDICT)
+    text, _, fell_back = sentence_pinyin("对不起", "dui4 bu4 qi3", readings, words=W)
+    assert text == "duì bu qǐ" and not fell_back
+
+
+def test_neutral_tone_without_words_is_unchanged():
+    assert sentence_pinyin("对不起")[0] == "duì bù qǐ"
+
+
+def test_neutral_tone_disagreeing_readings_leave_tone_alone():
+    syl = sentence_pinyin("东西")[1]
+    out = apply_word_neutral_tones(syl, W)
+    assert [(s.pinyin, s.tone) for s in out] == [(s.pinyin, s.tone) for s in syl]
+
+
+def test_neutral_tone_only_changes_neutral_positions_and_does_not_mutate():
+    syl = sentence_pinyin("对不起")[1]
+    before = [(s.pinyin, s.tone) for s in syl]
+    out = apply_word_neutral_tones(syl, W)
+    assert [s.pinyin for s in out] == ["duì", "bu", "qǐ"]
+    assert [(s.pinyin, s.tone) for s in syl] == before
+
+
+def test_neutral_tone_requires_matching_base():
+    # proposal reads 喜欢 with a different base for 欢: CEDICT neutral must not overwrite it
+    syl = syllables_for("喜欢", "xi3 hun2")
+    out = apply_word_neutral_tones(syl, W)
+    assert [s.pinyin for s in out] == ["xǐ", "hún"]
+
+
+def test_sandhi_still_applies_with_words():
+    assert sentence_pinyin("一样", words=W)[0] == "yí yàng"
+    assert sentence_pinyin("不是", words=W)[0] == "bú shì"
