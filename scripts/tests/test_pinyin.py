@@ -191,3 +191,33 @@ def test_neutral_tone_requires_matching_base():
 def test_sandhi_still_applies_with_words():
     assert sentence_pinyin("一样", words=W)[0] == "yí yàng"
     assert sentence_pinyin("不是", words=W)[0] == "bú shì"
+
+
+_BOUNDARY_CEDICT = parse_cedict(
+    [
+        "做作 做作 [zuo4 zuo5] /affected/",
+        "作業 作业 [zuo4 ye4] /homework/",
+        "這不 这不 [zhe4 bu5] /(coll.) as a matter of fact/",
+        "不是 不是 [bu4 shi4] /is not/",
+        "不是 不是 [bu4 shi5] /fault/",
+        "晚上 晚上 [wan3 shang5] /evening/",
+        "可不 可不 [ke3 bu5] /see 可不是/",
+    ]
+)
+WB = word_readings(_BOUNDARY_CEDICT)
+
+
+def test_neutral_tone_does_not_match_across_word_boundaries():
+    assert "zuò zuò yè" in sentence_pinyin("我们一起做作业吧。", words=WB)[0]
+    assert sentence_pinyin("这不是我的。", words=WB)[0].startswith("zhè bú shì")
+    assert "kě bù xiǎo" in sentence_pinyin("这个问题可不小。", words=WB)[0]
+
+
+def test_neutral_tone_matches_word_inside_longer_token():
+    # jieba keeps 每天晚上 as one token; 晚上 inside it still gets its neutral tone
+    assert "wǎn shang" in sentence_pinyin("我爸爸每天晚上都看电视。", words=WB)[0]
+
+
+def test_word_readings_skips_unreliable_neutral_sources():
+    cedict = parse_cedict(["大人 大人 [da4 ren5] /adult/", "那是 那是 [na4 shi5] /(coll.) of course/"])
+    assert word_readings(cedict) == {}

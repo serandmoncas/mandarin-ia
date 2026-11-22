@@ -94,12 +94,16 @@ def _base_of(marked: str) -> str:
 
 WordReadings = dict[str, list[list[tuple[str, int]]]]
 
+# CEDICT neutral readings that only fit a rare sense: 大人 "adult" is dàrén (neutral only
+# as an honorific), 那是 is nà shì except as colloquial "of course".
+_UNRELIABLE_NEUTRAL = {"大人", "那是"}
+
 
 def word_readings(cedict: dict[str, list[CedictEntry]]) -> WordReadings:
     """Per multi-character word, every CEDICT reading as [(base, tone), ...] (ü as v)."""
     words: WordReadings = {}
     for word, entries in cedict.items():
-        if len(word) < 2:
+        if len(word) < 2 or word in _UNRELIABLE_NEUTRAL:
             continue
         for entry in entries:
             syls = entry.pinyin_numbered.split()
@@ -109,29 +113,49 @@ def word_readings(cedict: dict[str, list[CedictEntry]]) -> WordReadings:
     return words
 
 
+def _neutralize(out: list[Syllable], idxs: list[int], readings: list[list[tuple[str, int]]]) -> None:
+    for k, i in enumerate(idxs):
+        if all(r[k][1] == 5 for r in readings):
+            base = readings[0][k][0]
+            if _base_of(out[i].pinyin) == base:
+                out[i] = out[i].model_copy(update={"pinyin": _mark(base, 5), "tone": 5})
+
+
 def apply_word_neutral_tones(syllables: list[Syllable], words: WordReadings) -> list[Syllable]:
     """Make neutral the syllables that every CEDICT reading of a word marks as tone 5.
 
-    Longest word first, left to right; only a syllable whose base matches CEDICT's changes.
+    Words must respect jieba's segmentation: first a run of whole jieba tokens (longest
+    first, so 找/不到 -> 找不到), otherwise words inside one token, matched from the right
+    (做作业 -> 做 + 作业, never 做作). Only a syllable whose base matches CEDICT's changes.
     """
+    import jieba  # local: loading jieba is slow and only this path needs it
+
     out = list(syllables)
-    han = [i for i, s in enumerate(out) if _is_han(s.hanzi)]
-    pos = 0
-    while pos < len(han):
-        for size in range(min(_MAX_WORD_LEN, len(han) - pos), 1, -1):
-            idxs = han[pos : pos + size]
-            readings = words.get("".join(out[i].hanzi for i in idxs))
-            if not readings:
-                continue
-            for k, i in enumerate(idxs):
-                if all(r[k][1] == 5 for r in readings):
-                    base = readings[0][k][0]
-                    if _base_of(out[i].pinyin) == base:
-                        out[i] = out[i].model_copy(update={"pinyin": _mark(base, 5), "tone": 5})
-            pos += size
-            break
+    # one char per han syllable; anything else is a hard boundary
+    text = "".join(s.hanzi if _is_han(s.hanzi) and len(s.hanzi) == 1 else "\n" for s in out)
+    bounds = [0]
+    for token in jieba.lcut(text, HMM=False):
+        bounds.append(bounds[-1] + len(token))
+    ti = 0
+    while ti < len(bounds) - 1:
+        for tj in range(len(bounds) - 1, ti + 1, -1):
+            word = text[bounds[ti] : bounds[tj]]
+            if len(word) <= _MAX_WORD_LEN and word in words:
+                _neutralize(out, list(range(bounds[ti], bounds[tj])), words[word])
+                ti = tj
+                break
         else:
-            pos += 1
+            lo, end = bounds[ti], bounds[ti + 1]
+            while end - lo > 1:
+                for size in range(min(_MAX_WORD_LEN, end - lo), 1, -1):
+                    word = text[end - size : end]
+                    if word in words:
+                        _neutralize(out, list(range(end - size, end)), words[word])
+                        end -= size
+                        break
+                else:
+                    end -= 1
+            ti += 1
     return out
 
 
