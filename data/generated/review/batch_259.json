@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:球迷",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5ec7635b1b7f5c92b246a9fd33c5fbb28532f05"
+  },
+  {
+    "id": "word:订",
+    "ok": true,
+    "issues": [],
+    "content_hash": "603f23fc7163ae325c7d09b9fa8f0431aa8a39bf"
+  },
+  {
+    "id": "word:整天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5f250edc5413f0dae4c9cea5be96cd281fb06db0"
+  },
+  {
+    "id": "word:空调",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ac76832ec4e2d246c5c068dcf6cd7b31710f293"
+  },
+  {
+    "id": "word:价钱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bfbfea6f2686f40f7a82923eae989d7cb2829144"
+  },
+  {
+    "id": "word:亲人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fca2a5cfd9b93bcbe7c741fa83c3801d006cc01a"
+  },
+  {
+    "id": "word:演唱会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "280c25735481c8e6c1f7932b69e0bfac52ff7d4e"
+  },
+  {
+    "id": "word:爱心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d3fb7e78dacc74c10d62a33ebffc9fe5615540f0"
+  },
+  {
+    "id": "word:大使馆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7360354dd4d99da045654b2917a22f9806c58d80"
+  },
+  {
+    "id": "word:提问",
+    "ok": false,
+    "issues": [
+      "El significado «interrogar» es engañoso: 提问 es hacer preguntas (en clase, en una rueda de prensa), no interrogar a un sospechoso (eso es 审问). Conviene eliminarlo o aclararlo."
+    ],
+    "content_hash": "799bc98ddd9855199ee492398e7f112dc2d21b96"
+  },
+  {
+    "id": "word:初级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f2020f7768faf9f51d46cbc0641541ee6d6972b"
+  },
+  {
+    "id": "word:演唱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "486f2464d707af3b1b85f22bb0eafc7ac1ef3a22"
+  },
+  {
+    "id": "word:题目",
+    "ok": true,
+    "issues": [],
+    "content_hash": "708aa75d575390d7e64f0e15e057a78d5cf378a5"
+  },
+  {
+    "id": "word:甜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e939ef4b5f17450db238090c72f094ff0f09979f"
+  },
+  {
+    "id": "word:告别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "efa72a400df61025d11a354d41ccf25ba4bb8562"
+  },
+  {
+    "id": "word:志愿者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "03b56afb142bb60e3139db44eb042b67276d332c"
+  },
+  {
+    "id": "word:剧场",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, «关上手机» suena poco natural, porque 关上 se usa para puertas y ventanas. Lo habitual es «关掉手机», «关闭手机» o «关机»."
+    ],
+    "content_hash": "f95a0c6759b2297b46cf1347c66179cc18eec55c"
+  },
+  {
+    "id": "word:沙发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ace279ce94f9272d974a8e0d084336e2134b2ac"
+  },
+  {
+    "id": "word:生动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cadc893ab516877533426ff26c8b9fcfa2fb0595"
+  },
+  {
+    "id": "word:报到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d78dd716ea77d6d910d38bcc81de1e62e4f2514"
+  },
+  {
+    "id": "word:传来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b7bead475214c2df3ad33d82ce7cdd24b0e0fb6"
+  },
+  {
+    "id": "word:大夫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c23e7ba6e3d96b5096ee9b27123ea2fac99d6fac"
+  },
+  {
+    "id": "word:赶到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a400d10f07e32a442e9374e09672699b967cdd9c"
+  },
+  {
+    "id": "word:将近",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, «住了将近五年，已经很习惯了» indica que la persona sigue viviendo allí. «Viví» sugiere algo terminado; sería más fiel «Llevo casi cinco años viviendo en Beijing y ya me acostumbré».",
+      "En el ejemplo 3, el pinyin «yī qiān wàn» no aplica el cambio tonal (yì qiān), a diferencia del resto de los ejemplos (yí ge)."
+    ],
+    "content_hash": "9160d39cd08b5d2a702d9b2344e1eae04f627021"
+  },
+  {
+    "id": "word:香蕉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d239840c705bed43bff5b342801aa9b7fa50b71"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:意思",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b067ba0fc0f768eb8848ac474d3d5154709cb5a2"
+  },
+  {
+    "id": "word:搞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eabdda60cb1dcc55758d046c62eb681a3f196edd"
+  },
+  {
+    "id": "word:属",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8de83af03aff94b53f466a717ef93253c4f84338"
+  },
+  {
+    "id": "word:经历",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ea275f085f389bcf761022aac35b046f826256e1"
+  },
+  {
+    "id": "word:下来",
+    "ok": false,
+    "issues": [
+      "El ejemplo 天黑下来 ilustra el uso de 下来 tras un adjetivo para indicar un cambio gradual de estado (oscurecer, calmarse), no 'continuar hasta ahora'. Ese sentido no aparece en los significados: conviene añadirlo o cambiar el ejemplo."
+    ],
+    "content_hash": "b92db82edefae5b07a39d96bad0c0f53c990b6d2"
+  },
+  {
+    "id": "word:女孩",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba7ba71817cdff9b8151017c1a7dc70caeac11ee"
+  },
+  {
+    "id": "word:尤其",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b9f5f28bd71d6dd7b6df221f0282dcc457b51e4"
+  },
+  {
+    "id": "word:留下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d6e8e571a172aa64404da1eb71a99d9caa643ea"
+  },
+  {
+    "id": "word:食物",
+    "ok": false,
+    "issues": [
+      "'我喜欢中国食物' suena poco natural; un nativo diría '我喜欢中国菜'. 食物 encaja mejor en contextos generales o formales."
+    ],
+    "content_hash": "a9e4eea3d8876304a2cbdd5c51d546597a2126b2"
+  },
+  {
+    "id": "word:掉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c61b85c78b9b109213c06243fbea987cf0d47740"
+  },
+  {
+    "id": "word:正是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "54e5fcea4394dde30b033a1ec33d3ffc56ba25a1"
+  },
+  {
+    "id": "word:员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ebeb29c2bb0b57dcfa4288c2323a7eadbac2dc4"
+  },
+  {
+    "id": "word:群",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ec4da00a2ceddbed241ddbb4dd475af6dc662b4"
+  },
+  {
+    "id": "word:脚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35a93b340d38cf2d52c4127db511366a0d20a316"
+  },
+  {
+    "id": "word:讲话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "84ad59a9b26777fe396b3e19d1dee58bb82f70b6"
+  },
+  {
+    "id": "word:弄",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9784680877f127f1aca67b9be423826160859e9c"
+  },
+  {
+    "id": "word:司机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "216ca8a613d2b08fa5e4ba84a17fac8f98b3fffa"
+  },
+  {
+    "id": "word:小心",
+    "ok": false,
+    "issues": [
+      "'把我的手机掉在地上' es gramaticalmente dudoso porque 掉 es intransitivo. Mejor '他不小心把我的手机掉到/弄掉在地上了' o '他不小心把我的手机摔在地上了'."
+    ],
+    "content_hash": "f804b952a9a52c5839f35a4f4f9035778d390e7c"
+  },
+  {
+    "id": "word:理由",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el último ejemplo: 告诉 se lee 'gào su' (con tono neutro), no 'gào sù'."
+    ],
+    "content_hash": "23380aa6d3ec6534832a2cb9ed90eaf0f6926f5f"
+  },
+  {
+    "id": "word:作业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "22fa2a5f22320d40f85765589444709b9b2d8cef"
+  },
+  {
+    "id": "word:概念",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3455350c6c1be6612ca996f93bfb0b587ad362d"
+  },
+  {
+    "id": "word:某",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf0eed0f1a56fde97bd2249cb0614dcd56011f8e"
+  },
+  {
+    "id": "word:举",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a75a706bb50b7641f7bef397b8f3d9a82313069d"
+  },
+  {
+    "id": "word:大人",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos no coincide con el de la palabra: se indica da4 ren5 (tono neutro), pero los ejemplos escriben 'dà rén'. Hay que unificarlo."
+    ],
+    "content_hash": "211913f577bb378526c7ab1e974ff9b2066a78ce"
+  },
+  {
+    "id": "word:西南",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3dbeed67dfd6d4d5631288261e09a19a95c1d58d"
+  }
+]

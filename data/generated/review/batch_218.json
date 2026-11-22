@@ -1,0 +1,157 @@
+[
+  {
+    "id": "word:位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "735ad26df062a4122249e546f32bc08d4c4b83b7"
+  },
+  {
+    "id": "word:以后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "807233d66f89a011e759cd497940a052d1775db0"
+  },
+  {
+    "id": "word:试",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5911afe1978a8318115ab978e50f9dd320178b6f"
+  },
+  {
+    "id": "word:有一些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45b7d8733426384c16ed2286f01b941a72f0a3bd"
+  },
+  {
+    "id": "word:作",
+    "ok": false,
+    "issues": [
+      "El primer ejemplo usa el compuesto 作业 ('tarea'), que no ilustra ninguno de los significados listados de 作 y puede confundir al estudiante.",
+      "En el uso moderno, 'tomar una decisión' se escribe normalmente 做决定 (o 作出决定); 作了一个决定 es aceptable, pero es menos habitual."
+    ],
+    "content_hash": "b1b5b4fd92c17aba18e90c276ba3f7646e1be016"
+  },
+  {
+    "id": "word:吃饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c2f725d18536fe7165477b841adb13de05440d59"
+  },
+  {
+    "id": "word:回去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "744057fd54af57ff56fe20ae47125f475de05c45"
+  },
+  {
+    "id": "word:集团",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3599eaac29f9dd19926cb848b0aef8262ef0dfaa"
+  },
+  {
+    "id": "word:路上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02ff3e86269b55120d109c94b07d41bfe55e76a0"
+  },
+  {
+    "id": "word:成立",
+    "ok": true,
+    "issues": [],
+    "content_hash": "88487a4df636c4d433ab9b8efd93d53107c6aebc"
+  },
+  {
+    "id": "word:科学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e49114de38668f718aa15f35e49cba44e0863ba5"
+  },
+  {
+    "id": "word:弟弟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d88baadb62b6919738ec8193069e7510fe5ada53"
+  },
+  {
+    "id": "word:任务",
+    "ok": true,
+    "issues": [],
+    "content_hash": "649b69e6d7ebe5b9ac8a2339a019c0b9e8e207fb"
+  },
+  {
+    "id": "word:旁边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4aa3a9b0b943c13ff3312e59d6c9d9ad02272c63"
+  },
+  {
+    "id": "word:之前",
+    "ok": false,
+    "issues": [
+      "Pinyin de 告诉: la forma estándar es 'gào su' (tono neutro), no 'gào sù'. Además, es inconsistente con el resto de los ejemplos, que sí marcan los tonos neutros (p. ej. 'xiū xi')."
+    ],
+    "content_hash": "3e10db453d43b7c05ef053e8a806084a1e959ba6"
+  },
+  {
+    "id": "word:参与",
+    "ok": true,
+    "issues": [],
+    "content_hash": "38c91406c370f6c3ceeacea290762504554d3b48"
+  },
+  {
+    "id": "word:火车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8cad595dbaa4e5e132a1ceef6e5dcfafe68e2075"
+  },
+  {
+    "id": "word:经",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76edb8e6f1e8a1f8d3a456553e149e7f3c210936"
+  },
+  {
+    "id": "word:杯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "559215e299b2859e35acf826ce919928be06c459"
+  },
+  {
+    "id": "word:感觉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2ae8dbfc05af95514beb5a11d4ee4eeb6a34eb1"
+  },
+  {
+    "id": "word:树",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1cc5e0f8cc7960d20e5e6c65e766ed42dbdcbb52"
+  },
+  {
+    "id": "word:举行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "39088fa35f46960e5d8c12b3925ccdbbe9a9ae82"
+  },
+  {
+    "id": "word:能力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9cfb46892c4497c22ba2ec7993d670a139b063eb"
+  },
+  {
+    "id": "word:干净",
+    "ok": true,
+    "issues": [],
+    "content_hash": "67b63ddd7c0bb1cacfaa1fd71a4f9872ac85ad75"
+  },
+  {
+    "id": "word:时代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3158e1323322679be5359f063c2b452a52fb2040"
+  }
+]

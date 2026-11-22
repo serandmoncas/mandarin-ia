@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:学生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2494cb277c9756d8fbffbf81df421e7c5cffaaa9"
+  },
+  {
+    "id": "word:地区",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5302b697376d523ced11dfd7b6d04a9cc4be9711"
+  },
+  {
+    "id": "word:国际",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e6a43e1b5938112217f1294817bbff69822254ce"
+  },
+  {
+    "id": "word:听",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa75bb4edf89c9c071b10d2d5871e4f8df671448"
+  },
+  {
+    "id": "word:内",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, 做好这个计划 significa elaborar o preparar bien el plan, no 'terminar' el plan. Sería más fiel: 'En un mes tenemos que tener listo este plan.'"
+    ],
+    "content_hash": "decdec30633d0a3742c33807e92a9b22575f82c0"
+  },
+  {
+    "id": "word:两",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4febc207bec26c392db77f79af324ae7a1d06dcb"
+  },
+  {
+    "id": "word:这里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ff2283e33785d68ec9dde4fd584d311746cf53e6"
+  },
+  {
+    "id": "word:使用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a7c491edf4deda67e1d70b2636170f5ba010336e"
+  },
+  {
+    "id": "word:活动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9035ea9ada61f14375d0ee0d9ac07c1beb33429a"
+  },
+  {
+    "id": "word:但是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be33eec67df5db311ef7df6eec38fbc0b50cc960"
+  },
+  {
+    "id": "word:话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d70969747f32684522a77eb15901ce2aa498a807"
+  },
+  {
+    "id": "word:应该",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9670d02f3df6831cb7092acabb9b97b45f57db90"
+  },
+  {
+    "id": "word:历史",
+    "ok": false,
+    "issues": [
+      "Error de pinyin en el ejemplo 2: 长 se lee 'cháng' (largo), no 'zhǎng'. Debe ser 'běi jīng de lì shǐ hěn cháng'."
+    ],
+    "content_hash": "a15918cc0503323e2b73d0d18b96d31dbb5fee30"
+  },
+  {
+    "id": "word:岁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "42ea3f71245d1f57d7f55580e98f8b06345c9d47"
+  },
+  {
+    "id": "word:政治",
+    "ok": true,
+    "issues": [],
+    "content_hash": "71a97e6bac3f70e9b8ab5485070bceee8ebe1970"
+  },
+  {
+    "id": "word:家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bcb76b4c29984afc387ec219de119e8db1d70fb9"
+  },
+  {
+    "id": "word:太",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a8c4e98a8b64c3f95cb8ccf859c9116bcfedf9a9"
+  },
+  {
+    "id": "word:最后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4251d7a931d2949beb12a43edaba04014691a1f6"
+  },
+  {
+    "id": "word:以及",
+    "ok": false,
+    "issues": [
+      "El significado 'además de' no corresponde a 以及, que se traduce como 'y' o 'así como'. 'Además de' equivale más bien a 除了…以外.",
+      "以及 es formal y se usa sobre todo en enumeraciones. En frases coloquiales con solo dos elementos (ejemplos 1 y 2) suena forzado; lo natural sería 和.",
+      "En el ejemplo 3, 家 por sí solo no se usa para 'tu familia' en una enumeración. Lo natural es 家人 o 家庭."
+    ],
+    "content_hash": "8c43e853d7a0055a78f8be62554ca7a76142a802"
+  },
+  {
+    "id": "word:组织",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b4e9177ef91d04818e0d970deeaeae28046dbab"
+  },
+  {
+    "id": "word:其他",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, 地方 con el sentido de 'lugar' se lee 'dì fang' (tono neutro), como aparece en la entrada de 使用. 'dìfāng' corresponde al sentido de 'local/regional'."
+    ],
+    "content_hash": "3fcb8ba5d2797b6807a2c7a5bab5349484f4c741"
+  },
+  {
+    "id": "word:问",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5fee2440aa3844375ecbf7be47caa643ad38bfd3"
+  },
+  {
+    "id": "word:人民",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c77f998dbbe0fd505244ca8f7e27fa08d8ce36c2"
+  },
+  {
+    "id": "word:大学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2825331e3a36b087e4161655f9eb6b76e9ae7975"
+  },
+  {
+    "id": "word:网站",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd400f7a40ecb2fae17315458f5a0e35f93fcc11"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:输入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2be0d130308080cead46e3620542d7fb137bf4bd"
+  },
+  {
+    "id": "word:写作",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c90b541d95bdf66ac1e67c9b6b7afd42f8697848"
+  },
+  {
+    "id": "word:压",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: la traducción agrega «para que no se moviera», que no aparece en el chino. Más fiel: «Puso el papel debajo del libro»."
+    ],
+    "content_hash": "441b72cf89658cb5ea2090e60ba99447ef269c5b"
+  },
+  {
+    "id": "word:阳光",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e7d73825b155d6c9b93d9fe9b2dab9c979ffda4f"
+  },
+  {
+    "id": "word:保",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a20f22d6e0dab541bd94f726847ac0dc5e1887b"
+  },
+  {
+    "id": "word:创业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cca2d129f01958ceb1e8a07e15136338ea702b1c"
+  },
+  {
+    "id": "word:电视剧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2206a4f98082050e56295e93d773be51456acb9f"
+  },
+  {
+    "id": "word:个性",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc110cf880557c183f7c4016f81eae680a5e687c"
+  },
+  {
+    "id": "word:进展",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2990187aa3c9fa3b6a74e387181e0a83c762ffa7"
+  },
+  {
+    "id": "word:升",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6e911c7184258b35aa17909ea58e49dffb78064"
+  },
+  {
+    "id": "word:提前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "784761b7266ebed0579bee5c2e0bc3313e25d29f"
+  },
+  {
+    "id": "word:发言",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d12fd9f8f07b3a207bd9daa87bcd80b0f85b986c"
+  },
+  {
+    "id": "word:空",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d222265e3c37cad27afa6c3658515f9dc94b113"
+  },
+  {
+    "id": "word:演",
+    "ok": true,
+    "issues": [],
+    "content_hash": "914e0934fa2cc9698d4aefcb2cc9403bed1a79f5"
+  },
+  {
+    "id": "word:钟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e24df0c7f3d847ee838972de85c3450c1310651a"
+  },
+  {
+    "id": "word:工程师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fccd82f052965f5f85b97df7a6a16df703cb06f9"
+  },
+  {
+    "id": "word:近期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8835599d4e0b70d0f5481b833ec2b9d6c4f4f405"
+  },
+  {
+    "id": "word:内心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd371276789cc626a5a83132cd45204cf06ee90e"
+  },
+  {
+    "id": "word:千万",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin «yī qiān wàn» no aplica el sandhi de 一 delante de primer tono. Debería ser «yì qiān wàn», igual que el resto de los ejemplos, que sí aplican el sandhi (yí ge, yì shēng)."
+    ],
+    "content_hash": "1595d1f376673a3993040e20bc906d0005f01fa0"
+  },
+  {
+    "id": "word:预防",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a65dba82bc0fffc238548fe27b48888316805ce"
+  },
+  {
+    "id": "word:反正",
+    "ok": true,
+    "issues": [],
+    "content_hash": "47d500b99fea66213efc170b9b45b20ee8683d9f"
+  },
+  {
+    "id": "word:否认",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b24fc9e8c251087ed87f2fff6fbbbaeacc96f93"
+  },
+  {
+    "id": "word:亲自",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2817963e2d20b1c7e88cc0e7933d5bc7b40a904"
+  },
+  {
+    "id": "word:通信",
+    "ok": true,
+    "issues": [],
+    "content_hash": "94faa9ec56657a8673ec216976b892ef5ca8677e"
+  },
+  {
+    "id": "word:外面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9cf6f86dd8711fc3d2e1d9ebe1ff0588fc5912e0"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:让",
+    "ok": true,
+    "issues": [],
+    "content_hash": "603915db165bd36daa464299a10b9140773c434d"
+  },
+  {
+    "id": "word:国家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3694dbfbaa5fbc604742e7db047d981d142e5da5"
+  },
+  {
+    "id": "word:好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4926d5ce7fb5d39b1ddd53a7b15b56a5e4af5473"
+  },
+  {
+    "id": "word:她",
+    "ok": true,
+    "issues": [],
+    "content_hash": "493ba34f5315b854b613b67a315a3f05f53288a6"
+  },
+  {
+    "id": "word:多",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc84b69873f2a6a4d28ebefd1c5cb85b4a10a387"
+  },
+  {
+    "id": "word:给",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ade4887a2595dfd0850225787b612cd015c0853"
+  },
+  {
+    "id": "word:看",
+    "ok": true,
+    "issues": [],
+    "content_hash": "31675c54afbe7560941b4b93c9d7bc8674af742b"
+  },
+  {
+    "id": "word:问题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "302c42aeedd9c79374a9b153e1798433213e72f8"
+  },
+  {
+    "id": "word:过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4e78b92829bd6a30d57776847197799f0b36afb"
+  },
+  {
+    "id": "word:下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d365a2674d7e9cc7146c9789570ea60676774583"
+  },
+  {
+    "id": "word:把",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0ff51dfd675832874d31e2d1a6520b251784a54"
+  },
+  {
+    "id": "word:里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da07cfd4452a1dea91df83bf5370f6233002d359"
+  },
+  {
+    "id": "word:又",
+    "ok": false,
+    "issues": [
+      "En «我说了很多次，他还是又忘了», «还是又» es redundante y suena poco natural; mejor «他还是忘了» o «他又忘了»."
+    ],
+    "content_hash": "6ab655b4d9ae2683f6915cd3d3ebb45b2fbacc86"
+  },
+  {
+    "id": "word:新",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9cfaba00dda3ffda20b68f4889400df5bbcf999"
+  },
+  {
+    "id": "word:地",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: «ren» sin tono; debe ser «rén» (dì dà rén duō)."
+    ],
+    "content_hash": "051e1e2ff965e3ca7a386665badc624cf4a3eb8e"
+  },
+  {
+    "id": "word:做",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: «zuò zuo yè»; 作业 se lee «zuò yè», así que debe ser «zuò zuò yè»."
+    ],
+    "content_hash": "696f61d48d347d12a557800de15f8969c5d3d969"
+  },
+  {
+    "id": "word:没",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5a543588807d4cd56ec3207ee001dc7ac2e7d3c"
+  },
+  {
+    "id": "word:不是",
+    "ok": false,
+    "issues": [
+      "Pinyin de 不是 en los ejemplos 1 y 3: «bu shì» debe ser «bú shì», por el cambio tonal ante cuarto tono. Además es inconsistente con los ejemplos 2 y 4."
+    ],
+    "content_hash": "ae0f02072976d759064f58eb35142b6b84804905"
+  },
+  {
+    "id": "word:之",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «三分之一»: el 一 final de la fracción no cambia de tono; debe ser «sān fēn zhī yī», no «zhī yí»."
+    ],
+    "content_hash": "cc397f06d361227dda29e86300f2b127a99ea4f2"
+  },
+  {
+    "id": "word:最",
+    "ok": true,
+    "issues": [],
+    "content_hash": "efc69d46925aa7b755b802a4664f1c6c09bf1da6"
+  },
+  {
+    "id": "word:那",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: «nà shi» debe escribirse «nà shì»; es inconsistente con el resto de los ejemplos."
+    ],
+    "content_hash": "ba18419da74373492441fe08bd79f14ade5879a2"
+  },
+  {
+    "id": "word:由",
+    "ok": false,
+    "issues": [
+      "La traducción «Déjame decirlo a mí» es agramatical en español; mejor «Lo digo yo» o «Déjame decirlo a mí mismo/yo»."
+    ],
+    "content_hash": "85763fc8f72128e5fd67ac16f473942283d05ee0"
+  },
+  {
+    "id": "word:及",
+    "ok": false,
+    "issues": [
+      "«他及时来了» suena poco natural; lo habitual es «他及时赶到了» o «他来得很及时». Además, el ejemplo ilustra la palabra 及时 más que 及 solo."
+    ],
+    "content_hash": "181cf01963ae13e34449b7afd8f293d2c4ff1987"
+  },
+  {
+    "id": "word:出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f27b3502a856af100cb0f0d9ba2aeeea72b4da8f"
+  },
+  {
+    "id": "word:小",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6bcdc712b1d3214f608dc882e8b0ef6317223072"
+  }
+]

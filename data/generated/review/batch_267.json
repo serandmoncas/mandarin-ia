@@ -1,0 +1,16 @@
+[
+  {
+    "id": "word:公平",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1ad4bf9617ec83cb748e7f209ea352d58018bd4"
+  },
+  {
+    "id": "word:不一定",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, 东西 con el sentido de 'cosa' se pronuncia dōng xi, con la segunda sílaba en tono neutro. 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "20308fb19ef5d6884490a14491b5746cb1060a4e"
+  }
+]

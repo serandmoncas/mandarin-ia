@@ -1,0 +1,164 @@
+[
+  {
+    "id": "word:占",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el 4.º ejemplo: 东西 ('cosas') se lee dōng xi (tono neutro), no dōng xī."
+    ],
+    "content_hash": "302cc25860a5fa601cc76b0bca8bf89d88f94fd7"
+  },
+  {
+    "id": "word:作品",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e000beca420f3ff1d41ac4abf09b107de437848"
+  },
+  {
+    "id": "word:车站",
+    "ok": true,
+    "issues": [],
+    "content_hash": "43898da280a0bffa5fbc20d8cc858d6a50facef8"
+  },
+  {
+    "id": "word:男生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e385cc1b7cdeeac11aa9001db97f02955c85c9a4"
+  },
+  {
+    "id": "word:第一",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f3b52c1836ae9547a2f047e014efed79f9a863d"
+  },
+  {
+    "id": "word:上学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b421a9dc66f93d342c9b3a3c43be87bdb2d0e9c"
+  },
+  {
+    "id": "word:再见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "42c42613aab81be4741efeade70923c90ae6ae73"
+  },
+  {
+    "id": "word:奶奶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b363b148f1e2864faebe654143e3a8745dee952"
+  },
+  {
+    "id": "word:具有",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el 2.º ejemplo: 长 en 很长的历史 se lee cháng, no zhǎng.",
+      "La colocación 具有很长的历史 suena poco natural; lo habitual es 具有悠久的历史 o 有很长的历史."
+    ],
+    "content_hash": "328e7d13b08b5e6a69b24e969995a2f4df138aaf"
+  },
+  {
+    "id": "word:半年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3f99ac5640eb6375ae3080fcc687308cae1f547"
+  },
+  {
+    "id": "word:中午",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el 4.º ejemplo: 都 ('todos') se lee dōu, no dū."
+    ],
+    "content_hash": "9c733d2338fb52938f38314703e38ed6b62dc3ad"
+  },
+  {
+    "id": "word:干什么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8348d298ad582cfd87931cc7c9db13498808ee41"
+  },
+  {
+    "id": "word:据",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b3487a333b9bbcf2bfcd1e2ddd516c3764ad431"
+  },
+  {
+    "id": "word:非",
+    "ok": true,
+    "issues": [],
+    "content_hash": "04bc074c3d1c4765f8cb48ff2d2f4f6db2d84063"
+  },
+  {
+    "id": "word:开玩笑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a57ab6db2847c25a3f971bd0fd8d308a81661829"
+  },
+  {
+    "id": "word:上次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9daf283fd9aa96501e7a334626278a0ebbe7623a"
+  },
+  {
+    "id": "word:才能",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8c43a405f261618b8a42e08c39d0711024e6e67f"
+  },
+  {
+    "id": "word:开会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4556e2c251e563b3b6f1f1b3c039ff05d4f5355"
+  },
+  {
+    "id": "word:经过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91d12610d42f82a8ed624ca156854cee08f0be94"
+  },
+  {
+    "id": "word:听写",
+    "ok": true,
+    "issues": [],
+    "content_hash": "974ec524e2a8bdb67c296f51ab875bbf529dc894"
+  },
+  {
+    "id": "word:努力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b48adc15dc7bca29b63bcb198aea8319b54c720"
+  },
+  {
+    "id": "word:那儿",
+    "ok": false,
+    "issues": [
+      "Falta la marca de tono en el pinyin del 2.º ejemplo: debe ser nàr, no nar."
+    ],
+    "content_hash": "747bf7da409461327b04b7f8b5c75a7afec67ddb"
+  },
+  {
+    "id": "word:整个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc103131605ae86522c8e0b900be8ee727a52850"
+  },
+  {
+    "id": "word:亦",
+    "ok": false,
+    "issues": [
+      "Los tres primeros ejemplos mezclan el 亦 formal y escrito con un lenguaje coloquial: 我亦是学生 y 他喜欢唱歌，亦喜欢看电影 no son naturales en chino moderno; lo normal sería 也.",
+      "La combinación 亦很重要 de 此事亦很重要 resulta forzada; en un registro formal sería 此事亦十分重要 o 此事亦甚为重要."
+    ],
+    "content_hash": "6c2c8a931c8690dafe6858db4062ad4098dada95"
+  },
+  {
+    "id": "word:如此",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0a7852f7cc203ed9d7c1def18ce50467e7e3ea63"
+  }
+]

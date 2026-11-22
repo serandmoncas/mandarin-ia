@@ -1,0 +1,169 @@
+[
+  {
+    "id": "word:读者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "29fcd84c3576bf574ca827ce4e2f68f0998ffc2f"
+  },
+  {
+    "id": "word:实习",
+    "ok": false,
+    "issues": [
+      "Pinyin: 大学生 se registra como dà xué shēng, no dà xué sheng."
+    ],
+    "content_hash": "cb878a3cae3b3885a5c4231717df5aa4e1f126d8"
+  },
+  {
+    "id": "word:普遍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8cc11f91ce3e36817de02ed25649fd11b24d0e4"
+  },
+  {
+    "id": "word:亮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba9587a00564f0af649992c92bcbbf19ead3c744"
+  },
+  {
+    "id": "word:共有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "52de7589ae9da83d3b25a625bed427aee91936e8"
+  },
+  {
+    "id": "word:出租车",
+    "ok": false,
+    "issues": [
+      "Pinyin: 告诉 es gào su (tono neutro), no gào sù."
+    ],
+    "content_hash": "7c0bdf0e0e0c772ab5407b9930803afb4e621618"
+  },
+  {
+    "id": "word:广播",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «通过广播告诉了全国人民» suena poco natural; lo habitual es «通过广播传遍全国» o «向全国人民广播了这条消息».",
+      "Pinyin: 告诉 es gào su (tono neutro), no gào sù."
+    ],
+    "content_hash": "f5d6ce129c59ab8f1f3131307b70262af1cb058e"
+  },
+  {
+    "id": "word:气温",
+    "ok": false,
+    "issues": [
+      "Pinyin: 衣服 es yī fu (tono neutro), no yī fú."
+    ],
+    "content_hash": "5212363007b7c1706d4578f988530b98c487eeee"
+  },
+  {
+    "id": "word:后面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ff6bb24faaa67272207d17121fc6a674a553d526"
+  },
+  {
+    "id": "word:一共",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be574fc53b26aae9220f06d07f0fcaa7463c7cdc"
+  },
+  {
+    "id": "word:判断",
+    "ok": true,
+    "issues": [],
+    "content_hash": "376a8bc5e99d897641985fe56eec07eee34bc89a"
+  },
+  {
+    "id": "word:排队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1f8a941e1f46043bea329323fd2c83b8c25ba25"
+  },
+  {
+    "id": "word:月亮",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: la estructura «在山上看月亮，比在城市里看更大更亮» es forzada, porque el sujeto de 更大更亮 queda ambiguo. Más natural: «在山上看到的月亮比在城市里看到的更大更亮»."
+    ],
+    "content_hash": "28c26015728d2b3335513be794e1d57b04eaec0a"
+  },
+  {
+    "id": "word:深",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76a334e3bf8d2e2feb222c0701814609549ba2ff"
+  },
+  {
+    "id": "word:座位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b855c4dc2e55f9567e88b64d00b2568e0bcea11"
+  },
+  {
+    "id": "word:租",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7150de85fb27546b60cb505e5f612b4405cc1cd6"
+  },
+  {
+    "id": "word:足够",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3127166712502f35ddd68b520bca327d7eac940b"
+  },
+  {
+    "id": "word:走过",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «我每天都走过这条路» es poco natural y puede leerse como 过 experiencial. Para el sentido habitual se diría «我每天都经过这条路» o «我每天都走这条路»."
+    ],
+    "content_hash": "4919ff77e3db7cca330d6be0bc1f3bdf6c15d6fa"
+  },
+  {
+    "id": "word:出租",
+    "ok": true,
+    "issues": [],
+    "content_hash": "46ca9f59055c1cabb4fe6870cdbecd0d2a0f1bac"
+  },
+  {
+    "id": "word:忽然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0bc1b485a3f3979941be35b05bbf2423bcad11f4"
+  },
+  {
+    "id": "word:问路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "976f736950c560bb7af047316750046fa5f99b31"
+  },
+  {
+    "id": "word:乱",
+    "ok": false,
+    "issues": [
+      "Pinyin: 东西 (cosas) es dōng xi (tono neutro), no dōng xī."
+    ],
+    "content_hash": "ad1f33e4e5a347586f61eca3e87dd11d366d1b84"
+  },
+  {
+    "id": "word:时刻",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «那个时刻我很高兴» es poco natural; se diría «那一刻我很高兴» o «那个时候我很高兴»."
+    ],
+    "content_hash": "9e96d1c3430bdf00f6f9d01bb8653ffaf63a0276"
+  },
+  {
+    "id": "word:洗澡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a7987f5e2a6dd9e0206cab96c4677ee59c04d035"
+  },
+  {
+    "id": "word:痛苦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30f2f7e39c708ba0ec405a49ec56dad7884c0a6b"
+  }
+]

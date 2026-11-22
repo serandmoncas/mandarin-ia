@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:年级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "431268d1fe59a07cea796b6ded7c75dbfa5cd46d"
+  },
+  {
+    "id": "word:往往",
+    "ok": false,
+    "issues": [
+      "En «他往往很晚回家» falta la condición o el contexto que 往往 suele exigir (a diferencia de 常常). Sería más natural «他下班以后往往很晚回家» o usar 常常."
+    ],
+    "content_hash": "0024bcc633327c47dd2e22c996ed9605422e113d"
+  },
+  {
+    "id": "word:听讲",
+    "ok": false,
+    "issues": [
+      "Error de pinyin: 作业 es «zuò yè», no «zuo yè»."
+    ],
+    "content_hash": "e203bb60126662d2e32b8ee6e5e3c15c80025b8a"
+  },
+  {
+    "id": "word:成就",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fbe23ab5f6fa651b42d4c27b2e2bd2f5f31abb3f"
+  },
+  {
+    "id": "word:爱人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a892e358cc77812f5565cee7296b1d89780cc47"
+  },
+  {
+    "id": "word:当中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d6bacc6bd37e23abeda22f1b06c4abfdf875b06"
+  },
+  {
+    "id": "word:得出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2411301b54c7e37b4b1b55691ae702a866c91ac7"
+  },
+  {
+    "id": "word:中级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "08a9d6b349df9973f60d1f396942a67e5e49d824"
+  },
+  {
+    "id": "word:短信",
+    "ok": false,
+    "issues": [
+      "La traducción «casi siempre manda mensajes» exagera 常常, que significa «a menudo / seguido»."
+    ],
+    "content_hash": "4862999922a1d35c72f04be55f646e11efe1aaa5"
+  },
+  {
+    "id": "word:接近",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente con el sandhi tonal de los demás ejemplos: 一千万 debería escribirse «yì qiān wàn»."
+    ],
+    "content_hash": "6fab8f95e28ad6031a587b15c6dfb4aa1d914ae5"
+  },
+  {
+    "id": "word:课堂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be688b4bd6b2c4066ac6b2dde67979369064570e"
+  },
+  {
+    "id": "word:遍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ee7ce643a11f1f8e22ce52023daf694a1ac6c43"
+  },
+  {
+    "id": "word:动物园",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07c29f1b62271e3ec77387bb9f08d1bec869f415"
+  },
+  {
+    "id": "word:演员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b7f0af67586cea0ea09013e59d058e9da035b6fe"
+  },
+  {
+    "id": "word:海边",
+    "ok": false,
+    "issues": [
+      "Falta de concordancia en la traducción del último ejemplo: «toda la familia fue... y nos quedamos». Debería decir «fuimos toda la familia en carro a la playa y nos quedamos allí dos días»."
+    ],
+    "content_hash": "af938e1fba9a79bedde5394cf9c75f6210b30f4c"
+  },
+  {
+    "id": "word:应当",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dfc590c457a88ff5f1474166cc4f3e367d5539a2"
+  },
+  {
+    "id": "word:主动",
+    "ok": false,
+    "issues": [
+      "Error de pinyin: 东西 con el sentido de «cosas» se pronuncia «dōng xi» (tono neutro), no «dōng xī»."
+    ],
+    "content_hash": "c73304cbfbbe6acd9ff70172572994a2606a26f1"
+  },
+  {
+    "id": "word:打工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "15811a727fa8fd3790d19115dd699d535c232a12"
+  },
+  {
+    "id": "word:敢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "47650a4249956bee3231d279841853e953e925e2"
+  },
+  {
+    "id": "word:天上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef45e0854e2d840bd30f94f871930343fc8c9ba1"
+  },
+  {
+    "id": "word:古代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ceb76d2de47bdc5f1358376e6a9d0281338b8f32"
+  },
+  {
+    "id": "word:广大",
+    "ok": false,
+    "issues": [
+      "«中国土地广大» es poco natural. Lo habitual es «中国地域辽阔» o «中国土地辽阔»; 广大 se usa más con colectivos de personas (广大群众) o con «广大地区»."
+    ],
+    "content_hash": "99b8198493ad36ccd714f58d904acdbca210f89f"
+  },
+  {
+    "id": "word:晚会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07475763f2b604542e4709e910a18dac90407805"
+  },
+  {
+    "id": "word:命运",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc760312949eeafee99c58627524a22638b73cba"
+  },
+  {
+    "id": "word:咱",
+    "ok": false,
+    "issues": [
+      "Error de pinyin: en «咱得好好想想», 得 significa «tener que» y se lee «děi», no «dé»."
+    ],
+    "content_hash": "0bb783dfb945b1af27834c3b8bbc7383b3330319"
+  }
+]

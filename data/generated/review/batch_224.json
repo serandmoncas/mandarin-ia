@@ -1,0 +1,157 @@
+[
+  {
+    "id": "word:晚饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "745f9acac04ff424291cdca69cd3a766588a5140"
+  },
+  {
+    "id": "word:星期天",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: la traducción «ir de compras con mis amigos a comprar ropa» es redundante y omite 商店; mejor «quiero ir a la tienda con mis amigos a comprar ropa»."
+    ],
+    "content_hash": "190718cc4aad70b2ab3b15adba34f003373c57a3"
+  },
+  {
+    "id": "word:请坐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9b53813e431fac028de9770f2f470dd75f3ecf6"
+  },
+  {
+    "id": "word:显示",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a40950337a7cea6fe3bfa92bfdb08f90f38b0099"
+  },
+  {
+    "id": "word:性",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7822a5f6085052a4d3c85e456db15bc51b2e49da"
+  },
+  {
+    "id": "word:语言",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8524b9463423164348ae8753462dca893e2bd48"
+  },
+  {
+    "id": "word:指",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a4a44e750e8968c8e570bbfd8cfceb175de11dd4"
+  },
+  {
+    "id": "word:好听",
+    "ok": true,
+    "issues": [],
+    "content_hash": "933ef104c9dd5fe6d52ecb31040c59073f89df57"
+  },
+  {
+    "id": "word:之一",
+    "ok": true,
+    "issues": [],
+    "content_hash": "50f3bca7e6161219b326f5516ecabdd2177ab81c"
+  },
+  {
+    "id": "word:北边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a4d0d7a75cebe6ca2375e2d1bfaca2f74087c4c"
+  },
+  {
+    "id": "word:标准",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1618a42aa60bfbd256cf5110d4139cc8811bb335"
+  },
+  {
+    "id": "word:弟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5a2413673a24010744a755116ae74dab45bebe2"
+  },
+  {
+    "id": "word:关上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cad71411929ff538fb03c6232873c53af810dfa8"
+  },
+  {
+    "id": "word:建议",
+    "ok": true,
+    "issues": [],
+    "content_hash": "90e52af99f0adc34258a6000074d7766047a9056"
+  },
+  {
+    "id": "word:期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fd19ca59ce3567de556b1290f830a92997de162f"
+  },
+  {
+    "id": "word:放学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f132c1ca760973794d36274e1502b446fe470f29"
+  },
+  {
+    "id": "word:杯子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5bd868023e8bcc6289a0a75ca88daa0c6f356e36"
+  },
+  {
+    "id": "word:打球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6622e32c2bb1e4de71c4a4ac3a0bbb9697936212"
+  },
+  {
+    "id": "word:指出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c8cba8bd32656bd490462a6cdfe8ad48d178748"
+  },
+  {
+    "id": "word:东边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "928649ca24468d5107451296f9b7c637af3b0115"
+  },
+  {
+    "id": "word:均",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a442ab465f78537b14ff206267518620695458c"
+  },
+  {
+    "id": "word:早饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cce33f33f8cf503fc65bdb482c8200f9c82d004e"
+  },
+  {
+    "id": "word:权利",
+    "ok": true,
+    "issues": [],
+    "content_hash": "17089cc78bd4d16151ea81636960483bc3b06e95"
+  },
+  {
+    "id": "word:一下儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0854133f4bcfc328a75246fc560d0fd44a59bf77"
+  },
+  {
+    "id": "word:记录",
+    "ok": false,
+    "issues": [
+      "En la norma actual, «récord» (deportivo o mundial) se escribe 纪录, no 记录. El ejemplo «世界记录» debería ser «世界纪录».",
+      "El significado «récord» corresponde propiamente a 纪录; conviene quitarlo de 记录 o aclarar la diferencia."
+    ],
+    "content_hash": "690fa694794267029c84ddd0ec21304fa64ce1f4"
+  }
+]

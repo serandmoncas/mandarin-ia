@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:地铁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2009a2d1fa95146043c2b088b72b354f53b0b315"
+  },
+  {
+    "id": "word:传",
+    "ok": true,
+    "issues": [],
+    "content_hash": "843abcb26128f4ab611a67b30f582772eb73f642"
+  },
+  {
+    "id": "word:流行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d676cd43b791a012473ba95df688b2f69cb6d62e"
+  },
+  {
+    "id": "word:那时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "105a31ce35bb2941ad2d494d0829eff1b235d411"
+  },
+  {
+    "id": "word:题",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «你能再说一次吗» significa «¿puede repetirlo / decirlo otra vez?», no «explicar»; la traducción no es fiel (sugerencia: «¿me lo puede repetir?»)."
+    ],
+    "content_hash": "ab72fbe5c8d888c656afa022750dd2f4d6512bd3"
+  },
+  {
+    "id": "word:快速",
+    "ok": true,
+    "issues": [],
+    "content_hash": "105d3961f366c93bd06c6b2e44a09925cb7534c7"
+  },
+  {
+    "id": "word:特色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89ffa2c0134ad27d090856463818bf2ca6a3d26f"
+  },
+  {
+    "id": "word:小心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9f467625fe28e179cca2310d1fba42549258b5c"
+  },
+  {
+    "id": "word:游客",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af3b09b97f134479c18ba3a238c59569dcb485d6"
+  },
+  {
+    "id": "word:黑色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d9494db1b0640f44339970f8bb095f276b5052f1"
+  },
+  {
+    "id": "word:表演",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e99b49c4f1b592d4670943ffb834b1cafa4ceca"
+  },
+  {
+    "id": "word:鸡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "84787b7b53782da832d3bded68f526037557e4aa"
+  },
+  {
+    "id": "word:对方",
+    "ok": true,
+    "issues": [],
+    "content_hash": "500182cd34f71426529d375ce815dfd105af591d"
+  },
+  {
+    "id": "word:复杂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e660d8d4ef0ad1673be399fe050b4b19817edf34"
+  },
+  {
+    "id": "word:同事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "329080dcf75b8c2342399eca3b659179dcace95e"
+  },
+  {
+    "id": "word:结婚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5c03e8e9b1b6d737f38158bc7b7d889640116e1f"
+  },
+  {
+    "id": "word:理由",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: pinyin «zhè bu shì»; 不 ante cuarto tono debe marcarse «bú» («zhè bú shì»), como en los demás ejemplos."
+    ],
+    "content_hash": "e306d1085582d1ca81a7c55e7273f0695ced1b35"
+  },
+  {
+    "id": "word:联合国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5730ac51a159ae593c2bf49997c5050929d3c1e0"
+  },
+  {
+    "id": "word:主人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fe6b3547e10f962222d5a8c930dc3182cb897bc0"
+  },
+  {
+    "id": "word:常见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2d6be2e9dae425dfdb83cf77b040d2287c596eb"
+  },
+  {
+    "id": "word:苹果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "adf976c1b4a2c303965bbf10b9905e0469bc36a4"
+  },
+  {
+    "id": "word:随",
+    "ok": true,
+    "issues": [],
+    "content_hash": "107a30fa0cf9468c5a9b4f93d3cdb2d1dacf855d"
+  },
+  {
+    "id": "word:体现",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86f1fde60145df99069404d4c7c2633ef5e488e2"
+  },
+  {
+    "id": "word:不一定",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: pinyin «zhè bu yí dìng»; debe ser «zhè bù yí dìng» (不 ante 一 conserva el cuarto tono).",
+      "Ejemplo 3: pinyin «dōng xī» es incorrecto para 东西 'cosa'; debe ser «dōng xi» (tono neutro). «dōng xī» significa 'este y oeste'."
+    ],
+    "content_hash": "dbd9667153e4786165dd453bbf9b152867bf22b4"
+  },
+  {
+    "id": "word:不但",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f37ea5e853aa8d304bb1d44b62f20fdc2ade9247"
+  }
+]

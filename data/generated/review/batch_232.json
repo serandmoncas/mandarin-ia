@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:协议",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6676c3647e94502209edb899215eadd40ffa296f"
+  },
+  {
+    "id": "word:即使",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed1632f784da6ce719288b5420ad59def8214b05"
+  },
+  {
+    "id": "word:广告",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab77bd214d1b159a7267dc88fa8d72fa13f51be5"
+  },
+  {
+    "id": "word:数",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: al contar, 一 conserva su tono original. El pinyin correcto es «cóng yī shǔ dào shí», no «yì»."
+    ],
+    "content_hash": "8f68ac85535671a10ab289eac4e1ed933693bd70"
+  },
+  {
+    "id": "word:限制",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a21c97b6b5a7e88e7246a8133fff80fc738ee14"
+  },
+  {
+    "id": "word:数字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ed4b0191173474d057af2d5b2a8ee9521f62b54"
+  },
+  {
+    "id": "word:态度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "29bbfcb42d57242a6ed0ca09dacfdc5a144241fb"
+  },
+  {
+    "id": "word:广场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2af972d8b9a53885acb41e51ed1132129ddb725e"
+  },
+  {
+    "id": "word:管",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d258c0446226cf8740e8eac9d0a6c5ce8e5e318"
+  },
+  {
+    "id": "word:求",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b715caac40f48acd130a03498f1034bc23c99a8a"
+  },
+  {
+    "id": "word:作家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0187102c3835a2359ff85177d39214408f17dd62"
+  },
+  {
+    "id": "word:办公室",
+    "ok": true,
+    "issues": [],
+    "content_hash": "52aadf0a26142fd524b3fcc9d238e5e4e5ad6bbd"
+  },
+  {
+    "id": "word:突然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "694f7e1865fcc93f0f6b1ccd329f54a1c01b03b5"
+  },
+  {
+    "id": "word:过来",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «过来我家» es coloquial y regional. En mandarín estándar es más natural «到我家来» o «来我家»."
+    ],
+    "content_hash": "47d4cad299bedbe2b7b156ea18120347c7f98980"
+  },
+  {
+    "id": "word:压力",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: en 睡不好觉, 觉 se pronuncia «jiào». El pinyin dice «jué», lo cual es incorrecto."
+    ],
+    "content_hash": "10de1e96e0fc8bf11b0a635ba59fbbf9198af670"
+  },
+  {
+    "id": "word:年轻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed2f1154967c5f9554e842556d185a783e687321"
+  },
+  {
+    "id": "word:不再",
+    "ok": true,
+    "issues": [],
+    "content_hash": "086ad00dbfb69bd6381d40fbb70624c95c7fbf41"
+  },
+  {
+    "id": "word:实在",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «参加你的生日» es poco natural, porque 参加 requiere un evento. Debería ser «参加你的生日聚会/生日会»."
+    ],
+    "content_hash": "64fa313351e1612d3036b9f3d5565ebfe3e90813"
+  },
+  {
+    "id": "word:令",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0d6f560a1ed2e4fe192a4c4c7ddbba5d8f767dd"
+  },
+  {
+    "id": "word:头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d6ee540746544b3e2bec8c7e869220ad3b8933c0"
+  },
+  {
+    "id": "word:英语",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ae2589f43f0d64be0903eef90936549f9263db0"
+  },
+  {
+    "id": "word:加拿大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e0fbbccd4810cfceedc8da9a19b9a78be34b3ede"
+  },
+  {
+    "id": "word:宪法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8754a30682b2f0517173597f15054915cb3b502b"
+  },
+  {
+    "id": "word:有点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3d523a94432eee1c335c9a1f82879152e71be7f3"
+  },
+  {
+    "id": "word:道路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37c35ced28eeb30efae0e16f2346dd2d15309630"
+  }
+]

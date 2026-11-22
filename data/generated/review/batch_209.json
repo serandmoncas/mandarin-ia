@@ -1,0 +1,169 @@
+[
+  {
+    "id": "word:学习",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1be17f4ffddb27d4583d20bbc16c373ca3950539"
+  },
+  {
+    "id": "word:正在",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 东西 con el sentido de 'cosa' es dōng xi (tono neutro), no dōng xī."
+    ],
+    "content_hash": "5670facd9d77a2cad2d26fed0426fbfa7013955b"
+  },
+  {
+    "id": "word:其中",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 东西 ('cosas') es dōng xi, no dōng xī.",
+      "Pinyin del ejemplo 4: 地方 con el sentido de 'lugar' es dì fang (tono neutro), no dì fāng."
+    ],
+    "content_hash": "80e04ba81cbc46bd8e260f1a56687532b32f176c"
+  },
+  {
+    "id": "word:老",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 老王 usa 老 como prefijo de confianza, no significa 'viejo'. 'El viejo Wang' induce a error; mejor 'Wang' o 'el buen Wang'."
+    ],
+    "content_hash": "50c9bd0d7e987fc366681d310d5b386b004cc8ed"
+  },
+  {
+    "id": "word:有些",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 地方 ('punto, parte') es dì fang, no dì fāng."
+    ],
+    "content_hash": "91eb93e5eda1a55ea2c382ef8b8edf578ec7e71e"
+  },
+  {
+    "id": "word:女人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf8289b9e112e4cfc9bfec0748d6c7efa832a24c"
+  },
+  {
+    "id": "word:文化",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 长 en 很长时间 se lee cháng, no zhǎng."
+    ],
+    "content_hash": "9a7eb7422584378a800600e16d6fc8fb91345ff8"
+  },
+  {
+    "id": "word:外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3cc52a8f1a980289f5dcb1c4d7b1c7e1387c69e9"
+  },
+  {
+    "id": "word:小时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "030bd6bba7a98405de9c3458e0ee334772e55ff7"
+  },
+  {
+    "id": "word:不过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77ac0c7667fb0127c8fe2f1ecb3265f1b98a860f"
+  },
+  {
+    "id": "word:多少",
+    "ok": false,
+    "issues": [
+      "El significado 'más o menos, algo' corresponde a la lectura duō shǎo (adverbio), no a duō shao; no está en las glosas y no tiene ejemplo."
+    ],
+    "content_hash": "1571fa5680ebc1f2cb4f18ce85c3a18460592e33"
+  },
+  {
+    "id": "word:那么",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 告诉 se suele dar como gào su (tono neutro), no gào sù."
+    ],
+    "content_hash": "d08bca3b959d56b2bce8d318a6df4d0612e65734"
+  },
+  {
+    "id": "word:路",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 1 y 4: 长 ('largo') se lee cháng, no zhǎng."
+    ],
+    "content_hash": "551f25f73a5b8df32e399593440ece8f58e5d663"
+  },
+  {
+    "id": "word:要求",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2cf5bcf4cabba1fb5fc08551d69f371de6a275e9"
+  },
+  {
+    "id": "word:拿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa5c8b206b59425cfd5fc74fa801cdb7ae8b7dcf"
+  },
+  {
+    "id": "word:作为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5714bbc0f46635c3fe19e574b46f262dcb1c84e5"
+  },
+  {
+    "id": "word:提供",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a45af71c45883d5df10f3c2501b30e030d3baa02"
+  },
+  {
+    "id": "word:手机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2959a8f5dfa427761b3bad8639010fd7fcd744a"
+  },
+  {
+    "id": "word:至",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b86a99a7a2281e67dcc8baa5eb1bf931bdc18f4a"
+  },
+  {
+    "id": "word:哪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7671b612d677ea08b796f41306250bd0abfa4dcc"
+  },
+  {
+    "id": "word:不同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f55081de41bea787585d3102679f8bc0d663101"
+  },
+  {
+    "id": "word:不要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d039c501f534b9dd5564160881a263c15bfd608"
+  },
+  {
+    "id": "word:二",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7efe9fea7f36c0e4b623d73e2ea94822521cdc38"
+  },
+  {
+    "id": "word:男人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e802e5a3970a8c1ed49ba7028170a4f66ae0ca62"
+  },
+  {
+    "id": "word:学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c8495dc38bf9cde09fe34795cab15ea983ecf20"
+  }
+]

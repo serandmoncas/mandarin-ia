@@ -1,0 +1,155 @@
+[
+  {
+    "id": "word:木头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86974c5391e8f8d604bc9c6d0aca4c7c1c67bc26"
+  },
+  {
+    "id": "word:上衣",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f893e6c176c50d1af91370214a4c68ac2fb8cf74"
+  },
+  {
+    "id": "word:分组",
+    "ok": true,
+    "issues": [],
+    "content_hash": "715248a66e7991f93e4e2915798a8b5e77e69427"
+  },
+  {
+    "id": "word:认出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "042766c3254f056a6cc9bb06d307a8c3f5608c86"
+  },
+  {
+    "id": "word:班级",
+    "ok": false,
+    "issues": [
+      "En «我们班级有三十个学生» y «他是我们班级最高的学生» lo natural en el habla es «我们班»; «我们班级» suena rígido.",
+      "«salón de clase» puede entenderse como el aula física, y 班级 designa al grupo de alumnos, no al espacio."
+    ],
+    "content_hash": "ed1792653a9efe276dc4b1fbbb41ec2dbd5f35d9"
+  },
+  {
+    "id": "word:不光",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7772df0802ed128682a94ade9070b214cf7e939"
+  },
+  {
+    "id": "word:信封",
+    "ok": true,
+    "issues": [],
+    "content_hash": "05c676d395fb74894af159ad1b1dbb6cde0c7db4"
+  },
+  {
+    "id": "word:跑步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3697dbe4fa010192a38cc90d495244456d47479d"
+  },
+  {
+    "id": "word:国庆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd59bb74a182fbe58840bc551f35ff83484adb8a"
+  },
+  {
+    "id": "word:卫生间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8ef2488dedf3021c71bb5ef27723b8865ba2fc5d"
+  },
+  {
+    "id": "word:收音机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b8107fe49d5b99354678e74f1464312db8bf60d5"
+  },
+  {
+    "id": "word:邮箱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8099d1bc01e64e17e245b0aeb06c072ae9886eb0"
+  },
+  {
+    "id": "word:整齐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a2e7722efc2259fa731b1ae627bb6d3772c8d3fd"
+  },
+  {
+    "id": "word:束",
+    "ok": true,
+    "issues": [],
+    "content_hash": "15fd9d51d01e093aecf0615af4cd2642b7e36633"
+  },
+  {
+    "id": "word:图画",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d3a121f7001a8448c5e02b7b0c88c8b36b5dd009"
+  },
+  {
+    "id": "word:短裤",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c2ce68e891687f60d774b432a4bf6257ff454daf"
+  },
+  {
+    "id": "word:交警",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6c521746626f24d961a6e384f2885e78c689732"
+  },
+  {
+    "id": "word:京剧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa9cd91ba64d69494086b79a6a8500de80c0483a"
+  },
+  {
+    "id": "word:熟人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60ad261d004e6206a18c49921f6e5be43259827b"
+  },
+  {
+    "id": "word:沙子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e06ec19f4efb390b98cac8f1127088a92324c186"
+  },
+  {
+    "id": "word:跳远",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ace12b0bb0bcbec214b1cd6e7b8e74541b6b980"
+  },
+  {
+    "id": "word:果汁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "028fe8349b6790e7099bb2e6928d4f620c8a2019"
+  },
+  {
+    "id": "word:积极性",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dafe7e922c0b01bbc4b40b2c4bdf8c59dc3fda22"
+  },
+  {
+    "id": "word:听力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "82b31640406f87e1a2b4a7bb71c5d723f7837a49"
+  },
+  {
+    "id": "word:推开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da2b49b54733171e3cb8f2bbe91882ba8ce6aade"
+  }
+]

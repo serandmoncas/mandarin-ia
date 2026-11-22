@@ -1,0 +1,153 @@
+[
+  {
+    "id": "phrase:introductions:027",
+    "ok": true,
+    "issues": [],
+    "content_hash": "314f376ac20cc0a6758796922e29338b9526c78f"
+  },
+  {
+    "id": "phrase:restaurant:001",
+    "ok": true,
+    "issues": [],
+    "content_hash": "103618c46abbc77e5a5405233e183de50cff2dac"
+  },
+  {
+    "id": "phrase:restaurant:005",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e53d275a071397a1afe10a3e358db68ea212100b"
+  },
+  {
+    "id": "phrase:restaurant:018",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3cfd6963863ba3a0a00e0b1bb81c755503d93c0b"
+  },
+  {
+    "id": "phrase:restaurant:019",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c06dc56ba06f90bf5525359a11987c0ac715bcd"
+  },
+  {
+    "id": "phrase:restaurant:022",
+    "ok": false,
+    "issues": [
+      "够了 significa 'ya es suficiente' (por ejemplo, cuando le siguen sirviendo); 'Es todo' corresponde más bien a 就这些 al terminar de pedir. Traducción sugerida: 'Ya es suficiente, gracias.'",
+      "够了 dicho solo o con tono seco puede sonar a '¡basta!'; conviene una nota de uso."
+    ],
+    "content_hash": "b9760b5be7d7940fbc2c02c5d0ff2c3f3c8f9b6a"
+  },
+  {
+    "id": "phrase:restaurant:027",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4fbcf0203d5152a0f48c761236f4489195b81c29"
+  },
+  {
+    "id": "phrase:transport:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7c611a1e453dfbbffb04d37c825212d454707db3"
+  },
+  {
+    "id": "phrase:hotel:003",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab7f64cf45aa1424b7be59ca00486a3d9ad47d94"
+  },
+  {
+    "id": "phrase:hotel:005",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a76c311c366d45c6d82a4da80e62d12941f6c352"
+  },
+  {
+    "id": "phrase:hotel:006",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc7394c7b834ccdf3b6b3eaa83d2fa1fe081981e"
+  },
+  {
+    "id": "phrase:hotel:007",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27e70eeeefcdf3538ee8c96fd83d6a1bbc90d671"
+  },
+  {
+    "id": "phrase:hotel:017",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d474891d60083d22e21c4eac20bea5549842d20"
+  },
+  {
+    "id": "phrase:hotel:027",
+    "ok": true,
+    "issues": [],
+    "content_hash": "885fc15aca1ac57ca6fcc24aab211d6afd42c7a0"
+  },
+  {
+    "id": "phrase:shopping:002",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce3c44b31ac286910ec563912b425b1ebd5aee7a"
+  },
+  {
+    "id": "phrase:shopping:014",
+    "ok": true,
+    "issues": [],
+    "content_hash": "94eac2d1a1da3895cc28397e0c341ea341324988"
+  },
+  {
+    "id": "phrase:shopping:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37cc76c35e63951852a8fd2ed9f04e32e50f0c9a"
+  },
+  {
+    "id": "phrase:shopping:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aff851b2b81dc9101683f5e6443135155defaa69"
+  },
+  {
+    "id": "phrase:directions:011",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c495a78f80c3c29c96aa2133ebfddf294f5fb87d"
+  },
+  {
+    "id": "phrase:directions:027",
+    "ok": false,
+    "issues": [
+      "Pinyin: en la reduplicación 问问 la segunda sílaba es tono neutro; debe ser 'wèn wen', no 'wèn wèn'."
+    ],
+    "content_hash": "1e3f89c83da71f5d0839ea0d9ce0b9d900f8ddae"
+  },
+  {
+    "id": "phrase:directions:029",
+    "ok": false,
+    "issues": [
+      "La frase china usa 你 (informal), pero la traducción usa 'su' (usted). Hay que alinear el registro: usar 您的帮助 o traducir '¡Gracias por tu ayuda!'."
+    ],
+    "content_hash": "337d5fdde39782f218596d1f27770791dd683e85"
+  },
+  {
+    "id": "phrase:emergencies:007",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fe1841316261cd36502f522aca76f1d450ca7819"
+  },
+  {
+    "id": "phrase:emergencies:014",
+    "ok": true,
+    "issues": [],
+    "content_hash": "223a672cfadb42d2be9732f23b1e475ff9945217"
+  },
+  {
+    "id": "phrase:emergencies:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cf79f580d0cd76145b2c8cbe498a9d5ea36acad3"
+  }
+]

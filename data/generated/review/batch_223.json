@@ -1,0 +1,169 @@
+[
+  {
+    "id": "word:奶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c307ab5a6edbda5bd3cbef02923c4aa95251f21f"
+  },
+  {
+    "id": "word:小学生",
+    "ok": false,
+    "issues": [
+      "En «我妹妹还是小学生» el 是 es el verbo «ser» (还 + 是), así que el pinyin debe ser «hái shì», no «hái shi», que corresponde a 还是 como conjunción o adverbio."
+    ],
+    "content_hash": "04a0593cb11687461047c299aacaf129e28f9ec5"
+  },
+  {
+    "id": "word:下班",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c957d4368d94c5d59096a54280016db35ff8f6bf"
+  },
+  {
+    "id": "word:除了",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e85b5a6c7c1a0d22ea6dc7bbc4cffbb3e361c7fd"
+  },
+  {
+    "id": "word:中学生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b38a0f38b2f57d0d8134343a495d2f651a00e0d1"
+  },
+  {
+    "id": "word:门票",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b7166c845a6ecbbab06a320f884789f9ce1d58f"
+  },
+  {
+    "id": "word:半天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b6e57373624066aa74baa36c1e778ee6228a8e0"
+  },
+  {
+    "id": "word:离开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "709086019d2d5ed6611fb09093ce74bc0c3a67bb"
+  },
+  {
+    "id": "word:下雨",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e35828fc9170833f3ba797c2e2f41c6ebe17b60"
+  },
+  {
+    "id": "word:注意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "258dda66569f80646d0fffc51f3d58ba9f1dfbe5"
+  },
+  {
+    "id": "word:小朋友",
+    "ok": false,
+    "issues": [
+      "Pinyin de 告诉: la forma estándar es «gào su», con el segundo tono neutro, no «gào sù»."
+    ],
+    "content_hash": "4afe30c4fd1402b0e741e0e0ff019d7046924608"
+  },
+  {
+    "id": "word:反",
+    "ok": false,
+    "issues": [
+      "Pinyin de 东西 («cosa»): debe ser «dōng xi», con tono neutro; «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "3fabb79a5af0e6c7cc1b8ae0093e9594215877f7"
+  },
+  {
+    "id": "word:中年",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: 中文 se lee «zhōng wén», no «zhòng wén»."
+    ],
+    "content_hash": "4efc8a3c49df8df5a35dd7858f7ea071b62778ea"
+  },
+  {
+    "id": "word:马路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "00f8369cf3f5628840ac0a7d32dbd300f1333cd6"
+  },
+  {
+    "id": "word:反对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b548862f3beecbc5dd2e15b419e50f7903a62a6"
+  },
+  {
+    "id": "word:下车",
+    "ok": false,
+    "issues": [
+      "Pinyin de 哪儿: debe ser «nǎr» (con erización), no «nǎ ér»."
+    ],
+    "content_hash": "0a984707fca40aa01e1c0c55204aa847c7b69fbb"
+  },
+  {
+    "id": "word:形成",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: en 很长时间, 长 se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "a2e61a2fa36d3dff368c682082521a5cfa3727e1"
+  },
+  {
+    "id": "word:左边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d9f3b8aa1272108be4917531e4a2fca0773687e"
+  },
+  {
+    "id": "word:音乐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf6f3b48acd2fc3f8e6737e82e2c4ef5d4542a34"
+  },
+  {
+    "id": "word:右边",
+    "ok": false,
+    "issues": [
+      "La última frase no es natural: «开车的时候要走路的右边» es una construcción forzada. Sería mejor, por ejemplo, «在中国，开车要靠右边走» o «在中国，车辆靠右行驶»."
+    ],
+    "content_hash": "ed7d80ebaa1601bdc87bf8188e76113e234c2305"
+  },
+  {
+    "id": "word:姐",
+    "ok": false,
+    "issues": [
+      "Pinyin de 哪儿: debe ser «nǎr», no «nǎ ér».",
+      "Pinyin erróneo: en 都会, 都 se lee «dōu», no «dū»."
+    ],
+    "content_hash": "2f98248d3d6025e6bc8fc0ff744bb94cd4829620"
+  },
+  {
+    "id": "word:加入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f9a14eaab4c020d7e5b22fcdc7baffa90472bac9"
+  },
+  {
+    "id": "word:发布",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c7805d9195979c09e99e305466e96857dc98e48"
+  },
+  {
+    "id": "word:啦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2f1b26e109e67c5a09fb1d6f8d690b438cd2e37"
+  },
+  {
+    "id": "word:星期日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8da6fd5b11a1aa274be102747b8451508bce80a5"
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:队员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a849f82b5d0feb37c2f39ad7d4cb0a314f67245"
+  },
+  {
+    "id": "word:留学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "38456c33292f2781bda39e79e19906c35ac95c28"
+  },
+  {
+    "id": "word:伤心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb95f1ff6a46ac68def9a75ab026d7dcea79bf02"
+  },
+  {
+    "id": "word:场合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "215542535dcbbebcda739cc67257ee8b0a7c86a2"
+  },
+  {
+    "id": "word:从前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f66ca3f3c07c2218c00ac47b577cd48685fa48a6"
+  },
+  {
+    "id": "word:合格",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b54e7d9833dbc254dd35174dc79b7eef6ef77e5c"
+  },
+  {
+    "id": "word:家乡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "240b14b81fba0b3d3c0aa94d2589fce5970db0a6"
+  },
+  {
+    "id": "word:功夫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec0125f95cd0df2e9f684fcb8f90aeb559720d09"
+  },
+  {
+    "id": "word:考验",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a1754fa6cec01a022e825baeeb9a23a6ff21ef8"
+  },
+  {
+    "id": "word:头脑",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «保持清楚的头脑» es poco idiomático; la colocación natural es «保持清醒的头脑» (qīng xǐng)."
+    ],
+    "content_hash": "e02ee7bf19f9dd92c05192943517fa22b49d22dd"
+  },
+  {
+    "id": "word:克服",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «克服很多问题» es una colocación forzada; 克服 se usa con 困难 (p. ej. «学习汉语要克服很多困难»), mientras que con 问题 lo natural es 解决."
+    ],
+    "content_hash": "5cf54b8dc673377518438e7fff543b9d3ca0a54a"
+  },
+  {
+    "id": "word:乐观",
+    "ok": true,
+    "issues": [],
+    "content_hash": "080318ee9579872c8438d618390cf147b5d77405"
+  },
+  {
+    "id": "word:身份证",
+    "ok": true,
+    "issues": [],
+    "content_hash": "11f062f3ba2db3ae6c1fe7716357b7fc82346e2e"
+  },
+  {
+    "id": "word:优点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "36d359ee70122be3bc98564d4d81f439f41c9df1"
+  },
+  {
+    "id": "word:欢乐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5a24656cff3dbddad1db034e229b1d05db6a766"
+  },
+  {
+    "id": "word:乐队",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 体育馆 es un recinto deportivo cerrado (gimnasio, arena), no un «estadio» (体育场). Conviene traducir «en el gimnasio» o «en la arena»."
+    ],
+    "content_hash": "40dc9696168ca3d477da869399af29edffcba3e6"
+  },
+  {
+    "id": "word:录音",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e57d0e036b7de45b7a65d7c463976120789f6be"
+  },
+  {
+    "id": "word:邮件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b2a47acd60c26eadd84112e79e804e1d40db7114"
+  },
+  {
+    "id": "word:反复",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin de 告诉 debe ser «gào su», con la segunda sílaba en tono neutro, en coherencia con el resto de los ejemplos."
+    ],
+    "content_hash": "ec29c415716a47087b80a56ed37ad94344175e19"
+  },
+  {
+    "id": "word:光明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "29ff3039e535ee3b161b9ff564865b35835cb531"
+  },
+  {
+    "id": "word:缺点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b1fcf7545e1f5bc7865a4ab5cbe933b6a86e86d0"
+  },
+  {
+    "id": "word:手续",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4eb4bec2d922d59879ff9949f4cbf0a9ea0c9f2"
+  },
+  {
+    "id": "word:跳舞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5efa95dbf7f0bb03228176229220a457717f5169"
+  },
+  {
+    "id": "word:保安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10768a65512c2a0acb148c057e55336582b4e997"
+  },
+  {
+    "id": "word:不安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "47fdea95223fdf9aefc30eaa21d5c7e6ff62f9ba"
+  }
+]

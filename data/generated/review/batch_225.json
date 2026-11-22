@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:南边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a0d39e000f7c94c43341e6753de3847be6d82ba"
+  },
+  {
+    "id": "word:警察",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb9debe5991eb6c069709afc5da3a43e32075ed0"
+  },
+  {
+    "id": "word:可是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c170f4941c86c450a262c021ac26eb6de7d87899"
+  },
+  {
+    "id": "word:米饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "665640a0952055e452ab501228ce2c67195f1246"
+  },
+  {
+    "id": "word:母亲",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 告诉 suele darse como 'gào su' (segunda sílaba en tono neutro), no 'gào sù'."
+    ],
+    "content_hash": "4d717ead5c9a6632f0caf131c922372d39d6f324"
+  },
+  {
+    "id": "word:请假",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9790505d5849b34965310fcc0bde7195822cfe3"
+  },
+  {
+    "id": "word:里边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a45bc28374b066bd0c35eba1cfcf73174d0f06b0"
+  },
+  {
+    "id": "word:改革",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f72129cdc30ab49515b8d3f05f7649ef3c248a5d"
+  },
+  {
+    "id": "word:系列",
+    "ok": true,
+    "issues": [],
+    "content_hash": "18d917882fea9d58b3eb2753579562230dfc55af"
+  },
+  {
+    "id": "word:书包",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7bee27945219ba109e20212e82e8180344009b15"
+  },
+  {
+    "id": "word:洗手间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d81707d0888440e5810db20e7f6091ac0b83bc1"
+  },
+  {
+    "id": "word:不仅",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin 'zhè bu jǐn' es incorrecto; debe ser 'bù jǐn', como en los demás ejemplos."
+    ],
+    "content_hash": "8e3f929754b05962a6749a2877a255e5ec1dff50"
+  },
+  {
+    "id": "word:后边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c076954d4f0905c4e359a25e7e44c8dd488eb6d9"
+  },
+  {
+    "id": "word:后来",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: '他开始不喜欢学汉语' es ambiguo: puede entenderse como 'empezó a no gustarle'. Para decir 'al principio' es más natural '他一开始不喜欢学汉语' o '开始的时候他不喜欢学汉语'."
+    ],
+    "content_hash": "f26ca5622034b694ecd6843f1f498456e35a73a9"
+  },
+  {
+    "id": "word:女孩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa68a7a36d3c9c991b569301908f50066335ad44"
+  },
+  {
+    "id": "word:生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a134dd5be40979d4e995b26e4695e05a587ce141"
+  },
+  {
+    "id": "word:一块儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f4eee7b8c2244eaa6526a5ce9d5170fb4ab80137"
+  },
+  {
+    "id": "word:前天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "411ef38e4821a4f663dba61efeb91bf6c679668c"
+  },
+  {
+    "id": "word:包子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be578b68f543c7926c6b64e4237fc259992eb4be"
+  },
+  {
+    "id": "word:人物",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a7bc1b50a5b1001ef87b07f0b0216abdfca3f0d"
+  },
+  {
+    "id": "word:共",
+    "ok": true,
+    "issues": [],
+    "content_hash": "58f4d0e147ad587018b9396afd8032060b2eeb9c"
+  },
+  {
+    "id": "word:女性",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ea7196b8e1ca9d7a160f6894c2e75feba6362f1"
+  },
+  {
+    "id": "word:上边",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin 'shàng biān nà shi' es inconsistente; debe ser 'shàng bian' (tono neutro, como en los demás ejemplos) y 'nà shì'."
+    ],
+    "content_hash": "40590c29218558f1fd6baf18c81816dc11684ece"
+  },
+  {
+    "id": "word:执行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e0b3a546c20fd7b8d4c5dc35411debf5d721883"
+  },
+  {
+    "id": "word:机关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "100880d7303167ae2fe604e26435c6a555aa0d27"
+  }
+]

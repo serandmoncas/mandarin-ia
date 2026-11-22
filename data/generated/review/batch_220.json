@@ -1,0 +1,158 @@
+[
+  {
+    "id": "word:投资",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bfcc45365a7d4f0c29b0e21bac78951d119f4e71"
+  },
+  {
+    "id": "word:期间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e7ad12dbf06d06e084b548c73b2aa92eb1f11c7"
+  },
+  {
+    "id": "word:法国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dad25c2f23eba45594793e38444dc73590399323"
+  },
+  {
+    "id": "word:记住",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5722bb29ab0e1b67d17fb1fd91ee60ed8789497"
+  },
+  {
+    "id": "word:帮助",
+    "ok": true,
+    "issues": [],
+    "content_hash": "83b9e1ff53561e3bbb1274881c4afc22c8994dce"
+  },
+  {
+    "id": "word:门口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d8baa0edb1d0c57503fb5633f9fe092272617b2"
+  },
+  {
+    "id": "word:并且",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f53024ff5eb9bd988c5b6467381522f0a027448b"
+  },
+  {
+    "id": "word:那边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2feb80cfb15cf153e3b3359143d04f8abe19b83"
+  },
+  {
+    "id": "word:仍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e71cc17f2f3992b9b061572692a9d30436524b50"
+  },
+  {
+    "id": "word:世纪",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 事情 debería ser 'shì qing' (tono neutro), no 'shì qíng'."
+    ],
+    "content_hash": "4c8f5cfd9a80ece7c7ccf1afca7fe3b8d3c5e8ca"
+  },
+  {
+    "id": "word:汉语",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e62ff37f157511522198d7a9d8441e3eca2068e"
+  },
+  {
+    "id": "word:请问",
+    "ok": true,
+    "issues": [],
+    "content_hash": "825e547b52ed1f26adf9244dcb3a438507b92f87"
+  },
+  {
+    "id": "word:增加",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ac85e3b54638f23f9805f1c803089dff9def347"
+  },
+  {
+    "id": "word:这儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5b54e193693f3717f8ecb6466381f15696634f70"
+  },
+  {
+    "id": "word:军",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1045ad8e2a451f3e3c6a11245a07410ae86495a6"
+  },
+  {
+    "id": "word:累",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3403642353be4b5543d6d502211ed1255e1446b2"
+  },
+  {
+    "id": "word:同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "060a46e8b6d85ee215ee9e080aa8404cb9ff06ff"
+  },
+  {
+    "id": "word:上网",
+    "ok": true,
+    "issues": [],
+    "content_hash": "720577d24a9f179c7c74330acb1d6d1cdf18316b"
+  },
+  {
+    "id": "word:负责",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c6f5e51783323e52c011138373c0976437c149b"
+  },
+  {
+    "id": "word:工业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "313ba37925e16e21939671f284d53ee85d729e2f"
+  },
+  {
+    "id": "word:好吃",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 东西 ('cosas') debería ser 'dōng xi' (tono neutro). 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "b171098955e2b7a6fa47e7d5a8637e8fcd97a735"
+  },
+  {
+    "id": "word:基础",
+    "ok": true,
+    "issues": [],
+    "content_hash": "58ef7f3e8e709d30b38f4771fa5de19cae88ebd2"
+  },
+  {
+    "id": "word:这边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e037bc2275f9be73a1c79ef11375d1977d2fc911"
+  },
+  {
+    "id": "word:百",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d5c83eeaa2cc64b7b052a9ca11cd7b77e4bae0e"
+  },
+  {
+    "id": "word:相信",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: la traducción es agramatical en español. 'No cree que' exige subjuntivo, por lo que debería decir 'Mi mamá no cree que ya haya terminado'."
+    ],
+    "content_hash": "431a6cad165ac984c40fa9ce613b70e947cc1473"
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:理想",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d96aabb6fe166f9d0fc78f6a61f2d4df9ae7a6c3"
+  },
+  {
+    "id": "word:效果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a111d280df0b8f95a61dd78d77a605b2bd782b85"
+  },
+  {
+    "id": "word:全体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "65f3bbca4bc04072786b726aa62de436f4f81233"
+  },
+  {
+    "id": "word:到处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c8a3da5b5accfbe660ee0167584e6cc29fff21a"
+  },
+  {
+    "id": "word:必要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b300c2f48b5d3995398a5e0bfa9975eea49174c7"
+  },
+  {
+    "id": "word:明星",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c1aa6581077848720828ce24af0eea31115d0a7"
+  },
+  {
+    "id": "word:日报",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07e2112860540d4bf15fd53b6ea46a6fde8b1e0f"
+  },
+  {
+    "id": "word:丰富",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2940387a0cd3db57d0083ae51d729da7435efb8d"
+  },
+  {
+    "id": "word:想起",
+    "ok": true,
+    "issues": [],
+    "content_hash": "52f964a4a375988945a6c96a654e528c8986e92d"
+  },
+  {
+    "id": "word:心中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e776a5b8654d55561ea6d5aa574091c6ff50fc33"
+  },
+  {
+    "id": "word:值得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed53768739c85636ee6350a9778fe9052ae985ae"
+  },
+  {
+    "id": "word:以外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f21b7d51c496ff952de05e3e2ef56af5a3249769"
+  },
+  {
+    "id": "word:本来",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, 本来就 significa 'de por sí / en realidad', no 'desde el principio'. Traducción sugerida: 'Esto de por sí es culpa tuya; deberías pedir perdón.'"
+    ],
+    "content_hash": "3a7df407354718fe42551d292b096cbb8e97ca26"
+  },
+  {
+    "id": "word:气",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2f790fe64779aff0a958838a87b99fdb45bfdce"
+  },
+  {
+    "id": "word:活",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da07515b24e2a428827a3ce4e18aca966e526292"
+  },
+  {
+    "id": "word:轻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba75ca2d2e07c6edf752746d17cbee297aff2f73"
+  },
+  {
+    "id": "word:热情",
+    "ok": true,
+    "issues": [],
+    "content_hash": "84393584258c6aba96a7cd0d409d2f34e571ffee"
+  },
+  {
+    "id": "word:伟大",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, 伟大的想法 suena exagerado y poco natural para una idea cotidiana que se propone probar. Sería más natural 好主意 o 好想法.",
+      "En el ejemplo 1, 'una gran persona' en español suele entenderse como 'buena persona'. 伟大的人 se traduce mejor como 'un gran hombre' o 'una gran figura'."
+    ],
+    "content_hash": "4037048a8e9ada078211eb82bae0b6fccc45f511"
+  },
+  {
+    "id": "word:草",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ee8ef452306c50f3edd71bec299196b921b1d8f"
+  },
+  {
+    "id": "word:车辆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d59f9f3311f2c04a94cdc5c58136b48989eedc87"
+  },
+  {
+    "id": "word:主张",
+    "ok": true,
+    "issues": [],
+    "content_hash": "56f9f2b82b0afedefa839de02846020561841ab8"
+  },
+  {
+    "id": "word:发出",
+    "ok": false,
+    "issues": [
+      "Error de pinyin en el ejemplo 4: en 睡不着, 着 se lee zháo. Debe ser 'shuì bù zháo', no 'shuì bù zhe'."
+    ],
+    "content_hash": "7ec667ef735138bb627d2ca52c0266052105f6fa"
+  },
+  {
+    "id": "word:校长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3482a13b9acf9fb95403aa2b454f50f7ed112966"
+  },
+  {
+    "id": "word:接着",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69a7869a39c7e3dcdbe0b0f2f96d55bd3418e170"
+  },
+  {
+    "id": "word:适合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "31f3c6d3689c7ea395acdd3974562f5e58ddfc87"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:海",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d1c6cacad33662a4c6c357b58a9dcc4992269e4"
+  },
+  {
+    "id": "word:再次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f79a73e8d0e759369bd9d0b3cbd2263d9b7968e2"
+  },
+  {
+    "id": "word:及其",
+    "ok": true,
+    "issues": [],
+    "content_hash": "597f83a507161a692f12ec3971137dc1b25028c3"
+  },
+  {
+    "id": "word:前年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "92fa890b8a9337913755c8fd10733dd9d98e0589"
+  },
+  {
+    "id": "word:发行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2fd0286c9087279a64968ac37cabe1281fc54ac2"
+  },
+  {
+    "id": "word:刚才",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6536fb93ca3969c47bccc11d9c7f8b700969cd1a"
+  },
+  {
+    "id": "word:够",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef07b2652a02bcd8ee94df351fc7b666167ac84c"
+  },
+  {
+    "id": "word:多年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1db3d9edc6931fc9a276b0865ce2d69e539678a6"
+  },
+  {
+    "id": "word:交",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f04528f3d4391a18a1818814f32ef9903c9ec1f"
+  },
+  {
+    "id": "word:平均",
+    "ok": true,
+    "issues": [],
+    "content_hash": "037c634af322070feb25fa11ff94dd58b92e739a"
+  },
+  {
+    "id": "word:广州",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: la traducción «Viví muchos años en Cantón» indica que ya no vive allí, pero 这里 («de aquí») implica que sigue en Cantón; mejor «Llevo muchos años viviendo en Cantón y me encanta la comida de aquí»."
+    ],
+    "content_hash": "190905e7f1995cd2c6d21da5ab9976d50878dbcd"
+  },
+  {
+    "id": "word:名单",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0a5ffe8aaa2bb260e8a180a3327a5a928ef4fd1c"
+  },
+  {
+    "id": "word:挺",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c69477ea67f58e121dbaffff5ac56ddc34495f79"
+  },
+  {
+    "id": "word:软件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d3c3b026783f9bc85c350d1541032e5cafcc426"
+  },
+  {
+    "id": "word:信号",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «他用手给我一个信号» suena poco natural para una acción pasada; falta 了 («他用手给了我一个信号», o mejor «他用手给我打了个信号»)."
+    ],
+    "content_hash": "8885521b306bf67452253ad66434b3ae3b7f6b55"
+  },
+  {
+    "id": "word:逼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c9a3db4e129886167039f868fd2e4e6ca59207d"
+  },
+  {
+    "id": "word:部队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc4f86b1b8d30432a9ce2ebc4856795b87730f9f"
+  },
+  {
+    "id": "word:镇",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ccd882e265aab5b67ae6df3e8e7cf92681a23c8f"
+  },
+  {
+    "id": "word:哭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fedcacbd44f53bcaf2ed7bf65530ac90bd3f01c0"
+  },
+  {
+    "id": "word:颜色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fcb9fce2ea8a7400d8df30481915f06d8f502850"
+  },
+  {
+    "id": "word:照顾",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45c024ffa3e9fb11765a5b9bd6af9b103d8b52e0"
+  },
+  {
+    "id": "word:不行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a3b37178299f1f42e92623c5b328011e96e8155"
+  },
+  {
+    "id": "word:父母",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3288f14849affe55c29acae738bc83ab603e10ba"
+  },
+  {
+    "id": "word:大多数",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0f1d11bfb44ce5aed9030f218efdda9e034b94a"
+  },
+  {
+    "id": "word:绿色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40e92aa7ea72976a0a585c99442a990d8a76376a"
+  }
+]

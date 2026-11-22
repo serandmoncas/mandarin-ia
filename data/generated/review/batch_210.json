@@ -1,0 +1,170 @@
+[
+  {
+    "id": "word:万",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4106fe54baa4100e314b1bbacb82e8791b82be6e"
+  },
+  {
+    "id": "word:住",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 东西 ('cosa') se lee dōng xi (tono neutro); 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "2d529255746808f51c93a7e2ff4d2c039f0b7444"
+  },
+  {
+    "id": "word:像",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b2362262f37d3036304d25032de4756d61f276c"
+  },
+  {
+    "id": "word:别",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: la traducción 'No le digas.' queda incompleta en español; debería ser 'No se lo digas.'",
+      "Pinyin del ejemplo 2: 告诉 se lee gào su (tono neutro), no 'gào sù'."
+    ],
+    "content_hash": "61573edd020c8fa491da20405d30203d6edbae34"
+  },
+  {
+    "id": "word:回",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 过 como partícula aspectual lleva tono neutro (kàn guo), no 'kàn guò'."
+    ],
+    "content_hash": "e31995947fae9ba5a8fd1216ad5a1d75e9403d15"
+  },
+  {
+    "id": "word:这么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0398783144e9ef93477261dc98c4894f7b1a4e52"
+  },
+  {
+    "id": "word:书",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a83a178e83fd3e5812c71349d6f8c35a5924f4d"
+  },
+  {
+    "id": "word:只是",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: en el verbo reduplicado 问问 la segunda sílaba lleva tono neutro (wèn wen), no 'wèn wèn'."
+    ],
+    "content_hash": "4ed7167a2f8f2416bf20196eec223157b30649bc"
+  },
+  {
+    "id": "word:送",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 东西 ('cosas') se lee dōng xi (tono neutro); 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "f76d0f0171d3a7284a6f2f61a28bda6de89049e7"
+  },
+  {
+    "id": "word:研究",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f3b14fc1f24033fca0ff3f4ec522bc973ef841e"
+  },
+  {
+    "id": "word:是不是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e5df60dd27de7434c19d9a6e22a8ec7d93311c3"
+  },
+  {
+    "id": "word:根据",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c15ad110b62f7878903e3ad7bad33f9827c56907"
+  },
+  {
+    "id": "word:别人",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 东西 ('cosas') se lee dōng xi (tono neutro), no 'dōng xī'.",
+      "Pinyin del ejemplo 3: 告诉 se lee gào su (tono neutro), no 'gào sù'."
+    ],
+    "content_hash": "2412a9c5db1213198f5fd2b2d8c928e3d4eb03f8"
+  },
+  {
+    "id": "word:系统",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b62af2c651fd301825d8d9f36b41525ff8bc950b"
+  },
+  {
+    "id": "word:服务",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d21d978c6491f4601ec3d7329e442578923d5f2b"
+  },
+  {
+    "id": "word:老师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6baf6fb6f6ac11638a8a9b54e317615bc71ad0f9"
+  },
+  {
+    "id": "word:先生",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 告诉 se lee gào su (tono neutro), no 'gào sù'."
+    ],
+    "content_hash": "c28086843a19026c1bcf96df1c19f69103c9883d"
+  },
+  {
+    "id": "word:儿子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af491f95d7436dc955d386e87bb80ddd1f9bc20b"
+  },
+  {
+    "id": "word:那里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5a99ad8e2770bf4b05c0470943617bc86b24213"
+  },
+  {
+    "id": "word:只有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e7776eafce759daaceda6b8d163e5e245ab041b"
+  },
+  {
+    "id": "word:车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ea83e8bec4c779ba2a5037a69d62d37bd2b4c0a"
+  },
+  {
+    "id": "word:自",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 过 como partícula aspectual lleva tono neutro (lái guo), no 'lái guò'."
+    ],
+    "content_hash": "d96ac176e93ad737d0da33a7c924e1f0e0f26c5e"
+  },
+  {
+    "id": "word:介绍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f3b827b217b277b0a921462924297a21feccfc0"
+  },
+  {
+    "id": "word:学院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "151c1cd610b11942acae7a3bda71b72b055f89b7"
+  },
+  {
+    "id": "word:虽然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37a9de3057b5233c75371aebc0a7ba0082f6c757"
+  }
+]

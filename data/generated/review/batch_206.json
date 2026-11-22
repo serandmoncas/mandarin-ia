@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:发展",
+    "ok": true,
+    "issues": [],
+    "content_hash": "39f57a1bb13db9612a81715c9d23cf7067dc6c71"
+  },
+  {
+    "id": "word:开始",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f3adca4f96451f90d8e01c56b1142cc8512d573"
+  },
+  {
+    "id": "word:们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f13be232883e1524e685ac64c39726a9e4247b50"
+  },
+  {
+    "id": "word:谁",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «谁知道这个问题？» suena algo forzado; sería más natural «谁知道这个问题的答案？». Además, la traducción añade «la respuesta», que no aparece en el original."
+    ],
+    "content_hash": "795deadda96350dd3f441f652c0dd014a6f89c30"
+  },
+  {
+    "id": "word:地方",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «有很多地方我不知道» resulta poco natural; con 地方 en el sentido de 'aspectos' se usa más «不懂» o «不明白»."
+    ],
+    "content_hash": "062d235391e122c5d5d0269f0f2157d75cee9489"
+  },
+  {
+    "id": "word:可能",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: el pinyin de 不 en «这不可能» debería ser «bù» (bù kě néng), no «bu» neutro."
+    ],
+    "content_hash": "8ecd65859dd1b05f7680f18d0e9e634d8580e267"
+  },
+  {
+    "id": "word:你们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f90d465e14aad65f5a1da98c8c1b0d303b8c7ac0"
+  },
+  {
+    "id": "word:社会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1680eb8941ba73f610483a1f0b48e1c58491f2ef"
+  },
+  {
+    "id": "word:可",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 不 en «可不小» debería ser «bù» (kě bù xiǎo), no «bu» neutro."
+    ],
+    "content_hash": "b844b9bf390fb491b24bc9a700b521ff74c96701"
+  },
+  {
+    "id": "word:比",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bde16f156479565aaed3fa81d36d2e83d5866703"
+  },
+  {
+    "id": "word:如果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2fb78976b911c9573ba0830f84beeec5f7d960f3"
+  },
+  {
+    "id": "word:还有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e5cb38d71532d0eb1ac95630986b5025a6c4ac0a"
+  },
+  {
+    "id": "word:世界",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ef1cd358d06b092a3b1ab320515b164eeca677d"
+  },
+  {
+    "id": "word:其",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «使其快点发展» mezcla un registro formal (使其) con uno coloquial (快点) y suena poco natural; mejor «使其更快发展» o «让它快点发展».",
+      "Ejemplo 3: el pinyin de 地方 debería ser «dì fang», con la segunda sílaba en tono neutro.",
+      "Ejemplo 4: «而很有名» suena algo forzado; lo habitual es «因其…而闻名» o «因其…而出名»."
+    ],
+    "content_hash": "f72ef2cd71d82a82a63ac233814473a616061eef"
+  },
+  {
+    "id": "word:还是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89dbc1296b9632c9a952a0fd5573369290dec037"
+  },
+  {
+    "id": "word:日本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "382ee37d5eaa73fc9ab2db21f48c18cb1e16ed26"
+  },
+  {
+    "id": "word:只",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 地方 debería ser «dì fang», con la segunda sílaba en tono neutro."
+    ],
+    "content_hash": "57d4db559d2a04cc974ba362416371128052017e"
+  },
+  {
+    "id": "word:高",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5fac769843d6a848db7dce4d265facb39b9148aa"
+  },
+  {
+    "id": "word:成为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "216ab5ae9c9eaf49eeaf06409ec9768cc4639dc4"
+  },
+  {
+    "id": "word:重要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7858ebf09b410f552331c090a6c8b5c89f4a320d"
+  },
+  {
+    "id": "word:起来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "84217af177c4eac465546cfb3dec70384b9f143e"
+  },
+  {
+    "id": "word:喜欢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0924b690241770b721c0f4d9c0288eee58cd1541"
+  },
+  {
+    "id": "word:钱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cfd1ba523c0e0fcdd9bacb951015e7fb1388cb92"
+  },
+  {
+    "id": "word:已",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el 过 aspectual de «说过» se pronuncia en tono neutro («shuō guo»), no «guò»."
+    ],
+    "content_hash": "0a80e538bd83df74aaa80f66fbebe85fc312b825"
+  },
+  {
+    "id": "word:当",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5296bb1c39933f7b123720f6973ef001a6ac8ef3"
+  }
+]

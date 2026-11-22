@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:金融",
+    "ok": true,
+    "issues": [],
+    "content_hash": "279734cf3ec71875fec01bd9201e41b726071d7e"
+  },
+  {
+    "id": "word:需",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aaf5e96bf0945fc37bc3b2c1e7cf08752fb2cd3b"
+  },
+  {
+    "id": "word:关心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87cd973646b89ae782925fa71fbe5f809a3955da"
+  },
+  {
+    "id": "word:相同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4aab225405661827b18fb8c4ae3c81af7760cc7"
+  },
+  {
+    "id": "word:交流",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8416229b27b68be7d3b5490ad0fb952d0086c475"
+  },
+  {
+    "id": "word:举办",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9aabfb837c188a240648aa8eb12d757bf276d582"
+  },
+  {
+    "id": "word:团体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "082d7eef39c4908faf9c38a77758befb0a7129cc"
+  },
+  {
+    "id": "word:多数",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5b98009d50c9ba01a2b830643200c2ec3200a111"
+  },
+  {
+    "id": "word:脸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df5d86c91a07c3e104e5f0b52afc5735cd3a378b"
+  },
+  {
+    "id": "word:影片",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3063b082f4487c5a47af71ca31c86c0a013011c"
+  },
+  {
+    "id": "word:制造",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3b930a80a398ca12f85133942a354c63113e26c"
+  },
+  {
+    "id": "word:作者",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 告诉 en el estándar continental se lee «gào su» (tono neutro), no «gào sù»."
+    ],
+    "content_hash": "6cbb258c13625f4ae84f4b3fe08feca21164b7f1"
+  },
+  {
+    "id": "word:换",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10afbc5eb616b159bac34e92873d4ec93f58bed4"
+  },
+  {
+    "id": "word:中共",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a9852b8ed9f36c19cfe1ced273b2090117c34f2f"
+  },
+  {
+    "id": "word:普通",
+    "ok": false,
+    "issues": [
+      "El ejemplo 3 no ilustra 普通 como palabra: usa el compuesto 普通话 («chino mandarín»). Puede confundir al estudiante sobre el significado de 普通; conviene reemplazarlo."
+    ],
+    "content_hash": "b7c1a31fc258aace35632cffa2e0b8f34625e1aa"
+  },
+  {
+    "id": "word:医疗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dba7841ea007d2329f95f5cc3997a05f9ef9cb1b"
+  },
+  {
+    "id": "word:原则",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc2f4e46f19dba64e4191e2e6f5433b896b5c032"
+  },
+  {
+    "id": "word:同志",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ead625eaef33d007ebb41291122e82cee877243e"
+  },
+  {
+    "id": "word:一部分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "12bdb9b23dd883146b8e19fe7c3696e6d4af2ccd"
+  },
+  {
+    "id": "word:委员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b02fd6236f3d5e7f0542b28ff502c729b374408"
+  },
+  {
+    "id": "word:宗教",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf6f4461e18ba8d171290acbfbb035e8043fd75f"
+  },
+  {
+    "id": "word:离",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ac19de67142cb14f7aa998001bc4480968b6ba4"
+  },
+  {
+    "id": "word:漂亮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33130e876aaf89cfc9fa0fdf897f5458464b0f29"
+  },
+  {
+    "id": "word:看来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a50e7a5a2572b7dd39a3bf7f2186a8635fa5a698"
+  },
+  {
+    "id": "word:往",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5ded6c07e4e07d29605a91d4b1bf3171b6badf6"
+  }
+]

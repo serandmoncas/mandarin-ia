@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:分钟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0498c95355b311fa3e4ec7612c2dfe37cb3552c2"
+  },
+  {
+    "id": "word:靠",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0670d8f38e26c08da64bf126d32c92234cf2206"
+  },
+  {
+    "id": "word:生命",
+    "ok": true,
+    "issues": [],
+    "content_hash": "611766544980609b7ac6f3ad1c8a106fcbaf0811"
+  },
+  {
+    "id": "word:十分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "05ca58fb3fe0eed0cc0c2c5a14ae5a9d193074e8"
+  },
+  {
+    "id": "word:意义",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5f37e1529c7612576dd120ce4124c87685040db"
+  },
+  {
+    "id": "word:几乎",
+    "ok": false,
+    "issues": [
+      "El ejemplo 4 (我几乎走了一个小时才回到家) es poco natural: 几乎 junto con 才 no encaja bien; lo natural sería 差不多/将近走了一个小时才回到家."
+    ],
+    "content_hash": "e1bcd2375bcc7b55c42693e1f1e238de3a7c8743"
+  },
+  {
+    "id": "word:若",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b8fba4b9dc274c0aab96cae1037bf4486cead5f1"
+  },
+  {
+    "id": "word:曾经",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30bfd837d088879df198e450b8292ea9d9927d72"
+  },
+  {
+    "id": "word:队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0277ad6f01c49050b4ef43e63dd95628c0cfbc7"
+  },
+  {
+    "id": "word:加",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1e6a8ac809a1e9086a3136c857d023d6f241484"
+  },
+  {
+    "id": "word:结合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c21ba4444497318ffbcd014f765473917a577855"
+  },
+  {
+    "id": "word:拉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "152bb79144a649df62b3555f8153d7a8ebeb4761"
+  },
+  {
+    "id": "word:居民",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «colonia» para traducir 社区 es un regionalismo mexicano, no español neutro; mejor «barrio» o «comunidad»."
+    ],
+    "content_hash": "6eb878db05342be18d59f32b02407b174a10559e"
+  },
+  {
+    "id": "word:所谓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e57363cf550c04f9e89cf865be5152e174e64303"
+  },
+  {
+    "id": "word:真是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f6861b2ca568a5fde05d07daf3b141eff8375cc3"
+  },
+  {
+    "id": "word:统一",
+    "ok": false,
+    "issues": [
+      "El pinyin de 统一 es inconsistente: aparece como tǒng yí, tǒng yī y tǒng yì. Lo estándar es tǒng yī.",
+      "Ejemplo 1: 统一的 debería ser tǒng yī de, no tǒng yí de.",
+      "Ejemplo 2: 一下 debería ser yí xià, no yī xià."
+    ],
+    "content_hash": "0af2bd025e1259255c98195a95fa87db77e50301"
+  },
+  {
+    "id": "word:而是",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 不是 debería ser bú shì, no bu shì."
+    ],
+    "content_hash": "e0b91c1cac334a407246cdc89863ae767b603517"
+  },
+  {
+    "id": "word:明显",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dbb8a8306c22aa37ac7f1e3d1f0c58f998c5d0b6"
+  },
+  {
+    "id": "word:系",
+    "ok": true,
+    "issues": [],
+    "content_hash": "320df6363012da230fe65256b3b10534f5014c9f"
+  },
+  {
+    "id": "word:大陆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7939d9a60e207561b9c8634134de48dc74d21d22"
+  },
+  {
+    "id": "word:教师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89835096929445be1acd6b9afbf5c53037123c0d"
+  },
+  {
+    "id": "word:金",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ccb01593a3d4b39ed39a62cf981e9698cbe13acf"
+  },
+  {
+    "id": "word:联合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8913647cf4eab57dc50da87ed0aa9e95359c39d5"
+  },
+  {
+    "id": "word:完",
+    "ok": true,
+    "issues": [],
+    "content_hash": "faa657e1d3312eddc0cefa4b340646c1149c9428"
+  },
+  {
+    "id": "word:西方",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d22713e5a4e1dafb9b5c0cdf8695da018d6f31f6"
+  }
+]

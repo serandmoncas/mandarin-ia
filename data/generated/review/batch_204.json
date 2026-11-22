@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:的",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a460a78d5a638a48d0f3c380087f66efd4ce5c98"
+  },
+  {
+    "id": "word:了",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f6b0ee93b3b6611402d8ceb249069332549ef3d4"
+  },
+  {
+    "id": "word:和",
+    "ok": true,
+    "issues": [],
+    "content_hash": "581769500fcd22e5a5d3cab4de03f2b8689e93f7"
+  },
+  {
+    "id": "word:有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "abae037bc7e380c979d2b1b4a89f74889700e978"
+  },
+  {
+    "id": "word:不",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a845a563a59235e577889553be14d5b3c0bbd20"
+  },
+  {
+    "id": "word:人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5dfee638a2b09024bf36c13653bfaf3dc732fbf"
+  },
+  {
+    "id": "word:你",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a82dd42aad4b5268fa88c2ad3d13a14408d3485"
+  },
+  {
+    "id": "word:为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6862e536cd0fde74c82ea76bc3d6417a91f8f4ab"
+  },
+  {
+    "id": "word:他",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a8d859a06519901ff63a5728c6471e0fdb17552a"
+  },
+  {
+    "id": "word:中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1d3745ae7a8799d754dce4de6117d8883957775"
+  },
+  {
+    "id": "word:与",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f96f77a2f8e9de500c0dec18f57e543bb968db06"
+  },
+  {
+    "id": "word:都",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bb66eef7f815475e7113f17b8fbabc97207e20dd"
+  },
+  {
+    "id": "word:一个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d548ff8a78667ca6764f8e9ee98f38dd96b43eb"
+  },
+  {
+    "id": "word:我们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2622122e6fe0f63f3f004a069f1c90950666f2d0"
+  },
+  {
+    "id": "word:会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "904324d8bdcdc32b46a831d7f742a0657e8fa09e"
+  },
+  {
+    "id": "word:月",
+    "ok": false,
+    "issues": [
+      "Pinyin del primer ejemplo: en fechas 一号 se pronuncia «yī hào» (sin cambio tonal), no «yí hào»."
+    ],
+    "content_hash": "bf7a4bc5471c5c13bcb7fe243a04e822383f6916"
+  },
+  {
+    "id": "word:他们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3bc703eb7a59b10b53151d3a1bb98fe5b7c2ebe"
+  },
+  {
+    "id": "word:还",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e5ef709b78c6a98526ca2d0d6809da7ba3a4f26e"
+  },
+  {
+    "id": "word:而",
+    "ok": false,
+    "issues": [
+      "El primer ejemplo usa la palabra compuesta 而且, no 而 solo; no ilustra el uso de 而.",
+      "El significado «para (indica propósito)» es engañoso: en 为了…而 el propósito lo marca 为了; 而 solo enlaza el propósito con la acción."
+    ],
+    "content_hash": "ba5e14bde41ef4e0e275b86719a98a46be6edf70"
+  },
+  {
+    "id": "word:个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dcd190e7ddec1a4d6f6f25eae970bf78d9017905"
+  },
+  {
+    "id": "word:后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3dc45bdac8a8b02b702a39c1219c2c4264575224"
+  },
+  {
+    "id": "word:但",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d1a3dc7e9548f1bee5daa939d00051edc083dc4"
+  },
+  {
+    "id": "word:并",
+    "ok": true,
+    "issues": [],
+    "content_hash": "132d4a4b900e2fdd88a58d582c9eff74db282685"
+  },
+  {
+    "id": "word:将",
+    "ok": false,
+    "issues": [
+      "El significado «ser» es incorrecto; 将 marca futuro («ir a», o el futuro verbal: «-rá»), no equivale a «ser»."
+    ],
+    "content_hash": "2bf33353f0387b723a90a0a1da6d79cb184aa0b4"
+  },
+  {
+    "id": "word:一",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c58f5ca55d72f1d05d00afc46348e29b29d2bd65"
+  }
+]

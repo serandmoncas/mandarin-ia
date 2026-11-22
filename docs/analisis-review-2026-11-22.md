@@ -71,3 +71,19 @@ había marcado. Quedan ~254 issues que no son de pinyin (naturalidad, traducció
   Arreglo propuesto: después de validar, usar las lecturas de palabras de CC-CEDICT presentes en la frase
   (segmentadas con jieba) para fijar los tonos neutros (对不起 = dui4 bu5 qi3, 妈妈 = ma1 ma5). Es
   determinista y también corrige el fallback de pypinyin.
+
+### Tonos neutros por palabra CC-CEDICT (2026-11-22)
+
+Después de validar la propuesta (o de usar pypinyin), las palabras de CC-CEDICT presentes en la frase fijan
+los tonos neutros (对不起 «duì bu qǐ», 喜欢 «xǐ huan», 衣服 «yī fu»). Solo cambia una sílaba si todas las
+lecturas CEDICT de la palabra la dan en tono 5 y la base coincide.
+
+- La palabra debe respetar la segmentación de jieba: primero tramos de tokens completos (找/不到 → 找不到) y,
+  dentro de un token, coincidencia desde la derecha (做作业 → 做 + 作业). La primera versión, de izquierda a
+  derecha, cruzaba palabras (这不|是, 做作|业) y bajó las visibles a 2191; se corrigió antes de publicar.
+- No sirven de fuente 大人, 那是, 这不, 可不 ni 在那儿: su lectura neutra en CEDICT es de un sentido raro.
+- La re-revisión de ~1500 entradas cambiadas destapó errores antiguos (东西, 告诉, 地方, 长); una vuelta
+  `pinyin` más los corrigió.
+
+Resultado: **2284 palabras visibles (91,4 %)**, 184 frases; los 28 ejemplos con 对不起/找不到 dicen «bu».
+Quedan 270 issues en palabras, 36 de pinyin.

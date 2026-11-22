@@ -1,0 +1,135 @@
+[
+  {
+    "id": "word:难题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9846d554e2fbeb9e35e279a93efecdea0d2921d9"
+  },
+  {
+    "id": "word:停车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07fe3ba63b5a6d9be6041eb584d32b147fcf199d"
+  },
+  {
+    "id": "word:气温",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a981f86a69229e272e3bc5a5f1b99112a5373235"
+  },
+  {
+    "id": "word:听讲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc8e22216ae7d59afb22f78b5ff6cf68c999a708"
+  },
+  {
+    "id": "word:办理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa8dff5b4b518a7823a14d757dab7317490b140f"
+  },
+  {
+    "id": "word:黑板",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e46fd83cb61c6caf82a0250dade2ce9f6b69082"
+  },
+  {
+    "id": "word:站住",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a11375181f2ac79f108fba082ed23213d7a34fc7"
+  },
+  {
+    "id": "word:铁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "320a0a7b6148021a7d8f6197531a2fd8f1a7f806"
+  },
+  {
+    "id": "word:代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f59429db676edad4dd45d58abc24bf75f452c17"
+  },
+  {
+    "id": "word:人工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2695ff9044ac9a6fb49d0670d86392df08f357b"
+  },
+  {
+    "id": "word:退",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e7ce218ae564319f7052548fa92138ba78465b4"
+  },
+  {
+    "id": "word:公务员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "198fb32545ba3a0f20b7a8c8333b24dd790b41ab"
+  },
+  {
+    "id": "word:中部",
+    "ok": false,
+    "issues": [
+      "«我家在城市中部» suena poco natural; para «en el centro de la ciudad» se dice 我家在市中心."
+    ],
+    "content_hash": "65ef09864c3e7f23af9f8e9e854eff979b31da82"
+  },
+  {
+    "id": "word:石头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c5d64bf7f50672752d4b9ea613a2555070e825d"
+  },
+  {
+    "id": "word:防",
+    "ok": false,
+    "issues": [
+      "«带上伞，防下雨» es poco natural; lo habitual es «带上伞，以防下雨».",
+      "«防别人拿走» es forzado; sería más natural «以防被别人拿走» o «免得被别人拿走»."
+    ],
+    "content_hash": "f73c78c867ea90865ef0b1b47215d533aa495f3a"
+  },
+  {
+    "id": "word:坚强",
+    "ok": true,
+    "issues": [],
+    "content_hash": "71e849d1e1ad5a36c03de9ce9c0ed140bd41d2e4"
+  },
+  {
+    "id": "word:代表团",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6f253506a56df0b8c15511b5700bad010959bec"
+  },
+  {
+    "id": "word:志愿者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e5e7f44805d6c2ee1ff3e3da1aefd9e27559aa9"
+  },
+  {
+    "id": "word:跑步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "92a8d37453ea41a7d29be9a29f48da9570e1b8c0"
+  },
+  {
+    "id": "word:交警",
+    "ok": true,
+    "issues": [],
+    "content_hash": "28e8cd5a31a8472570108bc3c25f10c639350fb5"
+  },
+  {
+    "id": "word:做客",
+    "ok": false,
+    "issues": [
+      "La traducción «¡Bienvenido a visitarnos en casa!» es un calco poco natural en español; mejor «¡Ven a visitarnos a casa cuando quieras!» o «¡Eres bienvenido en mi casa!»."
+    ],
+    "content_hash": "a76ed9eff12722fa2155072a327c952a361f233b"
+  }
+]

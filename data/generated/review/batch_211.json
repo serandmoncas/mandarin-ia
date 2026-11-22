@@ -1,0 +1,155 @@
+[
+  {
+    "id": "word:找到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "65985461b897add5a6067dd52800b06869a4fef1"
+  },
+  {
+    "id": "word:因此",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b569b32cb1b432663beb24ac0c9808ad67c21b50"
+  },
+  {
+    "id": "word:电视",
+    "ok": true,
+    "issues": [],
+    "content_hash": "487f41c630aa5c1fdf8560feeee4633e8266600b"
+  },
+  {
+    "id": "word:游戏",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c7562eaf84054bf93a177c5e7a614bedc556f7c"
+  },
+  {
+    "id": "word:妈妈",
+    "ok": true,
+    "issues": [],
+    "content_hash": "47a4dea3484659ece2c68fdcac6a388f07c65918"
+  },
+  {
+    "id": "word:如",
+    "ok": false,
+    "issues": [
+      "En «如有问题，请问老师» se lee 请问 como la fórmula fija «disculpe, ¿puedo preguntar...?», así que la frase queda ambigua y poco natural. Sería mejor «如有问题，请问老师。» → «如有问题，请向老师提问。» o «如有问题，可以问老师。»",
+      "En «我喜欢吃水果，如苹果。» usar 如 con un solo ejemplo en una frase coloquial suena forzado; es más natural «比如苹果» o dar varios ejemplos (如苹果、香蕉)."
+    ],
+    "content_hash": "be69d9ba4b8c5cbb3c14c795ec3d892bc6c03801"
+  },
+  {
+    "id": "word:女儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57e92b2e3101ea9addf54fe42e606772a6bc234f"
+  },
+  {
+    "id": "word:汽车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2571a25543d0e5d0c8d518bfcc5c26b80b2a213d"
+  },
+  {
+    "id": "word:而且",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a705a6648dadef306fbbc585df7567bea4c66bb9"
+  },
+  {
+    "id": "word:回来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e883db7d4ef8238e6774968844edb81185c5a9ca"
+  },
+  {
+    "id": "word:男",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb3163f77ae9dd2ae699e37c6653887370dbc0c5"
+  },
+  {
+    "id": "word:跑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "048d1fbec942030128051892a811e41383bb0c99"
+  },
+  {
+    "id": "word:人们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f38d58c0b0e2a1b489a2c1f4562af7c780e5392"
+  },
+  {
+    "id": "word:名字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "240045ff005294e3bc137092f5b4379d958ed5b4"
+  },
+  {
+    "id": "word:少",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa9b071b34ccfd3f6564c4cbab435fdf52848a69"
+  },
+  {
+    "id": "word:支持",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b6caadeae0e0ea4c0a9b473f0f62e3c0f3a993e"
+  },
+  {
+    "id": "word:中心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c69bf95bb6889620057393aa9d43798f5f580c0f"
+  },
+  {
+    "id": "word:放",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c77ab9a5166ea89a4e1219c51a1595522542e7c5"
+  },
+  {
+    "id": "word:门",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f76c3437b380baa6449077cdc930d386e6999fca"
+  },
+  {
+    "id": "word:城市",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14981e54af84cbe8ee62cb303ab5673f57822697"
+  },
+  {
+    "id": "word:穿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6cb75d0334f4187b6cc8486d7e435a6c286fed79"
+  },
+  {
+    "id": "word:区",
+    "ok": true,
+    "issues": [],
+    "content_hash": "663f94b4299e963d3807a77c2bd3156d652d2c8d"
+  },
+  {
+    "id": "word:笑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da8a22535dcd51519edb9cbb5ef9cd05fef3a930"
+  },
+  {
+    "id": "word:市场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5acca3661b3856c409988fec2ae1c07502c5978d"
+  },
+  {
+    "id": "word:难",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8195f26b36f8519d08a6cbddb1949d8b5e96050a"
+  }
+]

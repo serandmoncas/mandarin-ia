@@ -1,0 +1,158 @@
+[
+  {
+    "id": "word:一直",
+    "ok": true,
+    "issues": [],
+    "content_hash": "678be14082f957840843cc25be6e9690019240ca"
+  },
+  {
+    "id": "word:四",
+    "ok": false,
+    "issues": [
+      "La traducción de «我们四个人一起去北京看朋友» pone el verbo en pasado («fuimos»), pero la frase no lleva 了 y un nativo la leería como un plan («vamos a ir»). Conviene traducir «Los cuatro vamos a ir juntos a Pekín a visitar a unos amigos» o añadir 了 a la frase china."
+    ],
+    "content_hash": "f869af32c5eed10b7c9547619316f83213ebe9f8"
+  },
+  {
+    "id": "word:约",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9bce7efb8b21b8c2aaac19bd5eae910bb393aad9"
+  },
+  {
+    "id": "word:者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69890337e0aab153c556749f481b3961d820d117"
+  },
+  {
+    "id": "word:知识",
+    "ok": false,
+    "issues": [
+      "El pinyin del tercer ejemplo es «zhī shí» y el resto del elemento usa «zhī shi» (zhi1 shi5). Hay que unificarlo en «zhī shi»."
+    ],
+    "content_hash": "02412a0ede402809e365eb5da9f6bee1b8ca13b4"
+  },
+  {
+    "id": "word:帮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c11d57cdb150484cc0de409794e684402bc3fa0"
+  },
+  {
+    "id": "word:么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e3e3e5afb9b236657a4ba1b5baba955d2e80d44"
+  },
+  {
+    "id": "word:东",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca88ec1a044bb3b043ae00ba046ca04e73a55bc1"
+  },
+  {
+    "id": "word:动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "605d0f8fce4e941355043fd61ff4f391a9ba0558"
+  },
+  {
+    "id": "word:机场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "124b0ea5e413427f0a2830e6be52387350c38e05"
+  },
+  {
+    "id": "word:看见",
+    "ok": false,
+    "issues": [
+      "En el cuarto ejemplo, el pinyin de 妈妈 es «mā mā»; debe ser «mā ma», con la segunda sílaba en tono neutro."
+    ],
+    "content_hash": "44c7d1c6fbf14238e5fc84c5198226368f0f1005"
+  },
+  {
+    "id": "word:特别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3108f5a540dac4df2f2666b1f3a0129954dc4df6"
+  },
+  {
+    "id": "word:字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0dbba81f1404565e8242ae24b1b7e61eb8f0e143"
+  },
+  {
+    "id": "word:最好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5cbd0fb6ce87a7c1652d5f1b82e042b3c866bcee"
+  },
+  {
+    "id": "word:许多",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d76f0e3ae59477e417f62bc21748547198c12b2"
+  },
+  {
+    "id": "word:花",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ddfe17b442aedf0cf4179bce59acf91dd5d7c088"
+  },
+  {
+    "id": "word:之后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ecf92c166c3e68e8a04e46d8539d15229d59b72"
+  },
+  {
+    "id": "word:身体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f6522ebf6e8195d070b2c08f2ddcaacb5cc29649"
+  },
+  {
+    "id": "word:对于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2d0d422b80da23f3790e19850616e5f4134c8e1"
+  },
+  {
+    "id": "word:谢谢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "95bc4b87cfbce813d585181c70e856bb6f56e4ea"
+  },
+  {
+    "id": "word:获得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a55ac8cc3119df2b70d2a907e8c83d99926b3948"
+  },
+  {
+    "id": "word:早",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b762894fe701dd9458cf356af16b35d69ed99cbc"
+  },
+  {
+    "id": "word:方式",
+    "ok": true,
+    "issues": [],
+    "content_hash": "82297cd59e9b78875818be475d8946e3db8103bc"
+  },
+  {
+    "id": "word:子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9a22c9ae1976b94aa387e2cf0e6b9ddb8061ad5"
+  },
+  {
+    "id": "word:目前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "654ce8e6ded0a7c3cdfdcf075f138c417d50ff79"
+  }
+]

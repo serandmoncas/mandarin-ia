@@ -1,0 +1,65 @@
+[
+  {
+    "word": "千万",
+    "examples": [
+      {
+        "zh": "你千万别忘了。",
+        "pinyin": "ni3 qian1 wan4 bie2 wang4 le5"
+      },
+      {
+        "zh": "千万要小心！",
+        "pinyin": "qian1 wan4 yao4 xiao3 xin1"
+      },
+      {
+        "zh": "这个城市有一千万人。",
+        "pinyin": "zhe4 ge5 cheng2 shi4 you3 yi1 qian1 wan4 ren2"
+      },
+      {
+        "zh": "下雨天开车千万要慢，路上很不安全。",
+        "pinyin": "xia4 yu3 tian1 kai1 che1 qian1 wan4 yao4 man4 lu4 shang5 hen3 bu4 an1 quan2"
+      }
+    ]
+  },
+  {
+    "word": "将近",
+    "examples": [
+      {
+        "zh": "将近十点了。",
+        "pinyin": "jiang1 jin4 shi2 dian3 le5"
+      },
+      {
+        "zh": "他等了将近一个小时。",
+        "pinyin": "ta1 deng3 le5 jiang1 jin4 yi1 ge4 xiao3 shi2"
+      },
+      {
+        "zh": "这个城市有将近一千万人。",
+        "pinyin": "zhe4 ge5 cheng2 shi4 you3 jiang1 jin4 yi1 qian1 wan4 ren2"
+      },
+      {
+        "zh": "我在北京住了将近五年，已经很习惯了。",
+        "pinyin": "wo3 zai4 bei3 jing1 zhu4 le5 jiang1 jin4 wu3 nian2 yi3 jing1 hen3 xi2 guan4 le5"
+      }
+    ]
+  },
+  {
+    "word": "初一",
+    "examples": [
+      {
+        "zh": "今天是初一。",
+        "pinyin": "jin1 tian1 shi4 chu1 yi1"
+      },
+      {
+        "zh": "我妹妹今年上初一。",
+        "pinyin": "wo3 mei4 mei5 jin1 nian2 shang4 chu1 yi1"
+      },
+      {
+        "zh": "大年初一，我们一家人去看爷爷奶奶。",
+        "pinyin": "da4 nian2 chu1 yi1 wo3 men5 yi1 jia1 ren2 qu4 kan4 ye2 ye5 nai3 nai5"
+      },
+      {
+        "zh": "他初一的时候还很小，现在已经是大学生了。",
+        "pinyin": "ta1 chu1 yi1 de5 shi2 hou5 hai2 hen3 xiao3 xian4 zai4 yi3 jing1 shi4 da4 xue2 sheng1 le5"
+      }
+    ]
+  }
+]

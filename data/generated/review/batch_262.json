@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:试题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1db56b8cc534cbbba0b9e9cf313b0fa0472aeb2e"
+  },
+  {
+    "id": "word:长处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "483e5ccbcf23e5cca3aad1004bc18d9bedde8421"
+  },
+  {
+    "id": "word:交费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "19229622189d135411e3eb725b884cbf1cd01e0c"
+  },
+  {
+    "id": "word:奶茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2afb34ae76b962d2ae383ab1ebafaab5aa688ed"
+  },
+  {
+    "id": "word:暖和",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02d1e8116a1a7b032e91ee8fbd1259aff6153065"
+  },
+  {
+    "id": "word:衬衣",
+    "ok": true,
+    "issues": [],
+    "content_hash": "55db2c2f1bed944cf743e0e46b06c36989083905"
+  },
+  {
+    "id": "word:绿茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e7f98b7bc33cb2cd924fcae06111b3ee9846eee4"
+  },
+  {
+    "id": "word:做客",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «¡Bienvenido a visitarnos en casa!» es poco natural en español y no refleja bien 欢迎来我家做客 («mi casa»). Mejor: «¡Ven a visitarnos a mi casa cuando quieras!» o «¡Estás invitado a mi casa!»."
+    ],
+    "content_hash": "9a48de34f3e8c3290bd238550b75ce691170d865"
+  },
+  {
+    "id": "word:白菜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5caa34bc6f2138791909c6a443b98ad67f060dd7"
+  },
+  {
+    "id": "word:红茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a26f656918abfba33e7e6bb883f20a5eaee47386"
+  },
+  {
+    "id": "word:理发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3cdfb5dfd95c3e4239a46f348271fbcace5256bf"
+  },
+  {
+    "id": "word:连忙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "54b2eb93e1376dd057cbbe47074b147039fe7c98"
+  },
+  {
+    "id": "word:书架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "094ed095d6eea774a703f2407a21996b94eadfee"
+  },
+  {
+    "id": "word:皮包",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ac71efee7a1311d5af092c2d4b86875f7626cb1"
+  },
+  {
+    "id": "word:短处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6143c363269c579c18b9b39c20865f5aa476e762"
+  },
+  {
+    "id": "word:凉水",
+    "ok": true,
+    "issues": [],
+    "content_hash": "892550a45a06246019c3d4d3a1cd30e0e3c5f546"
+  },
+  {
+    "id": "word:衣架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6040055985643d0cdb922928659438184a514a8e"
+  },
+  {
+    "id": "word:预习",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 预习生词 se traduce como «repasar el vocabulario nuevo», pero «repasar» significa revisar lo ya visto (eso es 复习). 预习 es estudiar con anticipación. Mejor: «preparar» o «estudiar de antemano el vocabulario nuevo»."
+    ],
+    "content_hash": "f9db838a5391db75204864cff26d26cf07ccc6cc"
+  },
+  {
+    "id": "word:老头儿",
+    "ok": false,
+    "issues": [
+      "Falta advertir el registro: 老头儿 es coloquial y puede sonar poco respetuoso. No equivale siempre al cariñoso «viejito».",
+      "Ejemplo 1: 那个老头儿是我爷爷 suena irrespetuoso o extraño para referirse al propio abuelo. Sería más natural 那位老人是我爷爷 o cambiar el ejemplo."
+    ],
+    "content_hash": "00d8cdf211b90ea4bf40b3849ffb057f836f19d4"
+  },
+  {
+    "id": "phrase:introductions:002",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0504cd040d5f80967fcde4a99ea4575882aea23"
+  },
+  {
+    "id": "phrase:introductions:004",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97dd687127d5a80ce66bd69cec2055883143dbce"
+  },
+  {
+    "id": "phrase:introductions:005",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f03b100e8c806823501135f8756e3b9e1f837d3f"
+  },
+  {
+    "id": "phrase:introductions:019",
+    "ok": true,
+    "issues": [],
+    "content_hash": "48dbf8d52d3ddd839bb14d3d67ea198d23dd881e"
+  },
+  {
+    "id": "phrase:introductions:023",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b4b6e97cf995300a384b68d754caa12c00b0fb15"
+  },
+  {
+    "id": "phrase:introductions:024",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d742a0148c0c382d01c9817226310696f4823df6"
+  }
+]
