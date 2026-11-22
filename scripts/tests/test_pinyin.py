@@ -35,7 +35,7 @@ def test_syllables_for_mismatch_returns_none():
 
 
 def test_sentence_pinyin_leaves_punctuation_without_syllable():
-    text, syl = sentence_pinyin("你好，我是Sergio。")
+    text, syl, _ = sentence_pinyin("你好，我是Sergio。")
     assert [s.hanzi for s in syl[:2]] == ["你", "好"]
     assert text.startswith("nǐ hǎo")
     assert all(s.hanzi not in "，。" for s in syl)

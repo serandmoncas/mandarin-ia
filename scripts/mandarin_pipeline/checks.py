@@ -14,8 +14,9 @@ from mandarin_pipeline.models import (
     Status,
     Syllable,
     WordContent,
+    WordPinyin,
 )
-from mandarin_pipeline.pinyin import _is_han, sentence_pinyin, syllables_for
+from mandarin_pipeline.pinyin import _is_han, char_readings, sentence_pinyin, syllables_for
 
 MAX_HAN = 20
 MIN_EXAMPLES = 2
@@ -52,7 +53,14 @@ def known_before_ratio(zh: str, target: str, known: set[str]) -> float:
     return hits / total if total else 0.0
 
 
-def check_word(content: WordContent, entries: list[CedictEntry], known: set[str]) -> CheckedWord:
+def check_word(
+    content: WordContent,
+    entries: list[CedictEntry],
+    known: set[str],
+    proposals: dict[str, str] | None = None,
+    readings: dict[str, set[str]] | None = None,
+) -> CheckedWord:
+    """`proposals` maps an example's zh to proposed numbered pinyin, validated with `readings`."""
     flags: list[str] = []
     idx = content.cedict_reading_index
     reading = entries[idx] if idx < len(entries) else None
@@ -75,7 +83,11 @@ def check_word(content: WordContent, entries: list[CedictEntry], known: set[str]
         if ex.zh in seen_zh:
             continue
         seen_zh.add(ex.zh)
-        pinyin_text, syllables = sentence_pinyin(ex.zh)
+        pinyin_text, syllables, fell_back = sentence_pinyin(
+            ex.zh, (proposals or {}).get(ex.zh), readings
+        )
+        if fell_back and "pinyin_fallback" not in flags:
+            flags.append("pinyin_fallback")
         examples.append(
             Example(
                 zh=ex.zh,
@@ -114,7 +126,7 @@ def check_phrase(content: PhraseContent) -> tuple[str, list[Syllable], list[str]
         flags.append("empty_translation")
     if _han_count(content.zh) > MAX_HAN:
         flags.append("too_long")
-    pinyin_text, syllables = sentence_pinyin(content.zh)
+    pinyin_text, syllables, _ = sentence_pinyin(content.zh)
     return pinyin_text, syllables, flags
 
 
@@ -199,17 +211,32 @@ def review_items_from(
     return items
 
 
+def _load_pinyin_proposals(path: Path) -> dict[str, dict[str, str]]:
+    """word -> {zh: numbered pinyin} from the pinyin batches; later batches win per word."""
+    if not path.is_dir():
+        return {}
+    proposals: dict[str, dict[str, str]] = {}
+    for raw in _load_dir(path):
+        wp = WordPinyin.model_validate(raw)
+        proposals[wp.word] = {e.zh: e.pinyin for e in wp.examples}
+    return proposals
+
+
 def load_checked_words(
     gen_dir: Path, cedict: dict[str, list[CedictEntry]], order: dict[str, int]
 ) -> dict[str, CheckedWord]:
     """Run check_word over every generated word, with the words learned before it as known."""
     by_order = sorted(order.items(), key=lambda kv: kv[1])
+    readings = char_readings(cedict)
+    proposals = _load_pinyin_proposals(Path(gen_dir) / "pinyin")
     words: dict[str, CheckedWord] = {}
     for raw in _load_dir(Path(gen_dir) / "words"):
         content = WordContent.model_validate(raw)
         before = order.get(content.word, 0)
         known = {w for w, o in by_order if o < before}
-        words[content.word] = check_word(content, cedict.get(content.word, []), known)
+        words[content.word] = check_word(
+            content, cedict.get(content.word, []), known, proposals.get(content.word), readings
+        )
     return words
 
 

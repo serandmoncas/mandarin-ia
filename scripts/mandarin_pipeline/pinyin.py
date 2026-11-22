@@ -61,15 +61,33 @@ def syllables_for(hanzi: str, numbered: str) -> list[Syllable] | None:
     return out
 
 
-def sentence_pinyin(zh: str) -> tuple[str, list[Syllable]]:
-    """Citation-tone pinyin of a sentence via pypinyin; punctuation/latin get no syllable."""
+def _pypinyin_syllables(zh: str) -> list[Syllable]:
+    """Citation-tone syllables via pypinyin; punctuation/latin get no syllable."""
     items = pinyin(zh, style=Style.TONE3, neutral_tone_with_five=True, errors=lambda _s: [])
     han = [ch for ch in zh if _is_han(ch)]
     syllables = []
     for ch, item in zip(han, items):
         base, tone = _split_tone(item[0])
         syllables.append(Syllable(hanzi=ch, pinyin=_mark(base, tone), tone=tone))
-    return " ".join(s.pinyin for s in syllables), syllables
+    return syllables
+
+
+def sentence_pinyin(
+    zh: str, proposed: str | None = None, readings: dict[str, set[str]] | None = None
+) -> tuple[str, list[Syllable], bool]:
+    """Pinyin of a sentence with 一/不 sandhi applied.
+
+    Uses the proposed numbered pinyin when it validates against `readings`; otherwise pypinyin.
+    The bool is True when a proposal existed but failed validation.
+    """
+    from mandarin_pipeline.sandhi import apply_yi_bu_sandhi  # sandhi imports _mark from here
+
+    syllables = validate_numbered(zh, proposed, readings or {}) if proposed else None
+    fell_back = bool(proposed) and syllables is None
+    if syllables is None:
+        syllables = _pypinyin_syllables(zh)
+    syllables = apply_yi_bu_sandhi(syllables)
+    return " ".join(s.pinyin for s in syllables), syllables, fell_back
 
 
 def _normalize(syl: str) -> str:

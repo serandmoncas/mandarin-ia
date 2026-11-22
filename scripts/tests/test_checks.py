@@ -5,7 +5,9 @@ from mandarin_pipeline.checks import (
     check_phrase,
     check_word,
     known_before_ratio,
+    review_items_from,
 )
+from mandarin_pipeline.pinyin import sentence_pinyin
 from mandarin_pipeline.models import (
     CharContent,
     Component,
@@ -150,3 +152,49 @@ def test_dedupes_meanings_and_examples():
     )
     assert r.content.meanings_es == ["bien", "bueno"]
     assert [e.zh for e in r.examples] == ["我好", "他好"]
+
+
+MAMA = [CedictEntry("媽媽", "妈妈", "ma1 ma5", ["mom"])]
+MAMA_EXAMPLES = [
+    GeneratedExample(zh=z, es="x") for z in ("我的妈妈", "她是妈妈", "妈妈是她", "我是妈妈")
+]
+MAMA_READINGS = {"妈": {"ma"}, "我": {"wo"}, "的": {"de"}, "她": {"ta"}, "是": {"shi"}}
+
+
+def test_check_word_uses_valid_proposal():
+    proposals = {"我的妈妈": "wo3 de5 ma1 ma5"}
+    r = check_word(word("妈妈", examples=MAMA_EXAMPLES), MAMA, set(), proposals, MAMA_READINGS)
+    assert r.examples[0].pinyin == "wǒ de mā ma"
+    assert "pinyin_fallback" not in r.flags
+    assert r.flags == []
+
+
+def test_check_word_flags_invalid_proposal():
+    proposals = {"我的妈妈": "xx3 de5 ma1 ma5"}
+    r = check_word(word("妈妈", examples=MAMA_EXAMPLES), MAMA, set(), proposals, MAMA_READINGS)
+    assert r.examples[0].pinyin == "wǒ de mā mā"
+    assert r.flags.count("pinyin_fallback") == 1
+
+
+def test_check_word_ignores_proposal_for_other_sentence():
+    proposals = {"完全不同": "xx3"}
+    r = check_word(word("妈妈", examples=MAMA_EXAMPLES), MAMA, set(), proposals, MAMA_READINGS)
+    assert "pinyin_fallback" not in r.flags
+
+
+def test_sentence_pinyin_applies_sandhi():
+    text, syllables, fallback = sentence_pinyin("不是")
+    assert text == "bú shì"
+    assert syllables[0].tone == 2
+    assert fallback is False
+
+
+def test_review_hash_changes_with_new_pinyin():
+    before = check_word(word("妈妈", examples=MAMA_EXAMPLES), MAMA, set())
+    after = check_word(
+        word("妈妈", examples=MAMA_EXAMPLES), MAMA, set(),
+        {"我的妈妈": "wo3 de5 ma1 ma5"}, MAMA_READINGS,
+    )
+    h = lambda w: review_items_from({"妈妈": w}, [], [])[0]["content_hash"]
+    assert before.examples[0].pinyin != after.examples[0].pinyin
+    assert h(before) != h(after)
