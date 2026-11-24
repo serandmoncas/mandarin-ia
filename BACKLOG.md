@@ -24,7 +24,7 @@ Diseño: `docs/superpowers/specs/2026-10-29-mandarin-ia-design.md` · Plan Fase 
    - [x] Tonos neutros por palabra CEDICT (2026-11-22): **2284 palabras visibles (91,4 %)**; 对不起/找不到 ya dicen «bu». Ver el análisis.
    - [ ] Antes de una tercera pasada `pinyin`: guardar en cada lote el hash de revisión que respondió, para que no vuelva a pedir palabras ya resueltas (hoy re-pide ~10).
    - [ ] Menores diferidos de la revisión final: una palabra con `pinyin_fallback` nunca vuelve a ser objetivo; el erhua no se une en el camino de pypinyin; 儿 y el sandhi cruzan la puntuación; el orden de lotes falla después de `batch_999`; import local de `sandhi` en `sentence_pinyin` (ciclo por `_mark`); `_pinyin` repite la carga de CEDICT de `_review`.
-4. [ ] Revisar 20 palabras al azar con Sergio.
+4. [x] Revisar 20 palabras al azar con Sergio (2026-11-24): las 20 bien en español (semilla 20261122; chino y pinyin revisados por Claude).
 5. [ ] Audio completo: `audio` (~16 h a ≤18 clips/min, reanudable) → `build` → commit con `data/audio-manifest.json`.
 6. [ ] Tarea 11: despliegue en Vercel Hobby — **solo con aprobación de Sergio**; requiere `NEXT_PUBLIC_AUDIO_BASE_URL` en build.
 7. [ ] Integrar la rama: PR #1 abierto el 2026-11-22; mergear cuando Sergio lo apruebe.
