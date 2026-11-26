@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:资金",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 的 se lee «de», no «dì»."
+    ],
+    "content_hash": "b5ccd9bbc01e66e807cba92410ea6df0c3ca905f"
+  },
+  {
+    "id": "word:人数",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9456faac560ccc7f75575b1602897edf4ef6f470"
+  },
+  {
+    "id": "word:协议",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b06d166dad1615071842223b90085b0b93774f95"
+  },
+  {
+    "id": "word:倒",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 1, 3 y 4: 倒 en el sentido de «caerse» o «quebrar» es «dǎo», no «dào».",
+      "Pinyin del ejemplo 2: 得 se lee «de», no «dé»."
+    ],
+    "content_hash": "905ceadd3c45d072fcf23cda367f93efd331fa84"
+  },
+  {
+    "id": "word:即使",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b08b87930790fd3bd55fd3a90d4fbc0662466752"
+  },
+  {
+    "id": "word:在于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "32239bd212ca33cf1abcbe1c5bfb2a68883e9bfd"
+  },
+  {
+    "id": "word:广告",
+    "ok": true,
+    "issues": [],
+    "content_hash": "482095646bde38707c8e9eb3124f20327abbcc89"
+  },
+  {
+    "id": "word:总理",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: en chino el jefe de gobierno de Japón se llama 首相, no 总理. «日本总理» es poco natural y engaña al estudiante; conviene usar otro país, como 印度总理 o 加拿大总理."
+    ],
+    "content_hash": "60ee6fa2f4b23442f7ee04e5df5833d7e65e0db3"
+  },
+  {
+    "id": "word:检查",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 都 se lee «dōu», no «dū»."
+    ],
+    "content_hash": "e49bea714e678ef3c4e993ed975198806e5764cf"
+  },
+  {
+    "id": "word:无论",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 1 y 4: 都 se lee «dōu», no «dū».",
+      "Pinyin del ejemplo 3: 哪儿 se lee «nǎr», no «nǎ ér»."
+    ],
+    "content_hash": "4f8b874851e70a6f9d65315d94fc5bf0e1385106"
+  },
+  {
+    "id": "word:数",
+    "ok": false,
+    "issues": [
+      "Pinyin de los cuatro ejemplos: 数 como verbo («contar» o «considerarse») se lee «shǔ», no «shù». Debe quedar shǔ dào, shǔ yi shǔ, shǔ le, shǔ dì yī."
+    ],
+    "content_hash": "1b0a363bcf6a1e6d15b8fc259857f2fade04d055"
+  },
+  {
+    "id": "word:限制",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f8ad5b2f0654d412b963b50dbbff23072b100f4a"
+  },
+  {
+    "id": "word:数字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7be7ae6bd33da4bcbb417a769d0205f4a747e411"
+  },
+  {
+    "id": "word:部长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e0f2a30fffed3969986d839f51e168c26dfe547e"
+  },
+  {
+    "id": "word:水平",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 都 se lee «dōu», no «dū»."
+    ],
+    "content_hash": "5053cc210279361bd9e0cc06d2b00a57ebc37869"
+  },
+  {
+    "id": "word:态度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c35e86f0b5bbc5409f7cb4b4c957d8ab3a7d547"
+  },
+  {
+    "id": "word:广场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1dccb0848410b00d7ca40161972768b179a6d056"
+  },
+  {
+    "id": "word:管",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5fc6ca1a932e8741bfdcc256d7b25bbe944bd22b"
+  },
+  {
+    "id": "word:求",
+    "ok": true,
+    "issues": [],
+    "content_hash": "59cebe4604a50b00cfa1da87380dc2360c5c9a54"
+  },
+  {
+    "id": "word:破坏",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f82144033ca4264cfd41db09219527899b33be61"
+  },
+  {
+    "id": "word:作家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4aa4f803277c49f265c77d08d765a8d95d871c7b"
+  },
+  {
+    "id": "word:办公室",
+    "ok": true,
+    "issues": [],
+    "content_hash": "128f167bda015f4cb60a0dee835e95d6e801c101"
+  },
+  {
+    "id": "word:突然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0c8f0396e2f79db70966d7b10c43a0c4bec92fd"
+  },
+  {
+    "id": "word:公里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad2aa42ad40bcbda51e7493f1e05f9cbee697ec3"
+  },
+  {
+    "id": "word:过来",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «过来我家» es coloquial y regional. La forma estándar es «你能到我家来吗？» o «你能来我家吗？».",
+      "El significado «arreglárselas» casi solo aparece como complemento potencial (忙不过来, 照顾得过来). Sin una aclaración ni un ejemplo, induce a error."
+    ],
+    "content_hash": "fb29e007b3eb598869df2326d193402f4742d207"
+  }
+]

@@ -1,0 +1,545 @@
+[
+  {
+    "word": "一个",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un, una",
+      "uno (cantidad)",
+      "todo (el/la), entero"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个好人。",
+        "es": "Él es una buena persona."
+      },
+      {
+        "zh": "我有一个中国朋友。",
+        "es": "Tengo un amigo chino."
+      },
+      {
+        "zh": "这是一个大问题。",
+        "es": "Este es un gran problema."
+      },
+      {
+        "zh": "我在家看了一个下午的书。",
+        "es": "Pasé toda la tarde leyendo en casa."
+      }
+    ]
+  },
+  {
+    "word": "上",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "arriba, encima, sobre",
+      "subir, subirse a",
+      "anterior, pasado",
+      "ir a (clases, trabajo)"
+    ],
+    "examples": [
+      {
+        "zh": "书在桌子上。",
+        "es": "El libro está sobre la mesa."
+      },
+      {
+        "zh": "我们上车吧。",
+        "es": "Subamos al auto."
+      },
+      {
+        "zh": "他上个月去了中国。",
+        "es": "Él fue a China el mes pasado."
+      },
+      {
+        "zh": "你明天也要上班吗？",
+        "es": "¿Tú también tienes que trabajar mañana?"
+      }
+    ]
+  },
+  {
+    "word": "说",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "decir",
+      "hablar",
+      "explicar",
+      "regañar"
+    ],
+    "examples": [
+      {
+        "zh": "你说什么？",
+        "es": "¿Qué dices?"
+      },
+      {
+        "zh": "他会说中文。",
+        "es": "Él sabe hablar chino."
+      },
+      {
+        "zh": "我对他说了这件事。",
+        "es": "Le conté esto a él."
+      },
+      {
+        "zh": "老师说我们明天不上课。",
+        "es": "El profesor dijo que mañana no tenemos clase."
+      }
+    ]
+  },
+  {
+    "word": "吗",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "partícula interrogativa (para preguntas de sí o no)"
+    ],
+    "examples": [
+      {
+        "zh": "你好吗？",
+        "es": "¿Cómo estás?"
+      },
+      {
+        "zh": "你是中国人吗？",
+        "es": "¿Eres chino?"
+      },
+      {
+        "zh": "你也在这里吗？",
+        "es": "¿Tú también estás aquí?"
+      },
+      {
+        "zh": "你和他都会说中文吗？",
+        "es": "¿Tú y él saben hablar chino?"
+      }
+    ]
+  },
+  {
+    "word": "我们",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nosotros, nosotras",
+      "nos"
+    ],
+    "examples": [
+      {
+        "zh": "我们是朋友。",
+        "es": "Somos amigos."
+      },
+      {
+        "zh": "我们都在家。",
+        "es": "Todos estamos en casa."
+      },
+      {
+        "zh": "他也和我们一起去。",
+        "es": "Él también va con nosotros."
+      },
+      {
+        "zh": "我们明年要去中国学中文。",
+        "es": "El próximo año vamos a ir a China a estudiar chino."
+      }
+    ]
+  },
+  {
+    "word": "到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llegar",
+      "hasta",
+      "ir a (un lugar)",
+      "lograr, conseguir (después de un verbo)"
+    ],
+    "examples": [
+      {
+        "zh": "我到了。",
+        "es": "Ya llegué."
+      },
+      {
+        "zh": "他明天到中国。",
+        "es": "Él llega a China mañana."
+      },
+      {
+        "zh": "我们等到十点吧。",
+        "es": "Esperemos hasta las diez."
+      },
+      {
+        "zh": "你找到你的书了吗？",
+        "es": "¿Encontraste tu libro?"
+      }
+    ]
+  },
+  {
+    "word": "会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "saber (hacer algo)",
+      "poder",
+      "ir a, ser probable que",
+      "reunión"
+    ],
+    "examples": [
+      {
+        "zh": "你会做饭吗？",
+        "es": "¿Sabes cocinar?"
+      },
+      {
+        "zh": "明天会下雨。",
+        "es": "Mañana va a llover."
+      },
+      {
+        "zh": "他不会来了。",
+        "es": "Él ya no va a venir."
+      },
+      {
+        "zh": "我们下午有一个会。",
+        "es": "Tenemos una reunión en la tarde."
+      }
+    ]
+  },
+  {
+    "word": "要",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "querer",
+      "necesitar",
+      "ir a, estar por",
+      "tener que, deber"
+    ],
+    "examples": [
+      {
+        "zh": "我要这个。",
+        "es": "Quiero este."
+      },
+      {
+        "zh": "你要喝水吗？",
+        "es": "¿Quieres tomar agua?"
+      },
+      {
+        "zh": "我们要走了。",
+        "es": "Ya nos tenemos que ir."
+      },
+      {
+        "zh": "你明天要早点来。",
+        "es": "Mañana tienes que venir más temprano."
+      }
+    ]
+  },
+  {
+    "word": "来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "venir",
+      "llegar",
+      "próximo, que viene",
+      "hacer (en lugar de otro verbo)"
+    ],
+    "examples": [
+      {
+        "zh": "你来了！",
+        "es": "¡Llegaste!"
+      },
+      {
+        "zh": "他明天来我家。",
+        "es": "Él viene a mi casa mañana."
+      },
+      {
+        "zh": "我来中国两年了。",
+        "es": "Hace dos años que vine a China."
+      },
+      {
+        "zh": "你来说吧，我不会说。",
+        "es": "Dilo tú, yo no sé cómo decirlo."
+      }
+    ]
+  },
+  {
+    "word": "月",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mes",
+      "luna",
+      "mensual"
+    ],
+    "examples": [
+      {
+        "zh": "今天是五月一号。",
+        "es": "Hoy es primero de mayo."
+      },
+      {
+        "zh": "这个月我很忙。",
+        "es": "Este mes estoy muy ocupado."
+      },
+      {
+        "zh": "今天晚上的月亮很大。",
+        "es": "Esta noche la luna está muy grande."
+      },
+      {
+        "zh": "我每个月都给家人打电话。",
+        "es": "Llamo a mi familia todos los meses."
+      }
+    ]
+  },
+  {
+    "word": "中国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "China"
+    ],
+    "examples": [
+      {
+        "zh": "我在中国。",
+        "es": "Estoy en China."
+      },
+      {
+        "zh": "他是中国人。",
+        "es": "Él es chino."
+      },
+      {
+        "zh": "你去过中国吗？",
+        "es": "¿Has ido a China?"
+      },
+      {
+        "zh": "中国有很多好吃的东西。",
+        "es": "En China hay muchas cosas ricas."
+      }
+    ]
+  },
+  {
+    "word": "被",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por (marca de voz pasiva)",
+      "cobija, edredón",
+      "sufrir (algo malo)"
+    ],
+    "examples": [
+      {
+        "zh": "我的手机被偷了。",
+        "es": "Me robaron el celular."
+      },
+      {
+        "zh": "我的书被他拿走了。",
+        "es": "Él se llevó mi libro."
+      },
+      {
+        "zh": "他被老师说了一顿。",
+        "es": "El profesor lo regañó."
+      },
+      {
+        "zh": "这件事被很多人知道了。",
+        "es": "Mucha gente se enteró de esto."
+      }
+    ]
+  },
+  {
+    "word": "他们",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ellos, ellas",
+      "los, las, les"
+    ],
+    "examples": [
+      {
+        "zh": "他们是我的朋友。",
+        "es": "Ellos son mis amigos."
+      },
+      {
+        "zh": "他们都不在家。",
+        "es": "Ninguno de ellos está en casa."
+      },
+      {
+        "zh": "我和他们一起吃饭。",
+        "es": "Como con ellos."
+      },
+      {
+        "zh": "他们明年也要来中国。",
+        "es": "Ellos también van a venir a China el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "还",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "todavía, aún",
+      "además, también",
+      "más",
+      "bastante (bien)"
+    ],
+    "examples": [
+      {
+        "zh": "他还在家。",
+        "es": "Él todavía está en casa."
+      },
+      {
+        "zh": "你还要什么？",
+        "es": "¿Qué más quieres?"
+      },
+      {
+        "zh": "这个还不错。",
+        "es": "Esto no está nada mal."
+      },
+      {
+        "zh": "我有中国朋友，还有日本朋友。",
+        "es": "Tengo amigos chinos y también amigos japoneses."
+      }
+    ]
+  },
+  {
+    "word": "没有",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no tener",
+      "no haber",
+      "no (para acciones pasadas)",
+      "no ser tan… como"
+    ],
+    "examples": [
+      {
+        "zh": "我没有钱。",
+        "es": "No tengo dinero."
+      },
+      {
+        "zh": "这里没有人。",
+        "es": "Aquí no hay nadie."
+      },
+      {
+        "zh": "他还没有来。",
+        "es": "Él todavía no ha llegado."
+      },
+      {
+        "zh": "我没有你那么高。",
+        "es": "No soy tan alto como tú."
+      }
+    ]
+  },
+  {
+    "word": "而",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "y (además)",
+      "pero, en cambio",
+      "sino (en 不是…而是)",
+      "para (indica propósito)"
+    ],
+    "examples": [
+      {
+        "zh": "这个好吃而且不贵。",
+        "es": "Esto es rico y además no es caro."
+      },
+      {
+        "zh": "他不是中国人，而是日本人。",
+        "es": "Él no es chino, sino japonés."
+      },
+      {
+        "zh": "我喜欢夏天，而他喜欢冬天。",
+        "es": "A mí me gusta el verano, en cambio a él le gusta el invierno."
+      },
+      {
+        "zh": "他为了学中文而来到中国。",
+        "es": "Él vino a China para estudiar chino."
+      }
+    ]
+  },
+  {
+    "word": "个",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "clasificador general (para contar cosas y personas)",
+      "individual"
+    ],
+    "examples": [
+      {
+        "zh": "这个人是谁？",
+        "es": "¿Quién es esta persona?"
+      },
+      {
+        "zh": "你要几个？",
+        "es": "¿Cuántos quieres?"
+      },
+      {
+        "zh": "我有两个中国朋友。",
+        "es": "Tengo dos amigos chinos."
+      },
+      {
+        "zh": "他们家有三个孩子。",
+        "es": "En su familia tienen tres hijos."
+      }
+    ]
+  },
+  {
+    "word": "可以",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "poder",
+      "tener permiso",
+      "estar bien, no estar mal"
+    ],
+    "examples": [
+      {
+        "zh": "我可以进来吗？",
+        "es": "¿Puedo pasar?"
+      },
+      {
+        "zh": "你可以坐这里。",
+        "es": "Puedes sentarte aquí."
+      },
+      {
+        "zh": "这个菜还可以。",
+        "es": "Esta comida está bastante bien."
+      },
+      {
+        "zh": "你明天可以和我们一起去吗？",
+        "es": "¿Puedes ir con nosotros mañana?"
+      }
+    ]
+  },
+  {
+    "word": "等",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "esperar",
+      "cuando, para cuando",
+      "etcétera",
+      "grado, clase"
+    ],
+    "examples": [
+      {
+        "zh": "等一下！",
+        "es": "¡Espera un momento!"
+      },
+      {
+        "zh": "我在这里等你。",
+        "es": "Te espero aquí."
+      },
+      {
+        "zh": "等他来了我们再吃饭。",
+        "es": "Comemos cuando él llegue."
+      },
+      {
+        "zh": "我会说中文、英文等语言。",
+        "es": "Hablo chino, inglés y otros idiomas."
+      }
+    ]
+  },
+  {
+    "word": "后",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "después, luego",
+      "detrás, atrás",
+      "posterior, último"
+    ],
+    "examples": [
+      {
+        "zh": "我在你后面。",
+        "es": "Estoy detrás de ti."
+      },
+      {
+        "zh": "下课后我们去吃饭吧。",
+        "es": "Vamos a comer después de clase."
+      },
+      {
+        "zh": "以后我也要去中国。",
+        "es": "Más adelante yo también quiero ir a China."
+      },
+      {
+        "zh": "他吃了饭以后就去上班了。",
+        "es": "Después de comer, se fue a trabajar."
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:团体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dcde8faee73a010f4dd2d37c0edae96852288706"
+  },
+  {
+    "id": "word:训练",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6268d388354a91c34d5b9c978fe9b51ea0cfac20"
+  },
+  {
+    "id": "word:多数",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9f7b201e3029fb19a782a559a0e454814f54e54"
+  },
+  {
+    "id": "word:脸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e22ae03b2e2f64589cfe1156da44ade960bfecd"
+  },
+  {
+    "id": "word:影片",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d266de6a35e6c34a4c8e404b2cf44101028dfa05"
+  },
+  {
+    "id": "word:制造",
+    "ok": true,
+    "issues": [],
+    "content_hash": "576290e9204b216f5c84a85fce2b730bec5e8845"
+  },
+  {
+    "id": "word:假",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 照片 se escribe «zhào piàn» en la norma estándar, no «zhào piān» (variante coloquial)."
+    ],
+    "content_hash": "26dd8093fb3bd62d6a8e0ec13ad63ea61b69fce8"
+  },
+  {
+    "id": "word:主任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b3f9ac386820ef593f6aad76eedf39aa22a79f8c"
+  },
+  {
+    "id": "word:作者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8c46e4e95e72fa3b35cc2b7e349c7609fdf5199"
+  },
+  {
+    "id": "word:改",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e26064c3dd54a7f634193dc445f5389b7d9ef27"
+  },
+  {
+    "id": "word:不了",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d85243b944748488385c8b8e10da8833e6a58b98"
+  },
+  {
+    "id": "word:换",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e1be77d54efad570aa3960731c7fef799a6008f"
+  },
+  {
+    "id": "word:中共",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cf49e434e1a6d2ba42ba8e534075d31402fc4fd1"
+  },
+  {
+    "id": "word:普通",
+    "ok": false,
+    "issues": [
+      "El ejemplo 3 usa 普通话 («chino mandarín»), que es otra palabra; no sirve para ilustrar 普通 y puede confundir al estudiante.",
+      "Pinyin del ejemplo 3: el complemento 得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "3260e72143bc0856244df092e80ffbfdcbc07994"
+  },
+  {
+    "id": "word:医疗",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: el complemento 得 en 发展得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "ada3f3d7a462f211a67d75f950f7a876d9bcee0e"
+  },
+  {
+    "id": "word:收入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20711b2dcf6ea349d90b5c528ea29db4b79c250f"
+  },
+  {
+    "id": "word:原则",
+    "ok": true,
+    "issues": [],
+    "content_hash": "590d0448d8eb80598e5e79d51c45cf2b8db39d6d"
+  },
+  {
+    "id": "word:同志",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed07c8c79e9988cc94a2b7ea38e3435d1fbffbae"
+  },
+  {
+    "id": "word:一部分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ae16a7f575be702c8439cd1379720b445302639b"
+  },
+  {
+    "id": "word:委员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b6fafa60437964206c1f7bc84f751c540c803d9"
+  },
+  {
+    "id": "word:怎么办",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b2cfda495d4a36824bd3a7acd80132756aef32a"
+  },
+  {
+    "id": "word:宗教",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0712d32e591be6c65b1dcc30e2111291fa02ccea"
+  },
+  {
+    "id": "word:离",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b18a7e5cfb35acca7e9100fdb13635d0f956e166"
+  },
+  {
+    "id": "word:意识",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f15ff96a8f82dfeacfa708ae42a61c06dd8176f"
+  },
+  {
+    "id": "word:漂亮",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: el complemento 得 en 写得 se lee «de» (tono neutro), no «dé».",
+      "Pinyin del ejemplo 4: 那儿 se escribe «nàr» (con erhua), no «nà ér»."
+    ],
+    "content_hash": "58794aee943455427216cd546446641d9c8b0233"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "word:作品",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca47d48a13312b2406b22340a1bea4f49f353e93"
+  },
+  {
+    "id": "word:车站",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2eacd150d7126fae93de29ae4db4534fa566cfb0"
+  },
+  {
+    "id": "word:杀",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b79576fd94cd973ad110ed9f429b5c05d4a854f"
+  },
+  {
+    "id": "word:男生",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 东西 aparece como 'dōng xī'. Con el sentido de 'cosas' es 'dōngxi', con tono neutro; 'dōngxī' significa 'este y oeste'."
+    ],
+    "content_hash": "acc3f37af46bcffb7f9adee40c0f63f3dfacea69"
+  },
+  {
+    "id": "word:第一",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a34cf77d5f1ebc1284aa25f7e074882955899d1c"
+  },
+  {
+    "id": "word:上学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4e5f67700c3f7871ccf36e2613d5840624eb8c0"
+  },
+  {
+    "id": "word:再见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "efe6be30714d53c122732e965ce1665910836231"
+  },
+  {
+    "id": "word:根本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10ee021b6b6675e1518b150a5fc3f478dc6b40ac"
+  },
+  {
+    "id": "word:水果",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 妈妈 aparece como 'mā mā'. El segundo carácter lleva tono neutro: 'mā ma'."
+    ],
+    "content_hash": "1aa86c3c34b0a6a8906e806fc89624c510adadf4"
+  },
+  {
+    "id": "word:结束",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1bd4ddadb7ecae07bd74064fd7e7525412f9955c"
+  },
+  {
+    "id": "word:奶奶",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos dice 'nǎi nǎi', lo que contradice la entrada (nai3 nai5). Debe ser 'nǎi nai'.",
+      "El significado 'señora (de la casa)' es arcaico o regional y puede confundir al estudiante. Conviene marcarlo como tal o eliminarlo."
+    ],
+    "content_hash": "47ef057486f5f24d4bb1c6f85f30a4044b999ea5"
+  },
+  {
+    "id": "word:具有",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 长 en 很长的历史 se lee 'cháng', no 'zhǎng'.",
+      "Ejemplo 2: la combinación natural es 具有悠久的历史; 很长的历史 suena poco idiomático.",
+      "Ejemplo 3: 具有很多新技术 es una colocación forzada. Lo natural es 采用了/拥有很多新技术."
+    ],
+    "content_hash": "695f0280d75da75593f98dff5e7812e4373ed750"
+  },
+  {
+    "id": "word:半年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f37537892d5399ac76c26a7e4bbee381b96cfb6e"
+  },
+  {
+    "id": "word:实现",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3433195ebf31bd06f7e02c11351068e71f85c45"
+  },
+  {
+    "id": "word:有用",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 得 como partícula de complemento (学得快) se lee 'de', no 'dé'.",
+      "Ejemplo 4: 告诉 aparece como 'gào sù'. La forma estándar es 'gào su', con tono neutro."
+    ],
+    "content_hash": "416299e741fcab75cfc179edd868ac3251e7c8e4"
+  },
+  {
+    "id": "word:中午",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 都 se lee 'dōu' en este contexto, no 'dū'."
+    ],
+    "content_hash": "441943639494bcbc445f6c99158d3a392766cda4"
+  },
+  {
+    "id": "word:怎样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e096c9ca697e081b290e606c6d3bd73d796ffe24"
+  },
+  {
+    "id": "word:干什么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb724d19a25f31e741fdf0e69c7e6d0c9814c328"
+  },
+  {
+    "id": "word:没关系",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos dice 'guān xì', lo que contradice la entrada (guan1 xi5). Debe ser 'guān xi'."
+    ],
+    "content_hash": "94906d09ea079b138542e9127a01b3601b3257f6"
+  },
+  {
+    "id": "word:据",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 得 en 卖得很好 se lee 'de', no 'dé'.",
+      "Ejemplo 2: 据新闻说 es aceptable, pero 据新闻报道 es la forma más natural."
+    ],
+    "content_hash": "fefc3eab29c92f9d687685aa91631c7614893638"
+  },
+  {
+    "id": "word:控制",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98e99c01e6faf8271a9ee2ae8a0e7c1ffb8add66"
+  },
+  {
+    "id": "word:面包",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 妈妈 aparece como 'mā mā'. Debe ser 'mā ma'."
+    ],
+    "content_hash": "57a4a63751f873c113b7dbaadc0076aabd41e9ae"
+  },
+  {
+    "id": "word:非",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 妈妈 aparece como 'mā mā'. Debe ser 'mā ma'."
+    ],
+    "content_hash": "38d7ec40a2577533db1478dc113968e589c51ceb"
+  },
+  {
+    "id": "word:开玩笑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4cbf7aa42ca6d984731917e1b585982d38095568"
+  },
+  {
+    "id": "word:上次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57e42be4b4736c0f107d05fadf09e72379ddc53d"
+  }
+]

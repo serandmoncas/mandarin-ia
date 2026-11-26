@@ -1,0 +1,161 @@
+[
+  {
+    "id": "word:过程",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3b4614495f1514063ccb72185136758462a97d9"
+  },
+  {
+    "id": "word:小姐",
+    "ok": false,
+    "issues": [
+      "«王小姐是我的老师» no es natural: a una maestra se le dice 王老师, no 王小姐.",
+      "En China continental, llamar «小姐» a una desconocida o a una dependienta (ejemplos 1 y 3) puede sonar mal por la connotación de «prostituta». Conviene añadir una advertencia de uso o cambiar los ejemplos (p. ej., 服务员, 美女)."
+    ],
+    "content_hash": "27501141d30e985c27e1158206a904da9fe26474"
+  },
+  {
+    "id": "word:事件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "964552e27b8e2d20d820bf42dd4f0fd9606f3312"
+  },
+  {
+    "id": "word:机构",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0288bf576c96cca2ff67d082525bc073fa1c4c84"
+  },
+  {
+    "id": "word:法律",
+    "ok": true,
+    "issues": [],
+    "content_hash": "16f7499aa116ac3bc59fb319c78ff61b8fd74258"
+  },
+  {
+    "id": "word:飞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4968d9576c31f10dd2cb1e2ed581b16eac60eb52"
+  },
+  {
+    "id": "word:设计",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a5be18975271ce7eab94d3235f59c33f56feece"
+  },
+  {
+    "id": "word:受",
+    "ok": true,
+    "issues": [],
+    "content_hash": "abc085aed3a96f6fcd5995d4123678f78dec69eb"
+  },
+  {
+    "id": "word:记",
+    "ok": true,
+    "issues": [],
+    "content_hash": "73b7498f641e50b192070c5f0d5c22c6deed9ddc"
+  },
+  {
+    "id": "word:左",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ac63048f887ba0be20f818657e3bad9603baad2"
+  },
+  {
+    "id": "word:县",
+    "ok": true,
+    "issues": [],
+    "content_hash": "156c3bae90ddc21a2e2769eb9a12b43624a0b91a"
+  },
+  {
+    "id": "word:报告",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5263a4043ff1c05defd111ddfcfb422c5f55dabf"
+  },
+  {
+    "id": "word:地图",
+    "ok": true,
+    "issues": [],
+    "content_hash": "440469a4ab6cc312fee8b80f0bfc011daa483329"
+  },
+  {
+    "id": "word:别的",
+    "ok": false,
+    "issues": [
+      "En «你还想去别的城市看看吗？», 还 significa «también / además», no «todavía». Mejor: «¿También quieres ir a conocer otras ciudades?»."
+    ],
+    "content_hash": "e9b2dcf0c837d69b818235a5167b373ad18e5e33"
+  },
+  {
+    "id": "word:成功",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac8baa844b681f8b1d29bfd6e44d278e155715b9"
+  },
+  {
+    "id": "word:球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30cccae5d13cec102ca7550b3d401eddca6062b2"
+  },
+  {
+    "id": "word:忘",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d71cb15e7ef381548e750d08731ea84557bdffe7"
+  },
+  {
+    "id": "word:每",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0a23a85bc50b684122f30c66e73ab886d8d88500"
+  },
+  {
+    "id": "word:楼",
+    "ok": false,
+    "issues": [
+      "Error de pinyin en el ejemplo 4: 东西 («cosas») se escribe «dōng xi», con tono neutro. «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "7215597b155605c2b6463832ee151a2d065293d0"
+  },
+  {
+    "id": "word:事情",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d78422d72db4b650bed1795902a63d6dd42b71d"
+  },
+  {
+    "id": "word:种",
+    "ok": true,
+    "issues": [],
+    "content_hash": "43f5663ded2772dda742d7e7456cae9ad8d16381"
+  },
+  {
+    "id": "word:七",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9421baf913b6cfdc564fd6c09253c9e8b263e675"
+  },
+  {
+    "id": "word:之间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cdbd608352f8e01c864b6611a6e7f620719a6e92"
+  },
+  {
+    "id": "word:肉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7543faddb818c7473161c020e29dbd42f54b0e2c"
+  },
+  {
+    "id": "word:处",
+    "ok": false,
+    "issues": [
+      "Error de pinyin en el ejemplo 3: 东西 («cosas») se escribe «dōng xi», con tono neutro, no «dōng xī»."
+    ],
+    "content_hash": "4d2e4a1214688671d8b15334daaf0d42d5179ea7"
+  }
+]

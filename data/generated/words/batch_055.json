@@ -1,0 +1,542 @@
+[
+  {
+    "word": "阅读",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "leer",
+      "lectura"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢阅读。",
+        "es": "Me gusta leer."
+      },
+      {
+        "zh": "她每天晚上阅读半小时。",
+        "es": "Ella lee media hora todas las noches."
+      },
+      {
+        "zh": "孩子们在图书馆里阅读。",
+        "es": "Los niños están leyendo en la biblioteca."
+      },
+      {
+        "zh": "阅读可以让我们了解不同的文化。",
+        "es": "La lectura nos permite conocer culturas diferentes."
+      }
+    ]
+  },
+  {
+    "word": "办",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer, encargarse de (un asunto)",
+      "tramitar",
+      "organizar (un evento)",
+      "fundar, establecer"
+    ],
+    "examples": [
+      {
+        "zh": "这件事怎么办？",
+        "es": "¿Qué hacemos con este asunto?"
+      },
+      {
+        "zh": "我明天去银行办事。",
+        "es": "Mañana voy al banco a hacer un trámite."
+      },
+      {
+        "zh": "你放心，这件事我来办。",
+        "es": "No te preocupes, yo me encargo de esto."
+      },
+      {
+        "zh": "学校下个月要办一个音乐活动。",
+        "es": "La escuela va a organizar un evento musical el próximo mes."
+      }
+    ]
+  },
+  {
+    "word": "感到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sentir",
+      "sentirse",
+      "percibir"
+    ],
+    "examples": [
+      {
+        "zh": "我感到很累。",
+        "es": "Me siento muy cansado."
+      },
+      {
+        "zh": "听到这个消息，她感到很高兴。",
+        "es": "Al oír la noticia, ella se sintió muy contenta."
+      },
+      {
+        "zh": "一个人在家的时候，我感到有点儿害怕。",
+        "es": "Cuando estoy solo en casa, siento un poco de miedo."
+      },
+      {
+        "zh": "看到孩子们这么努力，老师感到非常高兴。",
+        "es": "Al ver a los niños esforzarse tanto, el maestro se sintió muy feliz."
+      }
+    ]
+  },
+  {
+    "word": "公民",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ciudadano",
+      "ciudadana"
+    ],
+    "examples": [
+      {
+        "zh": "他是中国公民。",
+        "es": "Él es ciudadano chino."
+      },
+      {
+        "zh": "每个公民都有自己的权利。",
+        "es": "Cada ciudadano tiene sus propios derechos."
+      },
+      {
+        "zh": "公民有保护环境的责任。",
+        "es": "Los ciudadanos tienen la responsabilidad de proteger el medio ambiente."
+      },
+      {
+        "zh": "十八岁以上的公民都可以参加选举。",
+        "es": "Todos los ciudadanos mayores de dieciocho años pueden votar en las elecciones."
+      }
+    ]
+  },
+  {
+    "word": "理解",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entender",
+      "comprender",
+      "comprensión"
+    ],
+    "examples": [
+      {
+        "zh": "我理解你的意思。",
+        "es": "Entiendo lo que quieres decir."
+      },
+      {
+        "zh": "这个问题很难理解。",
+        "es": "Este problema es muy difícil de entender."
+      },
+      {
+        "zh": "谢谢你们对我的理解和支持。",
+        "es": "Gracias por su comprensión y su apoyo."
+      },
+      {
+        "zh": "孩子长大以后，才能理解父母的心。",
+        "es": "Solo cuando los hijos crecen pueden comprender lo que sienten sus padres."
+      }
+    ]
+  },
+  {
+    "word": "任",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "clasificador para mandatos o parejas (ex, anterior)",
+      "ocupar un cargo, desempeñarse como",
+      "nombrar, designar",
+      "dejar, permitir (sin importar)"
+    ],
+    "examples": [
+      {
+        "zh": "他是第一任总统。",
+        "es": "Él fue el primer presidente."
+      },
+      {
+        "zh": "他的前任女朋友是老师。",
+        "es": "Su exnovia es maestra."
+      },
+      {
+        "zh": "他曾任这家公司的经理。",
+        "es": "Él fue gerente de esta empresa."
+      },
+      {
+        "zh": "任你怎么说，我都不会改变决定。",
+        "es": "Digas lo que digas, no voy a cambiar mi decisión."
+      }
+    ]
+  },
+  {
+    "word": "实行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aplicar, implementar",
+      "poner en práctica",
+      "llevar a cabo"
+    ],
+    "examples": [
+      {
+        "zh": "学校实行新的规定。",
+        "es": "La escuela aplica nuevas reglas."
+      },
+      {
+        "zh": "这个计划已经开始实行了。",
+        "es": "Este plan ya empezó a ponerse en práctica."
+      },
+      {
+        "zh": "中国从一九七八年开始实行改革开放。",
+        "es": "China empezó a aplicar la reforma y apertura en 1978."
+      },
+      {
+        "zh": "新政策实行以后，很多问题得到了解决。",
+        "es": "Después de implementar la nueva política, se resolvieron muchos problemas."
+      }
+    ]
+  },
+  {
+    "word": "事实",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hecho",
+      "realidad",
+      "verdad"
+    ],
+    "examples": [
+      {
+        "zh": "这是事实。",
+        "es": "Es un hecho."
+      },
+      {
+        "zh": "他说的话不是事实。",
+        "es": "Lo que él dijo no es verdad."
+      },
+      {
+        "zh": "事实证明，他的方法是对的。",
+        "es": "Los hechos demostraron que su método era correcto."
+      },
+      {
+        "zh": "事实上，我早就知道这件事了，只是没有说。",
+        "es": "En realidad, yo ya sabía esto desde hace tiempo, solo que no dije nada."
+      }
+    ]
+  },
+  {
+    "word": "谈",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hablar, conversar",
+      "platicar",
+      "discutir, negociar"
+    ],
+    "examples": [
+      {
+        "zh": "我们谈谈吧。",
+        "es": "Hablemos un poco."
+      },
+      {
+        "zh": "他们在谈工作的事。",
+        "es": "Están hablando de asuntos de trabajo."
+      },
+      {
+        "zh": "我想跟你谈一下孩子的学习。",
+        "es": "Quiero hablar contigo sobre los estudios de nuestro hijo."
+      },
+      {
+        "zh": "两家公司谈了三个月，终于决定合作。",
+        "es": "Las dos empresas negociaron tres meses y por fin decidieron trabajar juntas."
+      }
+    ]
+  },
+  {
+    "word": "现代",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "moderno",
+      "época moderna",
+      "actualidad"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢现代音乐。",
+        "es": "Me gusta la música moderna."
+      },
+      {
+        "zh": "现代人每天都用手机。",
+        "es": "La gente de hoy usa el celular todos los días."
+      },
+      {
+        "zh": "上海是一个很现代的城市。",
+        "es": "Shanghái es una ciudad muy moderna."
+      },
+      {
+        "zh": "现代技术改变了我们的生活方式。",
+        "es": "La tecnología moderna cambió nuestra forma de vivir."
+      }
+    ]
+  },
+  {
+    "word": "小说",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "novela",
+      "ficción, narrativa"
+    ],
+    "examples": [
+      {
+        "zh": "我在看一本小说。",
+        "es": "Estoy leyendo una novela."
+      },
+      {
+        "zh": "你喜欢看什么小说？",
+        "es": "¿Qué tipo de novelas te gusta leer?"
+      },
+      {
+        "zh": "他的小说后来被拍成了电影。",
+        "es": "Su novela después fue llevada al cine."
+      },
+      {
+        "zh": "这本小说写的是一个老人的故事。",
+        "es": "Esta novela cuenta la historia de un anciano."
+      }
+    ]
+  },
+  {
+    "word": "愿意",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar dispuesto a",
+      "querer",
+      "aceptar (hacer algo)"
+    ],
+    "examples": [
+      {
+        "zh": "你愿意帮我吗？",
+        "es": "¿Estás dispuesto a ayudarme?"
+      },
+      {
+        "zh": "我不愿意一个人去。",
+        "es": "No quiero ir solo."
+      },
+      {
+        "zh": "没有人愿意做这么累的工作。",
+        "es": "Nadie quiere hacer un trabajo tan cansado."
+      },
+      {
+        "zh": "如果你愿意，我们明天可以一起去。",
+        "es": "Si quieres, mañana podemos ir juntos."
+      }
+    ]
+  },
+  {
+    "word": "责任",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "responsabilidad",
+      "deber",
+      "culpa"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的责任。",
+        "es": "Esta es mi responsabilidad."
+      },
+      {
+        "zh": "保护环境是每个人的责任。",
+        "es": "Proteger el medio ambiente es responsabilidad de todos."
+      },
+      {
+        "zh": "这件事不是你的责任，别难过。",
+        "es": "Esto no es tu culpa, no te pongas triste."
+      },
+      {
+        "zh": "作为父母，我们有责任教育好孩子。",
+        "es": "Como padres, tenemos el deber de educar bien a nuestros hijos."
+      }
+    ]
+  },
+  {
+    "word": "张",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "clasificador para objetos planos (hojas, boletos, mesas, camas)",
+      "abrir, extender"
+    ],
+    "examples": [
+      {
+        "zh": "请给我一张纸。",
+        "es": "Dame una hoja de papel, por favor."
+      },
+      {
+        "zh": "我买了两张电影票。",
+        "es": "Compré dos boletos para el cine."
+      },
+      {
+        "zh": "房间里有一张床和一张桌子。",
+        "es": "En el cuarto hay una cama y una mesa."
+      },
+      {
+        "zh": "这张照片是我十岁的时候在北京拍的。",
+        "es": "Esta foto la tomé en Pekín cuando tenía diez años."
+      }
+    ]
+  },
+  {
+    "word": "长期",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a largo plazo",
+      "durante mucho tiempo",
+      "prolongado"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个长期计划。",
+        "es": "Este es un plan a largo plazo."
+      },
+      {
+        "zh": "他长期住在国外。",
+        "es": "Él lleva mucho tiempo viviendo en el extranjero."
+      },
+      {
+        "zh": "长期睡不好觉，对身体很不好。",
+        "es": "Dormir mal durante mucho tiempo es muy malo para la salud."
+      },
+      {
+        "zh": "两家公司建立了长期的合作关系。",
+        "es": "Las dos empresas establecieron una relación de cooperación a largo plazo."
+      }
+    ]
+  },
+  {
+    "word": "抓",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "agarrar",
+      "atrapar, detener (arrestar)",
+      "aprovechar (una oportunidad)",
+      "rascar"
+    ],
+    "examples": [
+      {
+        "zh": "快抓住他！",
+        "es": "¡Atrápenlo rápido!"
+      },
+      {
+        "zh": "警察抓到了那个人。",
+        "es": "La policía atrapó a ese hombre."
+      },
+      {
+        "zh": "孩子抓着妈妈的手，不想让她走。",
+        "es": "El niño agarra la mano de su mamá y no quiere dejarla ir."
+      },
+      {
+        "zh": "这个机会很难得，你一定要抓住。",
+        "es": "Esta oportunidad es muy difícil de conseguir, tienes que aprovecharla."
+      }
+    ]
+  },
+  {
+    "word": "转",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "girar, dar vuelta (a un lado)",
+      "transferir (dinero)",
+      "reenviar, compartir (en internet)",
+      "cambiar (de estado)"
+    ],
+    "examples": [
+      {
+        "zh": "前面路口向左转。",
+        "es": "En la próxima esquina da vuelta a la izquierda."
+      },
+      {
+        "zh": "我已经把钱转给你了。",
+        "es": "Ya te transferí el dinero."
+      },
+      {
+        "zh": "这个视频很好玩儿，我转给你看看。",
+        "es": "Este video es muy divertido, te lo reenvío para que lo veas."
+      },
+      {
+        "zh": "天气转冷了，出门多穿点衣服。",
+        "es": "Ya empezó a hacer frío, abrígate bien al salir."
+      }
+    ]
+  },
+  {
+    "word": "有没有",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿tienes…?",
+      "¿hay…?",
+      "¿has… (hecho algo)?"
+    ],
+    "examples": [
+      {
+        "zh": "你有没有时间？",
+        "es": "¿Tienes tiempo?"
+      },
+      {
+        "zh": "这里有没有洗手间？",
+        "es": "¿Hay baño aquí?"
+      },
+      {
+        "zh": "你有没有看过这部电影？",
+        "es": "¿Has visto esta película?"
+      },
+      {
+        "zh": "你去北京的时候有没有见到你的老朋友？",
+        "es": "Cuando fuiste a Pekín, ¿viste a tu viejo amigo?"
+      }
+    ]
+  },
+  {
+    "word": "来源",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fuente",
+      "origen",
+      "procedencia"
+    ],
+    "examples": [
+      {
+        "zh": "水是生命的来源。",
+        "es": "El agua es el origen de la vida."
+      },
+      {
+        "zh": "这个消息的来源是什么？",
+        "es": "¿Cuál es la fuente de esta noticia?"
+      },
+      {
+        "zh": "你要写清楚这些资料的来源。",
+        "es": "Tienes que indicar claramente la fuente de estos datos."
+      },
+      {
+        "zh": "网上很多新闻没有说明来源，我们不能都相信。",
+        "es": "Muchas noticias en internet no indican su fuente, no podemos creerlas todas."
+      }
+    ]
+  },
+  {
+    "word": "行业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sector, industria",
+      "rubro",
+      "oficio, profesión"
+    ],
+    "examples": [
+      {
+        "zh": "你在什么行业工作？",
+        "es": "¿En qué sector trabajas?"
+      },
+      {
+        "zh": "他在旅游行业工作了十年。",
+        "es": "Él trabajó diez años en el sector turístico."
+      },
+      {
+        "zh": "这几年，电脑行业发展得非常快。",
+        "es": "En los últimos años, la industria de la computación ha crecido muy rápido."
+      },
+      {
+        "zh": "很多年轻人想进入网络行业，因为机会多。",
+        "es": "Muchos jóvenes quieren entrar en la industria de internet porque hay muchas oportunidades."
+      }
+    ]
+  }
+]

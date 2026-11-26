@@ -1,0 +1,157 @@
+[
+  {
+    "id": "char:身",
+    "ok": true,
+    "issues": [],
+    "content_hash": "811acfbd47dd827b1853da6b04931fd368ae2733"
+  },
+  {
+    "id": "char:体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d2b7f9711fdf51dd7e38b36ad7b04cbe7c1ea1e"
+  },
+  {
+    "id": "char:谢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "016e97a7006acddacd91f0ab6b0cc4926e9c66fe"
+  },
+  {
+    "id": "char:获",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1be588e9c2821d189cde026ffbbe9266b7e26851"
+  },
+  {
+    "id": "char:早",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8fa5051f0ce08d5a85ba8d1e9a2fc4c42d45f7a7"
+  },
+  {
+    "id": "char:式",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ab8cef5c5c1c845f0b9a93e98389da0b37e1743"
+  },
+  {
+    "id": "char:目",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a14cc94cea722b5db03b5f99100d43163c25a76"
+  },
+  {
+    "id": "char:示",
+    "ok": true,
+    "issues": [],
+    "content_hash": "93fc30d3015a793399102835ec53b56e47e9e795"
+  },
+  {
+    "id": "char:晚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0a421c1e33b155a8f42c911555ddb3fe9697cbcc"
+  },
+  {
+    "id": "char:资",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9356b41456f6e83389e6af1dc4de283e10557465"
+  },
+  {
+    "id": "char:料",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9eeeaeef8804b7217086042b77571fa33b9b9161"
+  },
+  {
+    "id": "char:错",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa5c38e2500193d1010691cdfdfd7992f9b2cc04"
+  },
+  {
+    "id": "char:安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "609c85d56ba71ae9b640149a46ec47f834ec62ba"
+  },
+  {
+    "id": "char:脑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7403e397344de315b1b3bc58dcfc87c1ab9c4f8b"
+  },
+  {
+    "id": "char:五",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia es incoherente: un reloj de arena entre dos rayas no se relaciona con contar cinco dedos arriba y abajo, y no ayuda a recordar la forma ni el significado."
+    ],
+    "content_hash": "b4050beb5ed50ea6de497a44d65d0f08589c118f"
+  },
+  {
+    "id": "char:远",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d9d8dcfdcf0db9cb611f047a30a1dba6d2cfd385"
+  },
+  {
+    "id": "char:部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e066e425f1e7781022fecaa196922c7e922e1f7"
+  },
+  {
+    "id": "char:运",
+    "ok": true,
+    "issues": [],
+    "content_hash": "548632556f1a829c67273818042fdfe0af5f5b61"
+  },
+  {
+    "id": "char:几",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25d55ae2d2006233199b202e9f0ba8802b0ab5da"
+  },
+  {
+    "id": "char:死",
+    "ok": false,
+    "issues": [
+      "La lista de componentes está mal formada: «persona caída» aparece sin carácter asociado.",
+      "Hay una contradicción: a 匕 se le da el significado «cuchara», pero la mnemotecnia lo usa como persona caída. Aquí 匕 representa a una persona arrodillada o caída, así que conviene unificar el significado."
+    ],
+    "content_hash": "ead35c32ab44f97fad3b2d94f818bc26c8e10340"
+  },
+  {
+    "id": "char:建",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5942fe66123d65b9e25c755fb1307213bc8c52f"
+  },
+  {
+    "id": "char:设",
+    "ok": true,
+    "issues": [],
+    "content_hash": "64340417573ca132be2ff20c27f5a10cea1651a5"
+  },
+  {
+    "id": "char:记",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2aeb8923ebcf9bc88dcfa44d29dc49e31e419ff"
+  },
+  {
+    "id": "char:图",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96e9456e45f873328f83aa62cbe6069149014e55"
+  },
+  {
+    "id": "char:闻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60c6e7e08c02b33d2d626522e901cc5a88db6a09"
+  }
+]

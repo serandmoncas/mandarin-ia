@@ -1,0 +1,539 @@
+[
+  {
+    "word": "产业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "industria",
+      "sector productivo",
+      "bienes; propiedades"
+    ],
+    "examples": [
+      {
+        "zh": "这个产业很大。",
+        "es": "Esta industria es muy grande."
+      },
+      {
+        "zh": "中国的汽车产业发展很快。",
+        "es": "La industria automotriz de China se desarrolla muy rápido."
+      },
+      {
+        "zh": "他家在上海有很多产业。",
+        "es": "Su familia tiene muchas propiedades en Shanghái."
+      },
+      {
+        "zh": "政府支持这个城市发展新的科技产业。",
+        "es": "El gobierno apoya que esta ciudad desarrolle nuevas industrias tecnológicas."
+      }
+    ]
+  },
+  {
+    "word": "几乎",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "casi",
+      "prácticamente"
+    ],
+    "examples": [
+      {
+        "zh": "我几乎没有钱了。",
+        "es": "Ya casi no tengo dinero."
+      },
+      {
+        "zh": "他几乎每天都喝茶。",
+        "es": "Él toma té casi todos los días."
+      },
+      {
+        "zh": "我们班几乎所有学生都喜欢这个老师。",
+        "es": "A casi todos los estudiantes de nuestra clase les cae bien este maestro."
+      },
+      {
+        "zh": "昨天下雨，我几乎走了一个小时才回到家。",
+        "es": "Ayer llovió y caminé casi una hora hasta llegar a casa."
+      }
+    ]
+  },
+  {
+    "word": "哦",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "ah (al entender algo)",
+      "oh, ya veo"
+    ],
+    "examples": [
+      {
+        "zh": "哦，我知道了。",
+        "es": "Ah, ya entiendo."
+      },
+      {
+        "zh": "哦，原来是你啊！",
+        "es": "¡Ah, eras tú!"
+      },
+      {
+        "zh": "哦，他今天不来上班了。",
+        "es": "Ah, entonces hoy no viene a trabajar."
+      },
+      {
+        "zh": "哦，我明白了，你是说明天下午开会。",
+        "es": "Ah, ya entendí: dices que la reunión es mañana en la tarde."
+      }
+    ]
+  },
+  {
+    "word": "若",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "si (condicional)",
+      "como; parecido a",
+      "parecer"
+    ],
+    "examples": [
+      {
+        "zh": "你若不去，我也不去。",
+        "es": "Si tú no vas, yo tampoco voy."
+      },
+      {
+        "zh": "若有问题，请打电话给我。",
+        "es": "Si hay algún problema, llámame por favor."
+      },
+      {
+        "zh": "若明天下雨，比赛就不举行了。",
+        "es": "Si mañana llueve, no se hará el partido."
+      },
+      {
+        "zh": "若你真的喜欢这本书，我可以送给你。",
+        "es": "Si de verdad te gusta este libro, te lo puedo regalar."
+      }
+    ]
+  },
+  {
+    "word": "曾经",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alguna vez",
+      "antes; en el pasado",
+      "anteriormente"
+    ],
+    "examples": [
+      {
+        "zh": "我曾经去过北京。",
+        "es": "Una vez fui a Pekín."
+      },
+      {
+        "zh": "他曾经是我的老师。",
+        "es": "Él fue mi maestro en el pasado."
+      },
+      {
+        "zh": "我们曾经在这个城市住了三年。",
+        "es": "Antes vivimos tres años en esta ciudad."
+      },
+      {
+        "zh": "她曾经非常喜欢唱歌，现在却很少唱了。",
+        "es": "Antes le encantaba cantar, pero ahora casi no canta."
+      }
+    ]
+  },
+  {
+    "word": "队",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "equipo",
+      "fila",
+      "grupo",
+      "escuadrón"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们队的。",
+        "es": "Él es de nuestro equipo."
+      },
+      {
+        "zh": "这个足球队非常有名。",
+        "es": "Este equipo de fútbol es muy famoso."
+      },
+      {
+        "zh": "买票的人太多了，我们排了很久的队。",
+        "es": "Había demasiada gente comprando boletos; hicimos fila mucho tiempo."
+      },
+      {
+        "zh": "他从小就喜欢足球，现在终于加入了国家队。",
+        "es": "Le gusta el fútbol desde niño y por fin entró a la selección nacional."
+      }
+    ]
+  },
+  {
+    "word": "加",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "sumar; más",
+      "agregar; añadir",
+      "aumentar"
+    ],
+    "examples": [
+      {
+        "zh": "二加三是五。",
+        "es": "Dos más tres son cinco."
+      },
+      {
+        "zh": "你的茶要加牛奶吗？",
+        "es": "¿Quieres agregarle leche a tu té?"
+      },
+      {
+        "zh": "请在这里加上你的名字。",
+        "es": "Por favor, agrega tu nombre aquí."
+      },
+      {
+        "zh": "这个计划还需要再加两个人才能完成。",
+        "es": "Este proyecto necesita dos personas más para poder terminarse."
+      }
+    ]
+  },
+  {
+    "word": "结合",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "combinar",
+      "unir; vincular",
+      "integrar"
+    ],
+    "examples": [
+      {
+        "zh": "这两种方法可以结合。",
+        "es": "Estos dos métodos se pueden combinar."
+      },
+      {
+        "zh": "他的作品结合了音乐和艺术。",
+        "es": "Su obra combina la música y el arte."
+      },
+      {
+        "zh": "这个设计结合了中国和西方的文化。",
+        "es": "Este diseño une la cultura china y la occidental."
+      },
+      {
+        "zh": "我们要把学过的知识和实际生活结合起来。",
+        "es": "Debemos vincular lo que aprendimos con la vida real."
+      }
+    ]
+  },
+  {
+    "word": "拉",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jalar; tirar de",
+      "arrastrar",
+      "tocar (instrumento de arco)",
+      "platicar; charlar (coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "别拉我的衣服！",
+        "es": "¡No me jales la ropa!"
+      },
+      {
+        "zh": "他拉着我的手走进房间。",
+        "es": "Me tomó de la mano y entramos al cuarto."
+      },
+      {
+        "zh": "妈妈拉着孩子的手过马路。",
+        "es": "La mamá cruza la calle llevando al niño de la mano."
+      },
+      {
+        "zh": "车坏了，我们只能把它拉到前面的路口。",
+        "es": "El carro se descompuso y solo pudimos arrastrarlo hasta el cruce de adelante."
+      }
+    ]
+  },
+  {
+    "word": "原来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "resulta que; así que",
+      "originalmente; al principio",
+      "original; anterior"
+    ],
+    "examples": [
+      {
+        "zh": "原来是你啊！",
+        "es": "¡Así que eras tú!"
+      },
+      {
+        "zh": "这是我原来的手机。",
+        "es": "Este es mi celular anterior."
+      },
+      {
+        "zh": "我原来住在上海，去年才来北京。",
+        "es": "Antes vivía en Shanghái; apenas el año pasado vine a Pekín."
+      },
+      {
+        "zh": "我以为他是日本人，原来他是韩国人。",
+        "es": "Pensaba que era japonés, pero resulta que es coreano."
+      }
+    ]
+  },
+  {
+    "word": "亚洲",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Asia"
+    ],
+    "examples": [
+      {
+        "zh": "中国在亚洲。",
+        "es": "China está en Asia."
+      },
+      {
+        "zh": "日本和韩国都是亚洲国家。",
+        "es": "Japón y Corea son países asiáticos."
+      },
+      {
+        "zh": "他明年想去亚洲旅游。",
+        "es": "El próximo año quiere viajar por Asia."
+      },
+      {
+        "zh": "这是亚洲最大的机场之一，每天有很多飞机。",
+        "es": "Este es uno de los aeropuertos más grandes de Asia; hay muchos vuelos todos los días."
+      }
+    ]
+  },
+  {
+    "word": "唯一",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "único",
+      "solo"
+    ],
+    "examples": [
+      {
+        "zh": "这是唯一的办法。",
+        "es": "Esta es la única manera."
+      },
+      {
+        "zh": "他是我唯一的朋友。",
+        "es": "Él es mi único amigo."
+      },
+      {
+        "zh": "她是我们班唯一会说法语的学生。",
+        "es": "Ella es la única estudiante de nuestra clase que habla francés."
+      },
+      {
+        "zh": "这是去机场唯一的路，所以每天车都很多。",
+        "es": "Este es el único camino al aeropuerto, por eso siempre hay muchos carros."
+      }
+    ]
+  },
+  {
+    "word": "居民",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "residente",
+      "habitante",
+      "vecino"
+    ],
+    "examples": [
+      {
+        "zh": "这里的居民很少。",
+        "es": "Aquí hay muy pocos habitantes."
+      },
+      {
+        "zh": "这个城市有很多外国居民。",
+        "es": "Esta ciudad tiene muchos residentes extranjeros."
+      },
+      {
+        "zh": "社区的居民都参加了这个活动。",
+        "es": "Todos los vecinos de la colonia participaron en esta actividad."
+      },
+      {
+        "zh": "政府决定为这个地区的居民建一个新医院。",
+        "es": "El gobierno decidió construir un hospital nuevo para los habitantes de esta zona."
+      }
+    ]
+  },
+  {
+    "word": "所谓",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lo que se llama",
+      "el llamado",
+      "supuesto (despectivo)"
+    ],
+    "examples": [
+      {
+        "zh": "这就是所谓的中国文化。",
+        "es": "Esto es lo que se llama cultura china."
+      },
+      {
+        "zh": "他就是那个所谓的专家吗？",
+        "es": "¿Él es ese supuesto experto?"
+      },
+      {
+        "zh": "所谓朋友，就是在你需要的时候帮你的人。",
+        "es": "Un amigo es aquel que te ayuda cuando lo necesitas."
+      },
+      {
+        "zh": "我不相信那些所谓的新闻，很多都不是真的。",
+        "es": "No creo en esas supuestas noticias; muchas no son ciertas."
+      }
+    ]
+  },
+  {
+    "word": "真是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "realmente; de verdad",
+      "¡qué…! (énfasis)",
+      "¡no puede ser! (molestia)"
+    ],
+    "examples": [
+      {
+        "zh": "你真是个好人。",
+        "es": "De verdad eres una buena persona."
+      },
+      {
+        "zh": "今天天气真是太好了！",
+        "es": "¡Hoy el clima está realmente buenísimo!"
+      },
+      {
+        "zh": "真是的，你怎么又忘记带钱包了？",
+        "es": "¡No puede ser! ¿Otra vez se te olvidó la billetera?"
+      },
+      {
+        "zh": "他学了半年就能说这么好的汉语，真是不简单。",
+        "es": "Con solo medio año de estudio ya habla tan bien chino; realmente tiene mérito."
+      }
+    ]
+  },
+  {
+    "word": "统一",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "unificar",
+      "unificado; uniforme",
+      "integrar"
+    ],
+    "examples": [
+      {
+        "zh": "学生们穿着统一的衣服。",
+        "es": "Los estudiantes llevan la misma ropa."
+      },
+      {
+        "zh": "我们先统一一下意见。",
+        "es": "Primero pongámonos de acuerdo."
+      },
+      {
+        "zh": "公司决定统一使用新的电脑系统。",
+        "es": "La empresa decidió usar el mismo sistema informático nuevo en todas partes."
+      },
+      {
+        "zh": "这个国家统一以后，经济发展得非常快。",
+        "es": "Después de unificarse, la economía de este país creció muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "而是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sino",
+      "sino que"
+    ],
+    "examples": [
+      {
+        "zh": "他不是老师，而是医生。",
+        "es": "Él no es maestro, sino médico."
+      },
+      {
+        "zh": "这本书不是我的，而是我哥哥的。",
+        "es": "Este libro no es mío, sino de mi hermano mayor."
+      },
+      {
+        "zh": "我不是不想去，而是真的没有时间。",
+        "es": "No es que no quiera ir, sino que de verdad no tengo tiempo."
+      },
+      {
+        "zh": "这不是一个人的问题，而是整个社会的问题。",
+        "es": "Este no es un problema de una sola persona, sino de toda la sociedad."
+      }
+    ]
+  },
+  {
+    "word": "肯定",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "seguramente; sin duda",
+      "estar seguro",
+      "reconocer; valorar",
+      "afirmativo"
+    ],
+    "examples": [
+      {
+        "zh": "他明天肯定会来。",
+        "es": "Seguro que mañana viene."
+      },
+      {
+        "zh": "这么晚了，商店肯定关门了。",
+        "es": "Ya es muy tarde; la tienda seguramente ya cerró."
+      },
+      {
+        "zh": "我可以肯定，他今天不在家。",
+        "es": "Estoy seguro de que hoy no está en casa."
+      },
+      {
+        "zh": "老师在会上肯定了他这一年的努力。",
+        "es": "En la reunión, el maestro reconoció su esfuerzo de este año."
+      }
+    ]
+  },
+  {
+    "word": "低",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bajo",
+      "bajar; agachar (la cabeza)"
+    ],
+    "examples": [
+      {
+        "zh": "这个桌子太低了。",
+        "es": "Esta mesa es demasiado baja."
+      },
+      {
+        "zh": "这家商店的价格很低。",
+        "es": "Los precios de esta tienda son muy bajos."
+      },
+      {
+        "zh": "他低着头，一句话也不说。",
+        "es": "Tenía la cabeza agachada y no decía ni una palabra."
+      },
+      {
+        "zh": "这次考试他的分数很低，所以妈妈有点生气。",
+        "es": "Sacó una calificación muy baja en este examen, por eso su mamá está un poco enojada."
+      }
+    ]
+  },
+  {
+    "word": "明显",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "evidente",
+      "claro",
+      "obvio",
+      "notorio"
+    ],
+    "examples": [
+      {
+        "zh": "这很明显。",
+        "es": "Es muy obvio."
+      },
+      {
+        "zh": "他明显不喜欢这个菜。",
+        "es": "Es evidente que no le gusta este platillo."
+      },
+      {
+        "zh": "她的汉语最近有了明显的提高。",
+        "es": "Su chino ha mejorado notablemente últimamente."
+      },
+      {
+        "zh": "十年过去了，这个城市的变化非常明显。",
+        "es": "Pasaron diez años y los cambios en esta ciudad son muy notorios."
+      }
+    ]
+  }
+]

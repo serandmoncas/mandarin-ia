@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:坏",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b974c58ed826debd0f0d1826a405437480ecd07f"
+  },
+  {
+    "id": "word:楼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d10ee2a854451fd175860df92f2d6ae66779b7c"
+  },
+  {
+    "id": "word:处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76d40635e0a0efd7943a0fbd5bca1835a6a697c8"
+  },
+  {
+    "id": "word:方法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5f013c3db21b056fe42df5e5c525092bd5391fc5"
+  },
+  {
+    "id": "word:之前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b257875941a9fec0c3b7553ffcc72610da4957bc"
+  },
+  {
+    "id": "word:病人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c1071973cbb87be9c08ccdda6fa6a6fc43d83a26"
+  },
+  {
+    "id": "word:好吃",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aea6aabe8b427c542e4c2413902a8aa9b3b2c22f"
+  },
+  {
+    "id": "word:占",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a032d30ca768a7eebaf0f1fe12a754107dabe122"
+  },
+  {
+    "id": "word:具有",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «这个产品具有很多新技术» es poco natural; 具有 suele ir con cualidades abstractas (特点、功能、意义). Mejor «这个产品采用了很多新技术» o «这个产品具有很多新功能»."
+    ],
+    "content_hash": "bb88e2e386785e1a79b222bca26f4392705ebd0f"
+  },
+  {
+    "id": "word:中午",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e355d4d35c5bf201817fd742dcf091a147a47a42"
+  },
+  {
+    "id": "word:商场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35c14f37f0a82ece0eaea887d65837967e77d5ea"
+  },
+  {
+    "id": "word:小朋友",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9644d7d1a07cc38c642d0bab26dfbd9ddcd1b24"
+  },
+  {
+    "id": "word:反",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2bdcc031409e8e62f41a380fccbbb9fd9f04f5b"
+  },
+  {
+    "id": "word:中年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5ac95d60b43fe455ba6c4c552117a3791efd9cf"
+  },
+  {
+    "id": "word:马路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a273f0ae6bad7c84a2be9295fa7ecd5fdc9a52dd"
+  },
+  {
+    "id": "word:下车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b1cc31b3f192b14be3dc5d7d9a344e7f417fbb1c"
+  },
+  {
+    "id": "word:形成",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0a01dd5139940303777728120b2d00abdc6582ec"
+  },
+  {
+    "id": "word:姐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d75c8297e872315fdbaf2dc45035e286093a1ad3"
+  },
+  {
+    "id": "word:母亲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f08e51f792e5b6d1c42e5b093649b8bab07a8631"
+  },
+  {
+    "id": "word:父亲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0960082ef647e5ac72cb9170420c853f83e3cef"
+  },
+  {
+    "id": "word:简单",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77731d4bea44a3acac9732641c82a16663c27aaf"
+  },
+  {
+    "id": "word:声音",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2bca4562461bf05e88b46d4a920d27636e7ea4a6"
+  },
+  {
+    "id": "word:免费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4144399811dd496f140d9d82cb55b84e734531a8"
+  },
+  {
+    "id": "word:段",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «我读了一段书» es poco natural en chino; mejor «我读了一段课文» o «我读了书里的一段»."
+    ],
+    "content_hash": "0536d6bb1e5b7c1a17e3a82884377eeeb6c21a7b"
+  },
+  {
+    "id": "word:分享",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3a38bfb5707ad503e67f1d4ccd7f3948a96e556"
+  }
+]

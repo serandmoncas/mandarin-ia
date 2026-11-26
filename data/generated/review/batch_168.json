@@ -1,0 +1,158 @@
+[
+  {
+    "id": "word:稳定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7400ea858c64b37e104bc553d9bdd59e5d2e9eae"
+  },
+  {
+    "id": "word:教师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2add5cbd34dd1ea8419f8c23ebdd27976ac09a5"
+  },
+  {
+    "id": "word:金",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ddaa9db80ab365900b88473c6dfbb6826a17079a"
+  },
+  {
+    "id": "word:强调",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a9ddc6182b11b735ed5375d6aaa8f4a4e75ad349"
+  },
+  {
+    "id": "word:职业",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, «打职业足球» no es natural: para el fútbol se usa 踢 (踢了十年职业足球)."
+    ],
+    "content_hash": "068593af362bf46ac3284bea94e36b766bf4efa4"
+  },
+  {
+    "id": "word:死亡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1baa1ee4c053e3cb53624008763665478b213ba0"
+  },
+  {
+    "id": "word:更加",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2, «天气更加冷了» suena forzado: 更加 se usa sobre todo con palabras bisilábicas. Lo natural sería «天气更冷了»."
+    ],
+    "content_hash": "d0527463cc1649a92e6d332bf462eb5308f0ac94"
+  },
+  {
+    "id": "word:选",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e54e095d932bc577a5401f4660874db5035efe12"
+  },
+  {
+    "id": "word:也许",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6207ba080c2f8afe1e684ddb5ce9b80950738f87"
+  },
+  {
+    "id": "word:每天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fdc7a72c9b5c633f0f9369449d9d2df349e2c18e"
+  },
+  {
+    "id": "word:电子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d3293451a6c7a6e3163df1dc1070e0ed179502d8"
+  },
+  {
+    "id": "word:感到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f20b169958371c84a343e7432fff30f0ee106cc4"
+  },
+  {
+    "id": "word:谈",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, la traducción agrega «nuestro hijo», pero 孩子 no indica de quién es el niño (lo puede decir un maestro a un padre). Sería más fiel «sobre los estudios del niño»."
+    ],
+    "content_hash": "363028ed620c16cefc02a708c54de4575db19036"
+  },
+  {
+    "id": "word:小说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a969681e6bc03ad867ace78e811a3795ab207e6"
+  },
+  {
+    "id": "word:愿意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5da2ce23df88157d04b74cdc8eb9f786386021f"
+  },
+  {
+    "id": "word:张",
+    "ok": true,
+    "issues": [],
+    "content_hash": "849fbfe02fb9f9b7e1f09155dc75bb143db70d6c"
+  },
+  {
+    "id": "word:转",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3520509e0c4b7b49a88c5077274184e36015d31c"
+  },
+  {
+    "id": "word:行业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da78378b3a20b3795ca862316f4f31991071608d"
+  },
+  {
+    "id": "word:狗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "156e092ddd499b47fb37737e737dea910b07a352"
+  },
+  {
+    "id": "word:经历",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fac6ce548651fa2ddfedecf8d800f00130293e23"
+  },
+  {
+    "id": "word:卖",
+    "ok": true,
+    "issues": [],
+    "content_hash": "50823142aedba929dde8dc39003e8c5092eff454"
+  },
+  {
+    "id": "word:失去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "88fa1696f99ad0f33ab7acf79d48404dc2302eb4"
+  },
+  {
+    "id": "word:真实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ca343c6813f1cde1565e25d3b661f7374ec24f8"
+  },
+  {
+    "id": "word:至少",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0bb48fab32e30e196b11e6c18b0ca2dbd91786ae"
+  },
+  {
+    "id": "word:状态",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35c7f82d7785b55920bbeb05ad5e6102eadd7be1"
+  }
+]

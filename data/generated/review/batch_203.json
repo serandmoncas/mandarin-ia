@@ -1,0 +1,137 @@
+[
+  {
+    "id": "word:对不起",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d1ea0b2b2e2a8519e174080ba4a353c975d7f82"
+  },
+  {
+    "id": "word:听见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "104526e8da071974b8419647b5de0323845bb731"
+  },
+  {
+    "id": "word:没关系",
+    "ok": true,
+    "issues": [],
+    "content_hash": "93474ad1fd12f3fab37794ad4850216ab40b19ea"
+  },
+  {
+    "id": "word:没事儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "22f768bdb95a6a2fcba6370df6eee7c8d2ebe213"
+  },
+  {
+    "id": "word:不到",
+    "ok": false,
+    "issues": [
+      "El ejemplo 我找不到我的手机 no usa la palabra 不到 con los sentidos listados: es el complemento potencial de 找到 (找+不+到, 'no poder encontrar'), y puede confundir al estudiante."
+    ],
+    "content_hash": "2c1d012c9905071114c0ced70a470354175cb9d7"
+  },
+  {
+    "id": "word:信",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1eef15ee295883765a622cfbfabec7be240e9f45"
+  },
+  {
+    "id": "word:无论",
+    "ok": true,
+    "issues": [],
+    "content_hash": "50d64d5bb828763768faa657ce9d69d30bd66554"
+  },
+  {
+    "id": "word:数",
+    "ok": true,
+    "issues": [],
+    "content_hash": "986dc82b3eb6450d0274d5133c042523f3253f49"
+  },
+  {
+    "id": "word:懂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ab998f222321d5483af13095fb7474c9e029adc"
+  },
+  {
+    "id": "word:信号",
+    "ok": false,
+    "issues": [
+      "El ejemplo 他用手给我一个信号 suena poco natural: para un hecho pasado falta 了 (给了我一个信号), y lo habitual es 用手给我打了个手势 o 用手示意."
+    ],
+    "content_hash": "13abb5504114c6d6a4e7108309987007385c1117"
+  },
+  {
+    "id": "word:通",
+    "ok": false,
+    "issues": [
+      "En 一通电话 el pinyin aparece como 'yí tòng', lo que no coincide con la lectura tong1 de la entrada. Para llamadas suele leerse 'yì tōng'; la lectura tòng corresponde al clasificador de acciones (说了一通).",
+      "'Este camino no tiene salida' es una traducción algo restrictiva de 这条路不通; también significa 'está cortado o no se puede pasar'."
+    ],
+    "content_hash": "31cf1c276363ff699404ecfd5ae6ae93d8a25b09"
+  },
+  {
+    "id": "word:故意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bcbf94673f28723b3cf25672bd824b2dbfcb18b1"
+  },
+  {
+    "id": "word:护照",
+    "ok": true,
+    "issues": [],
+    "content_hash": "087cbc32f9adda17d18ffc2eae1eb2bbb0c9fd6e"
+  },
+  {
+    "id": "word:碰到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f38532e41e06b295f11932a4b2e6eda3da5d2287"
+  },
+  {
+    "id": "word:麻烦",
+    "ok": false,
+    "issues": [
+      "'¡Qué lata!' es coloquial regional (México y Chile), no español neutro. Mejor '¡Qué complicado!' o '¡Qué fastidio!'."
+    ],
+    "content_hash": "cd0096be40e9ca8d98518e870aac0092bde41b4f"
+  },
+  {
+    "id": "word:上来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf2b237759bfac2f1b5f2916041cc74ae820bbb9"
+  },
+  {
+    "id": "word:咖啡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "540062581ac9d4e7e6de43575d2a38ea50a19802"
+  },
+  {
+    "id": "word:赶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb678424b0c1cccb3141c71846778fd3b4453df3"
+  },
+  {
+    "id": "word:补",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1723f4dd30dfb8a7777973f9ba1f2edcef19483e"
+  },
+  {
+    "id": "word:自觉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab132519c41b8887b74c1f416648ea2035b8eb7a"
+  },
+  {
+    "id": "word:老百姓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b0f4427229d152bd4854b2f23777c8f4b964bac"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "id": "word:想要",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 妈妈 debe ser «mā ma» (segunda sílaba en tono neutro), no «mā mā»."
+    ],
+    "content_hash": "ea66b9687eab66b6b1692b3214c2ee5fbad8da1b"
+  },
+  {
+    "id": "word:最终",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7c317c304961cc57c75238e2e62b2aa183120dcf"
+  },
+  {
+    "id": "word:空间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5c337db67541eac1a1e5ce28e2a5109604b3ca1"
+  },
+  {
+    "id": "word:领域",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d16cb79a05af2fd3a9cbd017ba75edcfe33b1a7"
+  },
+  {
+    "id": "word:面积",
+    "ok": true,
+    "issues": [],
+    "content_hash": "859f2d5cee7958056a0c716d8d8582fa4a3f5b81"
+  },
+  {
+    "id": "word:生命",
+    "ok": true,
+    "issues": [],
+    "content_hash": "765da485a3909a8c96d7f7df6d69a44993c0696c"
+  },
+  {
+    "id": "word:文章",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e4e29078c2fefe7b2386658cd84bf9a5b352f8f"
+  },
+  {
+    "id": "word:意义",
+    "ok": true,
+    "issues": [],
+    "content_hash": "06452e9447014d6ef2f078be6fe1c2e4f5de81d3"
+  },
+  {
+    "id": "word:作用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "929f450c615d387e04dcee7a59f68f1aea586b7f"
+  },
+  {
+    "id": "word:哦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3967c2ea14c76760ef3d7839e655be20a0211d62"
+  },
+  {
+    "id": "word:若",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af627ad8456f8fe4f02834603c82038b25d7b462"
+  },
+  {
+    "id": "word:亚洲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81ef68659aa85bfded2848c92e004e3dcadc849c"
+  },
+  {
+    "id": "word:唯一",
+    "ok": false,
+    "issues": [
+      "Pinyin: en 唯一 el 一 no cambia de tono y se lee «wéi yī». En los cuatro ejemplos aparece mal como «wéi yí»."
+    ],
+    "content_hash": "e9396555bf198f21e3bb90f21ffcb02a0f01c993"
+  },
+  {
+    "id": "word:统一",
+    "ok": false,
+    "issues": [
+      "Pinyin: en 统一 el 一 se lee «tǒng yī». En los ejemplos 1, 3 y 4 aparece mal como «tǒng yí» o «tǒng yì».",
+      "Ejemplo 2: 一下 debe ser «yí xià»; lo correcto es «tǒng yī yí xià», no «tǒng yī yī xià»."
+    ],
+    "content_hash": "fd80cfaff6e7185fccbfadd603f164ee2bdd1b85"
+  },
+  {
+    "id": "word:而是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9628aa5f51a8dd64f27b3020be77d0dd4d019df9"
+  },
+  {
+    "id": "word:肯定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cdc3e1d0d6ce8ae87235ce17886ec158d2f2da53"
+  },
+  {
+    "id": "word:低",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1f2f9aba0088ddd2a1cdf39ade5a2e272d674d7"
+  },
+  {
+    "id": "word:拍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53147370047c6ff41fea1a8f5abda9fea73d6139"
+  },
+  {
+    "id": "word:确实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "110c46966750152e422f07842b77f2101680563f"
+  },
+  {
+    "id": "word:系",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c14e75c07dab4fcd75330034bea037e8917706c1"
+  },
+  {
+    "id": "word:现象",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c6f272a648a28e264690fc6f17aa783fcfef870"
+  },
+  {
+    "id": "word:重新",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dab5bb1c85353e90bacf9172a7f3d2355335a59f"
+  },
+  {
+    "id": "word:且",
+    "ok": false,
+    "issues": [
+      "El significado «incluso» es dudoso para 且 solo; ese sentido corresponde a 尚且 o 而且.",
+      "Hay que señalar que 且 es de registro formal o escrito.",
+      "Ejemplos 1 y 3 poco naturales: mezclan el 且 formal con lenguaje coloquial. Se diría «又大又干净» y «好吃又不贵»."
+    ],
+    "content_hash": "9226e68b62b129d73bfa65a00f4f53b6b4bf933d"
+  },
+  {
+    "id": "word:人士",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5520ef9c66455d2632cf69c43047fc228cb0ed34"
+  },
+  {
+    "id": "word:军队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "748e1d9b0ec6753b7b0cdf25987994d2f14b5e4f"
+  }
+]

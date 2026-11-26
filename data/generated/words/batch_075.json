@@ -1,0 +1,539 @@
+[
+  {
+    "word": "到处",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por todas partes",
+      "en todos lados"
+    ],
+    "examples": [
+      {
+        "zh": "这里到处都是人。",
+        "es": "Aquí hay gente por todas partes."
+      },
+      {
+        "zh": "我到处找我的手机。",
+        "es": "Busqué mi celular por todos lados."
+      },
+      {
+        "zh": "下雨以后，路上到处都是水。",
+        "es": "Después de la lluvia, hay agua por toda la calle."
+      },
+      {
+        "zh": "他去过很多地方，到处都有他的朋友。",
+        "es": "Él ha ido a muchos lugares y tiene amigos en todas partes."
+      }
+    ]
+  },
+  {
+    "word": "必要",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "necesario",
+      "indispensable",
+      "esencial"
+    ],
+    "examples": [
+      {
+        "zh": "这样做没有必要。",
+        "es": "No es necesario hacerlo así."
+      },
+      {
+        "zh": "你没有必要这么担心。",
+        "es": "No hace falta que te preocupes tanto."
+      },
+      {
+        "zh": "学习汉语的时候，多读书是必要的。",
+        "es": "Cuando estudias chino, es necesario leer mucho."
+      },
+      {
+        "zh": "如果有必要，我们明天可以再开会。",
+        "es": "Si es necesario, mañana podemos tener otra reunión."
+      }
+    ]
+  },
+  {
+    "word": "明星",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estrella (famoso)",
+      "celebridad"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个电影明星。",
+        "es": "Él es una estrella de cine."
+      },
+      {
+        "zh": "我妹妹很喜欢这个明星。",
+        "es": "A mi hermana menor le gusta mucho esta celebridad."
+      },
+      {
+        "zh": "很多明星今天晚上来参加活动。",
+        "es": "Muchas estrellas vienen esta noche al evento."
+      },
+      {
+        "zh": "她小时候就想成为一个有名的明星。",
+        "es": "Desde niña quería convertirse en una estrella famosa."
+      }
+    ]
+  },
+  {
+    "word": "日报",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "diario (periódico)",
+      "periódico diario"
+    ],
+    "examples": [
+      {
+        "zh": "我每天早上看日报。",
+        "es": "Leo el diario todas las mañanas."
+      },
+      {
+        "zh": "爸爸喜欢读北京日报。",
+        "es": "A mi papá le gusta leer el Diario de Pekín."
+      },
+      {
+        "zh": "这个新闻是在人民日报上看到的。",
+        "es": "Vi esta noticia en el Diario del Pueblo."
+      },
+      {
+        "zh": "记者在日报上发表了一篇关于环境的文章。",
+        "es": "El periodista publicó en el diario un artículo sobre el medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "丰富",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rico, variado",
+      "abundante",
+      "enriquecer"
+    ],
+    "examples": [
+      {
+        "zh": "这里的水果很丰富。",
+        "es": "Aquí hay fruta en abundancia."
+      },
+      {
+        "zh": "他的工作经验非常丰富。",
+        "es": "Él tiene muchísima experiencia laboral."
+      },
+      {
+        "zh": "读书可以丰富我们的知识。",
+        "es": "Leer puede enriquecer nuestros conocimientos."
+      },
+      {
+        "zh": "这个城市的文化生活很丰富，每天都有活动。",
+        "es": "La vida cultural de esta ciudad es muy variada; hay actividades todos los días."
+      }
+    ]
+  },
+  {
+    "word": "随时",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en cualquier momento",
+      "siempre que haga falta"
+    ],
+    "examples": [
+      {
+        "zh": "你随时可以来。",
+        "es": "Puedes venir cuando quieras."
+      },
+      {
+        "zh": "有问题随时给我打电话。",
+        "es": "Si tienes algún problema, llámame en cualquier momento."
+      },
+      {
+        "zh": "天气变化很快，随时可能下雨。",
+        "es": "El tiempo cambia rápido; puede llover en cualquier momento."
+      },
+      {
+        "zh": "如果你需要帮助，可以随时告诉我们。",
+        "es": "Si necesitas ayuda, puedes avisarnos cuando sea."
+      }
+    ]
+  },
+  {
+    "word": "提到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mencionar",
+      "hablar de",
+      "referirse a"
+    ],
+    "examples": [
+      {
+        "zh": "他提到了你。",
+        "es": "Él te mencionó."
+      },
+      {
+        "zh": "老师在课上提到了这本书。",
+        "es": "El maestro mencionó este libro en clase."
+      },
+      {
+        "zh": "你刚才提到的问题非常重要。",
+        "es": "El problema que acabas de mencionar es muy importante."
+      },
+      {
+        "zh": "她每次打电话都会提到她的女儿。",
+        "es": "Cada vez que llama, habla de su hija."
+      }
+    ]
+  },
+  {
+    "word": "想起",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recordar",
+      "acordarse de",
+      "venir a la mente"
+    ],
+    "examples": [
+      {
+        "zh": "我想起来了！",
+        "es": "¡Ya me acordé!"
+      },
+      {
+        "zh": "我想起了我的妈妈。",
+        "es": "Me acordé de mi mamá."
+      },
+      {
+        "zh": "看到这张照片，我想起了小时候。",
+        "es": "Al ver esta foto, recordé mi infancia."
+      },
+      {
+        "zh": "听到这首歌，他想起了在北京的生活。",
+        "es": "Al escuchar esta canción, recordó su vida en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "胜利",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "victoria",
+      "triunfo",
+      "ganar"
+    ],
+    "examples": [
+      {
+        "zh": "我们胜利了！",
+        "es": "¡Ganamos!"
+      },
+      {
+        "zh": "这是一次重要的胜利。",
+        "es": "Esta es una victoria importante."
+      },
+      {
+        "zh": "他们努力了很久，终于取得了胜利。",
+        "es": "Se esforzaron mucho tiempo y por fin lograron la victoria."
+      },
+      {
+        "zh": "只要坚持下去，胜利一定是我们的。",
+        "es": "Si seguimos adelante, la victoria será nuestra."
+      }
+    ]
+  },
+  {
+    "word": "心中",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en el corazón",
+      "en la mente, en los pensamientos"
+    ],
+    "examples": [
+      {
+        "zh": "她在我心中很重要。",
+        "es": "Ella es muy importante en mi corazón."
+      },
+      {
+        "zh": "他心中有一个理想。",
+        "es": "Él lleva un ideal en el corazón."
+      },
+      {
+        "zh": "在我心中，妈妈是最好的老师。",
+        "es": "Para mí, mi mamá es la mejor maestra."
+      },
+      {
+        "zh": "他心中有很多话，但是不知道怎么说。",
+        "es": "Tiene muchas cosas que decir, pero no sabe cómo expresarlas."
+      }
+    ]
+  },
+  {
+    "word": "值得",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "valer la pena",
+      "merecer",
+      "valer lo que cuesta"
+    ],
+    "examples": [
+      {
+        "zh": "这本书值得读。",
+        "es": "Vale la pena leer este libro."
+      },
+      {
+        "zh": "这个电影很值得一看。",
+        "es": "Esta película realmente vale la pena verla."
+      },
+      {
+        "zh": "这件衣服很贵，但是很值得。",
+        "es": "Esta ropa es cara, pero vale lo que cuesta."
+      },
+      {
+        "zh": "他的经验非常丰富，值得我们学习。",
+        "es": "Tiene muchísima experiencia; merece que aprendamos de él."
+      }
+    ]
+  },
+  {
+    "word": "安排",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "organizar",
+      "planear, programar",
+      "plan, organización"
+    ],
+    "examples": [
+      {
+        "zh": "你明天有什么安排？",
+        "es": "¿Qué planes tienes para mañana?"
+      },
+      {
+        "zh": "公司安排我去上海工作。",
+        "es": "La empresa me asignó a trabajar en Shanghái."
+      },
+      {
+        "zh": "我已经安排好了明天的会议。",
+        "es": "Ya organicé la reunión de mañana."
+      },
+      {
+        "zh": "这次旅游的时间安排得非常好。",
+        "es": "Los horarios de este viaje estuvieron muy bien organizados."
+      }
+    ]
+  },
+  {
+    "word": "以外",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aparte de, además de",
+      "excepto",
+      "fuera de"
+    ],
+    "examples": [
+      {
+        "zh": "除了他以外，大家都来了。",
+        "es": "Todos vinieron excepto él."
+      },
+      {
+        "zh": "除了中文以外，我还会说英语。",
+        "es": "Además de chino, también hablo inglés."
+      },
+      {
+        "zh": "除了星期天以外，他每天都去上班。",
+        "es": "Va a trabajar todos los días excepto los domingos."
+      },
+      {
+        "zh": "这是计划以外的事情，我们没有准备。",
+        "es": "Esto está fuera del plan; no estábamos preparados."
+      }
+    ]
+  },
+  {
+    "word": "本来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "al principio, originalmente",
+      "en realidad, de por sí",
+      "original"
+    ],
+    "examples": [
+      {
+        "zh": "我本来想去。",
+        "es": "Al principio quería ir."
+      },
+      {
+        "zh": "他本来是一个老师。",
+        "es": "Originalmente él era maestro."
+      },
+      {
+        "zh": "我本来不想去，但是朋友一定要我去。",
+        "es": "Yo no quería ir, pero mi amigo insistió en que fuera."
+      },
+      {
+        "zh": "这件事本来就是你的错，你应该说对不起。",
+        "es": "Esto fue tu culpa desde el principio; deberías pedir perdón."
+      }
+    ]
+  },
+  {
+    "word": "空气",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aire",
+      "ambiente"
+    ],
+    "examples": [
+      {
+        "zh": "这里的空气很好。",
+        "es": "El aire aquí es muy bueno."
+      },
+      {
+        "zh": "早上的空气特别干净。",
+        "es": "El aire de la mañana es especialmente limpio."
+      },
+      {
+        "zh": "城市里车太多，空气不太好。",
+        "es": "En la ciudad hay demasiados carros y el aire no es muy bueno."
+      },
+      {
+        "zh": "我们应该保护环境，让空气变得更干净。",
+        "es": "Debemos proteger el medio ambiente para que el aire sea más limpio."
+      }
+    ]
+  },
+  {
+    "word": "满",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "lleno",
+      "llenar",
+      "completamente",
+      "satisfecho"
+    ],
+    "examples": [
+      {
+        "zh": "杯子满了。",
+        "es": "El vaso está lleno."
+      },
+      {
+        "zh": "车上坐满了人。",
+        "es": "El autobús está lleno de gente."
+      },
+      {
+        "zh": "他给我倒了满满一杯茶。",
+        "es": "Me sirvió una taza de té bien llena."
+      },
+      {
+        "zh": "房间里放满了书，没有地方坐。",
+        "es": "El cuarto está lleno de libros y no hay dónde sentarse."
+      }
+    ]
+  },
+  {
+    "word": "气",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aire, gas",
+      "hacer enojar",
+      "enojo",
+      "energía vital (qi)"
+    ],
+    "examples": [
+      {
+        "zh": "这个球没气了。",
+        "es": "Esta pelota se desinfló."
+      },
+      {
+        "zh": "我快被你气死了。",
+        "es": "Me estás haciendo enojar muchísimo."
+      },
+      {
+        "zh": "他还在生我的气。",
+        "es": "Él todavía está enojado conmigo."
+      },
+      {
+        "zh": "他说了那样的话，把妈妈气哭了。",
+        "es": "Dijo esas cosas y su mamá lloró de coraje."
+      }
+    ]
+  },
+  {
+    "word": "活",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vivir",
+      "vivo",
+      "trabajo, tarea"
+    ],
+    "examples": [
+      {
+        "zh": "这条鱼还活着。",
+        "es": "Este pez todavía está vivo."
+      },
+      {
+        "zh": "我今天有很多活要干。",
+        "es": "Hoy tengo mucho trabajo que hacer."
+      },
+      {
+        "zh": "我的爷爷活到了一百岁。",
+        "es": "Mi abuelo vivió hasta los cien años."
+      },
+      {
+        "zh": "没有水，人和动物都不能活。",
+        "es": "Sin agua, ni las personas ni los animales pueden vivir."
+      }
+    ]
+  },
+  {
+    "word": "轻",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ligero, liviano",
+      "suave",
+      "leve, poco grave",
+      "fácil"
+    ],
+    "examples": [
+      {
+        "zh": "这个包很轻。",
+        "es": "Esta bolsa es muy ligera."
+      },
+      {
+        "zh": "请你说话轻一点。",
+        "es": "Por favor, habla más bajito."
+      },
+      {
+        "zh": "他的病不轻，需要去医院。",
+        "es": "Su enfermedad es grave; necesita ir al hospital."
+      },
+      {
+        "zh": "他轻轻地打开门，走进了房间。",
+        "es": "Abrió la puerta con suavidad y entró al cuarto."
+      }
+    ]
+  },
+  {
+    "word": "热情",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "amable, cálido",
+      "entusiasta",
+      "entusiasmo, pasión"
+    ],
+    "examples": [
+      {
+        "zh": "他很热情。",
+        "es": "Él es muy amable."
+      },
+      {
+        "zh": "谢谢你的热情帮助。",
+        "es": "Gracias por tu amable ayuda."
+      },
+      {
+        "zh": "这里的人非常热情，大家都很欢迎我们。",
+        "es": "La gente aquí es muy cálida; todos nos recibieron muy bien."
+      },
+      {
+        "zh": "她对工作一直有很大的热情。",
+        "es": "Ella siempre ha tenido mucho entusiasmo por su trabajo."
+      }
+    ]
+  }
+]

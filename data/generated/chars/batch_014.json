@@ -1,0 +1,430 @@
+[
+  {
+    "char": "构",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "勾",
+        "meaning_es": "gancho"
+      }
+    ],
+    "mnemonic_es": "Imagina que unes vigas de madera con ganchos para armar una estructura: así se construye."
+  },
+  {
+    "char": "病",
+    "components": [
+      {
+        "char": "疒",
+        "meaning_es": "enfermedad (radical)"
+      },
+      {
+        "char": "丙",
+        "meaning_es": "tercero (tronco celeste)"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo de la enfermedad está el paciente número tres de la sala: está enfermo."
+  },
+  {
+    "char": "律",
+    "components": [
+      {
+        "char": "彳",
+        "meaning_es": "paso, caminar"
+      },
+      {
+        "char": "聿",
+        "meaning_es": "pincel"
+      }
+    ],
+    "mnemonic_es": "Para saber por dónde caminar, alguien escribe las reglas con un pincel: así nace la ley."
+  },
+  {
+    "char": "玩",
+    "components": [
+      {
+        "char": "王",
+        "meaning_es": "jade (radical de 玉)"
+      },
+      {
+        "char": "元",
+        "meaning_es": "origen, primero; también yuan (moneda)"
+      }
+    ],
+    "mnemonic_es": "Un niño juega con una piedra de jade y una moneda de yuan como si fueran juguetes."
+  },
+  {
+    "char": "忙",
+    "components": [
+      {
+        "char": "忄",
+        "meaning_es": "corazón, mente"
+      },
+      {
+        "char": "亡",
+        "meaning_es": "perderse, morir"
+      }
+    ],
+    "mnemonic_es": "Cuando estás tan ocupado que tu corazón se pierde en tantas tareas, estás 忙."
+  },
+  {
+    "char": "频",
+    "components": [
+      {
+        "char": "步",
+        "meaning_es": "paso"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza, página"
+      }
+    ],
+    "mnemonic_es": "Paso tras paso, la cabeza asiente una y otra vez: algo que se repite con frecuencia."
+  },
+  {
+    "char": "班",
+    "components": [
+      {
+        "char": "王",
+        "meaning_es": "jade"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      },
+      {
+        "char": "王",
+        "meaning_es": "jade"
+      }
+    ],
+    "mnemonic_es": "Un cuchillo en medio divide el jade en dos grupos, como un salón dividido en clases o turnos."
+  },
+  {
+    "char": "受",
+    "components": [
+      {
+        "char": "爫",
+        "meaning_es": "mano, garra (desde arriba)"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "cubierta"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Una mano de arriba pasa un paquete cubierto a una mano de abajo, que lo recibe."
+  },
+  {
+    "char": "接",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "立",
+        "meaning_es": "estar de pie"
+      },
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      }
+    ],
+    "mnemonic_es": "Una mujer de pie en la estación extiende la mano para recibir a quien llega: ir a recoger, conectar."
+  },
+  {
+    "char": "左",
+    "components": [
+      {
+        "char": "𠂇",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "工",
+        "meaning_es": "trabajo, herramienta"
+      }
+    ],
+    "mnemonic_es": "La mano que sostiene la herramienta mientras la otra trabaja es la izquierda."
+  },
+  {
+    "char": "县",
+    "components": [
+      {
+        "char": "且",
+        "meaning_es": "además"
+      },
+      {
+        "char": "厶",
+        "meaning_es": "privado, propio"
+      }
+    ],
+    "mnemonic_es": "Además de la ciudad, cada uno tiene su propio terreno en el campo: el condado o municipio."
+  },
+  {
+    "char": "报",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "sello; persona arrodillada"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Con las manos, alguien arrodillado entrega un informe sellado: informar, reportar, periódico."
+  },
+  {
+    "char": "功",
+    "components": [
+      {
+        "char": "工",
+        "meaning_es": "trabajo"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Trabajo más fuerza da como resultado el mérito y el logro."
+  },
+  {
+    "char": "存",
+    "components": [
+      {
+        "char": "𠂇",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "子",
+        "meaning_es": "niño"
+      }
+    ],
+    "mnemonic_es": "Una mano protege al niño y lo guarda a salvo: guardar, conservar, existir."
+  },
+  {
+    "char": "球",
+    "components": [
+      {
+        "char": "王",
+        "meaning_es": "jade"
+      },
+      {
+        "char": "求",
+        "meaning_es": "pedir, buscar"
+      }
+    ],
+    "mnemonic_es": "Todos buscan y piden la redonda bola de jade en el partido: la pelota."
+  },
+  {
+    "char": "每",
+    "components": [
+      {
+        "char": "𠂉",
+        "meaning_es": "sombrero (forma de hierba)"
+      },
+      {
+        "char": "母",
+        "meaning_es": "madre"
+      }
+    ],
+    "mnemonic_es": "Cada mamá se pone su sombrero antes de salir: cada, todos los."
+  },
+  {
+    "char": "房",
+    "components": [
+      {
+        "char": "户",
+        "meaning_es": "puerta, hogar"
+      },
+      {
+        "char": "方",
+        "meaning_es": "cuadrado, dirección"
+      }
+    ],
+    "mnemonic_es": "Una puerta que da a un espacio cuadrado: un cuarto o una casa."
+  },
+  {
+    "char": "楼",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "madera"
+      },
+      {
+        "char": "米",
+        "meaning_es": "arroz"
+      },
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      }
+    ],
+    "mnemonic_es": "En un edificio de madera de varios pisos, una mujer guarda el arroz arriba: edificio, piso."
+  },
+  {
+    "char": "信",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "言",
+        "meaning_es": "palabra, hablar"
+      }
+    ],
+    "mnemonic_es": "Una persona que cumple su palabra es alguien en quien crees; y sus palabras escritas son una carta."
+  },
+  {
+    "char": "息",
+    "components": [
+      {
+        "char": "自",
+        "meaning_es": "uno mismo; nariz"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "La nariz sobre el corazón: respiras hondo y descansas; también, una noticia que te llega al corazón."
+  },
+  {
+    "char": "马",
+    "components": [
+      {
+        "char": "马",
+        "meaning_es": "caballo"
+      }
+    ],
+    "mnemonic_es": "Míralo como un caballo de perfil galopando, con la crin arriba y la cola abajo."
+  },
+  {
+    "char": "照",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "召",
+        "meaning_es": "llamar, convocar"
+      },
+      {
+        "char": "灬",
+        "meaning_es": "fuego"
+      }
+    ],
+    "mnemonic_es": "El sol y el fuego son llamados a brillar: iluminar, y con esa luz se toma una foto."
+  },
+  {
+    "char": "片",
+    "components": [
+      {
+        "char": "片",
+        "meaning_es": "rebanada, trozo plano"
+      }
+    ],
+    "mnemonic_es": "Imagínalo como la mitad de un tronco cortado: una tabla, una rebanada delgada, como en 照片 (foto)."
+  },
+  {
+    "char": "七",
+    "components": [
+      {
+        "char": "七",
+        "meaning_es": "siete"
+      }
+    ],
+    "mnemonic_es": "Parece un 7 al revés con una raya que lo cruza: siete."
+  },
+  {
+    "char": "肉",
+    "components": [
+      {
+        "char": "肉",
+        "meaning_es": "carne"
+      }
+    ],
+    "mnemonic_es": "Imagina un trozo de carne colgado en la carnicería con sus vetas marcadas por dentro."
+  },
+  {
+    "char": "处",
+    "components": [
+      {
+        "char": "夂",
+        "meaning_es": "pie que avanza lento"
+      },
+      {
+        "char": "卜",
+        "meaning_es": "adivinar"
+      }
+    ],
+    "mnemonic_es": "Caminas despacio y consultas al adivino para decidir a qué lugar ir y cómo tratar el asunto."
+  },
+  {
+    "char": "气",
+    "components": [
+      {
+        "char": "气",
+        "meaning_es": "aire, vapor"
+      }
+    ],
+    "mnemonic_es": "Sus líneas horizontales parecen capas de vapor que suben y se curvan en el aire."
+  },
+  {
+    "char": "战",
+    "components": [
+      {
+        "char": "占",
+        "meaning_es": "ocupar; adivinar"
+      },
+      {
+        "char": "戈",
+        "meaning_es": "alabarda, arma"
+      }
+    ],
+    "mnemonic_es": "Para ocupar un territorio, los soldados toman sus lanzas: guerra, batalla."
+  },
+  {
+    "char": "争",
+    "components": [
+      {
+        "char": "⺈",
+        "meaning_es": "garra, mano"
+      },
+      {
+        "char": "彐",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "亅",
+        "meaning_es": "gancho"
+      }
+    ],
+    "mnemonic_es": "Dos manos jalan el mismo gancho, cada una hacia su lado: disputar, competir."
+  },
+  {
+    "char": "英",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, planta"
+      },
+      {
+        "char": "央",
+        "meaning_es": "centro"
+      }
+    ],
+    "mnemonic_es": "La flor más bella está en el centro del jardín, como un héroe destaca entre todos; también se usa para «inglés» (英语)."
+  }
+]

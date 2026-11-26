@@ -1,0 +1,540 @@
+[
+  {
+    "word": "中午",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mediodía"
+    ],
+    "examples": [
+      {
+        "zh": "中午我在家吃饭。",
+        "es": "Al mediodía como en casa."
+      },
+      {
+        "zh": "我们中午一起去吃饭吧。",
+        "es": "Vamos a comer juntos al mediodía."
+      },
+      {
+        "zh": "今天中午太热了，我不想出去。",
+        "es": "Hoy al mediodía hace demasiado calor, no quiero salir."
+      },
+      {
+        "zh": "他每天中午都会休息一个小时再上班。",
+        "es": "Todos los días al mediodía descansa una hora antes de volver a trabajar."
+      }
+    ]
+  },
+  {
+    "word": "怎样",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cómo",
+      "de qué manera",
+      "qué tal"
+    ],
+    "examples": [
+      {
+        "zh": "你怎样去学校？",
+        "es": "¿Cómo vas a la escuela?"
+      },
+      {
+        "zh": "这个字怎样写？",
+        "es": "¿Cómo se escribe este carácter?"
+      },
+      {
+        "zh": "你觉得这个电影怎样？",
+        "es": "¿Qué te pareció esta película?"
+      },
+      {
+        "zh": "我不知道怎样才能学好汉语。",
+        "es": "No sé cómo puedo aprender bien chino."
+      }
+    ]
+  },
+  {
+    "word": "干什么",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "qué hacer",
+      "para qué",
+      "a qué"
+    ],
+    "examples": [
+      {
+        "zh": "你在干什么？",
+        "es": "¿Qué estás haciendo?"
+      },
+      {
+        "zh": "你明天下午干什么？",
+        "es": "¿Qué vas a hacer mañana en la tarde?"
+      },
+      {
+        "zh": "你去商店干什么？",
+        "es": "¿A qué vas a la tienda?"
+      },
+      {
+        "zh": "他每天晚上都在家里干什么呢？",
+        "es": "¿Qué hace él en casa todas las noches?"
+      }
+    ]
+  },
+  {
+    "word": "没关系",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no importa",
+      "no hay problema",
+      "no pasa nada"
+    ],
+    "examples": [
+      {
+        "zh": "对不起！——没关系。",
+        "es": "¡Perdón! —No hay problema."
+      },
+      {
+        "zh": "没关系，我们明天再来。",
+        "es": "No importa, volvemos mañana."
+      },
+      {
+        "zh": "你不会说汉语也没关系。",
+        "es": "No importa que no sepas hablar chino."
+      },
+      {
+        "zh": "下雨也没关系，我们可以在家看电影。",
+        "es": "No importa si llueve, podemos ver una película en casa."
+      }
+    ]
+  },
+  {
+    "word": "据",
+    "cedict_reading_index": 3,
+    "meanings_es": [
+      "según",
+      "de acuerdo con",
+      "basarse en",
+      "ocupar"
+    ],
+    "examples": [
+      {
+        "zh": "据他说，明天会下雨。",
+        "es": "Según él, mañana va a llover."
+      },
+      {
+        "zh": "据新闻说，北京今天很冷。",
+        "es": "Según las noticias, hoy hace mucho frío en Beijing."
+      },
+      {
+        "zh": "据调查，很多学生每天上网。",
+        "es": "Según una encuesta, muchos estudiantes se conectan a internet todos los días."
+      },
+      {
+        "zh": "据了解，这家公司今年的产品卖得很好。",
+        "es": "Según se sabe, los productos de esta empresa se vendieron muy bien este año."
+      }
+    ]
+  },
+  {
+    "word": "控制",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "controlar",
+      "dominar",
+      "control"
+    ],
+    "examples": [
+      {
+        "zh": "我控制不了自己。",
+        "es": "No puedo controlarme."
+      },
+      {
+        "zh": "你要控制好自己的时间。",
+        "es": "Tienes que controlar bien tu tiempo."
+      },
+      {
+        "zh": "政府正在控制这个地区的情况。",
+        "es": "El gobierno está controlando la situación en esta región."
+      },
+      {
+        "zh": "这个系统可以用手机控制家里的电视和电脑。",
+        "es": "Este sistema permite controlar con el celular la tele y la computadora de la casa."
+      }
+    ]
+  },
+  {
+    "word": "面包",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pan"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃面包。",
+        "es": "Me gusta comer pan."
+      },
+      {
+        "zh": "早上我吃了两块面包。",
+        "es": "En la mañana comí dos pedazos de pan."
+      },
+      {
+        "zh": "妈妈去商店买面包和水果了。",
+        "es": "Mamá fue a la tienda a comprar pan y fruta."
+      },
+      {
+        "zh": "这家商店的面包非常好吃，我每天都来买。",
+        "es": "El pan de esta tienda es muy rico; vengo a comprarlo todos los días."
+      }
+    ]
+  },
+  {
+    "word": "非",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "no ser",
+      "no",
+      "tener que, insistir en (非…不可)",
+      "incorrecto"
+    ],
+    "examples": [
+      {
+        "zh": "你非来不可。",
+        "es": "Tienes que venir sí o sí."
+      },
+      {
+        "zh": "他非要去北京。",
+        "es": "Él insiste en ir a Beijing."
+      },
+      {
+        "zh": "这个工作非你不可。",
+        "es": "Este trabajo solo lo puedes hacer tú."
+      },
+      {
+        "zh": "孩子非要妈妈给他买新手机不可。",
+        "es": "El niño insiste en que su mamá le compre un celular nuevo."
+      }
+    ]
+  },
+  {
+    "word": "开玩笑",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bromear",
+      "hacer una broma",
+      "burlarse"
+    ],
+    "examples": [
+      {
+        "zh": "我在开玩笑。",
+        "es": "Estoy bromeando."
+      },
+      {
+        "zh": "别开玩笑了！",
+        "es": "¡Deja de bromear!"
+      },
+      {
+        "zh": "他很喜欢跟朋友开玩笑。",
+        "es": "Le gusta mucho bromear con sus amigos."
+      },
+      {
+        "zh": "我不是开玩笑，明天真的要考试。",
+        "es": "No estoy bromeando, mañana de verdad hay examen."
+      }
+    ]
+  },
+  {
+    "word": "上次",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la última vez",
+      "la vez pasada",
+      "anterior"
+    ],
+    "examples": [
+      {
+        "zh": "上次我没去。",
+        "es": "La última vez no fui."
+      },
+      {
+        "zh": "上次的考试很难。",
+        "es": "El examen anterior fue muy difícil."
+      },
+      {
+        "zh": "上次见面是什么时候？",
+        "es": "¿Cuándo fue la última vez que nos vimos?"
+      },
+      {
+        "zh": "上次我们一起去的那个饭店，菜特别好吃。",
+        "es": "La comida del restaurante al que fuimos juntos la última vez era muy rica."
+      }
+    ]
+  },
+  {
+    "word": "才能",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "talento",
+      "capacidad",
+      "habilidad"
+    ],
+    "examples": [
+      {
+        "zh": "他很有才能。",
+        "es": "Él tiene mucho talento."
+      },
+      {
+        "zh": "她有唱歌的才能。",
+        "es": "Ella tiene talento para cantar."
+      },
+      {
+        "zh": "每个人都有自己的才能。",
+        "es": "Cada persona tiene su propio talento."
+      },
+      {
+        "zh": "这个公司给学生很多机会发展自己的才能。",
+        "es": "Esta empresa les da a los estudiantes muchas oportunidades de desarrollar su talento."
+      }
+    ]
+  },
+  {
+    "word": "开会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener una reunión",
+      "estar en una reunión",
+      "reunirse"
+    ],
+    "examples": [
+      {
+        "zh": "老师在开会。",
+        "es": "El maestro está en una reunión."
+      },
+      {
+        "zh": "我们明天上午开会。",
+        "es": "Mañana en la mañana tenemos reunión."
+      },
+      {
+        "zh": "开会的时候请不要打电话。",
+        "es": "Durante la reunión, por favor no hagan llamadas."
+      },
+      {
+        "zh": "他下午一直在开会，现在非常累。",
+        "es": "Estuvo en reunión toda la tarde y ahora está muy cansado."
+      }
+    ]
+  },
+  {
+    "word": "经过",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasar por",
+      "después de, tras",
+      "proceso",
+      "transcurso"
+    ],
+    "examples": [
+      {
+        "zh": "火车经过北京。",
+        "es": "El tren pasa por Beijing."
+      },
+      {
+        "zh": "我每天都经过这个商店。",
+        "es": "Paso por esta tienda todos los días."
+      },
+      {
+        "zh": "请你告诉我事情的经过。",
+        "es": "Por favor, cuéntame cómo pasó todo."
+      },
+      {
+        "zh": "经过一年的学习，他会说汉语了。",
+        "es": "Tras un año de estudio, ya sabe hablar chino."
+      }
+    ]
+  },
+  {
+    "word": "明年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el próximo año",
+      "el año que viene"
+    ],
+    "examples": [
+      {
+        "zh": "明年我十岁。",
+        "es": "El próximo año cumplo diez años."
+      },
+      {
+        "zh": "我明年要去中国。",
+        "es": "El próximo año voy a ir a China."
+      },
+      {
+        "zh": "明年我们公司会有很多新项目。",
+        "es": "El próximo año nuestra empresa tendrá muchos proyectos nuevos."
+      },
+      {
+        "zh": "她希望明年能够考上北京的大学。",
+        "es": "Ella espera poder entrar a una universidad de Beijing el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "来自",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "venir de",
+      "ser de",
+      "provenir de"
+    ],
+    "examples": [
+      {
+        "zh": "他来自日本。",
+        "es": "Él es de Japón."
+      },
+      {
+        "zh": "你来自哪里？",
+        "es": "¿De dónde eres?"
+      },
+      {
+        "zh": "我们班的同学来自不同的国家。",
+        "es": "Mis compañeros de clase vienen de distintos países."
+      },
+      {
+        "zh": "这些资料都来自学校的图书馆。",
+        "es": "Todos estos materiales vienen de la biblioteca de la escuela."
+      }
+    ]
+  },
+  {
+    "word": "听写",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dictado",
+      "hacer un dictado",
+      "transcribir de oído"
+    ],
+    "examples": [
+      {
+        "zh": "今天有听写。",
+        "es": "Hoy hay dictado."
+      },
+      {
+        "zh": "老师让我们听写。",
+        "es": "El maestro nos pidió hacer un dictado."
+      },
+      {
+        "zh": "明天上课要听写这些字。",
+        "es": "Mañana en clase hay dictado de estos caracteres."
+      },
+      {
+        "zh": "我听写的时候写错了三个字，老师让我再写十次。",
+        "es": "En el dictado escribí mal tres caracteres y el maestro me pidió escribirlos diez veces más."
+      }
+    ]
+  },
+  {
+    "word": "媒体",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "medios de comunicación",
+      "prensa",
+      "medio"
+    ],
+    "examples": [
+      {
+        "zh": "媒体都来了。",
+        "es": "Llegaron todos los medios."
+      },
+      {
+        "zh": "外国媒体也来北京了。",
+        "es": "Los medios extranjeros también llegaron a Beijing."
+      },
+      {
+        "zh": "现在很多人通过网络媒体了解新闻。",
+        "es": "Hoy mucha gente se informa de las noticias a través de los medios en internet."
+      },
+      {
+        "zh": "这个事件发生以后，很多国际媒体都来了。",
+        "es": "Después de que ocurrió este incidente, llegaron muchos medios internacionales."
+      }
+    ]
+  },
+  {
+    "word": "唱歌",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cantar",
+      "cantar una canción"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢唱歌。",
+        "es": "Me gusta cantar."
+      },
+      {
+        "zh": "她唱歌唱得很好。",
+        "es": "Ella canta muy bien."
+      },
+      {
+        "zh": "我们晚上一起去唱歌吧！",
+        "es": "¡Vamos a cantar juntos esta noche!"
+      },
+      {
+        "zh": "妹妹每天回家以后都会一边唱歌一边洗衣服。",
+        "es": "Mi hermana menor, todos los días al llegar a casa, lava la ropa mientras canta."
+      }
+    ]
+  },
+  {
+    "word": "努力",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "esforzarse",
+      "trabajador, aplicado",
+      "esfuerzo",
+      "con empeño"
+    ],
+    "examples": [
+      {
+        "zh": "他很努力。",
+        "es": "Él se esfuerza mucho."
+      },
+      {
+        "zh": "我会努力学习。",
+        "es": "Voy a estudiar con empeño."
+      },
+      {
+        "zh": "你要努力工作，才能成功。",
+        "es": "Tienes que trabajar duro para tener éxito."
+      },
+      {
+        "zh": "经过一年的努力，他找到了一个好工作。",
+        "es": "Tras un año de esfuerzo, consiguió un buen trabajo."
+      }
+    ]
+  },
+  {
+    "word": "那儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "allá",
+      "allí",
+      "ahí"
+    ],
+    "examples": [
+      {
+        "zh": "你去那儿吗？",
+        "es": "¿Vas para allá?"
+      },
+      {
+        "zh": "我的书在那儿。",
+        "es": "Mi libro está allí."
+      },
+      {
+        "zh": "那儿的天气很好，不太热。",
+        "es": "Allá el clima es muy bueno, no hace demasiado calor."
+      },
+      {
+        "zh": "我上次去那儿的时候，认识了很多新朋友。",
+        "es": "La última vez que fui allá conocí a muchos amigos nuevos."
+      }
+    ]
+  }
+]

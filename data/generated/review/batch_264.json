@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:在",
+    "ok": false,
+    "issues": [
+      "El significado 'vivir' es ambiguo: en español sugiere 'residir' (que sería 住), cuando la acepción es 'estar vivo, seguir con vida' (p. ej. 他爷爷还在). Conviene cambiarlo a 'estar vivo; seguir con vida'."
+    ],
+    "content_hash": "2362fbb68e86a6a98e62e826b3190c1ab6a98467"
+  },
+  {
+    "id": "word:地",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed17239cb553006cff0144f228567105bd3a95ee"
+  },
+  {
+    "id": "word:第",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8f390cfe303daf525194aaab2d44bc76beb613f"
+  },
+  {
+    "id": "word:需要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87f401bb15336ca411d59f0ca50b854259bf2c8d"
+  },
+  {
+    "id": "word:学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ccb33105e522b12de5d2c1a83da99258d6f48b98"
+  },
+  {
+    "id": "word:万",
+    "ok": false,
+    "issues": [
+      "Pinyin de '我有一万元': 一 ante cuarto tono se pronuncia 'yí', así que debe ser 'yí wàn'. Además es incoherente con los demás ejemplos, que sí aplican el sandhi de 一."
+    ],
+    "content_hash": "13e94a22816f6c37d3e301b52819382cd8810d25"
+  },
+  {
+    "id": "word:知识",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cdfc01aa54afe669a4ac8fe2508dbe5b67fb2ffb"
+  },
+  {
+    "id": "word:内容",
+    "ok": true,
+    "issues": [],
+    "content_hash": "74b0b000ba0eadea9a3d3e6bbc48cb833b1d4c1a"
+  },
+  {
+    "id": "word:看见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "38fbef94fcf6c3bdafb8d52545dbc7dd8cd686b5"
+  },
+  {
+    "id": "word:另",
+    "ok": true,
+    "issues": [],
+    "content_hash": "223b18e876dfb990c2c3c816549b6bc2060da8e5"
+  },
+  {
+    "id": "word:大学生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a4961af09303206d2b7d63accaaf457ec6c30071"
+  },
+  {
+    "id": "word:超过",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en '他跑得很快': 得 como partícula complementaria se lee 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "a47f981368e258d7b7990bb57533ace6abe1eb7d"
+  },
+  {
+    "id": "word:世纪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "745bd9312f6f36ff08b99d5737956c7752e1cae5"
+  },
+  {
+    "id": "word:同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8ce9b58c24a5094f4399e26356f23ef52669095c"
+  },
+  {
+    "id": "word:年代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "88483ec9226bc36f79635561cf6965e83cf04c68"
+  },
+  {
+    "id": "word:生病",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b65f7222cb1809f5ff5e96e474295533df0e83d8"
+  },
+  {
+    "id": "word:坐下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f31b2dd23965c0170326a070261a3582712a57b7"
+  },
+  {
+    "id": "word:半天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d64bb01a0f75181cc1eaa94841b3572a8f30e8ad"
+  },
+  {
+    "id": "word:马路",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en '这条马路很长': 长 con el sentido de 'largo' se lee 'cháng', no 'zhǎng'."
+    ],
+    "content_hash": "6cbe493d54656dc7082ad7c435d0b4facb3b609c"
+  },
+  {
+    "id": "word:说明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ca34e1bab7711e4714a7e48274bb7d0075db414"
+  },
+  {
+    "id": "word:不仅",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f80d4e3d7aee7b45c183c3adf4a95de86f43f6f3"
+  },
+  {
+    "id": "word:上边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d53695ce3463c736371dbdcba78e835888baf216"
+  },
+  {
+    "id": "word:机关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a28f42d8b4fefd84c14ae473f301ae911d64538"
+  },
+  {
+    "id": "word:解释",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b624c6583ed3f43fc66c01232bd896608d3229fd"
+  },
+  {
+    "id": "word:下边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "74596af16d13ec95a986a72618144b32492dfbca"
+  }
+]

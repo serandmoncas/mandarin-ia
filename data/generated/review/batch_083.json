@@ -1,0 +1,183 @@
+[
+  {
+    "id": "word:饭馆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "361e6e3dfbce542fe9df7b527f2524bbedabc445"
+  },
+  {
+    "id": "word:相互",
+    "ok": true,
+    "issues": [],
+    "content_hash": "708d2a83600d99ff961fd0c2df4b9701d0166fd7"
+  },
+  {
+    "id": "word:方便面",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 妈妈 debe ser «mā ma» (tono neutro), no «mā mā»."
+    ],
+    "content_hash": "6cb55fac1658887e5a625dc7a972b587f2690255"
+  },
+  {
+    "id": "word:午睡",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 爷爷 debe ser «yé ye», no «yé yé».",
+      "Pinyin del ejemplo 2: 一点儿 debe ser «yì diǎnr»; «ér» no es una sílaba aparte en el erhua."
+    ],
+    "content_hash": "997063d25e6d479c49a8ce6e11611e4470aa4e39"
+  },
+  {
+    "id": "word:西餐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ecffbec36a98b8463747e79f3e5dbc8768f0958"
+  },
+  {
+    "id": "word:药片",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5db2b10fd9789c5931ff06152a4cde499c025f70"
+  },
+  {
+    "id": "word:安装",
+    "ok": true,
+    "issues": [],
+    "content_hash": "61f0ec67a095b067b57afba98699ef2ec63624cf"
+  },
+  {
+    "id": "word:改造",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 变得 debe ser «biàn de», no «biàn dé»."
+    ],
+    "content_hash": "876867e380656b29604b863a5d9baa3b26b651fc"
+  },
+  {
+    "id": "word:干杯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "94245d45da61ea4816a90ce8ddb3b51d412d9cec"
+  },
+  {
+    "id": "word:阴天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cf9807125ff8567e4d97686887e8d131992671b9"
+  },
+  {
+    "id": "word:快点儿",
+    "ok": false,
+    "issues": [
+      "Pinyin de todos los ejemplos: 点儿 debe ser «diǎnr», no «diǎn ér».",
+      "Pinyin del ejemplo 4: 妈妈 debe ser «mā ma», no «mā mā»."
+    ],
+    "content_hash": "c76b67a886d7eccedfd8045aa39f8faf678c9e75"
+  },
+  {
+    "id": "word:有一点儿",
+    "ok": false,
+    "issues": [
+      "Pinyin de todos los ejemplos: 一点儿 debe ser «yì diǎnr», no «yì diǎn ér»."
+    ],
+    "content_hash": "7167ec65ef3df253edfeca0916cf000b4d3f3db8"
+  },
+  {
+    "id": "word:有空儿",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 空儿 debe ser «kòngr», no «kòng er» ni «kòng ér»; además, la transcripción es inconsistente entre ejemplos.",
+      "Pinyin del ejemplo 4: 玩儿 debe ser «wánr», no «wán ér»."
+    ],
+    "content_hash": "c9805c4983f64b528dafac6f5f17996f37ba51c4"
+  },
+  {
+    "id": "word:事故",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 了 debe ser «le», no «liǎo»."
+    ],
+    "content_hash": "910e0d669eefdb91290ccac6d817075f28245a24"
+  },
+  {
+    "id": "word:干活儿",
+    "ok": false,
+    "issues": [
+      "Pinyin de todos los ejemplos: 活儿 debe ser «huór», no «huó ér».",
+      "Pinyin del ejemplo 3: 爸爸 debe ser «bà ba», no «bà bà»."
+    ],
+    "content_hash": "b0bbf0c6763e10a64c4bf214313f266b5de97bfc"
+  },
+  {
+    "id": "word:一路顺风",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86a550148e210ab4a965ea36e4b477305c19ae6f"
+  },
+  {
+    "id": "word:主持",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c6486f72511525c95f6ab552bfda9a789a03d448"
+  },
+  {
+    "id": "word:高速",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 得 debe ser «de», no «dé».",
+      "Ejemplo 2: «高速火车» es poco natural; lo habitual es 高铁 o 高速列车."
+    ],
+    "content_hash": "613985a89ff74e0e52e16377b8cc5b2d8746d96e"
+  },
+  {
+    "id": "word:环保",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f468412c8f448c09a66af1ba73cae933c605f3e"
+  },
+  {
+    "id": "word:仅仅",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: la traducción omite 仅仅; debería ser «Tener solo dinero no basta…».",
+      "Pinyin del ejemplo 4: 得 debe ser «de», no «dé»."
+    ],
+    "content_hash": "c18660fae2ffaf107b042e175f6fcbdee3628ee6"
+  },
+  {
+    "id": "word:紧急",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e541fd2baee47fade0121c94b672804c92975220"
+  },
+  {
+    "id": "word:美好",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «我们有一个美好的未来» suena poco natural; lo habitual es «我们会有一个美好的未来».",
+      "Ejemplo 4: «那段美好的时间» es menos natural que «那段美好的时光»."
+    ],
+    "content_hash": "ce541379658d122ccc2300ac8b8dbccaa9b77408"
+  },
+  {
+    "id": "word:谈判",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 得 debe ser «de», no «dé»."
+    ],
+    "content_hash": "648cd5ccc5edecc472bc36ea89774cafa4e19a5a"
+  },
+  {
+    "id": "word:朝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "26ac14cb742b9b8984bcdccb025ed588c681c568"
+  },
+  {
+    "id": "word:发明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ea26426d9faa21b6ad6709fd0ec2bc8ccebb249"
+  }
+]

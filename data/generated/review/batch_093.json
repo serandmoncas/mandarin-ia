@@ -1,0 +1,163 @@
+[
+  {
+    "id": "word:优点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "014cf04e5c20cf1b68eaa3729d578d88035c4866"
+  },
+  {
+    "id": "word:欢乐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20d7fc47f7cbda5479326cf651dad4a136d1d1cc"
+  },
+  {
+    "id": "word:老百姓",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 东西 ('cosas') es dōng xi, con tono neutro. 'dōng xī' corresponde a 'este y oeste'."
+    ],
+    "content_hash": "65842e3cceafebf6e5f626130adf52dfcceb7c0b"
+  },
+  {
+    "id": "word:乐队",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 一场 se lee yì chǎng. 场 como clasificador lleva tercer tono, no 'cháng'.",
+      "Ejemplo 4: 体育馆 es un gimnasio o arena techada. 'Estadio' corresponde a 体育场; mejor traducir 'en el gimnasio' o 'en la arena'."
+    ],
+    "content_hash": "8e03322534cb22bf4ba079687b4c7a586b5d2a82"
+  },
+  {
+    "id": "word:录音",
+    "ok": true,
+    "issues": [],
+    "content_hash": "300ae66e2ddb8c1e7922842bada04608df6ff6c7"
+  },
+  {
+    "id": "word:难度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5869874a8e7ea87273d5c5e24cf54ef687acf228"
+  },
+  {
+    "id": "word:邮件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d908384c6e9d030390b2eb07e123ef7e33580523"
+  },
+  {
+    "id": "word:反复",
+    "ok": true,
+    "issues": [],
+    "content_hash": "73ae9324c394365cb4bf1fe452df032d5216dd2c"
+  },
+  {
+    "id": "word:否定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "123a33d8e02e15a987e67cb6e56418d62b0bad83"
+  },
+  {
+    "id": "word:光明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b14cbfdc2abb54bd452e71e97fd185609b9940a"
+  },
+  {
+    "id": "word:缺点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d87e7c975de18d4a8ac6b08a850fd03886b27e95"
+  },
+  {
+    "id": "word:手续",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: en 多长时间, 长 se lee cháng, no 'zhǎng'."
+    ],
+    "content_hash": "c7ea4a8b8da29f1d804d8db49dc1358a131ddb58"
+  },
+  {
+    "id": "word:跳舞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ccf39ecb02b8789fc3e0d14ae8d90d2d0adfb9b"
+  },
+  {
+    "id": "word:缺",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a70c1cbfa3abeacfacc9a53c820e8656f5a5541"
+  },
+  {
+    "id": "word:形状",
+    "ok": true,
+    "issues": [],
+    "content_hash": "412ee35ac74b555f975d1d0b981f5b91055cf676"
+  },
+  {
+    "id": "word:影视",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: la partícula 得 en 发展得 se lee de (neutro), no 'dé'."
+    ],
+    "content_hash": "e193469aa9abfb17106f16a1a41d7909bba9fb4f"
+  },
+  {
+    "id": "word:保安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa517e6fb4f73b8e2547aab754c73c835dd21d88"
+  },
+  {
+    "id": "word:志愿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7ec9892b9f8e4208a73bfbdc72029d593511eef"
+  },
+  {
+    "id": "word:不安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91fc7ed321553ad281e3271aaed06d3119f80cc5"
+  },
+  {
+    "id": "word:代表团",
+    "ok": true,
+    "issues": [],
+    "content_hash": "44b1d27958ef7c0875f1177fc1ae66ab69630095"
+  },
+  {
+    "id": "word:哈哈",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: la partícula 地 en 哈哈地笑 se lee de (neutro), no 'dì'."
+    ],
+    "content_hash": "78a03baa4edf6b3902659181cf1983a71d0cafa2"
+  },
+  {
+    "id": "word:球迷",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a4237b98ed826568964a3a8aead82bc4d47b67b"
+  },
+  {
+    "id": "word:订",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25978088a4be8a02c8e74506d908fb8bfd99af3d"
+  },
+  {
+    "id": "word:整天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76f1801058bc1708488c31fa59ca242aa38c5f01"
+  },
+  {
+    "id": "word:单元",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3bfcdf49ae95aa727adf0e9669b500452e905ca"
+  }
+]

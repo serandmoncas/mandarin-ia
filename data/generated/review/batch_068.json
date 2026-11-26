@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:队长",
+    "ok": false,
+    "issues": [
+      "Pinyin del tercer ejemplo: 得 como partícula estructural debe ser 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "60f8ea959f2637f8ea02aa3fa33fe3ec744f8a49"
+  },
+  {
+    "id": "word:资格",
+    "ok": false,
+    "issues": [
+      "El significado 'requisitos' no es correcto: 资格 es la calificación o elegibilidad que uno tiene, no los requisitos exigidos (eso sería 条件/要求)."
+    ],
+    "content_hash": "850053743a798f890f1c4791fcf987db1903924b"
+  },
+  {
+    "id": "word:公斤",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51f101417d416de7baac0be37409459c23fb9092"
+  },
+  {
+    "id": "word:旅客",
+    "ok": false,
+    "issues": [
+      "Cuarto ejemplo: 飞机票被取消 dice que se cancelaron los boletos de avión, no los vuelos. La traducción no es fiel, y en chino lo natural sería 航班被取消了."
+    ],
+    "content_hash": "39ff3e6587fc474deb8218b9410b4da9441e3f4b"
+  },
+  {
+    "id": "word:机器",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dfb760cdc193b629095f855db8a8522f1d725b46"
+  },
+  {
+    "id": "word:千",
+    "ok": false,
+    "issues": [
+      "Pinyin del cuarto ejemplo: 参加 se lee 'cān jiā', no 'shēn jiā'."
+    ],
+    "content_hash": "7495e737d22ce7c8e532d5aab16cb27702a08d34"
+  },
+  {
+    "id": "word:集中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3945b249f9722d266dcb2e1f704c5e484c1e9d88"
+  },
+  {
+    "id": "word:送给",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e523c56c8163c3470a269f12a05d7307d6a3d7c"
+  },
+  {
+    "id": "word:纪念",
+    "ok": false,
+    "issues": [
+      "Pinyin del cuarto ejemplo: 都 se lee 'dōu', no 'dū'.",
+      "'aniversario' corresponde a 纪念日 o 周年; 纪念 por sí solo no significa aniversario."
+    ],
+    "content_hash": "989e7fac6cf85908e3463fc2cddf71b05b005a2b"
+  },
+  {
+    "id": "word:紧张",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d0aaf99354deea9d53ea8363d002289c89bd690"
+  },
+  {
+    "id": "word:西北",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ea37afef0422957eeba8c7a7cad88058cce14790"
+  },
+  {
+    "id": "word:故意",
+    "ok": false,
+    "issues": [
+      "Pinyin del cuarto ejemplo: 得 en 说得很慢 debe ser 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "2b67edcdd1a9def915b9beb3aa97e09bd6a61650"
+  },
+  {
+    "id": "word:黄色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9cf9c2d77a56416b41da90e0db6251ee31f1392"
+  },
+  {
+    "id": "word:入口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a2a405dd5d6846be871a7831a6a41e91067eba4b"
+  },
+  {
+    "id": "word:推广",
+    "ok": true,
+    "issues": [],
+    "content_hash": "162f0278496e62cba79ec6ce379b3c9e8df61094"
+  },
+  {
+    "id": "word:修改",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5fe12fc0a7c28ce934399f5dfc72980c75e688b0"
+  },
+  {
+    "id": "word:参观",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9089cf6e5e2f01e9f65bc8769eb36219a37356f1"
+  },
+  {
+    "id": "word:自身",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5bdb430d9a85f3b9fd1f140a0676e761b4cc1c0"
+  },
+  {
+    "id": "word:出门",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b8b011244e82165370f0c91dbb619415aa3c609c"
+  },
+  {
+    "id": "word:蛋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9dee42094d88829a58cd8bf7632dae267a1f1713"
+  },
+  {
+    "id": "word:充满",
+    "ok": true,
+    "issues": [],
+    "content_hash": "428cf673800c15a84d4e37e98a1bdf13e38dd91c"
+  },
+  {
+    "id": "word:湖",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a35c31115b2467414d8186534d79118b2037c48"
+  },
+  {
+    "id": "word:花园",
+    "ok": false,
+    "issues": [
+      "Pinyin del tercer ejemplo: 玩儿 se lee 'wánr' (con sufijo -r), no 'wán ér'."
+    ],
+    "content_hash": "1c0b4b0cb60f7127f25fc424a555a89bbcfa746d"
+  },
+  {
+    "id": "word:纸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e763b69e4582e9fb80caf89eb51fa138500a30ff"
+  },
+  {
+    "id": "word:笔",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad1c47ce557083233bfc22c545ff1f54d7840fee"
+  }
+]

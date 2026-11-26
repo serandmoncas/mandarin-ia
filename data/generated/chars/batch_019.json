@@ -1,0 +1,426 @@
+[
+  {
+    "char": "反",
+    "components": [
+      {
+        "char": "厂",
+        "meaning_es": "acantilado"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Imagina una mano que empuja contra un acantilado: el muro no cede y la empuja al revés. Así recuerdas «contrario, al revés»."
+  },
+  {
+    "char": "致",
+    "components": [
+      {
+        "char": "至",
+        "meaning_es": "llegar"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear, acción"
+      }
+    ],
+    "mnemonic_es": "Para llegar a la meta hay que darle con fuerza. Con esfuerzo se causa un resultado o se envía algo hasta su destino."
+  },
+  {
+    "char": "桌",
+    "components": [
+      {
+        "char": "⺊",
+        "meaning_es": "adivinación"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "木",
+        "meaning_es": "madera"
+      }
+    ],
+    "mnemonic_es": "Una pieza de madera donde se pone el sol del almuerzo y encima unas cartas de adivinación: es la mesa de la casa."
+  },
+  {
+    "char": "属",
+    "components": [
+      {
+        "char": "尸",
+        "meaning_es": "cuerpo, cadáver"
+      },
+      {
+        "char": "禹",
+        "meaning_es": "Yu (nombre de un rey legendario)"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo-cuerpo de 尸 vive el rey Yu con todos los suyos. Todo lo que está ahí le pertenece."
+  },
+  {
+    "char": "形",
+    "components": [
+      {
+        "char": "开",
+        "meaning_es": "abrir"
+      },
+      {
+        "char": "彡",
+        "meaning_es": "trazos, pinceladas"
+      }
+    ],
+    "mnemonic_es": "Abres un lienzo y le das tres pinceladas: ya aparece una forma."
+  },
+  {
+    "char": "音",
+    "components": [
+      {
+        "char": "立",
+        "meaning_es": "pararse"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      }
+    ],
+    "mnemonic_es": "Alguien se para al salir el sol y canta al amanecer. Su voz es un sonido."
+  },
+  {
+    "char": "乐",
+    "components": [
+      {
+        "char": "乐",
+        "meaning_es": "música, alegría"
+      }
+    ],
+    "mnemonic_es": "Míralo como un instrumento con cuerdas colgando de un soporte. Cuando suena la música (yuè), llega la alegría (lè)."
+  },
+  {
+    "char": "银",
+    "components": [
+      {
+        "char": "钅",
+        "meaning_es": "metal"
+      },
+      {
+        "char": "艮",
+        "meaning_es": "firme, terco"
+      }
+    ],
+    "mnemonic_es": "Un metal firme y brillante que no se oxida fácilmente: la plata, el metal del banco (银行)."
+  },
+  {
+    "char": "布",
+    "components": [
+      {
+        "char": "𠂇",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "巾",
+        "meaning_es": "paño, tela"
+      }
+    ],
+    "mnemonic_es": "Una mano extiende un paño sobre la mesa: es la tela. Extenderla también es «anunciar» o «disponer»."
+  },
+  {
+    "char": "啦",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "拉",
+        "meaning_es": "jalar"
+      }
+    ],
+    "mnemonic_es": "La boca jala y alarga el final de la frase: «¡ya llegué-laaa!». Es una partícula de exclamación."
+  },
+  {
+    "char": "筑",
+    "components": [
+      {
+        "char": "竹",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "巩",
+        "meaning_es": "consolidar, reforzar"
+      }
+    ],
+    "mnemonic_es": "Con andamios de bambú se refuerza la obra: así se construye un edificio."
+  },
+  {
+    "char": "数",
+    "components": [
+      {
+        "char": "米",
+        "meaning_es": "arroz"
+      },
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear, acción"
+      }
+    ],
+    "mnemonic_es": "Una mujer cuenta los granos de arroz dándoles golpecitos uno por uno: contar, número."
+  },
+  {
+    "char": "版",
+    "components": [
+      {
+        "char": "片",
+        "meaning_es": "lámina, rebanada"
+      },
+      {
+        "char": "反",
+        "meaning_es": "al revés"
+      }
+    ],
+    "mnemonic_es": "En una lámina de imprenta las letras van al revés y salen derechas en el papel. Así recuerdas «edición, versión»."
+  },
+  {
+    "char": "验",
+    "components": [
+      {
+        "char": "马",
+        "meaning_es": "caballo"
+      },
+      {
+        "char": "佥",
+        "meaning_es": "todos, juntos"
+      }
+    ],
+    "mnemonic_es": "Antes de comprar un caballo, todos lo revisan juntos: examinar, comprobar."
+  },
+  {
+    "char": "显",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "业",
+        "meaning_es": "negocio, oficio"
+      }
+    ],
+    "mnemonic_es": "Bajo el sol, el negocio queda a la vista de todos: mostrar, ser evidente."
+  },
+  {
+    "char": "性",
+    "components": [
+      {
+        "char": "忄",
+        "meaning_es": "corazón"
+      },
+      {
+        "char": "生",
+        "meaning_es": "nacer, vida"
+      }
+    ],
+    "mnemonic_es": "Lo que el corazón trae desde que nace es tu carácter: naturaleza, índole, y también «sexo» o «-idad»."
+  },
+  {
+    "char": "假",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "叚",
+        "meaning_es": "prestar, tomar prestado"
+      }
+    ],
+    "mnemonic_es": "Una persona que anda con cosas prestadas aparenta lo que no es: falso. Y un tiempo «prestado» del trabajo son las vacaciones (jià)."
+  },
+  {
+    "char": "言",
+    "components": [
+      {
+        "char": "言",
+        "meaning_es": "palabra, hablar"
+      }
+    ],
+    "mnemonic_es": "Imagina una boca abajo con ondas de sonido saliendo hacia arriba: palabras, hablar."
+  },
+  {
+    "char": "指",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "旨",
+        "meaning_es": "intención, propósito"
+      }
+    ],
+    "mnemonic_es": "La mano muestra tu intención cuando estiras el dedo para señalar: dedo, indicar."
+  },
+  {
+    "char": "官",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "𠂤",
+        "meaning_es": "montículo, multitud"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo oficial hay montones de expedientes apilados: ahí trabaja el funcionario."
+  },
+  {
+    "char": "德",
+    "components": [
+      {
+        "char": "彳",
+        "meaning_es": "paso, caminar"
+      },
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      },
+      {
+        "char": "罒",
+        "meaning_es": "ojo (acostado)"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Camina mirando con diez ojos y con un solo corazón recto. Quien vive así tiene virtud."
+  },
+  {
+    "char": "格",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "各",
+        "meaning_es": "cada uno"
+      }
+    ],
+    "mnemonic_es": "Con varillas de madera se arma una rejilla donde cada uno tiene su casilla: cuadrícula, norma, estilo."
+  },
+  {
+    "char": "均",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "匀",
+        "meaning_es": "uniforme, repartir parejo"
+      }
+    ],
+    "mnemonic_es": "Se reparte la tierra en partes iguales: parejo, igual, promedio."
+  },
+  {
+    "char": "权",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "La mano que sostiene el bastón de madera es la que manda: poder, derecho."
+  },
+  {
+    "char": "录",
+    "components": [
+      {
+        "char": "彐",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "氺",
+        "meaning_es": "agua"
+      }
+    ],
+    "mnemonic_es": "Una mano moja el pincel en agua con tinta para anotarlo todo: registrar, grabar."
+  },
+  {
+    "char": "警",
+    "components": [
+      {
+        "char": "敬",
+        "meaning_es": "respetar"
+      },
+      {
+        "char": "言",
+        "meaning_es": "palabra"
+      }
+    ],
+    "mnemonic_es": "Son palabras que hay que respetar: una advertencia, una alerta. De ahí viene 警察, la policía."
+  },
+  {
+    "char": "察",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "祭",
+        "meaning_es": "ofrenda, ritual"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo del templo, durante el ritual, alguien observa con cuidado cada detalle: examinar, observar."
+  },
+  {
+    "char": "联",
+    "components": [
+      {
+        "char": "耳",
+        "meaning_es": "oreja"
+      },
+      {
+        "char": "关",
+        "meaning_es": "cerrar, conexión, paso"
+      }
+    ],
+    "mnemonic_es": "Pegas la oreja para escuchar y así se establece la conexión: unir, contactar."
+  },
+  {
+    "char": "米",
+    "components": [
+      {
+        "char": "米",
+        "meaning_es": "arroz, metro"
+      }
+    ],
+    "mnemonic_es": "Granos de arroz que saltan en todas direcciones desde el centro: arroz. Y también «metro», la unidad de medida."
+  },
+  {
+    "char": "母",
+    "components": [
+      {
+        "char": "母",
+        "meaning_es": "madre"
+      }
+    ],
+    "mnemonic_es": "Ve en él una figura de mujer con dos puntos que recuerdan el pecho que amamanta: madre."
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:广州",
+    "ok": false,
+    "issues": [
+      "Traducción del 4.º ejemplo: «Viví muchos años en Cantón» contradice «de aquí» (这里), que indica que la persona sigue allí. Mejor: «Llevo muchos años viviendo en Cantón y me gusta mucho la comida de aquí»."
+    ],
+    "content_hash": "f3a0fd969c71cae1aa3e98cbbf676a9875e301d9"
+  },
+  {
+    "id": "word:名单",
+    "ok": false,
+    "issues": [
+      "«nómina» en Latinoamérica se entiende sobre todo como planilla de sueldos (工资单), lo que puede confundir. Conviene quitarlo o precisar «nómina (lista de nombres)»."
+    ],
+    "content_hash": "6ad97d1e6febd4b7d52446445157614b66c22e72"
+  },
+  {
+    "id": "word:评论",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a27c2b0e8c79c95be0603f37ebf88b17210cd921"
+  },
+  {
+    "id": "word:挺",
+    "ok": false,
+    "issues": [
+      "Pinyin del 3.er ejemplo: 说得 debe ser «shuō de» (partícula en tono neutro), no «shuō dé»."
+    ],
+    "content_hash": "90e6609c94a62582a42a36b40ffab0fe50ae8b05"
+  },
+  {
+    "id": "word:软件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d68b479a9f219948fd1843a92ef269059c304221"
+  },
+  {
+    "id": "word:信号",
+    "ok": false,
+    "issues": [
+      "4.º ejemplo poco natural: «他用手给我一个信号» no marca pasado y suena forzado. Mejor «他用手给我打了个信号/手势，让我别说话», con el pinyin ajustado."
+    ],
+    "content_hash": "ce8d6f80cd3c1355afdf5a8ff717211fd632c095"
+  },
+  {
+    "id": "word:逼",
+    "ok": false,
+    "issues": [
+      "Pinyin del 4.º ejemplo: 逼得 debe ser «bī de», no «bī dé»."
+    ],
+    "content_hash": "41529511b51a824617c7b4bf1bfaecdefc0a36fd"
+  },
+  {
+    "id": "word:角度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bdee723fa79cc4baf8f3093d99367e3843addb57"
+  },
+  {
+    "id": "word:部队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d13bc9b08a47278fe73a14378e24e1a7faa0746a"
+  },
+  {
+    "id": "word:镇",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8778d5f132d22fddf0ef2f552ad6c40e1b0a4070"
+  },
+  {
+    "id": "word:哭",
+    "ok": false,
+    "issues": [
+      "Pinyin del 4.º ejemplo: 高兴得 debe ser «gāo xìng de», no «gāo xìng dé»."
+    ],
+    "content_hash": "4a9bd811c1010e9427e76c89ea12ba1f78593daf"
+  },
+  {
+    "id": "word:颜色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9c014c93d85bcfc2d2aef2246aa31dfdbab3d96"
+  },
+  {
+    "id": "word:照顾",
+    "ok": false,
+    "issues": [
+      "La lectura de la palabra (zhao4 gu5, tono neutro) no coincide con el pinyin de los ejemplos (zhào gù). La pronunciación estándar es zhàogù. Conviene unificarla."
+    ],
+    "content_hash": "164a21834608f281584c9e73d76d7474594431cd"
+  },
+  {
+    "id": "word:称为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc0e3b7f0eec113de88034a42726952768c316f6"
+  },
+  {
+    "id": "word:不行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c837df694dc689f49472891938a621d0b53244c"
+  },
+  {
+    "id": "word:父母",
+    "ok": true,
+    "issues": [],
+    "content_hash": "854037d57c0e676d61cc18d245d09f14d01bb218"
+  },
+  {
+    "id": "word:大多数",
+    "ok": false,
+    "issues": [
+      "Pinyin del 3.er ejemplo: 都 debe ser «dōu», no «dū»."
+    ],
+    "content_hash": "bbcf693b14371d8a4525386ebdab40297c1c3abe"
+  },
+  {
+    "id": "word:店",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7de1fb04f901357279137a9544b0e88da441481e"
+  },
+  {
+    "id": "word:计算机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ff60f277affd27b33c7572391c3be4d55d2c96f"
+  },
+  {
+    "id": "word:绿色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2beccad28f56068409c70b8f22acb7aac9303418"
+  },
+  {
+    "id": "word:具体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f1c47d0aa904ad03c69ad78e06eb3e46a44cb3e"
+  },
+  {
+    "id": "word:开展",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bae561e6eaf45176235a04b9a534ecc75755905a"
+  },
+  {
+    "id": "word:做到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4e9a6f8f14d65cbf864ec65cef4e011be3c5125"
+  },
+  {
+    "id": "word:报纸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7d8358461571a85215d3e0aaf198c41e0257215"
+  },
+  {
+    "id": "word:方便",
+    "ok": true,
+    "issues": [],
+    "content_hash": "92d82d2ba6b779dbaae62d0d03ade1f758f89bb2"
+  }
+]

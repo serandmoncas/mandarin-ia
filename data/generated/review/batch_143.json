@@ -1,0 +1,156 @@
+[
+  {
+    "id": "phrase:restaurant:006",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f5419910d34c7ee9e38a5ec776cf67234c1d23f"
+  },
+  {
+    "id": "phrase:restaurant:007",
+    "ok": true,
+    "issues": [],
+    "content_hash": "261e5b1c285c9ef7a313bc966de9150c7789b4f1"
+  },
+  {
+    "id": "phrase:restaurant:008",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ab37a748ce3eb3940f479cb4932a7870ec487d8"
+  },
+  {
+    "id": "phrase:restaurant:009",
+    "ok": true,
+    "issues": [],
+    "content_hash": "04919f6091e702aab80b1f0f6e9ff6d183b01d85"
+  },
+  {
+    "id": "phrase:restaurant:010",
+    "ok": true,
+    "issues": [],
+    "content_hash": "822d5322f62e68d153592ce498837940b7e6e872"
+  },
+  {
+    "id": "phrase:restaurant:011",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4af12f9124c3da490794c40134e9e739dfdaccae"
+  },
+  {
+    "id": "phrase:restaurant:012",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a25469de5220bc88c3f7166fd8060a8148b7c03"
+  },
+  {
+    "id": "phrase:restaurant:013",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c87b37459d77e59f6ddc0cef7d8e8522ae7e374"
+  },
+  {
+    "id": "phrase:restaurant:014",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a688e58fa329045d9a873dc3079f4c6b7d3e31bf"
+  },
+  {
+    "id": "phrase:restaurant:015",
+    "ok": true,
+    "issues": [],
+    "content_hash": "604f5c8ef33c91aa01ca80a873b928a8da7dbfaa"
+  },
+  {
+    "id": "phrase:restaurant:016",
+    "ok": false,
+    "issues": [
+      "Pinyin de 一杯: con el cambio tonal de 一 ante cuarto... ante primer tono se pronuncia yì bēi, no yī bēi; además es inconsistente con 009, donde sí se marca el sandhi (bú yào)."
+    ],
+    "content_hash": "8223b1e0ebb6a044beb047e2999fb0300033c73b"
+  },
+  {
+    "id": "phrase:restaurant:017",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e15a157c9f668ebe7372f77b32fc17ab78f14c8f"
+  },
+  {
+    "id": "phrase:restaurant:018",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a05e0ef908c4f0942eba630e6591f9b62294f48a"
+  },
+  {
+    "id": "phrase:restaurant:019",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c678d1368e99624bc2789d871093fcd65c345cb2"
+  },
+  {
+    "id": "phrase:restaurant:020",
+    "ok": true,
+    "issues": [],
+    "content_hash": "503b91b05430f49237776fcd4f0d88b56c19daa7"
+  },
+  {
+    "id": "phrase:restaurant:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1cfc80bd443643d3dcb1eacc670c0c634cbf512d"
+  },
+  {
+    "id": "phrase:restaurant:022",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3dc57ee54786fe3c78780807c28fe7d41e2adc34"
+  },
+  {
+    "id": "phrase:restaurant:023",
+    "ok": false,
+    "issues": [
+      "Pinyin de 一双: ante primer tono 一 se pronuncia en cuarto tono (yì shuāng), no yī shuāng; inconsistente con el sandhi marcado en 009 (bú yào)."
+    ],
+    "content_hash": "1df4fb9661600c1599cd9f9c40290e122b05b835"
+  },
+  {
+    "id": "phrase:restaurant:024",
+    "ok": true,
+    "issues": [],
+    "content_hash": "66cec2b7c7cb4233dc80e611e7453de42b4e430a"
+  },
+  {
+    "id": "phrase:restaurant:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "277b170ad576183091a3d52f12070b033bb3365d"
+  },
+  {
+    "id": "phrase:restaurant:026",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8856744c8c0656c1d43af23f348c5bdda203428"
+  },
+  {
+    "id": "phrase:restaurant:027",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14e93e5902707af29e253c34d5009cdc4f931045"
+  },
+  {
+    "id": "phrase:transport:000",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2fe358d32952c1a646783f9987faa488424e3ac5"
+  },
+  {
+    "id": "phrase:transport:001",
+    "ok": true,
+    "issues": [],
+    "content_hash": "03b90ac631f599fd84690ec9bcddebecbc014658"
+  },
+  {
+    "id": "phrase:transport:002",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad899ec6b4cd553c7d7732db15fa702b344b94da"
+  }
+]

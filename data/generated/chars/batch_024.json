@@ -1,0 +1,454 @@
+[
+  {
+    "char": "观",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "见",
+        "meaning_es": "ver"
+      }
+    ],
+    "mnemonic_es": "Te pones la mano sobre la frente para ver mejor a lo lejos: así observas el paisaje."
+  },
+  {
+    "char": "村",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "pulgada"
+      }
+    ],
+    "mnemonic_es": "Unos cuantos árboles y casitas de pocas pulgadas en el mapa: eso es una aldea."
+  },
+  {
+    "char": "青",
+    "components": [
+      {
+        "char": "龶",
+        "meaning_es": "brote (forma de 生, nacer)"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna"
+      }
+    ],
+    "mnemonic_es": "Un brote recién nacido bajo la luz de la luna se ve de un verde azulado y muy joven."
+  },
+  {
+    "char": "享",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa / techo"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "子",
+        "meaning_es": "niño"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo, un niño con la boca abierta disfruta su comida favorita."
+  },
+  {
+    "char": "尤",
+    "components": [
+      {
+        "char": "尢",
+        "meaning_es": "cojo / pierna torcida"
+      },
+      {
+        "char": "丶",
+        "meaning_es": "punto"
+      }
+    ],
+    "mnemonic_es": "Entre todos los que cojean, el que lleva un punto extra resalta especialmente."
+  },
+  {
+    "char": "尽",
+    "components": [
+      {
+        "char": "尺",
+        "meaning_es": "regla / medida"
+      },
+      {
+        "char": "⺀",
+        "meaning_es": "dos gotas"
+      }
+    ],
+    "mnemonic_es": "Mides con la regla hasta las últimas dos gotas: lo usaste todo, al máximo."
+  },
+  {
+    "char": "案",
+    "components": [
+      {
+        "char": "安",
+        "meaning_es": "paz / tranquilo"
+      },
+      {
+        "char": "木",
+        "meaning_es": "madera"
+      }
+    ],
+    "mnemonic_es": "Sobre una mesa de madera, en paz, el detective revisa el expediente del caso."
+  },
+  {
+    "char": "创",
+    "components": [
+      {
+        "char": "仓",
+        "meaning_es": "granero / almacén"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Con un cuchillo abres un granero vacío y creas algo nuevo, aunque te hagas una herida en el intento."
+  },
+  {
+    "char": "算",
+    "components": [
+      {
+        "char": "竹",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      },
+      {
+        "char": "廾",
+        "meaning_es": "dos manos"
+      }
+    ],
+    "mnemonic_es": "Con los ojos atentos y las dos manos moviendo cuentas de bambú del ábaco, calculas."
+  },
+  {
+    "char": "似",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "以",
+        "meaning_es": "usar / por medio de"
+      }
+    ],
+    "mnemonic_es": "Una persona usa la ropa de otra y ahora se parecen muchísimo."
+  },
+  {
+    "char": "刚",
+    "components": [
+      {
+        "char": "冈",
+        "meaning_es": "colina / cerro"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Un cuchillo tan duro que acaba de partir un cerro: ¡recién lo hizo!"
+  },
+  {
+    "char": "协",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      },
+      {
+        "char": "办",
+        "meaning_es": "hacer / gestionar"
+      }
+    ],
+    "mnemonic_es": "Diez personas haciendo el trabajo juntas: eso es cooperar."
+  },
+  {
+    "char": "倒",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "到",
+        "meaning_es": "llegar"
+      }
+    ],
+    "mnemonic_es": "La persona llega corriendo a la meta y se cae de cabeza."
+  },
+  {
+    "char": "广",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "techo abierto / cobertizo"
+      }
+    ],
+    "mnemonic_es": "Un gran techo abierto por un lado cubre un espacio muy amplio."
+  },
+  {
+    "char": "检",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "madera"
+      },
+      {
+        "char": "佥",
+        "meaning_es": "todos / juntos"
+      }
+    ],
+    "mnemonic_es": "El inspector revisa todas las tablas de madera, una por una."
+  },
+  {
+    "char": "限",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina"
+      },
+      {
+        "char": "艮",
+        "meaning_es": "firme / terco"
+      }
+    ],
+    "mnemonic_es": "Una colina firme que no se mueve marca el límite del terreno."
+  },
+  {
+    "char": "破",
+    "components": [
+      {
+        "char": "石",
+        "meaning_es": "piedra"
+      },
+      {
+        "char": "皮",
+        "meaning_es": "piel"
+      }
+    ],
+    "mnemonic_es": "Una piedra golpea la piel y la rompe."
+  },
+  {
+    "char": "室",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "至",
+        "meaning_es": "llegar"
+      }
+    ],
+    "mnemonic_es": "Llegas bajo el techo y entras a tu habitación."
+  },
+  {
+    "char": "突",
+    "components": [
+      {
+        "char": "穴",
+        "meaning_es": "cueva / agujero"
+      },
+      {
+        "char": "犬",
+        "meaning_es": "perro"
+      }
+    ],
+    "mnemonic_es": "De repente, un perro sale disparado de la cueva."
+  },
+  {
+    "char": "压",
+    "components": [
+      {
+        "char": "厂",
+        "meaning_es": "acantilado"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "丶",
+        "meaning_es": "punto"
+      }
+    ],
+    "mnemonic_es": "La tierra del acantilado presiona con todo su peso sobre un puntito."
+  },
+  {
+    "char": "轻",
+    "components": [
+      {
+        "char": "车",
+        "meaning_es": "vehículo"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "工",
+        "meaning_es": "trabajo"
+      }
+    ],
+    "mnemonic_es": "Un carrito tan liviano que lo empujas con una mano sin trabajo alguno."
+  },
+  {
+    "char": "令",
+    "components": [
+      {
+        "char": "亼",
+        "meaning_es": "reunión / techo"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "persona arrodillada"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo del palacio, una persona arrodillada recibe una orden."
+  },
+  {
+    "char": "头",
+    "components": [
+      {
+        "char": "⺀",
+        "meaning_es": "dos puntos"
+      },
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      }
+    ],
+    "mnemonic_es": "Una persona grande con dos puntos arriba: son los ojos de su cabeza."
+  },
+  {
+    "char": "益",
+    "components": [
+      {
+        "char": "丷",
+        "meaning_es": "gotas"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno / superficie"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho / separarse"
+      },
+      {
+        "char": "皿",
+        "meaning_es": "recipiente"
+      }
+    ],
+    "mnemonic_es": "El agua sobre el recipiente se desborda: tienes más de lo que cabe, ¡qué beneficio!"
+  },
+  {
+    "char": "宪",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "先",
+        "meaning_es": "primero / antes"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo de la nación, lo primero que se pone es la constitución."
+  },
+  {
+    "char": "融",
+    "components": [
+      {
+        "char": "鬲",
+        "meaning_es": "caldero"
+      },
+      {
+        "char": "虫",
+        "meaning_es": "insecto / gusano"
+      }
+    ],
+    "mnemonic_es": "En el caldero caliente todo se derrite y se mezcla como gusanitos fundiéndose."
+  },
+  {
+    "char": "流",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "亠",
+        "meaning_es": "tapa"
+      },
+      {
+        "char": "厶",
+        "meaning_es": "privado / cosa pequeña"
+      },
+      {
+        "char": "川",
+        "meaning_es": "río"
+      }
+    ],
+    "mnemonic_es": "Quitas la tapa y el agua corre en hilitos como un río: fluye."
+  },
+  {
+    "char": "绩",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda / hilo"
+      },
+      {
+        "char": "责",
+        "meaning_es": "responsabilidad"
+      }
+    ],
+    "mnemonic_es": "Hilar la seda con responsabilidad todos los días da buenos resultados y logros."
+  },
+  {
+    "char": "懂",
+    "components": [
+      {
+        "char": "忄",
+        "meaning_es": "corazón"
+      },
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "重",
+        "meaning_es": "pesado / importante"
+      }
+    ],
+    "mnemonic_es": "Cuando algo importante llega al corazón, por fin lo entiendes."
+  },
+  {
+    "char": "训",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra / hablar"
+      },
+      {
+        "char": "川",
+        "meaning_es": "río"
+      }
+    ],
+    "mnemonic_es": "Las palabras del maestro fluyen como un río para instruir y entrenar a sus alumnos."
+  }
+]

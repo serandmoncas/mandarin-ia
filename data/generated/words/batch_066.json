@@ -1,0 +1,547 @@
+[
+  {
+    "word": "城",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ciudad",
+      "muralla (de una ciudad)",
+      "pueblo"
+    ],
+    "examples": [
+      {
+        "zh": "我住在城里。",
+        "es": "Vivo en la ciudad."
+      },
+      {
+        "zh": "这个城很大。",
+        "es": "Esta ciudad es muy grande."
+      },
+      {
+        "zh": "他明天要去城里买东西。",
+        "es": "Mañana él va a ir a la ciudad a comprar cosas."
+      },
+      {
+        "zh": "北京城有很长的历史，很多人喜欢去那里旅游。",
+        "es": "La ciudad de Pekín tiene una historia muy larga y a mucha gente le gusta ir de viaje allí."
+      }
+    ]
+  },
+  {
+    "word": "身边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "al lado de uno",
+      "cerca",
+      "a mano"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈在我身边。",
+        "es": "Mamá está a mi lado."
+      },
+      {
+        "zh": "你的手机在身边吗？",
+        "es": "¿Tienes tu celular contigo?"
+      },
+      {
+        "zh": "我身边的朋友都很喜欢音乐。",
+        "es": "A todos los amigos que me rodean les gusta mucho la música."
+      },
+      {
+        "zh": "有你在身边，我觉得什么问题都不难。",
+        "es": "Contigo a mi lado, siento que ningún problema es difícil."
+      }
+    ]
+  },
+  {
+    "word": "词",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "palabra",
+      "letra (de una canción)",
+      "discurso",
+      "poema ci (forma poética clásica)"
+    ],
+    "examples": [
+      {
+        "zh": "这个词是什么意思？",
+        "es": "¿Qué significa esta palabra?"
+      },
+      {
+        "zh": "老师让我们用这个词说话。",
+        "es": "El profesor nos pidió que habláramos usando esta palabra."
+      },
+      {
+        "zh": "这些歌的词都是他写的。",
+        "es": "Las letras de estas canciones las escribió él."
+      },
+      {
+        "zh": "学汉语的时候，我每天都记十个新词。",
+        "es": "Cuando estudio chino, memorizo diez palabras nuevas cada día."
+      }
+    ]
+  },
+  {
+    "word": "调整",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ajustar",
+      "modificar",
+      "reorganizar"
+    ],
+    "examples": [
+      {
+        "zh": "我们要调整计划。",
+        "es": "Tenemos que ajustar el plan."
+      },
+      {
+        "zh": "公司调整了上班时间。",
+        "es": "La empresa cambió el horario de trabajo."
+      },
+      {
+        "zh": "天气变冷了，你要调整一下生活习惯。",
+        "es": "Ya hace frío, tienes que ajustar un poco tus hábitos."
+      },
+      {
+        "zh": "政府决定调整经济政策，支持小企业发展。",
+        "es": "El gobierno decidió ajustar su política económica para apoyar el desarrollo de las pequeñas empresas."
+      }
+    ]
+  },
+  {
+    "word": "大部分",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la mayor parte",
+      "la mayoría"
+    ],
+    "examples": [
+      {
+        "zh": "大部分学生都来了。",
+        "es": "La mayoría de los estudiantes ya llegaron."
+      },
+      {
+        "zh": "我大部分时间在家工作。",
+        "es": "Trabajo desde casa la mayor parte del tiempo."
+      },
+      {
+        "zh": "这本书大部分内容我都看过。",
+        "es": "Ya leí la mayor parte del contenido de este libro."
+      },
+      {
+        "zh": "这个城市的大部分人每天都开车上班。",
+        "es": "La mayoría de la gente de esta ciudad va al trabajo en carro todos los días."
+      }
+    ]
+  },
+  {
+    "word": "红",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "rojo",
+      "popular",
+      "famoso",
+      "revolucionario"
+    ],
+    "examples": [
+      {
+        "zh": "那个红杯子是我的。",
+        "es": "Ese vaso rojo es mío."
+      },
+      {
+        "zh": "她的脸红了。",
+        "es": "Se puso roja."
+      },
+      {
+        "zh": "这个视频在网上很红。",
+        "es": "Este video es muy popular en internet."
+      },
+      {
+        "zh": "中国人过新年的时候喜欢穿红衣服。",
+        "es": "A los chinos les gusta vestirse de rojo en Año Nuevo."
+      }
+    ]
+  },
+  {
+    "word": "克",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "gramo",
+      "superar",
+      "dominar",
+      "contener"
+    ],
+    "examples": [
+      {
+        "zh": "我要买五百克肉。",
+        "es": "Quiero comprar quinientos gramos de carne."
+      },
+      {
+        "zh": "一个鸡蛋大约五十克。",
+        "es": "Un huevo pesa unos cincuenta gramos."
+      },
+      {
+        "zh": "这个手机只有一百五十克。",
+        "es": "Este celular pesa solo ciento cincuenta gramos."
+      },
+      {
+        "zh": "医生说他每天吃的肉不能超过两百克。",
+        "es": "El médico dijo que no puede comer más de doscientos gramos de carne al día."
+      }
+    ]
+  },
+  {
+    "word": "困难",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "difícil",
+      "dificultad",
+      "situación complicada",
+      "apuros económicos"
+    ],
+    "examples": [
+      {
+        "zh": "这个问题很困难。",
+        "es": "Este problema es muy difícil."
+      },
+      {
+        "zh": "我们有很多困难。",
+        "es": "Tenemos muchas dificultades."
+      },
+      {
+        "zh": "如果你有困难，可以给我打电话。",
+        "es": "Si tienes algún problema, puedes llamarme."
+      },
+      {
+        "zh": "虽然学习汉语很困难，但是我每天都坚持学习。",
+        "es": "Aunque aprender chino es difícil, sigo estudiando todos los días."
+      }
+    ]
+  },
+  {
+    "word": "全面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "completo",
+      "integral",
+      "general",
+      "en todos los aspectos"
+    ],
+    "examples": [
+      {
+        "zh": "这个报告写得很全面。",
+        "es": "Este informe está muy completo."
+      },
+      {
+        "zh": "学校希望学生全面发展。",
+        "es": "La escuela quiere que los estudiantes se desarrollen de manera integral."
+      },
+      {
+        "zh": "医生给他做了全面的身体检查。",
+        "es": "El médico le hizo un chequeo completo."
+      },
+      {
+        "zh": "为了全面了解这个问题，记者调查了三个月。",
+        "es": "Para entender este problema a fondo, el periodista investigó durante tres meses."
+      }
+    ]
+  },
+  {
+    "word": "怕",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "tener miedo",
+      "temer",
+      "no soportar",
+      "tal vez"
+    ],
+    "examples": [
+      {
+        "zh": "我怕狗。",
+        "es": "Les tengo miedo a los perros."
+      },
+      {
+        "zh": "你怕冷吗？",
+        "es": "¿Eres friolento?"
+      },
+      {
+        "zh": "我怕你忘记，所以又给你打了电话。",
+        "es": "Temía que se te olvidara, así que te volví a llamar."
+      },
+      {
+        "zh": "他怕明天下雨，所以今天就去买了票。",
+        "es": "Le preocupaba que lloviera mañana, así que compró los boletos hoy."
+      }
+    ]
+  },
+  {
+    "word": "眼睛",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ojo",
+      "ojos"
+    ],
+    "examples": [
+      {
+        "zh": "她的眼睛很漂亮。",
+        "es": "Sus ojos son muy bonitos."
+      },
+      {
+        "zh": "我的眼睛不太好。",
+        "es": "No veo muy bien."
+      },
+      {
+        "zh": "看了一天电脑，我的眼睛很累。",
+        "es": "Después de un día frente a la computadora, tengo los ojos muy cansados."
+      },
+      {
+        "zh": "医生说长时间看手机对眼睛不好。",
+        "es": "El médico dice que mirar el celular por mucho tiempo es malo para los ojos."
+      }
+    ]
+  },
+  {
+    "word": "首先",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "primero",
+      "en primer lugar",
+      "antes que nada"
+    ],
+    "examples": [
+      {
+        "zh": "首先，我们要准备好。",
+        "es": "Primero, tenemos que estar preparados."
+      },
+      {
+        "zh": "首先，我来介绍一下自己。",
+        "es": "Antes que nada, déjenme presentarme."
+      },
+      {
+        "zh": "回到家，他首先去洗手间洗手。",
+        "es": "Al llegar a casa, lo primero que hace es ir al baño a lavarse las manos."
+      },
+      {
+        "zh": "要解决这个问题，首先要了解问题产生的原因。",
+        "es": "Para resolver este problema, primero hay que entender qué lo causó."
+      }
+    ]
+  },
+  {
+    "word": "留下",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "quedarse",
+      "dejar",
+      "conservar",
+      "no dejar ir"
+    ],
+    "examples": [
+      {
+        "zh": "你留下吧。",
+        "es": "Quédate."
+      },
+      {
+        "zh": "他给我留下了一张照片。",
+        "es": "Me dejó una foto."
+      },
+      {
+        "zh": "下课以后，老师让我留下。",
+        "es": "Después de clase, el profesor me pidió que me quedara."
+      },
+      {
+        "zh": "工作结束以后，大部分人都回家了，只有他留下来。",
+        "es": "Al terminar el trabajo, casi todos se fueron a casa; solo él se quedó."
+      }
+    ]
+  },
+  {
+    "word": "面前",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "delante de",
+      "frente a",
+      "ante"
+    ],
+    "examples": [
+      {
+        "zh": "他站在我面前。",
+        "es": "Él estaba parado frente a mí."
+      },
+      {
+        "zh": "书就在你面前。",
+        "es": "El libro está justo delante de ti."
+      },
+      {
+        "zh": "他在大家面前唱歌。",
+        "es": "Cantó delante de todos."
+      },
+      {
+        "zh": "现在我们面前有两个选择，你觉得哪个更好？",
+        "es": "Ahora tenemos dos opciones frente a nosotros, ¿cuál te parece mejor?"
+      }
+    ]
+  },
+  {
+    "word": "双方",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ambas partes",
+      "los dos lados",
+      "bilateral"
+    ],
+    "examples": [
+      {
+        "zh": "双方都同意了。",
+        "es": "Ambas partes estuvieron de acuerdo."
+      },
+      {
+        "zh": "比赛双方都很努力。",
+        "es": "Los dos equipos se esforzaron mucho en el partido."
+      },
+      {
+        "zh": "双方决定明天再见面讨论。",
+        "es": "Las dos partes decidieron reunirse mañana para seguir hablando."
+      },
+      {
+        "zh": "经过三个小时的会议，双方终于同意了这个方案。",
+        "es": "Después de tres horas de reunión, ambas partes por fin aceptaron la propuesta."
+      }
+    ]
+  },
+  {
+    "word": "食物",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comida",
+      "alimento"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢中国食物。",
+        "es": "Me gusta la comida china."
+      },
+      {
+        "zh": "孩子们需要健康的食物。",
+        "es": "Los niños necesitan alimentos saludables."
+      },
+      {
+        "zh": "这些食物放在外边会坏。",
+        "es": "Esta comida se va a echar a perder si la dejas afuera."
+      },
+      {
+        "zh": "这个地区的很多人没有食物和干净的水。",
+        "es": "Mucha gente de esta región no tiene comida ni agua potable."
+      }
+    ]
+  },
+  {
+    "word": "查",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "buscar (información)",
+      "revisar",
+      "investigar",
+      "consultar"
+    ],
+    "examples": [
+      {
+        "zh": "我查一下。",
+        "es": "Déjame buscarlo."
+      },
+      {
+        "zh": "你可以上网查。",
+        "es": "Puedes buscarlo en internet."
+      },
+      {
+        "zh": "我在手机上查了这个词的意思。",
+        "es": "Busqué el significado de esta palabra en el celular."
+      },
+      {
+        "zh": "警察正在查这件事发生的原因。",
+        "es": "La policía está investigando por qué pasó esto."
+      }
+    ]
+  },
+  {
+    "word": "打算",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "planear",
+      "tener la intención de",
+      "plan"
+    ],
+    "examples": [
+      {
+        "zh": "你打算去哪儿？",
+        "es": "¿A dónde piensas ir?"
+      },
+      {
+        "zh": "我打算明年去中国。",
+        "es": "Pienso ir a China el próximo año."
+      },
+      {
+        "zh": "放假的时候，你有什么打算？",
+        "es": "¿Qué planes tienes para las vacaciones?"
+      },
+      {
+        "zh": "我们打算先在北京住几天，然后去上海。",
+        "es": "Pensamos quedarnos unos días en Pekín y luego ir a Shanghái."
+      }
+    ]
+  },
+  {
+    "word": "武器",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "arma",
+      "armamento"
+    ],
+    "examples": [
+      {
+        "zh": "他没有武器。",
+        "es": "Él no tiene armas."
+      },
+      {
+        "zh": "警察带着武器。",
+        "es": "Los policías llevan armas."
+      },
+      {
+        "zh": "这个国家买了很多新武器。",
+        "es": "Este país compró muchas armas nuevas."
+      },
+      {
+        "zh": "很多国家都反对使用这种武器。",
+        "es": "Muchos países se oponen al uso de este tipo de armas."
+      }
+    ]
+  },
+  {
+    "word": "掉",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "caerse",
+      "perder",
+      "bajar (precio, peso)",
+      "quitar o terminar (tras un verbo)"
+    ],
+    "examples": [
+      {
+        "zh": "我的手机掉了。",
+        "es": "Se me cayó el celular."
+      },
+      {
+        "zh": "书掉在地上了。",
+        "es": "El libro se cayó al suelo."
+      },
+      {
+        "zh": "他把旧车卖掉了。",
+        "es": "Vendió su carro viejo."
+      },
+      {
+        "zh": "睡觉以前，别忘了把电视关掉。",
+        "es": "Antes de dormir, no olvides apagar la televisión."
+      }
+    ]
+  }
+]

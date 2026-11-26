@@ -1,0 +1,169 @@
+[
+  {
+    "id": "word:喜欢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "55659b679685edaeaad9f75986e03850b09e3051"
+  },
+  {
+    "id": "word:钱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "db1895ad7ccbe976c03fb2583b6cb87ada8e3bda"
+  },
+  {
+    "id": "word:已",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c3e9dc1ebc6487df2f4eb283edb723fc8ed3447"
+  },
+  {
+    "id": "word:当",
+    "ok": true,
+    "issues": [],
+    "content_hash": "95b1897551cc8e0336f79da89f0fd71b4e7ad94b"
+  },
+  {
+    "id": "word:学生",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 好 en 好学生 se lee hǎo, no hào."
+    ],
+    "content_hash": "6015941644b710685352db6175cd77215a443e7a"
+  },
+  {
+    "id": "word:地区",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: la partícula 得 de 发展得更快 se lee de (tono neutro), no dé."
+    ],
+    "content_hash": "c5dea30db8f144b8e852c6bb347c09600fa74463"
+  },
+  {
+    "id": "word:电影",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cdc118578ab3cb336b88a6170be1610b99dd8c7b"
+  },
+  {
+    "id": "word:国际",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4115136552e91cd1d4309e032fbf3da887fd869d"
+  },
+  {
+    "id": "word:点",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: la partícula 得 de 说得快一点 se lee de (tono neutro), no dé."
+    ],
+    "content_hash": "1b5909f4d8cd7d98bc97c191d29f0cdae423d5e2"
+  },
+  {
+    "id": "word:听",
+    "ok": true,
+    "issues": [],
+    "content_hash": "46fdc97b273868e328d64c09c4db3844c047457f"
+  },
+  {
+    "id": "word:出来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d6c91e11f09eb66a89c640cc7492329dafac14a"
+  },
+  {
+    "id": "word:起",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: la partícula 得 de 起得很早 se lee de (tono neutro), no dé."
+    ],
+    "content_hash": "884c8eb3c1ba4fdba7af2a30431ad6e0e7983c8a"
+  },
+  {
+    "id": "word:内",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd9b7939d97d7a8d0186c67cd1a09a0e39a75518"
+  },
+  {
+    "id": "word:两",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f41c72c932b26c040fe95fbf93e17819b0dde3ce"
+  },
+  {
+    "id": "word:却",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a4c1261b3b00fb20c03e3683b375c6c2d82a452d"
+  },
+  {
+    "id": "word:这里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2960e936d9b934d1420ec2ce2ed615b93c7079a0"
+  },
+  {
+    "id": "word:才",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e018224e2b4f331627a65ee0b00d63d969fca74"
+  },
+  {
+    "id": "word:经济",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1bb5f8f9cb31091f837fa2755b559f584aef5132"
+  },
+  {
+    "id": "word:国",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: 都 en el sentido de 'todos' se lee dōu, no dū."
+    ],
+    "content_hash": "23cd576d6d9c6269a9dc219aaf7428edee72410b"
+  },
+  {
+    "id": "word:使用",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente en el ejemplo 3: 一下 aparece como yī xià; con el sandhi tonal que se aplica en el resto del contenido debería ser yí xià."
+    ],
+    "content_hash": "614b021e3a61ea428bd7a67a3f0031f63d279c69"
+  },
+  {
+    "id": "word:看到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "239f4101278819bd617055f78a59b071b8cb2000"
+  },
+  {
+    "id": "word:一起",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81467bf8da3ea7f4d751c4cce98dad00ece7856f"
+  },
+  {
+    "id": "word:活动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be09c8d57649023a2d6f8747f763d464c7958354"
+  },
+  {
+    "id": "word:走",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: la partícula 得 de 走得太快 se lee de (tono neutro), no dé.",
+      "Pinyin incorrecto en el ejemplo 4: 长 en 多长时间 se lee cháng, no zhǎng."
+    ],
+    "content_hash": "d9900497cf14834323c2473b8cee14bfa82a8ebe"
+  },
+  {
+    "id": "word:但是",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: la partícula 得 de 说得很好 se lee de (tono neutro), no dé."
+    ],
+    "content_hash": "684d49e43c1e5c1183de037ad109385723ecc299"
+  }
+]

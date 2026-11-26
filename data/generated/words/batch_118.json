@@ -1,0 +1,535 @@
+[
+  {
+    "word": "初级",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "básico",
+      "de nivel inicial",
+      "elemental",
+      "primario"
+    ],
+    "examples": [
+      {
+        "zh": "我在学初级汉语。",
+        "es": "Estoy estudiando chino básico."
+      },
+      {
+        "zh": "这是一本初级课本。",
+        "es": "Este es un libro de texto de nivel básico."
+      },
+      {
+        "zh": "他的中文还是初级水平。",
+        "es": "Su chino todavía es de nivel básico."
+      },
+      {
+        "zh": "初级班的学生每天下午上课。",
+        "es": "Los alumnos del nivel básico tienen clase todas las tardes."
+      }
+    ]
+  },
+  {
+    "word": "围",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rodear",
+      "cercar",
+      "alrededor",
+      "ponerse algo enrollado (como una bufanda)"
+    ],
+    "examples": [
+      {
+        "zh": "孩子们围着老师。",
+        "es": "Los niños rodean al maestro."
+      },
+      {
+        "zh": "我们围在桌子旁边吃饭。",
+        "es": "Comemos sentados alrededor de la mesa."
+      },
+      {
+        "zh": "很多人围着看比赛。",
+        "es": "Mucha gente se juntó alrededor para ver el partido."
+      },
+      {
+        "zh": "下课后，同学们都围过来问老师问题。",
+        "es": "Después de clase, todos los compañeros se acercaron a hacerle preguntas al maestro."
+      }
+    ]
+  },
+  {
+    "word": "演唱",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cantar (en público)",
+      "interpretar una canción",
+      "actuación vocal"
+    ],
+    "examples": [
+      {
+        "zh": "她在晚会上演唱。",
+        "es": "Ella canta en la velada."
+      },
+      {
+        "zh": "我很喜欢听他演唱。",
+        "es": "Me gusta mucho oírlo cantar."
+      },
+      {
+        "zh": "明天晚上，这位歌手会在北京演唱。",
+        "es": "Mañana por la noche, este cantante se presentará en Pekín."
+      },
+      {
+        "zh": "她演唱的那首歌让很多人感动。",
+        "es": "La canción que ella interpretó conmovió a mucha gente."
+      }
+    ]
+  },
+  {
+    "word": "困",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "tener sueño",
+      "somnoliento",
+      "cansado"
+    ],
+    "examples": [
+      {
+        "zh": "我好困。",
+        "es": "Tengo mucho sueño."
+      },
+      {
+        "zh": "你困了吗？",
+        "es": "¿Ya tienes sueño?"
+      },
+      {
+        "zh": "我昨天睡得太晚，今天很困。",
+        "es": "Ayer me dormí muy tarde y hoy tengo mucho sueño."
+      },
+      {
+        "zh": "如果你困了，就先去睡觉吧，明天再做。",
+        "es": "Si tienes sueño, ve a dormir; lo haces mañana."
+      }
+    ]
+  },
+  {
+    "word": "啤酒",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cerveza"
+    ],
+    "examples": [
+      {
+        "zh": "我想喝啤酒。",
+        "es": "Quiero tomar cerveza."
+      },
+      {
+        "zh": "请给我一杯啤酒。",
+        "es": "Una cerveza, por favor."
+      },
+      {
+        "zh": "天气太热了，我们去喝点啤酒吧。",
+        "es": "Hace muchísimo calor; vamos a tomarnos unas cervezas."
+      },
+      {
+        "zh": "他说他不喝啤酒，因为明天还要开车。",
+        "es": "Dice que no va a tomar cerveza porque mañana tiene que manejar."
+      }
+    ]
+  },
+  {
+    "word": "题目",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pregunta (de examen)",
+      "ejercicio",
+      "tema",
+      "título"
+    ],
+    "examples": [
+      {
+        "zh": "这个题目很难。",
+        "es": "Esta pregunta es muy difícil."
+      },
+      {
+        "zh": "这篇文章的题目是什么？",
+        "es": "¿Cuál es el título de este artículo?"
+      },
+      {
+        "zh": "考试的题目我都做完了。",
+        "es": "Ya respondí todas las preguntas del examen."
+      },
+      {
+        "zh": "老师让我们自己选一个题目写作文。",
+        "es": "El maestro nos pidió elegir un tema para escribir una composición."
+      }
+    ]
+  },
+  {
+    "word": "甜",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dulce",
+      "agradable",
+      "tierno"
+    ],
+    "examples": [
+      {
+        "zh": "这个苹果很甜。",
+        "es": "Esta manzana está muy dulce."
+      },
+      {
+        "zh": "我不喜欢太甜的东西。",
+        "es": "No me gustan las cosas demasiado dulces."
+      },
+      {
+        "zh": "她笑得很甜，大家都喜欢她。",
+        "es": "Tiene una sonrisa muy dulce y a todos les cae bien."
+      },
+      {
+        "zh": "这家店的面包不太甜，很适合早上吃。",
+        "es": "El pan de esta tienda no es muy dulce; es ideal para la mañana."
+      }
+    ]
+  },
+  {
+    "word": "中华民族",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la nación china",
+      "el pueblo chino"
+    ],
+    "examples": [
+      {
+        "zh": "中华民族有很长的历史。",
+        "es": "La nación china tiene una historia muy larga."
+      },
+      {
+        "zh": "春节是中华民族的传统节日。",
+        "es": "El Año Nuevo chino es una fiesta tradicional de la nación china."
+      },
+      {
+        "zh": "中华民族由五十六个民族组成。",
+        "es": "La nación china está formada por cincuenta y seis grupos étnicos."
+      },
+      {
+        "zh": "中华民族的文化影响了很多亚洲国家。",
+        "es": "La cultura de la nación china ha influido en muchos países asiáticos."
+      }
+    ]
+  },
+  {
+    "word": "告别",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "despedirse",
+      "decir adiós",
+      "dejar atrás"
+    ],
+    "examples": [
+      {
+        "zh": "我们向老师告别。",
+        "es": "Nos despedimos del maestro."
+      },
+      {
+        "zh": "他没有告别就走了。",
+        "es": "Se fue sin despedirse."
+      },
+      {
+        "zh": "离开家乡以前，她去和朋友们告别。",
+        "es": "Antes de dejar su pueblo, fue a despedirse de sus amigos."
+      },
+      {
+        "zh": "明天就要告别大学生活了，我有点难过。",
+        "es": "Mañana le digo adiós a la vida universitaria y me siento un poco triste."
+      }
+    ]
+  },
+  {
+    "word": "故乡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tierra natal",
+      "pueblo natal",
+      "lugar de origen"
+    ],
+    "examples": [
+      {
+        "zh": "这里是我的故乡。",
+        "es": "Esta es mi tierra natal."
+      },
+      {
+        "zh": "他已经十年没回故乡了。",
+        "es": "Hace diez años que no vuelve a su tierra natal."
+      },
+      {
+        "zh": "我的故乡在中国南方，冬天不太冷。",
+        "es": "Mi pueblo natal está en el sur de China; en invierno no hace mucho frío."
+      },
+      {
+        "zh": "每次听到这首歌，我就会想起故乡。",
+        "es": "Cada vez que oigo esta canción, me acuerdo de mi tierra natal."
+      }
+    ]
+  },
+  {
+    "word": "金牌",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "medalla de oro"
+    ],
+    "examples": [
+      {
+        "zh": "他得了一块金牌。",
+        "es": "Ganó una medalla de oro."
+      },
+      {
+        "zh": "这是中国队的第一块金牌。",
+        "es": "Esta es la primera medalla de oro del equipo chino."
+      },
+      {
+        "zh": "为了这块金牌，她努力训练了很多年。",
+        "es": "Para ganar esta medalla de oro, entrenó duro durante muchos años."
+      },
+      {
+        "zh": "他在比赛中拿到金牌以后，高兴得哭了。",
+        "es": "Después de ganar la medalla de oro en la competencia, lloró de alegría."
+      }
+    ]
+  },
+  {
+    "word": "长城",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la Gran Muralla"
+    ],
+    "examples": [
+      {
+        "zh": "我想去长城。",
+        "es": "Quiero ir a la Gran Muralla."
+      },
+      {
+        "zh": "明天我们去爬长城。",
+        "es": "Mañana vamos a subir a la Gran Muralla."
+      },
+      {
+        "zh": "每年都有很多外国游客来参观长城。",
+        "es": "Cada año muchos turistas extranjeros vienen a visitar la Gran Muralla."
+      },
+      {
+        "zh": "很多人说，没去过长城就不算真正到过中国。",
+        "es": "Mucha gente dice que si no has ido a la Gran Muralla, no has estado realmente en China."
+      }
+    ]
+  },
+  {
+    "word": "志愿者",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "voluntario"
+    ],
+    "examples": [
+      {
+        "zh": "她是一名志愿者。",
+        "es": "Ella es voluntaria."
+      },
+      {
+        "zh": "我们需要很多志愿者。",
+        "es": "Necesitamos muchos voluntarios."
+      },
+      {
+        "zh": "比赛期间，很多大学生来当志愿者。",
+        "es": "Durante la competencia, muchos universitarios vinieron a trabajar como voluntarios."
+      },
+      {
+        "zh": "这些志愿者每个周末都去医院照顾老人。",
+        "es": "Estos voluntarios van al hospital todos los fines de semana a cuidar a personas mayores."
+      }
+    ]
+  },
+  {
+    "word": "底下",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "debajo",
+      "abajo",
+      "la parte de abajo",
+      "después"
+    ],
+    "examples": [
+      {
+        "zh": "猫在桌子底下。",
+        "es": "El gato está debajo de la mesa."
+      },
+      {
+        "zh": "我的书包放在椅子底下。",
+        "es": "Mi mochila está debajo de la silla."
+      },
+      {
+        "zh": "树底下有很多人在休息。",
+        "es": "Debajo del árbol hay mucha gente descansando."
+      },
+      {
+        "zh": "老师在上面讲话，底下的学生都在认真听。",
+        "es": "El maestro habla desde el frente y abajo los estudiantes escuchan con atención."
+      }
+    ]
+  },
+  {
+    "word": "主意",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "idea",
+      "plan",
+      "decisión"
+    ],
+    "examples": [
+      {
+        "zh": "这是个好主意！",
+        "es": "¡Es una buena idea!"
+      },
+      {
+        "zh": "你有什么主意吗？",
+        "es": "¿Tienes alguna idea?"
+      },
+      {
+        "zh": "他本来想去，后来又改主意了。",
+        "es": "Al principio quería ir, pero luego cambió de opinión."
+      },
+      {
+        "zh": "我也不知道怎么办，你帮我出个主意吧。",
+        "es": "Yo tampoco sé qué hacer; ayúdame con alguna idea."
+      }
+    ]
+  },
+  {
+    "word": "学费",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "colegiatura",
+      "costo de la matrícula",
+      "cuota escolar"
+    ],
+    "examples": [
+      {
+        "zh": "学费太贵了。",
+        "es": "La colegiatura es demasiado cara."
+      },
+      {
+        "zh": "这个大学的学费是多少？",
+        "es": "¿Cuánto cuesta la colegiatura en esta universidad?"
+      },
+      {
+        "zh": "他一边上学一边打工，自己付学费。",
+        "es": "Estudia y trabaja al mismo tiempo, y paga su propia colegiatura."
+      },
+      {
+        "zh": "很多家长觉得，孩子的学费是家里最大的压力。",
+        "es": "Muchos padres sienten que la colegiatura de sus hijos es el mayor peso para la familia."
+      }
+    ]
+  },
+  {
+    "word": "剧场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "teatro",
+      "sala de espectáculos"
+    ],
+    "examples": [
+      {
+        "zh": "剧场里人很多。",
+        "es": "Hay mucha gente en el teatro."
+      },
+      {
+        "zh": "我们晚上去剧场看演出吧。",
+        "es": "Vamos al teatro a ver una función esta noche."
+      },
+      {
+        "zh": "这个剧场很大，能坐两千人。",
+        "es": "Este teatro es muy grande; caben dos mil personas."
+      },
+      {
+        "zh": "进入剧场以后，请关上手机，不要大声说话。",
+        "es": "Al entrar al teatro, apaguen el celular y no hablen en voz alta, por favor."
+      }
+    ]
+  },
+  {
+    "word": "胖",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "gordo",
+      "rellenito",
+      "llenito"
+    ],
+    "examples": [
+      {
+        "zh": "我的猫很胖。",
+        "es": "Mi gato está muy gordo."
+      },
+      {
+        "zh": "他比以前胖多了。",
+        "es": "Está mucho más gordo que antes."
+      },
+      {
+        "zh": "过年的时候吃得太多，我又胖了。",
+        "es": "En las fiestas de Año Nuevo comí demasiado y volví a engordar."
+      },
+      {
+        "zh": "医生说他太胖了，每天应该多走路，少吃肉。",
+        "es": "El médico dice que está demasiado gordo y que debe caminar más y comer menos carne cada día."
+      }
+    ]
+  },
+  {
+    "word": "沙发",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sofá",
+      "sillón"
+    ],
+    "examples": [
+      {
+        "zh": "他坐在沙发上。",
+        "es": "Él está sentado en el sofá."
+      },
+      {
+        "zh": "这个沙发很舒服。",
+        "es": "Este sofá es muy cómodo."
+      },
+      {
+        "zh": "我们家新买了一张红色的沙发。",
+        "es": "En mi casa compramos un sofá rojo nuevo."
+      },
+      {
+        "zh": "他太累了，回到家就在沙发上睡着了。",
+        "es": "Estaba tan cansado que, al llegar a casa, se quedó dormido en el sofá."
+      }
+    ]
+  },
+  {
+    "word": "生动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vívido",
+      "animado",
+      "expresivo"
+    ],
+    "examples": [
+      {
+        "zh": "这个故事很生动。",
+        "es": "Esta historia es muy vívida."
+      },
+      {
+        "zh": "老师讲课讲得很生动。",
+        "es": "El maestro explica de una manera muy amena."
+      },
+      {
+        "zh": "这本小说写得非常生动，我很喜欢看。",
+        "es": "Esta novela está escrita de forma muy vívida; me encanta leerla."
+      },
+      {
+        "zh": "他用很生动的例子，让学生明白了这个道理。",
+        "es": "Con ejemplos muy claros y vivos, hizo que los estudiantes entendieran la idea."
+      }
+    ]
+  }
+]

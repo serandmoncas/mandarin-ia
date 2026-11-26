@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:规范",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en los ejemplos 1 y 4: el complemento 得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "31520f979de61b64f227fa2a0e93e9ee9438e9f1"
+  },
+  {
+    "id": "word:太太",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 太太 se lee «tài tai», con el segundo syllabo en tono neutro (como indica tai4 tai5), no «tài tài»."
+    ],
+    "content_hash": "bd81b6e167ab267421e6479dc44dbcdc94662fb5"
+  },
+  {
+    "id": "word:好好",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin «hǎo hào» es incorrecto; debe ser «hǎo hǎo» (o «hǎo hāo» en el habla coloquial). «hào» es otra lectura de 好, con otro significado."
+    ],
+    "content_hash": "a484258a085b59e19ca672e752d4e02b86c29037"
+  },
+  {
+    "id": "word:合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b037ee1ea297a1a5c5c4854c01788be688a857c"
+  },
+  {
+    "id": "word:笑话",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 笑话 se lee «xiào hua», con 话 en tono neutro (como indica xiao4 hua5), no «xiào huà»."
+    ],
+    "content_hash": "bb7154abc069658332c5406efc56671eac0e0b2a"
+  },
+  {
+    "id": "word:姓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "913170860c07d2adb21636033e0bbce80e5a5588"
+  },
+  {
+    "id": "word:批准",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f227cb4096bc8d7e5ff05d9791d9f6013f0577f"
+  },
+  {
+    "id": "word:大门",
+    "ok": true,
+    "issues": [],
+    "content_hash": "197beb3f4ad2eeb5b732d419d151206ce4c4335e"
+  },
+  {
+    "id": "word:强大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "714fa165a4b44ba2399269f1e5565862fe6e0667"
+  },
+  {
+    "id": "word:等到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53a3cf662ef52b122cf399ec81448a642bba2861"
+  },
+  {
+    "id": "word:上面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "faefdb17fcb811c00307ac6e3d15e7307d335f74"
+  },
+  {
+    "id": "word:实际上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d44b24153093a271b01f2d4cc79b4af7fe4e5dfe"
+  },
+  {
+    "id": "word:角",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: en 又长又大, 长 significa «largo» y se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "454cc4658406872800574dc6e52952468da95d16"
+  },
+  {
+    "id": "word:练习",
+    "ok": true,
+    "issues": [],
+    "content_hash": "263ab5a58c7a41f9f0418fa936333374b69b0541"
+  },
+  {
+    "id": "word:团结",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c04aa9370df5f244313485c58cf6baa6e5dd93f"
+  },
+  {
+    "id": "word:拿出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bbd43c57b382a3ca4598f3190f841966a27e67cd"
+  },
+  {
+    "id": "word:放下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd6b6f786e9b1c022762694304e5f4f6103c6d9b"
+  },
+  {
+    "id": "word:运输",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: en 很长时间, 长 se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "cf99fc824b9f56733f448da9a3e09a30c808d2e7"
+  },
+  {
+    "id": "word:画家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf3fb33fe0c054bbcb03b8f4f4ecde83099b55c8"
+  },
+  {
+    "id": "word:熟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f6f6623fc99dfce95febbbcccd119bfcac3be3c"
+  },
+  {
+    "id": "word:报名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c6c5e1647338de166308c132f108cac810a72658"
+  },
+  {
+    "id": "word:各位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a9986b4d512972bde21f6ada9f6e78bc977d31a1"
+  },
+  {
+    "id": "word:平安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6fdc4558952a2226edafb5ebb06ad7b6ffb877b"
+  },
+  {
+    "id": "word:喂",
+    "ok": false,
+    "issues": [
+      "Incoherencia de tono: la palabra figura como wei2 (wéi), pero todos los ejemplos usan «wèi». Conviene unificar; al contestar el teléfono es habitual «wéi», y «wèi» se usa sobre todo para llamar la atención."
+    ],
+    "content_hash": "2aa101f3ea404b3f72adeb69622dbc91b4f021eb"
+  },
+  {
+    "id": "word:走进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30cf91ad470c2083a5ae2d46ef26e980ebbd6fd6"
+  }
+]

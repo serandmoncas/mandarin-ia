@@ -1,0 +1,418 @@
+[
+  {
+    "char": "另",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Imagina una boca cansada de hablar arriba y, abajo, alguien con fuerza que toma su lugar: otro distinto entra al relevo."
+  },
+  {
+    "char": "块",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "夬",
+        "meaning_es": "separar, partir"
+      }
+    ],
+    "mnemonic_es": "Partes la tierra seca y queda hecha pedazos: cada terrón es un 块, un trozo."
+  },
+  {
+    "char": "法",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "去",
+        "meaning_es": "ir, irse"
+      }
+    ],
+    "mnemonic_es": "Piensa en el agua que siempre se va por su cauce: así funciona la ley o el método, un camino fijo que todos siguen."
+  },
+  {
+    "char": "差",
+    "components": [
+      {
+        "char": "𦍌",
+        "meaning_es": "oveja"
+      },
+      {
+        "char": "工",
+        "meaning_es": "trabajo"
+      }
+    ],
+    "mnemonic_es": "Imagina una oveja haciendo un trabajo de obrero: el resultado es malo y la diferencia con un experto es enorme."
+  },
+  {
+    "char": "风",
+    "components": [
+      {
+        "char": "几",
+        "meaning_es": "mesita"
+      },
+      {
+        "char": "㐅",
+        "meaning_es": "cruz, equis"
+      }
+    ],
+    "mnemonic_es": "El viento se cuela bajo la mesita y hace remolinos en forma de X que lo revuelven todo."
+  },
+  {
+    "char": "海",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "每",
+        "meaning_es": "cada"
+      }
+    ],
+    "mnemonic_es": "Junta cada gota de agua del mundo y obtienes el mar."
+  },
+  {
+    "char": "便",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "更",
+        "meaning_es": "más"
+      }
+    ],
+    "mnemonic_es": "Una persona siempre busca lo más cómodo: eso es lo conveniente, lo práctico."
+  },
+  {
+    "char": "党",
+    "components": [
+      {
+        "char": "⺌",
+        "meaning_es": "chispas, pequeño"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "兄",
+        "meaning_es": "hermano mayor"
+      }
+    ],
+    "mnemonic_es": "Varios hermanos reunidos bajo un techo, soltando chispas de ideas: así se forma un partido político."
+  },
+  {
+    "char": "哥",
+    "components": [
+      {
+        "char": "可",
+        "meaning_es": "poder, se puede"
+      },
+      {
+        "char": "可",
+        "meaning_es": "poder, se puede"
+      }
+    ],
+    "mnemonic_es": "Tu hermano mayor te anima dos veces: ¡sí puedes, sí puedes!"
+  },
+  {
+    "char": "坏",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "不",
+        "meaning_es": "no"
+      }
+    ],
+    "mnemonic_es": "Una tierra donde no crece nada: está mala, echada a perder."
+  },
+  {
+    "char": "昨",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol, día"
+      },
+      {
+        "char": "乍",
+        "meaning_es": "de repente"
+      }
+    ],
+    "mnemonic_es": "Un día que de repente ya se fue: eso es ayer."
+  },
+  {
+    "char": "环",
+    "components": [
+      {
+        "char": "王",
+        "meaning_es": "jade (como radical)"
+      },
+      {
+        "char": "不",
+        "meaning_es": "no"
+      }
+    ],
+    "mnemonic_es": "Un aro de jade que no tiene fin: da la vuelta completa, como un anillo o el entorno que te rodea."
+  },
+  {
+    "char": "境",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "竟",
+        "meaning_es": "al final, terminar"
+      }
+    ],
+    "mnemonic_es": "La tierra donde todo termina es la frontera; lo que hay dentro de ella es tu entorno."
+  },
+  {
+    "char": "般",
+    "components": [
+      {
+        "char": "舟",
+        "meaning_es": "barco"
+      },
+      {
+        "char": "殳",
+        "meaning_es": "vara, golpear"
+      }
+    ],
+    "mnemonic_es": "Mover un barco empujando con una vara es lo más común del mundo: así, de manera general."
+  },
+  {
+    "char": "络",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "各",
+        "meaning_es": "cada uno"
+      }
+    ],
+    "mnemonic_es": "Hilos que conectan a cada uno con los demás: una red, como internet (网络)."
+  },
+  {
+    "char": "达",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      }
+    ],
+    "mnemonic_es": "Avanzas con pasos grandes y por fin llegas a tu meta."
+  },
+  {
+    "char": "保",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "呆",
+        "meaning_es": "quedarse quieto"
+      }
+    ],
+    "mnemonic_es": "Una persona se queda quieta, firme, junto a lo que quiere cuidar: lo protege."
+  },
+  {
+    "char": "护",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "户",
+        "meaning_es": "puerta"
+      }
+    ],
+    "mnemonic_es": "Pones la mano en la puerta para que nadie entre: estás protegiendo tu casa."
+  },
+  {
+    "char": "考",
+    "components": [
+      {
+        "char": "耂",
+        "meaning_es": "anciano"
+      },
+      {
+        "char": "丂",
+        "meaning_es": "curva, obstáculo"
+      }
+    ],
+    "mnemonic_es": "Imagina a un anciano encorvado que te mira fijo y te hace preguntas difíciles: es tu examen."
+  },
+  {
+    "char": "试",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "式",
+        "meaning_es": "fórmula, estilo"
+      }
+    ],
+    "mnemonic_es": "Pones a prueba tus palabras con una fórmula: intentas, ensayas, haces la prueba."
+  },
+  {
+    "char": "称",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, grano"
+      },
+      {
+        "char": "尔",
+        "meaning_es": "tú"
+      }
+    ],
+    "mnemonic_es": "Pesas tu cosecha de grano y le pones nombre: 称 sirve para pesar y para llamar."
+  },
+  {
+    "char": "衣",
+    "components": [
+      {
+        "char": "衣",
+        "meaning_es": "ropa"
+      }
+    ],
+    "mnemonic_es": "Míralo como una camisa: el cuello arriba y los faldones abiertos abajo."
+  },
+  {
+    "char": "毛",
+    "components": [
+      {
+        "char": "毛",
+        "meaning_es": "pelo, pelaje"
+      }
+    ],
+    "mnemonic_es": "Un tallo curvo con rayitas a los lados, como un pelito o una pluma esponjada."
+  },
+  {
+    "char": "甚",
+    "components": [
+      {
+        "char": "甘",
+        "meaning_es": "dulce"
+      },
+      {
+        "char": "匹",
+        "meaning_es": "pareja, unidad"
+      }
+    ],
+    "mnemonic_es": "Un dulce está bien, pero dos juntos ya es demasiado: muy, excesivo, hasta incluso (甚至)."
+  },
+  {
+    "char": "忘",
+    "components": [
+      {
+        "char": "亡",
+        "meaning_es": "perderse, desaparecer"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón, mente"
+      }
+    ],
+    "mnemonic_es": "Lo que se pierde del corazón se olvida."
+  },
+  {
+    "char": "爸",
+    "components": [
+      {
+        "char": "父",
+        "meaning_es": "padre"
+      },
+      {
+        "char": "巴",
+        "meaning_es": "ba (sonido)"
+      }
+    ],
+    "mnemonic_es": "El padre arriba y abajo el sonido ba: papá dice ba-ba."
+  },
+  {
+    "char": "程",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, grano"
+      },
+      {
+        "char": "呈",
+        "meaning_es": "presentar, mostrar"
+      }
+    ],
+    "mnemonic_es": "El grano se presenta en etapas, de semilla a cosecha: un proceso, un programa paso a paso."
+  },
+  {
+    "char": "姐",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "且",
+        "meaning_es": "además"
+      }
+    ],
+    "mnemonic_es": "Una mujer que además de ser familia te cuida y te manda: tu hermana mayor."
+  },
+  {
+    "char": "件",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "牛",
+        "meaning_es": "vaca, buey"
+      }
+    ],
+    "mnemonic_es": "Una persona cuenta sus vacas una por una: pieza por pieza, asunto por asunto."
+  },
+  {
+    "char": "边",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Caminas con toda tu fuerza hasta llegar al borde, al lado del camino."
+  }
+]

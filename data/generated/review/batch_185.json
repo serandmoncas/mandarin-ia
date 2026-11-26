@@ -1,0 +1,164 @@
+[
+  {
+    "id": "word:成熟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "036e09729de5f8dea6fd4a3a93923b63a93cbcc6"
+  },
+  {
+    "id": "word:集体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba9e29ff01026ec981cfd78030e8dbc4e3965c3e"
+  },
+  {
+    "id": "word:简直",
+    "ok": true,
+    "issues": [],
+    "content_hash": "12a3dee7f515158dbd9c07ee798abb1edd5a8f35"
+  },
+  {
+    "id": "word:晚报",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5b40233adfa97a03651ef268f7e2ad64ba8cb0f9"
+  },
+  {
+    "id": "word:走开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "82b2e4e0f1468909b17c16dfbe465508a107623b"
+  },
+  {
+    "id": "word:麻烦",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos escribe 麻烦 como «má fán», pero la segunda sílaba es tono neutro («má fan»), como indica la propia entrada (fan5)."
+    ],
+    "content_hash": "a3ad47976e10bb645d64b522509d2a874e486db6"
+  },
+  {
+    "id": "word:药店",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 妈妈 aparece como «mā mā»; debe ser «mā ma» (tono neutro).",
+      "Ejemplo 4: 得 en «你得去» se lee «děi», no «dé»."
+    ],
+    "content_hash": "9d4391c41a73cd59b5f98cbf46d08529de9a9da1"
+  },
+  {
+    "id": "word:饺子",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 妈妈 aparece como «mā mā»; debe ser «mā ma».",
+      "Ejemplo 3: 时候 aparece como «shí hòu»; debe ser «shí hou».",
+      "Ejemplo 4: 奶奶 aparece como «nǎi nǎi»; debe ser «nǎi nai»."
+    ],
+    "content_hash": "069db927201d88049d8d0437f26182a83653f172"
+  },
+  {
+    "id": "word:总结",
+    "ok": true,
+    "issues": [],
+    "content_hash": "716bafa3dc6098d5e0c3beaa898a599a1849f53e"
+  },
+  {
+    "id": "word:流利",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6ded8d0b487fed3f8c4ee7767aff5754a22f426"
+  },
+  {
+    "id": "word:乐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "deacb8c92a95dac946d0dd8a38d3bf4b85d9b0a4"
+  },
+  {
+    "id": "word:音节",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5b2929e51941fc872404e938db1c7ff34800f569"
+  },
+  {
+    "id": "word:骑车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ae935206bcca3c383631cfaa3e94ea1dbb93d17"
+  },
+  {
+    "id": "word:大衣",
+    "ok": true,
+    "issues": [],
+    "content_hash": "05a0eb81553b19d9a1493a3826665cb02fc97807"
+  },
+  {
+    "id": "word:画儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7dd69965ac5fb365125150085a9b7746d85f9fb1"
+  },
+  {
+    "id": "word:筷子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d82bbef966e8e024dea314c8b4ec28d868ebfd6"
+  },
+  {
+    "id": "word:传说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "55930b98a989af751d844bce83444b14b67fd81f"
+  },
+  {
+    "id": "word:坏处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b346899f10d8a2c1856c8dc84ef84b8f299e1a9"
+  },
+  {
+    "id": "word:千克",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8730d64e859faeb7ace72077b9573579414dc9d5"
+  },
+  {
+    "id": "word:看起来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f96c5697f3b893dc7df6b5c557d29a9f5e227a5"
+  },
+  {
+    "id": "word:关机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e73405e710d9b03adb2b73c89ad636b66ecc3ec2"
+  },
+  {
+    "id": "word:快餐",
+    "ok": false,
+    "issues": [
+      "El significado «bocadillo» no es adecuado: en Latinoamérica suele referirse a un dulce o a un sándwich, y 快餐 no significa eso.",
+      "«Comida ligera» tampoco corresponde a 快餐, que se refiere a comida rápida o a una comida hecha de prisa."
+    ],
+    "content_hash": "77ef7f7eb1784c8e0ebda929c271f695afca0335"
+  },
+  {
+    "id": "word:奇怪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f1900c191e8c938b89057b23b9aac80a9d8e7ee"
+  },
+  {
+    "id": "word:晴天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0fd8b225fa503b97f2ee3a326247e3455550302"
+  },
+  {
+    "id": "word:交朋友",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0e62ce44e0fa069e6da31c88dc6d81f636a22c6"
+  }
+]

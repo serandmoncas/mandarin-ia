@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:一路顺风",
+    "ok": true,
+    "issues": [],
+    "content_hash": "71c928bde8aab4fdff76b3f9dbaa074714b83e3d"
+  },
+  {
+    "id": "word:高速",
+    "ok": true,
+    "issues": [],
+    "content_hash": "12329d6d20f4292f7887ab9642b51aa6514a13d9"
+  },
+  {
+    "id": "word:仅仅",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9de845216035e5a8774bcfa0e44b7c53a4860fa"
+  },
+  {
+    "id": "word:美好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "710ac60b30e7d9ef17c2ded96cd4502f40cebed3"
+  },
+  {
+    "id": "word:谈判",
+    "ok": true,
+    "issues": [],
+    "content_hash": "675dcee985311ba0ebcb8396b23c90649d03d357"
+  },
+  {
+    "id": "word:朝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d1796e817dcf3b86a4391927b0adb5ba083aa8f2"
+  },
+  {
+    "id": "word:发明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9a097197140896e64e09034ba166c53547223db"
+  },
+  {
+    "id": "word:亲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5588f835cbcc79ebc892fa8323156fdef23da17"
+  },
+  {
+    "id": "word:信任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "146f7404d125b4f79ababe7dace8e14f2ac08536"
+  },
+  {
+    "id": "word:选手",
+    "ok": false,
+    "issues": [
+      "'他是足球选手' suena poco natural; para un futbolista se dice normalmente '足球运动员'.",
+      "Pinyin: '一百' debería ser 'yì bǎi' por sandhi tonal, como en los demás ejemplos."
+    ],
+    "content_hash": "accd991dd3d8dd07b40cf0ca1ba5ae322c98428c"
+  },
+  {
+    "id": "word:姑娘",
+    "ok": false,
+    "issues": [
+      "'他家的小姑娘' se refiere a su hija pequeña; 'la niña de su casa' es una traducción forzada. Mejor: 'Su hija pequeña ya tiene cinco años'."
+    ],
+    "content_hash": "59efa7175bc4630939c399d1b6afe799c4af931c"
+  },
+  {
+    "id": "word:上升",
+    "ok": true,
+    "issues": [],
+    "content_hash": "051628e2cd24458454990451e8098ae5ac0477c5"
+  },
+  {
+    "id": "word:不必",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e7fec0b1c9ac303ccaf00480df8ea9c96238bd9"
+  },
+  {
+    "id": "word:古",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5668418b319e8018b32456ee49980d839667b837"
+  },
+  {
+    "id": "word:生长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d8718cc319ebc7dae0bc66c3cb5f1dfccd97c412"
+  },
+  {
+    "id": "word:气候",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba44ab7e3761b2b4fe7b5e18f4b684ded10f0050"
+  },
+  {
+    "id": "word:伤",
+    "ok": false,
+    "issues": [
+      "'伤了我的心' significa 'me hirió / me dolió mucho'; 'me rompió el corazón' exagera el sentido."
+    ],
+    "content_hash": "eca1b06e6b4c807b4524c51efe684f328bf55f15"
+  },
+  {
+    "id": "word:上来",
+    "ok": false,
+    "issues": [
+      "Pinyin: '东西' (cosas) es 'dōng xi', con tono neutro, no 'dōng xī'."
+    ],
+    "content_hash": "e2f771df74eb5e0c3a3c48102fbce4a9d046b5e9"
+  },
+  {
+    "id": "word:相比",
+    "ok": false,
+    "issues": [
+      "'和去年相比，今年很热' es poco natural; en una comparación se espera '更热' o '热多了' en lugar de '很热'."
+    ],
+    "content_hash": "1d914d7fd9cac27b2a6f657ef7298c71bc51de92"
+  },
+  {
+    "id": "word:造",
+    "ok": true,
+    "issues": [],
+    "content_hash": "164fb5c0b702c044244a99126bd5609691e90c85"
+  },
+  {
+    "id": "word:不论",
+    "ok": true,
+    "issues": [],
+    "content_hash": "56e55fd5d867d3140a32d9ce0cdc8b365d9dc148"
+  },
+  {
+    "id": "word:准",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10bec0dc46067bebbc3947e06ecf1600c35f77b1"
+  },
+  {
+    "id": "word:后果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3177a0baa1a785cf454fab33d244d9bb0530a1b0"
+  },
+  {
+    "id": "word:咖啡",
+    "ok": false,
+    "issues": [
+      "Pinyin: '睡不着' es 'shuì bu zháo', no 'shuì bù zhe'.",
+      "Pinyin: '喜欢' es 'xǐ huan' y '晚上' es 'wǎn shang', con tono neutro."
+    ],
+    "content_hash": "781e953004f439e40ad69f32e6a2a6e418bfc1d7"
+  },
+  {
+    "id": "word:深刻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5f572e2afbde70ef884f1ef3d6489f7be225a802"
+  }
+]

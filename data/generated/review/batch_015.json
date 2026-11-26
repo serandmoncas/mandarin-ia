@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:她们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97ccb8186a28304f7bd8e29b7308e2fd337c56e8"
+  },
+  {
+    "id": "word:外国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b25e15738cf2a6d0b473e3ac91556c94039318e"
+  },
+  {
+    "id": "word:表示",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a05c98b6d04944eefaec3889176e9c454d6a3ffa"
+  },
+  {
+    "id": "word:晚上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ad7c7ecd6baff1427e6bfae90c025455d1d7f0d"
+  },
+  {
+    "id": "word:资料",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a83e86ee562c1533bf9e59f0986a9601bf4dd0b"
+  },
+  {
+    "id": "word:错",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7aea9359d07c658ab1c622b8e9be4d04be836b50"
+  },
+  {
+    "id": "word:安全",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: el complemento 得 en 生活得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "c8f515d0fd27492e01fce0aec8038adaa816b441"
+  },
+  {
+    "id": "word:电脑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ff2008cdffd88779093a068744c8a809d8d560f"
+  },
+  {
+    "id": "word:成",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a7dd0099e02af16aadd4c38c57d511b4d77d4b9"
+  },
+  {
+    "id": "word:说话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "49a08ce64362da0eb71831996243d591541fde41"
+  },
+  {
+    "id": "word:五",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ef528b0990aff549f06e4bb2bd516c41255903f"
+  },
+  {
+    "id": "word:远",
+    "ok": true,
+    "issues": [],
+    "content_hash": "891dffd8709bac907ce765dee789c158dade2f1c"
+  },
+  {
+    "id": "word:一种",
+    "ok": false,
+    "issues": [
+      "Error de concordancia en la traducción del ejemplo 2: debe ser «Este es un nuevo tipo de tecnología», no «Esta es».",
+      "Pinyin de 一种 sin cambio tonal: debe ser «yì zhǒng», como en otros elementos que sí lo aplican (yí gè, yì qǐ)."
+    ],
+    "content_hash": "7504131557474cab47dd70b0685e662b7815ad6b"
+  },
+  {
+    "id": "word:不大",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 听得 se lee «tīng de», no «tīng dé».",
+      "Pinyin de 一次 sin cambio tonal: debe ser «yí cì»."
+    ],
+    "content_hash": "f76928e53c92345954d3f251dea874d97f85c7fc"
+  },
+  {
+    "id": "word:关于",
+    "ok": false,
+    "issues": [
+      "Pinyin sin cambio tonal: 一本 debe ser «yì běn» y 一部 debe ser «yí bù»."
+    ],
+    "content_hash": "565fb9f2f62fae1f7a456413c662a787fc03d813"
+  },
+  {
+    "id": "word:回到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bad5d09af8e1e9b3de38cd48f509db4ad0b749df"
+  },
+  {
+    "id": "word:因",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97e48b95892b5b45d000b104d45c15a50ee29a94"
+  },
+  {
+    "id": "word:部分",
+    "ok": false,
+    "issues": [
+      "Pinyin de 一部分 sin cambio tonal: debe ser «yí bù fèn»."
+    ],
+    "content_hash": "154070489d361cb20f9ed348893ab86ab0aab559"
+  },
+  {
+    "id": "word:重",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: 东西 con el sentido de «cosas» se lee «dōng xi» (tono neutro); «dōng xī» significa «este y oeste».",
+      "Pinyin incorrecto en el ejemplo 4: 病得 se lee «bìng de», no «bìng dé»."
+    ],
+    "content_hash": "c8833cbfd3b135e028afae814fefb363432b38bf"
+  },
+  {
+    "id": "word:第二",
+    "ok": false,
+    "issues": [
+      "La traducción del ejemplo 4 usa «Hasta la segunda vez… entendí», un regionalismo (México y Centroamérica) que en español neutro puede entenderse al revés. Mejor: «No fue sino hasta la segunda vez que vi esta película que entendí de qué trataba»."
+    ],
+    "content_hash": "5cb25eff4af9609c83531f62be38dbdd479eba45"
+  },
+  {
+    "id": "word:大家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "36a2dc76e9568bc42c2abf8d5f61125abd2ae5f6"
+  },
+  {
+    "id": "word:身上",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 都 en 都会 se lee «dōu», no «dū»."
+    ],
+    "content_hash": "3d5fd59c9b7daca41a152d437af475074eea8dc9"
+  },
+  {
+    "id": "word:运动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "201e38668040a4c27b965d952f3bcaf090917db0"
+  },
+  {
+    "id": "word:几",
+    "ok": true,
+    "issues": [],
+    "content_hash": "226871555ce37b935da7349064aaab2bd8e5264a"
+  },
+  {
+    "id": "word:国外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "47dd8572a32127dd02b385be936a31530a38cee3"
+  }
+]

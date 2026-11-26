@@ -1,0 +1,154 @@
+[
+  {
+    "id": "word:攻击",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c337a2ec9d603bffc6973e995513a6cc4ee3f4a4"
+  },
+  {
+    "id": "word:规模",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2038a554c4c61555bb430cde801d6a590feaa3fe"
+  },
+  {
+    "id": "word:部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7732613146d4b50857f2ba9f18b1562cf64f7cc9"
+  },
+  {
+    "id": "word:积极",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e621694f883712a181d3a89f5af9b186c6eb4353"
+  },
+  {
+    "id": "word:经营",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fab13135957e0e9265f451ae5d2e33c07e474b4c"
+  },
+  {
+    "id": "word:绝对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5aa01dacfe2a254347b68f01e894c67d87610db9"
+  },
+  {
+    "id": "word:那样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fcd8edb32a7198adfedf1e006ae3a8a378b03601"
+  },
+  {
+    "id": "word:清楚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8003ea211ae2b893af0e1d36e266f38e7ee61318"
+  },
+  {
+    "id": "word:思想",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cab9643bad99229b6adfd12224978f5ea7959755"
+  },
+  {
+    "id": "word:届",
+    "ok": true,
+    "issues": [],
+    "content_hash": "42b0e3be8c3c724c7e6665b7f82dd75c202ebff6"
+  },
+  {
+    "id": "word:承认",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b870e1d4be3f0745331cd167908342afd9a01230"
+  },
+  {
+    "id": "word:担心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8c1309f85cfee696e30bb021ab3d2d41da63e81"
+  },
+  {
+    "id": "word:此外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4ff086c8deb1060c70d404f0f01da1dbb4082a9"
+  },
+  {
+    "id": "word:后年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "188fbfe80362bdbed069def874fd373accd5256a"
+  },
+  {
+    "id": "word:到底",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d320af2b56a0de3ca23a2b931b1cf8e279270bf4"
+  },
+  {
+    "id": "word:段",
+    "ok": false,
+    "issues": [
+      "El ejemplo 「我读了一段书。」 suena poco natural: 段 no se combina así con 书. Sería más natural 「我读了书里的一段。」 o 「我读了一段课文。」"
+    ],
+    "content_hash": "7082bc139a61177d222b1241d423698758aa3650"
+  },
+  {
+    "id": "word:好像",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ebca848716de1498de9b188c0f14002f786548d"
+  },
+  {
+    "id": "word:农村",
+    "ok": true,
+    "issues": [],
+    "content_hash": "459cf6c9943c9b9b56f747ccd347533ea320cbfe"
+  },
+  {
+    "id": "word:同意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a122dd3cfc42502ecb5fecd9e8415ad0abf1f019"
+  },
+  {
+    "id": "word:不想",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4f0d58296aed7bd23297293d25eca4c5de78645"
+  },
+  {
+    "id": "word:尽管",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc372e2fdf82e1aca1472b94e0a3a5be24427a82"
+  },
+  {
+    "id": "word:每年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "42ec9aa8c10e1e72852aa1649885b181ddeb57d0"
+  },
+  {
+    "id": "word:第一次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9860365c6467d8410ae6d4247abfab7b35cccd44"
+  },
+  {
+    "id": "word:件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d2ff415402cbc036d1f6fc725197dccb6fa8c10"
+  },
+  {
+    "id": "word:创新",
+    "ok": true,
+    "issues": [],
+    "content_hash": "137f38aef5d019dc2022878d52e4893f7f2fefda"
+  }
+]

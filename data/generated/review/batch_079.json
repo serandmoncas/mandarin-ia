@@ -1,0 +1,164 @@
+[
+  {
+    "id": "word:中小学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d36cca512721a9f162f36521d4d82f4b9103dc65"
+  },
+  {
+    "id": "word:菜单",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 哪儿 se escribe «nǎr», no «nǎ ér»."
+    ],
+    "content_hash": "54b9edfebada2148b10288d3608114f61736c4cf"
+  },
+  {
+    "id": "word:成果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "836ea6845840c702b817b1320b6594b7048f253e"
+  },
+  {
+    "id": "word:作文",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: el 得 de complemento (写得、进步得) es «de» en tono neutro, no «dé»."
+    ],
+    "content_hash": "7fea69d3df7a781d1b892e8efe313ccbaa849841"
+  },
+  {
+    "id": "word:草地",
+    "ok": true,
+    "issues": [],
+    "content_hash": "95644c13704b0a53f0ae38eada0fcfbf7dd86af9"
+  },
+  {
+    "id": "word:东部",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 发展得 debe ser «fā zhǎn de», no «dé»."
+    ],
+    "content_hash": "a0b89062b79d69bc417cb34f019269b7ad349d35"
+  },
+  {
+    "id": "word:费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac8c5cb0ddb48f3ea326ae7efc3fa1d922e90bae"
+  },
+  {
+    "id": "word:晴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89cdae781b76420d4c086338ea8503345693c361"
+  },
+  {
+    "id": "word:工资",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1360aac0c8dcc33e5b2c8f26feea1dab85970f06"
+  },
+  {
+    "id": "word:开机",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 多长时间 debe ser «duō cháng shí jiān», no «duō zhǎng»."
+    ],
+    "content_hash": "a83d08a584adde67a4d834d1de6611412869d0ac"
+  },
+  {
+    "id": "word:合理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "642cd957782dd10d1be6066f252088f6e49433fb"
+  },
+  {
+    "id": "word:开学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9279a400bb0ec6715a9c07d36310fc1f60aefcc"
+  },
+  {
+    "id": "word:及时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b33ac4449830bb8face51644670eb961153de6e"
+  },
+  {
+    "id": "word:挺好",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: 说得 debe ser «shuō de», no «dé»."
+    ],
+    "content_hash": "913ef8a3e3f7daded07a3eec8e872e484b035371"
+  },
+  {
+    "id": "word:点头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "400196fb992721e880646defb8e1ef46144461ee"
+  },
+  {
+    "id": "word:老朋友",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d305d2bc7c82e8e117bea09e5f169c2209eec38"
+  },
+  {
+    "id": "word:银行卡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ae25d44cc5303a74c2eeb9312cb4aac694e9e8d4"
+  },
+  {
+    "id": "word:生词",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0856654948cdcf3b0789b99751845d43fe3f3f9"
+  },
+  {
+    "id": "word:生存",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ec1d0bd349c2d72ca908dc9313726bcffa2a259"
+  },
+  {
+    "id": "word:室",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da1dd0e28c9fd3aca7053a3ad04d5715875545d8"
+  },
+  {
+    "id": "word:出院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8989eb2382d96cc4722e133dc782ff55f0f16f60"
+  },
+  {
+    "id": "word:要是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d34ac7ba7a0eb206fac528d5d5089df30a5dbf41"
+  },
+  {
+    "id": "word:班长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7169e1f51a4d678748e07c32b2be0ba54cd60a62"
+  },
+  {
+    "id": "word:办理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a879a6f4e9e21e1a04ee6e52c9df800a1bfdb07c"
+  },
+  {
+    "id": "word:有点儿",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en todos los ejemplos: 有点儿 se escribe «yǒu diǎnr» (erhua), no «yǒu diǎn ér»."
+    ],
+    "content_hash": "64541c31051692ce76fac457357bf493386d88c8"
+  }
+]

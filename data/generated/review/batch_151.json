@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2bd8d1924eb4db08f82dfce0df09e5849a8e3baf"
+  },
+  {
+    "id": "word:我",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2299ec95eb2cc01cabebdf331ecbb241bcbf2fd2"
+  },
+  {
+    "id": "word:不",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8c5d54df94d43e2d1f5ce7d075a3d2c4bd4208e"
+  },
+  {
+    "id": "word:也",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f5dfcefa01805ed1d9404175928cf51a61bc51c"
+  },
+  {
+    "id": "word:为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77d2efee043d3b14da251109294023da3a188ad6"
+  },
+  {
+    "id": "word:对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "08aa22ceb35b9404a7390d579c78d3586b33eb0a"
+  },
+  {
+    "id": "word:就",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f565ff54208c6ecdbfc880a39a997d86d8e90b25"
+  },
+  {
+    "id": "word:都",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f9166aa93c2c36d4c192d5b1151dd4aff2f5252"
+  },
+  {
+    "id": "word:说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "62cc1c9b97b83622b7d28cc4316d44c526696148"
+  },
+  {
+    "id": "word:吗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e5066aa78d92407c49c664d48d2cda16fe9ce1fd"
+  },
+  {
+    "id": "word:月",
+    "ok": false,
+    "issues": [
+      "Pinyin de 五月一号: en fechas 一 es ordinal y no cambia de tono; debe ser «yī hào», no «yí hào»."
+    ],
+    "content_hash": "2262c00d512b77a0d15ff063ed2e5384eb98df65"
+  },
+  {
+    "id": "word:中国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "702e482f9da907521532cca3517a96296334cf85"
+  },
+  {
+    "id": "word:被",
+    "ok": false,
+    "issues": [
+      "«这件事被很多人知道了» suena forzado: 知道 no suele usarse en pasiva con 被. Es más natural «这件事很多人都知道了»."
+    ],
+    "content_hash": "32be72cd2add01b97edb2a93eb0657f8e3b8fa4d"
+  },
+  {
+    "id": "word:他们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "795f21bafd453f65cb40ba59a8c9ed23019263d2"
+  },
+  {
+    "id": "word:而",
+    "ok": false,
+    "issues": [
+      "El primer ejemplo usa la palabra compuesta 而且, que no ilustra 而 solo.",
+      "El significado «para (indica propósito)» es engañoso: en 为了…而 el propósito lo marca 为了; 而 solo enlaza el propósito con la acción."
+    ],
+    "content_hash": "7dc7eb0f0d290c5c58a7ce782a4adb9b25b8e542"
+  },
+  {
+    "id": "word:但",
+    "ok": true,
+    "issues": [],
+    "content_hash": "00c058f2ba8b686ba0e9ef40ad51f3c4e5121922"
+  },
+  {
+    "id": "word:日",
+    "ok": false,
+    "issues": [
+      "Pinyin de 五月一日 y 十月一日: en fechas 一 es ordinal y conserva el primer tono; debe ser «yī rì», no «yí rì»."
+    ],
+    "content_hash": "abe0f8c1c7768491f2c2b8be152e55047345e1dd"
+  },
+  {
+    "id": "word:什么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a7e33031cf105f57e91543b644dc88e0b7d63238"
+  },
+  {
+    "id": "word:一",
+    "ok": true,
+    "issues": [],
+    "content_hash": "00861462d6ca87ce964edb37d5dfed8e9bff88b7"
+  },
+  {
+    "id": "word:从",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d308d5af8c6d40217230ba5e84cae324545de97e"
+  },
+  {
+    "id": "word:让",
+    "ok": false,
+    "issues": [
+      "Pinyin de 妈妈: debe ser «mā ma» (segunda sílaba en tono neutro), no «mā mā».",
+      "Pinyin de 消息: lo habitual es «xiāo xi», con tono neutro."
+    ],
+    "content_hash": "e0917a9e3204439b0b1727c18a652873866c1e9f"
+  },
+  {
+    "id": "word:大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d239c81d9ad282e4e60f296963e668d574221b0"
+  },
+  {
+    "id": "word:以",
+    "ok": false,
+    "issues": [
+      "El primer ejemplo usa la palabra 以后 (después), que no ilustra ninguno de los significados dados para 以."
+    ],
+    "content_hash": "bad89c369fff33136994f3c8ab426d87aaa42e34"
+  },
+  {
+    "id": "word:着",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d874db16df47340fb65b710e9c89567c1810c6a"
+  },
+  {
+    "id": "word:给",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b564664b4948242c26b91db24bd6ccc01abd310"
+  }
+]

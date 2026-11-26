@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:照片",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos escribe «zhào piān», pero la palabra es zhao4 pian4; debe ser «zhào piàn»."
+    ],
+    "content_hash": "56024d9d62d3fa9c2ff6f2bbeea5f0eb1d882da8"
+  },
+  {
+    "id": "word:种",
+    "ok": true,
+    "issues": [],
+    "content_hash": "90dc336d4c62bdedac05d8e1ea613297e9d07050"
+  },
+  {
+    "id": "word:七",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fe741cfd55126e0b0757e256d46138ddaea9b984"
+  },
+  {
+    "id": "word:之间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8fce27f935d2103b57464f09037bcab7d201fb43"
+  },
+  {
+    "id": "word:肉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "13db3bc1b4f13d38cf0f9716063bff2bd41f1ca5"
+  },
+  {
+    "id": "word:处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "36926329dc234a2736343aecc0e6492362820a58"
+  },
+  {
+    "id": "word:天气",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ffd189ead70d6c50b9cb41761f5208a6e9d01331"
+  },
+  {
+    "id": "word:总统",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, «做得» aparece como «zuò dé»; la partícula estructural 得 se lee en tono neutro: «zuò de»."
+    ],
+    "content_hash": "4d1e5f2cf3696c3d6f31da33fdea44a96b80b8f1"
+  },
+  {
+    "id": "word:大学生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "193685090afd95f625ae74d7fe876484a3f68821"
+  },
+  {
+    "id": "word:战争",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b5a2c8e3057caf97695188c50fb5741fccc4b44"
+  },
+  {
+    "id": "word:英国",
+    "ok": false,
+    "issues": [
+      "«Inglaterra» es impreciso como significado: 英国 es el Reino Unido o Gran Bretaña, e Inglaterra es 英格兰. Conviene quitarlo o aclarar que se trata de un uso coloquial."
+    ],
+    "content_hash": "d37ee025194ae05410468c378278b197d43b8fc6"
+  },
+  {
+    "id": "word:妹妹",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos escribe «mèi mèi», pero la palabra es mei4 mei5; debe ser «mèi mei»."
+    ],
+    "content_hash": "6b7342a94974b0e52e34b6c4f5f6d31e6c4f094c"
+  },
+  {
+    "id": "word:方法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0eeacde30a691f1de7ce89e213e18959cf15e8b"
+  },
+  {
+    "id": "word:女生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aebe03a9cf00a1ba1a5b6b4281016c51af7a4eb5"
+  },
+  {
+    "id": "word:改变",
+    "ok": true,
+    "issues": [],
+    "content_hash": "117f356407c78d4e95d34b2ad6d5ad01ee79dfb2"
+  },
+  {
+    "id": "word:进来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0ba71313157a4ee929bd0d946a5007f129f4614"
+  },
+  {
+    "id": "word:各",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33244b332f75377101f9b17f9dacbd23a6ec9916"
+  },
+  {
+    "id": "word:歌",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab17439150c5b3f591b5668e81be5ad2c87738b2"
+  },
+  {
+    "id": "word:接受",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, «高兴地» aparece como «gāo xìng dì»; la partícula adverbial 地 se lee «de»: «gāo xìng de»."
+    ],
+    "content_hash": "c1424206a1dadba40eddea68445af8c19fa1b21b"
+  },
+  {
+    "id": "word:科技",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98de8f9237942c6db0a581e943c7f1d13432d62c"
+  },
+  {
+    "id": "word:九",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45dae61e7ebbbbeb5b541fd0469c65aaa792eaee"
+  },
+  {
+    "id": "word:市",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b8ed883bc3b2cec0296de1fea24ffead1ee11685"
+  },
+  {
+    "id": "word:哪些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "28ffe3f5d69c0225f2d21b98bd9aacd303a8446a"
+  },
+  {
+    "id": "word:星期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e4e7e5761d714b4109741b90d05ef798b9c96a3"
+  },
+  {
+    "id": "word:政策",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af3f60217bc18f654b37f3a1472869306960ae07"
+  }
+]

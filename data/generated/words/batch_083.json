@@ -1,0 +1,544 @@
+[
+  {
+    "word": "长大",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "crecer",
+      "hacerse mayor"
+    ],
+    "examples": [
+      {
+        "zh": "我长大了。",
+        "es": "Ya crecí."
+      },
+      {
+        "zh": "他在北京长大。",
+        "es": "Él creció en Pekín."
+      },
+      {
+        "zh": "你长大以后想做什么？",
+        "es": "¿Qué quieres hacer cuando seas grande?"
+      },
+      {
+        "zh": "孩子们都长大了，爸爸妈妈也老了。",
+        "es": "Los niños ya crecieron, y papá y mamá también envejecieron."
+      }
+    ]
+  },
+  {
+    "word": "今后",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de ahora en adelante",
+      "en el futuro",
+      "en lo sucesivo"
+    ],
+    "examples": [
+      {
+        "zh": "今后我会努力学习。",
+        "es": "De ahora en adelante voy a estudiar con empeño."
+      },
+      {
+        "zh": "今后我们常见面吧。",
+        "es": "De ahora en adelante veámonos seguido."
+      },
+      {
+        "zh": "今后你有什么计划？",
+        "es": "¿Qué planes tienes para el futuro?"
+      },
+      {
+        "zh": "我希望今后的生活会越来越好。",
+        "es": "Espero que de ahora en adelante la vida sea cada vez mejor."
+      }
+    ]
+  },
+  {
+    "word": "优势",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ventaja",
+      "superioridad",
+      "punto fuerte"
+    ],
+    "examples": [
+      {
+        "zh": "这是我们的优势。",
+        "es": "Esta es nuestra ventaja."
+      },
+      {
+        "zh": "他的优势是年轻。",
+        "es": "Su ventaja es que es joven."
+      },
+      {
+        "zh": "中国队在比赛中有很大的优势。",
+        "es": "El equipo de China tiene una gran ventaja en el partido."
+      },
+      {
+        "zh": "我们公司的优势是技术好、价格低。",
+        "es": "El punto fuerte de nuestra empresa es la buena tecnología y los precios bajos."
+      }
+    ]
+  },
+  {
+    "word": "商人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comerciante",
+      "hombre de negocios",
+      "empresario"
+    ],
+    "examples": [
+      {
+        "zh": "他是商人。",
+        "es": "Él es comerciante."
+      },
+      {
+        "zh": "那个商人很有钱。",
+        "es": "Ese comerciante tiene mucho dinero."
+      },
+      {
+        "zh": "这个商人在香港开了一家店。",
+        "es": "Este comerciante abrió una tienda en Hong Kong."
+      },
+      {
+        "zh": "很多外国商人来北京参加这次会议。",
+        "es": "Muchos empresarios extranjeros vinieron a Pekín para participar en esta reunión."
+      }
+    ]
+  },
+  {
+    "word": "月份",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mes"
+    ],
+    "examples": [
+      {
+        "zh": "你喜欢哪个月份？",
+        "es": "¿Qué mes te gusta?"
+      },
+      {
+        "zh": "这个月份天气很热。",
+        "es": "En este mes hace mucho calor."
+      },
+      {
+        "zh": "请在这里写上日期和月份。",
+        "es": "Por favor, escribe aquí el día y el mes."
+      },
+      {
+        "zh": "你觉得哪个月份去北京旅游最好？",
+        "es": "¿En qué mes crees que es mejor viajar a Pekín?"
+      }
+    ]
+  },
+  {
+    "word": "化",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "convertir(se) en, transformar(se)",
+      "-izar, -ización (sufijo)",
+      "derretirse",
+      "química (abreviatura)"
+    ],
+    "examples": [
+      {
+        "zh": "天气变化很大。",
+        "es": "El clima cambia mucho."
+      },
+      {
+        "zh": "这个城市越来越现代化了。",
+        "es": "Esta ciudad está cada vez más modernizada."
+      },
+      {
+        "zh": "天热了，河上的冰都化了。",
+        "es": "Ya hace calor y el hielo del río se derritió."
+      },
+      {
+        "zh": "这家公司希望在五年内实现国际化。",
+        "es": "Esta empresa espera lograr su internacionalización en cinco años."
+      }
+    ]
+  },
+  {
+    "word": "背",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "memorizar, aprender de memoria",
+      "espalda",
+      "dar la espalda",
+      "(coloq.) tener mala suerte"
+    ],
+    "examples": [
+      {
+        "zh": "老师让我们背课文。",
+        "es": "El maestro nos pidió memorizar el texto."
+      },
+      {
+        "zh": "我每天早上背十个新词。",
+        "es": "Cada mañana memorizo diez palabras nuevas."
+      },
+      {
+        "zh": "这些汉字我都背下来了。",
+        "es": "Ya me aprendí de memoria todos estos caracteres."
+      },
+      {
+        "zh": "他背对着门，所以没看见我进来。",
+        "es": "Estaba de espaldas a la puerta, por eso no me vio entrar."
+      }
+    ]
+  },
+  {
+    "word": "便宜",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "barato",
+      "económico",
+      "pequeña ventaja (sacar provecho)",
+      "dejar pasar sin castigo"
+    ],
+    "examples": [
+      {
+        "zh": "这件衣服很便宜。",
+        "es": "Esta ropa es muy barata."
+      },
+      {
+        "zh": "你能便宜一点儿吗？",
+        "es": "¿Me lo puede dejar un poco más barato?"
+      },
+      {
+        "zh": "这家店的水果又好又便宜。",
+        "es": "La fruta de esta tienda es buena y barata."
+      },
+      {
+        "zh": "他总是想占别人的便宜。",
+        "es": "Él siempre quiere aprovecharse de los demás."
+      }
+    ]
+  },
+  {
+    "word": "救",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "salvar",
+      "rescatar",
+      "socorrer, ayudar"
+    ],
+    "examples": [
+      {
+        "zh": "救命啊！",
+        "es": "¡Auxilio!"
+      },
+      {
+        "zh": "医生救了他的命。",
+        "es": "El médico le salvó la vida."
+      },
+      {
+        "zh": "是警察救了那个孩子。",
+        "es": "Fue la policía quien rescató a ese niño."
+      },
+      {
+        "zh": "他从河里救出了一个小女孩。",
+        "es": "Él rescató a una niña del río."
+      }
+    ]
+  },
+  {
+    "word": "好多",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muchos, un montón",
+      "mucho",
+      "mucho mejor"
+    ],
+    "examples": [
+      {
+        "zh": "这里有好多人。",
+        "es": "Aquí hay muchísima gente."
+      },
+      {
+        "zh": "他买了好多水果。",
+        "es": "Él compró un montón de fruta."
+      },
+      {
+        "zh": "我有好多话想跟你说。",
+        "es": "Tengo muchas cosas que quiero decirte."
+      },
+      {
+        "zh": "吃了药以后，我觉得好多了。",
+        "es": "Después de tomar la medicina, me siento mucho mejor."
+      }
+    ]
+  },
+  {
+    "word": "路线",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ruta",
+      "itinerario",
+      "línea (política)"
+    ],
+    "examples": [
+      {
+        "zh": "这条路线很近。",
+        "es": "Esta ruta es muy corta."
+      },
+      {
+        "zh": "我们走哪条路线？",
+        "es": "¿Qué ruta tomamos?"
+      },
+      {
+        "zh": "这条地铁路线到机场吗？",
+        "es": "¿Esta línea del metro llega al aeropuerto?"
+      },
+      {
+        "zh": "去之前，我们先在地图上看看旅游路线。",
+        "es": "Antes de ir, veamos primero el itinerario del viaje en el mapa."
+      }
+    ]
+  },
+  {
+    "word": "举",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "levantar, alzar",
+      "citar (un ejemplo)",
+      "enumerar",
+      "elegir"
+    ],
+    "examples": [
+      {
+        "zh": "请举手。",
+        "es": "Levanten la mano, por favor."
+      },
+      {
+        "zh": "有问题的同学请举手。",
+        "es": "Los alumnos que tengan preguntas, por favor levanten la mano."
+      },
+      {
+        "zh": "你能举一个例子吗？",
+        "es": "¿Puedes dar un ejemplo?"
+      },
+      {
+        "zh": "他把杯子举起来，对大家说谢谢。",
+        "es": "Él levantó la copa y les dio las gracias a todos."
+      }
+    ]
+  },
+  {
+    "word": "排",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer fila, formarse",
+      "ordenar, acomodar",
+      "fila, hilera (clasificador)",
+      "excluir"
+    ],
+    "examples": [
+      {
+        "zh": "请排好队。",
+        "es": "Por favor, hagan bien la fila."
+      },
+      {
+        "zh": "我坐在第三排。",
+        "es": "Me siento en la tercera fila."
+      },
+      {
+        "zh": "请把这些书按名字排好。",
+        "es": "Por favor, ordena estos libros por nombre."
+      },
+      {
+        "zh": "我们在门口排了一个小时的队才买到票。",
+        "es": "Hicimos fila una hora en la entrada para poder comprar los boletos."
+      }
+    ]
+  },
+  {
+    "word": "平时",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "normalmente, por lo general",
+      "en días normales",
+      "en tiempos de paz"
+    ],
+    "examples": [
+      {
+        "zh": "我平时不喝酒。",
+        "es": "Normalmente no tomo alcohol."
+      },
+      {
+        "zh": "你平时几点起床？",
+        "es": "¿A qué hora te levantas por lo general?"
+      },
+      {
+        "zh": "他平时很忙，只有周末才休息。",
+        "es": "Normalmente está muy ocupado; solo descansa los fines de semana."
+      },
+      {
+        "zh": "今天路上的车比平时少多了。",
+        "es": "Hoy hay muchos menos carros en la calle que de costumbre."
+      }
+    ]
+  },
+  {
+    "word": "证据",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prueba",
+      "evidencia",
+      "testimonio"
+    ],
+    "examples": [
+      {
+        "zh": "你有证据吗？",
+        "es": "¿Tienes pruebas?"
+      },
+      {
+        "zh": "警察还在找证据。",
+        "es": "La policía todavía está buscando pruebas."
+      },
+      {
+        "zh": "这些照片就是最好的证据。",
+        "es": "Estas fotos son la mejor prueba."
+      },
+      {
+        "zh": "没有证据，你不能说他是坏人。",
+        "es": "Sin pruebas, no puedes decir que él es una mala persona."
+      }
+    ]
+  },
+  {
+    "word": "大人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adulto",
+      "persona mayor",
+      "(trato de respeto) señor, excelencia"
+    ],
+    "examples": [
+      {
+        "zh": "他已经是大人了。",
+        "es": "Él ya es un adulto."
+      },
+      {
+        "zh": "大人的门票五十元。",
+        "es": "La entrada para adultos cuesta cincuenta yuanes."
+      },
+      {
+        "zh": "这个电影大人和孩子都喜欢看。",
+        "es": "A los adultos y a los niños les gusta ver esta película."
+      },
+      {
+        "zh": "大人说话的时候，小孩儿不要说话。",
+        "es": "Cuando los adultos están hablando, los niños no deben interrumpir."
+      }
+    ]
+  },
+  {
+    "word": "自动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "automático",
+      "automáticamente",
+      "por iniciativa propia, voluntariamente"
+    ],
+    "examples": [
+      {
+        "zh": "这个门是自动的。",
+        "es": "Esta puerta es automática."
+      },
+      {
+        "zh": "门会自动关上。",
+        "es": "La puerta se cierra sola."
+      },
+      {
+        "zh": "下雨以后，车灯会自动打开。",
+        "es": "Cuando llueve, las luces del carro se encienden automáticamente."
+      },
+      {
+        "zh": "没有人叫他们，大家都自动来帮忙了。",
+        "es": "Nadie los llamó; todos vinieron a ayudar por iniciativa propia."
+      }
+    ]
+  },
+  {
+    "word": "放心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "quedarse tranquilo",
+      "no preocuparse",
+      "sentirse seguro, confiar"
+    ],
+    "examples": [
+      {
+        "zh": "放心吧，没事儿！",
+        "es": "Tranquilo, ¡no pasa nada!"
+      },
+      {
+        "zh": "你放心，我明天一定来。",
+        "es": "No te preocupes, mañana vengo sin falta."
+      },
+      {
+        "zh": "孩子一个人在家，妈妈不放心。",
+        "es": "La mamá no está tranquila si el niño se queda solo en casa."
+      },
+      {
+        "zh": "这件事交给他做，大家都很放心。",
+        "es": "Si él se encarga de este asunto, todos nos quedamos tranquilos."
+      }
+    ]
+  },
+  {
+    "word": "超级",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "súper",
+      "ultra-",
+      "extremadamente"
+    ],
+    "examples": [
+      {
+        "zh": "今天超级热！",
+        "es": "¡Hoy hace un calor tremendo!"
+      },
+      {
+        "zh": "这个菜超级好吃！",
+        "es": "¡Este platillo está súper rico!"
+      },
+      {
+        "zh": "我们去超级市场买点儿水果吧。",
+        "es": "Vamos al supermercado a comprar un poco de fruta."
+      },
+      {
+        "zh": "他是一个超级明星，走到哪里都有人认识他。",
+        "es": "Es una súper estrella; vaya a donde vaya, la gente lo reconoce."
+      }
+    ]
+  },
+  {
+    "word": "分开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "separar(se)",
+      "dividir",
+      "apartar"
+    ],
+    "examples": [
+      {
+        "zh": "我们不想分开。",
+        "es": "No queremos separarnos."
+      },
+      {
+        "zh": "请把这些衣服分开洗。",
+        "es": "Por favor, lava esta ropa por separado."
+      },
+      {
+        "zh": "他们已经分开三年了。",
+        "es": "Ya llevan tres años separados."
+      },
+      {
+        "zh": "这两个字很像，学的时候要分开记。",
+        "es": "Estos dos caracteres se parecen mucho; al estudiarlos hay que memorizarlos por separado."
+      }
+    ]
+  }
+]

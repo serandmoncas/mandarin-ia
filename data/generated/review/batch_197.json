@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:坐下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63c13e40488174a55a335f4ce87a1098807a34ab"
+  },
+  {
+    "id": "word:银行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30547e976f3b945407bc006c0ac6dbcc32869fd1"
+  },
+  {
+    "id": "word:外语",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec681d6dd3cdd096d4dfe70723bcf9327ea62b7c"
+  },
+  {
+    "id": "word:星期日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5474a49c6e7a1a75a254d67138d58a737d5215f1"
+  },
+  {
+    "id": "word:一点儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b33efd9dad09fcef8b09ab6c448ef3a9d0417da3"
+  },
+  {
+    "id": "word:电视机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8600b69d2bdac19a8e83a40020ffa025d096a6c7"
+  },
+  {
+    "id": "word:一下儿",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «preséntate un poco» es poco natural en español; 一下儿 solo suaviza el verbo. Mejor: «Por favor, preséntate»."
+    ],
+    "content_hash": "0f6e58e39f7e32278906ae705775415f2b761ed7"
+  },
+  {
+    "id": "word:变",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e66b6cbf94ce1043e3d24bc987fe695735ba4946"
+  },
+  {
+    "id": "word:玩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "511331c3ffe4fecc3e617942efe93aa14d7f56a9"
+  },
+  {
+    "id": "word:女孩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "892814f86142853c4feda06fc323045b167d6625"
+  },
+  {
+    "id": "word:一块儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ae86e8d89e3c985c7bfc6027c35a02b68a3d9b9"
+  },
+  {
+    "id": "word:共",
+    "ok": false,
+    "issues": [
+      "Los ejemplos 1 y 2 ilustran la palabra 一共, no 共 solo, lo que puede confundir al estudiante.",
+      "Ningún ejemplo ilustra los significados «juntos», «común» ni «compartir»."
+    ],
+    "content_hash": "85e42e3b6e58fa143f7d86184563e1eabbe46319"
+  },
+  {
+    "id": "word:外边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b6f6bc29f7a662577c5cfab9c4f7c47ba63bb47"
+  },
+  {
+    "id": "word:男孩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "06119dd05cafe52241855b628bf31fa5c6b07964"
+  },
+  {
+    "id": "word:没事儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3d7c75e87a5adb63cb517b5f7fb75949e9a16bd"
+  },
+  {
+    "id": "word:前边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "22f98800bb8c8c3229a8c582eec36b0431e64f05"
+  },
+  {
+    "id": "word:小孩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b5fa0e64ab38b045fadf1805873e837c3e70b7e"
+  },
+  {
+    "id": "word:面条儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f499f4780b4cd113d3cd76a00c094a3cdf139743"
+  },
+  {
+    "id": "word:好玩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "431052fcafd1751e2281993a8674869cc02c236b"
+  },
+  {
+    "id": "word:另外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8dfb98f3e5c75f8162e0fd536b8c21cb8309413"
+  },
+  {
+    "id": "word:线",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f567bfe179d00baeba4d8fa56881fd20beae8112"
+  },
+  {
+    "id": "word:想要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "82ae98a76bdfa14fc39ff37ce7ecd2b5b2ae77fc"
+  },
+  {
+    "id": "word:唯一",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en los ejemplos 1 a 4: 唯一 se lee wéiyī. El 一 al final de la palabra no cambia de tono; debe ser «wéi yī de», no «wéi yí de»."
+    ],
+    "content_hash": "71a219907f140555bbd8702d3ad5637139ffeb1b"
+  },
+  {
+    "id": "word:统一",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en los ejemplos 1, 3 y 4: 统一 se lee tǒngyī («tǒng yī de», «tǒng yī shǐ yòng», «tǒng yī yǐ hòu»), no tǒng yí ni tǒng yì.",
+      "Ejemplo 2: en 统一一下, el segundo 一 va delante de 下 (cuarto tono), por lo que debe ser «tǒng yī yí xià», no «tǒng yī yī xià»."
+    ],
+    "content_hash": "1503f1cb4c2b29ca6e1dd04ab39c7fa6acb74f19"
+  },
+  {
+    "id": "word:感到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a5acad9b1d443da2794bd8c052e392ee2b1f315"
+  }
+]

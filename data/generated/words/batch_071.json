@@ -1,0 +1,538 @@
+[
+  {
+    "word": "召开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "convocar (una reunión)",
+      "celebrar (una conferencia o asamblea)"
+    ],
+    "examples": [
+      {
+        "zh": "明天召开会议。",
+        "es": "Mañana se celebra una reunión."
+      },
+      {
+        "zh": "公司下午召开大会。",
+        "es": "La empresa realiza una asamblea por la tarde."
+      },
+      {
+        "zh": "学校将在下个月召开会议。",
+        "es": "La escuela convocará una reunión el próximo mes."
+      },
+      {
+        "zh": "政府召开会议讨论经济发展问题。",
+        "es": "El gobierno convocó una reunión para discutir el desarrollo económico."
+      }
+    ]
+  },
+  {
+    "word": "够",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "suficiente, bastante",
+      "alcanzar (para algo)",
+      "alcanzar (estirándose)",
+      "muy, realmente (coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "钱够吗？",
+        "es": "¿Alcanza el dinero?"
+      },
+      {
+        "zh": "我吃够了，谢谢。",
+        "es": "Ya comí suficiente, gracias."
+      },
+      {
+        "zh": "这些菜够三个人吃。",
+        "es": "Esta comida alcanza para tres personas."
+      },
+      {
+        "zh": "他太小了，够不到桌子上的书。",
+        "es": "Es muy pequeño y no alcanza el libro que está en la mesa."
+      }
+    ]
+  },
+  {
+    "word": "多年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muchos años",
+      "desde hace años",
+      "de muchos años, antiguo"
+    ],
+    "examples": [
+      {
+        "zh": "我们是多年的朋友。",
+        "es": "Somos amigos desde hace muchos años."
+      },
+      {
+        "zh": "他在北京住了多年。",
+        "es": "Vivió en Pekín durante muchos años."
+      },
+      {
+        "zh": "多年以后，他又回到了家。",
+        "es": "Muchos años después, volvió a casa."
+      },
+      {
+        "zh": "这家公司多年来一直支持教育。",
+        "es": "Esta empresa lleva muchos años apoyando la educación."
+      }
+    ]
+  },
+  {
+    "word": "交",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entregar",
+      "pagar",
+      "hacer (amigos)",
+      "cruzarse"
+    ],
+    "examples": [
+      {
+        "zh": "请先交钱。",
+        "es": "Por favor, pague primero."
+      },
+      {
+        "zh": "他交了很多朋友。",
+        "es": "Hizo muchos amigos."
+      },
+      {
+        "zh": "明天要把报告交给老师。",
+        "es": "Mañana hay que entregarle el informe al maestro."
+      },
+      {
+        "zh": "你在新学校交到新朋友了吗？",
+        "es": "¿Hiciste amigos nuevos en la escuela nueva?"
+      }
+    ]
+  },
+  {
+    "word": "平均",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "promedio",
+      "en promedio",
+      "en partes iguales"
+    ],
+    "examples": [
+      {
+        "zh": "他们的平均年龄是二十岁。",
+        "es": "La edad promedio de ellos es de veinte años."
+      },
+      {
+        "zh": "我平均每天睡七个小时。",
+        "es": "En promedio duermo siete horas al día."
+      },
+      {
+        "zh": "这个班的平均成绩很高。",
+        "es": "El promedio de calificaciones de este grupo es muy alto."
+      },
+      {
+        "zh": "妈妈把钱平均分给三个孩子。",
+        "es": "Mamá repartió el dinero en partes iguales entre los tres niños."
+      }
+    ]
+  },
+  {
+    "word": "广州",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Cantón (Guangzhou), ciudad del sur de China"
+    ],
+    "examples": [
+      {
+        "zh": "我在广州。",
+        "es": "Estoy en Cantón."
+      },
+      {
+        "zh": "广州的天气很热。",
+        "es": "En Cantón hace mucho calor."
+      },
+      {
+        "zh": "明天我坐火车去广州。",
+        "es": "Mañana voy a Cantón en tren."
+      },
+      {
+        "zh": "我在广州住了多年，很喜欢这里的菜。",
+        "es": "Viví muchos años en Cantón y me encanta la comida de aquí."
+      }
+    ]
+  },
+  {
+    "word": "名单",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lista (de nombres)",
+      "nómina"
+    ],
+    "examples": [
+      {
+        "zh": "这是学生名单。",
+        "es": "Esta es la lista de estudiantes."
+      },
+      {
+        "zh": "你的名字不在名单上。",
+        "es": "Tu nombre no está en la lista."
+      },
+      {
+        "zh": "老师把名单给了我。",
+        "es": "El maestro me dio la lista."
+      },
+      {
+        "zh": "参加比赛的名单明天公布。",
+        "es": "La lista de participantes de la competencia se publica mañana."
+      }
+    ]
+  },
+  {
+    "word": "评论",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comentario",
+      "comentar, opinar sobre",
+      "reseña, crítica"
+    ],
+    "examples": [
+      {
+        "zh": "我看了网上的评论。",
+        "es": "Leí los comentarios en internet."
+      },
+      {
+        "zh": "这部电影的评论很好。",
+        "es": "Las reseñas de esta película son muy buenas."
+      },
+      {
+        "zh": "他不想评论这件事。",
+        "es": "Él no quiere opinar sobre este asunto."
+      },
+      {
+        "zh": "很多网友在视频下面发表了评论。",
+        "es": "Muchos internautas publicaron comentarios debajo del video."
+      }
+    ]
+  },
+  {
+    "word": "挺",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bastante, muy (coloquial)",
+      "erguir, enderezar",
+      "apoyar, respaldar",
+      "aguantar"
+    ],
+    "examples": [
+      {
+        "zh": "我今天挺忙的。",
+        "es": "Hoy estoy bastante ocupado."
+      },
+      {
+        "zh": "这个菜挺好吃的。",
+        "es": "Este platillo está bastante rico."
+      },
+      {
+        "zh": "你的中文说得挺好。",
+        "es": "Hablas chino bastante bien."
+      },
+      {
+        "zh": "无论发生什么，我都挺你。",
+        "es": "Pase lo que pase, te apoyo."
+      }
+    ]
+  },
+  {
+    "word": "软件",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "software",
+      "programa (informático)",
+      "aplicación"
+    ],
+    "examples": [
+      {
+        "zh": "这个软件很好用。",
+        "es": "Este programa es muy fácil de usar."
+      },
+      {
+        "zh": "他在一家软件公司工作。",
+        "es": "Trabaja en una empresa de software."
+      },
+      {
+        "zh": "我在手机上装了一个新软件。",
+        "es": "Instalé una aplicación nueva en el celular."
+      },
+      {
+        "zh": "用这个软件学汉语，又快又简单。",
+        "es": "Aprender chino con este programa es rápido y sencillo."
+      }
+    ]
+  },
+  {
+    "word": "信号",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "señal"
+    ],
+    "examples": [
+      {
+        "zh": "这里没有信号。",
+        "es": "Aquí no hay señal."
+      },
+      {
+        "zh": "我的手机信号不好。",
+        "es": "Mi celular tiene mala señal."
+      },
+      {
+        "zh": "山上的信号很差，打不了电话。",
+        "es": "En la montaña la señal es muy mala y no se puede llamar."
+      },
+      {
+        "zh": "他用手给我一个信号，让我别说话。",
+        "es": "Me hizo una señal con la mano para que no hablara."
+      }
+    ]
+  },
+  {
+    "word": "逼",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "obligar, forzar",
+      "presionar",
+      "acercarse, acorralar"
+    ],
+    "examples": [
+      {
+        "zh": "别逼我！",
+        "es": "¡No me presiones!"
+      },
+      {
+        "zh": "没有人逼你做这个工作。",
+        "es": "Nadie te obliga a hacer este trabajo."
+      },
+      {
+        "zh": "妈妈逼我每天学习两个小时。",
+        "es": "Mi mamá me obliga a estudiar dos horas diarias."
+      },
+      {
+        "zh": "他被逼得没有办法，只好离开了公司。",
+        "es": "Lo presionaron tanto que no tuvo más remedio que dejar la empresa."
+      }
+    ]
+  },
+  {
+    "word": "角度",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ángulo",
+      "punto de vista, perspectiva"
+    ],
+    "examples": [
+      {
+        "zh": "换个角度想想。",
+        "es": "Piénsalo desde otro ángulo."
+      },
+      {
+        "zh": "这张照片的角度很好。",
+        "es": "El ángulo de esta foto es muy bueno."
+      },
+      {
+        "zh": "从孩子的角度看，这个问题很难。",
+        "es": "Desde el punto de vista de un niño, este problema es difícil."
+      },
+      {
+        "zh": "我们应该从不同的角度考虑问题。",
+        "es": "Deberíamos considerar los problemas desde distintas perspectivas."
+      }
+    ]
+  },
+  {
+    "word": "部队",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tropas",
+      "ejército, fuerzas armadas",
+      "unidad militar"
+    ],
+    "examples": [
+      {
+        "zh": "他在部队工作。",
+        "es": "Él trabaja en el ejército."
+      },
+      {
+        "zh": "我哥哥去年进了部队。",
+        "es": "Mi hermano mayor entró al ejército el año pasado."
+      },
+      {
+        "zh": "部队来到这个城市保护人民。",
+        "es": "Las tropas llegaron a esta ciudad para proteger a la gente."
+      },
+      {
+        "zh": "下大雨以后，部队来帮助当地居民。",
+        "es": "Después de las lluvias fuertes, las tropas vinieron a ayudar a los habitantes."
+      }
+    ]
+  },
+  {
+    "word": "镇",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pueblo, poblado",
+      "calmar, tranquilizar",
+      "reprimir, someter",
+      "enfriar (comida o bebida)"
+    ],
+    "examples": [
+      {
+        "zh": "我爷爷奶奶住在镇上。",
+        "es": "Mis abuelos viven en el pueblo."
+      },
+      {
+        "zh": "他住在一个小镇上。",
+        "es": "Él vive en un pueblito."
+      },
+      {
+        "zh": "这个镇上只有一家商店。",
+        "es": "En este pueblo solo hay una tienda."
+      },
+      {
+        "zh": "这个小镇离城市很远，但是环境很好。",
+        "es": "Este pueblito queda lejos de la ciudad, pero el entorno es muy bonito."
+      }
+    ]
+  },
+  {
+    "word": "哭",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llorar"
+    ],
+    "examples": [
+      {
+        "zh": "别哭了。",
+        "es": "Ya no llores."
+      },
+      {
+        "zh": "孩子为什么哭？",
+        "es": "¿Por qué llora el niño?"
+      },
+      {
+        "zh": "她看电影的时候哭了。",
+        "es": "Ella lloró mientras veía la película."
+      },
+      {
+        "zh": "听到这个消息，妈妈高兴得哭了起来。",
+        "es": "Al oír la noticia, mamá se puso a llorar de alegría."
+      }
+    ]
+  },
+  {
+    "word": "颜色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "color",
+      "expresión del rostro",
+      "pigmento, tinte"
+    ],
+    "examples": [
+      {
+        "zh": "你喜欢什么颜色？",
+        "es": "¿Qué color te gusta?"
+      },
+      {
+        "zh": "这件衣服的颜色很好看。",
+        "es": "El color de esta ropa es muy bonito."
+      },
+      {
+        "zh": "我不喜欢这个颜色，可以换一个吗？",
+        "es": "No me gusta este color, ¿puedo cambiarlo por otro?"
+      },
+      {
+        "zh": "他用不同的颜色画了一张地图。",
+        "es": "Dibujó un mapa con distintos colores."
+      }
+    ]
+  },
+  {
+    "word": "照顾",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cuidar",
+      "atender, ocuparse de",
+      "tener consideración con"
+    ],
+    "examples": [
+      {
+        "zh": "我会照顾你。",
+        "es": "Yo te voy a cuidar."
+      },
+      {
+        "zh": "谢谢你照顾我的孩子。",
+        "es": "Gracias por cuidar a mi hijo."
+      },
+      {
+        "zh": "老人身体不好，需要有人照顾。",
+        "es": "El anciano tiene mala salud y necesita que alguien lo cuide."
+      },
+      {
+        "zh": "她每天在医院照顾生病的妈妈。",
+        "es": "Todos los días cuida a su mamá enferma en el hospital."
+      }
+    ]
+  },
+  {
+    "word": "称为",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llamarse, ser llamado",
+      "ser conocido como",
+      "denominar"
+    ],
+    "examples": [
+      {
+        "zh": "大家都把他称为老师。",
+        "es": "Todos lo llaman maestro."
+      },
+      {
+        "zh": "这个城市被称为“花城”。",
+        "es": "Esta ciudad es conocida como «la ciudad de las flores»."
+      },
+      {
+        "zh": "这种教育方法被称为“快乐教育”。",
+        "es": "Este método educativo se llama «educación feliz»."
+      },
+      {
+        "zh": "这个时期被称为中国历史上的黄金时代。",
+        "es": "Este periodo es conocido como la edad de oro de la historia china."
+      }
+    ]
+  },
+  {
+    "word": "不行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no se puede, de ninguna manera",
+      "no funciona, no sirve",
+      "ser malo para algo",
+      "estar muy mal"
+    ],
+    "examples": [
+      {
+        "zh": "不行，你不能去。",
+        "es": "No, no puedes ir."
+      },
+      {
+        "zh": "这个办法不行。",
+        "es": "Este método no funciona."
+      },
+      {
+        "zh": "我的电脑不行了，打不开。",
+        "es": "Mi computadora ya no sirve, no enciende."
+      },
+      {
+        "zh": "我唱歌不行，可是很喜欢听音乐。",
+        "es": "Soy malo para cantar, pero me encanta escuchar música."
+      }
+    ]
+  }
+]

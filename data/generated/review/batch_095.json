@@ -1,0 +1,179 @@
+[
+  {
+    "id": "word:学费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2cd388a42935d788eda751377cf04c1685c8b13"
+  },
+  {
+    "id": "word:剧场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb94bd87a930cb42035ff7b8e79d82ce4849c2aa"
+  },
+  {
+    "id": "word:胖",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: el complemento 得 en 吃得 se lee en tono neutro (de), no «dé»."
+    ],
+    "content_hash": "decd0b511aba54b8e671472b5fe5a9daa8e318e6"
+  },
+  {
+    "id": "word:沙发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "366d27bbe8425973cc029d9cd5537fe6ad0cab21"
+  },
+  {
+    "id": "word:生动",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 2 y 3: el complemento 得 en 讲得 y 写得 se lee en tono neutro (de), no «dé»."
+    ],
+    "content_hash": "47b1bf1219b7864ae20048823c930ff144a9bd22"
+  },
+  {
+    "id": "word:报到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87a113c11ab31276459f702cd7659a125b18b823"
+  },
+  {
+    "id": "word:传来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c2e1419682986cfcdb9a18227bc5c10f73b9ed21"
+  },
+  {
+    "id": "word:羊",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: el clasificador 只 se lee zhī, no «zhǐ»."
+    ],
+    "content_hash": "6803b5b5c089ba2ee1d33a6875bd867b7957ba94"
+  },
+  {
+    "id": "word:行李",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 行李 se lee xíng li (李 en tono neutro, como en la entrada li5), no «xíng lǐ»."
+    ],
+    "content_hash": "9906611594b8b65f3a138f1b9c78a223f9886af9"
+  },
+  {
+    "id": "word:大夫",
+    "ok": false,
+    "issues": [
+      "Pinyin de todos los ejemplos: con el sentido de «médico», 大夫 se lee dài fu, no «dà fū». «dà fū» corresponde a otra lectura (antiguo título de funcionario)."
+    ],
+    "content_hash": "f52b1c8e5ac36f267b5bb5d21c3bef735fa7a330"
+  },
+  {
+    "id": "word:赶到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bb60b9db0aad6b6df4af72e611696370a5a8fee9"
+  },
+  {
+    "id": "word:将近",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 住了将近五年，已经很习惯了 implica que la persona sigue viviendo allí. «Viví… casi cinco años» sugiere lo contrario; es mejor «Llevo casi cinco años viviendo en Beijing y ya me acostumbré»."
+    ],
+    "content_hash": "0493e897b80cc9f19b3d9787ead5f1a53631fb8f"
+  },
+  {
+    "id": "word:迷",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «Se clavó con» es coloquialismo regional (México), no es español neutro; mejor «Se aficionó a» o «Se enamoró de la música china»."
+    ],
+    "content_hash": "6dd08daa1445c337e548dabbaab7514f5bfdd553"
+  },
+  {
+    "id": "word:节约",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 节约钱 suena poco natural; lo habitual es 省钱 (为了省钱…)."
+    ],
+    "content_hash": "64fea0d1ef831a60b2c9303eba27ea90820f2879"
+  },
+  {
+    "id": "word:香蕉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5248e76eb5b4196d6617553c58d5e98116b851c0"
+  },
+  {
+    "id": "word:证件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5ad5b2a23ec003ae0c23ee031d5b5df11c9eade"
+  },
+  {
+    "id": "word:彩色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a83ab16ec805801a069721242b12caf5d006e812"
+  },
+  {
+    "id": "word:变为",
+    "ok": false,
+    "issues": [
+      "Pinyin: en 变为, 为 se lee wéi, no «wèi».",
+      "变为 es de registro formal o escrito; en frases coloquiales con 了 final, como 雨变为雪了 y 绿灯变为红灯了, lo natural es 变成. Los ejemplos suenan forzados."
+    ],
+    "content_hash": "c526eb40592a983a876a510290e2705770be6cf3"
+  },
+  {
+    "id": "word:吵",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: el complemento 得 en 玩得 se lee en tono neutro (de), no «dé»."
+    ],
+    "content_hash": "5cd667faf7eb3ae616c3402bd02d34b7f650b249"
+  },
+  {
+    "id": "word:极了",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3a1b71bea89b5f12b66acef88e62fc9426e3a1d"
+  },
+  {
+    "id": "word:看上去",
+    "ok": false,
+    "issues": [
+      "Pinyin: la entrada indica kan4 shang5 qu5 (tonos neutros), pero los ejemplos dan «kàn shàng qù»; hay que unificarlo."
+    ],
+    "content_hash": "8c08fbafb45cad643bf50a0f34adad755dafb8cb"
+  },
+  {
+    "id": "word:毛病",
+    "ok": true,
+    "issues": [],
+    "content_hash": "186210bc7cf2030f133416c825fe769432b68cdf"
+  },
+  {
+    "id": "word:解开",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 解开 con 问题 es poco natural; se usa con 谜, 难题 o 疙瘩. Para «resolver un problema» lo normal es 解决这个问题."
+    ],
+    "content_hash": "57b38813361ddb19a8609891393b69a911f911c3"
+  },
+  {
+    "id": "word:得分",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 这次考试你得分多少？ no es natural; lo habitual es 这次考试你考了多少分？ o 你得了多少分？"
+    ],
+    "content_hash": "fdc63a0cfd416eb6de7b55982e9c98b2d13569cb"
+  },
+  {
+    "id": "word:歌声",
+    "ok": true,
+    "issues": [],
+    "content_hash": "78a5638135c702dd04cf7418013585082e225107"
+  }
+]

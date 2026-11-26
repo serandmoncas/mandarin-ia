@@ -1,0 +1,543 @@
+[
+  {
+    "word": "字",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "carácter (de escritura)",
+      "palabra",
+      "letra (forma de escribir)",
+      "nombre de cortesía (en la China antigua)"
+    ],
+    "examples": [
+      {
+        "zh": "这个字怎么写？",
+        "es": "¿Cómo se escribe este carácter?"
+      },
+      {
+        "zh": "我不认识这个字。",
+        "es": "No conozco este carácter."
+      },
+      {
+        "zh": "你的名字有三个字吗？",
+        "es": "¿Tu nombre tiene tres caracteres?"
+      },
+      {
+        "zh": "老师说我写的字非常好看。",
+        "es": "El maestro dice que mi letra es muy bonita."
+      }
+    ]
+  },
+  {
+    "word": "最好",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mejor (el mejor)",
+      "más vale que",
+      "lo mejor sería"
+    ],
+    "examples": [
+      {
+        "zh": "这是我最好的朋友。",
+        "es": "Este es mi mejor amigo."
+      },
+      {
+        "zh": "你最好今天去。",
+        "es": "Más vale que vayas hoy."
+      },
+      {
+        "zh": "时间不多了，你最好快点走。",
+        "es": "Queda poco tiempo, mejor apúrate y vete."
+      },
+      {
+        "zh": "如果你身体不好，最好去医院看看。",
+        "es": "Si no te sientes bien, lo mejor sería ir al hospital."
+      }
+    ]
+  },
+  {
+    "word": "许多",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muchos",
+      "mucho"
+    ],
+    "examples": [
+      {
+        "zh": "他有许多朋友。",
+        "es": "Él tiene muchos amigos."
+      },
+      {
+        "zh": "北京有许多大学。",
+        "es": "En Pekín hay muchas universidades."
+      },
+      {
+        "zh": "许多人喜欢看这个电影。",
+        "es": "A mucha gente le gusta ver esta película."
+      },
+      {
+        "zh": "许多外国人来中国学习中国文化。",
+        "es": "Muchos extranjeros vienen a China a estudiar la cultura china."
+      }
+    ]
+  },
+  {
+    "word": "由于",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "debido a",
+      "a causa de",
+      "gracias a",
+      "ya que"
+    ],
+    "examples": [
+      {
+        "zh": "由于工作很忙，他没有来。",
+        "es": "Como tenía mucho trabajo, no vino."
+      },
+      {
+        "zh": "由于时间不多，我们先走了。",
+        "es": "Como no hay mucho tiempo, nos vamos primero."
+      },
+      {
+        "zh": "由于手机没电，我没给你打电话。",
+        "es": "Como mi celular no tenía batería, no te llamé."
+      },
+      {
+        "zh": "由于经济发展很快，这个城市的人越来越多。",
+        "es": "Debido al rápido desarrollo económico, esta ciudad tiene cada vez más gente."
+      }
+    ]
+  },
+  {
+    "word": "花",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "flor",
+      "gastar (dinero o tiempo)",
+      "estampado, adorno",
+      "vistoso, colorido"
+    ],
+    "examples": [
+      {
+        "zh": "这些花很好看。",
+        "es": "Estas flores son muy bonitas."
+      },
+      {
+        "zh": "你买这本书花了多少钱？",
+        "es": "¿Cuánto gastaste en este libro?"
+      },
+      {
+        "zh": "我每天花两个小时学习中文。",
+        "es": "Dedico dos horas al día a estudiar chino."
+      },
+      {
+        "zh": "她花了很多时间准备送给妈妈的花。",
+        "es": "Ella dedicó mucho tiempo a preparar las flores para su mamá."
+      }
+    ]
+  },
+  {
+    "word": "之后",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "después de",
+      "después, luego",
+      "desde entonces",
+      "detrás de"
+    ],
+    "examples": [
+      {
+        "zh": "吃饭之后，我们去看电影吧。",
+        "es": "Después de comer, vamos al cine."
+      },
+      {
+        "zh": "你到家之后给我打电话。",
+        "es": "Llámame después de llegar a casa."
+      },
+      {
+        "zh": "他去了美国之后，就没有回来过。",
+        "es": "Desde que se fue a Estados Unidos, no ha vuelto."
+      },
+      {
+        "zh": "认识她之后，我才明白什么是爱。",
+        "es": "Hasta que la conocí, no entendí lo que es el amor."
+      }
+    ]
+  },
+  {
+    "word": "身体",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cuerpo",
+      "salud"
+    ],
+    "examples": [
+      {
+        "zh": "你身体好吗？",
+        "es": "¿Cómo estás de salud?"
+      },
+      {
+        "zh": "我爸爸身体很好。",
+        "es": "Mi papá está muy bien de salud."
+      },
+      {
+        "zh": "工作很重要，但身体更重要。",
+        "es": "El trabajo es importante, pero la salud lo es más."
+      },
+      {
+        "zh": "他每天早上跑步，所以身体非常好。",
+        "es": "Él corre todas las mañanas, por eso tiene muy buena salud."
+      }
+    ]
+  },
+  {
+    "word": "对于",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en cuanto a",
+      "respecto a",
+      "para (alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "对于这个问题，你怎么看？",
+        "es": "¿Qué opinas sobre este problema?"
+      },
+      {
+        "zh": "对于学生来说，学习最重要。",
+        "es": "Para los estudiantes, lo más importante es estudiar."
+      },
+      {
+        "zh": "对于这件事，我们还需要研究。",
+        "es": "Respecto a este asunto, todavía necesitamos investigar."
+      },
+      {
+        "zh": "对于很多外国人来说，学中文不是一件容易的事。",
+        "es": "Para muchos extranjeros, aprender chino no es fácil."
+      }
+    ]
+  },
+  {
+    "word": "谢谢",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gracias",
+      "agradecer"
+    ],
+    "examples": [
+      {
+        "zh": "谢谢你！",
+        "es": "¡Gracias!"
+      },
+      {
+        "zh": "谢谢你帮我。",
+        "es": "Gracias por ayudarme."
+      },
+      {
+        "zh": "我要谢谢老师对我的支持。",
+        "es": "Quiero agradecerle al maestro su apoyo."
+      },
+      {
+        "zh": "谢谢你们来机场送我，我会想你们的。",
+        "es": "Gracias por venir a despedirme al aeropuerto, los voy a extrañar."
+      }
+    ]
+  },
+  {
+    "word": "获得",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "obtener",
+      "conseguir",
+      "recibir"
+    ],
+    "examples": [
+      {
+        "zh": "他获得了第一名。",
+        "es": "Él obtuvo el primer lugar."
+      },
+      {
+        "zh": "学生可以从书里获得很多知识。",
+        "es": "Los estudiantes pueden obtener muchos conocimientos de los libros."
+      },
+      {
+        "zh": "这个计划获得了政府的支持。",
+        "es": "Este plan recibió el apoyo del gobierno."
+      },
+      {
+        "zh": "这家公司通过新技术获得了很大的发展。",
+        "es": "Esta empresa logró un gran crecimiento gracias a la nueva tecnología."
+      }
+    ]
+  },
+  {
+    "word": "早",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "temprano",
+      "¡buenos días!",
+      "hace mucho tiempo, desde antes",
+      "mañana (parte del día)"
+    ],
+    "examples": [
+      {
+        "zh": "老师，早！",
+        "es": "¡Buenos días, maestro!"
+      },
+      {
+        "zh": "你今天来得真早。",
+        "es": "Hoy llegaste muy temprano."
+      },
+      {
+        "zh": "我明天要早点起来。",
+        "es": "Mañana tengo que levantarme más temprano."
+      },
+      {
+        "zh": "他早就知道这件事了，只是没有告诉你。",
+        "es": "Él ya lo sabía desde hace tiempo, solo que no te lo dijo."
+      }
+    ]
+  },
+  {
+    "word": "方式",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "forma, manera",
+      "método",
+      "modo"
+    ],
+    "examples": [
+      {
+        "zh": "这是一种新的方式。",
+        "es": "Esta es una nueva forma."
+      },
+      {
+        "zh": "你用什么方式学习中文？",
+        "es": "¿De qué manera estudias chino?"
+      },
+      {
+        "zh": "每个人的生活方式都不一样。",
+        "es": "Cada persona tiene un estilo de vida diferente."
+      },
+      {
+        "zh": "我觉得这种教育方式对孩子的发展不太好。",
+        "es": "Creo que este método educativo no es muy bueno para el desarrollo de los niños."
+      }
+    ]
+  },
+  {
+    "word": "子",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "sufijo que forma sustantivos (como en 桌子, mesa, o 孩子, niño)"
+    ],
+    "examples": [
+      {
+        "zh": "我有一个儿子。",
+        "es": "Tengo un hijo."
+      },
+      {
+        "zh": "这个孩子很高。",
+        "es": "Este niño es muy alto."
+      },
+      {
+        "zh": "桌子上有一本书。",
+        "es": "Hay un libro sobre la mesa."
+      },
+      {
+        "zh": "他的儿子和女儿都在北京的大学学习。",
+        "es": "Su hijo y su hija estudian en una universidad de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "目前",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "actualmente",
+      "por ahora",
+      "en este momento"
+    ],
+    "examples": [
+      {
+        "zh": "目前我在北京工作。",
+        "es": "Actualmente trabajo en Pekín."
+      },
+      {
+        "zh": "目前还没有结果。",
+        "es": "Por ahora todavía no hay resultados."
+      },
+      {
+        "zh": "这是目前最好的方式。",
+        "es": "Esta es la mejor forma por el momento."
+      },
+      {
+        "zh": "目前这个地区的经济发展得非常快。",
+        "es": "Actualmente, la economía de esta región está creciendo muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "关",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "cerrar",
+      "apagar",
+      "encerrar",
+      "paso de montaña"
+    ],
+    "examples": [
+      {
+        "zh": "请关门。",
+        "es": "Cierra la puerta, por favor."
+      },
+      {
+        "zh": "我把手机关了。",
+        "es": "Apagué el celular."
+      },
+      {
+        "zh": "你出去的时候，别忘了关灯。",
+        "es": "Cuando salgas, no olvides apagar la luz."
+      },
+      {
+        "zh": "他被关在房间里两个小时了。",
+        "es": "Lleva dos horas encerrado en el cuarto."
+      }
+    ]
+  },
+  {
+    "word": "她们",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ellas",
+      "a ellas, las, les"
+    ],
+    "examples": [
+      {
+        "zh": "她们是我的朋友。",
+        "es": "Ellas son mis amigas."
+      },
+      {
+        "zh": "她们都是学生。",
+        "es": "Todas ellas son estudiantes."
+      },
+      {
+        "zh": "她们明天一起去看电影。",
+        "es": "Mañana ellas van juntas al cine."
+      },
+      {
+        "zh": "我认识她们很多年了，她们对我非常好。",
+        "es": "Las conozco desde hace muchos años y son muy buenas conmigo."
+      }
+    ]
+  },
+  {
+    "word": "外国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "país extranjero",
+      "extranjero (adj.)"
+    ],
+    "examples": [
+      {
+        "zh": "他是外国人。",
+        "es": "Él es extranjero."
+      },
+      {
+        "zh": "我想去外国学习。",
+        "es": "Quiero ir a estudiar al extranjero."
+      },
+      {
+        "zh": "你喜欢看外国电影吗？",
+        "es": "¿Te gusta ver películas extranjeras?"
+      },
+      {
+        "zh": "现在越来越多的外国公司来中国发展。",
+        "es": "Ahora cada vez más empresas extranjeras vienen a crecer en China."
+      }
+    ]
+  },
+  {
+    "word": "表示",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "expresar, manifestar",
+      "declarar",
+      "indicar, significar",
+      "expresión, muestra"
+    ],
+    "examples": [
+      {
+        "zh": "他点头表示同意。",
+        "es": "Él asintió con la cabeza para mostrar que estaba de acuerdo."
+      },
+      {
+        "zh": "这个字表示什么意思？",
+        "es": "¿Qué significa este carácter?"
+      },
+      {
+        "zh": "我想向你表示感谢。",
+        "es": "Quiero expresarte mi agradecimiento."
+      },
+      {
+        "zh": "政府表示将继续支持这个地区的发展。",
+        "es": "El gobierno declaró que seguirá apoyando el desarrollo de esta región."
+      }
+    ]
+  },
+  {
+    "word": "晚上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "noche",
+      "por la noche",
+      "tarde-noche"
+    ],
+    "examples": [
+      {
+        "zh": "晚上好！",
+        "es": "¡Buenas noches!"
+      },
+      {
+        "zh": "你今天晚上有时间吗？",
+        "es": "¿Tienes tiempo esta noche?"
+      },
+      {
+        "zh": "我晚上常常看电视。",
+        "es": "Por la noche suelo ver la televisión."
+      },
+      {
+        "zh": "昨天晚上我工作到十二点才回家。",
+        "es": "Anoche trabajé hasta las doce y recién entonces volví a casa."
+      }
+    ]
+  },
+  {
+    "word": "资料",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "material, documentos",
+      "información, datos",
+      "recursos",
+      "perfil (en internet)"
+    ],
+    "examples": [
+      {
+        "zh": "这是你要的资料。",
+        "es": "Estos son los documentos que pediste."
+      },
+      {
+        "zh": "我在网站上找资料。",
+        "es": "Busco información en internet."
+      },
+      {
+        "zh": "请把这些资料给老师看看。",
+        "es": "Por favor, muéstrale estos materiales al maestro."
+      },
+      {
+        "zh": "为了写这本书，他找了很多关于中国历史的资料。",
+        "es": "Para escribir este libro, buscó mucha información sobre la historia de China."
+      }
+    ]
+  }
+]

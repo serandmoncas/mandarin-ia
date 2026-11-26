@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:职业",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, con 足球 el verbo correcto es 踢: debe ser 他踢了十年职业足球 (tā tī le…). 打足球 no es estándar en mandarín."
+    ],
+    "content_hash": "959c3232ef1e22ded5acd08ccf98550ce0467685"
+  },
+  {
+    "id": "word:总是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f106adb62477123500d03ce32fb22986e21bde17"
+  },
+  {
+    "id": "word:式",
+    "ok": false,
+    "issues": [
+      "El ejemplo 4 usa 正式 (oficial, formal). Ahí 式 no significa 'estilo' ni 'tipo', así que el ejemplo no ilustra los significados dados y puede confundir al estudiante.",
+      "En el ejemplo 2, 西式菜 suena forzado. Es más natural 这家饭店做西餐。"
+    ],
+    "content_hash": "c1973c5c7112fcdb519787efd0590d72a4452e8b"
+  },
+  {
+    "id": "word:带来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a171abe957c9a916a72bead157664c399e19cec2"
+  },
+  {
+    "id": "word:节目",
+    "ok": true,
+    "issues": [],
+    "content_hash": "01b993827bc29d47b71314e58ae9f93f30935d7f"
+  },
+  {
+    "id": "word:宣传",
+    "ok": true,
+    "issues": [],
+    "content_hash": "874233976903be014ff35a6b175178cc56622984"
+  },
+  {
+    "id": "word:选",
+    "ok": true,
+    "issues": [],
+    "content_hash": "62d39f4aa03c8f56ac7c0efe54bf6c279a022089"
+  },
+  {
+    "id": "word:越",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86c80f2b8c9439d93d87378e568ea13695550c4c"
+  },
+  {
+    "id": "word:军事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "44e88bdf6fce4c4a7a677658f593655ad7c583ba"
+  },
+  {
+    "id": "word:平台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9e20dbdecd02132e304ea7e06a1ccfce2f961e1"
+  },
+  {
+    "id": "word:每天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2f95fdc7388a3fb81b5dcb32d5da4cd56992848e"
+  },
+  {
+    "id": "word:阅读",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3269ea6ef398e1b38fbb527c125be02b1097793a"
+  },
+  {
+    "id": "word:办",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91b7d13858442390f11c3e047bcd8c0a1483b25e"
+  },
+  {
+    "id": "word:公民",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53f4a8e084d4534ce87e49bfbd05437c357ffbc8"
+  },
+  {
+    "id": "word:理解",
+    "ok": true,
+    "issues": [],
+    "content_hash": "028f8091a82b859f524070d76b547f7268b007d9"
+  },
+  {
+    "id": "word:任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2f3565dbbcd5287432e063d61d4a137e535ae02f"
+  },
+  {
+    "id": "word:现代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c38ea45ab2289c9996759ae2b50a3397aa944e04"
+  },
+  {
+    "id": "word:小说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5128fe1920d27ec807463800f3f5197b6b45dbb6"
+  },
+  {
+    "id": "word:责任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35f34fab6409449072c2327ddd56221e3adf02a7"
+  },
+  {
+    "id": "word:张",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c265eac2003b1d060019bb0d8ee66674a072472"
+  },
+  {
+    "id": "word:长期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cdfa3b55c2b4faa1a3752bac8c2f9c603b270167"
+  },
+  {
+    "id": "word:抓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ea69ee365175b282971baaeb2edc9be5e18b8af"
+  },
+  {
+    "id": "word:有没有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca60439cf0f1762b269e82dfcf6eaddeed5cfbac"
+  },
+  {
+    "id": "word:来源",
+    "ok": true,
+    "issues": [],
+    "content_hash": "949897604f5b82138dcfc1859e002adfbe08b644"
+  },
+  {
+    "id": "word:保持",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, 保持每天读书 suena poco natural. Lo idiomático es 坚持每天读书 o 保持每天读书的习惯。"
+    ],
+    "content_hash": "d0dfd8e5aeb2aac4fdeb41ddc7a9101d026108c0"
+  }
+]

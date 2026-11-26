@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:转",
+    "ok": true,
+    "issues": [],
+    "content_hash": "715884806c74474ed482a68fe3ee42470aef9f36"
+  },
+  {
+    "id": "word:无论",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec6d99dd401339858e4a9b65f0d45ef78282d779"
+  },
+  {
+    "id": "word:漂亮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bcde11052ced601ef03b8b7df468ec33d5fcd033"
+  },
+  {
+    "id": "word:通知",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: en 星期一 el 一 es ordinal y no cambia de tono; el pinyin debe ser 'xīng qī yī', no 'xīng qī yí'."
+    ],
+    "content_hash": "685ff610e72a82cbe24d3cc55ccdb59a0f0023da"
+  },
+  {
+    "id": "word:质量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "83a86407e23ff9797a8e793d788d9effa1f8740b"
+  },
+  {
+    "id": "word:高级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b33b4c8a19577ca4da34f9970e205429d4a2146"
+  },
+  {
+    "id": "word:打算",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6add8f7657fbeb4e74ae9eded8dbe01c86bcabae"
+  },
+  {
+    "id": "word:状况",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57a234cf98a920669fe572d361b484c038db53f8"
+  },
+  {
+    "id": "word:份",
+    "ok": true,
+    "issues": [],
+    "content_hash": "209a8fcbbf642292eae6b11cb7bdb7fe566c573b"
+  },
+  {
+    "id": "word:画",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f6e1df967d7e2a45c58ac48d17af39b46147990"
+  },
+  {
+    "id": "word:接",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eea3ec61daae96300d5dd93c7e39e959a100c096"
+  },
+  {
+    "id": "word:购买",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd5db91bcb1429274c4b658312a59f02556aa6b9"
+  },
+  {
+    "id": "word:员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a244ee1c553adde8fe2ac8e6c2e457998189194"
+  },
+  {
+    "id": "word:层",
+    "ok": true,
+    "issues": [],
+    "content_hash": "473a57cda175a2d2a1c913ae4b48ddd522655fbc"
+  },
+  {
+    "id": "word:铁路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3cc52691956b9c585c344a060569ab020a21b247"
+  },
+  {
+    "id": "word:酒",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e47a03c9fccd816906000edcd9aa9b9f51dc33a"
+  },
+  {
+    "id": "word:日报",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: '看日报' sin nombrar un periódico concreto suena poco natural; lo habitual sería '看报纸' o nombrar el diario.",
+      "Ejemplo 4: '在日报上发表' en genérico también resulta poco natural; convendría '在报纸上' o un diario con nombre (p. ej. 人民日报)."
+    ],
+    "content_hash": "58dc05d6caef92c7ff172086035851c0ce1e3b82"
+  },
+  {
+    "id": "word:一生",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: '他一生都在北京' resulta incompleto o poco natural porque le falta el verbo; mejor '他一生都生活在北京' o '他一生都住在北京'."
+    ],
+    "content_hash": "6eb1e460b016ddc21f9b5dbdf42c8a29bead21ab"
+  },
+  {
+    "id": "word:河",
+    "ok": true,
+    "issues": [],
+    "content_hash": "19d4b834f0b438a33bf4c1ccf85a9331cec01dc5"
+  },
+  {
+    "id": "word:腿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb2a22f7485d2f02c08758d6fe411cc879035864"
+  },
+  {
+    "id": "word:特色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e4467c71eb9756fff3d8a3e1115deb8d6ff6b57"
+  },
+  {
+    "id": "word:杂志",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c36ef5f91d5adff61dc407d5b7238c3b4b636da6"
+  },
+  {
+    "id": "word:套",
+    "ok": true,
+    "issues": [],
+    "content_hash": "54466d797f1f86e8ab04e412bdcfa9ab7eec1e3e"
+  },
+  {
+    "id": "word:周末",
+    "ok": true,
+    "issues": [],
+    "content_hash": "88e861bc9d34cf69d1510ea0d7ce17d2a4bdb398"
+  },
+  {
+    "id": "word:老板",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af09dd6aaa697b595e2dcd8103eee1c6441bfd0f"
+  }
+]

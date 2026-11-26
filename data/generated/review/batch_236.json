@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53de5e7da8f602195823b92c8dac977db28ed971"
+  },
+  {
+    "id": "word:左右",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e59f8554898ee2f3295eb84f13d9b8267c00091"
+  },
+  {
+    "id": "word:爱情",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c96ff50a177f2950ea2c0f802e7ad9663498bef"
+  },
+  {
+    "id": "word:东方",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, «不太一样» significa «no son muy iguales» o «son algo distintas». Traducirlo como «bastante distintas» exagera la diferencia."
+    ],
+    "content_hash": "426b178726cb1a1b2336776383115f870a5f08d6"
+  },
+  {
+    "id": "word:多么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33b7f34abbde86a09686585ae822d63563118a23"
+  },
+  {
+    "id": "word:拒绝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c66a7bdb6251dc0c1c941a9aa634701ccd5fe60"
+  },
+  {
+    "id": "word:公平",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 1, el pinyin de 不 debería ser «bù» (zhè bù gōng píng), no «bu» átono."
+    ],
+    "content_hash": "2800e34c859b7c3d3c4492844b8ffdd718c918cd"
+  },
+  {
+    "id": "word:既",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, 东西 («cosas») se escribe «dōng xi», con el segundo tono neutro. «dōng xī» significa «este y oeste».",
+      "En el ejemplo 1, la traducción añade «muy», que no está en el original. Basta con «responsable/seria»."
+    ],
+    "content_hash": "389c9c1e9b9c6d95356da0abd1b5e6887581d1b6"
+  },
+  {
+    "id": "word:权",
+    "ok": true,
+    "issues": [],
+    "content_hash": "951473e2be36143ad724979a8a2290add635bcc4"
+  },
+  {
+    "id": "word:太阳",
+    "ok": true,
+    "issues": [],
+    "content_hash": "19f8ba36ce131be16c7bb9cb973246601916d0cd"
+  },
+  {
+    "id": "word:监督",
+    "ok": false,
+    "issues": [
+      "El ejemplo 4 suena forzado: «他们的工作就做得不认真». Sería más natural «没有人监督，他们就不认真工作» o «他们工作就不认真»."
+    ],
+    "content_hash": "d05d592bc75e898bb6dad276dc4c6f1a5f5aa6c3"
+  },
+  {
+    "id": "word:装",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, 东西 («cosas») debería transcribirse «dōng xi», no «dōng xī»."
+    ],
+    "content_hash": "b618adb9f4749b2c8ac6b584a70ed953a0840173"
+  },
+  {
+    "id": "word:网址",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2, el pinyin de 告诉 debería ser «gào su», con tono neutro, no «gào sù»."
+    ],
+    "content_hash": "eee5d0d1c92465687d1972b7f08cbebeca45f4c0"
+  },
+  {
+    "id": "word:层",
+    "ok": true,
+    "issues": [],
+    "content_hash": "646c58e8af0cb2e201713928e1dbb5c5dac816e3"
+  },
+  {
+    "id": "word:针对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4523095f852f8eded7103969d9c852519768c7c1"
+  },
+  {
+    "id": "word:创作",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7e023f7dd2e478bb9d2309c442b9876b7345b6e"
+  },
+  {
+    "id": "word:少年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "64d9354f6cc12bd3943f226efcd72d8b2829f916"
+  },
+  {
+    "id": "word:收",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f45877fbb628b15ce510a86cfb24e9ff99dd7f80"
+  },
+  {
+    "id": "word:难道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f695d54958c9b5d45e25325d15d647acd6cad656"
+  },
+  {
+    "id": "word:群",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b46108f896601ae16c53d45c2d065314eb2cfab"
+  },
+  {
+    "id": "word:片",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3fdc4029455a4c808dc2398a750a51b4f67562b9"
+  },
+  {
+    "id": "word:数量",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2, 东西 («cosas») debería transcribirse «dōng xi», no «dōng xī»."
+    ],
+    "content_hash": "43ca1e092a6af1c1ef8ae743ba5e6b7725c52a99"
+  },
+  {
+    "id": "word:推",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d6f679d7c2c77875d8646a63988d7f6b1460bc23"
+  },
+  {
+    "id": "word:小组",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20858ab2e59e8c8bc84cff34c3913d7841b7b737"
+  },
+  {
+    "id": "word:通常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7bf8184154542c3eac24568fdbc1cf71c8af260"
+  }
+]

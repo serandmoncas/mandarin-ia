@@ -1,0 +1,530 @@
+[
+  {
+    "word": "时刻",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "momento",
+      "instante",
+      "en todo momento",
+      "constantemente"
+    ],
+    "examples": [
+      {
+        "zh": "这是重要的时刻。",
+        "es": "Este es un momento importante."
+      },
+      {
+        "zh": "那个时刻我很高兴。",
+        "es": "En ese momento estaba muy feliz."
+      },
+      {
+        "zh": "我们要时刻注意安全。",
+        "es": "Debemos cuidar la seguridad en todo momento."
+      },
+      {
+        "zh": "妈妈时刻关心着孩子的身体健康。",
+        "es": "La mamá siempre está pendiente de la salud de sus hijos."
+      }
+    ]
+  },
+  {
+    "word": "不好意思",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "perdón, disculpa",
+      "dar vergüenza",
+      "sentirse apenado"
+    ],
+    "examples": [
+      {
+        "zh": "不好意思，我来晚了。",
+        "es": "Perdón, llegué tarde."
+      },
+      {
+        "zh": "不好意思，请问洗手间在哪里？",
+        "es": "Disculpe, ¿dónde está el baño?"
+      },
+      {
+        "zh": "他不好意思跟老师说话。",
+        "es": "Le da vergüenza hablar con el maestro."
+      },
+      {
+        "zh": "不好意思，我今天太忙了，不能去吃饭。",
+        "es": "Lo siento, hoy estoy muy ocupado y no puedo ir a comer."
+      }
+    ]
+  },
+  {
+    "word": "洗澡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bañarse",
+      "ducharse"
+    ],
+    "examples": [
+      {
+        "zh": "我想洗澡。",
+        "es": "Quiero bañarme."
+      },
+      {
+        "zh": "我每天晚上洗澡。",
+        "es": "Me baño todas las noches."
+      },
+      {
+        "zh": "天气太热了，我要去洗澡。",
+        "es": "Hace mucho calor, voy a bañarme."
+      },
+      {
+        "zh": "妈妈让孩子先洗澡再睡觉。",
+        "es": "La mamá le dice al niño que primero se bañe y luego se duerma."
+      }
+    ]
+  },
+  {
+    "word": "痛苦",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sufrimiento",
+      "dolor",
+      "doloroso"
+    ],
+    "examples": [
+      {
+        "zh": "他很痛苦。",
+        "es": "Él sufre mucho."
+      },
+      {
+        "zh": "生病是很痛苦的事。",
+        "es": "Estar enfermo es algo muy doloroso."
+      },
+      {
+        "zh": "离开家人让她非常痛苦。",
+        "es": "Dejar a su familia la hizo sufrir mucho."
+      },
+      {
+        "zh": "每个人的生活中都有快乐和痛苦。",
+        "es": "En la vida de cada persona hay alegría y dolor."
+      }
+    ]
+  },
+  {
+    "word": "年级",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grado (escolar)",
+      "año (de estudios)"
+    ],
+    "examples": [
+      {
+        "zh": "你几年级？",
+        "es": "¿En qué grado estás?"
+      },
+      {
+        "zh": "我妹妹上三年级。",
+        "es": "Mi hermana menor está en tercer grado."
+      },
+      {
+        "zh": "他是大学二年级的学生。",
+        "es": "Es estudiante de segundo año de universidad."
+      },
+      {
+        "zh": "我们年级有很多同学喜欢打篮球。",
+        "es": "A muchos compañeros de nuestro grado les gusta jugar básquetbol."
+      }
+    ]
+  },
+  {
+    "word": "往往",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a menudo",
+      "por lo general",
+      "con frecuencia"
+    ],
+    "examples": [
+      {
+        "zh": "他往往很晚回家。",
+        "es": "Él suele llegar tarde a casa."
+      },
+      {
+        "zh": "周末我往往在家休息。",
+        "es": "Los fines de semana suelo descansar en casa."
+      },
+      {
+        "zh": "简单的问题往往最难回答。",
+        "es": "Las preguntas sencillas suelen ser las más difíciles de responder."
+      },
+      {
+        "zh": "人们往往不知道自己有多重要。",
+        "es": "La gente a menudo no sabe lo importante que es."
+      }
+    ]
+  },
+  {
+    "word": "早餐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desayuno"
+    ],
+    "examples": [
+      {
+        "zh": "我吃早餐了。",
+        "es": "Ya desayuné."
+      },
+      {
+        "zh": "你早餐吃什么？",
+        "es": "¿Qué desayunas?"
+      },
+      {
+        "zh": "我每天早上七点吃早餐。",
+        "es": "Desayuno todos los días a las siete de la mañana."
+      },
+      {
+        "zh": "妈妈给我们准备了牛奶和面包做早餐。",
+        "es": "Mamá nos preparó leche y pan para el desayuno."
+      }
+    ]
+  },
+  {
+    "word": "补充",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "añadir, complementar",
+      "reponer",
+      "adicional"
+    ],
+    "examples": [
+      {
+        "zh": "我想补充一点。",
+        "es": "Quiero añadir algo."
+      },
+      {
+        "zh": "你还有什么要补充的吗？",
+        "es": "¿Tienes algo más que añadir?"
+      },
+      {
+        "zh": "运动以后要多补充水分。",
+        "es": "Después de hacer ejercicio hay que reponer bien los líquidos."
+      },
+      {
+        "zh": "老师在课上补充了很多书里没有的内容。",
+        "es": "En clase, el maestro añadió mucho contenido que no viene en el libro."
+      }
+    ]
+  },
+  {
+    "word": "听讲",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "poner atención en clase",
+      "escuchar una clase o conferencia"
+    ],
+    "examples": [
+      {
+        "zh": "请认真听讲。",
+        "es": "Por favor, pongan atención a la clase."
+      },
+      {
+        "zh": "学生们都在听讲。",
+        "es": "Todos los estudiantes están escuchando la clase."
+      },
+      {
+        "zh": "上课的时候要认真听讲。",
+        "es": "En clase hay que poner mucha atención."
+      },
+      {
+        "zh": "他昨天没有听讲，所以不会做作业。",
+        "es": "Ayer no puso atención en clase, así que no sabe hacer la tarea."
+      }
+    ]
+  },
+  {
+    "word": "成就",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "logro",
+      "éxito",
+      "lograr, alcanzar"
+    ],
+    "examples": [
+      {
+        "zh": "这是很大的成就。",
+        "es": "Este es un gran logro."
+      },
+      {
+        "zh": "他在科学上有很高的成就。",
+        "es": "Tiene grandes logros en la ciencia."
+      },
+      {
+        "zh": "她觉得帮助别人是她最大的成就。",
+        "es": "Ella siente que ayudar a los demás es su mayor logro."
+      },
+      {
+        "zh": "中国的经济发展取得了很大的成就。",
+        "es": "El desarrollo económico de China ha alcanzado grandes logros."
+      }
+    ]
+  },
+  {
+    "word": "爱人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "esposo, esposa",
+      "cónyuge",
+      "pareja"
+    ],
+    "examples": [
+      {
+        "zh": "这是我爱人。",
+        "es": "Este es mi esposo."
+      },
+      {
+        "zh": "我爱人是医生。",
+        "es": "Mi esposa es doctora."
+      },
+      {
+        "zh": "我爱人每天早上开车送孩子上学。",
+        "es": "Mi esposo lleva a los niños a la escuela en carro todas las mañanas."
+      },
+      {
+        "zh": "他和爱人一起在北京生活了十年。",
+        "es": "Él y su esposa vivieron juntos diez años en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "当中",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entre",
+      "en medio de",
+      "dentro de"
+    ],
+    "examples": [
+      {
+        "zh": "我们当中谁去？",
+        "es": "¿Quién de nosotros va?"
+      },
+      {
+        "zh": "他是学生当中最高的。",
+        "es": "Es el más alto de los estudiantes."
+      },
+      {
+        "zh": "在这些书当中，我最喜欢这本。",
+        "es": "De todos estos libros, este es el que más me gusta."
+      },
+      {
+        "zh": "他在工作当中碰到了很多困难。",
+        "es": "En el trabajo se ha encontrado con muchas dificultades."
+      }
+    ]
+  },
+  {
+    "word": "得出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "obtener (un resultado)",
+      "llegar a (una conclusión)"
+    ],
+    "examples": [
+      {
+        "zh": "他很快得出了结果。",
+        "es": "Obtuvo el resultado rápidamente."
+      },
+      {
+        "zh": "你是怎么得出这个结果的？",
+        "es": "¿Cómo obtuviste este resultado?"
+      },
+      {
+        "zh": "经过调查，他们得出了结论。",
+        "es": "Después de investigar, llegaron a una conclusión."
+      },
+      {
+        "zh": "我们从这些数据中得出了一个重要的结论。",
+        "es": "A partir de estos datos llegamos a una conclusión importante."
+      }
+    ]
+  },
+  {
+    "word": "中级",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nivel intermedio",
+      "intermedio"
+    ],
+    "examples": [
+      {
+        "zh": "我的汉语是中级。",
+        "es": "Mi chino es de nivel intermedio."
+      },
+      {
+        "zh": "他在上中级汉语课。",
+        "es": "Está tomando una clase de chino intermedio."
+      },
+      {
+        "zh": "这本书适合中级学生阅读。",
+        "es": "Este libro es adecuado para estudiantes de nivel intermedio."
+      },
+      {
+        "zh": "学完这个课程以后，你可以参加中级考试。",
+        "es": "Cuando termines este curso, puedes presentar el examen de nivel intermedio."
+      }
+    ]
+  },
+  {
+    "word": "比如说",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por ejemplo"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢水果，比如说苹果。",
+        "es": "Me gustan las frutas, por ejemplo, las manzanas."
+      },
+      {
+        "zh": "我喜欢很多运动，比如说篮球和足球。",
+        "es": "Me gustan muchos deportes, por ejemplo, el básquetbol y el fútbol."
+      },
+      {
+        "zh": "中国有很多大城市，比如说北京和上海。",
+        "es": "China tiene muchas ciudades grandes, por ejemplo, Pekín y Shanghái."
+      },
+      {
+        "zh": "学汉语有很多好办法，比如说每天看中文电影。",
+        "es": "Hay muchas buenas formas de aprender chino, por ejemplo, ver películas en chino todos los días."
+      }
+    ]
+  },
+  {
+    "word": "短信",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mensaje de texto",
+      "SMS"
+    ],
+    "examples": [
+      {
+        "zh": "我给你发短信。",
+        "es": "Te mando un mensaje de texto."
+      },
+      {
+        "zh": "你收到我的短信了吗？",
+        "es": "¿Recibiste mi mensaje?"
+      },
+      {
+        "zh": "他不喜欢打电话，常常发短信。",
+        "es": "No le gusta hablar por teléfono; casi siempre manda mensajes."
+      },
+      {
+        "zh": "到了机场以后，请给我发个短信。",
+        "es": "Cuando llegues al aeropuerto, por favor mándame un mensaje."
+      }
+    ]
+  },
+  {
+    "word": "接近",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "acercarse",
+      "aproximarse",
+      "cercano, parecido"
+    ],
+    "examples": [
+      {
+        "zh": "时间接近十二点了。",
+        "es": "Ya son casi las doce."
+      },
+      {
+        "zh": "他们的看法很接近。",
+        "es": "Sus opiniones son muy parecidas."
+      },
+      {
+        "zh": "这个城市的人口接近一千万。",
+        "es": "La población de esta ciudad se acerca a los diez millones."
+      },
+      {
+        "zh": "那只狗很怕人，不让别人接近它。",
+        "es": "Ese perro le tiene mucho miedo a la gente y no deja que nadie se le acerque."
+      }
+    ]
+  },
+  {
+    "word": "课堂",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salón de clases",
+      "aula",
+      "clase"
+    ],
+    "examples": [
+      {
+        "zh": "课堂上不要说话。",
+        "es": "No hablen en clase."
+      },
+      {
+        "zh": "他在课堂上很认真。",
+        "es": "Él es muy aplicado en clase."
+      },
+      {
+        "zh": "这位老师的课堂非常有意思。",
+        "es": "Las clases de este maestro son muy interesantes."
+      },
+      {
+        "zh": "我们应该把课堂上学到的知识用在生活中。",
+        "es": "Debemos aplicar en la vida diaria lo que aprendemos en clase."
+      }
+    ]
+  },
+  {
+    "word": "龙",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "dragón",
+      "(fig.) emperador"
+    ],
+    "examples": [
+      {
+        "zh": "这是一条龙。",
+        "es": "Este es un dragón."
+      },
+      {
+        "zh": "龙是中国文化的一部分。",
+        "es": "El dragón es parte de la cultura china."
+      },
+      {
+        "zh": "很多中国人喜欢龙，觉得龙代表力量。",
+        "es": "A muchos chinos les gustan los dragones; creen que representan la fuerza."
+      },
+      {
+        "zh": "春节的时候，很多人在街上看舞龙表演。",
+        "es": "En el Año Nuevo chino, mucha gente ve la danza del dragón en la calle."
+      }
+    ]
+  },
+  {
+    "word": "停车场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estacionamiento"
+    ],
+    "examples": [
+      {
+        "zh": "停车场在哪里？",
+        "es": "¿Dónde está el estacionamiento?"
+      },
+      {
+        "zh": "这个停车场很大。",
+        "es": "Este estacionamiento es muy grande."
+      },
+      {
+        "zh": "我把车停在医院旁边的停车场了。",
+        "es": "Dejé el carro en el estacionamiento que está junto al hospital."
+      },
+      {
+        "zh": "周末商场的停车场常常停满了车。",
+        "es": "Los fines de semana, el estacionamiento del centro comercial suele estar lleno."
+      }
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:学校",
+    "ok": true,
+    "issues": [],
+    "content_hash": "171a1ea3f381128ed33433edc9461d09ac40db4c"
+  },
+  {
+    "id": "word:孩子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f81fe99ba30fe274df13ee7b6b5d21142662774"
+  },
+  {
+    "id": "word:生活",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a9ecf7d632ee5cf9c10ca41c7c510a498b1aec5"
+  },
+  {
+    "id": "word:写",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fe3a1890d8dce24a6f1902085065f8f64f6426de"
+  },
+  {
+    "id": "word:这种",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f32e23aad64733937d6bd48bfc3367beec2f71c4"
+  },
+  {
+    "id": "word:元",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30f7c7a3a4adc470dca5be24597ce38bef17d701"
+  },
+  {
+    "id": "word:通过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a9abfbeb758bd2b5f7164159364e16ee455fc238"
+  },
+  {
+    "id": "word:打",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35c95d55140f7f14401566a3a35e83064c2501e3"
+  },
+  {
+    "id": "word:非常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f6868347806cc70c8f50d14c58f74acb94454b3d"
+  },
+  {
+    "id": "word:分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7aedd86701e736ace718bfbe524853045bc7ebee"
+  },
+  {
+    "id": "word:见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d87a1846bc0b39dbb61187cd2469b4884fc6847"
+  },
+  {
+    "id": "word:叫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b47a6db9a60c19da6af3943f0a59fc53c35fbe2"
+  },
+  {
+    "id": "word:买",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9786a0d6698e15ea25905b43590964511c23af1b"
+  },
+  {
+    "id": "word:所以",
+    "ok": true,
+    "issues": [],
+    "content_hash": "67e89804a975bd7b13e5415d9b4061dc9481a2e0"
+  },
+  {
+    "id": "word:得到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba1bcebbd129818bc0111ef7d0e19440f8a6477b"
+  },
+  {
+    "id": "word:所有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5c1c89abb7e1240d4f1eb89b596346f6d271fe2"
+  },
+  {
+    "id": "word:发现",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c967f1c43ed6c79be96d9c342d71b416f8a28bf6"
+  },
+  {
+    "id": "word:正",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7be299f8ee0386852afec3afbcaa5e54151964e0"
+  },
+  {
+    "id": "word:出现",
+    "ok": true,
+    "issues": [],
+    "content_hash": "465bbfcd8dd7db55b3aa5f82fdca8988b9cf84e1"
+  },
+  {
+    "id": "word:找",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc7b172029e89993b24e21a8a8d1bf84eeb52fc1"
+  },
+  {
+    "id": "word:您",
+    "ok": false,
+    "issues": [
+      "La traducción de 您好！ como «¡Buenos días! (formal)» es inexacta: 您好 no depende de la hora del día. Debería traducirse como «¡Hola! (formal)» o «Buenas (formal)»."
+    ],
+    "content_hash": "b3ba96a9a578061e214c14c064574fa04487b425"
+  },
+  {
+    "id": "word:决定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bade0d846740b17e207ef50507b793c19b379bea"
+  },
+  {
+    "id": "word:准备",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad82f4876d834163510b12a950bd6fb599c6468b"
+  },
+  {
+    "id": "word:为什么",
+    "ok": false,
+    "issues": [
+      "En el último ejemplo, el pinyin de 地方 («lugar») debe ser «dì fang», con tono neutro. «dì fāng» corresponde a «local, regional»."
+    ],
+    "content_hash": "d43d2539238bca2c477639997c3b887048cea456"
+  },
+  {
+    "id": "word:女",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b24afd285948caaf8666d6cdfd9ea7e325219f75"
+  }
+]

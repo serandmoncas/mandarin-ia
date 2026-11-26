@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:疼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ebc6317da73ab6a5807a658a3cda0fbc69bbb777"
+  },
+  {
+    "id": "char:静",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d8b54d0badac25a76582f0787a0555c32425cc7"
+  },
+  {
+    "id": "char:春",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5552e72f6aeab1d79f4eaab1226766eb3cfde1b0"
+  },
+  {
+    "id": "char:灯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd48e3f58674917364ac383625cd37cab85ede72"
+  },
+  {
+    "id": "char:挂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d90ca18f2ec9799150afc548acc51e05a17bdf21"
+  },
+  {
+    "id": "char:晨",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0f94acd2444b3890a2cd0440ca9dfe4f26c6916"
+  },
+  {
+    "id": "char:厂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c6c68054c1715a787b36f6f0c483973865f1bc7"
+  },
+  {
+    "id": "char:雪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c1c8ba77522558ec7b4a2a9a624172febac14ee4"
+  },
+  {
+    "id": "char:石",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0342a51952ad622275921c4ce7adc9e39104626c"
+  },
+  {
+    "id": "char:卫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d82fb47456ab922094c7cfc96c7a6c34551a9e1"
+  },
+  {
+    "id": "char:冬",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd733b8a515dd5e759a0b885f85a38f1ee0cec06"
+  },
+  {
+    "id": "char:遍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8cc00797c81eb2a941427b705caeabff1da192b"
+  },
+  {
+    "id": "char:鞋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "631284c658f02cad5827f7d7df5e447249984240"
+  },
+  {
+    "id": "char:租",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5879bc01e4fefbc9005bf8d15c9bb0b51b9d2545"
+  },
+  {
+    "id": "char:判",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9cbb4a4a7ecdd6fa0a239ad1ff9bae871d94b360"
+  },
+  {
+    "id": "char:深",
+    "ok": false,
+    "issues": [
+      "La descomposición está incompleta: el componente derecho es 罙, y bajo 冖 hay un trazo en forma de 八/儿 que no aparece en la lista (no es solo 冖 + 木)."
+    ],
+    "content_hash": "4d48c4d7fda7c4ed45f2ee9a0a6049d214299118"
+  },
+  {
+    "id": "char:追",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4fb92232f8a59a789c6a93a06fabe244f347aec0"
+  },
+  {
+    "id": "char:瓶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "667b9ecbc12e38496f7574554c68b3ceceda49f6"
+  },
+  {
+    "id": "char:忽",
+    "ok": true,
+    "issues": [],
+    "content_hash": "12d16a6e21726bbdfd81e3ef06f3a0fec3bcfa0c"
+  },
+  {
+    "id": "char:餐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1055905e6f6058256436eb2617e13b7d78c67224"
+  },
+  {
+    "id": "char:乱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2cd697d7464388c696a3cdd67ba078ef429ec62a"
+  },
+  {
+    "id": "char:刻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "edc51e5d169f1871b6e167db655be88befe6bb9e"
+  },
+  {
+    "id": "char:澡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ccbfb3cc3c0dd34700b2d4c533d0ddbf45e4c9ff"
+  },
+  {
+    "id": "char:痛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "38d15072fadbb3b4a614f0a24a82ddcbebb93ff1"
+  },
+  {
+    "id": "char:苦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e2f5f55fac617a88cebdf3279e9e5b98527b25c"
+  }
+]

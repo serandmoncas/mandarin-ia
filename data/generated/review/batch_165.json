@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:记录",
+    "ok": false,
+    "issues": [
+      "En «这是一个新的世界记录», el estándar para «récord» es 纪录 (世界纪录), no 记录. Conviene corregir la frase o quitar «récord» de los significados de 记录."
+    ],
+    "content_hash": "7457a5256530b8d5619ae044706d937e3cc015bb"
+  },
+  {
+    "id": "word:南边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2914ac47aab4986c780a90008262406c230efbc2"
+  },
+  {
+    "id": "word:警察",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cee3922af3e20ad680c279232f01295e4e647a5a"
+  },
+  {
+    "id": "word:玩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "017f75311b419b16b69740f88c41801f03e25712"
+  },
+  {
+    "id": "word:米",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6e2925d93e67ac552d1bb5a28dd60551a7522e7"
+  },
+  {
+    "id": "word:改革",
+    "ok": true,
+    "issues": [],
+    "content_hash": "354b12df6ef48f118bdae3f62d8e903c1504f006"
+  },
+  {
+    "id": "word:系列",
+    "ok": true,
+    "issues": [],
+    "content_hash": "79629756d7897036a12beb30511ff828c5ac4194"
+  },
+  {
+    "id": "word:洗手间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d214bc57df3e5b8b9e61c64715d03e03556b5cba"
+  },
+  {
+    "id": "word:不仅",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8ce918aa61d8c5899b178dfabd7f95d235bb62ba"
+  },
+  {
+    "id": "word:女孩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81882b405099dc32df45ced4d21236c30132e4e5"
+  },
+  {
+    "id": "word:确定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ad9c2e71edbaee0a07a8d51e44cea2661c4edb8"
+  },
+  {
+    "id": "word:一块儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a705bad3e6f372922f31c573142cf0189e8d12f6"
+  },
+  {
+    "id": "word:意见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d73f76d34d56160a112a1f3f555b3b3d586e3a51"
+  },
+  {
+    "id": "word:共",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 东西 («cosas») es «dōng xi» con tono neutro. «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "2730e71fdaf1ed7c8dd88f27662365a1ef4ff862"
+  },
+  {
+    "id": "word:外边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5e5c07e4f0c97bee84181a966eaaa98d1ca7655"
+  },
+  {
+    "id": "word:男孩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "49f9a756036d6f0ed397a5adc4220b65633e3509"
+  },
+  {
+    "id": "word:解释",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c067897ab69ab2b391a4dba0e0d12e3e8ca3b17a"
+  },
+  {
+    "id": "word:采用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "08b890a364845cc1793a0f961a401cac4a6f03e9"
+  },
+  {
+    "id": "word:没事儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5fe97dbae392c83e26a1fa1284f8a3d7a0bcc2db"
+  },
+  {
+    "id": "word:前边",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 时候 se escribe «shí hou» (tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "882d6cdb74bf3679025ec7bd7720c3b2a0503d06"
+  },
+  {
+    "id": "word:讨论",
+    "ok": false,
+    "issues": [
+      "La traducción del ejemplo 1 usa «Platiquemos», que es regional (México y Centroamérica). En español neutro sería «Hablemos/Discutamos un poco sobre esto»."
+    ],
+    "content_hash": "0bc339e7e6e1ea02d3b7a9e883d30f09a8bd0a65"
+  },
+  {
+    "id": "word:小孩儿",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2, 玩游戏 significa «jugar (juegos)» en general; traducirlo como «videojuegos» añade un matiz que no está en el chino."
+    ],
+    "content_hash": "83c4049951857c86c667655cbc6e412da82388ea"
+  },
+  {
+    "id": "word:以前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fea1ad5533fc389ef3eb73a549065fc113272a45"
+  },
+  {
+    "id": "word:面条儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9acb6375375f4b4b616e9692e7818636475f781"
+  },
+  {
+    "id": "word:证明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "01924743002974d1c6767119dd7bfee5fc05ee76"
+  }
+]

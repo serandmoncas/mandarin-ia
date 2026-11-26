@@ -1,0 +1,179 @@
+[
+  {
+    "id": "word:经营",
+    "ok": false,
+    "issues": [
+      "Pinyin: 得 como partícula complemento es «de» (tono neutro), no «dé» (ejemplo 2).",
+      "Pinyin: 哥哥 se pronuncia «gēge» (segunda sílaba en tono neutro), no «gē gē»."
+    ],
+    "content_hash": "81838d5a7c8c4eda6ed9b85a7d24c0777c3c2803"
+  },
+  {
+    "id": "word:绝对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "500db2b2ab5e0695846182deeccec6823fb92a92"
+  },
+  {
+    "id": "word:那样",
+    "ok": false,
+    "issues": [
+      "Pinyin: 衣服 es «yīfu» (tono neutro), no «yī fú».",
+      "Pinyin: 妈妈 es «māma» (tono neutro), no «mā mā»."
+    ],
+    "content_hash": "96a2ef622976cb48a72af0e27406267d209a755c"
+  },
+  {
+    "id": "word:清楚",
+    "ok": false,
+    "issues": [
+      "Pinyin: en todos los ejemplos 楚 aparece como «chǔ», pero la palabra se lee «qīngchu» (tono neutro), como indica el propio encabezado (chu5).",
+      "Pinyin: 得 como partícula es «de», no «dé» (ejemplo 4)."
+    ],
+    "content_hash": "36998ec6ee5dd89f1f580801c5bcd287700cd72c"
+  },
+  {
+    "id": "word:仍然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "344e0084d450eb156d9f49b71f393964abdfc1d7"
+  },
+  {
+    "id": "word:思想",
+    "ok": false,
+    "issues": [
+      "Pinyin: 爷爷 es «yéye» (tono neutro), no «yé yé»."
+    ],
+    "content_hash": "af53000f18e57bd20c8adfadaaaad900c5ca89d0"
+  },
+  {
+    "id": "word:只能",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97c1fe5c2a2aa7662da1e2f886fc6c9f1d231bc8"
+  },
+  {
+    "id": "word:届",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cda4c4027c62a56ca5f7c1d607cdf14d6b178038"
+  },
+  {
+    "id": "word:承认",
+    "ok": false,
+    "issues": [
+      "Pinyin: 得 como partícula es «de», no «dé» (ejemplo 1)."
+    ],
+    "content_hash": "c9c37eaf65ca2a2c7ca72dceca798a1c4ffc52fb"
+  },
+  {
+    "id": "word:担心",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 es «māma» (tono neutro), no «mā mā»."
+    ],
+    "content_hash": "9a472c3370887aef7485eb7191046b7ec2ba8ba7"
+  },
+  {
+    "id": "word:此外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d7c76631d196bdfc043985cf948269c2230fec9a"
+  },
+  {
+    "id": "word:相",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f74d15fbc5b5ce6923213c35cc37b7a30a01e91e"
+  },
+  {
+    "id": "word:苏联",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: para el fin de un Estado lo natural es 解体 («苏联是在一九九一年解体的»); 结束 suena poco natural."
+    ],
+    "content_hash": "982d81f0a3c4ab0e1360815b5ed2c05573e2a54c"
+  },
+  {
+    "id": "word:后年",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妹妹 es «mèimei» (tono neutro), no «mèi mèi»."
+    ],
+    "content_hash": "0e7c6331704b5bd81a1a495d80edd3f8805ad103"
+  },
+  {
+    "id": "word:到底",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f115666d12bf371bf7d6b15cfd035e7d01267ec"
+  },
+  {
+    "id": "word:段",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «我读了一段书» suena poco natural; sería mejor «我读了一段课文» o «我读了这本书的一段»."
+    ],
+    "content_hash": "14935b381ece2de0041d665a23ac05c749637f8a"
+  },
+  {
+    "id": "word:观点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca0b6060ad2c6b7c284b165bad5603265b1beb47"
+  },
+  {
+    "id": "word:好像",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad22458eb50fa2cbec68b0a50977acf02e029bf6"
+  },
+  {
+    "id": "word:和平",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b040899bc8edd6a0d16858f11bc40567c7f5e48e"
+  },
+  {
+    "id": "word:农村",
+    "ok": false,
+    "issues": [
+      "Pinyin: 奶奶 es «nǎinai» (tono neutro), no «nǎi nǎi»."
+    ],
+    "content_hash": "e96f2de376073f562ae0bcfe205ef3c9fa45c3b5"
+  },
+  {
+    "id": "word:青年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ffe3e0698bcfde137c0d1c1130e57c3db2cfe2ef"
+  },
+  {
+    "id": "word:体育",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cff158f71825fbfbb58626e91c31aa09cabea4e0"
+  },
+  {
+    "id": "word:同意",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 es «māma» (tono neutro), no «mā mā»."
+    ],
+    "content_hash": "7bb2bdefa85f52498b42136948df87d272133457"
+  },
+  {
+    "id": "word:不想",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 es «māma» (tono neutro), no «mā mā»."
+    ],
+    "content_hash": "f129f8d43854f1e2aac799deb7e22fce919f6b10"
+  },
+  {
+    "id": "word:主",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d6cb7a7428e0fb03a555d1eba1a865327b4d6d2"
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "word": "下雨",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llover"
+    ],
+    "examples": [
+      {
+        "zh": "今天下雨了。",
+        "es": "Hoy llovió."
+      },
+      {
+        "zh": "明天会下雨吗？",
+        "es": "¿Va a llover mañana?"
+      },
+      {
+        "zh": "下雨的时候，我喜欢在家看书。",
+        "es": "Cuando llueve, me gusta leer en casa."
+      },
+      {
+        "zh": "因为下雨，我们没有去参加活动。",
+        "es": "Como llovió, no fuimos a la actividad."
+      }
+    ]
+  },
+  {
+    "word": "条",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clasificador para cosas largas y delgadas (caminos, ríos, pantalones, etc.)",
+      "clasificador para noticias o mensajes",
+      "artículo o cláusula (de una ley o tratado)",
+      "tira; franja"
+    ],
+    "examples": [
+      {
+        "zh": "这条路很长。",
+        "es": "Este camino es muy largo."
+      },
+      {
+        "zh": "我看到一条新闻。",
+        "es": "Vi una noticia."
+      },
+      {
+        "zh": "他给我发了一条信息。",
+        "es": "Él me mandó un mensaje."
+      },
+      {
+        "zh": "根据法律第二条，这样做是不对的。",
+        "es": "Según el artículo segundo de la ley, hacer esto no está bien."
+      }
+    ]
+  },
+  {
+    "word": "注意",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prestar atención",
+      "tener cuidado",
+      "fijarse en",
+      "darse cuenta de"
+    ],
+    "examples": [
+      {
+        "zh": "请注意安全。",
+        "es": "Por favor, ten cuidado."
+      },
+      {
+        "zh": "我没注意到他走了。",
+        "es": "No me di cuenta de que se fue."
+      },
+      {
+        "zh": "上课的时候要注意听老师说话。",
+        "es": "En clase hay que prestar atención a lo que dice el maestro."
+      },
+      {
+        "zh": "学习汉字的时候，你应该注意每个字怎么写。",
+        "es": "Al estudiar caracteres chinos, debes fijarte en cómo se escribe cada uno."
+      }
+    ]
+  },
+  {
+    "word": "小朋友",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "niño, niña",
+      "pequeño, amiguito (para dirigirse a un niño)"
+    ],
+    "examples": [
+      {
+        "zh": "小朋友，你几岁了？",
+        "es": "Pequeño, ¿cuántos años tienes?"
+      },
+      {
+        "zh": "这些小朋友在门口玩。",
+        "es": "Estos niños están jugando en la entrada."
+      },
+      {
+        "zh": "小朋友们都喜欢听老师讲故事。",
+        "es": "A todos los niños les gusta escuchar a la maestra contar cuentos."
+      },
+      {
+        "zh": "医生告诉小朋友，生病的时候要多喝水、多休息。",
+        "es": "El doctor les dijo a los niños que, cuando estén enfermos, tomen mucha agua y descansen bastante."
+      }
+    ]
+  },
+  {
+    "word": "反",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "al revés; volteado",
+      "contrario; opuesto",
+      "anti-; en contra de",
+      "oponerse; rebelarse"
+    ],
+    "examples": [
+      {
+        "zh": "你把衣服穿反了。",
+        "es": "Te pusiste la ropa al revés."
+      },
+      {
+        "zh": "这个字你写反了，再写一次吧。",
+        "es": "Escribiste este carácter al revés; escríbelo otra vez."
+      },
+      {
+        "zh": "他们参加了反战活动。",
+        "es": "Ellos participaron en una actividad contra la guerra."
+      },
+      {
+        "zh": "你把这张图片反过来看，会发现不同的东西。",
+        "es": "Si le das la vuelta a esta imagen, vas a descubrir algo diferente."
+      }
+    ]
+  },
+  {
+    "word": "机票",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "boleto de avión",
+      "pasaje aéreo"
+    ],
+    "examples": [
+      {
+        "zh": "我买了机票。",
+        "es": "Compré el boleto de avión."
+      },
+      {
+        "zh": "去北京的机票贵吗？",
+        "es": "¿Es caro el boleto de avión a Pekín?"
+      },
+      {
+        "zh": "我在网上买了两张去上海的机票。",
+        "es": "Compré por internet dos boletos de avión a Shanghái."
+      },
+      {
+        "zh": "如果你现在不买机票，下个月可能会更贵。",
+        "es": "Si no compras el boleto ahora, el próximo mes podría estar más caro."
+      }
+    ]
+  },
+  {
+    "word": "导致",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "causar; provocar",
+      "llevar a; dar lugar a"
+    ],
+    "examples": [
+      {
+        "zh": "吃太多会导致生病。",
+        "es": "Comer demasiado puede hacer que te enfermes."
+      },
+      {
+        "zh": "天气太冷，导致很多老人生病了。",
+        "es": "El frío hizo que muchos ancianos se enfermaran."
+      },
+      {
+        "zh": "他不认真工作，导致公司出现了问题。",
+        "es": "Él no trabajó con seriedad, y eso le causó problemas a la empresa."
+      },
+      {
+        "zh": "研究发现，睡得太少会导致身体出现很多问题。",
+        "es": "Las investigaciones muestran que dormir muy poco provoca muchos problemas de salud."
+      }
+    ]
+  },
+  {
+    "word": "桌子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mesa",
+      "escritorio"
+    ],
+    "examples": [
+      {
+        "zh": "桌子上有一本书。",
+        "es": "Hay un libro sobre la mesa."
+      },
+      {
+        "zh": "请把杯子放在桌子上。",
+        "es": "Por favor, pon el vaso en la mesa."
+      },
+      {
+        "zh": "这张桌子太小了，我们需要一张大的。",
+        "es": "Esta mesa es demasiado pequeña; necesitamos una grande."
+      },
+      {
+        "zh": "吃饭以前，妈妈让我把桌子上的东西拿走。",
+        "es": "Antes de comer, mamá me pidió que quitara las cosas de la mesa."
+      }
+    ]
+  },
+  {
+    "word": "中年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mediana edad"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个中年人。",
+        "es": "Él es una persona de mediana edad."
+      },
+      {
+        "zh": "那个中年男人是我们的老师。",
+        "es": "Ese hombre de mediana edad es nuestro maestro."
+      },
+      {
+        "zh": "很多中年人工作很忙，没有时间运动。",
+        "es": "Muchas personas de mediana edad están muy ocupadas con el trabajo y no tienen tiempo para hacer ejercicio."
+      },
+      {
+        "zh": "他中年才开始学汉语，现在能看中文书了。",
+        "es": "Empezó a estudiar chino ya en la mediana edad, y ahora puede leer libros en chino."
+      }
+    ]
+  },
+  {
+    "word": "马路",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "calle",
+      "carretera; avenida"
+    ],
+    "examples": [
+      {
+        "zh": "马路上有很多车。",
+        "es": "Hay muchos carros en la calle."
+      },
+      {
+        "zh": "这条马路很长。",
+        "es": "Esta calle es muy larga."
+      },
+      {
+        "zh": "过马路的时候要看车。",
+        "es": "Al cruzar la calle, hay que fijarse en los carros."
+      },
+      {
+        "zh": "孩子不能在马路上玩，这样非常不安全。",
+        "es": "Los niños no deben jugar en la calle; es muy peligroso."
+      }
+    ]
+  },
+  {
+    "word": "反对",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oponerse a",
+      "estar en contra de",
+      "objetar"
+    ],
+    "examples": [
+      {
+        "zh": "我不反对。",
+        "es": "No me opongo."
+      },
+      {
+        "zh": "很多人反对这个新政策。",
+        "es": "Mucha gente está en contra de esta nueva política."
+      },
+      {
+        "zh": "爸爸妈妈反对我去国外学习。",
+        "es": "Mis papás se oponen a que estudie en el extranjero."
+      },
+      {
+        "zh": "如果你反对这个计划，请在会议上说出你的原因。",
+        "es": "Si te opones a este plan, por favor explica tus razones en la reunión."
+      }
+    ]
+  },
+  {
+    "word": "属于",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pertenecer a",
+      "ser de",
+      "entrar en (una categoría)"
+    ],
+    "examples": [
+      {
+        "zh": "这本书属于我。",
+        "es": "Este libro me pertenece."
+      },
+      {
+        "zh": "香港属于中国。",
+        "es": "Hong Kong pertenece a China."
+      },
+      {
+        "zh": "这个问题属于技术问题。",
+        "es": "Este es un problema de tipo técnico."
+      },
+      {
+        "zh": "这些资料属于公司，不能带回家。",
+        "es": "Estos documentos pertenecen a la empresa; no se pueden llevar a casa."
+      }
+    ]
+  },
+  {
+    "word": "下车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bajarse (de un vehículo)",
+      "bajar del carro, autobús o tren"
+    ],
+    "examples": [
+      {
+        "zh": "我们下车吧。",
+        "es": "Bajémonos."
+      },
+      {
+        "zh": "请问，我在哪儿下车？",
+        "es": "Disculpe, ¿dónde me bajo?"
+      },
+      {
+        "zh": "到了机场以后，我们在门口下车。",
+        "es": "Cuando lleguemos al aeropuerto, nos bajamos en la entrada."
+      },
+      {
+        "zh": "下车的时候别忘了带你的手机和钱包。",
+        "es": "Al bajarte, no olvides llevar tu celular y tu billetera."
+      }
+    ]
+  },
+  {
+    "word": "形成",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "formarse",
+      "tomar forma",
+      "formar; crear"
+    ],
+    "examples": [
+      {
+        "zh": "这个城市是怎么形成的？",
+        "es": "¿Cómo se formó esta ciudad?"
+      },
+      {
+        "zh": "他们之间形成了很好的关系。",
+        "es": "Entre ellos se formó una muy buena relación."
+      },
+      {
+        "zh": "这种文化是在很长时间里形成的。",
+        "es": "Esta cultura se formó a lo largo de mucho tiempo."
+      },
+      {
+        "zh": "经过多年的发展，这里已经形成了一个大市场。",
+        "es": "Tras muchos años de desarrollo, aquí ya se formó un gran mercado."
+      }
+    ]
+  },
+  {
+    "word": "左边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "izquierda",
+      "lado izquierdo",
+      "a la izquierda de"
+    ],
+    "examples": [
+      {
+        "zh": "书店在左边。",
+        "es": "La librería está a la izquierda."
+      },
+      {
+        "zh": "出了门以后，左边就是车站。",
+        "es": "Al salir por la puerta, a la izquierda está la estación."
+      },
+      {
+        "zh": "坐在我左边的是我哥哥。",
+        "es": "El que está sentado a mi izquierda es mi hermano mayor."
+      },
+      {
+        "zh": "照片上站在老师左边的那个女生是我妹妹。",
+        "es": "La chica que está a la izquierda de la maestra en la foto es mi hermana menor."
+      }
+    ]
+  },
+  {
+    "word": "音乐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "música"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢音乐。",
+        "es": "Me gusta la música."
+      },
+      {
+        "zh": "你喜欢听什么音乐？",
+        "es": "¿Qué música te gusta escuchar?"
+      },
+      {
+        "zh": "我常常一边听音乐，一边看书。",
+        "es": "A menudo leo mientras escucho música."
+      },
+      {
+        "zh": "她从小就喜欢音乐，现在在大学教音乐。",
+        "es": "Desde niña le gusta la música, y ahora enseña música en la universidad."
+      }
+    ]
+  },
+  {
+    "word": "右边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "derecha",
+      "lado derecho",
+      "a la derecha de"
+    ],
+    "examples": [
+      {
+        "zh": "门在右边。",
+        "es": "La puerta está a la derecha."
+      },
+      {
+        "zh": "请坐在我右边。",
+        "es": "Siéntate a mi derecha, por favor."
+      },
+      {
+        "zh": "医院就在学校的右边。",
+        "es": "El hospital está justo a la derecha de la escuela."
+      },
+      {
+        "zh": "在中国，开车的时候要走路的右边，跟英国不一样。",
+        "es": "En China se maneja por el lado derecho del camino, a diferencia del Reino Unido."
+      }
+    ]
+  },
+  {
+    "word": "银行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "banco (entidad financiera)"
+    ],
+    "examples": [
+      {
+        "zh": "我去银行。",
+        "es": "Voy al banco."
+      },
+      {
+        "zh": "银行几点开门？",
+        "es": "¿A qué hora abre el banco?"
+      },
+      {
+        "zh": "我姐姐在一家银行工作。",
+        "es": "Mi hermana mayor trabaja en un banco."
+      },
+      {
+        "zh": "明天是星期天，银行不开门，你今天去吧。",
+        "es": "Mañana es domingo y el banco no abre; mejor ve hoy."
+      }
+    ]
+  },
+  {
+    "word": "姐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermana mayor",
+      "trato amistoso para una mujer un poco mayor que uno"
+    ],
+    "examples": [
+      {
+        "zh": "我姐很高。",
+        "es": "Mi hermana mayor es alta."
+      },
+      {
+        "zh": "姐，你去哪儿？",
+        "es": "Hermana, ¿adónde vas?"
+      },
+      {
+        "zh": "我姐比我大三岁。",
+        "es": "Mi hermana es tres años mayor que yo."
+      },
+      {
+        "zh": "我姐在上海工作，每个月都会打电话给妈妈。",
+        "es": "Mi hermana mayor trabaja en Shanghái y llama a mamá todos los meses."
+      }
+    ]
+  },
+  {
+    "word": "加入",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "unirse a; entrar a (un grupo u organización)",
+      "hacerse miembro de",
+      "añadir; agregar"
+    ],
+    "examples": [
+      {
+        "zh": "我想加入你们。",
+        "es": "Quiero unirme a ustedes."
+      },
+      {
+        "zh": "他去年加入了这家公司。",
+        "es": "Él entró a esta empresa el año pasado."
+      },
+      {
+        "zh": "你可以在茶里加入一点牛奶。",
+        "es": "Puedes agregarle un poco de leche al té."
+      },
+      {
+        "zh": "很多大学生都想加入这个组织，但是不太容易。",
+        "es": "Muchos universitarios quieren unirse a esta organización, pero no es muy fácil."
+      }
+    ]
+  }
+]

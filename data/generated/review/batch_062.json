@@ -1,0 +1,165 @@
+[
+  {
+    "id": "word:不如",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dbbe540480773b7dfc8ad1da3a1c1ea7cc3fa0e4"
+  },
+  {
+    "id": "word:流",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 过得 debe ser 'guò de' (partícula 得 átona), no 'guò dé'.",
+      "Pinyin del ejemplo 3: la lectura normativa de 流血 es 'liú xuè'; 'liú xiě' es coloquial. Conviene usar la normativa o indicar ambas."
+    ],
+    "content_hash": "32501707ad377bea9fae3f62b7a0f69c01214e56"
+  },
+  {
+    "id": "word:鸟",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: el clasificador 只 se lee 'zhī', no 'zhǐ'."
+    ],
+    "content_hash": "b18432336353b6f9b5f63eb48b2eff0a3b31b8d1"
+  },
+  {
+    "id": "word:下去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d30f7b8cfe3f33be014648146482f883c26870e"
+  },
+  {
+    "id": "word:小心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6902fe2c831901e58dec18be581ad361465b5528"
+  },
+  {
+    "id": "word:游客",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a4cb336ebaa7c74b639bc469f142f9f74edae81"
+  },
+  {
+    "id": "word:黑色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1deb7dc9abf32f216cc4eb3b70f7b107c2692e0a"
+  },
+  {
+    "id": "word:表演",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: en 唱得, 得 se lee 'de' (átono), no 'dé'."
+    ],
+    "content_hash": "2e3d19aaa7acac06e050506094c9b43a8d46033f"
+  },
+  {
+    "id": "word:鸡",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: el clasificador 只 se lee 'zhī', no 'zhǐ'."
+    ],
+    "content_hash": "326f1e42a008ec93bfb90f099552f43677922032"
+  },
+  {
+    "id": "word:对方",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d49aa6d0e8b9e4ab20086e419bbda17dcb941b39"
+  },
+  {
+    "id": "word:交给",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc8697555bddc92ccd9ebcf3d6e31e2011ef9c57"
+  },
+  {
+    "id": "word:复杂",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: en 复杂得多, 得 se lee 'de' (átono), no 'dé'."
+    ],
+    "content_hash": "f5d2be2852292af7c4518510c0026d7c5f4f9aaa"
+  },
+  {
+    "id": "word:停",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ccf70c4c866480226972c23ac876b89bf0975d6"
+  },
+  {
+    "id": "word:同事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60044fe11796b216de5c84698035a24dc01a2b77"
+  },
+  {
+    "id": "word:等于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b4345e98e4b510263ea2a6d3ef07e2917ec9a587"
+  },
+  {
+    "id": "word:互联网",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec1f11018a7da44dab2e5d393ce4867be4bbbdf9"
+  },
+  {
+    "id": "word:计算",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86442c7ed3d1a7914552b673058e218b263200b5"
+  },
+  {
+    "id": "word:经理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b58927acefe2ec29756c40936ca81798ff8e9653"
+  },
+  {
+    "id": "word:结婚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3615f90f00b22361dde40b40f50c087ef77f60d2"
+  },
+  {
+    "id": "word:心情",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd34b149accffd5b8ada0c207c3d434c3b4c3aff"
+  },
+  {
+    "id": "word:信心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e9934bbefd5fe84679f946845166d0f270b8996"
+  },
+  {
+    "id": "word:早就",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a84d271443204217d398bb4c199ee094746aa39"
+  },
+  {
+    "id": "word:理由",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b59f198ebd6d177151b4af9d7867dec35ddd1b09"
+  },
+  {
+    "id": "word:联合国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c3a70ddf78edf2222c7a82ebaa56019656511f25"
+  },
+  {
+    "id": "word:主人",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: el clasificador 只 se lee 'zhī', no 'zhǐ'."
+    ],
+    "content_hash": "2c9ab11ff649facebdd3457ab3b9590f8fd28743"
+  }
+]

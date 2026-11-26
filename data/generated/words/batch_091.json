@@ -1,0 +1,537 @@
+[
+  {
+    "word": "大概",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "probablemente",
+      "aproximadamente",
+      "más o menos",
+      "idea general"
+    ],
+    "examples": [
+      {
+        "zh": "他大概不来了。",
+        "es": "Probablemente ya no va a venir."
+      },
+      {
+        "zh": "我大概八点到。",
+        "es": "Llego más o menos a las ocho."
+      },
+      {
+        "zh": "从这里到机场大概要一个小时。",
+        "es": "De aquí al aeropuerto se tarda aproximadamente una hora."
+      },
+      {
+        "zh": "我大概知道他为什么不高兴了。",
+        "es": "Creo que más o menos sé por qué él está molesto."
+      }
+    ]
+  },
+  {
+    "word": "教室",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salón de clases",
+      "aula"
+    ],
+    "examples": [
+      {
+        "zh": "这是我们的教室。",
+        "es": "Este es nuestro salón de clases."
+      },
+      {
+        "zh": "老师在教室里。",
+        "es": "El maestro está en el aula."
+      },
+      {
+        "zh": "教室里有三十个学生。",
+        "es": "Hay treinta estudiantes en el salón de clases."
+      },
+      {
+        "zh": "下课以后，他一个人留在教室里看书。",
+        "es": "Después de clase, él se quedó solo en el aula leyendo."
+      }
+    ]
+  },
+  {
+    "word": "读者",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lector",
+      "lectora"
+    ],
+    "examples": [
+      {
+        "zh": "这本书有很多读者。",
+        "es": "Este libro tiene muchos lectores."
+      },
+      {
+        "zh": "读者都很喜欢这个故事。",
+        "es": "A todos los lectores les gusta mucho esta historia."
+      },
+      {
+        "zh": "这份报纸的读者大部分是年轻人。",
+        "es": "La mayoría de los lectores de este periódico son jóvenes."
+      },
+      {
+        "zh": "作者希望读者能明白这篇文章的意思。",
+        "es": "El autor espera que los lectores entiendan el sentido de este artículo."
+      }
+    ]
+  },
+  {
+    "word": "平常",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "normalmente",
+      "por lo general",
+      "común",
+      "ordinario"
+    ],
+    "examples": [
+      {
+        "zh": "我平常七点起床。",
+        "es": "Normalmente me levanto a las siete."
+      },
+      {
+        "zh": "他平常不喝酒。",
+        "es": "Por lo general, él no toma alcohol."
+      },
+      {
+        "zh": "这是很平常的事，你别担心。",
+        "es": "Es algo muy común, no te preocupes."
+      },
+      {
+        "zh": "平常我们很少见面，周末才一起吃饭。",
+        "es": "Normalmente casi no nos vemos; solo comemos juntos los fines de semana."
+      }
+    ]
+  },
+  {
+    "word": "费用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "costo",
+      "gasto",
+      "cuota"
+    ],
+    "examples": [
+      {
+        "zh": "费用是多少？",
+        "es": "¿Cuánto es el costo?"
+      },
+      {
+        "zh": "这次旅行的费用很高。",
+        "es": "Los gastos de este viaje son muy altos."
+      },
+      {
+        "zh": "学校会提供一部分费用。",
+        "es": "La escuela va a cubrir una parte de los gastos."
+      },
+      {
+        "zh": "如果你生病了，医院的费用由公司支付。",
+        "es": "Si te enfermas, la empresa paga los gastos del hospital."
+      }
+    ]
+  },
+  {
+    "word": "实习",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer prácticas",
+      "prácticas profesionales",
+      "pasantía"
+    ],
+    "examples": [
+      {
+        "zh": "我在一家公司实习。",
+        "es": "Estoy haciendo prácticas en una empresa."
+      },
+      {
+        "zh": "他明年去北京实习。",
+        "es": "El próximo año él va a hacer una pasantía en Pekín."
+      },
+      {
+        "zh": "实习的时候，我学到了很多东西。",
+        "es": "Durante las prácticas aprendí muchas cosas."
+      },
+      {
+        "zh": "很多大学生希望能在大公司找到实习机会。",
+        "es": "Muchos universitarios esperan conseguir una pasantía en una empresa grande."
+      }
+    ]
+  },
+  {
+    "word": "力",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "fuerza",
+      "energía",
+      "capacidad",
+      "poder"
+    ],
+    "examples": [
+      {
+        "zh": "请你用力拉。",
+        "es": "Por favor, jala con fuerza."
+      },
+      {
+        "zh": "我太累了，没力了。",
+        "es": "Estoy muy cansado, ya no tengo fuerzas."
+      },
+      {
+        "zh": "我们会尽力帮助你。",
+        "es": "Haremos todo lo posible por ayudarte."
+      },
+      {
+        "zh": "大家一起出力，问题就能解决。",
+        "es": "Si todos ponemos de nuestra parte, el problema se puede resolver."
+      }
+    ]
+  },
+  {
+    "word": "中医",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "medicina tradicional china",
+      "médico de medicina china"
+    ],
+    "examples": [
+      {
+        "zh": "我想去看中医。",
+        "es": "Quiero ir con un médico de medicina china."
+      },
+      {
+        "zh": "我妈妈很相信中医。",
+        "es": "Mi mamá confía mucho en la medicina tradicional china."
+      },
+      {
+        "zh": "中医有很长的历史。",
+        "es": "La medicina tradicional china tiene una historia muy larga."
+      },
+      {
+        "zh": "他生病的时候，常常先看中医，再看西医。",
+        "es": "Cuando se enferma, a menudo va primero con un médico chino y después con uno occidental."
+      }
+    ]
+  },
+  {
+    "word": "春节",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Fiesta de la Primavera",
+      "Año Nuevo chino"
+    ],
+    "examples": [
+      {
+        "zh": "春节快乐！",
+        "es": "¡Feliz Año Nuevo chino!"
+      },
+      {
+        "zh": "春节的时候，我们都回家。",
+        "es": "En el Año Nuevo chino, todos regresamos a casa."
+      },
+      {
+        "zh": "今年春节你打算去哪里？",
+        "es": "¿A dónde piensas ir este Año Nuevo chino?"
+      },
+      {
+        "zh": "春节是中国人最重要的节日，家人都会一起吃饭。",
+        "es": "La Fiesta de la Primavera es la celebración más importante para los chinos; toda la familia come junta."
+      }
+    ]
+  },
+  {
+    "word": "普遍",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "generalizado",
+      "común",
+      "general",
+      "en general"
+    ],
+    "examples": [
+      {
+        "zh": "这个问题很普遍。",
+        "es": "Este problema es muy común."
+      },
+      {
+        "zh": "手机在中国非常普遍。",
+        "es": "Los celulares están muy generalizados en China."
+      },
+      {
+        "zh": "现在年轻人普遍喜欢在网上买东西。",
+        "es": "Hoy en día, a los jóvenes en general les gusta comprar por internet."
+      },
+      {
+        "zh": "大家普遍认为这个计划不太容易完成。",
+        "es": "En general, todos piensan que este plan no es fácil de cumplir."
+      }
+    ]
+  },
+  {
+    "word": "鞋",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "zapato",
+      "calzado"
+    ],
+    "examples": [
+      {
+        "zh": "这双鞋很好看。",
+        "es": "Estos zapatos están muy bonitos."
+      },
+      {
+        "zh": "我想买一双新鞋。",
+        "es": "Quiero comprar un par de zapatos nuevos."
+      },
+      {
+        "zh": "进门以前，请把鞋放在门口。",
+        "es": "Antes de entrar, por favor deja los zapatos en la entrada."
+      },
+      {
+        "zh": "这双鞋太小了，我穿着走路脚很疼。",
+        "es": "Estos zapatos me quedan muy chicos; cuando camino con ellos me duelen los pies."
+      }
+    ]
+  },
+  {
+    "word": "一点点",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un poquito",
+      "un poco"
+    ],
+    "examples": [
+      {
+        "zh": "我会说一点点中文。",
+        "es": "Hablo un poquito de chino."
+      },
+      {
+        "zh": "请给我一点点水。",
+        "es": "Por favor, dame un poquito de agua."
+      },
+      {
+        "zh": "我只吃了一点点，就不饿了。",
+        "es": "Solo comí un poquito y ya no tengo hambre."
+      },
+      {
+        "zh": "他每天进步一点点，现在说得很好了。",
+        "es": "Él mejora un poquito cada día y ahora habla muy bien."
+      }
+    ]
+  },
+  {
+    "word": "亮",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "brillante",
+      "iluminado",
+      "brillar",
+      "encenderse (una luz)"
+    ],
+    "examples": [
+      {
+        "zh": "天亮了。",
+        "es": "Ya amaneció."
+      },
+      {
+        "zh": "这个房间很亮。",
+        "es": "Este cuarto está muy iluminado."
+      },
+      {
+        "zh": "她的眼睛又大又亮。",
+        "es": "Sus ojos son grandes y brillantes."
+      },
+      {
+        "zh": "晚上十点了，他的房间里灯还亮着。",
+        "es": "Ya son las diez de la noche y la luz de su cuarto sigue encendida."
+      }
+    ]
+  },
+  {
+    "word": "上周",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la semana pasada"
+    ],
+    "examples": [
+      {
+        "zh": "上周我很忙。",
+        "es": "La semana pasada estuve muy ocupado."
+      },
+      {
+        "zh": "我上周去了上海。",
+        "es": "La semana pasada fui a Shanghái."
+      },
+      {
+        "zh": "上周的考试你考得怎么样？",
+        "es": "¿Cómo te fue en el examen de la semana pasada?"
+      },
+      {
+        "zh": "上周我们见面的时候，他说他想换工作。",
+        "es": "Cuando nos vimos la semana pasada, él dijo que quería cambiar de trabajo."
+      }
+    ]
+  },
+  {
+    "word": "停车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estacionar",
+      "detener el vehículo",
+      "pararse (una máquina)"
+    ],
+    "examples": [
+      {
+        "zh": "这里不能停车。",
+        "es": "Aquí no se puede estacionar."
+      },
+      {
+        "zh": "请在前边停车。",
+        "es": "Por favor, deténgase un poco más adelante."
+      },
+      {
+        "zh": "你知道附近哪里可以停车吗？",
+        "es": "¿Sabes dónde se puede estacionar por aquí cerca?"
+      },
+      {
+        "zh": "商场门口没有地方停车，我们坐地铁去吧。",
+        "es": "En la entrada del centro comercial no hay dónde estacionar; mejor vamos en metro."
+      }
+    ]
+  },
+  {
+    "word": "导演",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "director (de cine o teatro)",
+      "dirigir (una película u obra)"
+    ],
+    "examples": [
+      {
+        "zh": "他是一位导演。",
+        "es": "Él es director de cine."
+      },
+      {
+        "zh": "这部电影的导演很有名。",
+        "es": "El director de esta película es muy famoso."
+      },
+      {
+        "zh": "我长大以后想当导演。",
+        "es": "Cuando sea grande quiero ser director de cine."
+      },
+      {
+        "zh": "这部电影是他第一次导演的作品。",
+        "es": "Esta película es la primera obra que él dirigió."
+      }
+    ]
+  },
+  {
+    "word": "笔记",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "apuntes",
+      "notas",
+      "tomar notas"
+    ],
+    "examples": [
+      {
+        "zh": "上课的时候要记笔记。",
+        "es": "En clase hay que tomar apuntes."
+      },
+      {
+        "zh": "我可以看看你的笔记吗？",
+        "es": "¿Puedo ver tus apuntes?"
+      },
+      {
+        "zh": "他的笔记写得非常清楚。",
+        "es": "Sus notas están escritas muy claramente."
+      },
+      {
+        "zh": "考试以前，我又看了一次这个月的笔记。",
+        "es": "Antes del examen, volví a revisar los apuntes de este mes."
+      }
+    ]
+  },
+  {
+    "word": "共有",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hay en total",
+      "en total",
+      "poseer en común"
+    ],
+    "examples": [
+      {
+        "zh": "这本书共有十课。",
+        "es": "Este libro tiene diez lecciones en total."
+      },
+      {
+        "zh": "我们班共有三十个学生。",
+        "es": "En nuestro grupo hay treinta estudiantes en total."
+      },
+      {
+        "zh": "这个城市共有两个火车站。",
+        "es": "Esta ciudad tiene dos estaciones de tren en total."
+      },
+      {
+        "zh": "今年参加比赛的人共有一百多个。",
+        "es": "Este año participaron en total más de cien personas en la competencia."
+      }
+    ]
+  },
+  {
+    "word": "出租车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "taxi"
+    ],
+    "examples": [
+      {
+        "zh": "我们坐出租车去吧。",
+        "es": "Vamos en taxi."
+      },
+      {
+        "zh": "出租车司机告诉我们怎么走。",
+        "es": "El taxista nos dijo cómo llegar."
+      },
+      {
+        "zh": "这里很难打到出租车。",
+        "es": "Aquí es muy difícil conseguir un taxi."
+      },
+      {
+        "zh": "下雨的时候，路上的出租车特别少。",
+        "es": "Cuando llueve, hay muy pocos taxis en la calle."
+      }
+    ]
+  },
+  {
+    "word": "广播",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "radio",
+      "transmisión",
+      "transmitir",
+      "anuncio por altavoz"
+    ],
+    "examples": [
+      {
+        "zh": "我每天早上听广播。",
+        "es": "Todas las mañanas escucho la radio."
+      },
+      {
+        "zh": "机场广播说飞机晚了一个小时。",
+        "es": "El anuncio del aeropuerto dijo que el vuelo tenía una hora de retraso."
+      },
+      {
+        "zh": "学校的广播通知大家明天放假。",
+        "es": "Por los altavoces de la escuela avisaron que mañana no hay clases."
+      },
+      {
+        "zh": "这条消息已经通过广播告诉了全国人民。",
+        "es": "Esta noticia ya se transmitió por radio a todo el país."
+      }
+    ]
+  }
+]

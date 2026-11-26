@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:商场",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 东西 con el sentido de 'cosas' se lee dōng xi (tono neutro). 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "705f87d1d452ebfebf6ae049c78bf7a90638d19a"
+  },
+  {
+    "id": "word:群众",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da8f19d1350b64d99e8f5a467b74b2014a1ea585"
+  },
+  {
+    "id": "word:比赛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7250959cad56cb2c9e01ac4c5e598fc6d0366d73"
+  },
+  {
+    "id": "word:表现",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3624a534de9f7c8217c8d0269849f7f32df8f850"
+  },
+  {
+    "id": "word:上课",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b0aa72d66e7d8f36f90b4030f20aa83f72854e0"
+  },
+  {
+    "id": "word:以下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37cc2535d59669ff417f2887c7bb2a020a4141cc"
+  },
+  {
+    "id": "word:鸡蛋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "517d866f047692f696b87dc84914d38126972165"
+  },
+  {
+    "id": "word:制度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3aede702fa73b05c3a068c3fede2f53d0bf83cc6"
+  },
+  {
+    "id": "word:欧洲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ccd32d26c545011b20e7f23b55328fab21217c9f"
+  },
+  {
+    "id": "word:电影院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c02dd677270ede05ab72ed67090a99c6f20a1303"
+  },
+  {
+    "id": "word:每个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "13505f73dae6c50b1111253d9b09b204c3578765"
+  },
+  {
+    "id": "word:办法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9be096ab8dd75413623624c1ff1f94c6992a972c"
+  },
+  {
+    "id": "word:汉字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9425918d7750a3ea2684d4c8d0422da66a5e2ec6"
+  },
+  {
+    "id": "word:成员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d71d7c0b35602aee38d9d978605a7bbe415e21e4"
+  },
+  {
+    "id": "word:上车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "50178c2fb361ed9b63cff96b836d66a03458e0b1"
+  },
+  {
+    "id": "word:开发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed69441d1a2b351c83d172f7b749b1591b288a20"
+  },
+  {
+    "id": "word:年代",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 是 debería ser 'shì' (nà shì). El tono neutro 'shi' no es la forma estándar para estudiantes."
+    ],
+    "content_hash": "5539a4ff1cb898ed084bce1a9f8ac40740a1b7b9"
+  },
+  {
+    "id": "word:图片",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6485f5cd2e71e135fc23b273415f8d04414b8199"
+  },
+  {
+    "id": "word:生病",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: 衣服 se lee yī fu (tono neutro), no 'yī fú'."
+    ],
+    "content_hash": "d97f158f741504f259d7f5128a1daa05ed247889"
+  },
+  {
+    "id": "word:心",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: '她的心很好' suena poco natural y puede entenderse como que su corazón está sano. Para decir 'tiene buen corazón' es más natural 她心地很好 o 她心很好."
+    ],
+    "content_hash": "946fb1c772980a7674dd384b07c88db053197163"
+  },
+  {
+    "id": "word:坐下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e1106aa303edf3862320e05d3ddd5bcfcfb1e2b"
+  },
+  {
+    "id": "word:爸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f9683f0ad4e6db31fe69849256edb56a443fdde"
+  },
+  {
+    "id": "word:以上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a32e12ce980e7870e12bd3fccf22cdd2b7eb546e"
+  },
+  {
+    "id": "word:楼下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8203c39bac9861ebafe987d867ada34cc8d92141"
+  },
+  {
+    "id": "word:几个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bffe3e6a504c8bad7e453e92053f5c73b47e8ed9"
+  }
+]

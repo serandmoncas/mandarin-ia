@@ -1,0 +1,351 @@
+import json
+
+import pytest
+
+from mandarin_pipeline.generate import (
+    BatchReport,
+    make_pinyin_renderer,
+    pinyin_targets,
+    run_pinyin,
+    run_batches,
+    strip_code_fences,
+)
+from mandarin_pipeline.models import WordContent, WordPinyin
+
+
+def _word_obj(word: str, examples: int = 4) -> dict:
+    return {
+        "word": word,
+        "cedict_reading_index": 0,
+        "meanings_es": ["significado"],
+        "examples": [{"zh": f"{word}好", "es": "bien"} for _ in range(examples)],
+    }
+
+
+ITEMS = [{"word": f"词{i}", "order": i} for i in range(45)]
+
+
+def render(batch: list[dict]) -> str:
+    return "PROMPT " + ",".join(i["word"] for i in batch)
+
+
+def fake_runner(calls: list[str], examples: int = 4):
+    def runner(prompt: str) -> str:
+        calls.append(prompt)
+        words = prompt.removeprefix("PROMPT ").split(",")
+        return json.dumps([_word_obj(w, examples) for w in words], ensure_ascii=False)
+
+    return runner
+
+
+def run(tmp_path, runner, items=ITEMS):
+    return run_batches("words", items, render, WordContent, runner, tmp_path, batch_size=20)
+
+
+def test_writes_batch_files(tmp_path):
+    report = run(tmp_path, fake_runner([]))
+    for n in ("000", "001", "002"):
+        assert (tmp_path / f"batch_{n}.json").exists()
+    assert report == BatchReport(done=3, skipped=0, failed=[])
+    data = json.loads((tmp_path / "batch_002.json").read_text(encoding="utf-8"))
+    assert len(data) == 5 and data[0]["cedict_reading_index"] == 0
+
+
+def test_resume_skips_existing(tmp_path):
+    run(tmp_path, fake_runner([]))
+    calls: list[str] = []
+    report = run(tmp_path, fake_runner(calls))
+    assert calls == []
+    assert report.skipped == 3 and report.done == 0
+
+
+def test_invalid_json_retries_once_then_records_error(tmp_path):
+    calls: list[str] = []
+
+    def runner(prompt: str) -> str:
+        calls.append(prompt)
+        if "词0," in prompt:  # first batch only
+            return "no json"
+        return fake_runner([])(prompt)
+
+    report = run(tmp_path, runner)
+    assert sum("词0," in c for c in calls) == 2
+    assert (tmp_path / "batch_000.error.txt").exists()
+    assert not (tmp_path / "batch_000.json").exists()
+    assert report.failed == [0]
+    assert (tmp_path / "batch_001.json").exists() and (tmp_path / "batch_002.json").exists()
+
+
+def test_schema_violation_counts_as_invalid(tmp_path):
+    calls: list[str] = []
+    report = run(tmp_path, fake_runner(calls, examples=3), items=ITEMS[:5])
+    assert len(calls) == 2
+    assert report.failed == [0]
+
+
+def test_wrong_items_counts_as_invalid(tmp_path):
+    calls: list[str] = []
+
+    def runner(prompt: str) -> str:
+        calls.append(prompt)
+        return json.dumps([_word_obj("别的")])
+
+    report = run(tmp_path, runner, items=ITEMS[:5])
+    assert len(calls) == 2 and report.failed == [0]
+
+
+def test_retry_succeeds_on_second_attempt(tmp_path):
+    calls: list[str] = []
+
+    def runner(prompt: str) -> str:
+        calls.append(prompt)
+        return "oops" if len(calls) == 1 else fake_runner([])(prompt)
+
+    report = run(tmp_path, runner, items=ITEMS[:5])
+    assert report == BatchReport(done=1, skipped=0, failed=[])
+
+
+def test_strips_code_fences():
+    assert strip_code_fences('```json\n[{"a": 1}]\n```') == '[{"a": 1}]'
+    assert strip_code_fences('  [1]  ') == "[1]"
+    assert json.loads(strip_code_fences("```\n[1]\n```")) == [1]
+
+
+def test_fenced_response_is_parsed(tmp_path):
+    def runner(prompt: str) -> str:
+        words = prompt.removeprefix("PROMPT ").split(",")
+        return "```json\n" + json.dumps([_word_obj(w) for w in words]) + "\n```"
+
+    report = run(tmp_path, runner, items=ITEMS[:3])
+    assert report.done == 1
+
+
+def test_limit_then_full_run_regenerates_partial_batch(tmp_path):
+    run(tmp_path, fake_runner([]), items=ITEMS[:30])
+    assert len(json.loads((tmp_path / "batch_001.json").read_text(encoding="utf-8"))) == 10
+    calls: list[str] = []
+    report = run(tmp_path, fake_runner(calls))
+    assert report.skipped == 1 and report.done == 2
+    assert len(json.loads((tmp_path / "batch_001.json").read_text(encoding="utf-8"))) == 20
+
+
+def test_truncated_batch_file_is_regenerated(tmp_path):
+    (tmp_path / "batch_000.json").write_text('[{"word": "词0"', encoding="utf-8")
+    report = run(tmp_path, fake_runner([]), items=ITEMS[:5])
+    assert report.done == 1
+    assert len(json.loads((tmp_path / "batch_000.json").read_text(encoding="utf-8"))) == 5
+
+
+def _fake_proc(monkeypatch, stdout):
+    import subprocess as sp
+
+    monkeypatch.setattr(
+        sp, "run", lambda *a, **k: sp.CompletedProcess(a, 0, stdout=stdout, stderr="")
+    )
+
+
+@pytest.mark.parametrize(
+    "stdout",
+    ['{"result": null}', '{"result": ["x"]}', '{"is_error": true, "result": "boom"}', "[1]"],
+)
+def test_claude_runner_rejects_bad_payload(monkeypatch, stdout):
+    from mandarin_pipeline.generate import claude_runner
+
+    _fake_proc(monkeypatch, stdout)
+    with pytest.raises(ValueError):
+        claude_runner("p")
+
+
+def test_claude_runner_ok(monkeypatch):
+    from mandarin_pipeline.generate import claude_runner
+
+    _fake_proc(monkeypatch, json.dumps({"result": "```json\n[1]\n```"}))
+    assert claude_runner("p") == "[1]"
+
+
+def test_error_file_includes_subprocess_diagnostics(tmp_path):
+    import subprocess as sp
+
+    def runner(prompt):
+        raise sp.CalledProcessError(1, "claude", output="OUT-X", stderr="ERR-X")
+
+    report = run(tmp_path, runner, items=ITEMS[:3])
+    assert report.failed == [0]
+    text = (tmp_path / "batch_000.error.txt").read_text(encoding="utf-8")
+    assert "ERR-X" in text and "OUT-X" in text
+
+
+def test_review_kind_keyed_on_id(tmp_path):
+    from mandarin_pipeline.models import ReviewResult
+
+    items = [{"id": f"word:词{i}", "text": "x", "content_hash": f"h{i}"} for i in range(3)]
+
+    def runner(prompt: str) -> str:
+        return json.dumps([{"id": f"word:词{i}", "ok": True, "issues": []} for i in range(3)])
+
+    r = run_batches("review", items, lambda b: "p", ReviewResult, runner, tmp_path, batch_size=20)
+    assert r.done == 1
+    calls: list[str] = []
+    r2 = run_batches(
+        "review", items, lambda b: "p", ReviewResult, lambda p: calls.append(p) or "[]", tmp_path, batch_size=20
+    )
+    assert r2.skipped == 1 and calls == []
+    # wrong ids are rejected
+    bad = run_batches(
+        "review", items, lambda b: "p", ReviewResult,
+        lambda p: json.dumps([{"id": "word:x", "ok": True, "issues": []}] * 3),
+        tmp_path / "bad", batch_size=20,
+    )
+    assert bad.failed == [0]
+
+
+def test_aborts_after_three_consecutive_failed_batches(tmp_path):
+    calls: list[str] = []
+
+    def runner(prompt: str) -> str:
+        calls.append(prompt)
+        raise ValueError("limit reached")
+
+    items = [{"word": f"词{i}", "order": i} for i in range(200)]
+    report = run(tmp_path, runner, items=items)
+    assert report.failed == [0, 1, 2] and report.aborted is True
+    assert len(calls) == 6  # 3 batches x 2 attempts, then stop
+
+
+def test_success_resets_consecutive_failures(tmp_path):
+    def runner(prompt: str) -> str:
+        if "词0," in prompt or "词20," in prompt or "词60," in prompt or "词80," in prompt:
+            raise ValueError("flaky")
+        return fake_runner([])(prompt)
+
+    items = [{"word": f"词{i}", "order": i} for i in range(100)]
+    report = run(tmp_path, runner, items=items)
+    assert report.failed == [0, 1, 3, 4] and report.aborted is False and report.done == 1
+
+
+def test_cli_exits_nonzero_when_batches_failed(tmp_path, capsys):
+    from mandarin_pipeline.__main__ import _finish_batches
+
+    _finish_batches("words", 5, BatchReport(done=1), tmp_path)  # no failure: returns
+    with pytest.raises(SystemExit) as e:
+        _finish_batches("words", 5, BatchReport(failed=[0, 1, 2], aborted=True), tmp_path)
+    assert e.value.code == 1
+    out = capsys.readouterr().out
+    assert "3 lotes fallidos seguidos" in out and "error.txt" in out
+
+
+def test_claude_runner_disables_tools_and_uses_neutral_cwd(monkeypatch):
+    import subprocess as sp
+    from pathlib import Path
+
+    from mandarin_pipeline.generate import claude_runner
+
+    seen = {}
+
+    def fake_run(cmd, **kw):
+        seen["cmd"], seen["kw"] = cmd, kw
+        seen["cwd_exists"] = Path(kw["cwd"]).is_dir()
+        return sp.CompletedProcess(cmd, 0, stdout=json.dumps({"result": "[1]"}), stderr="")
+
+    monkeypatch.setattr(sp, "run", fake_run)
+    claude_runner("PROMPT-X")
+    cmd = seen["cmd"]
+    assert cmd[:2] == ["claude", "-p"]
+    assert cmd[cmd.index("--tools") + 1] == ""
+    assert "--strict-mcp-config" in cmd
+    assert "PROMPT-X" not in cmd and seen["kw"]["input"] == "PROMPT-X"
+    repo = Path(__file__).resolve().parents[2]
+    cwd = Path(seen["kw"]["cwd"]).resolve()
+    assert seen["cwd_exists"] and repo not in (cwd, *cwd.parents)
+
+
+def _write_words(gen_dir, words):
+    d = gen_dir / "words"
+    d.mkdir(parents=True)
+    (d / "batch_000.json").write_text(
+        json.dumps([_word_obj(w) for w in words], ensure_ascii=False), encoding="utf-8"
+    )
+
+
+def _write_review(review_dir, idx, verdicts, content_hash="h"):
+    review_dir.mkdir(parents=True, exist_ok=True)
+    rows = [{"id": f"word:{w}", "ok": not issues, "issues": issues, "content_hash": content_hash}
+            for w, issues in verdicts]
+    (review_dir / f"batch_{idx:03d}.json").write_text(
+        json.dumps(rows, ensure_ascii=False), encoding="utf-8"
+    )
+
+
+def _hashes(*words, h="h"):
+    return {f"word:{w}": h for w in words}
+
+
+def test_pinyin_targets_selects_words_with_pinyin_issues(tmp_path):
+    _write_words(tmp_path, ["妈妈", "你好", "谢谢"])
+    _write_review(tmp_path / "review", 0, [
+        ("妈妈", ["Pinyin: 妈妈 debe ser mā ma"]),
+        ("你好", ["La traducción es imprecisa"]),
+        ("谢谢", []),
+    ])
+    assert pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", "你好", "谢谢")) == [
+        {"word": "妈妈", "examples": ["妈妈好"] * 4}
+    ]
+
+
+def test_pinyin_targets_uses_latest_review(tmp_path):
+    _write_words(tmp_path, ["妈妈", "你好"])
+    _write_review(tmp_path / "review", 0, [("妈妈", ["Pinyin mal"]), ("你好", [])])
+    _write_review(tmp_path / "review", 1, [("妈妈", []), ("你好", ["Tono incorrecto"])])
+    targets = pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", "你好"))
+    assert [t["word"] for t in targets] == ["你好"]
+
+
+def test_pinyin_targets_skips_verdict_of_stale_content(tmp_path):
+    _write_words(tmp_path, ["妈妈"])
+    _write_review(tmp_path / "review", 0, [("妈妈", ["Pinyin mal"])], content_hash="old")
+    assert pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", h="new")) == []
+
+
+def test_pinyin_targets_keeps_verdict_of_current_content(tmp_path):
+    _write_words(tmp_path, ["妈妈"])
+    _write_review(tmp_path / "review", 0, [("妈妈", ["Pinyin mal"])], content_hash="cur")
+    targets = pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", h="cur"))
+    assert [t["word"] for t in targets] == ["妈妈"]
+
+
+def test_pinyin_rerun_appends_new_batch_and_keeps_old_bytes(tmp_path):
+    _write_words(tmp_path, ["妈妈", "你好"])
+    _write_review(tmp_path / "review", 0, [("妈妈", ["Pinyin mal"]), ("你好", ["Pinyin mal"])])
+    out_dir = tmp_path / "pinyin"
+    out_dir.mkdir()
+    old = out_dir / "batch_000.json"
+    old.write_bytes('[{"word": "妈妈", "examples": []}]\n'.encode("utf-8"))
+    before = old.read_bytes()
+    items = pinyin_targets(tmp_path, tmp_path / "review", _hashes("妈妈", "你好"))
+
+    def runner(prompt: str) -> str:
+        return json.dumps([
+            {"word": i["word"], "examples": [{"zh": z, "pinyin": "ma1"} for z in i["examples"]]}
+            for i in items
+        ], ensure_ascii=False)
+
+    report = run_pinyin(items, lambda b: "p", runner, out_dir, batch_size=20)
+    assert report.done == 1
+    assert old.read_bytes() == before
+    assert (out_dir / "batch_001.json").exists()
+
+
+def test_pinyin_renderer_lists_words_and_examples():
+    prompt = make_pinyin_renderer()([{"word": "妈妈", "examples": ["妈妈好", "我爱妈妈"]}])
+    assert "妈妈\n妈妈好\n我爱妈妈" in prompt
+    assert "$" not in prompt
+
+
+def test_run_batches_pinyin_validates_word_key(tmp_path):
+    items = [{"word": "妈妈", "examples": ["妈妈好"]}]
+
+    def runner(prompt: str) -> str:
+        return json.dumps([{"word": "爸爸", "examples": [{"zh": "妈妈好", "pinyin": "ma1 ma5 hao3"}]}])
+
+    report = run_batches("pinyin", items, lambda b: "p", WordPinyin, runner, tmp_path)
+    assert report.failed == [0]

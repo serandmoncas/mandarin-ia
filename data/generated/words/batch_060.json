@@ -1,0 +1,550 @@
+[
+  {
+    "word": "资金",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fondos",
+      "capital",
+      "financiamiento"
+    ],
+    "examples": [
+      {
+        "zh": "我们没有资金。",
+        "es": "No tenemos fondos."
+      },
+      {
+        "zh": "公司需要更多资金。",
+        "es": "La empresa necesita más capital."
+      },
+      {
+        "zh": "这个项目的资金从哪里来？",
+        "es": "¿De dónde salen los fondos de este proyecto?"
+      },
+      {
+        "zh": "政府决定给农村提供更多的资金。",
+        "es": "El gobierno decidió darles más fondos a las zonas rurales."
+      }
+    ]
+  },
+  {
+    "word": "人数",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "número de personas",
+      "cantidad de gente"
+    ],
+    "examples": [
+      {
+        "zh": "今天来的人数不多。",
+        "es": "Hoy no vino mucha gente."
+      },
+      {
+        "zh": "我们班的人数比去年多。",
+        "es": "Este año hay más alumnos en nuestra clase que el año pasado."
+      },
+      {
+        "zh": "参加比赛的人数已经超过一百。",
+        "es": "El número de participantes en la competencia ya pasa de cien."
+      },
+      {
+        "zh": "每年来北京旅游的人数都在增加。",
+        "es": "Cada año aumenta el número de personas que visitan Pekín."
+      }
+    ]
+  },
+  {
+    "word": "协议",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "acuerdo",
+      "convenio",
+      "pacto",
+      "protocolo"
+    ],
+    "examples": [
+      {
+        "zh": "我们有一个协议。",
+        "es": "Tenemos un acuerdo."
+      },
+      {
+        "zh": "这个协议对我们很重要。",
+        "es": "Este acuerdo es muy importante para nosotros."
+      },
+      {
+        "zh": "两家公司最后达成了协议。",
+        "es": "Al final, las dos empresas llegaron a un acuerdo."
+      },
+      {
+        "zh": "两国政府已经同意了新的合作协议。",
+        "es": "Los gobiernos de los dos países ya aprobaron el nuevo acuerdo de cooperación."
+      }
+    ]
+  },
+  {
+    "word": "倒",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "caerse",
+      "derrumbarse",
+      "quebrar (un negocio)",
+      "cambiar (de tren o autobús)"
+    ],
+    "examples": [
+      {
+        "zh": "树倒了。",
+        "es": "El árbol se cayó."
+      },
+      {
+        "zh": "他跑得太快，倒在地上了。",
+        "es": "Corrió tan rápido que se cayó al suelo."
+      },
+      {
+        "zh": "昨天风很大，路边的树都倒了。",
+        "es": "Ayer hubo mucho viento y se cayeron todos los árboles de la calle."
+      },
+      {
+        "zh": "那家公司去年就倒了，很多人没有工作。",
+        "es": "Esa empresa quebró el año pasado y mucha gente se quedó sin trabajo."
+      }
+    ]
+  },
+  {
+    "word": "即使",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aunque",
+      "incluso si",
+      "aun cuando"
+    ],
+    "examples": [
+      {
+        "zh": "即使很累，我也要去。",
+        "es": "Aunque esté muy cansado, voy a ir."
+      },
+      {
+        "zh": "即使下雨，比赛也会继续。",
+        "es": "Incluso si llueve, el partido va a continuar."
+      },
+      {
+        "zh": "即使你不喜欢，也应该试试。",
+        "es": "Aunque no te guste, deberías probarlo."
+      },
+      {
+        "zh": "即使工作很忙，他每天也会给妈妈打电话。",
+        "es": "Aunque tiene mucho trabajo, llama a su mamá todos los días."
+      }
+    ]
+  },
+  {
+    "word": "在于",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar en",
+      "residir en",
+      "depender de",
+      "consistir en"
+    ],
+    "examples": [
+      {
+        "zh": "问题在于时间不够。",
+        "es": "El problema es que no hay suficiente tiempo."
+      },
+      {
+        "zh": "去不去在于你自己。",
+        "es": "Ir o no depende de ti."
+      },
+      {
+        "zh": "学好汉语在于多听多说。",
+        "es": "Aprender bien chino depende de escuchar y hablar mucho."
+      },
+      {
+        "zh": "这个计划成功的原因在于大家的努力。",
+        "es": "El éxito de este plan se debe al esfuerzo de todos."
+      }
+    ]
+  },
+  {
+    "word": "广告",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "anuncio",
+      "publicidad",
+      "comercial",
+      "anunciar"
+    ],
+    "examples": [
+      {
+        "zh": "我不喜欢看广告。",
+        "es": "No me gusta ver anuncios."
+      },
+      {
+        "zh": "电视上广告太多了。",
+        "es": "En la televisión hay demasiados comerciales."
+      },
+      {
+        "zh": "这家公司花了很多钱做广告。",
+        "es": "Esta empresa gastó mucho dinero en publicidad."
+      },
+      {
+        "zh": "我在网上看到一个广告，就买了这本书。",
+        "es": "Vi un anuncio en internet y compré este libro."
+      }
+    ]
+  },
+  {
+    "word": "总理",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "primer ministro",
+      "premier"
+    ],
+    "examples": [
+      {
+        "zh": "总理明天来北京。",
+        "es": "El primer ministro viene a Pekín mañana."
+      },
+      {
+        "zh": "总理在会议上讲话了。",
+        "es": "El primer ministro habló en la reunión."
+      },
+      {
+        "zh": "日本总理今天来到了中国。",
+        "es": "El primer ministro de Japón llegó hoy a China."
+      },
+      {
+        "zh": "总理表示政府会继续支持农村发展。",
+        "es": "El primer ministro dijo que el gobierno seguirá apoyando el desarrollo rural."
+      }
+    ]
+  },
+  {
+    "word": "检查",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "revisar",
+      "examinar",
+      "inspeccionar",
+      "revisión"
+    ],
+    "examples": [
+      {
+        "zh": "请检查一下。",
+        "es": "Por favor, revísalo."
+      },
+      {
+        "zh": "医生给我检查了身体。",
+        "es": "El médico me hizo un chequeo."
+      },
+      {
+        "zh": "写完以后，请再检查一次。",
+        "es": "Cuando termines de escribir, revísalo otra vez, por favor."
+      },
+      {
+        "zh": "每次开车以前，他都会检查一下汽车。",
+        "es": "Cada vez antes de manejar, él revisa el carro."
+      }
+    ]
+  },
+  {
+    "word": "无论",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sin importar",
+      "no importa (qué, cómo, dónde)",
+      "independientemente de"
+    ],
+    "examples": [
+      {
+        "zh": "无论如何，我都会来。",
+        "es": "Pase lo que pase, voy a venir."
+      },
+      {
+        "zh": "无论多忙，他每天都看书。",
+        "es": "No importa qué tan ocupado esté, lee todos los días."
+      },
+      {
+        "zh": "无论你去哪儿，我都跟着你。",
+        "es": "No importa adónde vayas, yo te sigo."
+      },
+      {
+        "zh": "无论下不下雨，比赛都会继续进行。",
+        "es": "Llueva o no, el partido va a continuar."
+      }
+    ]
+  },
+  {
+    "word": "数",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "contar",
+      "considerarse (el más…)",
+      "enumerar"
+    ],
+    "examples": [
+      {
+        "zh": "孩子会从一数到十。",
+        "es": "El niño sabe contar del uno al diez."
+      },
+      {
+        "zh": "你数一数这里有几个人。",
+        "es": "Cuenta cuántas personas hay aquí."
+      },
+      {
+        "zh": "钱我数了三次，还是不对。",
+        "es": "Conté el dinero tres veces y todavía no me cuadra."
+      },
+      {
+        "zh": "在我们班，他的汉语数第一。",
+        "es": "En nuestra clase, él es el mejor en chino."
+      }
+    ]
+  },
+  {
+    "word": "限制",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "limitar",
+      "restringir",
+      "límite",
+      "restricción"
+    ],
+    "examples": [
+      {
+        "zh": "这里有时间限制。",
+        "es": "Aquí hay un límite de tiempo."
+      },
+      {
+        "zh": "这个网站对用户没有限制。",
+        "es": "Este sitio web no tiene restricciones para los usuarios."
+      },
+      {
+        "zh": "妈妈限制我每天玩游戏的时间。",
+        "es": "Mi mamá limita el tiempo que juego videojuegos cada día."
+      },
+      {
+        "zh": "新的规定限制了外国企业在中国的投资。",
+        "es": "Las nuevas reglas restringieron la inversión de empresas extranjeras en China."
+      }
+    ]
+  },
+  {
+    "word": "数字",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "número",
+      "cifra",
+      "dígito",
+      "digital"
+    ],
+    "examples": [
+      {
+        "zh": "这个数字不对。",
+        "es": "Este número no está bien."
+      },
+      {
+        "zh": "孩子已经认识这些数字了。",
+        "es": "El niño ya conoce estos números."
+      },
+      {
+        "zh": "今年的数字比去年高很多。",
+        "es": "Las cifras de este año son mucho más altas que las del año pasado."
+      },
+      {
+        "zh": "数字技术改变了我们的生活方式。",
+        "es": "La tecnología digital cambió nuestra forma de vivir."
+      }
+    ]
+  },
+  {
+    "word": "部长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ministro",
+      "secretario (de gobierno)",
+      "jefe de departamento"
+    ],
+    "examples": [
+      {
+        "zh": "我们部长今天不在。",
+        "es": "Nuestro jefe de departamento no está hoy."
+      },
+      {
+        "zh": "部长明天要开会。",
+        "es": "El ministro tiene una reunión mañana."
+      },
+      {
+        "zh": "教育部长在新闻里介绍了新政策。",
+        "es": "El ministro de Educación presentó la nueva política en las noticias."
+      },
+      {
+        "zh": "部长表示政府会继续加强对环境的保护。",
+        "es": "El ministro dijo que el gobierno seguirá reforzando la protección del medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "水平",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nivel",
+      "estándar",
+      "horizontal"
+    ],
+    "examples": [
+      {
+        "zh": "他的汉语水平很高。",
+        "es": "Su nivel de chino es muy alto."
+      },
+      {
+        "zh": "我想提高我的中文水平。",
+        "es": "Quiero mejorar mi nivel de chino."
+      },
+      {
+        "zh": "这几年，中国人的生活水平提高了很多。",
+        "es": "En los últimos años, el nivel de vida de los chinos ha mejorado mucho."
+      },
+      {
+        "zh": "这个学校的教学水平在全国都很有名。",
+        "es": "El nivel de enseñanza de esta escuela es famoso en todo el país."
+      }
+    ]
+  },
+  {
+    "word": "态度",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "actitud",
+      "trato",
+      "postura"
+    ],
+    "examples": [
+      {
+        "zh": "他的态度很好。",
+        "es": "Tiene muy buena actitud."
+      },
+      {
+        "zh": "这家饭店的服务态度不错。",
+        "es": "En este restaurante atienden bastante bien."
+      },
+      {
+        "zh": "你应该改变你的学习态度。",
+        "es": "Deberías cambiar tu actitud hacia el estudio."
+      },
+      {
+        "zh": "政府对这个问题的态度一直很清楚。",
+        "es": "La postura del gobierno sobre este tema siempre ha sido clara."
+      }
+    ]
+  },
+  {
+    "word": "广场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "plaza",
+      "plaza pública",
+      "centro comercial (en nombres)"
+    ],
+    "examples": [
+      {
+        "zh": "广场上有很多人。",
+        "es": "Hay mucha gente en la plaza."
+      },
+      {
+        "zh": "我们在广场见面吧。",
+        "es": "Veámonos en la plaza."
+      },
+      {
+        "zh": "晚上很多老人在广场上唱歌。",
+        "es": "En las noches, muchos ancianos cantan en la plaza."
+      },
+      {
+        "zh": "北京的天安门广场是世界上最大的广场之一。",
+        "es": "La plaza de Tiananmén, en Pekín, es una de las más grandes del mundo."
+      }
+    ]
+  },
+  {
+    "word": "管",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "encargarse de",
+      "controlar",
+      "meterse en (un asunto)",
+      "tubo"
+    ],
+    "examples": [
+      {
+        "zh": "别管我。",
+        "es": "Déjame en paz."
+      },
+      {
+        "zh": "谁管这个项目？",
+        "es": "¿Quién está a cargo de este proyecto?"
+      },
+      {
+        "zh": "他在公司里管电脑和网络。",
+        "es": "En la empresa, él se encarga de las computadoras y la red."
+      },
+      {
+        "zh": "孩子长大了，妈妈不能什么都管了。",
+        "es": "El hijo ya creció; su mamá ya no puede controlarlo todo."
+      }
+    ]
+  },
+  {
+    "word": "求",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pedir",
+      "rogar",
+      "buscar",
+      "exigir"
+    ],
+    "examples": [
+      {
+        "zh": "我求你了。",
+        "es": "Te lo ruego."
+      },
+      {
+        "zh": "他求我帮忙。",
+        "es": "Me pidió ayuda."
+      },
+      {
+        "zh": "他求老师再给他一次机会。",
+        "es": "Le rogó al maestro que le diera otra oportunidad."
+      },
+      {
+        "zh": "这件事我不想求别人，自己做就好。",
+        "es": "No quiero pedirle ayuda a nadie con esto; lo hago yo solo."
+      }
+    ]
+  },
+  {
+    "word": "破坏",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dañar",
+      "destruir",
+      "arruinar",
+      "daño"
+    ],
+    "examples": [
+      {
+        "zh": "别破坏东西。",
+        "es": "No rompas las cosas."
+      },
+      {
+        "zh": "他破坏了我们的计划。",
+        "es": "Él arruinó nuestros planes."
+      },
+      {
+        "zh": "战争破坏了这个城市的很多建筑。",
+        "es": "La guerra destruyó muchos edificios de esta ciudad."
+      },
+      {
+        "zh": "人类的活动正在破坏动物的生活环境。",
+        "es": "La actividad humana está destruyendo el hábitat de los animales."
+      }
+    ]
+  }
+]

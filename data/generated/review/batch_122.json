@@ -1,0 +1,157 @@
+[
+  {
+    "id": "char:众",
+    "ok": true,
+    "issues": [],
+    "content_hash": "775d78c406229b7c83e8bf4035c11e0e1e9c8a8f"
+  },
+  {
+    "id": "char:赛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69c6dbb50834904cd2779e838a57d666cc9840d9"
+  },
+  {
+    "id": "char:利",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6905a9d8570357c2b8c68231e174ebb46dd678dd"
+  },
+  {
+    "id": "char:鸡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a79ad528b80fbef6dbf057237f081c67cf0f884d"
+  },
+  {
+    "id": "char:蛋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e79d9de34b95d8890fe3e95c951e4ec98b42553"
+  },
+  {
+    "id": "char:度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7bb0137ba197d4215a277f1a91244cde5e2fe842"
+  },
+  {
+    "id": "char:欧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a1bb4d3d4c5b83c95001bdfaaf0e86d484f22ff"
+  },
+  {
+    "id": "char:洲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb1963d493920390d57860e064dd675244efa239"
+  },
+  {
+    "id": "char:办",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81e95d1a4539cc91acf76b3526afa01a83685d94"
+  },
+  {
+    "id": "char:讲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f9a27636956b0ee49d9e5ef3357e4dbcf66a9c45"
+  },
+  {
+    "id": "char:席",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2893578fd47e376b72a43c4eed9051158e539f47"
+  },
+  {
+    "id": "char:革",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ba78be64e11aeea4b835875035cf9dda398fd27"
+  },
+  {
+    "id": "char:命",
+    "ok": true,
+    "issues": [],
+    "content_hash": "06d0ce205b06d84cc7d8e89ea2340d1d2853b23c"
+  },
+  {
+    "id": "char:除",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8e4420d5fcd6c7cb23363a970f78bdeb4fcdd219"
+  },
+  {
+    "id": "char:价",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6cdd77485351c26baf480598e9d3803901ccf22d"
+  },
+  {
+    "id": "char:值",
+    "ok": true,
+    "issues": [],
+    "content_hash": "78b0310774ebf006df8222bf9ae340cb553c75fb"
+  },
+  {
+    "id": "char:离",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c94c71d22cf5fa067edfea2d540fda569188745"
+  },
+  {
+    "id": "char:条",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc3ac8f9be03b05a2fe336e8a35c8bd02d3737fd"
+  },
+  {
+    "id": "char:注",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86a0a3a484376cbcb4812023bdc920d2c7e6200b"
+  },
+  {
+    "id": "char:意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e2928ed7cb1ce628982838838f750f6d59159d3"
+  },
+  {
+    "id": "char:反",
+    "ok": true,
+    "issues": [],
+    "content_hash": "489b1e870f263661a42ef9a605c7989a133452f0"
+  },
+  {
+    "id": "char:致",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24e4d0b2b3c78a30509bcd87be71ce9976b207d2"
+  },
+  {
+    "id": "char:桌",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia no tiene sentido claro: «donde se pone el sol del almuerzo» es confuso y difícil de visualizar; no conecta bien 日 y ⺊ con la idea de mesa."
+    ],
+    "content_hash": "98f12e18dc1ac8e9719436cc3cf7e277c653eae3"
+  },
+  {
+    "id": "char:属",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia es incoherente con el componente: 尸 se define como «cuerpo, cadáver», pero la historia lo llama «techo-cuerpo», lo que resulta confuso.",
+      "La mnemotecnia incluye el carácter 尸 dentro del texto en lugar de una imagen, y la idea de que el rey vive «bajo un cadáver» es difícil de visualizar."
+    ],
+    "content_hash": "34baf5751c1fc59e66f39282777e0b11d4e0c924"
+  },
+  {
+    "id": "char:形",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0bee6e3d7a4da34d573531d1cd5d4c9605dfbb4f"
+  }
+]

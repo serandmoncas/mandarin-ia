@@ -1,0 +1,541 @@
+[
+  {
+    "word": "科学家",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "científico",
+      "científica"
+    ],
+    "examples": [
+      {
+        "zh": "他是科学家。",
+        "es": "Él es científico."
+      },
+      {
+        "zh": "我想成为科学家。",
+        "es": "Quiero ser científico."
+      },
+      {
+        "zh": "这位科学家在大学工作。",
+        "es": "Este científico trabaja en la universidad."
+      },
+      {
+        "zh": "很多科学家认为这个问题非常重要。",
+        "es": "Muchos científicos creen que este problema es muy importante."
+      }
+    ]
+  },
+  {
+    "word": "可爱",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lindo",
+      "tierno",
+      "adorable",
+      "encantador"
+    ],
+    "examples": [
+      {
+        "zh": "这个孩子很可爱。",
+        "es": "Este niño es muy lindo."
+      },
+      {
+        "zh": "你的狗真可爱！",
+        "es": "¡Tu perro es muy tierno!"
+      },
+      {
+        "zh": "她妹妹笑起来很可爱。",
+        "es": "Su hermana menor se ve muy linda cuando sonríe."
+      },
+      {
+        "zh": "我觉得这些小动物都很可爱，我每天都去看它们。",
+        "es": "Me parece que estos animalitos son muy tiernos; voy a verlos todos los días."
+      }
+    ]
+  },
+  {
+    "word": "请求",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pedir",
+      "solicitar",
+      "petición",
+      "solicitud"
+    ],
+    "examples": [
+      {
+        "zh": "我有一个请求。",
+        "es": "Tengo una petición."
+      },
+      {
+        "zh": "他请求老师帮忙。",
+        "es": "Le pidió ayuda al maestro."
+      },
+      {
+        "zh": "公司拒绝了我们的请求。",
+        "es": "La empresa rechazó nuestra solicitud."
+      },
+      {
+        "zh": "政府已经同意了人民提出的请求。",
+        "es": "El gobierno ya aceptó la petición que hizo el pueblo."
+      }
+    ]
+  },
+  {
+    "word": "风险",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "riesgo",
+      "peligro"
+    ],
+    "examples": [
+      {
+        "zh": "这样做有风险。",
+        "es": "Hacer esto tiene riesgos."
+      },
+      {
+        "zh": "投资都有风险。",
+        "es": "Toda inversión tiene riesgos."
+      },
+      {
+        "zh": "我们应该减少风险。",
+        "es": "Debemos reducir los riesgos."
+      },
+      {
+        "zh": "开车太快会增加出事的风险。",
+        "es": "Manejar demasiado rápido aumenta el riesgo de tener un accidente."
+      }
+    ]
+  },
+  {
+    "word": "顺利",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sin problemas",
+      "bien, con éxito",
+      "sin contratiempos"
+    ],
+    "examples": [
+      {
+        "zh": "一切都很顺利。",
+        "es": "Todo salió bien."
+      },
+      {
+        "zh": "希望你考试顺利！",
+        "es": "¡Ojalá te vaya bien en el examen!"
+      },
+      {
+        "zh": "我们的计划进行得很顺利。",
+        "es": "Nuestro plan avanza sin problemas."
+      },
+      {
+        "zh": "虽然有一些困难，但是工作最后还是顺利完成了。",
+        "es": "Aunque hubo algunas dificultades, al final el trabajo se terminó sin contratiempos."
+      }
+    ]
+  },
+  {
+    "word": "边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lado",
+      "borde, orilla",
+      "frontera, límite",
+      "a la vez (en 一边…一边)"
+    ],
+    "examples": [
+      {
+        "zh": "他坐在我旁边。",
+        "es": "Él se sienta a mi lado."
+      },
+      {
+        "zh": "我们去海边吧。",
+        "es": "Vamos a la playa."
+      },
+      {
+        "zh": "路的两边都是树。",
+        "es": "A ambos lados del camino hay árboles."
+      },
+      {
+        "zh": "她喜欢一边听音乐一边看书。",
+        "es": "A ella le gusta leer mientras escucha música."
+      }
+    ]
+  },
+  {
+    "word": "公共",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "público",
+      "común",
+      "colectivo"
+    ],
+    "examples": [
+      {
+        "zh": "我每天坐公共汽车上班。",
+        "es": "Todos los días voy al trabajo en autobús."
+      },
+      {
+        "zh": "图书馆是公共的，大家都可以用。",
+        "es": "La biblioteca es pública; todos pueden usarla."
+      },
+      {
+        "zh": "在公共地方不要大声说话。",
+        "es": "No hables en voz alta en lugares públicos."
+      },
+      {
+        "zh": "政府应该给城市居民提供更多公共服务。",
+        "es": "El gobierno debería ofrecer más servicios públicos a los habitantes de la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "船",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "barco",
+      "bote, lancha",
+      "embarcación"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢坐船。",
+        "es": "Me gusta viajar en barco."
+      },
+      {
+        "zh": "海上有一条小船。",
+        "es": "Hay un barquito en el mar."
+      },
+      {
+        "zh": "坐船比坐飞机慢多了。",
+        "es": "Ir en barco es mucho más lento que ir en avión."
+      },
+      {
+        "zh": "我们明天早上要坐船去香港。",
+        "es": "Mañana por la mañana vamos a ir a Hong Kong en barco."
+      }
+    ]
+  },
+  {
+    "word": "多久",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿cuánto tiempo?",
+      "(no) mucho tiempo"
+    ],
+    "examples": [
+      {
+        "zh": "你要等多久？",
+        "es": "¿Cuánto tiempo vas a esperar?"
+      },
+      {
+        "zh": "你学汉语学了多久？",
+        "es": "¿Cuánto tiempo llevas estudiando chino?"
+      },
+      {
+        "zh": "从这里到机场要多久？",
+        "es": "¿Cuánto se tarda de aquí al aeropuerto?"
+      },
+      {
+        "zh": "我不知道这个问题还要多久才能解决。",
+        "es": "No sé cuánto tiempo más va a tardar en resolverse este problema."
+      }
+    ]
+  },
+  {
+    "word": "批评",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "criticar",
+      "regañar, llamar la atención",
+      "crítica"
+    ],
+    "examples": [
+      {
+        "zh": "老师批评了他。",
+        "es": "El maestro lo regañó."
+      },
+      {
+        "zh": "我不喜欢被人批评。",
+        "es": "No me gusta que me critiquen."
+      },
+      {
+        "zh": "很多人批评政府的新政策。",
+        "es": "Mucha gente critica la nueva política del gobierno."
+      },
+      {
+        "zh": "他虽然受到了批评，但是没有生气。",
+        "es": "Aunque recibió críticas, no se enojó."
+      }
+    ]
+  },
+  {
+    "word": "取消",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cancelar",
+      "suspender",
+      "anular, eliminar"
+    ],
+    "examples": [
+      {
+        "zh": "会议取消了。",
+        "es": "La reunión se canceló."
+      },
+      {
+        "zh": "明天的考试取消了。",
+        "es": "El examen de mañana se canceló."
+      },
+      {
+        "zh": "因为下雨，比赛被取消了。",
+        "es": "Por la lluvia, el partido fue cancelado."
+      },
+      {
+        "zh": "因为天气不好，我们只能取消旅游计划。",
+        "es": "Como el clima está malo, tenemos que cancelar el viaje."
+      }
+    ]
+  },
+  {
+    "word": "平",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "plano, llano",
+      "parejo, nivelado",
+      "empatar",
+      "metro cuadrado (coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "这条路很平。",
+        "es": "Este camino es muy plano."
+      },
+      {
+        "zh": "这张桌子不平。",
+        "es": "Esta mesa no está pareja."
+      },
+      {
+        "zh": "两个队最后打平了。",
+        "es": "Al final los dos equipos empataron."
+      },
+      {
+        "zh": "这个房间有二十平，住两个人够了。",
+        "es": "Esta habitación tiene veinte metros cuadrados; alcanza para dos personas."
+      }
+    ]
+  },
+  {
+    "word": "司机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "chofer",
+      "conductor"
+    ],
+    "examples": [
+      {
+        "zh": "他是司机。",
+        "es": "Él es chofer."
+      },
+      {
+        "zh": "我爸爸是公共汽车司机。",
+        "es": "Mi papá es chofer de autobús."
+      },
+      {
+        "zh": "司机，请在前边停车。",
+        "es": "Chofer, pare adelante, por favor."
+      },
+      {
+        "zh": "这位司机开车很快，但是非常安全。",
+        "es": "Este conductor maneja rápido, pero es muy seguro."
+      }
+    ]
+  },
+  {
+    "word": "停止",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "detener, parar",
+      "dejar de",
+      "suspender"
+    ],
+    "examples": [
+      {
+        "zh": "请停止说话。",
+        "es": "Por favor, dejen de hablar."
+      },
+      {
+        "zh": "比赛突然停止了。",
+        "es": "El partido se detuvo de repente."
+      },
+      {
+        "zh": "我们不能停止努力。",
+        "es": "No podemos dejar de esforzarnos."
+      },
+      {
+        "zh": "因为经济问题，这家公司停止了生产。",
+        "es": "Por problemas económicos, esta empresa dejó de producir."
+      }
+    ]
+  },
+  {
+    "word": "酒",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alcohol, bebida alcohólica",
+      "vino",
+      "licor"
+    ],
+    "examples": [
+      {
+        "zh": "我不喝酒。",
+        "es": "No tomo alcohol."
+      },
+      {
+        "zh": "他喝了一杯酒。",
+        "es": "Se tomó una copa."
+      },
+      {
+        "zh": "开车的时候不能喝酒。",
+        "es": "No se puede tomar alcohol cuando manejas."
+      },
+      {
+        "zh": "爸爸生日那天，我们一起喝了一点儿酒。",
+        "es": "El día del cumpleaños de papá tomamos un poco de vino juntos."
+      }
+    ]
+  },
+  {
+    "word": "文学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "literatura"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢文学。",
+        "es": "Me gusta la literatura."
+      },
+      {
+        "zh": "她在大学学文学。",
+        "es": "Ella estudia literatura en la universidad."
+      },
+      {
+        "zh": "这本书是中国文学的重要作品。",
+        "es": "Este libro es una obra importante de la literatura china."
+      },
+      {
+        "zh": "读文学作品可以帮助我们了解一个国家的文化。",
+        "es": "Leer obras literarias nos ayuda a conocer la cultura de un país."
+      }
+    ]
+  },
+  {
+    "word": "理想",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sueño, aspiración",
+      "ideal (sustantivo)",
+      "ideal, perfecto (adjetivo)"
+    ],
+    "examples": [
+      {
+        "zh": "你的理想是什么？",
+        "es": "¿Cuál es tu sueño?"
+      },
+      {
+        "zh": "这个地方很理想。",
+        "es": "Este lugar es ideal."
+      },
+      {
+        "zh": "他的理想是成为一名医生。",
+        "es": "Su sueño es ser médico."
+      },
+      {
+        "zh": "为了实现理想，她每天都非常努力地学习。",
+        "es": "Para alcanzar su sueño, ella estudia con mucho esfuerzo todos los días."
+      }
+    ]
+  },
+  {
+    "word": "先进",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "avanzado",
+      "moderno, de punta",
+      "ejemplar"
+    ],
+    "examples": [
+      {
+        "zh": "这台电脑很先进。",
+        "es": "Esta computadora es muy avanzada."
+      },
+      {
+        "zh": "日本的技术很先进。",
+        "es": "La tecnología de Japón es muy avanzada."
+      },
+      {
+        "zh": "这家医院有很多先进的设备。",
+        "es": "Este hospital tiene muchos equipos modernos."
+      },
+      {
+        "zh": "为了发展经济，我们要学习外国的先进技术。",
+        "es": "Para desarrollar la economía, tenemos que aprender la tecnología avanzada de otros países."
+      }
+    ]
+  },
+  {
+    "word": "效果",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "efecto",
+      "resultado",
+      "eficacia",
+      "efectos (de sonido o visuales)"
+    ],
+    "examples": [
+      {
+        "zh": "效果很好。",
+        "es": "Da muy buenos resultados."
+      },
+      {
+        "zh": "这个办法效果不错。",
+        "es": "Este método funciona bastante bien."
+      },
+      {
+        "zh": "他学习很努力，但是效果不大。",
+        "es": "Él estudia mucho, pero no ve muchos resultados."
+      },
+      {
+        "zh": "这部电影的声音效果做得非常好。",
+        "es": "Los efectos de sonido de esta película están muy bien hechos."
+      }
+    ]
+  },
+  {
+    "word": "全体",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todos",
+      "la totalidad",
+      "todo el grupo"
+    ],
+    "examples": [
+      {
+        "zh": "全体学生都来了。",
+        "es": "Vinieron todos los estudiantes."
+      },
+      {
+        "zh": "请全体同学站起来。",
+        "es": "Todos los alumnos, pónganse de pie, por favor."
+      },
+      {
+        "zh": "全体人员明天早上八点开会。",
+        "es": "Todo el personal tiene reunión mañana a las ocho de la mañana."
+      },
+      {
+        "zh": "公司全体员工都参加了这次活动。",
+        "es": "Todo el personal de la empresa participó en esta actividad."
+      }
+    ]
+  }
+]

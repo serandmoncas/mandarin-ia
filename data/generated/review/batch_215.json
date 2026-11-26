@@ -1,0 +1,163 @@
+[
+  {
+    "id": "word:六",
+    "ok": true,
+    "issues": [],
+    "content_hash": "04e0381f8516fc72c718f63846a0f6d12e39bedf"
+  },
+  {
+    "id": "word:包",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, el pinyin de 东西 ('cosas') debe ser 'dōng xi' con tono neutro. 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "2e8ce4607b3f48c222b9da9c93ec7f09f6e7a64e"
+  },
+  {
+    "id": "word:一次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c9f3e3dba1e340dbdb16cfe9a20c2d3a95cf61a"
+  },
+  {
+    "id": "word:应",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af3e446ddffe242e5da542d7f8504875de2799b9"
+  },
+  {
+    "id": "word:无法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8477ae2d80bcedb8b14b882b707cc07bde33a8d0"
+  },
+  {
+    "id": "word:网友",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, el pinyin de 东西 ('cosas') debe ser 'dōng xi' con tono neutro, no 'dōng xī'."
+    ],
+    "content_hash": "fdaabdbd3fbfe6e6252c028d2f9ad7b259a2db38"
+  },
+  {
+    "id": "word:个人",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 1, el pinyin de 东西 ('cosas') debe ser 'dōng xi' con tono neutro, no 'dōng xī'.",
+      "La traducción 'Esto es una cosa personal mía' suena forzada. Es mejor 'Esto es algo mío, personal' o 'Son mis cosas personales'."
+    ],
+    "content_hash": "436e9d669fa37f29c62af6fae11113115433bf4f"
+  },
+  {
+    "id": "word:差",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8218cd9d9b51d4c797d59c32c8a1029071024362"
+  },
+  {
+    "id": "word:出去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "449387a86851827743a6f97dc2b9abb9c2ee283e"
+  },
+  {
+    "id": "word:便",
+    "ok": false,
+    "issues": [
+      "Tres de los cuatro ejemplos (方便, 方便, 顺便) no usan 便 como palabra independiente, sino dentro de compuestos. Esto puede confundir al estudiante sobre el uso de 便 solo. Solo el ejemplo 3 ilustra 便 = 就."
+    ],
+    "content_hash": "24d04eda4ef6d913b8d16b8e5741e5fd219cfb80"
+  },
+  {
+    "id": "word:党",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0dd8d772c745e4baa555b879d1127f92e585c36"
+  },
+  {
+    "id": "word:哥哥",
+    "ok": true,
+    "issues": [],
+    "content_hash": "264604df633702fd824c01674729b2a4b151ebcd"
+  },
+  {
+    "id": "word:坏",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, el pinyin de 东西 ('cosa') debe ser 'dōng xi' con tono neutro, no 'dōng xī'."
+    ],
+    "content_hash": "1b1652e9f17385ac9a317e5420f5d62c3f3369d2"
+  },
+  {
+    "id": "word:家人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0df5a0e0adaef7128d13c9b0f98b5f904e405a23"
+  },
+  {
+    "id": "word:昨天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "26242f0cd64a1befb0243ff72d3b45954e72376e"
+  },
+  {
+    "id": "word:环境",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5b59a8407489c9b8bdc15e1c088b349385af4176"
+  },
+  {
+    "id": "word:同学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a0e01b5271b53d73f9e15841598d1544bfddd4a"
+  },
+  {
+    "id": "word:一般",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8f3a7be8c73f2b3cddef59013ac637714115624"
+  },
+  {
+    "id": "word:小学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f03527d78aec22868dbb1758207dd2b1d30645aa"
+  },
+  {
+    "id": "word:早上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd4ba2bb873b3008d18cdffaac2a112c320b7bd1"
+  },
+  {
+    "id": "word:保护",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9260e21145d0bf41afc7a6c4db1bba94c4c8c8a4"
+  },
+  {
+    "id": "word:考试",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ba3a2c65c037bb0670fc94c196df4bc0e2e3b66"
+  },
+  {
+    "id": "word:网上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "617b60c2e591decc573420caf6e160806027755d"
+  },
+  {
+    "id": "word:提出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c18b8cafb4982e45570ae0236f96350e20f2df2e"
+  },
+  {
+    "id": "word:忘记",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a403f3d091a8a54c1cfc0b145bfba34062db2a5"
+  }
+]

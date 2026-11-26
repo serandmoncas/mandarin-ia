@@ -1,0 +1,426 @@
+[
+  {
+    "char": "待",
+    "components": [
+      {
+        "char": "彳",
+        "meaning_es": "paso, caminar"
+      },
+      {
+        "char": "寺",
+        "meaning_es": "templo"
+      }
+    ],
+    "mnemonic_es": "Caminas hasta el templo y te sientas en la puerta a esperar a tu amigo."
+  },
+  {
+    "char": "椅",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "奇",
+        "meaning_es": "extraño, raro"
+      }
+    ],
+    "mnemonic_es": "Un carpintero talló una silla de madera con una forma tan extraña que todos querían sentarse en ella."
+  },
+  {
+    "char": "秋",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, planta de grano"
+      },
+      {
+        "char": "火",
+        "meaning_es": "fuego"
+      }
+    ],
+    "mnemonic_es": "En otoño el trigo se pone dorado y rojizo, como si los campos de grano ardieran en fuego."
+  },
+  {
+    "char": "脏",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "carne, cuerpo (como radical)"
+      },
+      {
+        "char": "庄",
+        "meaning_es": "granja, aldea"
+      }
+    ],
+    "mnemonic_es": "Después de trabajar todo el día en la granja, tu cuerpo queda completamente sucio."
+  },
+  {
+    "char": "配",
+    "components": [
+      {
+        "char": "酉",
+        "meaning_es": "vasija de vino"
+      },
+      {
+        "char": "己",
+        "meaning_es": "uno mismo"
+      }
+    ],
+    "mnemonic_es": "Te sirves una vasija de vino y buscas la comida que combine con ella: así se arma la pareja perfecta."
+  },
+  {
+    "char": "凉",
+    "components": [
+      {
+        "char": "冫",
+        "meaning_es": "hielo"
+      },
+      {
+        "char": "京",
+        "meaning_es": "capital"
+      }
+    ],
+    "mnemonic_es": "Imagina la capital cubierta de hielo: en sus calles siempre se siente un aire fresco."
+  },
+  {
+    "char": "饱",
+    "components": [
+      {
+        "char": "饣",
+        "meaning_es": "comida"
+      },
+      {
+        "char": "包",
+        "meaning_es": "envolver, bolsa"
+      }
+    ],
+    "mnemonic_es": "Comiste tanta comida que tu panza quedó envuelta como una bolsa llena: ¡estás satisfecho!"
+  },
+  {
+    "char": "典",
+    "components": [
+      {
+        "char": "曲",
+        "meaning_es": "canción, curvo"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho"
+      }
+    ],
+    "mnemonic_es": "Un gran libro de canciones clásicas descansa sobre una mesa de patas abiertas como un 八: es una obra de referencia."
+  },
+  {
+    "char": "币",
+    "components": [
+      {
+        "char": "丿",
+        "meaning_es": "trazo inclinado"
+      },
+      {
+        "char": "巾",
+        "meaning_es": "tela, paño"
+      }
+    ],
+    "mnemonic_es": "Alguien saca un paño de tela y con un movimiento inclinado deja caer las monedas que tenía guardadas."
+  },
+  {
+    "char": "善",
+    "components": [
+      {
+        "char": "羊",
+        "meaning_es": "oveja"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Una oveja que solo abre la boca para decir cosas amables: es la persona más bondadosa del pueblo."
+  },
+  {
+    "char": "晴",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "青",
+        "meaning_es": "azul, verde"
+      }
+    ],
+    "mnemonic_es": "Sale el sol y el cielo se ve completamente azul: el día está despejado."
+  },
+  {
+    "char": "麻",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "techo, cobertizo"
+      },
+      {
+        "char": "林",
+        "meaning_es": "bosque, árboles"
+      }
+    ],
+    "mnemonic_es": "Bajo un cobertizo cuelgan manojos de cáñamo como un pequeño bosque; al tocarlos se te entumecen las manos."
+  },
+  {
+    "char": "烦",
+    "components": [
+      {
+        "char": "火",
+        "meaning_es": "fuego"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "Cuando algo te fastidia, sientes fuego en la cabeza: ¡qué molestia!"
+  },
+  {
+    "char": "饺",
+    "components": [
+      {
+        "char": "饣",
+        "meaning_es": "comida"
+      },
+      {
+        "char": "交",
+        "meaning_es": "cruzar, intercambiar"
+      }
+    ],
+    "mnemonic_es": "Una comida que se cierra cruzando los bordes de la masa: así se arman los ravioles chinos."
+  },
+  {
+    "char": "预",
+    "components": [
+      {
+        "char": "予",
+        "meaning_es": "dar, otorgar"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "Le das vueltas en la cabeza a algo antes de que pase: lo preparas por adelantado."
+  },
+  {
+    "char": "筷",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "快",
+        "meaning_es": "rápido"
+      }
+    ],
+    "mnemonic_es": "Dos varitas de bambú que se mueven rápido para llevar la comida a la boca: los palillos."
+  },
+  {
+    "char": "奇",
+    "components": [
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      },
+      {
+        "char": "可",
+        "meaning_es": "poder, posible"
+      }
+    ],
+    "mnemonic_es": "Una persona enorme dice que puede volar: ¡qué cosa tan extraña!"
+  },
+  {
+    "char": "怪",
+    "components": [
+      {
+        "char": "忄",
+        "meaning_es": "corazón"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "Una mano sale de la tierra y te da un susto en el corazón: ¡qué raro!"
+  },
+  {
+    "char": "退",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "艮",
+        "meaning_es": "detenerse, obstinado"
+      }
+    ],
+    "mnemonic_es": "Ibas caminando, te topas con un obstáculo terco que no se mueve, y no te queda más que retroceder."
+  },
+  {
+    "char": "血",
+    "components": [
+      {
+        "char": "丿",
+        "meaning_es": "gota"
+      },
+      {
+        "char": "皿",
+        "meaning_es": "recipiente, plato"
+      }
+    ],
+    "mnemonic_es": "Una gota cae dentro de un recipiente: es sangre."
+  },
+  {
+    "char": "猪",
+    "components": [
+      {
+        "char": "犭",
+        "meaning_es": "animal (radical de perro)"
+      },
+      {
+        "char": "者",
+        "meaning_es": "el que, persona"
+      }
+    ],
+    "mnemonic_es": "El animal que es el que más come en la granja: el cerdo."
+  },
+  {
+    "char": "朝",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna"
+      }
+    ],
+    "mnemonic_es": "El sol asoma entre la hierba mientras la luna todavía se ve en el cielo: es la mañana temprano."
+  },
+  {
+    "char": "姑",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "古",
+        "meaning_es": "antiguo"
+      }
+    ],
+    "mnemonic_es": "La mujer que conoce las historias antiguas de la familia: la tía que siempre las cuenta."
+  },
+  {
+    "char": "娘",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "良",
+        "meaning_es": "bueno"
+      }
+    ],
+    "mnemonic_es": "Una mujer buena y amable: así se describe a la muchacha (姑娘) del cuento."
+  },
+  {
+    "char": "升",
+    "components": [
+      {
+        "char": "升",
+        "meaning_es": "subir, elevar; litro"
+      }
+    ],
+    "mnemonic_es": "Imagina el carácter como una escalera con un trazo que se inclina hacia arriba: todo en él quiere subir."
+  },
+  {
+    "char": "屋",
+    "components": [
+      {
+        "char": "尸",
+        "meaning_es": "cuerpo, techo"
+      },
+      {
+        "char": "至",
+        "meaning_es": "llegar"
+      }
+    ],
+    "mnemonic_es": "Llegas por fin bajo un techo donde descansar el cuerpo: estás en casa."
+  },
+  {
+    "char": "舞",
+    "components": [
+      {
+        "char": "無",
+        "meaning_es": "nada, sin (aquí sin sus puntos de fuego)"
+      },
+      {
+        "char": "舛",
+        "meaning_es": "pies en direcciones opuestas"
+      }
+    ],
+    "mnemonic_es": "Alguien mueve los pies hacia lados opuestos sin parar, sin pensar en nada más: está bailando."
+  },
+  {
+    "char": "防",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina, muro"
+      },
+      {
+        "char": "方",
+        "meaning_es": "dirección, lado"
+      }
+    ],
+    "mnemonic_es": "Levantas un muro de tierra en cada dirección para defenderte de los ataques."
+  },
+  {
+    "char": "浪",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "良",
+        "meaning_es": "bueno"
+      }
+    ],
+    "mnemonic_es": "Agua que se ve buena para surfear: una ola grande."
+  },
+  {
+    "char": "庆",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "techo, edificio"
+      },
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo enorme se reúne mucha gente para una gran celebración."
+  }
+]

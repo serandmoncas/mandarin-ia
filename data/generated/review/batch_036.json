@@ -1,0 +1,161 @@
+[
+  {
+    "id": "word:可是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e14e5b46e38076ffe8316a19b18eebec4db6d799"
+  },
+  {
+    "id": "word:联系",
+    "ok": true,
+    "issues": [],
+    "content_hash": "71354d9d7fba344128cae42f46136d071ac21406"
+  },
+  {
+    "id": "word:本子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5fa8ce648af7437a1592d9d8e7118deccec3b603"
+  },
+  {
+    "id": "word:米",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: en 有五百米长, 长 se lee cháng (longitud), no zhǎng; el pinyin correcto es 'wǔ bǎi mǐ cháng'."
+    ],
+    "content_hash": "c453bb3e69b21da6bf17c82bdbf5d19af9ec57fd"
+  },
+  {
+    "id": "word:米饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef7d7d29f9aa2b20830cf4682223995221eba926"
+  },
+  {
+    "id": "word:母亲",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d40ad11423be271fa2fe9dc71e1bb850044f32f8"
+  },
+  {
+    "id": "word:请假",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a1b70b1a4b0f5b1af3897d5328d4bad9d779c64"
+  },
+  {
+    "id": "word:全",
+    "ok": true,
+    "issues": [],
+    "content_hash": "430c6423e601795378168f3371109f188a44afcd"
+  },
+  {
+    "id": "word:里边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "958c14f115176f031e7d988ab8ff3c7f15995f15"
+  },
+  {
+    "id": "word:改革",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el complemento 得 de 发展得很快 se lee de (tono neutro), no dé."
+    ],
+    "content_hash": "8c9223ccad6f53a6cef77a0b5ded1aeb58884401"
+  },
+  {
+    "id": "word:系列",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99bd3de7ee2b96a2c7c8e3c6736d58a4ea0e644b"
+  },
+  {
+    "id": "word:书包",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc4c300d9f137ec70076f3d6c68bf89507470743"
+  },
+  {
+    "id": "word:洗手间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "880508b1113a3f2f806f1b3e42fc70108c3b71ef"
+  },
+  {
+    "id": "word:不仅",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2f17ef0552137ec4be208af3e915fe3f08974185"
+  },
+  {
+    "id": "word:后边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "907ff781f21fca4f9d23f7de88f9640b3be82a9d"
+  },
+  {
+    "id": "word:后来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14657ec4bd6da45ace8fae2ac6b3ddf94235d25e"
+  },
+  {
+    "id": "word:女孩儿",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 女孩儿 se pronuncia con erhua, 'nǚ háir', no 'nǚ hái ér' como sílaba aparte.",
+      "Ejemplo 3: el complemento 得 de 笑得很好看 se lee de (tono neutro), no dé."
+    ],
+    "content_hash": "f8fb59bfb0d4ac0c2dae7ed06c2b356f9f7dd42e"
+  },
+  {
+    "id": "word:确定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5415e1670e425a32588590992f7512f96d6889c4"
+  },
+  {
+    "id": "word:生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b40ff5cf20eb84487f2f91303fc837fd7215918"
+  },
+  {
+    "id": "word:一块儿",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 一块儿 se pronuncia con erhua, 'yí kuàir', no 'yī kuài ér' con ér como sílaba aparte."
+    ],
+    "content_hash": "1784cfb8d3d425c557bce8ebaa42eaf536f4665b"
+  },
+  {
+    "id": "word:前天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14f5426e94d874e97b3b8d3d7ac7aa136904ba0c"
+  },
+  {
+    "id": "word:意见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7c0ea63a385975a2cdb8927fddd3f957dd33165"
+  },
+  {
+    "id": "word:包子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "594c48e8efe1bdabdf33c6fa7306c5f5509451bb"
+  },
+  {
+    "id": "word:人物",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89d8eb57f32443336a8268412e21158125160618"
+  },
+  {
+    "id": "word:打车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9020aada7c192dca23d4f6df64312b01b19fa29"
+  }
+]

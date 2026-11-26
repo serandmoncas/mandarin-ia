@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:亚洲",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 都 aparece como «dū»; en este uso debe ser «dōu»."
+    ],
+    "content_hash": "ce87e49d61a6edba1e11b092b59f36053e74e4c3"
+  },
+  {
+    "id": "word:唯一",
+    "ok": true,
+    "issues": [],
+    "content_hash": "276c98733e124e24b0b72f54c0e261a9f0d2d278"
+  },
+  {
+    "id": "word:居民",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «colonia» es un regionalismo mexicano. En español neutro, 社区 se traduce mejor como «comunidad» o «barrio»."
+    ],
+    "content_hash": "670e4ccaf545960814f887ec909e579aa1cfbc7a"
+  },
+  {
+    "id": "word:所谓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a1c14bc17aeff92c2ba22f2b328986ebe02dbf98"
+  },
+  {
+    "id": "word:真是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "917125726f655a6883b751533b70d3790fbe789d"
+  },
+  {
+    "id": "word:统一",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 得 (partícula de complemento) aparece como «dé»; debe ser «de», en tono neutro."
+    ],
+    "content_hash": "2afbfea70030a2cfe6e3f3bf7df30d4e1abe94cc"
+  },
+  {
+    "id": "word:而是",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 哥哥 aparece como «gē gē»; la segunda sílaba es átona y debe ser «gē ge»."
+    ],
+    "content_hash": "dd28e12149aa1c31e3879dbfc87587a4862f8b85"
+  },
+  {
+    "id": "word:肯定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33ed3928d785befcefa46b90c69a1eabd8885caf"
+  },
+  {
+    "id": "word:低",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 妈妈 aparece como «mā mā»; la segunda sílaba es átona y debe ser «mā ma»."
+    ],
+    "content_hash": "86ec4e14bd7a7bf4283d165487578445cc56b5e9"
+  },
+  {
+    "id": "word:明显",
+    "ok": true,
+    "issues": [],
+    "content_hash": "15a8a2441d8c92df4bc004fa7d5dc80c98b7f967"
+  },
+  {
+    "id": "word:目的",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5fc446548d97f208de923ff74b0b6d561704f9b1"
+  },
+  {
+    "id": "word:拍",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 1 y 4: 照片 aparece como «zhào piān»; debe ser «zhào piàn».",
+      "Pinyin del ejemplo 3: 妈妈 aparece como «mā mā»; debe ser «mā ma»."
+    ],
+    "content_hash": "e84d926107d36ea03ac2a2eeb904c4e4da0e298f"
+  },
+  {
+    "id": "word:确实",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 得 en 说得对 aparece como «dé»; debe ser «de», en tono neutro."
+    ],
+    "content_hash": "67c9eb1cfad904231dcac5f334a10e9f5a405d69"
+  },
+  {
+    "id": "word:系",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 姐姐 aparece como «jiě jiě»; la segunda sílaba es átona y debe ser «jiě jie»."
+    ],
+    "content_hash": "2a08fc706baadaab756dbada6012d2d6750ddfba"
+  },
+  {
+    "id": "word:现场",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «报告新闻» suena poco natural. Lo habitual es «记者在现场报道新闻» o «记者在现场进行报道»."
+    ],
+    "content_hash": "6b60718055b279406879d4ed5cd8c3e9604c1e13"
+  },
+  {
+    "id": "word:现象",
+    "ok": true,
+    "issues": [],
+    "content_hash": "044ecbd8c535eb00c61ea563f623afc60d73c87b"
+  },
+  {
+    "id": "word:重新",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb04192fd7bf65d888055308caf85eaeb9cd7e12"
+  },
+  {
+    "id": "word:且",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9bdfe9ed24bb845edbb7c35e868c3d4e106d3f5e"
+  },
+  {
+    "id": "word:人士",
+    "ok": true,
+    "issues": [],
+    "content_hash": "04998ed611ade4c88209f44c2f30410a2b86bdc8"
+  },
+  {
+    "id": "word:军队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d4a980b611c33bdaff9bc2237ffbfa2e47e9118"
+  },
+  {
+    "id": "word:大陆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0fbfd25bc3ec310fa9024785ae083ea6eef0ee4e"
+  },
+  {
+    "id": "word:官员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76bd4c0b7ef8656ac9ed47282d9c6da4053a88c1"
+  },
+  {
+    "id": "word:引起",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed50d9b6fb8c45c2c717ea99a951f49850c48cba"
+  },
+  {
+    "id": "word:稳定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97e42c52db10d9f463d0750c92294a73ab613e25"
+  },
+  {
+    "id": "word:加强",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63a1ddf17d10116e5d4d554272ac09c0cb432798"
+  }
+]

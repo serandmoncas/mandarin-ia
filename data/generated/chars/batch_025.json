@@ -1,0 +1,430 @@
+[
+  {
+    "char": "练",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo de seda"
+      },
+      {
+        "char": "东",
+        "meaning_es": "este (punto cardinal)"
+      }
+    ],
+    "mnemonic_es": "Imagina a una tejedora que cada mañana, mirando al este, practica con su hilo de seda hasta dominarlo: así se entrena."
+  },
+  {
+    "char": "脸",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "carne, cuerpo"
+      },
+      {
+        "char": "佥",
+        "meaning_es": "todos, juntos"
+      }
+    ],
+    "mnemonic_es": "La cara es la parte del cuerpo donde todos los rasgos se juntan: ojos, nariz y boca reunidos en un mismo lugar."
+  },
+  {
+    "char": "换",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "奂",
+        "meaning_es": "esplendoroso, vistoso"
+      }
+    ],
+    "mnemonic_es": "Con la mano entregas algo viejo y recibes algo vistoso: eso es cambiar o intercambiar."
+  },
+  {
+    "char": "普",
+    "components": [
+      {
+        "char": "並",
+        "meaning_es": "lado a lado, juntos"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      }
+    ],
+    "mnemonic_es": "Piensa en el sol brillando sobre todos, que están lado a lado: su luz es general, universal, para todo el mundo."
+  },
+  {
+    "char": "疗",
+    "components": [
+      {
+        "char": "疒",
+        "meaning_es": "enfermedad"
+      },
+      {
+        "char": "了",
+        "meaning_es": "terminar, acabar"
+      }
+    ],
+    "mnemonic_es": "Curar es hacer que la enfermedad se termine: el tratamiento le pone punto final al malestar."
+  },
+  {
+    "char": "收",
+    "components": [
+      {
+        "char": "丩",
+        "meaning_es": "enroscado, enredado"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear, acción con la mano"
+      }
+    ],
+    "mnemonic_es": "Imagina que con un golpecito de la mano juntas las cosas enredadas y las guardas: así se recoge o se recibe."
+  },
+  {
+    "char": "志",
+    "components": [
+      {
+        "char": "士",
+        "meaning_es": "guerrero, persona instruida"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Un guerrero parado sobre su corazón: tiene voluntad firme y una aspiración clara."
+  },
+  {
+    "char": "宗",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "示",
+        "meaning_es": "altar, mostrar"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo de la casa está el altar de la familia: ahí se honra a los ancestros, al clan y a la religión."
+  },
+  {
+    "char": "漂",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "票",
+        "meaning_es": "boleto"
+      }
+    ],
+    "mnemonic_es": "Se te cae el boleto al agua y se queda flotando a la deriva; y como 漂亮, ¡qué bonito se ve flotando!"
+  },
+  {
+    "char": "亮",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "cubierta"
+      },
+      {
+        "char": "几",
+        "meaning_es": "mesita"
+      }
+    ],
+    "mnemonic_es": "Imagina una torre alta con una lámpara sobre una mesita en la cima: se ve brillante y luminosa desde lejos."
+  },
+  {
+    "char": "往",
+    "components": [
+      {
+        "char": "彳",
+        "meaning_es": "paso, caminar"
+      },
+      {
+        "char": "主",
+        "meaning_es": "dueño, señor"
+      }
+    ],
+    "mnemonic_es": "Das pasos en dirección a donde está tu dueño: vas hacia él."
+  },
+  {
+    "char": "逐",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "豕",
+        "meaning_es": "cerdo"
+      }
+    ],
+    "mnemonic_es": "Vas caminando detrás de un cerdo para atraparlo: lo persigues poco a poco, paso a paso."
+  },
+  {
+    "char": "渐",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "车",
+        "meaning_es": "vehículo, carreta"
+      },
+      {
+        "char": "斤",
+        "meaning_es": "hacha"
+      }
+    ],
+    "mnemonic_es": "El agua va gastando la carreta y el hacha, gota a gota: el cambio ocurre gradualmente."
+  },
+  {
+    "char": "销",
+    "components": [
+      {
+        "char": "钅",
+        "meaning_es": "metal"
+      },
+      {
+        "char": "肖",
+        "meaning_es": "parecerse, pequeño"
+      }
+    ],
+    "mnemonic_es": "Imagina un vendedor que convierte el metal en monedas pequeñitas que se parecen entre sí: así vende y hace circular la mercancía."
+  },
+  {
+    "char": "售",
+    "components": [
+      {
+        "char": "隹",
+        "meaning_es": "pájaro"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Un pájaro abre la boca en el mercado y canta su oferta: ¡está vendiendo!"
+  },
+  {
+    "char": "附",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina"
+      },
+      {
+        "char": "付",
+        "meaning_es": "pagar, entregar"
+      }
+    ],
+    "mnemonic_es": "Junto a la colina entregas un paquete con un documento adjunto: algo pegado o cercano a otra cosa."
+  },
+  {
+    "char": "园",
+    "components": [
+      {
+        "char": "囗",
+        "meaning_es": "recinto, cerca"
+      },
+      {
+        "char": "元",
+        "meaning_es": "origen, principio"
+      }
+    ],
+    "mnemonic_es": "Dentro de una cerca está el origen de todas las plantas: un jardín o un parque."
+  },
+  {
+    "char": "惯",
+    "components": [
+      {
+        "char": "忄",
+        "meaning_es": "corazón, sentimiento"
+      },
+      {
+        "char": "贯",
+        "meaning_es": "atravesar, ensartar"
+      }
+    ],
+    "mnemonic_es": "Lo que se repite tanto que atraviesa tu corazón de lado a lado se vuelve costumbre."
+  },
+  {
+    "char": "推",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "隹",
+        "meaning_es": "pájaro"
+      }
+    ],
+    "mnemonic_es": "Con la mano empujas suavemente al pajarito fuera del nido para que vuele: eso es empujar."
+  },
+  {
+    "char": "卡",
+    "components": [
+      {
+        "char": "上",
+        "meaning_es": "arriba"
+      },
+      {
+        "char": "下",
+        "meaning_es": "abajo"
+      }
+    ],
+    "mnemonic_es": "Algo atorado entre arriba y abajo no se mueve: se atasca, como una tarjeta trabada en el cajero."
+  },
+  {
+    "char": "效",
+    "components": [
+      {
+        "char": "交",
+        "meaning_es": "intercambiar, cruzar"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear, acción"
+      }
+    ],
+    "mnemonic_es": "Cuando intercambias ideas y luego actúas con fuerza, ves el efecto: el resultado funciona."
+  },
+  {
+    "char": "云",
+    "components": [
+      {
+        "char": "云",
+        "meaning_es": "nube"
+      }
+    ],
+    "mnemonic_es": "Imagina las dos rayitas de arriba como el cielo y el trazo de abajo como una nubecita que se enrosca flotando."
+  },
+  {
+    "char": "童",
+    "components": [
+      {
+        "char": "立",
+        "meaning_es": "pararse, estar de pie"
+      },
+      {
+        "char": "里",
+        "meaning_es": "aldea, pueblo"
+      }
+    ],
+    "mnemonic_es": "Un niño parado en medio de la aldea, jugando y mirando todo con curiosidad."
+  },
+  {
+    "char": "允",
+    "components": [
+      {
+        "char": "厶",
+        "meaning_es": "propio, privado"
+      },
+      {
+        "char": "儿",
+        "meaning_es": "persona, piernas"
+      }
+    ],
+    "mnemonic_es": "Una persona levanta la cabeza y asiente con lo suyo: está permitiendo o dando su consentimiento."
+  },
+  {
+    "char": "周",
+    "components": [
+      {
+        "char": "冂",
+        "meaning_es": "marco, borde"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Un marco que rodea la tierra y a la gente: todo alrededor, como una semana que da la vuelta completa."
+  },
+  {
+    "char": "嘛",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "麻",
+        "meaning_es": "cáñamo; adormecido"
+      }
+    ],
+    "mnemonic_es": "Tienes la boca adormecida y solo te sale un ¡pues claro, ma! al final de la frase: es una partícula de énfasis."
+  },
+  {
+    "char": "败",
+    "components": [
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear"
+      }
+    ],
+    "mnemonic_es": "Alguien golpea y rompe tu concha de dinero: perdiste todo, es una derrota."
+  },
+  {
+    "char": "略",
+    "components": [
+      {
+        "char": "田",
+        "meaning_es": "campo"
+      },
+      {
+        "char": "各",
+        "meaning_es": "cada uno"
+      }
+    ],
+    "mnemonic_es": "Para repartir el campo a cada uno necesitas una estrategia; y si lo haces a la rápida, lo haces solo a grandes rasgos."
+  },
+  {
+    "char": "授",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "受",
+        "meaning_es": "recibir"
+      }
+    ],
+    "mnemonic_es": "Con tu mano das para que otro reciba: así se otorga algo o se enseña un conocimiento."
+  },
+  {
+    "char": "王",
+    "components": [
+      {
+        "char": "王",
+        "meaning_es": "rey"
+      }
+    ],
+    "mnemonic_es": "Imagina tres líneas como cielo, gente y tierra, y un trazo vertical que las une: el rey que conecta todo."
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "word:人生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b61843c5b71fc51e8080cebd41e1d0454379961"
+  },
+  {
+    "id": "word:食品",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3f9fb8746e617e4a5eab63ce16f21d2ebfa5efd"
+  },
+  {
+    "id": "word:双",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77bfd5ba4967950339956fd1cdb16194f5368ae2"
+  },
+  {
+    "id": "word:推进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "88ec2da2052b685b6457109b31517b4bf0b82796"
+  },
+  {
+    "id": "word:南方",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d898b9a166a3db2cf3b8f291dc3af2197be62570"
+  },
+  {
+    "id": "word:文明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69bb0b3085fc28f4540b4fcf539c627966fb12e8"
+  },
+  {
+    "id": "word:夏天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "242f7a868b717915b1bf953edf1b1a7e4da28e49"
+  },
+  {
+    "id": "word:道理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "035736aa16e84c4d0e1d8d989b4eb384fde209a2"
+  },
+  {
+    "id": "word:例子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af117974bef7f291a8134ee021e63ddc995ba5a9"
+  },
+  {
+    "id": "word:味道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2efde00837f60369acba8718651c948b562d568f"
+  },
+  {
+    "id": "word:制定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "097480efaf60ea8ab8a22e7350b12c60c679c433"
+  },
+  {
+    "id": "word:温度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ca0cf0ab753eb4c4f2007eb8271715cfe11e153"
+  },
+  {
+    "id": "word:差不多",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02bd0718d05c8cffb2a4c6b9520de6cbfdc603d9"
+  },
+  {
+    "id": "word:表达",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a31a3c400048259fc6a9a779d635023bf2e448c"
+  },
+  {
+    "id": "word:顾客",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3bda07c8a3a15366ddab772c8b0506586da2bb7c"
+  },
+  {
+    "id": "word:村",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86e697b3e772619abb392d78cb64fc4235b1cb43"
+  },
+  {
+    "id": "word:蓝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3b8cafe1f575245a5f091ba2d950399d4446cdd"
+  },
+  {
+    "id": "word:感受",
+    "ok": true,
+    "issues": [],
+    "content_hash": "045922a8900e78d62c0e9137e701cb4e9512045b"
+  },
+  {
+    "id": "word:难过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d8eaf54fdf3fc39c397f04f502b6657f866e7b07"
+  },
+  {
+    "id": "word:光",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a9f8c705ea16063ccc3d5518eb0aa9999163858f"
+  },
+  {
+    "id": "word:白色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9218a8929d30f691fc81c3e9bb6c6ceea415f5b4"
+  },
+  {
+    "id": "word:害怕",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2c507373eb7cdcff10575e5d937fc3e4faf6014"
+  },
+  {
+    "id": "word:长大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7823e842fd71462166e4536c7d12b788f56d721c"
+  },
+  {
+    "id": "word:月份",
+    "ok": false,
+    "issues": [
+      "«这个月份天气很热» es poco natural: para referirse al mes en curso se dice «这个月天气很热»; 月份 se usa más para meses en general o en listas/formularios.",
+      "«请在这里写上日期和月份»: 日期 es «la fecha» (que ya incluye el mes), no «el día»; la traducción es inexacta y la frase china resulta redundante. Mejor algo como «请在这里写上年份和月份» (año y mes)."
+    ],
+    "content_hash": "1b459ff1589e4f298b644efa18064f6dd1f483c3"
+  },
+  {
+    "id": "word:背",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c68e2d4884ffdbe7133f37c2126458e3de7b4e4b"
+  }
+]

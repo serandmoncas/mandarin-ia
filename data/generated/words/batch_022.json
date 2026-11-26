@@ -1,0 +1,534 @@
+[
+  {
+    "word": "有关",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "relacionado con",
+      "tener que ver con",
+      "sobre, acerca de"
+    ],
+    "examples": [
+      {
+        "zh": "这件事跟我有关。",
+        "es": "Este asunto tiene que ver conmigo."
+      },
+      {
+        "zh": "我想看有关中国的书。",
+        "es": "Quiero leer libros sobre China."
+      },
+      {
+        "zh": "这个问题和经济有关。",
+        "es": "Este problema está relacionado con la economía."
+      },
+      {
+        "zh": "他在大学研究有关历史的问题。",
+        "es": "En la universidad investiga temas relacionados con la historia."
+      }
+    ]
+  },
+  {
+    "word": "高兴",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "contento",
+      "feliz, alegre",
+      "con gusto"
+    ],
+    "examples": [
+      {
+        "zh": "我今天很高兴。",
+        "es": "Hoy estoy muy contento."
+      },
+      {
+        "zh": "认识你很高兴。",
+        "es": "Mucho gusto en conocerte."
+      },
+      {
+        "zh": "妈妈看到我回家，非常高兴。",
+        "es": "Mi mamá se puso muy feliz al verme llegar a casa."
+      },
+      {
+        "zh": "他知道自己找到工作以后，高兴得说不出话来。",
+        "es": "Cuando supo que había conseguido trabajo, estaba tan feliz que no podía ni hablar."
+      }
+    ]
+  },
+  {
+    "word": "国内",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nacional",
+      "dentro del país",
+      "interno"
+    ],
+    "examples": [
+      {
+        "zh": "他们在国内很有名。",
+        "es": "Ellos son muy famosos en el país."
+      },
+      {
+        "zh": "国内的新闻我每天都看。",
+        "es": "Veo las noticias nacionales todos los días."
+      },
+      {
+        "zh": "现在国内的电影越来越好看。",
+        "es": "Ahora las películas nacionales son cada vez mejores."
+      },
+      {
+        "zh": "这个问题不只是国内的问题，也是国际问题。",
+        "es": "Este problema no es solo nacional, también es internacional."
+      }
+    ]
+  },
+  {
+    "word": "喝",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tomar (una bebida)",
+      "beber"
+    ],
+    "examples": [
+      {
+        "zh": "我想喝水。",
+        "es": "Quiero tomar agua."
+      },
+      {
+        "zh": "你要喝点什么？",
+        "es": "¿Qué quieres tomar?"
+      },
+      {
+        "zh": "晚上不要喝太多茶。",
+        "es": "En la noche no tomes demasiado té."
+      },
+      {
+        "zh": "医生说他身体不好，最好不要喝酒。",
+        "es": "El doctor dijo que su salud no está bien y que mejor no tome alcohol."
+      }
+    ]
+  },
+  {
+    "word": "然后",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "luego",
+      "después",
+      "y entonces"
+    ],
+    "examples": [
+      {
+        "zh": "我们先吃饭，然后去看电影。",
+        "es": "Primero comemos y luego vamos al cine."
+      },
+      {
+        "zh": "他先去北京，然后去上海。",
+        "es": "Primero va a Pekín y después a Shanghái."
+      },
+      {
+        "zh": "你先打开电脑，然后找到这个网站。",
+        "es": "Primero enciende la computadora y luego busca este sitio web."
+      },
+      {
+        "zh": "她先在香港学习了三年，然后回到台湾工作。",
+        "es": "Primero estudió tres años en Hong Kong y luego volvió a Taiwán a trabajar."
+      }
+    ]
+  },
+  {
+    "word": "来到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llegar",
+      "venir a"
+    ],
+    "examples": [
+      {
+        "zh": "欢迎来到中国！",
+        "es": "¡Bienvenidos a China!"
+      },
+      {
+        "zh": "他昨天来到北京。",
+        "es": "Llegó a Pekín ayer."
+      },
+      {
+        "zh": "我来到这个城市已经三年了。",
+        "es": "Ya hace tres años que llegué a esta ciudad."
+      },
+      {
+        "zh": "很多年轻人来到大城市找工作。",
+        "es": "Muchos jóvenes llegan a las grandes ciudades a buscar trabajo."
+      }
+    ]
+  },
+  {
+    "word": "总",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siempre",
+      "total, general",
+      "de todos modos, tarde o temprano",
+      "director (tras un apellido)"
+    ],
+    "examples": [
+      {
+        "zh": "他总是很忙。",
+        "es": "Siempre está muy ocupado."
+      },
+      {
+        "zh": "你总说没有时间。",
+        "es": "Siempre dices que no tienes tiempo."
+      },
+      {
+        "zh": "这个问题总会有办法的。",
+        "es": "Tarde o temprano habrá una solución para este problema."
+      },
+      {
+        "zh": "王总说明天下午要来我们公司开会。",
+        "es": "El director Wang dijo que mañana en la tarde viene a nuestra empresa para una reunión."
+      }
+    ]
+  },
+  {
+    "word": "中学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escuela secundaria",
+      "secundaria y preparatoria (educación media)"
+    ],
+    "examples": [
+      {
+        "zh": "他是中学老师。",
+        "es": "Es maestro de secundaria."
+      },
+      {
+        "zh": "我儿子今年上中学了。",
+        "es": "Mi hijo entró a la secundaria este año."
+      },
+      {
+        "zh": "我们是中学的时候认识的。",
+        "es": "Nos conocimos en la secundaria."
+      },
+      {
+        "zh": "这所中学离我家很远，每天要坐一个小时车。",
+        "es": "Esta secundaria queda muy lejos de mi casa; todos los días hago una hora de camino."
+      }
+    ]
+  },
+  {
+    "word": "委员会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comité",
+      "comisión"
+    ],
+    "examples": [
+      {
+        "zh": "她在委员会工作。",
+        "es": "Trabaja en el comité."
+      },
+      {
+        "zh": "委员会明天开会。",
+        "es": "El comité se reúne mañana."
+      },
+      {
+        "zh": "这个问题由委员会决定。",
+        "es": "Este asunto lo decide el comité."
+      },
+      {
+        "zh": "学校建立了一个委员会来研究学生的安全问题。",
+        "es": "La escuela creó un comité para estudiar la seguridad de los estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "热",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "caliente",
+      "caluroso (hacer calor)",
+      "calentar",
+      "calor"
+    ],
+    "examples": [
+      {
+        "zh": "今天很热。",
+        "es": "Hoy hace mucho calor."
+      },
+      {
+        "zh": "水太热了，别喝。",
+        "es": "El agua está demasiado caliente, no la tomes."
+      },
+      {
+        "zh": "你的饭我已经热好了。",
+        "es": "Ya te calenté la comida."
+      },
+      {
+        "zh": "北京的夏天很热，但是冬天非常冷。",
+        "es": "En Pekín el verano es muy caluroso, pero el invierno es muy frío."
+      }
+    ]
+  },
+  {
+    "word": "选择",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "elegir, escoger",
+      "opción",
+      "elección, decisión"
+    ],
+    "examples": [
+      {
+        "zh": "你选择哪个？",
+        "es": "¿Cuál eliges?"
+      },
+      {
+        "zh": "我们没有别的选择。",
+        "es": "No tenemos otra opción."
+      },
+      {
+        "zh": "他选择了一所离家很近的大学。",
+        "es": "Eligió una universidad cerca de su casa."
+      },
+      {
+        "zh": "这是我自己的选择，希望大家能支持我。",
+        "es": "Es mi propia decisión; espero que todos me apoyen."
+      }
+    ]
+  },
+  {
+    "word": "山",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "montaña",
+      "cerro"
+    ],
+    "examples": [
+      {
+        "zh": "那座山很高。",
+        "es": "Esa montaña es muy alta."
+      },
+      {
+        "zh": "我们明天去爬山吧。",
+        "es": "Vamos a subir a la montaña mañana."
+      },
+      {
+        "zh": "我家后面有一座小山。",
+        "es": "Detrás de mi casa hay un cerro."
+      },
+      {
+        "zh": "山上的天气变化很快，最好多带一件衣服。",
+        "es": "En la montaña el clima cambia muy rápido; mejor lleva ropa extra."
+      }
+    ]
+  },
+  {
+    "word": "那个",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ese, esa, aquel",
+      "eso",
+      "este... (muletilla al hablar)"
+    ],
+    "examples": [
+      {
+        "zh": "那个人是谁？",
+        "es": "¿Quién es esa persona?"
+      },
+      {
+        "zh": "我不要这个，我要那个。",
+        "es": "No quiero este, quiero ese."
+      },
+      {
+        "zh": "你还记得那个电影的名字吗？",
+        "es": "¿Todavía recuerdas el nombre de esa película?"
+      },
+      {
+        "zh": "那个……我想问你一个问题，可以吗？",
+        "es": "Este... ¿te puedo hacer una pregunta?"
+      }
+    ]
+  },
+  {
+    "word": "北",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "norte"
+    ],
+    "examples": [
+      {
+        "zh": "风从北边来。",
+        "es": "El viento viene del norte."
+      },
+      {
+        "zh": "学校在城市的北边。",
+        "es": "La escuela está en el norte de la ciudad."
+      },
+      {
+        "zh": "从这里往北走五分钟就到了。",
+        "es": "Desde aquí caminas cinco minutos hacia el norte y llegas."
+      },
+      {
+        "zh": "中国北方的冬天很冷，南方就没那么冷。",
+        "es": "En el norte de China el invierno es muy frío; en el sur no tanto."
+      }
+    ]
+  },
+  {
+    "word": "管理",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "administrar",
+      "dirigir, gestionar",
+      "administración"
+    ],
+    "examples": [
+      {
+        "zh": "他管理这家公司。",
+        "es": "Él dirige esta empresa."
+      },
+      {
+        "zh": "我在大学学习管理。",
+        "es": "Estudio administración en la universidad."
+      },
+      {
+        "zh": "孩子的钱由妈妈管理。",
+        "es": "El dinero del niño lo administra su mamá."
+      },
+      {
+        "zh": "这个系统让学校可以更好地管理学生的资料。",
+        "es": "Este sistema permite a la escuela administrar mejor los datos de los estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "记者",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "periodista",
+      "reportero"
+    ],
+    "examples": [
+      {
+        "zh": "她是记者。",
+        "es": "Ella es periodista."
+      },
+      {
+        "zh": "我爸爸是一个新闻记者。",
+        "es": "Mi papá es reportero de noticias."
+      },
+      {
+        "zh": "记者问了他很多问题。",
+        "es": "El periodista le hizo muchas preguntas."
+      },
+      {
+        "zh": "很多记者在机场等了三个小时，想见她一面。",
+        "es": "Muchos periodistas esperaron tres horas en el aeropuerto para verla."
+      }
+    ]
+  },
+  {
+    "word": "家里",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en casa",
+      "la casa, el hogar",
+      "la familia"
+    ],
+    "examples": [
+      {
+        "zh": "我在家里。",
+        "es": "Estoy en casa."
+      },
+      {
+        "zh": "家里有人吗？",
+        "es": "¿Hay alguien en casa?"
+      },
+      {
+        "zh": "今天晚上我们在家里吃饭。",
+        "es": "Hoy en la noche cenamos en casa."
+      },
+      {
+        "zh": "家里的事情太多，他已经两天没去公司了。",
+        "es": "Tiene demasiados asuntos familiares; ya lleva dos días sin ir a la oficina."
+      }
+    ]
+  },
+  {
+    "word": "进入",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrar",
+      "ingresar"
+    ],
+    "examples": [
+      {
+        "zh": "请不要进入。",
+        "es": "Por favor, no entrar."
+      },
+      {
+        "zh": "只有老师可以进入这个地方。",
+        "es": "Solo los maestros pueden entrar a este lugar."
+      },
+      {
+        "zh": "他今年进入大学学习。",
+        "es": "Este año ingresó a la universidad."
+      },
+      {
+        "zh": "很多外国公司已经进入了中国市场。",
+        "es": "Muchas empresas extranjeras ya entraron al mercado chino."
+      }
+    ]
+  },
+  {
+    "word": "页",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "página",
+      "hoja"
+    ],
+    "examples": [
+      {
+        "zh": "请看第十页。",
+        "es": "Por favor, miren la página diez."
+      },
+      {
+        "zh": "这本书有三百页。",
+        "es": "Este libro tiene trescientas páginas."
+      },
+      {
+        "zh": "我每天晚上读二十页书。",
+        "es": "Leo veinte páginas todas las noches."
+      },
+      {
+        "zh": "这个问题的答案在书的最后一页，你自己找吧。",
+        "es": "La respuesta a esta pregunta está en la última página del libro; búscala tú mismo."
+      }
+    ]
+  },
+  {
+    "word": "领导",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jefe, líder",
+      "dirigir, liderar",
+      "liderazgo"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们的领导。",
+        "es": "Él es nuestro jefe."
+      },
+      {
+        "zh": "明天领导要来学校。",
+        "es": "Mañana viene el jefe a la escuela."
+      },
+      {
+        "zh": "这个计划由王先生领导。",
+        "es": "Este proyecto lo dirige el señor Wang."
+      },
+      {
+        "zh": "在她的领导下，公司的发展非常快。",
+        "es": "Bajo su liderazgo, la empresa creció muy rápido."
+      }
+    ]
+  }
+]

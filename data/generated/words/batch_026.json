@@ -1,0 +1,536 @@
+[
+  {
+    "word": "视频",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "video"
+    ],
+    "examples": [
+      {
+        "zh": "这个视频很好看。",
+        "es": "Este video es muy bueno."
+      },
+      {
+        "zh": "我喜欢看中文视频。",
+        "es": "Me gusta ver videos en chino."
+      },
+      {
+        "zh": "你看过这个视频吗？",
+        "es": "¿Ya viste este video?"
+      },
+      {
+        "zh": "他把昨天的视频发到网上了。",
+        "es": "Él subió a internet el video de ayer."
+      }
+    ]
+  },
+  {
+    "word": "班",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "clase, grupo",
+      "turno de trabajo",
+      "clasificador para grupos de personas y transporte con horario"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们班的老师。",
+        "es": "Él es el maestro de nuestra clase."
+      },
+      {
+        "zh": "我们班有三十个学生。",
+        "es": "En nuestra clase hay treinta estudiantes."
+      },
+      {
+        "zh": "我今天上晚班。",
+        "es": "Hoy me toca el turno de la noche."
+      },
+      {
+        "zh": "去机场的最后一班车几点开？",
+        "es": "¿A qué hora sale el último autobús al aeropuerto?"
+      }
+    ]
+  },
+  {
+    "word": "设计",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "diseñar",
+      "diseño",
+      "planear",
+      "plan"
+    ],
+    "examples": [
+      {
+        "zh": "这是我设计的。",
+        "es": "Esto lo diseñé yo."
+      },
+      {
+        "zh": "这个手机的设计很好看。",
+        "es": "El diseño de este celular es muy bonito."
+      },
+      {
+        "zh": "她在一家公司做设计工作。",
+        "es": "Ella trabaja en diseño en una empresa."
+      },
+      {
+        "zh": "这个学校是一个外国人设计的。",
+        "es": "Esta escuela la diseñó un extranjero."
+      }
+    ]
+  },
+  {
+    "word": "动作",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "movimiento",
+      "gesto",
+      "acción"
+    ],
+    "examples": [
+      {
+        "zh": "这个动作很难。",
+        "es": "Este movimiento es muy difícil."
+      },
+      {
+        "zh": "他的动作非常快。",
+        "es": "Sus movimientos son muy rápidos."
+      },
+      {
+        "zh": "你看他的动作，跟老师一样。",
+        "es": "Mira sus movimientos, son iguales a los del maestro."
+      },
+      {
+        "zh": "电影里的动作都是他自己做的。",
+        "es": "Todas las escenas de acción de la película las hizo él mismo."
+      }
+    ]
+  },
+  {
+    "word": "受",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recibir",
+      "sufrir",
+      "soportar",
+      "ser objeto de (marca de voz pasiva)"
+    ],
+    "examples": [
+      {
+        "zh": "她受不了这么热的天。",
+        "es": "Ella no soporta un clima tan caluroso."
+      },
+      {
+        "zh": "他很受学生喜欢。",
+        "es": "Él es muy querido por los estudiantes."
+      },
+      {
+        "zh": "这个计划受到了很多人的支持。",
+        "es": "Este plan recibió el apoyo de mucha gente."
+      },
+      {
+        "zh": "孩子受家里环境的影响很大。",
+        "es": "Los niños están muy influenciados por el ambiente de su casa."
+      }
+    ]
+  },
+  {
+    "word": "姐姐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermana mayor"
+    ],
+    "examples": [
+      {
+        "zh": "我姐姐是老师。",
+        "es": "Mi hermana mayor es maestra."
+      },
+      {
+        "zh": "我姐姐比我大三岁。",
+        "es": "Mi hermana mayor tiene tres años más que yo."
+      },
+      {
+        "zh": "姐姐给我买了一件新衣服。",
+        "es": "Mi hermana mayor me compró ropa nueva."
+      },
+      {
+        "zh": "我姐姐在北京的一家医院当医生。",
+        "es": "Mi hermana mayor es doctora en un hospital de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "记",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "anotar",
+      "recordar",
+      "memorizar",
+      "marca, señal"
+    ],
+    "examples": [
+      {
+        "zh": "你记住了吗？",
+        "es": "¿Ya te lo aprendiste?"
+      },
+      {
+        "zh": "请把他的电话记下来。",
+        "es": "Por favor, anota su número de teléfono."
+      },
+      {
+        "zh": "他每天都记一些新的字。",
+        "es": "Él memoriza algunos caracteres nuevos todos los días."
+      },
+      {
+        "zh": "开会的时候，她把领导说的话都记在本子上。",
+        "es": "Durante la reunión, ella anotó en su cuaderno todo lo que dijo el jefe."
+      }
+    ]
+  },
+  {
+    "word": "直接",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "directamente",
+      "directo"
+    ],
+    "examples": [
+      {
+        "zh": "你直接说吧。",
+        "es": "Dilo directamente."
+      },
+      {
+        "zh": "我下班直接回家。",
+        "es": "Salgo del trabajo y me voy directo a casa."
+      },
+      {
+        "zh": "这里有直接去机场的车吗？",
+        "es": "¿Aquí hay algún transporte directo al aeropuerto?"
+      },
+      {
+        "zh": "有问题可以直接问老师，不用怕。",
+        "es": "Si tienes dudas, puedes preguntarle directamente al maestro, no tengas miedo."
+      }
+    ]
+  },
+  {
+    "word": "左",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "izquierda",
+      "izquierdo",
+      "la izquierda (política)"
+    ],
+    "examples": [
+      {
+        "zh": "你往左走。",
+        "es": "Ve hacia la izquierda."
+      },
+      {
+        "zh": "医院在路的左边。",
+        "es": "El hospital está del lado izquierdo de la calle."
+      },
+      {
+        "zh": "我左手拿着一本书。",
+        "es": "Tengo un libro en la mano izquierda."
+      },
+      {
+        "zh": "到了第二个路口，再往左走五分钟就到了。",
+        "es": "Al llegar a la segunda esquina, camina cinco minutos hacia la izquierda y llegas."
+      }
+    ]
+  },
+  {
+    "word": "县",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "condado, distrito",
+      "prefectura (en Japón)"
+    ],
+    "examples": [
+      {
+        "zh": "他是从一个小县来的。",
+        "es": "Él viene de un condado pequeño."
+      },
+      {
+        "zh": "这个县有十万人口。",
+        "es": "Este condado tiene cien mil habitantes."
+      },
+      {
+        "zh": "我家在县里，离城市很远。",
+        "es": "Mi casa está en el condado, lejos de la ciudad."
+      },
+      {
+        "zh": "县政府决定在这里建一所新学校。",
+        "es": "El gobierno del condado decidió construir una escuela nueva aquí."
+      }
+    ]
+  },
+  {
+    "word": "地点",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lugar",
+      "sitio",
+      "ubicación",
+      "sede"
+    ],
+    "examples": [
+      {
+        "zh": "会议地点在哪里？",
+        "es": "¿Dónde es el lugar de la reunión?"
+      },
+      {
+        "zh": "请告诉我时间和地点。",
+        "es": "Por favor, dime la hora y el lugar."
+      },
+      {
+        "zh": "这个地点不太好找。",
+        "es": "Este lugar no es muy fácil de encontrar."
+      },
+      {
+        "zh": "我们还没决定活动的时间和地点。",
+        "es": "Todavía no decidimos la fecha y el lugar del evento."
+      }
+    ]
+  },
+  {
+    "word": "报告",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "informe",
+      "informar, reportar",
+      "conferencia, charla"
+    ],
+    "examples": [
+      {
+        "zh": "我在写报告。",
+        "es": "Estoy escribiendo un informe."
+      },
+      {
+        "zh": "明天必须把报告交给老师。",
+        "es": "Mañana tengo que entregarle el informe al maestro."
+      },
+      {
+        "zh": "他向领导报告了这件事。",
+        "es": "Él le informó de este asunto a su jefe."
+      },
+      {
+        "zh": "下午有一个关于中国经济的报告。",
+        "es": "En la tarde hay una conferencia sobre la economía china."
+      }
+    ]
+  },
+  {
+    "word": "地图",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mapa"
+    ],
+    "examples": [
+      {
+        "zh": "这是北京的地图。",
+        "es": "Este es el mapa de Pekín."
+      },
+      {
+        "zh": "你有上海地图吗？",
+        "es": "¿Tienes un mapa de Shanghái?"
+      },
+      {
+        "zh": "我用手机上的地图找路。",
+        "es": "Uso el mapa del celular para encontrar el camino."
+      },
+      {
+        "zh": "没有地图，我们找不到去机场的路。",
+        "es": "Sin mapa, no vamos a encontrar el camino al aeropuerto."
+      }
+    ]
+  },
+  {
+    "word": "比较",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bastante, relativamente",
+      "comparar",
+      "comparación"
+    ],
+    "examples": [
+      {
+        "zh": "今天比较热。",
+        "es": "Hoy hace bastante calor."
+      },
+      {
+        "zh": "这个问题比较难。",
+        "es": "Esta pregunta es bastante difícil."
+      },
+      {
+        "zh": "我比较喜欢看中国电影。",
+        "es": "Prefiero ver películas chinas."
+      },
+      {
+        "zh": "你把这两个手机比较一下再买。",
+        "es": "Compara estos dos celulares antes de comprar."
+      }
+    ]
+  },
+  {
+    "word": "别的",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "otro",
+      "algo más"
+    ],
+    "examples": [
+      {
+        "zh": "你还要别的吗？",
+        "es": "¿Quieres algo más?"
+      },
+      {
+        "zh": "我没有别的问题。",
+        "es": "No tengo otras preguntas."
+      },
+      {
+        "zh": "你还想去别的城市看看吗？",
+        "es": "¿Todavía quieres ir a conocer otras ciudades?"
+      },
+      {
+        "zh": "这家店没有，我们去别的地方看看吧。",
+        "es": "En esta tienda no hay, vamos a buscar en otro lugar."
+      }
+    ]
+  },
+  {
+    "word": "成功",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener éxito",
+      "éxito",
+      "exitoso"
+    ],
+    "examples": [
+      {
+        "zh": "祝你成功！",
+        "es": "¡Te deseo mucho éxito!"
+      },
+      {
+        "zh": "他们的计划成功了。",
+        "es": "Su plan tuvo éxito."
+      },
+      {
+        "zh": "这次活动非常成功。",
+        "es": "Este evento fue todo un éxito."
+      },
+      {
+        "zh": "他说成功需要时间，也需要别人的帮助。",
+        "es": "Él dice que el éxito necesita tiempo y también la ayuda de los demás."
+      }
+    ]
+  },
+  {
+    "word": "存在",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "existir",
+      "haber",
+      "existencia"
+    ],
+    "examples": [
+      {
+        "zh": "这个问题一直存在。",
+        "es": "Este problema siempre ha existido."
+      },
+      {
+        "zh": "公司现在还存在一些问题。",
+        "es": "Todavía hay algunos problemas en la empresa."
+      },
+      {
+        "zh": "这种问题在很多地方都存在。",
+        "es": "Este tipo de problema existe en muchos lugares."
+      },
+      {
+        "zh": "很多人觉得这样的东西不存在，但他不同意。",
+        "es": "Mucha gente cree que algo así no existe, pero él no está de acuerdo."
+      }
+    ]
+  },
+  {
+    "word": "球",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pelota, balón",
+      "esfera, bola",
+      "partido (de un deporte de pelota)"
+    ],
+    "examples": [
+      {
+        "zh": "这个球是新的。",
+        "es": "Esta pelota es nueva."
+      },
+      {
+        "zh": "我们去打球吧。",
+        "es": "Vamos a jugar a la pelota."
+      },
+      {
+        "zh": "他每天下午都和朋友踢球。",
+        "es": "Él juega fútbol con sus amigos todas las tardes."
+      },
+      {
+        "zh": "昨天晚上的球你看了吗？",
+        "es": "¿Viste el partido de anoche?"
+      }
+    ]
+  },
+  {
+    "word": "或者",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "o",
+      "quizás, tal vez"
+    ],
+    "examples": [
+      {
+        "zh": "今天或者明天都可以。",
+        "es": "Hoy o mañana, cualquiera está bien."
+      },
+      {
+        "zh": "你可以坐车或者走路去。",
+        "es": "Puedes ir en carro o caminando."
+      },
+      {
+        "zh": "周末我一般在家看书或者看电影。",
+        "es": "Los fines de semana normalmente leo o veo películas en casa."
+      },
+      {
+        "zh": "有问题可以打电话给我，或者直接来公司找我。",
+        "es": "Si tienes algún problema, llámame o ven directamente a buscarme a la empresa."
+      }
+    ]
+  },
+  {
+    "word": "忘",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "olvidar",
+      "pasar por alto",
+      "descuidar"
+    ],
+    "examples": [
+      {
+        "zh": "别忘了带手机。",
+        "es": "No te olvides de llevar el celular."
+      },
+      {
+        "zh": "我忘了他的名字。",
+        "es": "Olvidé su nombre."
+      },
+      {
+        "zh": "那天的事，我一直忘不了。",
+        "es": "Nunca he podido olvidar lo que pasó ese día."
+      },
+      {
+        "zh": "他忘了今天是妈妈的生日，回家才想起来。",
+        "es": "Olvidó que hoy era el cumpleaños de su mamá y solo se acordó al llegar a casa."
+      }
+    ]
+  }
+]

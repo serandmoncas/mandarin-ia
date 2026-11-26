@@ -1,0 +1,536 @@
+[
+  {
+    "word": "兄弟",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermanos",
+      "hermano menor",
+      "fraternal",
+      "yo (forma humilde usada por hombres al hablar en público)"
+    ],
+    "examples": [
+      {
+        "zh": "他有两个兄弟。",
+        "es": "Él tiene dos hermanos."
+      },
+      {
+        "zh": "我们是好兄弟。",
+        "es": "Somos como hermanos."
+      },
+      {
+        "zh": "兄弟，你今天怎么了？",
+        "es": "Hermano, ¿qué te pasa hoy?"
+      },
+      {
+        "zh": "他们兄弟两个都在北京工作。",
+        "es": "Los dos hermanos trabajan en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "高中",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bachillerato",
+      "escuela secundaria superior"
+    ],
+    "examples": [
+      {
+        "zh": "我妹妹上高中了。",
+        "es": "Mi hermana menor ya está en el bachillerato."
+      },
+      {
+        "zh": "他是我的高中同学。",
+        "es": "Él es mi compañero del bachillerato."
+      },
+      {
+        "zh": "高中的时候，我很喜欢足球。",
+        "es": "Cuando estaba en el bachillerato, me gustaba mucho el fútbol."
+      },
+      {
+        "zh": "我高中三年都住在学校里。",
+        "es": "Durante los tres años de bachillerato viví en la escuela."
+      }
+    ]
+  },
+  {
+    "word": "呀",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "partícula que expresa sorpresa o énfasis (como 啊)",
+      "partícula que suaviza una pregunta o pedido"
+    ],
+    "examples": [
+      {
+        "zh": "你好呀！",
+        "es": "¡Hola!"
+      },
+      {
+        "zh": "快来呀！",
+        "es": "¡Ven rápido!"
+      },
+      {
+        "zh": "这个菜真好吃呀！",
+        "es": "¡Qué rica está esta comida!"
+      },
+      {
+        "zh": "你怎么现在才来呀？",
+        "es": "¿Por qué apenas llegas?"
+      }
+    ]
+  },
+  {
+    "word": "公路",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "carretera",
+      "autopista"
+    ],
+    "examples": [
+      {
+        "zh": "这条公路很长。",
+        "es": "Esta carretera es muy larga."
+      },
+      {
+        "zh": "公路上有很多车。",
+        "es": "Hay muchos carros en la carretera."
+      },
+      {
+        "zh": "我们开车走公路去上海。",
+        "es": "Vamos a Shanghái en carro por la carretera."
+      },
+      {
+        "zh": "下雨的时候，在公路上开车要注意安全。",
+        "es": "Cuando llueve, hay que manejar con cuidado en la carretera."
+      }
+    ]
+  },
+  {
+    "word": "妻子",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "esposa"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的妻子。",
+        "es": "Ella es mi esposa."
+      },
+      {
+        "zh": "他的妻子是医生。",
+        "es": "Su esposa es doctora."
+      },
+      {
+        "zh": "我妻子很喜欢喝茶。",
+        "es": "A mi esposa le gusta mucho tomar té."
+      },
+      {
+        "zh": "他每天下班以后都给妻子打电话。",
+        "es": "Todos los días, después del trabajo, él llama a su esposa."
+      }
+    ]
+  },
+  {
+    "word": "红色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rojo (color)",
+      "revolucionario"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢红色。",
+        "es": "Me gusta el rojo."
+      },
+      {
+        "zh": "她穿着一件红色的衣服。",
+        "es": "Ella lleva puesta una prenda roja."
+      },
+      {
+        "zh": "在中国，红色是一种很重要的颜色。",
+        "es": "En China, el rojo es un color muy importante."
+      },
+      {
+        "zh": "新年的时候，很多人家里都有红色的东西。",
+        "es": "En Año Nuevo, muchas casas tienen cosas de color rojo."
+      }
+    ]
+  },
+  {
+    "word": "律师",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abogado",
+      "abogada"
+    ],
+    "examples": [
+      {
+        "zh": "他是律师。",
+        "es": "Él es abogado."
+      },
+      {
+        "zh": "我妈妈是一个律师。",
+        "es": "Mi mamá es abogada."
+      },
+      {
+        "zh": "这个问题你应该问律师。",
+        "es": "Esa pregunta deberías hacérsela a un abogado."
+      },
+      {
+        "zh": "她希望以后成为一名律师。",
+        "es": "Ella espera llegar a ser abogada en el futuro."
+      }
+    ]
+  },
+  {
+    "word": "家长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "padre o madre (de un alumno)",
+      "tutor",
+      "jefe de familia"
+    ],
+    "examples": [
+      {
+        "zh": "老师给家长打电话了。",
+        "es": "La maestra llamó a los padres."
+      },
+      {
+        "zh": "明天学校要开家长会。",
+        "es": "Mañana la escuela tiene reunión de padres."
+      },
+      {
+        "zh": "很多家长都很关心孩子的学习。",
+        "es": "Muchos padres se preocupan mucho por los estudios de sus hijos."
+      },
+      {
+        "zh": "家长应该多花时间跟孩子一起玩。",
+        "es": "Los padres deberían pasar más tiempo jugando con sus hijos."
+      }
+    ]
+  },
+  {
+    "word": "讲话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hablar",
+      "discurso",
+      "dirigirse a (un público)"
+    ],
+    "examples": [
+      {
+        "zh": "请不要讲话。",
+        "es": "Por favor, no hablen."
+      },
+      {
+        "zh": "他讲话很快，我听不明白。",
+        "es": "Él habla muy rápido y no le entiendo."
+      },
+      {
+        "zh": "老师讲话的时候，大家都在认真听。",
+        "es": "Cuando la maestra habla, todos escuchan con atención."
+      },
+      {
+        "zh": "主席明天要在大会上发表讲话。",
+        "es": "Mañana el presidente dará un discurso en la asamblea."
+      }
+    ]
+  },
+  {
+    "word": "各地",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todas partes",
+      "diversas regiones"
+    ],
+    "examples": [
+      {
+        "zh": "他去过中国各地。",
+        "es": "Él ha estado en muchas partes de China."
+      },
+      {
+        "zh": "世界各地的人都喜欢这个电影。",
+        "es": "A gente de todo el mundo le gusta esta película."
+      },
+      {
+        "zh": "我们的产品卖到全国各地。",
+        "es": "Nuestros productos se venden en todo el país."
+      },
+      {
+        "zh": "新年的时候，各地都会举行很多活动。",
+        "es": "En Año Nuevo, en todas partes se hacen muchas actividades."
+      }
+    ]
+  },
+  {
+    "word": "鱼",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pescado",
+      "pez"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃鱼。",
+        "es": "Me gusta comer pescado."
+      },
+      {
+        "zh": "水里有很多鱼。",
+        "es": "Hay muchos peces en el agua."
+      },
+      {
+        "zh": "妈妈今天晚上做了鱼。",
+        "es": "Mi mamá preparó pescado esta noche."
+      },
+      {
+        "zh": "这条鱼很大，我们一家人都吃不完。",
+        "es": "Este pescado es tan grande que ni toda la familia se lo puede terminar."
+      }
+    ]
+  },
+  {
+    "word": "不久",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "poco después",
+      "pronto",
+      "poco tiempo"
+    ],
+    "examples": [
+      {
+        "zh": "他不久就回来了。",
+        "es": "Él regresó poco después."
+      },
+      {
+        "zh": "不久前我在北京见过他。",
+        "es": "Hace poco lo vi en Pekín."
+      },
+      {
+        "zh": "我们开始工作不久，就下雨了。",
+        "es": "Poco después de empezar a trabajar, se puso a llover."
+      },
+      {
+        "zh": "他来中国不久，汉语已经说得很好了。",
+        "es": "Llegó a China hace poco y ya habla muy bien chino."
+      }
+    ]
+  },
+  {
+    "word": "可怕",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aterrador",
+      "horrible",
+      "terrible",
+      "que da miedo"
+    ],
+    "examples": [
+      {
+        "zh": "这个电影很可怕。",
+        "es": "Esta película da mucho miedo."
+      },
+      {
+        "zh": "战争是可怕的。",
+        "es": "La guerra es terrible."
+      },
+      {
+        "zh": "晚上一个人走路有点可怕。",
+        "es": "Caminar solo de noche da un poco de miedo."
+      },
+      {
+        "zh": "最可怕的不是失败，而是不再努力。",
+        "es": "Lo más terrible no es fracasar, sino dejar de esforzarse."
+      }
+    ]
+  },
+  {
+    "word": "前往",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dirigirse a",
+      "ir a",
+      "partir hacia"
+    ],
+    "examples": [
+      {
+        "zh": "他明天前往北京。",
+        "es": "Mañana él parte hacia Pekín."
+      },
+      {
+        "zh": "我们坐飞机前往上海。",
+        "es": "Vamos a Shanghái en avión."
+      },
+      {
+        "zh": "总统今天上午前往日本参加会议。",
+        "es": "Esta mañana el presidente viajó a Japón para asistir a una reunión."
+      },
+      {
+        "zh": "前往机场的人请在这里上车。",
+        "es": "Quienes vayan al aeropuerto, por favor suban aquí."
+      }
+    ]
+  },
+  {
+    "word": "留",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "quedarse",
+      "dejar (un mensaje, algo)",
+      "guardar",
+      "conservar"
+    ],
+    "examples": [
+      {
+        "zh": "请留下你的电话。",
+        "es": "Por favor, deja tu número de teléfono."
+      },
+      {
+        "zh": "他今天留在家里。",
+        "es": "Hoy él se quedó en casa."
+      },
+      {
+        "zh": "这块面包是我给你留的。",
+        "es": "Este pedazo de pan te lo guardé a ti."
+      },
+      {
+        "zh": "他决定留在北京工作，不回家了。",
+        "es": "Decidió quedarse a trabajar en Pekín y no volver a casa."
+      }
+    ]
+  },
+  {
+    "word": "弄",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hacer",
+      "arreglar",
+      "manejar",
+      "tocar, jugar con (algo)"
+    ],
+    "examples": [
+      {
+        "zh": "别弄了！",
+        "es": "¡Ya déjalo!"
+      },
+      {
+        "zh": "我把手机弄坏了。",
+        "es": "Descompuse mi celular."
+      },
+      {
+        "zh": "你能帮我弄一下电脑吗？",
+        "es": "¿Me ayudas a arreglar la computadora?"
+      },
+      {
+        "zh": "这件事太难了，我到现在还没弄清楚。",
+        "es": "Este asunto es muy difícil; hasta ahora no lo he entendido bien."
+      }
+    ]
+  },
+  {
+    "word": "大小",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tamaño",
+      "grandes y pequeños",
+      "adultos y niños"
+    ],
+    "examples": [
+      {
+        "zh": "这件衣服大小正好。",
+        "es": "Esta ropa es de la talla justa."
+      },
+      {
+        "zh": "这两个房间大小差不多。",
+        "es": "Estos dos cuartos son más o menos del mismo tamaño."
+      },
+      {
+        "zh": "新年的时候，全家大小都回来了。",
+        "es": "En Año Nuevo volvió toda la familia, grandes y chicos."
+      },
+      {
+        "zh": "买衣服的时候，最好先试试大小。",
+        "es": "Cuando compras ropa, es mejor probarte primero la talla."
+      }
+    ]
+  },
+  {
+    "word": "直到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hasta",
+      "hasta que"
+    ],
+    "examples": [
+      {
+        "zh": "我直到今天才知道。",
+        "es": "No lo supe hasta hoy."
+      },
+      {
+        "zh": "他直到晚上十点才回家。",
+        "es": "Él no volvió a casa hasta las diez de la noche."
+      },
+      {
+        "zh": "直到现在，我还记得那天的事情。",
+        "es": "Hasta ahora todavía recuerdo lo que pasó ese día."
+      },
+      {
+        "zh": "他一直工作，直到身体出了问题。",
+        "es": "Trabajó sin parar hasta que su salud se resintió."
+      }
+    ]
+  },
+  {
+    "word": "按照",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "según",
+      "de acuerdo con",
+      "con base en"
+    ],
+    "examples": [
+      {
+        "zh": "请按照老师说的做。",
+        "es": "Por favor, hagan lo que dice la maestra."
+      },
+      {
+        "zh": "我们按照计划完成了工作。",
+        "es": "Terminamos el trabajo según lo planeado."
+      },
+      {
+        "zh": "按照规定，学生不能在这里吃饭。",
+        "es": "Según las reglas, los estudiantes no pueden comer aquí."
+      },
+      {
+        "zh": "你应该按照自己的想法选择专业。",
+        "es": "Deberías elegir tu carrera de acuerdo con lo que tú piensas."
+      }
+    ]
+  },
+  {
+    "word": "看法",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "opinión",
+      "punto de vista",
+      "manera de ver las cosas"
+    ],
+    "examples": [
+      {
+        "zh": "你有什么看法？",
+        "es": "¿Qué opinas?"
+      },
+      {
+        "zh": "我的看法跟你不一样。",
+        "es": "Mi opinión es diferente de la tuya."
+      },
+      {
+        "zh": "对于这个问题，大家的看法都不同。",
+        "es": "Sobre este tema, cada uno tiene una opinión distinta."
+      },
+      {
+        "zh": "我想听听你对这件事的看法。",
+        "es": "Quiero saber qué opinas de este asunto."
+      }
+    ]
+  }
+]

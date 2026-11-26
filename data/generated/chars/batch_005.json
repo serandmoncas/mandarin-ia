@@ -1,0 +1,430 @@
+[
+  {
+    "char": "欢",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano / otra vez"
+      },
+      {
+        "char": "欠",
+        "meaning_es": "boca abierta, bostezar"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien que levanta la mano y abre la boca para gritar: ¡bienvenidos, qué alegría!"
+  },
+  {
+    "char": "钱",
+    "components": [
+      {
+        "char": "钅",
+        "meaning_es": "metal, oro"
+      },
+      {
+        "char": "戋",
+        "meaning_es": "pequeño, trozos"
+      }
+    ],
+    "mnemonic_es": "Metal cortado en trocitos: monedas. Así se ve el dinero en tu bolsillo."
+  },
+  {
+    "char": "当",
+    "components": [
+      {
+        "char": "⺌",
+        "meaning_es": "trazos pequeños"
+      },
+      {
+        "char": "彐",
+        "meaning_es": "mano que sujeta"
+      }
+    ],
+    "mnemonic_es": "Una mano agarra unas chispitas justo cuando caen: en ese momento, cuando debe ser."
+  },
+  {
+    "char": "学",
+    "components": [
+      {
+        "char": "⺍",
+        "meaning_es": "trazos (como chispas de ideas)"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "techo, cubierta"
+      },
+      {
+        "char": "子",
+        "meaning_es": "niño"
+      }
+    ],
+    "mnemonic_es": "Un niño bajo el techo de la escuela, con chispas de ideas sobre la cabeza: está estudiando."
+  },
+  {
+    "char": "生",
+    "components": [
+      {
+        "char": "生",
+        "meaning_es": "nacer, vida, crudo"
+      }
+    ],
+    "mnemonic_es": "Imagina un brote que sale de la tierra y crece con sus hojitas: así nace la vida."
+  },
+  {
+    "char": "区",
+    "components": [
+      {
+        "char": "匚",
+        "meaning_es": "caja abierta, recipiente"
+      },
+      {
+        "char": "乂",
+        "meaning_es": "cruz, cortar"
+      }
+    ],
+    "mnemonic_es": "Una caja con una cruz marcada adentro: el mapa dividido en zonas o distritos."
+  },
+  {
+    "char": "电",
+    "components": [
+      {
+        "char": "电",
+        "meaning_es": "electricidad, relámpago"
+      }
+    ],
+    "mnemonic_es": "Imagina un campo cuadriculado atravesado por un rayo con la cola en gancho: ¡electricidad!"
+  },
+  {
+    "char": "影",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "京",
+        "meaning_es": "capital"
+      },
+      {
+        "char": "彡",
+        "meaning_es": "rayos, trazos"
+      }
+    ],
+    "mnemonic_es": "El sol sobre la capital lanza rayos que proyectan sombras, como las imágenes de una película."
+  },
+  {
+    "char": "际",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina, montículo"
+      },
+      {
+        "char": "示",
+        "meaning_es": "mostrar, altar"
+      }
+    ],
+    "mnemonic_es": "Desde la colina se muestra dónde termina un país y empieza otro: el límite, lo internacional."
+  },
+  {
+    "char": "点",
+    "components": [
+      {
+        "char": "占",
+        "meaning_es": "adivinar, ocupar"
+      },
+      {
+        "char": "灬",
+        "meaning_es": "fuego"
+      }
+    ],
+    "mnemonic_es": "Un adivino lee las chispas del fuego: cada chispa es un punto, y le dice la hora exacta."
+  },
+  {
+    "char": "听",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "斤",
+        "meaning_es": "hacha"
+      }
+    ],
+    "mnemonic_es": "Alguien habla junto a un hacha que corta leña; tienes que poner mucha atención para escuchar."
+  },
+  {
+    "char": "内",
+    "components": [
+      {
+        "char": "冂",
+        "meaning_es": "marco, borde"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      }
+    ],
+    "mnemonic_es": "Una persona que entra en un marco: ya está adentro."
+  },
+  {
+    "char": "两",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno, línea"
+      },
+      {
+        "char": "冂",
+        "meaning_es": "marco"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona (aparece dos veces)"
+      }
+    ],
+    "mnemonic_es": "Bajo una misma tapa y dentro de un mismo marco caben dos personitas: los dos, ambos."
+  },
+  {
+    "char": "却",
+    "components": [
+      {
+        "char": "去",
+        "meaning_es": "ir"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "sello, persona arrodillada"
+      }
+    ],
+    "mnemonic_es": "Quería irse, pero se arrodilló y se quedó: \"sin embargo\", retrocedió."
+  },
+  {
+    "char": "才",
+    "components": [
+      {
+        "char": "才",
+        "meaning_es": "talento, recién, apenas"
+      }
+    ],
+    "mnemonic_es": "Imagina un brotecito que apenas sale de la tierra: tiene talento, pero recién empieza."
+  },
+  {
+    "char": "济",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "齐",
+        "meaning_es": "parejo, ordenado"
+      }
+    ],
+    "mnemonic_es": "Repartir el agua de forma pareja para ayudar a todos: así funciona una buena economía."
+  },
+  {
+    "char": "使",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "吏",
+        "meaning_es": "funcionario"
+      }
+    ],
+    "mnemonic_es": "Una persona junto al funcionario que la manda a hacer algo: la usa como enviado."
+  },
+  {
+    "char": "活",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "舌",
+        "meaning_es": "lengua"
+      }
+    ],
+    "mnemonic_es": "Agua sobre la lengua: mientras puedas beber, estás vivo."
+  },
+  {
+    "char": "动",
+    "components": [
+      {
+        "char": "云",
+        "meaning_es": "nube"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "La fuerza del viento empuja las nubes: todo se mueve."
+  },
+  {
+    "char": "走",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "龰",
+        "meaning_es": "pie"
+      }
+    ],
+    "mnemonic_es": "Un pie que pisa la tierra paso a paso: caminar, irse."
+  },
+  {
+    "char": "吃",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "乞",
+        "meaning_es": "mendigar, pedir"
+      }
+    ],
+    "mnemonic_es": "Una boca que pide y pide: ¡tiene hambre y quiere comer!"
+  },
+  {
+    "char": "话",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "舌",
+        "meaning_es": "lengua"
+      }
+    ],
+    "mnemonic_es": "Las palabras salen moviendo la lengua: eso es el habla, una conversación."
+  },
+  {
+    "char": "应",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "refugio, techo"
+      },
+      {
+        "char": "丷",
+        "meaning_es": "dos puntos"
+      },
+      {
+        "char": "一",
+        "meaning_es": "línea, suelo"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo del refugio, alguien en el suelo levanta la mano para responder: \"debo hacerlo\"."
+  },
+  {
+    "char": "今",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona (aquí como techito)"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno, línea"
+      },
+      {
+        "char": "乛",
+        "meaning_es": "trazo en gancho"
+      }
+    ],
+    "mnemonic_es": "Bajo un techito, una línea marca el momento presente: hoy, ahora."
+  },
+  {
+    "char": "天",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno, línea"
+      },
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      }
+    ],
+    "mnemonic_es": "Sobre una persona grande con los brazos abiertos hay una línea más: el cielo, el día."
+  },
+  {
+    "char": "历",
+    "components": [
+      {
+        "char": "厂",
+        "meaning_es": "acantilado, cobertizo"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Bajo el acantilado, la fuerza del tiempo deja marcas año tras año: la historia, la experiencia."
+  },
+  {
+    "char": "史",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "乂",
+        "meaning_es": "trazos cruzados"
+      }
+    ],
+    "mnemonic_es": "Una boca que cuenta relatos cruzados de generación en generación: la historia."
+  },
+  {
+    "char": "岁",
+    "components": [
+      {
+        "char": "山",
+        "meaning_es": "montaña"
+      },
+      {
+        "char": "夕",
+        "meaning_es": "atardecer"
+      }
+    ],
+    "mnemonic_es": "Cada atardecer detrás de la montaña suma un día, y los días suman años de edad."
+  },
+  {
+    "char": "治",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "台",
+        "meaning_es": "plataforma"
+      }
+    ],
+    "mnemonic_es": "Construir una plataforma para controlar el agua del río: así se gobierna y se pone orden."
+  },
+  {
+    "char": "情",
+    "components": [
+      {
+        "char": "忄",
+        "meaning_es": "corazón"
+      },
+      {
+        "char": "青",
+        "meaning_es": "verde-azul, joven"
+      }
+    ],
+    "mnemonic_es": "Un corazón joven y fresco está lleno de sentimientos y emociones."
+  }
+]

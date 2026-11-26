@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:慢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "04e087cf9b1117fa272af038d5c9f2ef654b849f"
+  },
+  {
+    "id": "char:实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f30356532288f56c3ff821c876d384cff70b5f2"
+  },
+  {
+    "id": "char:菜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "92ccb629f197c0070859a8f238d7437c064bc351"
+  },
+  {
+    "id": "char:茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ddc1b56f45692108c6c7bdf657829c102a43ad9"
+  },
+  {
+    "id": "char:传",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4944339a183a3e2294a807da9b5a05646a75d2bb"
+  },
+  {
+    "id": "char:洗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7350ae6369da0072805ccbaa9e4ed7cbcefffcd1"
+  },
+  {
+    "id": "char:独",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb16f6b24c1d4cbb2337c68cc6f04c362ef634ad"
+  },
+  {
+    "id": "char:韩",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51b25ef4e09a586a9396e3fc413a5890e1bde174"
+  },
+  {
+    "id": "char:调",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1730f6cb04cb0de4241988bb11518ae7cfb262a6"
+  },
+  {
+    "id": "char:查",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e124768432e2677fc1df7eb0677c91c278c0b340"
+  },
+  {
+    "id": "char:标",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c1b1f55950f183eb63eac4ea7002aec713b6ce4"
+  },
+  {
+    "id": "char:商",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d15a55dc54fe3a91fac468085ba80ca11102fc9f"
+  },
+  {
+    "id": "char:店",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5cdd006237663233fb76279b3f7a45e37b71af86"
+  },
+  {
+    "id": "char:右",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8d96cab9f9e9bb7c605b408dd95fb01641ea8c31"
+  },
+  {
+    "id": "char:类",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d7414472ccfde5c52fdd3ac4b403c5ea3ee415bb"
+  },
+  {
+    "id": "char:饿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14da3cf8f07304b84340ea02f009811629c64143"
+  },
+  {
+    "id": "char:床",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1326cd8dbaef8baa584a8a7949123207a9ab89d"
+  },
+  {
+    "id": "char:析",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec88c7099acf1e53356ab8680d9266e9fc3ae1d8"
+  },
+  {
+    "id": "char:制",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cda566e1dee9a5e2979fadc3f6f1a10868813c29"
+  },
+  {
+    "id": "char:投",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b274cf3f4f337ae620653b8c10ce6b29ae9120cb"
+  },
+  {
+    "id": "char:助",
+    "ok": false,
+    "issues": [
+      "«montón» no es un significado reconocido de 且; sus significados son «además, y; por ahora». Conviene usar un significado real o presentarlo explícitamente como imagen visual (algo apilado) en la mnemotecnia."
+    ],
+    "content_hash": "31ceaa66630ca9047be8ed13c859bd53c0905c59"
+  },
+  {
+    "id": "char:仍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ebdbad3eb13bb226f4610681bd8fa160d4f2002d"
+  },
+  {
+    "id": "char:纪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f6a9880e018fecd7e4383379ce842e8cc208cac"
+  },
+  {
+    "id": "char:汉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5a957f8a49dd2a72f52d98158688b81157cfd20"
+  },
+  {
+    "id": "char:语",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ff3cc9739e837f118d5dc9a979dfc3cac7d68d87"
+  }
+]

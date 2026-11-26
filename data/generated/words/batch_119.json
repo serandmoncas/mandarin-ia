@@ -1,0 +1,539 @@
+[
+  {
+    "word": "报到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "presentarse (en un lugar de trabajo o estudio)",
+      "registrarse",
+      "reportarse"
+    ],
+    "examples": [
+      {
+        "zh": "我明天去公司报到。",
+        "es": "Mañana voy a presentarme en la empresa."
+      },
+      {
+        "zh": "新学生九点报到。",
+        "es": "Los estudiantes nuevos se registran a las nueve."
+      },
+      {
+        "zh": "你去学校报到了吗？",
+        "es": "¿Ya fuiste a registrarte a la escuela?"
+      },
+      {
+        "zh": "他第一天上班，早上八点就来报到了。",
+        "es": "En su primer día de trabajo, llegó a presentarse a las ocho de la mañana."
+      }
+    ]
+  },
+  {
+    "word": "传来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oírse (un sonido)",
+      "llegar (una noticia)",
+      "venir de (un lugar)"
+    ],
+    "examples": [
+      {
+        "zh": "外面传来歌声。",
+        "es": "Afuera se oye a alguien cantar."
+      },
+      {
+        "zh": "楼上传来笑声。",
+        "es": "Desde arriba se oyen risas."
+      },
+      {
+        "zh": "北京传来了好消息。",
+        "es": "Llegaron buenas noticias de Beijing."
+      },
+      {
+        "zh": "晚上，旁边的房间传来很大的声音。",
+        "es": "En la noche se oía mucho ruido desde el cuarto de al lado."
+      }
+    ]
+  },
+  {
+    "word": "羊",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "oveja",
+      "cabra",
+      "borrego"
+    ],
+    "examples": [
+      {
+        "zh": "这是一只羊。",
+        "es": "Esta es una oveja."
+      },
+      {
+        "zh": "山上有很多羊。",
+        "es": "En la montaña hay muchas ovejas."
+      },
+      {
+        "zh": "我不喜欢吃羊肉。",
+        "es": "No me gusta comer carne de cordero."
+      },
+      {
+        "zh": "爷爷家养了二十只羊，每天都要带它们去山上。",
+        "es": "Mi abuelo cría veinte ovejas y todos los días las lleva a la montaña."
+      }
+    ]
+  },
+  {
+    "word": "行李",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "equipaje",
+      "maletas"
+    ],
+    "examples": [
+      {
+        "zh": "你的行李在哪里？",
+        "es": "¿Dónde está tu equipaje?"
+      },
+      {
+        "zh": "我的行李太重了。",
+        "es": "Mis maletas pesan demasiado."
+      },
+      {
+        "zh": "请把行李放在门口。",
+        "es": "Por favor, deja el equipaje en la entrada."
+      },
+      {
+        "zh": "到了机场，我才发现行李忘在家里了。",
+        "es": "Al llegar al aeropuerto, me di cuenta de que había olvidado las maletas en casa."
+      }
+    ]
+  },
+  {
+    "word": "大夫",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "médico",
+      "doctor"
+    ],
+    "examples": [
+      {
+        "zh": "大夫，我头很疼。",
+        "es": "Doctor, me duele mucho la cabeza."
+      },
+      {
+        "zh": "他是一个好大夫。",
+        "es": "Él es un buen médico."
+      },
+      {
+        "zh": "我妈妈是医院的大夫。",
+        "es": "Mi mamá es médica en el hospital."
+      },
+      {
+        "zh": "大夫说我要多休息，不能吃太多肉。",
+        "es": "El doctor dice que tengo que descansar más y no comer tanta carne."
+      }
+    ]
+  },
+  {
+    "word": "赶到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "llegar (a toda prisa)",
+      "llegar a tiempo",
+      "apresurarse a ir"
+    ],
+    "examples": [
+      {
+        "zh": "我马上赶到。",
+        "es": "Llego enseguida."
+      },
+      {
+        "zh": "他八点赶到了机场。",
+        "es": "Llegó corriendo al aeropuerto a las ocho."
+      },
+      {
+        "zh": "警察很快就赶到了现场。",
+        "es": "La policía llegó rápidamente al lugar."
+      },
+      {
+        "zh": "我们赶到车站的时候，火车已经开走了。",
+        "es": "Cuando llegamos a la estación, el tren ya se había ido."
+      }
+    ]
+  },
+  {
+    "word": "将近",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "casi",
+      "cerca de",
+      "alrededor de"
+    ],
+    "examples": [
+      {
+        "zh": "将近十点了。",
+        "es": "Ya son casi las diez."
+      },
+      {
+        "zh": "他等了将近一个小时。",
+        "es": "Esperó casi una hora."
+      },
+      {
+        "zh": "这个城市有将近一千万人。",
+        "es": "Esta ciudad tiene cerca de diez millones de habitantes."
+      },
+      {
+        "zh": "我在北京住了将近五年，已经很习惯了。",
+        "es": "Viví en Beijing casi cinco años y ya me acostumbré."
+      }
+    ]
+  },
+  {
+    "word": "迷",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fanático, aficionado",
+      "perderse, desorientarse",
+      "estar loco por algo",
+      "confundir"
+    ],
+    "examples": [
+      {
+        "zh": "他是个足球迷。",
+        "es": "Él es fanático del fútbol."
+      },
+      {
+        "zh": "我们在山里迷路了。",
+        "es": "Nos perdimos en la montaña."
+      },
+      {
+        "zh": "她迷上了中国音乐。",
+        "es": "Se clavó con la música china."
+      },
+      {
+        "zh": "我弟弟是个游戏迷，每天都玩到很晚。",
+        "es": "Mi hermano menor es fanático de los videojuegos y juega todos los días hasta muy tarde."
+      }
+    ]
+  },
+  {
+    "word": "节约",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ahorrar",
+      "economizar",
+      "no desperdiciar"
+    ],
+    "examples": [
+      {
+        "zh": "我们要节约用水。",
+        "es": "Tenemos que ahorrar agua."
+      },
+      {
+        "zh": "节约时间很重要。",
+        "es": "Ahorrar tiempo es muy importante."
+      },
+      {
+        "zh": "为了节约钱，他每天走路上班。",
+        "es": "Para ahorrar dinero, camina al trabajo todos los días."
+      },
+      {
+        "zh": "大家都应该节约资源，保护我们的环境。",
+        "es": "Todos deberíamos ahorrar recursos y proteger nuestro medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "香蕉",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "plátano",
+      "banana"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃香蕉。",
+        "es": "Me gusta comer plátanos."
+      },
+      {
+        "zh": "香蕉多少钱一斤？",
+        "es": "¿Cuánto cuesta el medio kilo de plátanos?"
+      },
+      {
+        "zh": "妈妈买了很多香蕉和苹果。",
+        "es": "Mi mamá compró muchos plátanos y manzanas."
+      },
+      {
+        "zh": "早上没时间吃饭，我就吃两个香蕉。",
+        "es": "Cuando no tengo tiempo de desayunar, me como dos plátanos."
+      }
+    ]
+  },
+  {
+    "word": "证件",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "documentos",
+      "identificación",
+      "credencial"
+    ],
+    "examples": [
+      {
+        "zh": "坐飞机要带证件。",
+        "es": "Para viajar en avión hay que llevar identificación."
+      },
+      {
+        "zh": "我的证件忘在家里了。",
+        "es": "Olvidé mis documentos en casa."
+      },
+      {
+        "zh": "请给我看一下你的证件。",
+        "es": "Por favor, muéstreme su identificación."
+      },
+      {
+        "zh": "办理手续的时候，你需要带上所有的证件。",
+        "es": "Cuando hagas el trámite, necesitas llevar todos tus documentos."
+      }
+    ]
+  },
+  {
+    "word": "彩色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a color, de colores",
+      "multicolor"
+    ],
+    "examples": [
+      {
+        "zh": "这是彩色照片。",
+        "es": "Esta es una foto a color."
+      },
+      {
+        "zh": "我想买一台彩色打印机。",
+        "es": "Quiero comprar una impresora a color."
+      },
+      {
+        "zh": "孩子们用彩色的笔画画。",
+        "es": "Los niños dibujan con lápices de colores."
+      },
+      {
+        "zh": "以前的电视只有黑白的，现在都是彩色的。",
+        "es": "Antes las televisiones eran solo en blanco y negro; ahora todas son a color."
+      }
+    ]
+  },
+  {
+    "word": "变为",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "convertirse en",
+      "transformarse en",
+      "cambiar a"
+    ],
+    "examples": [
+      {
+        "zh": "雨变为雪了。",
+        "es": "La lluvia se convirtió en nieve."
+      },
+      {
+        "zh": "绿灯变为红灯了。",
+        "es": "El semáforo cambió de verde a rojo."
+      },
+      {
+        "zh": "这个小村子变为了一座大城市。",
+        "es": "Este pueblito se convirtió en una gran ciudad."
+      },
+      {
+        "zh": "经过多年的努力，他的理想终于变为了现实。",
+        "es": "Después de muchos años de esfuerzo, su sueño por fin se hizo realidad."
+      }
+    ]
+  },
+  {
+    "word": "吵",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "ruidoso",
+      "hacer ruido",
+      "discutir, pelear"
+    ],
+    "examples": [
+      {
+        "zh": "这里太吵了。",
+        "es": "Aquí hay demasiado ruido."
+      },
+      {
+        "zh": "别吵了！",
+        "es": "¡Ya dejen de pelear!"
+      },
+      {
+        "zh": "他们昨天晚上又吵架了。",
+        "es": "Anoche volvieron a pelearse."
+      },
+      {
+        "zh": "孩子们在外面玩得很吵，我没办法休息。",
+        "es": "Los niños hacen mucho ruido jugando afuera y no puedo descansar."
+      }
+    ]
+  },
+  {
+    "word": "极了",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muchísimo",
+      "sumamente",
+      "extremadamente"
+    ],
+    "examples": [
+      {
+        "zh": "好吃极了！",
+        "es": "¡Está riquísimo!"
+      },
+      {
+        "zh": "今天热极了。",
+        "es": "Hoy hace muchísimo calor."
+      },
+      {
+        "zh": "听到这个消息，她高兴极了。",
+        "es": "Al escuchar la noticia, se puso felicísima."
+      },
+      {
+        "zh": "这家饭店的菜好吃极了，我们下次再来吧。",
+        "es": "La comida de este restaurante está buenísima; volvamos la próxima vez."
+      }
+    ]
+  },
+  {
+    "word": "看上去",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parecer",
+      "verse (de cierta manera)",
+      "a simple vista"
+    ],
+    "examples": [
+      {
+        "zh": "你看上去很累。",
+        "es": "Te ves muy cansado."
+      },
+      {
+        "zh": "他看上去很年轻。",
+        "es": "Él se ve muy joven."
+      },
+      {
+        "zh": "这个菜看上去很好吃。",
+        "es": "Este platillo se ve muy rico."
+      },
+      {
+        "zh": "这件衣服看上去很贵，其实很便宜。",
+        "es": "Esta ropa parece cara, pero en realidad es muy barata."
+      }
+    ]
+  },
+  {
+    "word": "毛病",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "falla, avería",
+      "defecto",
+      "mala costumbre",
+      "achaque, enfermedad"
+    ],
+    "examples": [
+      {
+        "zh": "我的电脑出毛病了。",
+        "es": "Mi computadora se descompuso."
+      },
+      {
+        "zh": "他有个坏毛病。",
+        "es": "Él tiene una mala costumbre."
+      },
+      {
+        "zh": "每个人都有自己的毛病。",
+        "es": "Todos tenemos nuestros defectos."
+      },
+      {
+        "zh": "医生说他的身体没什么大毛病，不用担心。",
+        "es": "El médico dijo que no tiene nada grave de salud, que no hay de qué preocuparse."
+      }
+    ]
+  },
+  {
+    "word": "解开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desatar",
+      "desabrochar",
+      "resolver (un misterio o problema)"
+    ],
+    "examples": [
+      {
+        "zh": "他解开了鞋带。",
+        "es": "Se desató los cordones."
+      },
+      {
+        "zh": "这个问题谁能解开？",
+        "es": "¿Quién puede resolver este problema?"
+      },
+      {
+        "zh": "她解开大衣，坐了下来。",
+        "es": "Se desabrochó el abrigo y se sentó."
+      },
+      {
+        "zh": "他想了很久，终于解开了这个难题。",
+        "es": "Lo pensó mucho tiempo y por fin resolvió este problema difícil."
+      }
+    ]
+  },
+  {
+    "word": "得分",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "anotar (un punto)",
+      "puntaje",
+      "calificación"
+    ],
+    "examples": [
+      {
+        "zh": "他得分了！",
+        "es": "¡Anotó!"
+      },
+      {
+        "zh": "我们队得分最多。",
+        "es": "Nuestro equipo fue el que más puntos anotó."
+      },
+      {
+        "zh": "这次考试你得分多少？",
+        "es": "¿Qué calificación sacaste en este examen?"
+      },
+      {
+        "zh": "比赛的最后一分钟，他们终于得分了。",
+        "es": "En el último minuto del partido, por fin anotaron."
+      }
+    ]
+  },
+  {
+    "word": "歌声",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "canto",
+      "voz (al cantar)"
+    ],
+    "examples": [
+      {
+        "zh": "我听到了歌声。",
+        "es": "Escuché a alguien cantar."
+      },
+      {
+        "zh": "她的歌声很好听。",
+        "es": "Ella canta muy bonito."
+      },
+      {
+        "zh": "外面传来孩子们的歌声。",
+        "es": "Desde afuera se oye cantar a los niños."
+      },
+      {
+        "zh": "每天早上，公园里都能听到老人们的歌声。",
+        "es": "Todas las mañanas, en el parque se oye cantar a los ancianos."
+      }
+    ]
+  }
+]

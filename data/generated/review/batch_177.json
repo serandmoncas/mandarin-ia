@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:辆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "267c5b2070604f1bfeebb8a766fefeab788c63f8"
+  },
+  {
+    "id": "word:杂志",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 se escribe «xǐ huan» (tono neutro), no «xǐ huān», en dos ejemplos."
+    ],
+    "content_hash": "582d6f0862a3cc2b48974acb562410dc238e36b8"
+  },
+  {
+    "id": "word:墙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d1726634005e811943401a1123d7e0b69712186f"
+  },
+  {
+    "id": "word:随便",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a5e818f103102e22d87bbb6b9483b2681de7267"
+  },
+  {
+    "id": "word:养",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37b10e062c7f85313f2bc04bc1bd73378078cba3"
+  },
+  {
+    "id": "word:吹",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8cf3f04bbe0b167bef364507097e39f43fe01b8"
+  },
+  {
+    "id": "word:答应",
+    "ok": true,
+    "issues": [],
+    "content_hash": "573bdaa740b0637e9feb85e737792d27c0838e06"
+  },
+  {
+    "id": "word:急",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b4fe0814691db23d5acd5949238192b307341563"
+  },
+  {
+    "id": "word:套",
+    "ok": false,
+    "issues": [
+      "Pinyin: 衣服 se escribe «yī fu» (tono neutro), no «yī fú»."
+    ],
+    "content_hash": "381b6cac95db68d19324128817b988385bb0d30c"
+  },
+  {
+    "id": "word:久",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a663d7474eb0f9f0190193a1bcfb729b5f876e26"
+  },
+  {
+    "id": "word:院长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10f03eba011f2c6308cadfa6e3b1eac1beb1e885"
+  },
+  {
+    "id": "word:周末",
+    "ok": false,
+    "issues": [
+      "Pinyin: 玩儿 se escribe «wánr» (sufijo -r), no «wán ér»."
+    ],
+    "content_hash": "7f90a41a6a168402f1224c4cb106d265a0b361ca"
+  },
+  {
+    "id": "word:老板",
+    "ok": false,
+    "issues": [
+      "Pinyin: 认识 se escribe «rèn shi» y 时候 se escribe «shí hou», ambos con tono neutro."
+    ],
+    "content_hash": "520d2d2093a17da7d772115f137036a59e9e340b"
+  },
+  {
+    "id": "word:美丽",
+    "ok": false,
+    "issues": [
+      "Pinyin: 眼睛 se escribe «yǎn jing» (tono neutro), no «yǎn jīng»."
+    ],
+    "content_hash": "a0fd15c267e9cbac1fd41af4c9c7c84cb59bbb3c"
+  },
+  {
+    "id": "word:球队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "097b1afe9d57ea20f81d552167b2f7fdeeef8926"
+  },
+  {
+    "id": "word:评价",
+    "ok": true,
+    "issues": [],
+    "content_hash": "788f783e15bd28ea096883ca40d459caf59c2eeb"
+  },
+  {
+    "id": "word:院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c2b330998ad6c3789f46d10375981eef110c6c98"
+  },
+  {
+    "id": "word:人生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2113c4272eace8e7f8c6e43c072facaee32ec5b"
+  },
+  {
+    "id": "word:接下来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d394d43ac027706457d293a4db724a88b5b0fda"
+  },
+  {
+    "id": "word:双",
+    "ok": false,
+    "issues": [
+      "Pinyin: 眼睛 se escribe «yǎn jing» (tono neutro), no «yǎn jīng»."
+    ],
+    "content_hash": "898d85887864d0a5a02cdfb738dbf47eb9119241"
+  },
+  {
+    "id": "word:绿",
+    "ok": false,
+    "issues": [
+      "Pinyin: 衣服 se escribe «yī fu» (tono neutro), no «yī fú»."
+    ],
+    "content_hash": "437f2baacf4e79909f796bb583a26c8405063f93"
+  },
+  {
+    "id": "word:推进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3b37eaf4c1e03027dafa3c00a8174bb344842b2"
+  },
+  {
+    "id": "word:文明",
+    "ok": false,
+    "issues": [
+      "«在公共地方» suena poco natural; lo habitual es «在公共场所» (zài gōng gòng chǎng suǒ)."
+    ],
+    "content_hash": "7aff32b0613da0dcbec1fdee36d94bf520e271a2"
+  },
+  {
+    "id": "word:重复",
+    "ok": false,
+    "issues": [
+      "Pinyin: 明白 se escribe «míng bai» (tono neutro), no «míng bái».",
+      "Pinyin: 地方 se escribe «dì fang» (tono neutro), no «dì fāng»."
+    ],
+    "content_hash": "ab7507c155987e631d411ad1d6689ba587ace823"
+  },
+  {
+    "id": "word:道理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "077cd75f1df70ade49ff8d9a80e2015f668fd0b3"
+  }
+]

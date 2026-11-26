@@ -1,0 +1,161 @@
+[
+  {
+    "id": "word:承认",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69e72f899eb632c2d3c7eb65701ab0bf4eb1140c"
+  },
+  {
+    "id": "word:此外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "420e7c1d4a8fa309a1a68ff16c0511244d9aded3"
+  },
+  {
+    "id": "word:相",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8185d8a9fe8439d78ab54d34059c95d2a6f98cb9"
+  },
+  {
+    "id": "word:苏联",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d7850b5002c30cba69d96ea635e5bb124972ee09"
+  },
+  {
+    "id": "word:后年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de24d3cf3f9ad749cbf2bbd56df6f2d10a8c3c72"
+  },
+  {
+    "id": "word:段",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «这段路很长»: 长 aquí es cháng (largo), no zhǎng.",
+      "«我读了一段书» suena poco natural; sería mejor «我读了一段课文» o «我读了书里的一段»."
+    ],
+    "content_hash": "859f2508927aa263d0719b99880e98e04c89fb56"
+  },
+  {
+    "id": "word:观点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e5f399d048a30ea9d2666dc95b2a98ac60200c0"
+  },
+  {
+    "id": "word:好像",
+    "ok": true,
+    "issues": [],
+    "content_hash": "817047039d6462439d0b9b31e0acf64c3b2cac48"
+  },
+  {
+    "id": "word:和平",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5156687a2be0a6152af51f5d7100cd8d39517b9"
+  },
+  {
+    "id": "word:青年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "11996ff452e2b2ac2c5f5cad9c4a3089f5935916"
+  },
+  {
+    "id": "word:体育",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c008555dfb9a786a4c60dfd102b0a71fc1b1f0d4"
+  },
+  {
+    "id": "word:主",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33cf42a061d214123bf9256242c6f0dc06a3f35f"
+  },
+  {
+    "id": "word:分享",
+    "ok": false,
+    "issues": [
+      "Pinyin de 照片: la lectura estándar es zhào piàn, no zhào piān (piān es coloquial)."
+    ],
+    "content_hash": "848eb570d6b257bbdae4f39e622d203b6a0bf7be"
+  },
+  {
+    "id": "word:尤其",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0780f6addc07498683d383c6f884cdb4ba7d9dee"
+  },
+  {
+    "id": "word:尽管",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f21bb340ed7d70a33ffa34065654f99a85d52ce3"
+  },
+  {
+    "id": "word:方案",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5223c6b8d70252a25f7ec247485ade3955892141"
+  },
+  {
+    "id": "word:每年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "080040ce77e980bca0a35dcfa20ebc6f86ba247c"
+  },
+  {
+    "id": "word:创造",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81737cdff7201589b6a669e96d15503491f64625"
+  },
+  {
+    "id": "word:提",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3da2c99553056370c490c05c7fc68127a6c75a2e"
+  },
+  {
+    "id": "word:类似",
+    "ok": false,
+    "issues": [
+      "«这两个字很类似» es poco natural; 类似 suele ir como atributo (类似的…) o con objeto (类似于…). Sería mejor «这两个字很像» o «这两个字很相似»."
+    ],
+    "content_hash": "5ab625972de10d24b51a62e53192e40d23c3b37a"
+  },
+  {
+    "id": "word:设立",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd9388c7086f540e436e7bfb9065135d7d4d89f1"
+  },
+  {
+    "id": "word:刚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0e70e2fa23fd4c081f9992da2cbeb77f6344ec5"
+  },
+  {
+    "id": "word:正确",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8c07a173d15e9bb81650200e45847cc0389a9a55"
+  },
+  {
+    "id": "word:不少",
+    "ok": false,
+    "issues": [
+      "Pinyin de 东西 (cosas): es dōng xi, con la segunda sílaba en tono neutro. dōng xī significa «este y oeste»."
+    ],
+    "content_hash": "e538ef0a94ce3ef56f86d7423308d003434b30c0"
+  },
+  {
+    "id": "word:面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c899fe5cdfc369bfc78f424f12de749e87163657"
+  }
+]

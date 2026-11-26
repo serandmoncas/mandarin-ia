@@ -1,0 +1,422 @@
+[
+  {
+    "word": "万",
+    "examples": [
+      {
+        "zh": "我有一万元。",
+        "pinyin": "wo3 you3 yi1 wan4 yuan2"
+      },
+      {
+        "zh": "这个手机要两万元。",
+        "pinyin": "zhe4 ge4 shou3 ji1 yao4 liang3 wan4 yuan2"
+      },
+      {
+        "zh": "这个大学有三万多个学生。",
+        "pinyin": "zhe4 ge4 da4 xue2 you3 san1 wan4 duo1 ge4 xue2 sheng5"
+      },
+      {
+        "zh": "为了买这个房子，他们准备了五十万元。",
+        "pinyin": "wei4 le5 mai3 zhe4 ge4 fang2 zi5 ta1 men5 zhun3 bei4 le5 wu3 shi2 wan4 yuan2"
+      }
+    ]
+  },
+  {
+    "word": "像",
+    "examples": [
+      {
+        "zh": "你很像你妈妈。",
+        "pinyin": "ni3 hen3 xiang4 ni3 ma1 ma5"
+      },
+      {
+        "zh": "他说话像老人一样。",
+        "pinyin": "ta1 shuo1 hua4 xiang4 lao3 ren2 yi1 yang4"
+      },
+      {
+        "zh": "这个孩子像他爸爸一样喜欢电影。",
+        "pinyin": "zhe4 ge4 hai2 zi5 xiang4 ta1 ba4 ba5 yi1 yang4 xi3 huan5 dian4 ying3"
+      },
+      {
+        "zh": "像北京、香港这样的地方，东西都很贵。",
+        "pinyin": "xiang4 bei3 jing1 xiang1 gang3 zhe4 yang4 de5 di4 fang5 dong1 xi5 dou1 hen3 gui4"
+      }
+    ]
+  },
+  {
+    "word": "关系",
+    "examples": [
+      {
+        "zh": "没关系。",
+        "pinyin": "mei2 guan1 xi5"
+      },
+      {
+        "zh": "他们是什么关系？",
+        "pinyin": "ta1 men5 shi4 shen2 me5 guan1 xi5"
+      },
+      {
+        "zh": "我和他的关系很好。",
+        "pinyin": "wo3 he2 ta1 de5 guan1 xi5 hen3 hao3"
+      },
+      {
+        "zh": "在中国做事，有关系很重要。",
+        "pinyin": "zai4 zhong1 guo2 zuo4 shi4 you3 guan1 xi5 hen3 zhong4 yao4"
+      }
+    ]
+  },
+  {
+    "word": "研究",
+    "examples": [
+      {
+        "zh": "她研究中国历史。",
+        "pinyin": "ta1 yan2 jiu1 zhong1 guo2 li4 shi3"
+      },
+      {
+        "zh": "他在大学做研究。",
+        "pinyin": "ta1 zai4 da4 xue2 zuo4 yan2 jiu1"
+      },
+      {
+        "zh": "这个问题我们要研究一下。",
+        "pinyin": "zhe4 ge4 wen4 ti2 wo3 men5 yao4 yan2 jiu1 yi1 xia4"
+      },
+      {
+        "zh": "这个研究对发展经济非常重要。",
+        "pinyin": "zhe4 ge4 yan2 jiu1 dui4 fa1 zhan3 jing1 ji4 fei1 chang2 zhong4 yao4"
+      }
+    ]
+  },
+  {
+    "word": "医院",
+    "examples": [
+      {
+        "zh": "医院在哪里？",
+        "pinyin": "yi1 yuan4 zai4 na3 li3"
+      },
+      {
+        "zh": "我妈妈在医院工作。",
+        "pinyin": "wo3 ma1 ma5 zai4 yi1 yuan4 gong1 zuo4"
+      },
+      {
+        "zh": "孩子病了，我们得去医院。",
+        "pinyin": "hai2 zi5 bing4 le5 wo3 men5 dei3 qu4 yi1 yuan4"
+      },
+      {
+        "zh": "这家医院是北京最好的医院之一。",
+        "pinyin": "zhe4 jia1 yi1 yuan4 shi4 bei3 jing1 zui4 hao3 de5 yi1 yuan4 zhi1 yi1"
+      }
+    ]
+  },
+  {
+    "word": "水",
+    "examples": [
+      {
+        "zh": "我想喝水。",
+        "pinyin": "wo3 xiang3 he1 shui3"
+      },
+      {
+        "zh": "请给我一杯水。",
+        "pinyin": "qing3 gei3 wo3 yi1 bei1 shui3"
+      },
+      {
+        "zh": "这里的水能喝吗？",
+        "pinyin": "zhe4 li3 de5 shui3 neng2 he1 ma5"
+      },
+      {
+        "zh": "天太热了，你要多喝水。",
+        "pinyin": "tian1 tai4 re4 le5 ni3 yao4 duo1 he1 shui3"
+      }
+    ]
+  },
+  {
+    "word": "服务",
+    "examples": [
+      {
+        "zh": "这家公司的服务很好。",
+        "pinyin": "zhe4 jia1 gong1 si1 de5 fu2 wu4 hen3 hao3"
+      },
+      {
+        "zh": "这个网站提供什么服务？",
+        "pinyin": "zhe4 ge4 wang3 zhan4 ti2 gong1 shen2 me5 fu2 wu4"
+      },
+      {
+        "zh": "很多人觉得这里的服务太慢了。",
+        "pinyin": "hen3 duo1 ren2 jue2 de5 zhe4 li3 de5 fu2 wu4 tai4 man4 le5"
+      },
+      {
+        "zh": "政府应该为人民提供更好的服务。",
+        "pinyin": "zheng4 fu3 ying1 gai1 wei4 ren2 min2 ti2 gong1 geng4 hao3 de5 fu2 wu4"
+      }
+    ]
+  },
+  {
+    "word": "手",
+    "examples": [
+      {
+        "zh": "我的手很冷。",
+        "pinyin": "wo3 de5 shou3 hen3 leng3"
+      },
+      {
+        "zh": "请先洗手。",
+        "pinyin": "qing3 xian1 xi3 shou3"
+      },
+      {
+        "zh": "他手里拿着一本书。",
+        "pinyin": "ta1 shou3 li3 na2 zhe5 yi1 ben3 shu1"
+      },
+      {
+        "zh": "她用左手写字，写得非常好。",
+        "pinyin": "ta1 yong4 zuo3 shou3 xie3 zi4 xie3 de5 fei1 chang2 hao3"
+      }
+    ]
+  },
+  {
+    "word": "明白",
+    "examples": [
+      {
+        "zh": "我明白了。",
+        "pinyin": "wo3 ming2 bai5 le5"
+      },
+      {
+        "zh": "你明白我的话吗？",
+        "pinyin": "ni3 ming2 bai5 wo3 de5 hua4 ma5"
+      },
+      {
+        "zh": "老师说得很明白。",
+        "pinyin": "lao3 shi1 shuo1 de5 hen3 ming2 bai5"
+      },
+      {
+        "zh": "我现在才明白他为什么不想去北京。",
+        "pinyin": "wo3 xian4 zai4 cai2 ming2 bai5 ta1 wei4 shen2 me5 bu4 xiang3 qu4 bei3 jing1"
+      }
+    ]
+  },
+  {
+    "word": "而且",
+    "examples": [
+      {
+        "zh": "这个很好，而且不贵。",
+        "pinyin": "zhe4 ge4 hen3 hao3 er2 qie3 bu4 gui4"
+      },
+      {
+        "zh": "她会说中文，而且说得很好。",
+        "pinyin": "ta1 hui4 shuo1 zhong1 wen2 er2 qie3 shuo1 de5 hen3 hao3"
+      },
+      {
+        "zh": "今天太晚了，而且我也很累。",
+        "pinyin": "jin1 tian1 tai4 wan3 le5 er2 qie3 wo3 ye3 hen3 lei4"
+      },
+      {
+        "zh": "这个工作不但钱多，而且时间也不长。",
+        "pinyin": "zhe4 ge4 gong1 zuo4 bu4 dan4 qian2 duo1 er2 qie3 shi2 jian1 ye3 bu4 chang2"
+      }
+    ]
+  },
+  {
+    "word": "较",
+    "examples": [
+      {
+        "zh": "今天较冷。",
+        "pinyin": "jin1 tian1 jiao4 leng3"
+      },
+      {
+        "zh": "这里的东西较贵。",
+        "pinyin": "zhe4 li3 de5 dong1 xi5 jiao4 gui4"
+      },
+      {
+        "zh": "他的工作时间较长。",
+        "pinyin": "ta1 de5 gong1 zuo4 shi2 jian1 jiao4 chang2"
+      },
+      {
+        "zh": "今年来中国的学生较去年多了一些。",
+        "pinyin": "jin1 nian2 lai2 zhong1 guo2 de5 xue2 sheng5 jiao4 qu4 nian2 duo1 le5 yi1 xie1"
+      }
+    ]
+  },
+  {
+    "word": "跑",
+    "examples": [
+      {
+        "zh": "他跑得很快。",
+        "pinyin": "ta1 pao3 de5 hen3 kuai4"
+      },
+      {
+        "zh": "别跑，我们走路去吧。",
+        "pinyin": "bie2 pao3 wo3 men5 zou3 lu4 qu4 ba5"
+      },
+      {
+        "zh": "我们家的狗跑了。",
+        "pinyin": "wo3 men5 jia1 de5 gou3 pao3 le5"
+      },
+      {
+        "zh": "为了这个问题，我今天跑了三个地方。",
+        "pinyin": "wei4 le5 zhe4 ge4 wen4 ti2 wo3 jin1 tian1 pao3 le5 san1 ge4 di4 fang5"
+      }
+    ]
+  },
+  {
+    "word": "动",
+    "examples": [
+      {
+        "zh": "别动！",
+        "pinyin": "bie2 dong4"
+      },
+      {
+        "zh": "别动我的东西。",
+        "pinyin": "bie2 dong4 wo3 de5 dong1 xi5"
+      },
+      {
+        "zh": "车开始动了。",
+        "pinyin": "che1 kai1 shi3 dong4 le5"
+      },
+      {
+        "zh": "这个电影的故事让很多人都很感动。",
+        "pinyin": "zhe4 ge4 dian4 ying3 de5 gu4 shi5 rang4 hen3 duo1 ren2 dou1 hen3 gan3 dong4"
+      }
+    ]
+  },
+  {
+    "word": "目前",
+    "examples": [
+      {
+        "zh": "目前我在北京工作。",
+        "pinyin": "mu4 qian2 wo3 zai4 bei3 jing1 gong1 zuo4"
+      },
+      {
+        "zh": "目前还没有结果。",
+        "pinyin": "mu4 qian2 hai2 mei2 you3 jie2 guo3"
+      },
+      {
+        "zh": "这是目前最好的方式。",
+        "pinyin": "zhe4 shi4 mu4 qian2 zui4 hao3 de5 fang1 shi4"
+      },
+      {
+        "zh": "目前这个地区的经济发展得非常快。",
+        "pinyin": "mu4 qian2 zhe4 ge4 di4 qu1 de5 jing1 ji4 fa1 zhan3 de5 fei1 chang2 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "安全",
+    "examples": [
+      {
+        "zh": "这里很安全。",
+        "pinyin": "zhe4 li3 hen3 an1 quan2"
+      },
+      {
+        "zh": "晚上一个人走路不安全。",
+        "pinyin": "wan3 shang5 yi1 ge4 ren2 zou3 lu4 bu4 an1 quan2"
+      },
+      {
+        "zh": "坐飞机比坐汽车更安全吗？",
+        "pinyin": "zuo4 fei1 ji1 bi3 zuo4 qi4 che1 geng4 an1 quan2 ma5"
+      },
+      {
+        "zh": "政府应该让人民生活得更安全。",
+        "pinyin": "zheng4 fu3 ying1 gai1 rang4 ren2 min2 sheng1 huo2 de5 geng4 an1 quan2"
+      }
+    ]
+  },
+  {
+    "word": "一种",
+    "examples": [
+      {
+        "zh": "这是一种花。",
+        "pinyin": "zhe4 shi4 yi1 zhong3 hua1"
+      },
+      {
+        "zh": "这是一种新技术。",
+        "pinyin": "zhe4 shi4 yi1 zhong3 xin1 ji4 shu4"
+      },
+      {
+        "zh": "这是一种很好的学习方式。",
+        "pinyin": "zhe4 shi4 yi1 zhong3 hen3 hao3 de5 xue2 xi2 fang1 shi4"
+      },
+      {
+        "zh": "对我来说，学习中文也是一种生活方式。",
+        "pinyin": "dui4 wo3 lai2 shuo1 xue2 xi2 zhong1 wen2 ye3 shi4 yi1 zhong3 sheng1 huo2 fang1 shi4"
+      }
+    ]
+  },
+  {
+    "word": "不大",
+    "examples": [
+      {
+        "zh": "我们的学校不大。",
+        "pinyin": "wo3 men5 de5 xue2 xiao4 bu4 da4"
+      },
+      {
+        "zh": "他不大说话。",
+        "pinyin": "ta1 bu4 da4 shuo1 hua4"
+      },
+      {
+        "zh": "我不大喜欢这个电影。",
+        "pinyin": "wo3 bu4 da4 xi3 huan5 zhe4 ge4 dian4 ying3"
+      },
+      {
+        "zh": "我听得不大明白，你能再说一次吗？",
+        "pinyin": "wo3 ting1 de5 bu4 da4 ming2 bai5 ni3 neng2 zai4 shuo1 yi1 ci4 ma5"
+      }
+    ]
+  },
+  {
+    "word": "关于",
+    "examples": [
+      {
+        "zh": "这是一本关于中国的书。",
+        "pinyin": "zhe4 shi4 yi1 ben3 guan1 yu2 zhong1 guo2 de5 shu1"
+      },
+      {
+        "zh": "你知道关于他的事吗？",
+        "pinyin": "ni3 zhi1 dao5 guan1 yu2 ta1 de5 shi4 ma5"
+      },
+      {
+        "zh": "关于这个问题，我们明天再说吧。",
+        "pinyin": "guan1 yu2 zhe4 ge4 wen4 ti2 wo3 men5 ming2 tian1 zai4 shuo1 ba5"
+      },
+      {
+        "zh": "我看了一部关于日本历史的电影，非常有意思。",
+        "pinyin": "wo3 kan4 le5 yi1 bu4 guan1 yu2 ri4 ben3 li4 shi3 de5 dian4 ying3 fei1 chang2 you3 yi4 si5"
+      }
+    ]
+  },
+  {
+    "word": "部分",
+    "examples": [
+      {
+        "zh": "这只是一部分。",
+        "pinyin": "zhe4 zhi3 shi4 yi1 bu4 fen5"
+      },
+      {
+        "zh": "大部分学生都喜欢他。",
+        "pinyin": "da4 bu4 fen5 xue2 sheng5 dou1 xi3 huan5 ta1"
+      },
+      {
+        "zh": "这本书的第一部分很难。",
+        "pinyin": "zhe4 ben3 shu1 de5 di4 yi1 bu4 fen5 hen3 nan2"
+      },
+      {
+        "zh": "一部分人认为这个计划不对，但也有一部分人支持。",
+        "pinyin": "yi1 bu4 fen5 ren2 ren4 wei2 zhe4 ge4 ji4 hua4 bu4 dui4 dan4 ye3 you3 yi1 bu4 fen5 ren2 zhi1 chi2"
+      }
+    ]
+  },
+  {
+    "word": "重",
+    "examples": [
+      {
+        "zh": "这个很重。",
+        "pinyin": "zhe4 ge4 hen3 zhong4"
+      },
+      {
+        "zh": "你的书太重了。",
+        "pinyin": "ni3 de5 shu1 tai4 zhong4 le5"
+      },
+      {
+        "zh": "你的东西这么重，我帮你拿吧。",
+        "pinyin": "ni3 de5 dong1 xi5 zhe4 me5 zhong4 wo3 bang1 ni3 na2 ba5"
+      },
+      {
+        "zh": "他病得很重，已经在医院住了两个月。",
+        "pinyin": "ta1 bing4 de5 hen3 zhong4 yi3 jing1 zai4 yi1 yuan4 zhu4 le5 liang3 ge4 yue4"
+      }
+    ]
+  }
+]

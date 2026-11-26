@@ -1,0 +1,190 @@
+[
+  {
+    "id": "word:明天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d33f0957e690056929a61323463290fc68a7bacd"
+  },
+  {
+    "id": "word:死",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34353cbf66d574f3762aad7d03caa74811880426"
+  },
+  {
+    "id": "word:不用",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 东西 debe ser 'dōng xi' (tono neutro), no 'dōng xī'."
+    ],
+    "content_hash": "02233e367264b8df6f0eff8d5ed9f14e996a68df"
+  },
+  {
+    "id": "word:建设",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e4e7a21b9479479e3a2e948b7579c66b4a37479"
+  },
+  {
+    "id": "word:记得",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 记得 debe ser 'jì de', no 'jì dé'; es inconsistente con los demás ejemplos.",
+      "Pinyin: 名字 debe ser 'míng zi' y 时候 'shí hou' (tono neutro)."
+    ],
+    "content_hash": "1e83c2df9024a54de81f95aa50860170bc2b3397"
+  },
+  {
+    "id": "word:教",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 教 debe ser 'jiāo' (enseñar), no 'jiào'.",
+      "Pinyin del ejemplo 4: 妈妈 debe ser 'mā ma', no 'mā mā'."
+    ],
+    "content_hash": "99f88ed787a04ac3568aea56b20df3e0a4e4b43e"
+  },
+  {
+    "id": "word:图",
+    "ok": false,
+    "issues": [
+      "Pinyin: 告诉 debe ser 'gào su', no 'gào sù'.",
+      "Pinyin: el complemento 得 en 发展得 debe ser 'de', no 'dé'.",
+      "Pinyin: 一张 debe ser 'yì zhāng' por el sandhi de 一; es inconsistente con otros ejemplos."
+    ],
+    "content_hash": "d88d122f95eb8feef84e3231ba4830250e3fcda2"
+  },
+  {
+    "id": "word:回家",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 debe ser 'shí hou' y 妈妈 'mā ma' (tono neutro).",
+      "Ejemplo 1: 我回家了 es ambiguo ('me voy a casa' o 'ya volví/llegué a casa'); conviene aclararlo o dar contexto."
+    ],
+    "content_hash": "5d97da63a860684d521721bf810ef73fb1013540"
+  },
+  {
+    "id": "word:新闻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20b9f4d121187909af78b4d43e4e92b2b8791e17"
+  },
+  {
+    "id": "word:南",
+    "ok": true,
+    "issues": [],
+    "content_hash": "965044cf4b783ceeb6e3d190e4292b15bbe1cb32"
+  },
+  {
+    "id": "word:有人",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 debe ser 'xǐ huan' y 朋友 'péng you' (tono neutro)."
+    ],
+    "content_hash": "00271c25b816baa7731cfc2d67b9c9b54a7c28c8"
+  },
+  {
+    "id": "word:医生",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 妈妈 debe ser 'mā ma', no 'mā mā'."
+    ],
+    "content_hash": "04deb917065fec773478e6bcf50a9513a6823325"
+  },
+  {
+    "id": "word:自由",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: la partícula 地 debe ser 'de', no 'dì'."
+    ],
+    "content_hash": "5b3967552d6ef524971ad16dc39f27f6ba704d05"
+  },
+  {
+    "id": "word:台湾",
+    "ok": false,
+    "issues": [
+      "Pinyin: 朋友 debe ser 'péng you' y 东西 'dōng xi' (tono neutro).",
+      "Pinyin: 一次 debe ser 'yí cì' por el sandhi de 一."
+    ],
+    "content_hash": "efc6f902b2be8cf68b5f9ddd9f0040c3a058c928"
+  },
+  {
+    "id": "word:读",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 一下 debe ser 'yí xià' por el sandhi de 一."
+    ],
+    "content_hash": "1521a90dfc236200b3f5e5192582aa0c57d040b1"
+  },
+  {
+    "id": "word:曾",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 一名 debe ser 'yì míng' por el sandhi de 一."
+    ],
+    "content_hash": "1e301d6f26ddf26030464033ad6ddd9634716c0c"
+  },
+  {
+    "id": "word:工人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ab58d7f56cfec4209426a69c485ce728cca84c3"
+  },
+  {
+    "id": "word:参加",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de3523c53a8033e6a9b34741fe59d41375f69271"
+  },
+  {
+    "id": "word:去年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da79f6c61e97d6f73cf6d32494330d2bd06b5780"
+  },
+  {
+    "id": "word:当时",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: el complemento 得 en 说得对 debe ser 'de', no 'dé'."
+    ],
+    "content_hash": "8f37b9bdda6e76cf802d507a36753898e08c9fb5"
+  },
+  {
+    "id": "word:常",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 debe ser 'mā ma', 东西 'dōng xi' y 时候 'shí hou' (tono neutro).",
+      "Inconsistencia: el ejemplo 1 usa 'Beijing' y otras entradas usan 'Pekín'."
+    ],
+    "content_hash": "066e28620af1e65e7364f039b9e494ac8bf35ee3"
+  },
+  {
+    "id": "word:过去",
+    "ok": false,
+    "issues": [
+      "Pinyin: 一会儿 debe ser 'yí huìr', no 'yī huì er'.",
+      "Pinyin: el complemento 得 en 发展得 debe ser 'de', no 'dé'."
+    ],
+    "content_hash": "3033bef0bc7b5d58a8b9187a3b4a265d5445532f"
+  },
+  {
+    "id": "word:电",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0c1e47b769b3f078ca8c281ecda22a9def18752"
+  },
+  {
+    "id": "word:单位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f43cc746391469d1396d6e914b18d2fe1d1008a7"
+  },
+  {
+    "id": "word:回答",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: el complemento 得 en 回答得 debe ser 'de', no 'dé'."
+    ],
+    "content_hash": "355318890ca1094367e0f0cd80d817816d356837"
+  }
+]

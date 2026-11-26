@@ -1,0 +1,538 @@
+[
+  {
+    "word": "大大",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enormemente",
+      "en gran medida",
+      "(dialectal) papá; tío"
+    ],
+    "examples": [
+      {
+        "zh": "价格大大增加了。",
+        "es": "El precio aumentó enormemente."
+      },
+      {
+        "zh": "这个办法大大减少了问题。",
+        "es": "Este método redujo mucho los problemas."
+      },
+      {
+        "zh": "手机大大改变了我们的生活。",
+        "es": "El celular cambió enormemente nuestra vida."
+      },
+      {
+        "zh": "新的电脑系统大大提高了公司的工作速度。",
+        "es": "El nuevo sistema informático aumentó mucho la velocidad de trabajo de la empresa."
+      }
+    ]
+  },
+  {
+    "word": "随",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "seguir; acompañar",
+      "según; conforme a",
+      "dejar (que alguien haga lo que quiera)"
+    ],
+    "examples": [
+      {
+        "zh": "随你吧。",
+        "es": "Como quieras."
+      },
+      {
+        "zh": "请随我来。",
+        "es": "Sígame, por favor."
+      },
+      {
+        "zh": "价格随时间变化。",
+        "es": "El precio cambia con el tiempo."
+      },
+      {
+        "zh": "他随父母去了美国，在那里住了三年。",
+        "es": "Se fue a Estados Unidos con sus padres y vivió allí tres años."
+      }
+    ]
+  },
+  {
+    "word": "封",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "(clasificador para cartas)",
+      "sellar; cerrar",
+      "otorgar (un título)"
+    ],
+    "examples": [
+      {
+        "zh": "我写了一封信。",
+        "es": "Escribí una carta."
+      },
+      {
+        "zh": "这封信是谁的？",
+        "es": "¿De quién es esta carta?"
+      },
+      {
+        "zh": "他给妈妈写了一封很长的信。",
+        "es": "Le escribió una carta muy larga a su mamá."
+      },
+      {
+        "zh": "这条路被警察封了，我们只能走另一条路。",
+        "es": "La policía cerró esta calle, así que tenemos que tomar otra."
+      }
+    ]
+  },
+  {
+    "word": "体现",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "reflejar",
+      "encarnar; plasmar",
+      "manifestar"
+    ],
+    "examples": [
+      {
+        "zh": "这体现了他的态度。",
+        "es": "Esto refleja su actitud."
+      },
+      {
+        "zh": "这本书体现了中国文化。",
+        "es": "Este libro refleja la cultura china."
+      },
+      {
+        "zh": "他的作品体现了他对生活的爱。",
+        "es": "Su obra refleja su amor por la vida."
+      },
+      {
+        "zh": "这次活动体现了学生们的努力和合作精神。",
+        "es": "Esta actividad reflejó el esfuerzo y el espíritu de cooperación de los estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "不一定",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no necesariamente",
+      "no es seguro",
+      "tal vez no"
+    ],
+    "examples": [
+      {
+        "zh": "这不一定对。",
+        "es": "Eso no necesariamente es correcto."
+      },
+      {
+        "zh": "他明天不一定来。",
+        "es": "No es seguro que él venga mañana."
+      },
+      {
+        "zh": "贵的东西不一定好。",
+        "es": "Lo caro no siempre es bueno."
+      },
+      {
+        "zh": "学习好的学生不一定能找到好工作。",
+        "es": "Un buen estudiante no necesariamente consigue un buen trabajo."
+      }
+    ]
+  },
+  {
+    "word": "赢",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ganar",
+      "vencer",
+      "obtener ganancias"
+    ],
+    "examples": [
+      {
+        "zh": "我们赢了！",
+        "es": "¡Ganamos!"
+      },
+      {
+        "zh": "谁赢了比赛？",
+        "es": "¿Quién ganó el partido?"
+      },
+      {
+        "zh": "这次比赛他一定会赢。",
+        "es": "Seguro que él gana esta competencia."
+      },
+      {
+        "zh": "如果我们努力训练，明年一定能赢。",
+        "es": "Si entrenamos duro, el próximo año seguro ganaremos."
+      }
+    ]
+  },
+  {
+    "word": "不但",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no solo (… sino también)",
+      "no solamente"
+    ],
+    "examples": [
+      {
+        "zh": "这个菜不但好吃，而且好看。",
+        "es": "Este platillo no solo es rico, sino que también se ve bonito."
+      },
+      {
+        "zh": "她不但是我的老师，也是我的朋友。",
+        "es": "Ella no solo es mi maestra, también es mi amiga."
+      },
+      {
+        "zh": "他不但会说汉语，还会写汉字。",
+        "es": "Él no solo habla chino, también sabe escribir caracteres chinos."
+      },
+      {
+        "zh": "这个手机不但价格低，而且质量也非常好。",
+        "es": "Este celular no solo tiene un precio bajo, sino que además es de muy buena calidad."
+      }
+    ]
+  },
+  {
+    "word": "礼物",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "regalo",
+      "obsequio"
+    ],
+    "examples": [
+      {
+        "zh": "这是你的礼物。",
+        "es": "Este es tu regalo."
+      },
+      {
+        "zh": "谢谢你的礼物！",
+        "es": "¡Gracias por tu regalo!"
+      },
+      {
+        "zh": "我给妈妈买了一个生日礼物。",
+        "es": "Le compré un regalo de cumpleaños a mi mamá."
+      },
+      {
+        "zh": "你觉得送什么礼物给女朋友比较好？",
+        "es": "¿Qué regalo crees que es mejor darle a mi novia?"
+      }
+    ]
+  },
+  {
+    "word": "指导",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "guiar; orientar",
+      "dirigir; instruir",
+      "orientación",
+      "entrenador"
+    ],
+    "examples": [
+      {
+        "zh": "谢谢您的指导！",
+        "es": "¡Gracias por su orientación!"
+      },
+      {
+        "zh": "老师指导我们写文章。",
+        "es": "El maestro nos guía para escribir textos."
+      },
+      {
+        "zh": "这个项目需要专家的指导。",
+        "es": "Este proyecto necesita la orientación de un experto."
+      },
+      {
+        "zh": "在老师的指导下，他的汉语水平提高得很快。",
+        "es": "Con la guía del maestro, su nivel de chino mejoró muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "什么样",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "qué tipo de",
+      "qué clase de",
+      "cómo (es)"
+    ],
+    "examples": [
+      {
+        "zh": "他是什么样的人？",
+        "es": "¿Qué tipo de persona es él?"
+      },
+      {
+        "zh": "你喜欢什么样的书？",
+        "es": "¿Qué tipo de libros te gustan?"
+      },
+      {
+        "zh": "你想找什么样的工作？",
+        "es": "¿Qué tipo de trabajo quieres buscar?"
+      },
+      {
+        "zh": "你觉得什么样的生活才是最好的生活？",
+        "es": "¿Qué tipo de vida crees que es la mejor?"
+      }
+    ]
+  },
+  {
+    "word": "专门",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "especialmente; a propósito",
+      "especializado",
+      "dedicado (a algo)"
+    ],
+    "examples": [
+      {
+        "zh": "我专门来看你。",
+        "es": "Vine especialmente a verte."
+      },
+      {
+        "zh": "这是专门为你做的。",
+        "es": "Esto lo hice especialmente para ti."
+      },
+      {
+        "zh": "他是专门研究历史的。",
+        "es": "Él se dedica a investigar la historia."
+      },
+      {
+        "zh": "这家医院专门给孩子看病，医生都很好。",
+        "es": "Este hospital atiende solo a niños, y todos los médicos son muy buenos."
+      }
+    ]
+  },
+  {
+    "word": "头发",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cabello; pelo"
+    ],
+    "examples": [
+      {
+        "zh": "她的头发很长。",
+        "es": "Ella tiene el pelo muy largo."
+      },
+      {
+        "zh": "我要去洗头发。",
+        "es": "Voy a lavarme el pelo."
+      },
+      {
+        "zh": "妈妈的头发越来越白了。",
+        "es": "El cabello de mamá está cada vez más blanco."
+      },
+      {
+        "zh": "他工作压力太大，头发都快没了。",
+        "es": "Tiene tanto estrés en el trabajo que ya casi se quedó sin pelo."
+      }
+    ]
+  },
+  {
+    "word": "传播",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "difundir; propagar",
+      "transmitir",
+      "divulgar"
+    ],
+    "examples": [
+      {
+        "zh": "新闻传播得很快。",
+        "es": "Las noticias se difunden muy rápido."
+      },
+      {
+        "zh": "这种病会通过水传播。",
+        "es": "Esta enfermedad se transmite por el agua."
+      },
+      {
+        "zh": "互联网让信息传播得更快。",
+        "es": "Internet hace que la información se difunda más rápido."
+      },
+      {
+        "zh": "我们应该把中国文化传播到世界各地。",
+        "es": "Deberíamos difundir la cultura china por todo el mundo."
+      }
+    ]
+  },
+  {
+    "word": "准确",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "preciso; exacto",
+      "correcto",
+      "acertado"
+    ],
+    "examples": [
+      {
+        "zh": "这个时间准确吗？",
+        "es": "¿Es exacta esta hora?"
+      },
+      {
+        "zh": "这个数字不太准确。",
+        "es": "Esta cifra no es muy precisa."
+      },
+      {
+        "zh": "他的汉语说得很准确。",
+        "es": "Él habla chino con mucha precisión."
+      },
+      {
+        "zh": "记者的报道必须准确，不能有错误。",
+        "es": "Los reportajes de un periodista deben ser precisos y no pueden tener errores."
+      }
+    ]
+  },
+  {
+    "word": "电视台",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "canal de televisión",
+      "televisora; estación de televisión"
+    ],
+    "examples": [
+      {
+        "zh": "他在电视台工作。",
+        "es": "Él trabaja en un canal de televisión."
+      },
+      {
+        "zh": "这是哪个电视台？",
+        "es": "¿Qué canal es este?"
+      },
+      {
+        "zh": "北京电视台今天有一个新节目。",
+        "es": "Hoy hay un programa nuevo en la televisora de Pekín."
+      },
+      {
+        "zh": "她想去电视台工作，当一名新闻记者。",
+        "es": "Ella quiere trabajar en una televisora como periodista de noticias."
+      }
+    ]
+  },
+  {
+    "word": "作业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tarea (escolar)",
+      "trabajo; labor",
+      "operación"
+    ],
+    "examples": [
+      {
+        "zh": "今天的作业多吗？",
+        "es": "¿Hay mucha tarea hoy?"
+      },
+      {
+        "zh": "我的作业写完了。",
+        "es": "Ya terminé mi tarea."
+      },
+      {
+        "zh": "老师给了我们很多作业。",
+        "es": "El maestro nos dejó mucha tarea."
+      },
+      {
+        "zh": "他每天晚上做作业，常常到很晚才睡觉。",
+        "es": "Todas las noches hace la tarea y muchas veces se duerme muy tarde."
+      }
+    ]
+  },
+  {
+    "word": "进步",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "progreso; avance",
+      "progresar; mejorar"
+    ],
+    "examples": [
+      {
+        "zh": "你进步了！",
+        "es": "¡Has mejorado!"
+      },
+      {
+        "zh": "他的汉语进步很快。",
+        "es": "Su chino está mejorando muy rápido."
+      },
+      {
+        "zh": "科技的进步改变了我们的生活。",
+        "es": "El avance de la tecnología cambió nuestra vida."
+      },
+      {
+        "zh": "只要每天努力学习，你一定会有很大的进步。",
+        "es": "Con tal de que estudies con esfuerzo todos los días, seguro vas a progresar mucho."
+      }
+    ]
+  },
+  {
+    "word": "合适",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adecuado; apropiado",
+      "conveniente",
+      "que queda bien"
+    ],
+    "examples": [
+      {
+        "zh": "这个时间合适吗？",
+        "es": "¿Te conviene esta hora?"
+      },
+      {
+        "zh": "这件衣服很合适。",
+        "es": "Esta ropa queda muy bien."
+      },
+      {
+        "zh": "我还没找到合适的房子。",
+        "es": "Todavía no encuentro una casa adecuada."
+      },
+      {
+        "zh": "我们需要找一个合适的地方开会，你有什么想法？",
+        "es": "Necesitamos encontrar un lugar adecuado para la reunión, ¿tienes alguna idea?"
+      }
+    ]
+  },
+  {
+    "word": "连续",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "consecutivo; seguido",
+      "continuo",
+      "en serie"
+    ],
+    "examples": [
+      {
+        "zh": "已经连续下了三天雨了。",
+        "es": "Ya lleva tres días seguidos lloviendo."
+      },
+      {
+        "zh": "他连续工作了十个小时。",
+        "es": "Trabajó diez horas seguidas."
+      },
+      {
+        "zh": "我们队连续赢了五场比赛。",
+        "es": "Nuestro equipo ganó cinco partidos consecutivos."
+      },
+      {
+        "zh": "因为连续几天没睡觉，他的身体出现了问题。",
+        "es": "Como pasó varios días seguidos sin dormir, empezó a tener problemas de salud."
+      }
+    ]
+  },
+  {
+    "word": "加油",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¡ánimo!; ¡vamos!",
+      "echar gasolina; cargar combustible",
+      "esforzarse más",
+      "animar (a alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "加油，你一定可以！",
+        "es": "¡Ánimo, tú puedes!"
+      },
+      {
+        "zh": "明天考试，加油！",
+        "es": "Mañana es el examen, ¡mucho ánimo!"
+      },
+      {
+        "zh": "车没油了，我们先去加油吧。",
+        "es": "El auto se quedó sin gasolina, primero vamos a cargar."
+      },
+      {
+        "zh": "比赛的时候，朋友们都在旁边为他加油。",
+        "es": "Durante la competencia, todos sus amigos lo animaban desde un lado."
+      }
+    ]
+  }
+]

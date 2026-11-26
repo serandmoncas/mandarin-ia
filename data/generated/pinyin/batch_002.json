@@ -1,0 +1,422 @@
+[
+  {
+    "word": "发生",
+    "examples": [
+      {
+        "zh": "发生了什么？",
+        "pinyin": "fa1 sheng1 le5 shen2 me5"
+      },
+      {
+        "zh": "这里发生了一件事。",
+        "pinyin": "zhe4 li3 fa1 sheng1 le5 yi1 jian4 shi4"
+      },
+      {
+        "zh": "这种事以前也发生过。",
+        "pinyin": "zhe4 zhong3 shi4 yi3 qian2 ye3 fa1 sheng1 guo5"
+      },
+      {
+        "zh": "如果发生问题，请马上给我打电话。",
+        "pinyin": "ru2 guo3 fa1 sheng1 wen4 ti2 qing3 ma3 shang4 gei3 wo3 da3 dian4 hua4"
+      }
+    ]
+  },
+  {
+    "word": "朋友",
+    "examples": [
+      {
+        "zh": "他是我的朋友。",
+        "pinyin": "ta1 shi4 wo3 de5 peng2 you5"
+      },
+      {
+        "zh": "我有很多中国朋友。",
+        "pinyin": "wo3 you3 hen3 duo1 zhong1 guo2 peng2 you5"
+      },
+      {
+        "zh": "周末我想和朋友去看电影。",
+        "pinyin": "zhou1 mo4 wo3 xiang3 he2 peng2 you5 qu4 kan4 dian4 ying3"
+      },
+      {
+        "zh": "如果你需要帮助，可以找你的朋友。",
+        "pinyin": "ru2 guo3 ni3 xu1 yao4 bang1 zhu4 ke3 yi3 zhao3 ni3 de5 peng2 you5"
+      }
+    ]
+  },
+  {
+    "word": "站",
+    "examples": [
+      {
+        "zh": "请站起来。",
+        "pinyin": "qing3 zhan4 qi5 lai5"
+      },
+      {
+        "zh": "他站在学校前面。",
+        "pinyin": "ta1 zhan4 zai4 xue2 xiao4 qian2 mian4"
+      },
+      {
+        "zh": "我们在下一站下。",
+        "pinyin": "wo3 men5 zai4 xia4 yi1 zhan4 xia4"
+      },
+      {
+        "zh": "他在那个站等了我们很长时间。",
+        "pinyin": "ta1 zai4 na4 ge5 zhan4 deng3 le5 wo3 men5 hen3 chang2 shi2 jian1"
+      }
+    ]
+  },
+  {
+    "word": "香港",
+    "examples": [
+      {
+        "zh": "我去过香港。",
+        "pinyin": "wo3 qu4 guo5 xiang1 gang3"
+      },
+      {
+        "zh": "我朋友在香港工作。",
+        "pinyin": "wo3 peng2 you5 zai4 xiang1 gang3 gong1 zuo4"
+      },
+      {
+        "zh": "香港的东西很好吃。",
+        "pinyin": "xiang1 gang3 de5 dong1 xi5 hen3 hao3 chi1"
+      },
+      {
+        "zh": "从北京到香港要多长时间？",
+        "pinyin": "cong2 bei3 jing1 dao4 xiang1 gang3 yao4 duo1 chang2 shi2 jian1"
+      }
+    ]
+  },
+  {
+    "word": "为了",
+    "examples": [
+      {
+        "zh": "我来中国是为了学中文。",
+        "pinyin": "wo3 lai2 zhong1 guo2 shi4 wei4 le5 xue2 zhong1 wen2"
+      },
+      {
+        "zh": "为了你，我什么都会做。",
+        "pinyin": "wei4 le5 ni3 wo3 shen2 me5 dou1 hui4 zuo4"
+      },
+      {
+        "zh": "为了买房子，他们每天工作。",
+        "pinyin": "wei4 le5 mai3 fang2 zi5 ta1 men5 mei3 tian1 gong1 zuo4"
+      },
+      {
+        "zh": "为了看这个电影，我们很早就到了。",
+        "pinyin": "wei4 le5 kan4 zhe4 ge5 dian4 ying3 wo3 men5 hen3 zao3 jiu4 dao4 le5"
+      }
+    ]
+  },
+  {
+    "word": "得到",
+    "examples": [
+      {
+        "zh": "你得到什么了？",
+        "pinyin": "ni3 de2 dao4 shen2 me5 le5"
+      },
+      {
+        "zh": "我得到了一个好工作。",
+        "pinyin": "wo3 de2 dao4 le5 yi1 ge4 hao3 gong1 zuo4"
+      },
+      {
+        "zh": "她得到了大家的爱。",
+        "pinyin": "ta1 de2 dao4 le5 da4 jia1 de5 ai4"
+      },
+      {
+        "zh": "如果你想得到什么，就要自己去做。",
+        "pinyin": "ru2 guo3 ni3 xiang3 de2 dao4 shen2 me5 jiu4 yao4 zi4 ji3 qu4 zuo4"
+      }
+    ]
+  },
+  {
+    "word": "长",
+    "examples": [
+      {
+        "zh": "这条路很长。",
+        "pinyin": "zhe4 tiao2 lu4 hen3 chang2"
+      },
+      {
+        "zh": "她的头发很长。",
+        "pinyin": "ta1 de5 tou2 fa5 hen3 chang2"
+      },
+      {
+        "zh": "这部电影太长了，我不想看。",
+        "pinyin": "zhe4 bu4 dian4 ying3 tai4 chang2 le5 wo3 bu4 xiang3 kan4"
+      },
+      {
+        "zh": "中国有很长的历史，我想多知道一些。",
+        "pinyin": "zhong1 guo2 you3 hen3 chang2 de5 li4 shi3 wo3 xiang3 duo1 zhi1 dao5 yi1 xie1"
+      }
+    ]
+  },
+  {
+    "word": "全国",
+    "examples": [
+      {
+        "zh": "全国都知道了。",
+        "pinyin": "quan2 guo2 dou1 zhi1 dao5 le5"
+      },
+      {
+        "zh": "他在全国很有名。",
+        "pinyin": "ta1 zai4 quan2 guo2 hen3 you3 ming2"
+      },
+      {
+        "zh": "这个电影在全国都很有名。",
+        "pinyin": "zhe4 ge5 dian4 ying3 zai4 quan2 guo2 dou1 hen3 you3 ming2"
+      },
+      {
+        "zh": "政府计划在全国开始这个活动。",
+        "pinyin": "zheng4 fu3 ji4 hua4 zai4 quan2 guo2 kai1 shi3 zhe4 ge5 huo2 dong4"
+      }
+    ]
+  },
+  {
+    "word": "认识",
+    "examples": [
+      {
+        "zh": "我认识他。",
+        "pinyin": "wo3 ren4 shi5 ta1"
+      },
+      {
+        "zh": "很高兴认识你。",
+        "pinyin": "hen3 gao1 xing4 ren4 shi5 ni3"
+      },
+      {
+        "zh": "你们是怎么认识的？",
+        "pinyin": "ni3 men5 shi4 zen3 me5 ren4 shi5 de5"
+      },
+      {
+        "zh": "通过这次活动，我认识了很多新朋友。",
+        "pinyin": "tong1 guo4 zhe4 ci4 huo2 dong4 wo3 ren4 shi5 le5 hen3 duo1 xin1 peng2 you5"
+      }
+    ]
+  },
+  {
+    "word": "女人",
+    "examples": [
+      {
+        "zh": "那个女人是谁？",
+        "pinyin": "na4 ge5 nv3 ren2 shi4 shei2"
+      },
+      {
+        "zh": "她是一个很好的女人。",
+        "pinyin": "ta1 shi4 yi1 ge4 hen3 hao3 de5 nv3 ren2"
+      },
+      {
+        "zh": "在这个公司，女人和男人做一样的工作。",
+        "pinyin": "zai4 zhe4 ge5 gong1 si1 nv3 ren2 he2 nan2 ren2 zuo4 yi1 yang4 de5 gong1 zuo4"
+      },
+      {
+        "zh": "历史上有很多女人做了非常重要的事。",
+        "pinyin": "li4 shi3 shang4 you3 hen3 duo1 nv3 ren2 zuo4 le5 fei1 chang2 zhong4 yao4 de5 shi4"
+      }
+    ]
+  },
+  {
+    "word": "则",
+    "examples": [
+      {
+        "zh": "我看了一则新闻。",
+        "pinyin": "wo3 kan4 le5 yi1 ze2 xin1 wen2"
+      },
+      {
+        "zh": "北京很冷，香港则很热。",
+        "pinyin": "bei3 jing1 hen3 leng3 xiang1 gang3 ze2 hen3 re4"
+      },
+      {
+        "zh": "他喜欢看电影，我则喜欢听音乐。",
+        "pinyin": "ta1 xi3 huan5 kan4 dian4 ying3 wo3 ze2 xi3 huan5 ting1 yin1 yue4"
+      },
+      {
+        "zh": "有些人认为这样很好，有些人则认为不对。",
+        "pinyin": "you3 xie1 ren2 ren4 wei2 zhe4 yang4 hen3 hao3 you3 xie1 ren2 ze2 ren4 wei2 bu4 dui4"
+      }
+    ]
+  },
+  {
+    "word": "不过",
+    "examples": [
+      {
+        "zh": "他不过是个孩子。",
+        "pinyin": "ta1 bu4 guo4 shi4 ge5 hai2 zi5"
+      },
+      {
+        "zh": "这个东西很好，不过太贵了。",
+        "pinyin": "zhe4 ge5 dong1 xi5 hen3 hao3 bu4 guo4 tai4 gui4 le5"
+      },
+      {
+        "zh": "我很想去，不过今天没有时间。",
+        "pinyin": "wo3 hen3 xiang3 qu4 bu4 guo4 jin1 tian1 mei2 you3 shi2 jian1"
+      },
+      {
+        "zh": "你能和我们一起去，那真是再好不过了。",
+        "pinyin": "ni3 neng2 he2 wo3 men5 yi1 qi3 qu4 na4 zhen1 shi4 zai4 hao3 bu4 guo4 le5"
+      }
+    ]
+  },
+  {
+    "word": "技术",
+    "examples": [
+      {
+        "zh": "他的技术很好。",
+        "pinyin": "ta1 de5 ji4 shu4 hen3 hao3"
+      },
+      {
+        "zh": "这是一种新技术。",
+        "pinyin": "zhe4 shi4 yi1 zhong3 xin1 ji4 shu4"
+      },
+      {
+        "zh": "学习这个技术需要很多时间。",
+        "pinyin": "xue2 xi2 zhe4 ge5 ji4 shu4 xu1 yao4 hen3 duo1 shi2 jian1"
+      },
+      {
+        "zh": "这些年中国的技术发展得非常快。",
+        "pinyin": "zhe4 xie1 nian2 zhong1 guo2 de5 ji4 shu4 fa1 zhan3 de5 fei1 chang2 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "多少",
+    "examples": [
+      {
+        "zh": "这个多少钱？",
+        "pinyin": "zhe4 ge5 duo1 shao5 qian2"
+      },
+      {
+        "zh": "你们学校有多少学生？",
+        "pinyin": "ni3 men5 xue2 xiao4 you3 duo1 shao5 xue2 sheng1"
+      },
+      {
+        "zh": "你的电话号码是多少？",
+        "pinyin": "ni3 de5 dian4 hua4 hao4 ma3 shi4 duo1 shao5"
+      },
+      {
+        "zh": "你知道从北京到香港要多少个小时吗？",
+        "pinyin": "ni3 zhi1 dao5 cong2 bei3 jing1 dao4 xiang1 gang3 yao4 duo1 shao5 ge4 xiao3 shi2 ma5"
+      }
+    ]
+  },
+  {
+    "word": "告诉",
+    "examples": [
+      {
+        "zh": "请告诉我。",
+        "pinyin": "qing3 gao4 su5 wo3"
+      },
+      {
+        "zh": "你告诉他了吗？",
+        "pinyin": "ni3 gao4 su5 ta1 le5 ma5"
+      },
+      {
+        "zh": "我不知道，他没有告诉我。",
+        "pinyin": "wo3 bu4 zhi1 dao5 ta1 mei2 you3 gao4 su5 wo3"
+      },
+      {
+        "zh": "你能告诉我去北京大学怎么走吗？",
+        "pinyin": "ni3 neng2 gao4 su5 wo3 qu4 bei3 jing1 da4 xue2 zen3 me5 zou3 ma5"
+      }
+    ]
+  },
+  {
+    "word": "拿",
+    "examples": [
+      {
+        "zh": "我来拿吧。",
+        "pinyin": "wo3 lai2 na2 ba5"
+      },
+      {
+        "zh": "你拿了我的手机吗？",
+        "pinyin": "ni3 na2 le5 wo3 de5 shou3 ji1 ma5"
+      },
+      {
+        "zh": "请把那个东西拿过来。",
+        "pinyin": "qing3 ba3 na4 ge5 dong1 xi5 na2 guo5 lai5"
+      },
+      {
+        "zh": "他拿出电话，给他朋友打了一个电话。",
+        "pinyin": "ta1 na2 chu1 dian4 hua4 gei3 ta1 peng2 you5 da3 le5 yi1 ge4 dian4 hua4"
+      }
+    ]
+  },
+  {
+    "word": "提供",
+    "examples": [
+      {
+        "zh": "这个网站提供很多东西。",
+        "pinyin": "zhe4 ge5 wang3 zhan4 ti2 gong1 hen3 duo1 dong1 xi5"
+      },
+      {
+        "zh": "谢谢你提供的帮助。",
+        "pinyin": "xie4 xie5 ni3 ti2 gong1 de5 bang1 zhu4"
+      },
+      {
+        "zh": "学校为学生提供一个学习的地方。",
+        "pinyin": "xue2 xiao4 wei4 xue2 sheng1 ti2 gong1 yi1 ge4 xue2 xi2 de5 di4 fang5"
+      },
+      {
+        "zh": "政府应该为这些孩子提供更好的生活。",
+        "pinyin": "zheng4 fu3 ying1 gai1 wei4 zhe4 xie1 hai2 zi5 ti2 gong1 geng4 hao3 de5 sheng1 huo2"
+      }
+    ]
+  },
+  {
+    "word": "先",
+    "examples": [
+      {
+        "zh": "你先走吧。",
+        "pinyin": "ni3 xian1 zou3 ba5"
+      },
+      {
+        "zh": "我先吃饭，再工作。",
+        "pinyin": "wo3 xian1 chi1 fan4 zai4 gong1 zuo4"
+      },
+      {
+        "zh": "我先去买东西，你在这里等我。",
+        "pinyin": "wo3 xian1 qu4 mai3 dong1 xi5 ni3 zai4 zhe4 li3 deng3 wo3"
+      },
+      {
+        "zh": "我们先看看情况，然后再决定怎么做。",
+        "pinyin": "wo3 men5 xian1 kan4 kan5 qing2 kuang4 ran2 hou4 zai4 jue2 ding4 zen3 me5 zuo4"
+      }
+    ]
+  },
+  {
+    "word": "男人",
+    "examples": [
+      {
+        "zh": "他是一个好男人。",
+        "pinyin": "ta1 shi4 yi1 ge4 hao3 nan2 ren2"
+      },
+      {
+        "zh": "那个男人是谁？",
+        "pinyin": "na4 ge5 nan2 ren2 shi4 shei2"
+      },
+      {
+        "zh": "这里男人和女人一样多。",
+        "pinyin": "zhe4 li3 nan2 ren2 he2 nv3 ren2 yi1 yang4 duo1"
+      },
+      {
+        "zh": "很多男人觉得自己不需要学做饭。",
+        "pinyin": "hen3 duo1 nan2 ren2 jue2 de5 zi4 ji3 bu4 xu1 yao4 xue2 zuo4 fan4"
+      }
+    ]
+  },
+  {
+    "word": "使",
+    "examples": [
+      {
+        "zh": "他的话使我很高兴。",
+        "pinyin": "ta1 de5 hua4 shi3 wo3 hen3 gao1 xing4"
+      },
+      {
+        "zh": "这个电影使我想家。",
+        "pinyin": "zhe4 ge5 dian4 ying3 shi3 wo3 xiang3 jia1"
+      },
+      {
+        "zh": "学习中文使我认识了很多新朋友。",
+        "pinyin": "xue2 xi2 zhong1 wen2 shi3 wo3 ren4 shi5 le5 hen3 duo1 xin1 peng2 you5"
+      },
+      {
+        "zh": "经济发展使这个地方的生活变得更好了。",
+        "pinyin": "jing1 ji4 fa1 zhan3 shi3 zhe4 ge5 di4 fang5 de5 sheng1 huo2 bian4 de5 geng4 hao3 le5"
+      }
+    ]
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "id": "word:退休",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63cfa2af3d21d7766595b2066cfdb17a170b255b"
+  },
+  {
+    "id": "word:相似",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a11835d0245631ca2f6e7dd81fe194e3a704341f"
+  },
+  {
+    "id": "word:北部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81a79839a8397232eb21d415a2ecb20ec354eb57"
+  },
+  {
+    "id": "word:对手",
+    "ok": true,
+    "issues": [],
+    "content_hash": "817203d8ef0efd7167f1fca527d4cf76ad9c2344"
+  },
+  {
+    "id": "word:后果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24c656d20f34116e45e69f05accca103c12aaccf"
+  },
+  {
+    "id": "word:咖啡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b0d1cd5b6c0d260f5bfc6c2ceecdc6c3a3b9daf"
+  },
+  {
+    "id": "word:深刻",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: el partícula adverbial 地 en 深刻地 se lee «de» (tono neutro), no «dì»."
+    ],
+    "content_hash": "57802152c1891a6eb0a18659d857b2f8dc745bd1"
+  },
+  {
+    "id": "word:早已",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5bfce50fd796878ed6681b2c4ecf7d3dd285dfe2"
+  },
+  {
+    "id": "word:整理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5407e8e9c0bca31762b02e7093fc81057a4893a0"
+  },
+  {
+    "id": "word:子女",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40776cd5098fbb055184e1493501150de7d04b99"
+  },
+  {
+    "id": "word:打破",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2aee132a981ced0a774b2460dd5257ef7367a66c"
+  },
+  {
+    "id": "word:歌手",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b64f1ca5b48a2ab97ecf55bbe7e88b4b062e56f7"
+  },
+  {
+    "id": "word:火",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6972cac8b47336d562ad9565f7453b0244196a4f"
+  },
+  {
+    "id": "word:突出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "71a83ef504bacc35f02cd36a0ea911521db56b83"
+  },
+  {
+    "id": "word:修",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd164092f1937da0775eb5c048f9aba675a54891"
+  },
+  {
+    "id": "word:职工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa5bb842ec9c60b0b9dce25835cc79d0905e1a2e"
+  },
+  {
+    "id": "word:带领",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 得 en 发展得很快 es partícula estructural y se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "dda1fd466d5927676ec68b2b1d2822581490d196"
+  },
+  {
+    "id": "word:华人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc3c096a7e7224518f2f71acaaecd50448102426"
+  },
+  {
+    "id": "word:加工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "64b5c6a2cb24a5cedfd6f9866332e15618318311"
+  },
+  {
+    "id": "word:离婚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f3e0b80820ed1e69494c2dd5f09c0cc40baa995"
+  },
+  {
+    "id": "word:输入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a790618743cc0b128c79441f182a046667ecfb74"
+  },
+  {
+    "id": "word:写作",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fbe3c744d2e4f71a6abc2ec478a21c9475611599"
+  },
+  {
+    "id": "word:压",
+    "ok": true,
+    "issues": [],
+    "content_hash": "454b7d219fee211c2192772b1f4d3404bdc6c88f"
+  },
+  {
+    "id": "word:阳光",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7bce89fc14a1c72a69fa64176f11334ae49edbec"
+  },
+  {
+    "id": "word:支",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 着 en 支着头 es partícula aspectual y se lee «zhe» (tono neutro), no «zhāo»."
+    ],
+    "content_hash": "b25777a7dd53aa55acd4193c573376ce80a0f9b6"
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "word": "作家",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escritor",
+      "autor"
+    ],
+    "examples": [
+      {
+        "zh": "她是作家。",
+        "es": "Ella es escritora."
+      },
+      {
+        "zh": "我爸爸是一个作家。",
+        "es": "Mi papá es escritor."
+      },
+      {
+        "zh": "这个作家写了很多书。",
+        "es": "Este escritor ha escrito muchos libros."
+      },
+      {
+        "zh": "我想成为一个有名的作家。",
+        "es": "Quiero llegar a ser un escritor famoso."
+      }
+    ]
+  },
+  {
+    "word": "办公室",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oficina",
+      "despacho"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的办公室。",
+        "es": "Esta es mi oficina."
+      },
+      {
+        "zh": "老师在办公室。",
+        "es": "El maestro está en la oficina."
+      },
+      {
+        "zh": "我们的办公室在三楼。",
+        "es": "Nuestra oficina está en el tercer piso."
+      },
+      {
+        "zh": "他每天早上八点到办公室工作。",
+        "es": "Él llega a la oficina a trabajar todos los días a las ocho de la mañana."
+      }
+    ]
+  },
+  {
+    "word": "突然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de repente",
+      "repentino",
+      "inesperado"
+    ],
+    "examples": [
+      {
+        "zh": "突然下雨了。",
+        "es": "De repente empezó a llover."
+      },
+      {
+        "zh": "他突然笑了。",
+        "es": "De repente se rio."
+      },
+      {
+        "zh": "他突然不说话了。",
+        "es": "De repente dejó de hablar."
+      },
+      {
+        "zh": "我们在路上走，天气突然变冷了。",
+        "es": "Íbamos caminando por la calle y de repente hizo frío."
+      }
+    ]
+  },
+  {
+    "word": "公里",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "kilómetro"
+    ],
+    "examples": [
+      {
+        "zh": "我每天走五公里。",
+        "es": "Camino cinco kilómetros todos los días."
+      },
+      {
+        "zh": "我家离学校两公里。",
+        "es": "Mi casa está a dos kilómetros de la escuela."
+      },
+      {
+        "zh": "北京到上海有一千多公里。",
+        "es": "De Pekín a Shanghái hay más de mil kilómetros."
+      },
+      {
+        "zh": "机场离这里有三十多公里，很远。",
+        "es": "El aeropuerto está a más de treinta kilómetros de aquí; queda muy lejos."
+      }
+    ]
+  },
+  {
+    "word": "过来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "venir (hacia acá)",
+      "acercarse",
+      "arreglárselas"
+    ],
+    "examples": [
+      {
+        "zh": "你过来一下。",
+        "es": "Ven un momento."
+      },
+      {
+        "zh": "请你过来坐。",
+        "es": "Ven a sentarte, por favor."
+      },
+      {
+        "zh": "你快过来看看！",
+        "es": "¡Ven rápido a ver!"
+      },
+      {
+        "zh": "明天下午你能过来我家吗？",
+        "es": "¿Puedes venir a mi casa mañana en la tarde?"
+      }
+    ]
+  },
+  {
+    "word": "压力",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "presión",
+      "estrés"
+    ],
+    "examples": [
+      {
+        "zh": "我压力很大。",
+        "es": "Estoy muy presionado."
+      },
+      {
+        "zh": "学生的压力太大了。",
+        "es": "Los estudiantes tienen demasiada presión."
+      },
+      {
+        "zh": "工作压力让他睡不好觉。",
+        "es": "El estrés del trabajo no lo deja dormir bien."
+      },
+      {
+        "zh": "考试前，很多学生觉得有压力。",
+        "es": "Antes de los exámenes, muchos estudiantes se sienten presionados."
+      }
+    ]
+  },
+  {
+    "word": "制作",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer",
+      "fabricar",
+      "producir",
+      "elaborar"
+    ],
+    "examples": [
+      {
+        "zh": "这是我制作的。",
+        "es": "Esto lo hice yo."
+      },
+      {
+        "zh": "他们在制作新电影。",
+        "es": "Están produciendo una película nueva."
+      },
+      {
+        "zh": "这个视频是谁制作的？",
+        "es": "¿Quién hizo este video?"
+      },
+      {
+        "zh": "这家公司制作的产品很受欢迎。",
+        "es": "Los productos que fabrica esta empresa son muy populares."
+      }
+    ]
+  },
+  {
+    "word": "年轻",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "joven"
+    ],
+    "examples": [
+      {
+        "zh": "她很年轻。",
+        "es": "Ella es muy joven."
+      },
+      {
+        "zh": "年轻人喜欢上网。",
+        "es": "A los jóvenes les gusta navegar por internet."
+      },
+      {
+        "zh": "我爸爸年轻的时候很喜欢唱歌。",
+        "es": "Cuando mi papá era joven, le encantaba cantar."
+      },
+      {
+        "zh": "现在很多年轻人在大城市工作。",
+        "es": "Hoy en día muchos jóvenes trabajan en las grandes ciudades."
+      }
+    ]
+  },
+  {
+    "word": "不再",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ya no",
+      "nunca más"
+    ],
+    "examples": [
+      {
+        "zh": "他不再是学生了。",
+        "es": "Él ya no es estudiante."
+      },
+      {
+        "zh": "我不再喝茶了。",
+        "es": "Ya no tomo té."
+      },
+      {
+        "zh": "从今天开始，我不再吃肉了。",
+        "es": "A partir de hoy, ya no voy a comer carne."
+      },
+      {
+        "zh": "她说她不再相信那个男人了。",
+        "es": "Ella dice que ya no le cree a ese hombre."
+      }
+    ]
+  },
+  {
+    "word": "实在",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "realmente",
+      "de verdad",
+      "honesto",
+      "real"
+    ],
+    "examples": [
+      {
+        "zh": "我实在太累了。",
+        "es": "De verdad estoy muy cansado."
+      },
+      {
+        "zh": "这个菜实在好吃。",
+        "es": "Este platillo está realmente delicioso."
+      },
+      {
+        "zh": "他是一个很实在的人。",
+        "es": "Él es una persona muy honesta."
+      },
+      {
+        "zh": "对不起，我实在没有时间去参加你的生日。",
+        "es": "Perdón, de verdad no tengo tiempo de ir a tu cumpleaños."
+      }
+    ]
+  },
+  {
+    "word": "令",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "hacer que",
+      "causar",
+      "orden",
+      "mandato"
+    ],
+    "examples": [
+      {
+        "zh": "这个消息令人高兴。",
+        "es": "Esta noticia alegra a la gente."
+      },
+      {
+        "zh": "他的话令我很生气。",
+        "es": "Sus palabras me hicieron enojar mucho."
+      },
+      {
+        "zh": "这部电影令人难忘。",
+        "es": "Esta película es inolvidable."
+      },
+      {
+        "zh": "他最近的身体情况令家人很担心。",
+        "es": "Su estado de salud reciente tiene muy preocupada a su familia."
+      }
+    ]
+  },
+  {
+    "word": "头",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cabeza",
+      "extremo, punta",
+      "jefe",
+      "clasificador para ganado"
+    ],
+    "examples": [
+      {
+        "zh": "他点了点头。",
+        "es": "Él asintió con la cabeza."
+      },
+      {
+        "zh": "我头很疼。",
+        "es": "Me duele mucho la cabeza."
+      },
+      {
+        "zh": "路的那头有一个商店。",
+        "es": "Al otro extremo de la calle hay una tienda."
+      },
+      {
+        "zh": "那个农民家里有三头牛。",
+        "es": "Ese campesino tiene tres vacas en su casa."
+      }
+    ]
+  },
+  {
+    "word": "利益",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "interés",
+      "beneficio"
+    ],
+    "examples": [
+      {
+        "zh": "这是国家的利益。",
+        "es": "Esto es de interés nacional."
+      },
+      {
+        "zh": "他只想自己的利益。",
+        "es": "Él solo piensa en su propio beneficio."
+      },
+      {
+        "zh": "我们要保护人民的利益。",
+        "es": "Debemos proteger los intereses del pueblo."
+      },
+      {
+        "zh": "公司不能为了利益而破坏环境。",
+        "es": "Una empresa no puede dañar el medio ambiente por sacar ganancias."
+      }
+    ]
+  },
+  {
+    "word": "英语",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "inglés (idioma)"
+    ],
+    "examples": [
+      {
+        "zh": "我会说英语。",
+        "es": "Sé hablar inglés."
+      },
+      {
+        "zh": "她的英语很好。",
+        "es": "Su inglés es muy bueno."
+      },
+      {
+        "zh": "我每天晚上学习一个小时英语。",
+        "es": "Todas las noches estudio inglés una hora."
+      },
+      {
+        "zh": "他在美国住了三年，英语说得非常好。",
+        "es": "Vivió tres años en Estados Unidos y habla inglés muy bien."
+      }
+    ]
+  },
+  {
+    "word": "加拿大",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Canadá"
+    ],
+    "examples": [
+      {
+        "zh": "我是加拿大人。",
+        "es": "Soy canadiense."
+      },
+      {
+        "zh": "加拿大的冬天很冷。",
+        "es": "El invierno en Canadá es muy frío."
+      },
+      {
+        "zh": "我哥哥在加拿大上大学。",
+        "es": "Mi hermano mayor estudia la universidad en Canadá."
+      },
+      {
+        "zh": "明年我想和朋友一起去加拿大旅游。",
+        "es": "El próximo año quiero ir de viaje a Canadá con mis amigos."
+      }
+    ]
+  },
+  {
+    "word": "宪法",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "constitución (de un país)"
+    ],
+    "examples": [
+      {
+        "zh": "这是国家的宪法。",
+        "es": "Esta es la constitución del país."
+      },
+      {
+        "zh": "每个国家都有宪法。",
+        "es": "Todos los países tienen una constitución."
+      },
+      {
+        "zh": "宪法保护公民的权利。",
+        "es": "La constitución protege los derechos de los ciudadanos."
+      },
+      {
+        "zh": "政府做事必须根据宪法。",
+        "es": "El gobierno debe actuar conforme a la constitución."
+      }
+    ]
+  },
+  {
+    "word": "越来越",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cada vez más"
+    ],
+    "examples": [
+      {
+        "zh": "天气越来越冷了。",
+        "es": "Hace cada vez más frío."
+      },
+      {
+        "zh": "他的汉语越来越好了。",
+        "es": "Su chino es cada vez mejor."
+      },
+      {
+        "zh": "学汉语的人越来越多。",
+        "es": "Cada vez hay más personas que estudian chino."
+      },
+      {
+        "zh": "城市里的车越来越多，交通问题越来越严重。",
+        "es": "En la ciudad hay cada vez más coches y los problemas de tránsito son cada vez más graves."
+      }
+    ]
+  },
+  {
+    "word": "有点",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un poco",
+      "algo"
+    ],
+    "examples": [
+      {
+        "zh": "我有点累。",
+        "es": "Estoy un poco cansado."
+      },
+      {
+        "zh": "今天有点冷。",
+        "es": "Hoy hace un poco de frío."
+      },
+      {
+        "zh": "这个问题有点难。",
+        "es": "Esta pregunta es algo difícil."
+      },
+      {
+        "zh": "我觉得这件衣服有点贵，我们再看看吧。",
+        "es": "Creo que esta ropa está un poco cara; sigamos viendo."
+      }
+    ]
+  },
+  {
+    "word": "组",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grupo",
+      "equipo",
+      "formar, organizar",
+      "clasificador para conjuntos"
+    ],
+    "examples": [
+      {
+        "zh": "我在第一组。",
+        "es": "Estoy en el primer grupo."
+      },
+      {
+        "zh": "我们三个人一组。",
+        "es": "Formamos grupos de tres personas."
+      },
+      {
+        "zh": "老师把学生分成四组。",
+        "es": "El maestro dividió a los alumnos en cuatro grupos."
+      },
+      {
+        "zh": "我们组的同学一起完成了这个项目。",
+        "es": "Los compañeros de nuestro equipo terminamos juntos este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "规律",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "regularidad",
+      "ley (natural)",
+      "patrón",
+      "rutina ordenada"
+    ],
+    "examples": [
+      {
+        "zh": "这是自然规律。",
+        "es": "Es una ley de la naturaleza."
+      },
+      {
+        "zh": "他的生活很有规律。",
+        "es": "Él lleva una vida muy ordenada."
+      },
+      {
+        "zh": "科学家发现了这个规律。",
+        "es": "Los científicos descubrieron este patrón."
+      },
+      {
+        "zh": "医生说，生活有规律对身体很好。",
+        "es": "El médico dice que llevar una vida ordenada es muy bueno para la salud."
+      }
+    ]
+  }
+]

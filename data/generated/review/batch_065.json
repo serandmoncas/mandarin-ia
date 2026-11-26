@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:评价",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 3, «不太一样» significa «no son del todo iguales» o «son algo distintas». La traducción «bastante distintas» exagera la diferencia."
+    ],
+    "content_hash": "28caaa05805903f8c7c48f830cc64cc1c8074945"
+  },
+  {
+    "id": "word:院",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: «玩儿» lleva erhua y debe escribirse «wánr», no «wán ér»."
+    ],
+    "content_hash": "bea5f9c0762701a739c23fa503d5641120c97802"
+  },
+  {
+    "id": "word:强烈",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «今天的太阳很强烈» suena poco natural. Lo habitual es «今天的阳光很强烈» o «今天太阳很大»."
+    ],
+    "content_hash": "9f3066c09fda99b39f151b8eb361aa74df08dabd"
+  },
+  {
+    "id": "word:做法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "984729e573555f019c5069ed702021de9cdf5ce8"
+  },
+  {
+    "id": "word:人生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1de7b490f8d64906f5b8f315ffa921510d69ad59"
+  },
+  {
+    "id": "word:懂得",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «你懂得怎么用这个软件吗？» suena poco natural. 懂得 se usa para principios o cosas abstractas; para saber manejar algo se dice «你知道怎么用…» o «你会用…»."
+    ],
+    "content_hash": "dbf3616e7323793c4dab3530b2744603cc6f3450"
+  },
+  {
+    "id": "word:食品",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35147b50817d7e37e6c720bafb8abcf05e87ba69"
+  },
+  {
+    "id": "word:接下来",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: «哪儿» lleva erhua y debe escribirse «nǎr», no «nǎ ér»."
+    ],
+    "content_hash": "52d27e4233c9d67cde5cb60603803f27ddfcf05c"
+  },
+  {
+    "id": "word:双",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed3829bf78c25ad5908a9a8789f115cfc0b42b8f"
+  },
+  {
+    "id": "word:绿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd28eace6e6f976a9b8e9706f5d5fb986f9fdad4"
+  },
+  {
+    "id": "word:推进",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: el 得 de complemento es átono y se escribe «de», no «dé» («tuī jìn de hěn kuài»)."
+    ],
+    "content_hash": "6219f935f6f64c8e8c97917c7020132b430767d3"
+  },
+  {
+    "id": "word:南方",
+    "ok": true,
+    "issues": [],
+    "content_hash": "691135d5a9ba19efb1efd63739979cf4e2904cae"
+  },
+  {
+    "id": "word:文明",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: «长» en «历史非常长» significa «largo» y se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "497bf5cefa4639dfff83742a1a7ad08581ffae65"
+  },
+  {
+    "id": "word:夏天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c964edffa2713e6928f92d51ba65fc23d4f826d"
+  },
+  {
+    "id": "word:显然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e1060e8357538e7d7b64ca6cd5f2b9098faa79f"
+  },
+  {
+    "id": "word:重复",
+    "ok": true,
+    "issues": [],
+    "content_hash": "404eb3e18665baa378c7cf288bcbc5b0923de1cc"
+  },
+  {
+    "id": "word:道理",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: el 得 de complemento es átono y se escribe «de», no «dé» («nǐ shuō de yǒu dào lǐ»)."
+    ],
+    "content_hash": "be031afb933ec60343d04658727448a4b652e93d"
+  },
+  {
+    "id": "word:员工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "318adc74a25a5fcdb3b796262a938a5dcf612d05"
+  },
+  {
+    "id": "word:例子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9904894634cf8eae330ad8e3333f976b8eb5b6c"
+  },
+  {
+    "id": "word:整体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d093a254ecefbcde0421cdd40c21befd25be3298"
+  },
+  {
+    "id": "word:味道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b2c8d0a3751fa4c41756067a1b0ec04ce13b06c"
+  },
+  {
+    "id": "word:制定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb022e9a7c5b187c4f98410c215d139f2af4a859"
+  },
+  {
+    "id": "word:温度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e17256043075ce45c8a71f6ea13e81a49f4dc27"
+  },
+  {
+    "id": "word:差不多",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0cfd506ef77e2e2e4f4598046b6680cd3cca0eb"
+  },
+  {
+    "id": "word:表达",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7331c75e9d37a563db41ac9aefa3052d5c3e85d1"
+  }
+]

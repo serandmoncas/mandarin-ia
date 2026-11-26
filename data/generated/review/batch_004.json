@@ -1,0 +1,172 @@
+[
+  {
+    "id": "word:所",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c0fe51f9737bc04d6b6d51e17e55b727894bcb6"
+  },
+  {
+    "id": "word:小",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b7415c83a6bcb97fb94646844cc65621dc090d5d"
+  },
+  {
+    "id": "word:发展",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «发展得很快»: el complemento 得 se lee «de» (tono neutro), no «dé».",
+      "«发展是现在最大的问题» suena poco natural y tiene un sentido dudoso («el desarrollo es el problema»). Conviene una frase más idiomática, p. ej. «发展是现在最重要的事»."
+    ],
+    "content_hash": "5206803d853af33adb831a3d51f6a6debf9a7d73"
+  },
+  {
+    "id": "word:再",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1cc73f13975aec1ecefb1e91dcba61b9a24638c"
+  },
+  {
+    "id": "word:开始",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a4410dacf0a50fad7dcd8f7324494cdef8464d19"
+  },
+  {
+    "id": "word:们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e8b40d8335136ad1c77b76f203372ed8afa1966"
+  },
+  {
+    "id": "word:爱",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «做得很好»: 得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "672c649ef07572ba9371aaad02d27ee3d95ad3cb"
+  },
+  {
+    "id": "word:这样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e768e443532afc8d189f712ff177d84c0557c6e4"
+  },
+  {
+    "id": "word:第",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «第一个»: en los ordinales 一 no cambia de tono; debe ser «dì yī gè», no «dì yí gè».",
+      "«这是她第三年在美国工作» es poco natural; lo idiomático es «这是她在美国工作的第三年»."
+    ],
+    "content_hash": "844428c4f5163a200d29a701fc4d09abd1359a47"
+  },
+  {
+    "id": "word:公司",
+    "ok": true,
+    "issues": [],
+    "content_hash": "790365575c166bd747ced32a4fcbf3cd86319821"
+  },
+  {
+    "id": "word:谁",
+    "ok": false,
+    "issues": [
+      "«谁知道这个问题？» se traduce como «¿Quién sabe la respuesta a esta pregunta?», lo que añade «respuesta». El chino significa más bien «¿Quién sabe de este asunto/problema?». Si se quiere decir «la respuesta», debería ser «谁知道这个问题的答案？».",
+      "El pinyin alterna entre «shuí» y «shéi» sin explicación. Ambas lecturas son válidas, pero conviene unificar o aclararlo al estudiante."
+    ],
+    "content_hash": "9cd7164cd256b2ef9d106fab8bd0c0f9458eefd2"
+  },
+  {
+    "id": "word:它",
+    "ok": false,
+    "issues": [
+      "«这是我的新书，它很好看» usa 它 para un libro de forma poco natural (calco del español/inglés). Un nativo omitiría 它: «这是我的新书，很好看»."
+    ],
+    "content_hash": "ff5e711719f63cd1f67873466557da284480f057"
+  },
+  {
+    "id": "word:真的",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc5a6564789cb9cb057a2cc30595c60882b9f369"
+  },
+  {
+    "id": "word:政府",
+    "ok": true,
+    "issues": [],
+    "content_hash": "11f545826c1320c80db1fb5b2e3fbc3e7ddc64b8"
+  },
+  {
+    "id": "word:地方",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: 地方 con el sentido de «lugar» se lee «dì fang» (segunda sílaba en tono neutro, como indica la propia lectura fang5), no «dì fāng». El error aparece en los cuatro ejemplos.",
+      "«这个问题有很多地方我不知道» es algo forzado; sería más natural «这个问题有很多地方我不明白»."
+    ],
+    "content_hash": "c51837682cdcac1cd0010f3dd247bac78596faee"
+  },
+  {
+    "id": "word:可能",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37853d83bf57b65c6d3f0fe81cf1b776b0d2c65e"
+  },
+  {
+    "id": "word:号",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b2f42440aa627066eb7b539312247d13ac7c795"
+  },
+  {
+    "id": "word:你们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eda2a5a3afbce000e736f663463e051d12c6ed26"
+  },
+  {
+    "id": "word:社会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5134724e0d24383e9412ce519da900ef4ad83ba0"
+  },
+  {
+    "id": "word:快",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «说得很快» y «过得真快»: 得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "4037f834e794fda9cdf9757d9bb5e01edd4c8e52"
+  },
+  {
+    "id": "word:事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ccc8f324b1e7ee05160cabca450bdcc5ada8d3a"
+  },
+  {
+    "id": "word:可",
+    "ok": true,
+    "issues": [],
+    "content_hash": "afb8c9937253dae0b3697157c7b55e250bf4ea01"
+  },
+  {
+    "id": "word:有的",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d75cc5a812e0b2855db735f67e01a92ed3d9a47"
+  },
+  {
+    "id": "word:进行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "44527df87b9a4bb7303b59738abc48786fb6b60f"
+  },
+  {
+    "id": "word:比",
+    "ok": false,
+    "issues": [
+      "Pinyin de «比一比»: el 一 intercalado en un verbo reduplicado va en tono neutro («bǐ yi bǐ»), no «bǐ yī bǐ»."
+    ],
+    "content_hash": "6000462eab8f6d70b1b17e081066d1b7f926aa81"
+  }
+]

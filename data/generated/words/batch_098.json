@@ -1,0 +1,534 @@
+[
+  {
+    "word": "互相",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mutuamente",
+      "el uno al otro",
+      "recíproco"
+    ],
+    "examples": [
+      {
+        "zh": "我们互相帮助。",
+        "es": "Nos ayudamos mutuamente."
+      },
+      {
+        "zh": "他们互相认识吗？",
+        "es": "¿Ellos se conocen?"
+      },
+      {
+        "zh": "朋友之间应该互相关心。",
+        "es": "Entre amigos hay que preocuparse unos por otros."
+      },
+      {
+        "zh": "两个国家需要互相了解，才能更好地合作。",
+        "es": "Los dos países necesitan conocerse mejor para poder cooperar mejor."
+      }
+    ]
+  },
+  {
+    "word": "学期",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "semestre",
+      "período escolar"
+    ],
+    "examples": [
+      {
+        "zh": "这个学期我很忙。",
+        "es": "Este semestre estoy muy ocupado."
+      },
+      {
+        "zh": "下个学期你要上什么课？",
+        "es": "¿Qué clases vas a tomar el próximo semestre?"
+      },
+      {
+        "zh": "新学期开始了，学生们都回到了学校。",
+        "es": "Empezó el nuevo semestre y todos los estudiantes regresaron a la escuela."
+      },
+      {
+        "zh": "这个学期我的中文成绩比上个学期好多了。",
+        "es": "Este semestre mis calificaciones de chino son mucho mejores que las del semestre pasado."
+      }
+    ]
+  },
+  {
+    "word": "会员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "miembro",
+      "socio",
+      "afiliado"
+    ],
+    "examples": [
+      {
+        "zh": "我是这家店的会员。",
+        "es": "Soy socio de esta tienda."
+      },
+      {
+        "zh": "会员可以免费上网。",
+        "es": "Los socios pueden usar internet gratis."
+      },
+      {
+        "zh": "成为会员以后，买东西会便宜一点。",
+        "es": "Cuando te haces socio, las compras te salen un poco más baratas."
+      },
+      {
+        "zh": "这个协会有三百多名会员，大部分是学生。",
+        "es": "Esta asociación tiene más de trescientos miembros, la mayoría son estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "网球",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tenis",
+      "pelota de tenis"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢打网球。",
+        "es": "Me gusta jugar tenis."
+      },
+      {
+        "zh": "这个网球是新买的。",
+        "es": "Esta pelota de tenis es nueva."
+      },
+      {
+        "zh": "明天下午我们一起去打网球吧。",
+        "es": "Mañana en la tarde vamos a jugar tenis juntos."
+      },
+      {
+        "zh": "他从小就开始学网球，现在打得非常好。",
+        "es": "Empezó a aprender tenis desde niño y ahora juega muy bien."
+      }
+    ]
+  },
+  {
+    "word": "多云",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nublado",
+      "parcialmente nublado"
+    ],
+    "examples": [
+      {
+        "zh": "今天多云。",
+        "es": "Hoy está nublado."
+      },
+      {
+        "zh": "明天多云，不会下雨。",
+        "es": "Mañana estará nublado, pero no va a llover."
+      },
+      {
+        "zh": "上午多云，下午可能会下雨。",
+        "es": "En la mañana estará nublado y en la tarde puede llover."
+      },
+      {
+        "zh": "虽然今天多云，但是气温还是很高。",
+        "es": "Aunque hoy está nublado, la temperatura sigue siendo alta."
+      }
+    ]
+  },
+  {
+    "word": "斤",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jin (unidad de peso china)",
+      "medio kilo"
+    ],
+    "examples": [
+      {
+        "zh": "我要一斤苹果。",
+        "es": "Quiero medio kilo de manzanas."
+      },
+      {
+        "zh": "这个菜多少钱一斤？",
+        "es": "¿Cuánto cuesta el medio kilo de esta verdura?"
+      },
+      {
+        "zh": "我妈妈买了两斤肉和三斤鸡蛋。",
+        "es": "Mi mamá compró un kilo de carne y un kilo y medio de huevos."
+      },
+      {
+        "zh": "最近我吃得太多，比去年重了五斤。",
+        "es": "Últimamente como demasiado; peso dos kilos y medio más que el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "地铁站",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estación de metro"
+    ],
+    "examples": [
+      {
+        "zh": "地铁站在哪里？",
+        "es": "¿Dónde está la estación de metro?"
+      },
+      {
+        "zh": "我家旁边有一个地铁站。",
+        "es": "Al lado de mi casa hay una estación de metro."
+      },
+      {
+        "zh": "请问，最近的地铁站怎么走？",
+        "es": "Disculpe, ¿cómo llego a la estación de metro más cercana?"
+      },
+      {
+        "zh": "下班以后，我在地铁站等了你半个小时。",
+        "es": "Después del trabajo te esperé media hora en la estación de metro."
+      }
+    ]
+  },
+  {
+    "word": "夜里",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en la noche",
+      "durante la noche",
+      "de noche"
+    ],
+    "examples": [
+      {
+        "zh": "他夜里常常不睡觉。",
+        "es": "Él muchas veces no duerme en la noche."
+      },
+      {
+        "zh": "夜里很冷，多穿一点。",
+        "es": "En la noche hace mucho frío, abrígate más."
+      },
+      {
+        "zh": "昨天夜里下了一场大雨。",
+        "es": "Anoche cayó un aguacero."
+      },
+      {
+        "zh": "孩子夜里生病了，妈妈马上带他去医院。",
+        "es": "El niño se enfermó en la noche y su mamá lo llevó de inmediato al hospital."
+      }
+    ]
+  },
+  {
+    "word": "人民币",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "renminbi (moneda de China)",
+      "yuan"
+    ],
+    "examples": [
+      {
+        "zh": "这本书三十块人民币。",
+        "es": "Este libro cuesta treinta yuanes."
+      },
+      {
+        "zh": "你带人民币了吗？",
+        "es": "¿Trajiste yuanes?"
+      },
+      {
+        "zh": "在中国，买东西一般用人民币。",
+        "es": "En China, normalmente se compra con renminbi."
+      },
+      {
+        "zh": "我想把一些美元换成人民币，请问去哪里换？",
+        "es": "Quiero cambiar unos dólares a yuanes. ¿Dónde puedo cambiarlos?"
+      }
+    ]
+  },
+  {
+    "word": "难看",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "feo",
+      "desagradable a la vista",
+      "vergonzoso"
+    ],
+    "examples": [
+      {
+        "zh": "这件衣服很难看。",
+        "es": "Esta ropa es muy fea."
+      },
+      {
+        "zh": "你的字写得真难看。",
+        "es": "Tu letra es realmente fea."
+      },
+      {
+        "zh": "他听到这个消息，脸变得很难看。",
+        "es": "Cuando oyó la noticia, puso muy mala cara."
+      },
+      {
+        "zh": "虽然这个房子有点难看，但是住着很舒服。",
+        "es": "Aunque esta casa es un poco fea, es muy cómoda para vivir."
+      }
+    ]
+  },
+  {
+    "word": "体育馆",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gimnasio",
+      "polideportivo",
+      "estadio cubierto"
+    ],
+    "examples": [
+      {
+        "zh": "学校有一个新体育馆。",
+        "es": "La escuela tiene un gimnasio nuevo."
+      },
+      {
+        "zh": "我们去体育馆打篮球吧。",
+        "es": "Vamos al gimnasio a jugar básquetbol."
+      },
+      {
+        "zh": "明天的比赛在市体育馆举行。",
+        "es": "El partido de mañana será en el gimnasio municipal."
+      },
+      {
+        "zh": "这个体育馆非常大，能坐一万多名观众。",
+        "es": "Este estadio es enorme; le caben más de diez mil espectadores."
+      }
+    ]
+  },
+  {
+    "word": "院子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "patio",
+      "jardín (de una casa)"
+    ],
+    "examples": [
+      {
+        "zh": "院子里有很多花。",
+        "es": "En el patio hay muchas flores."
+      },
+      {
+        "zh": "孩子们在院子里玩儿。",
+        "es": "Los niños están jugando en el patio."
+      },
+      {
+        "zh": "我们家的院子不大，但是很干净。",
+        "es": "El patio de nuestra casa no es grande, pero está muy limpio."
+      },
+      {
+        "zh": "夏天的晚上，爷爷喜欢坐在院子里喝茶。",
+        "es": "En las noches de verano, al abuelo le gusta sentarse en el patio a tomar té."
+      }
+    ]
+  },
+  {
+    "word": "完善",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "perfeccionar",
+      "mejorar",
+      "completo",
+      "bien desarrollado"
+    ],
+    "examples": [
+      {
+        "zh": "这个计划还需要完善。",
+        "es": "Este plan todavía hay que perfeccionarlo."
+      },
+      {
+        "zh": "这个城市的交通系统很完善。",
+        "es": "El sistema de transporte de esta ciudad está muy bien desarrollado."
+      },
+      {
+        "zh": "我们会继续完善我们的服务。",
+        "es": "Seguiremos mejorando nuestro servicio."
+      },
+      {
+        "zh": "政府正在完善相关的法律，保护孩子的安全。",
+        "es": "El gobierno está mejorando las leyes correspondientes para proteger la seguridad de los niños."
+      }
+    ]
+  },
+  {
+    "word": "下周",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la próxima semana",
+      "la semana que viene"
+    ],
+    "examples": [
+      {
+        "zh": "下周见！",
+        "es": "¡Nos vemos la próxima semana!"
+      },
+      {
+        "zh": "下周我要考试。",
+        "es": "La próxima semana tengo examen."
+      },
+      {
+        "zh": "我们下周三去北京开会。",
+        "es": "El próximo miércoles vamos a Beijing a una reunión."
+      },
+      {
+        "zh": "如果下周天气好，我们一起去公园玩儿吧。",
+        "es": "Si la próxima semana hace buen tiempo, vamos juntos al parque."
+      }
+    ]
+  },
+  {
+    "word": "意外",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "inesperado",
+      "accidente",
+      "sorpresa",
+      "imprevisto"
+    ],
+    "examples": [
+      {
+        "zh": "这真是一个意外！",
+        "es": "¡Esto sí que fue inesperado!"
+      },
+      {
+        "zh": "听到这个消息，我很意外。",
+        "es": "Me sorprendió mucho oír esta noticia."
+      },
+      {
+        "zh": "路上开车要小心，别出意外。",
+        "es": "Maneja con cuidado, no vayas a tener un accidente."
+      },
+      {
+        "zh": "他昨天出了意外，现在还在医院里。",
+        "es": "Ayer tuvo un accidente y todavía está en el hospital."
+      }
+    ]
+  },
+  {
+    "word": "中小学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escuelas primarias y secundarias",
+      "educación básica"
+    ],
+    "examples": [
+      {
+        "zh": "这里有很多中小学。",
+        "es": "Aquí hay muchas escuelas primarias y secundarias."
+      },
+      {
+        "zh": "中小学明天开始放假。",
+        "es": "Las escuelas primarias y secundarias salen de vacaciones mañana."
+      },
+      {
+        "zh": "这个城市的中小学都有图书馆。",
+        "es": "Todas las escuelas primarias y secundarias de esta ciudad tienen biblioteca."
+      },
+      {
+        "zh": "政府决定增加对中小学教育的投资。",
+        "es": "El gobierno decidió aumentar la inversión en la educación primaria y secundaria."
+      }
+    ]
+  },
+  {
+    "word": "菜单",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "menú",
+      "carta (de restaurante)",
+      "menú (de un programa)"
+    ],
+    "examples": [
+      {
+        "zh": "请给我看一下菜单。",
+        "es": "Por favor, muéstreme el menú."
+      },
+      {
+        "zh": "请问，菜单在哪儿？",
+        "es": "Disculpe, ¿dónde está el menú?"
+      },
+      {
+        "zh": "这家饭店的菜单上有很多中国菜。",
+        "es": "El menú de este restaurante tiene muchos platillos chinos."
+      },
+      {
+        "zh": "菜单上的菜太多了，我不知道应该点什么。",
+        "es": "El menú tiene demasiados platillos; no sé qué pedir."
+      }
+    ]
+  },
+  {
+    "word": "成果",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "resultado",
+      "logro",
+      "fruto (de un esfuerzo)"
+    ],
+    "examples": [
+      {
+        "zh": "这是我们一年的工作成果。",
+        "es": "Este es el resultado de nuestro trabajo de un año."
+      },
+      {
+        "zh": "这些成果都是大家一起努力得到的。",
+        "es": "Todos estos logros los conseguimos con el esfuerzo de todos."
+      },
+      {
+        "zh": "他的研究取得了很大的成果。",
+        "es": "Su investigación logró grandes resultados."
+      },
+      {
+        "zh": "公司希望把新的技术成果用到产品上。",
+        "es": "La empresa quiere aplicar los nuevos avances tecnológicos a sus productos."
+      }
+    ]
+  },
+  {
+    "word": "作文",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "redacción",
+      "composición (escolar)",
+      "escribir una redacción"
+    ],
+    "examples": [
+      {
+        "zh": "我在写作文。",
+        "es": "Estoy escribiendo una redacción."
+      },
+      {
+        "zh": "老师让我们写一篇作文。",
+        "es": "La maestra nos pidió escribir una redacción."
+      },
+      {
+        "zh": "这篇作文写得很好，老师很满意。",
+        "es": "Esta redacción está muy bien escrita; el maestro quedó muy satisfecho."
+      },
+      {
+        "zh": "他每天坚持写作文，所以中文进步得很快。",
+        "es": "Escribe una redacción todos los días, por eso su chino mejora muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "草地",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasto",
+      "césped",
+      "pradera"
+    ],
+    "examples": [
+      {
+        "zh": "请不要在草地上走。",
+        "es": "Por favor, no pise el pasto."
+      },
+      {
+        "zh": "孩子们在草地上跑。",
+        "es": "Los niños corren por el pasto."
+      },
+      {
+        "zh": "我们坐在草地上休息一下吧。",
+        "es": "Sentémonos en el pasto a descansar un rato."
+      },
+      {
+        "zh": "春天到了，学校旁边的草地又变绿了。",
+        "es": "Llegó la primavera y el pasto junto a la escuela volvió a ponerse verde."
+      }
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:中医",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b7e619f7dd3713d8941fd2410df7288f460d3af"
+  },
+  {
+    "id": "word:春节",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98096eb58b7f5eaf741d6159f54124f4fbc0549e"
+  },
+  {
+    "id": "word:普遍",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 东西 ('cosas') es dōng xi (tono neutro); 'dōng xī' significa 'este y oeste'.",
+      "Pinyin del ejemplo 3: 喜欢 es xǐ huan (tono neutro), no 'xǐ huān'."
+    ],
+    "content_hash": "388f7694da55518b2a204315dffb9e5027e4ac71"
+  },
+  {
+    "id": "word:鞋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0f160261ed8cfeefa010f86a70e6f276ea5ee02"
+  },
+  {
+    "id": "word:一点点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "433035c7ee58ed594a42d3daf3f1935a9dafe7e7"
+  },
+  {
+    "id": "word:上周",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce46882a1433e48eb3e7c0e6398c82531e7e3787"
+  },
+  {
+    "id": "word:导演",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10ff474f6029a54bafdae0a53da947c94f700b01"
+  },
+  {
+    "id": "word:笔记",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6cc72c25a943acedacc7ec0cb8476f5ab485c1e7"
+  },
+  {
+    "id": "word:一共",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b7e7998f6898c41fa9d6eac3c8c5faa547194d7a"
+  },
+  {
+    "id": "word:坏人",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: los tonos neutros aparecen como tonos plenos. Debe ser mā ma (妈妈), gào su (告诉) y rèn shi (认识)."
+    ],
+    "content_hash": "8c0ee94b3e8245e01b6738ccfefeadf26cc4e5d7"
+  },
+  {
+    "id": "word:追",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc542d5052fdff63028c8bd416870d672f052d9a"
+  },
+  {
+    "id": "word:租",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a4ad24c9efbe22af37ae80227902f9f40780271"
+  },
+  {
+    "id": "word:足够",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d1e5ac99045fcb7c645eddd22840d95078bde247"
+  },
+  {
+    "id": "word:瓶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ce19048877a4ba6820b24145f68fa2c93bde7d9"
+  },
+  {
+    "id": "word:出租",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 出租汽车公司 se entiende normalmente como 'empresa de taxis'. Para 'renta de autos' lo natural es 租车公司.",
+      "Pinyin del ejemplo 3: 爷爷 es yé ye (tono neutro), no 'yé yé'."
+    ],
+    "content_hash": "8267d0381f4330b707b4af3dee24c33c66a8153d"
+  },
+  {
+    "id": "word:忽然",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 妈妈 es mā ma (tono neutro), no 'mā mā'."
+    ],
+    "content_hash": "c87efd65263d6577dd1cf6ec2152740635289685"
+  },
+  {
+    "id": "word:不好意思",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ce0cfc567b9400f414887d3b5a14aecd087249f"
+  },
+  {
+    "id": "word:痛苦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6131aacbb44abde21992d03e01898fd9cdcac460"
+  },
+  {
+    "id": "word:早餐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5cb4f5fa3b803081a56dea7da6a8acbbdd51f71"
+  },
+  {
+    "id": "word:得出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0739df97578dc0957faff49ad7f9fa3e941eb45"
+  },
+  {
+    "id": "word:比如说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd835a5187a0219ee179dd3f539108db81a42155"
+  },
+  {
+    "id": "word:接近",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 一千万 se pronuncia yì qiān wàn por sandhi tonal. El resto del contenido marca el sandhi (yí gè), así que 'yī' es inconsistente y puede confundir al estudiante."
+    ],
+    "content_hash": "a992c92860508ca1b6f318f204e21935754fb51f"
+  },
+  {
+    "id": "word:龙",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 喜欢 es xǐ huan (tono neutro), no 'xǐ huān'.",
+      "Pinyin del ejemplo 4: 时候 es shí hou (tono neutro), no 'shí hòu'."
+    ],
+    "content_hash": "f4469619c6445f6b1995c7705c3be862f8bcc189"
+  },
+  {
+    "id": "word:遍",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 喜欢 es xǐ huan (tono neutro), no 'xǐ huān'."
+    ],
+    "content_hash": "063f148d383ad0e827764bbeb2cab702a2ee26ee"
+  },
+  {
+    "id": "word:演员",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 哥哥 es gē ge (tono neutro), no 'gē gē'."
+    ],
+    "content_hash": "4c626bd6d0e898f2dac27951ea05a4d0e5ac97ea"
+  }
+]

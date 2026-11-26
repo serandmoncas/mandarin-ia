@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:整体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d25d6e99edc49c2ab80146758062c0ec452e449a"
+  },
+  {
+    "id": "word:顾客",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d38ba17491880f5a9bd5dea0e4320bcb40a3b1cf"
+  },
+  {
+    "id": "word:句",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b754b287719390d4209aa7bf34090bbae5a648cb"
+  },
+  {
+    "id": "word:蓝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3cb8cf62b5a80a642d99d60a82cd1a1fc99d4f7"
+  },
+  {
+    "id": "word:对象",
+    "ok": true,
+    "issues": [],
+    "content_hash": "49e2082840aeba3b5c9d757d085f42121b355eed"
+  },
+  {
+    "id": "word:难过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9cabfbf22656db8f8506aeb79347882ca511d28"
+  },
+  {
+    "id": "word:光",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02178c6182245d021ef8d0e5d70ce54739b6d9de"
+  },
+  {
+    "id": "word:商人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8813e94b4e3212fecdf8942791e8153f02d2a9c7"
+  },
+  {
+    "id": "word:便宜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b4592194c065cee848ab34fae29bf2ab1504c36"
+  },
+  {
+    "id": "word:大人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "55128d22aeb653145d9d1590e5034d991db92c00"
+  },
+  {
+    "id": "word:放心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e82ec762e46f57090d63d7562a0f63c71b0a4719"
+  },
+  {
+    "id": "word:超级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a89fa291ab71729bbb86119817e5e72c615edbb9"
+  },
+  {
+    "id": "word:分开",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «学的时候要分开记» suena poco natural para caracteres que se confunden; lo idiomático sería «要注意区分» o «要分清楚»."
+    ],
+    "content_hash": "6ef761e3c702f00d3928e41c027d6b152d25b58a"
+  },
+  {
+    "id": "word:初",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f491f01c4be9232a656cef85515949310b108d89"
+  },
+  {
+    "id": "word:舒服",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: el clasificador estándar de 床 es 张 («这张床很舒服»). «这个床» es coloquial y poco recomendable en material didáctico."
+    ],
+    "content_hash": "fef8e7473f8754f3ca61af2939a59d46207d08aa"
+  },
+  {
+    "id": "word:回国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c905710eb24131b373481d813a66d62c98984975"
+  },
+  {
+    "id": "word:蓝色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a60cf7f5c98093323365e02b017a649a894afc57"
+  },
+  {
+    "id": "word:课程",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b3a2141afd92ed3293d3e57a0b198c2744e0a636"
+  },
+  {
+    "id": "word:夜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ea573f2341c6daa2f7e4c2e808ca29c1149337a"
+  },
+  {
+    "id": "word:好事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "52a552eb2acefb2d9d1907002680a24d875a6d05"
+  },
+  {
+    "id": "word:篮球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fefcb324b9e3354b368802c88b168ca437a8b0b0"
+  },
+  {
+    "id": "word:商品",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e25d321f1c1db970655c1e314be341b25373c20"
+  },
+  {
+    "id": "word:碰",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6354a79cadc7d0bf632c315d41224180fffc09fa"
+  },
+  {
+    "id": "word:受伤",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b9761081ec295d8e595159cc5265077050f71b4"
+  },
+  {
+    "id": "word:文字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2a245682ab1d675b788257d74ab34c4936c8f47"
+  }
+]

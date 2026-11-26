@@ -1,0 +1,462 @@
+[
+  {
+    "char": "婚",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "昏",
+        "meaning_es": "atardecer"
+      }
+    ],
+    "mnemonic_es": "Imagina a una mujer que se casa al atardecer, con el cielo naranja de fondo: así recuerdas la boda."
+  },
+  {
+    "char": "嘴",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "此",
+        "meaning_es": "este, esto"
+      },
+      {
+        "char": "角",
+        "meaning_es": "cuerno"
+      }
+    ],
+    "mnemonic_es": "Una boca que señala «¡esto!» con un pico duro como cuerno: así es el pico o la boca de un pájaro."
+  },
+  {
+    "char": "苹",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, planta"
+      },
+      {
+        "char": "平",
+        "meaning_es": "plano, parejo"
+      }
+    ],
+    "mnemonic_es": "Una planta que da frutos redondos y parejos: las manzanas de un huerto bien ordenado."
+  },
+  {
+    "char": "封",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "pulgada, mano"
+      }
+    ],
+    "mnemonic_es": "Una mano aplasta dos montones de tierra para tapar un agujero: así se sella algo, como un sobre cerrado."
+  },
+  {
+    "char": "赢",
+    "components": [
+      {
+        "char": "亡",
+        "meaning_es": "perder, desaparecer"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna, carne"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      },
+      {
+        "char": "凡",
+        "meaning_es": "común, ordinario"
+      }
+    ],
+    "mnemonic_es": "Para ganar necesitas de todo: no perder, hablar bien, tener cuerpo fuerte, dinero y talento común; si juntas las cinco piezas, ¡ganas!"
+  },
+  {
+    "char": "礼",
+    "components": [
+      {
+        "char": "礻",
+        "meaning_es": "altar, espíritu"
+      },
+      {
+        "char": "乚",
+        "meaning_es": "gancho, brote"
+      }
+    ],
+    "mnemonic_es": "Frente al altar haces una reverencia, doblándote como un gancho: eso es cortesía, y también el regalo que llevas."
+  },
+  {
+    "char": "播",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "釆",
+        "meaning_es": "esparcir granos"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      }
+    ],
+    "mnemonic_es": "Una mano esparce semillas por el campo: siembra, igual que una radio esparce su señal al transmitir."
+  },
+  {
+    "char": "油",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "由",
+        "meaning_es": "origen, desde"
+      }
+    ],
+    "mnemonic_es": "Un líquido que brota desde el fondo de la tierra, parecido al agua pero espeso: el aceite o el petróleo."
+  },
+  {
+    "char": "借",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "昔",
+        "meaning_es": "antiguamente, el pasado"
+      }
+    ],
+    "mnemonic_es": "Una persona te recuerda algo del pasado: «¿te acuerdas de lo que me prestaste hace tiempo?»."
+  },
+  {
+    "char": "墙",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "啬",
+        "meaning_es": "tacaño, cosecha guardada"
+      }
+    ],
+    "mnemonic_es": "Un tacaño levanta un muro de tierra alrededor de su cosecha para que nadie se la lleve."
+  },
+  {
+    "char": "养",
+    "components": [
+      {
+        "char": "羊",
+        "meaning_es": "oveja (forma abreviada arriba)"
+      },
+      {
+        "char": "介",
+        "meaning_es": "intermediario, entre"
+      }
+    ],
+    "mnemonic_es": "Una persona que se ocupa de sus ovejas, cuidándolas y alimentándolas: así se cría o se mantiene a alguien."
+  },
+  {
+    "char": "吹",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "欠",
+        "meaning_es": "bostezar, aliento"
+      }
+    ],
+    "mnemonic_es": "Abres la boca y sueltas el aliento con fuerza: soplas las velas del pastel."
+  },
+  {
+    "char": "访",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "方",
+        "meaning_es": "dirección, lugar"
+      }
+    ],
+    "mnemonic_es": "Vas a un lugar para hablar con alguien: lo visitas o lo entrevistas."
+  },
+  {
+    "char": "概",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "既",
+        "meaning_es": "ya, una vez que"
+      }
+    ],
+    "mnemonic_es": "Ya viste el árbol completo de lejos, sin fijarte en cada hoja: tienes una idea general, un resumen."
+  },
+  {
+    "char": "念",
+    "components": [
+      {
+        "char": "今",
+        "meaning_es": "ahora"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón, mente"
+      }
+    ],
+    "mnemonic_es": "Lo que tienes ahora en el corazón es aquello que extrañas y en lo que piensas; también lo lees en voz alta para no olvidarlo."
+  },
+  {
+    "char": "急",
+    "components": [
+      {
+        "char": "⺈",
+        "meaning_es": "cuchillo (forma)"
+      },
+      {
+        "char": "彐",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Una mano con un cuchillo encima de tu corazón: ¡el pulso se acelera y todo se vuelve urgente!"
+  },
+  {
+    "char": "套",
+    "components": [
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      },
+      {
+        "char": "镸",
+        "meaning_es": "largo"
+      }
+    ],
+    "mnemonic_es": "Algo grande y largo que lo cubre todo, como una funda o un abrigo; también un juego completo de piezas."
+  },
+  {
+    "char": "末",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno, raya"
+      }
+    ],
+    "mnemonic_es": "Una raya larga marca la punta más alta del árbol: ahí está el final, como el fin de semana (周末)."
+  },
+  {
+    "char": "板",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "madera"
+      },
+      {
+        "char": "反",
+        "meaning_es": "al revés, opuesto"
+      }
+    ],
+    "mnemonic_es": "Una pieza de madera que puedes voltear al revés y queda igual por ambos lados: una tabla plana."
+  },
+  {
+    "char": "丽",
+    "components": [
+      {
+        "char": "丽",
+        "meaning_es": "hermoso, bello"
+      }
+    ],
+    "mnemonic_es": "Imagina dos ventanas gemelas con adornos bajo un mismo techo: una fachada tan simétrica que resulta hermosa."
+  },
+  {
+    "char": "某",
+    "components": [
+      {
+        "char": "甘",
+        "meaning_es": "dulce"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Hay un árbol dulce en algún lugar, no sé cuál: es «cierto» árbol, uno cualquiera."
+  },
+  {
+    "char": "烈",
+    "components": [
+      {
+        "char": "列",
+        "meaning_es": "fila, hilera"
+      },
+      {
+        "char": "灬",
+        "meaning_es": "fuego"
+      }
+    ],
+    "mnemonic_es": "Una fila entera de fogatas ardiendo al mismo tiempo: un fuego intenso, violento y apasionado."
+  },
+  {
+    "char": "夏",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "自",
+        "meaning_es": "uno mismo, nariz"
+      },
+      {
+        "char": "夂",
+        "meaning_es": "caminar lento"
+      }
+    ],
+    "mnemonic_es": "Te ves a ti mismo caminando lentísimo, arrastrando los pies por el calor: es pleno verano."
+  },
+  {
+    "char": "味",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "未",
+        "meaning_es": "todavía no"
+      }
+    ],
+    "mnemonic_es": "Lo llevas a la boca y todavía no sabes qué es… hasta que sientes su sabor."
+  },
+  {
+    "char": "温",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "皿",
+        "meaning_es": "recipiente, plato"
+      }
+    ],
+    "mnemonic_es": "Agua en un recipiente puesta al sol: queda tibia, a una temperatura agradable."
+  },
+  {
+    "char": "句",
+    "components": [
+      {
+        "char": "勹",
+        "meaning_es": "envolver"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Envuelves lo que sale de tu boca en un paquete completo: una oración o frase."
+  },
+  {
+    "char": "蓝",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, planta"
+      },
+      {
+        "char": "监",
+        "meaning_es": "vigilar, supervisar"
+      }
+    ],
+    "mnemonic_es": "Un guardia vigila unas plantas especiales que tiñen la ropa de azul, para que nadie se las robe."
+  },
+  {
+    "char": "光",
+    "components": [
+      {
+        "char": "⺌",
+        "meaning_es": "chispas, rayos (forma de 小)"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno, línea"
+      },
+      {
+        "char": "儿",
+        "meaning_es": "piernas, persona"
+      }
+    ],
+    "mnemonic_es": "Una persona con piernas lleva en la cabeza una antorcha que lanza chispas: ilumina todo con su luz."
+  },
+  {
+    "char": "害",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo, casa"
+      },
+      {
+        "char": "丰",
+        "meaning_es": "abundante"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo hay abundancia de bocas chismosas: las habladurías hacen daño a quien vive ahí."
+  },
+  {
+    "char": "优",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "尤",
+        "meaning_es": "especialmente, sobre todo"
+      }
+    ],
+    "mnemonic_es": "Una persona que destaca especialmente sobre las demás: es excelente, de calidad superior."
+  }
+]

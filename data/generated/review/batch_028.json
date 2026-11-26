@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:一会儿",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto del erhua: 儿 aparece como sílaba separada «er» en todos los ejemplos. Debe escribirse unido: «yíhuìr» (o «yī huìr»), no «yī huì er»."
+    ],
+    "content_hash": "1274f39202f3acc3cc556d345b974324311e5091"
+  },
+  {
+    "id": "word:造成",
+    "ok": false,
+    "issues": [
+      "«大雨造成飞机晚了两个小时» no suena natural: 造成 suele llevar un sustantivo como objeto (p. ej. 大雨造成航班延误), no una oración completa. Mejor usar 导致 o 使: «大雨导致飞机晚了两个小时»."
+    ],
+    "content_hash": "f4bb2b7b6363ba523c99cedc131b30262bdcdb8d"
+  },
+  {
+    "id": "word:请问",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ea6784eff67ad6dc62e08a9571812640debd3a22"
+  },
+  {
+    "id": "word:增加",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10e555056b4164f092aa6ae8ab2b116ccfaebb35"
+  },
+  {
+    "id": "word:这儿",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en todos los ejemplos: 这儿 se transcribe «zhèr» (erhua), no «zhè ér»."
+    ],
+    "content_hash": "cbc8d2dd45ea1d4e43ed697844369f79ed2be6cf"
+  },
+  {
+    "id": "word:严重",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9043cefcf3163d8ddffc8d68bb290c2fea94252c"
+  },
+  {
+    "id": "word:军",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6d231f62e2a76e9160fe88bb7f031eea20bf9b9"
+  },
+  {
+    "id": "word:累",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dbb4d5cc3d0cb8c70f977c5a3594a109e31ada46"
+  },
+  {
+    "id": "word:同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6444620235891edad76d61ccd2eec5286bd6210c"
+  },
+  {
+    "id": "word:上网",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1dd91e5aff0024146a1721a998a6bfdc662a1941"
+  },
+  {
+    "id": "word:负责",
+    "ok": true,
+    "issues": [],
+    "content_hash": "88c8530c7721ba4df7a56974d06e3138b7122923"
+  },
+  {
+    "id": "word:爷爷",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: el segundo 爷 lleva tono neutro, «yéye», no «yé yé». Esto contradice la propia lectura de la palabra (ye2 ye5)."
+    ],
+    "content_hash": "76e1f21770b24ca1e7d6a3d351549d8756161ee7"
+  },
+  {
+    "id": "word:工业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e93182e369d044357c6d0f270fea78e6704e54ed"
+  },
+  {
+    "id": "word:好吃",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1fd58966d8badd17ab380d52004bb92957d96650"
+  },
+  {
+    "id": "word:基础",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20615ec60c17a90fbd062053db30d0a25fa37ec7"
+  },
+  {
+    "id": "word:家庭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd9d243c9c55fb350133b7286bf51945b3825c88"
+  },
+  {
+    "id": "word:女朋友",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 朋友 lleva tono neutro en la segunda sílaba, «péngyou», no «péng yǒu». Contradice la lectura dada (peng2 you5)."
+    ],
+    "content_hash": "4231b81230323ee1f6602af9cad78866001b6afb"
+  },
+  {
+    "id": "word:受到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02fd13d1eeea0c6bf9462af1eb19c7ce9dc85e38"
+  },
+  {
+    "id": "word:雨",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d90e64d28d301e22edc1c4d4601048a46a4da038"
+  },
+  {
+    "id": "word:台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "959d8826eff5232989de0c98eaac665fe92d126f"
+  },
+  {
+    "id": "word:这边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3ebaae4b1da5c4ee1e2f6c8b5943b81634d1d52"
+  },
+  {
+    "id": "word:百",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e80e4bba99b05171fbbe8000c5437fb02c76e688"
+  },
+  {
+    "id": "word:相信",
+    "ok": false,
+    "issues": [
+      "Traducción del ejemplo 3 gramaticalmente incorrecta en español: tras «no cree que» va subjuntivo. Debe ser «Mi mamá no cree que ya haya terminado»."
+    ],
+    "content_hash": "983efa145f66844e509357b545ea374a5d524459"
+  },
+  {
+    "id": "word:占",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fe51e7acbb3f79b29f38e68e2f4f917bcc59e947"
+  },
+  {
+    "id": "word:男朋友",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 朋友 lleva tono neutro en la segunda sílaba, «péngyou», no «péng yǒu». Contradice la lectura dada (peng2 you5)."
+    ],
+    "content_hash": "c1ae71c8ae1a22b78a3b8a289e025ea427afa82f"
+  }
+]

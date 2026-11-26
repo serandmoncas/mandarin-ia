@@ -1,0 +1,434 @@
+[
+  {
+    "char": "旁",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa"
+      },
+      {
+        "char": "丷",
+        "meaning_es": "dos gotas"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "cubierta"
+      },
+      {
+        "char": "方",
+        "meaning_es": "dirección, lado"
+      }
+    ],
+    "mnemonic_es": "Imagina una casa con tapa y techo, y debajo una flecha (方) que apunta hacia un lado: lo que buscas está justo al lado."
+  },
+  {
+    "char": "专",
+    "components": [
+      {
+        "char": "专",
+        "meaning_es": "especial, concentrado"
+      }
+    ],
+    "mnemonic_es": "Piensa en un hilo enrollado con mucho cuidado en un carrete: hace falta estar concentrado y ser especialista para enrollarlo así."
+  },
+  {
+    "char": "火",
+    "components": [
+      {
+        "char": "火",
+        "meaning_es": "fuego"
+      }
+    ],
+    "mnemonic_es": "Mira el carácter como una fogata: un tronco al centro y dos chispas que saltan a los lados."
+  },
+  {
+    "char": "否",
+    "components": [
+      {
+        "char": "不",
+        "meaning_es": "no"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Una boca (口) que dice «no» (不): alguien está negando algo."
+  },
+  {
+    "char": "杯",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "不",
+        "meaning_es": "no"
+      }
+    ],
+    "mnemonic_es": "Una taza de madera (木) a la que le dices «no» (不) cuando te ofrecen otra: «¡no, ya no más, gracias!»."
+  },
+  {
+    "char": "感",
+    "components": [
+      {
+        "char": "咸",
+        "meaning_es": "todos, salado"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Cuando algo te toca a todos (咸) en el corazón (心), todos lo sienten."
+  },
+  {
+    "char": "解",
+    "components": [
+      {
+        "char": "角",
+        "meaning_es": "cuerno"
+      },
+      {
+        "char": "刀",
+        "meaning_es": "cuchillo"
+      },
+      {
+        "char": "牛",
+        "meaning_es": "vaca, buey"
+      }
+    ],
+    "mnemonic_es": "Imagina a un carnicero que con un cuchillo (刀) separa el cuerno (角) de un buey (牛): desarma el problema pieza por pieza hasta resolverlo y explicarlo."
+  },
+  {
+    "char": "树",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano, otra vez"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "pulgada, mano"
+      }
+    ],
+    "mnemonic_es": "Una madera (木) que una mano (又) y otra mano (寸) plantan con cuidado hasta que crece un árbol."
+  },
+  {
+    "char": "举",
+    "components": [
+      {
+        "char": "举",
+        "meaning_es": "levantar, alzar"
+      }
+    ],
+    "mnemonic_es": "Visualiza el carácter como una persona con los brazos en alto sosteniendo una barra: está levantando algo, como quien levanta la mano para votar."
+  },
+  {
+    "char": "馆",
+    "components": [
+      {
+        "char": "饣",
+        "meaning_es": "comida"
+      },
+      {
+        "char": "官",
+        "meaning_es": "funcionario"
+      }
+    ],
+    "mnemonic_es": "Un lugar donde los funcionarios (官) van a comer (饣): un edificio público, como un restaurante o un museo."
+  },
+  {
+    "char": "力",
+    "components": [
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Mira el carácter como un brazo doblado mostrando el músculo: ¡pura fuerza!"
+  },
+  {
+    "char": "净",
+    "components": [
+      {
+        "char": "冫",
+        "meaning_es": "hielo"
+      },
+      {
+        "char": "争",
+        "meaning_es": "competir, pelear"
+      }
+    ],
+    "mnemonic_es": "Dos personas compiten (争) por limpiar con agua helada (冫): el que deja todo más limpio, gana."
+  },
+  {
+    "char": "艺",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, planta"
+      },
+      {
+        "char": "乙",
+        "meaning_es": "segundo, gancho"
+      }
+    ],
+    "mnemonic_es": "Un jardinero dobla una planta (艹) en forma de gancho (乙) para hacer una figura: eso ya es arte."
+  },
+  {
+    "char": "贵",
+    "components": [
+      {
+        "char": "中",
+        "meaning_es": "centro"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      }
+    ],
+    "mnemonic_es": "Una concha (贝), que antes se usaba como dinero, colocada en el centro (中) de un pedestal: algo tan valioso que resulta caro."
+  },
+  {
+    "char": "副",
+    "components": [
+      {
+        "char": "畐",
+        "meaning_es": "lleno, abundante"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Con un cuchillo (刂) partes un recipiente lleno (畐) en dos: obtienes una segunda parte, la secundaria, como el «vice» de algo."
+  },
+  {
+    "char": "零",
+    "components": [
+      {
+        "char": "雨",
+        "meaning_es": "lluvia"
+      },
+      {
+        "char": "令",
+        "meaning_es": "orden, mandato"
+      }
+    ],
+    "mnemonic_es": "La lluvia (雨) obedece una orden (令) y deja de caer: no queda ni una gota, ¡cero!"
+  },
+  {
+    "char": "拥",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "用",
+        "meaning_es": "usar"
+      }
+    ],
+    "mnemonic_es": "Usas (用) tus manos (扌) para rodear a alguien: le das un abrazo."
+  },
+  {
+    "char": "超",
+    "components": [
+      {
+        "char": "走",
+        "meaning_es": "caminar, correr"
+      },
+      {
+        "char": "召",
+        "meaning_es": "llamar, convocar"
+      }
+    ],
+    "mnemonic_es": "Te llaman (召) y corres (走) tan rápido que pasas de largo y superas a todos."
+  },
+  {
+    "char": "连",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "avanzar, camino"
+      },
+      {
+        "char": "车",
+        "meaning_es": "vehículo, carro"
+      }
+    ],
+    "mnemonic_es": "Carros (车) avanzando (辶) uno tras otro por el camino, como los vagones de un tren conectados."
+  },
+  {
+    "char": "冷",
+    "components": [
+      {
+        "char": "冫",
+        "meaning_es": "hielo"
+      },
+      {
+        "char": "令",
+        "meaning_es": "orden, mandato"
+      }
+    ],
+    "mnemonic_es": "El jefe da una orden (令) y aparece el hielo (冫): ¡qué frío hace!"
+  },
+  {
+    "char": "慢",
+    "components": [
+      {
+        "char": "忄",
+        "meaning_es": "corazón, emoción"
+      },
+      {
+        "char": "曼",
+        "meaning_es": "largo, extenso"
+      }
+    ],
+    "mnemonic_es": "Un corazón (忄) tranquilo que se toma su tiempo largo (曼): todo lo hace despacio."
+  },
+  {
+    "char": "实",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo, casa"
+      },
+      {
+        "char": "头",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "Bajo tu techo (宀) tienes tu propia cabeza (头) sobre los hombros: eso sí es real y verdadero."
+  },
+  {
+    "char": "菜",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, planta"
+      },
+      {
+        "char": "采",
+        "meaning_es": "recoger, cosechar"
+      }
+    ],
+    "mnemonic_es": "Plantas (艹) que recoges (采) en la huerta: verduras que luego se convierten en un platillo."
+  },
+  {
+    "char": "茶",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, planta"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      }
+    ],
+    "mnemonic_es": "Una persona (人) entre la hierba (艹) y los árboles (木), recogiendo hojas para prepararse un té."
+  },
+  {
+    "char": "传",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "专",
+        "meaning_es": "especial, concentrado"
+      }
+    ],
+    "mnemonic_es": "Una persona (亻) especializada (专) en pasar mensajes: transmite y difunde la información."
+  },
+  {
+    "char": "洗",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "先",
+        "meaning_es": "primero, antes"
+      }
+    ],
+    "mnemonic_es": "Antes (先) de comer, primero lo primero: ¡agua (氵) para lavarse las manos!"
+  },
+  {
+    "char": "独",
+    "components": [
+      {
+        "char": "犭",
+        "meaning_es": "animal, perro"
+      },
+      {
+        "char": "虫",
+        "meaning_es": "insecto, bicho"
+      }
+    ],
+    "mnemonic_es": "Un perro (犭) cuyo único amigo es un bichito (虫): se siente muy solo."
+  },
+  {
+    "char": "韩",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      },
+      {
+        "char": "早",
+        "meaning_es": "temprano"
+      },
+      {
+        "char": "韦",
+        "meaning_es": "cuero"
+      }
+    ],
+    "mnemonic_es": "Imagina que a las diez (十) de la mañana, todavía temprano (早), te pones una chaqueta de cuero (韦) para viajar a Corea."
+  },
+  {
+    "char": "调",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "周",
+        "meaning_es": "alrededor, semana"
+      }
+    ],
+    "mnemonic_es": "Hablar (讠) con todos los de alrededor (周) para ajustar los detalles; también suena como el tono que ajustas al hablar."
+  },
+  {
+    "char": "查",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "旦",
+        "meaning_es": "amanecer"
+      }
+    ],
+    "mnemonic_es": "Al amanecer (旦), el guardabosques revisa cada árbol (木): está inspeccionando y verificando."
+  }
+]

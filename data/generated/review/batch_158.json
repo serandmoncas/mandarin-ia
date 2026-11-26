@@ -1,0 +1,155 @@
+[
+  {
+    "id": "word:衣服",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f540ed61961405368a6afd4ddb48034dc2f03a4f"
+  },
+  {
+    "id": "word:一点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc83f2bc963581fedbb727e8b2fc8486a92126b4"
+  },
+  {
+    "id": "word:毛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a522a25362e62eec048025a4b4b18a70117f1638"
+  },
+  {
+    "id": "word:甚至",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4878d6869208f47174f2f1b7e0220d511af3be14"
+  },
+  {
+    "id": "word:忘记",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c06a0985ce227ed84e0d47e0d0f1a3fc4f1d674"
+  },
+  {
+    "id": "word:当然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b0ca4ec90d5a139a22676e4c8b7473d02d3b262"
+  },
+  {
+    "id": "word:爸爸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "767dbcae6d4d5ff08281402b5151d5bc98cfd1c2"
+  },
+  {
+    "id": "word:过程",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f546407326458e0e977852629628574e307b04fa"
+  },
+  {
+    "id": "word:事件",
+    "ok": false,
+    "issues": [
+      "El ejemplo 4 suena poco natural: '政府还没有告诉人民…的情况' es forzado; lo natural sería '政府还没有向公众公布这个事件的具体情况'.",
+      "La traducción del ejemplo 4 omite '情况' (los detalles o la situación del incidente)."
+    ],
+    "content_hash": "a305e2db25eca040cd0df51d0c910d3b1a2c1e39"
+  },
+  {
+    "id": "word:一边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d0739ed0e325540c99df8458d21d6f1d79a937a"
+  },
+  {
+    "id": "word:病",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df3a76693d17dc3ca61f2ad45e9f647dc5ce037b"
+  },
+  {
+    "id": "word:玩",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c3c8611eb39efcca0fb06baedf06d667a0fc7062"
+  },
+  {
+    "id": "word:视频",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fd85a611f9a519db96f08130362280cc95f1783f"
+  },
+  {
+    "id": "word:班",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8efb7a1e5a52a2f367c18141925fe19935d5660"
+  },
+  {
+    "id": "word:设计",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc6935a6c0b019c37d03854353889b00208680aa"
+  },
+  {
+    "id": "word:动作",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da03a7238cd7de255f5a12814064201b2c0905ca"
+  },
+  {
+    "id": "word:姐姐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10f3c18de3884a8cdcea18d9437d9b888d8feb37"
+  },
+  {
+    "id": "word:记",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ff9fe29b69269885d282b4483d3e3d0b150c14bf"
+  },
+  {
+    "id": "word:直接",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0a1ddf04bfe21b5976308b9247ecaedd7259bd2"
+  },
+  {
+    "id": "word:左",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b8197b8d81c55a40eab56d90dc7775b5b07721ad"
+  },
+  {
+    "id": "word:县",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e4305cf0c26b0ffeb011c2a11996f4dd6d67233"
+  },
+  {
+    "id": "word:地点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da0a8ea87441b7340acf583f586a3bf48041b48a"
+  },
+  {
+    "id": "word:比较",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3bf979deac55c0e491bf85dff5d5c5e749284d7f"
+  },
+  {
+    "id": "word:存在",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f4597327fad0f4bac33e01ba79ad9cb9995db51d"
+  },
+  {
+    "id": "word:忘",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5115de365f0b9cb2107b360401a0eae3ed917c8"
+  }
+]

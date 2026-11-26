@@ -1,0 +1,174 @@
+[
+  {
+    "id": "word:到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5bb005ce88d8aef928ee8564ee3f3155ba5c57d"
+  },
+  {
+    "id": "word:会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98cc21989b2cb4553ece020bb7db277689d8f8e3"
+  },
+  {
+    "id": "word:要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4bd2b0c067aa01b8d744c5fd5d1efb964a74e1e4"
+  },
+  {
+    "id": "word:来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9308070ba49c0076f3d4032d9bc34b2f89265fe7"
+  },
+  {
+    "id": "word:月",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89acba1fa170dfc5de3a2be23ef6f89f037bc1d6"
+  },
+  {
+    "id": "word:中国",
+    "ok": false,
+    "issues": [
+      "Pinyin de 东西 (cosa) debe ser 'dōng xi' (tono neutro); 'dōng xī' corresponde a 'este y oeste'."
+    ],
+    "content_hash": "79bdc95a4408de40944770110c114e651c43fc9c"
+  },
+  {
+    "id": "word:被",
+    "ok": false,
+    "issues": [
+      "Pinyin de 一顿 debe ser 'yí dùn' (cambio tonal de 一 ante cuarto tono), coherente con el resto de ejemplos."
+    ],
+    "content_hash": "afc2d9630c7496d3e2fe69bc8ce551ecf2931b1a"
+  },
+  {
+    "id": "word:他们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "767be1bfb1c19f43a0b43901d1cb0f43bc514261"
+  },
+  {
+    "id": "word:还",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a55677d3df000f111c14d7af5a3363ba65d28bcf"
+  },
+  {
+    "id": "word:没有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e11e764e7953fd0ff6222d8c71a69c838319cf34"
+  },
+  {
+    "id": "word:而",
+    "ok": false,
+    "issues": [
+      "El primer ejemplo ilustra la palabra compuesta 而且, no 而 solo; puede confundir al estudiante sobre el uso de 而."
+    ],
+    "content_hash": "2f5053436f874fa245794154fa82808758cf845e"
+  },
+  {
+    "id": "word:个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ade7ebdafdea3fdca15ec6f708f2ebccfa9de08"
+  },
+  {
+    "id": "word:可以",
+    "ok": false,
+    "issues": [
+      "'这个菜还可以' significa 'Esta comida está pasable / no está mal'; 'bastante bien' exagera la valoración."
+    ],
+    "content_hash": "cbd1f2811f99f50b8a37188244e92e5da3abc228"
+  },
+  {
+    "id": "word:等",
+    "ok": true,
+    "issues": [],
+    "content_hash": "313dcf5e1acb82b306cdbc1e9ac397cbdeee6e16"
+  },
+  {
+    "id": "word:后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b1e185e7cef541f88b3c6aea6cffd3b6ad68397"
+  },
+  {
+    "id": "word:但",
+    "ok": false,
+    "issues": [
+      "Pinyin de 得 en '说得不好' debe ser 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "afafba04213db8ef6c78d13dccfa31247d15c6dc"
+  },
+  {
+    "id": "word:于",
+    "ok": false,
+    "issues": [
+      "El tercer ejemplo usa la palabra compuesta 对于, no 于 solo; además '这个对于我们很重要' suena forzado (más natural: 这对我们很重要)."
+    ],
+    "content_hash": "b7771f53a8e42a024b46ca9edf510c457d881091"
+  },
+  {
+    "id": "word:日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a37ac38d6013259bc1cadc5662866729118672a"
+  },
+  {
+    "id": "word:什么",
+    "ok": false,
+    "issues": [
+      "Pinyin de 时候 debe ser 'shí hou' (tono neutro), no 'shí hòu'."
+    ],
+    "content_hash": "087b65ed1408b420aef8dd95c57e464716aa862b"
+  },
+  {
+    "id": "word:这个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "362b9099373db6e5ea9b50d300354172da5211c1"
+  },
+  {
+    "id": "word:并",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf3d3b053e21f875d4b3661d8abf1e5ab7a8da25"
+  },
+  {
+    "id": "word:能",
+    "ok": true,
+    "issues": [],
+    "content_hash": "963579ea90d9b19c33fc24e7891576568b4d2bba"
+  },
+  {
+    "id": "word:很",
+    "ok": false,
+    "issues": [
+      "Falta indicar que 很 a menudo se usa ante adjetivos sin valor intensificador; '我很好' se traduce mejor como 'Estoy bien', y traducirlo como 'muy bien' refuerza un malentendido común."
+    ],
+    "content_hash": "468ab0497b1f50685f80b89887e3adcaf0856c7b"
+  },
+  {
+    "id": "word:将",
+    "ok": false,
+    "issues": [
+      "El significado '(futuro) ir a, ser' es confuso: 'ser' no es un significado de 将; debería ser solo marca de futuro ('ir a', futuro simple)."
+    ],
+    "content_hash": "9aac8a22d8d87b973d78ad373816943c00b81eeb"
+  },
+  {
+    "id": "word:一",
+    "ok": false,
+    "issues": [
+      "一月 se pronuncia 'yī yuè' (en fechas y ordinales no hay cambio tonal), no 'yí yuè'.",
+      "他一来 debe ser 'yì lái' (cambio tonal ante segundo tono), no 'yī lái'.",
+      "一家人 debe ser 'yì jiā rén' (cambio tonal ante primer tono), no 'yī jiā rén'."
+    ],
+    "content_hash": "5ea567af74d43e81bff3ace7df86369343f7f57c"
+  }
+]

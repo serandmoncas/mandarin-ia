@@ -1,0 +1,544 @@
+[
+  {
+    "word": "重复",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "repetir",
+      "duplicar",
+      "repetido"
+    ],
+    "examples": [
+      {
+        "zh": "请再重复一次。",
+        "es": "Por favor, repítelo otra vez."
+      },
+      {
+        "zh": "老师重复了三次。",
+        "es": "El maestro lo repitió tres veces."
+      },
+      {
+        "zh": "你不用重复，我已经明白了。",
+        "es": "No hace falta que lo repitas, ya entendí."
+      },
+      {
+        "zh": "这两篇文章的内容有很多重复的地方。",
+        "es": "Estos dos artículos tienen muchas partes repetidas."
+      }
+    ]
+  },
+  {
+    "word": "道理",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "razón",
+      "lógica",
+      "sentido",
+      "principio"
+    ],
+    "examples": [
+      {
+        "zh": "你说得有道理。",
+        "es": "Tienes razón en lo que dices."
+      },
+      {
+        "zh": "这个道理很简单。",
+        "es": "El razonamiento es muy sencillo."
+      },
+      {
+        "zh": "我不明白这是什么道理。",
+        "es": "No entiendo qué lógica tiene esto."
+      },
+      {
+        "zh": "老师用一个故事告诉我们做人的道理。",
+        "es": "El maestro usó una historia para enseñarnos cómo ser buenas personas."
+      }
+    ]
+  },
+  {
+    "word": "员工",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "empleado",
+      "personal",
+      "trabajador"
+    ],
+    "examples": [
+      {
+        "zh": "他是这家公司的员工。",
+        "es": "Él es empleado de esta empresa."
+      },
+      {
+        "zh": "我们公司有两百名员工。",
+        "es": "Nuestra empresa tiene doscientos empleados."
+      },
+      {
+        "zh": "公司今天给所有员工放假。",
+        "es": "Hoy la empresa les dio el día libre a todos los empleados."
+      },
+      {
+        "zh": "老板认为员工的健康比工作更重要。",
+        "es": "El jefe cree que la salud de los empleados es más importante que el trabajo."
+      }
+    ]
+  },
+  {
+    "word": "例子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ejemplo",
+      "caso"
+    ],
+    "examples": [
+      {
+        "zh": "这个例子很好。",
+        "es": "Este ejemplo es muy bueno."
+      },
+      {
+        "zh": "你能举个例子吗？",
+        "es": "¿Puedes dar un ejemplo?"
+      },
+      {
+        "zh": "老师用了很多例子来解释。",
+        "es": "El maestro usó muchos ejemplos para explicar."
+      },
+      {
+        "zh": "书里的例子太少了，学生不容易明白。",
+        "es": "El libro tiene muy pocos ejemplos y a los estudiantes les cuesta entender."
+      }
+    ]
+  },
+  {
+    "word": "整体",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conjunto",
+      "todo",
+      "en general",
+      "global"
+    ],
+    "examples": [
+      {
+        "zh": "整体来说，这部电影不错。",
+        "es": "En general, esta película está bien."
+      },
+      {
+        "zh": "我们要从整体考虑问题。",
+        "es": "Tenemos que analizar el problema en su conjunto."
+      },
+      {
+        "zh": "这个城市的整体环境很好。",
+        "es": "El ambiente general de esta ciudad es muy bueno."
+      },
+      {
+        "zh": "公司今年的整体发展比去年快多了。",
+        "es": "Este año el desarrollo general de la empresa fue mucho más rápido que el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "味道",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sabor",
+      "gusto",
+      "olor",
+      "toque"
+    ],
+    "examples": [
+      {
+        "zh": "这个菜味道很好。",
+        "es": "Este plato tiene muy buen sabor."
+      },
+      {
+        "zh": "这杯茶没什么味道。",
+        "es": "Este té casi no tiene sabor."
+      },
+      {
+        "zh": "这家饭店的菜有家的味道。",
+        "es": "La comida de este restaurante sabe a hogar."
+      },
+      {
+        "zh": "他的话里有一点批评的味道。",
+        "es": "Sus palabras tenían un toque de crítica."
+      }
+    ]
+  },
+  {
+    "word": "制定",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "elaborar",
+      "formular",
+      "establecer"
+    ],
+    "examples": [
+      {
+        "zh": "我们要制定一个计划。",
+        "es": "Tenemos que elaborar un plan."
+      },
+      {
+        "zh": "政府制定了新的政策。",
+        "es": "El gobierno formuló una nueva política."
+      },
+      {
+        "zh": "老师帮学生制定了学习计划。",
+        "es": "El maestro ayudó a los estudiantes a elaborar un plan de estudio."
+      },
+      {
+        "zh": "这些规定是由公司领导一起制定的。",
+        "es": "Estas reglas las establecieron en conjunto los directivos de la empresa."
+      }
+    ]
+  },
+  {
+    "word": "温度",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "temperatura"
+    ],
+    "examples": [
+      {
+        "zh": "今天的温度很高。",
+        "es": "Hoy la temperatura está muy alta."
+      },
+      {
+        "zh": "房间里的温度是多少？",
+        "es": "¿Cuál es la temperatura en la habitación?"
+      },
+      {
+        "zh": "晚上的温度比白天低很多。",
+        "es": "En la noche la temperatura es mucho más baja que de día."
+      },
+      {
+        "zh": "喝茶时水的温度不能太高，不然不好喝。",
+        "es": "Para el té, el agua no debe estar muy caliente; si no, no sabe bien."
+      }
+    ]
+  },
+  {
+    "word": "差不多",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "casi",
+      "más o menos",
+      "parecido",
+      "aceptable"
+    ],
+    "examples": [
+      {
+        "zh": "饭差不多好了。",
+        "es": "La comida ya casi está lista."
+      },
+      {
+        "zh": "我们两个差不多高。",
+        "es": "Los dos somos casi igual de altos."
+      },
+      {
+        "zh": "这两件衣服的价格差不多。",
+        "es": "Estas dos prendas cuestan más o menos lo mismo."
+      },
+      {
+        "zh": "我在中国已经住了差不多五年了。",
+        "es": "Ya llevo casi cinco años viviendo en China."
+      }
+    ]
+  },
+  {
+    "word": "表达",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "expresar",
+      "transmitir",
+      "manifestar"
+    ],
+    "examples": [
+      {
+        "zh": "我不知道怎么表达。",
+        "es": "No sé cómo expresarlo."
+      },
+      {
+        "zh": "他用中文表达自己的想法。",
+        "es": "Él expresa sus ideas en chino."
+      },
+      {
+        "zh": "她很会表达自己的感觉。",
+        "es": "Ella sabe expresar muy bien lo que siente."
+      },
+      {
+        "zh": "有时候，音乐比语言更能表达人的心情。",
+        "es": "A veces la música expresa los sentimientos mejor que las palabras."
+      }
+    ]
+  },
+  {
+    "word": "顾客",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cliente",
+      "comprador"
+    ],
+    "examples": [
+      {
+        "zh": "商店里有很多顾客。",
+        "es": "Hay muchos clientes en la tienda."
+      },
+      {
+        "zh": "这位顾客想买一本书。",
+        "es": "Este cliente quiere comprar un libro."
+      },
+      {
+        "zh": "这家饭店的顾客大部分是学生。",
+        "es": "La mayoría de los clientes de este restaurante son estudiantes."
+      },
+      {
+        "zh": "如果顾客不满意，我们可以免费换一个新的。",
+        "es": "Si el cliente no queda satisfecho, podemos cambiárselo gratis por uno nuevo."
+      }
+    ]
+  },
+  {
+    "word": "句",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "frase",
+      "oración",
+      "clasificador para frases o versos",
+      "verso"
+    ],
+    "examples": [
+      {
+        "zh": "这句话是什么意思？",
+        "es": "¿Qué significa esta frase?"
+      },
+      {
+        "zh": "我想说一句话。",
+        "es": "Quiero decir unas palabras."
+      },
+      {
+        "zh": "他一句中文也不会说。",
+        "es": "No sabe decir ni una frase en chino."
+      },
+      {
+        "zh": "老师让我们用这个词写三个句子。",
+        "es": "El maestro nos pidió escribir tres oraciones con esta palabra."
+      }
+    ]
+  },
+  {
+    "word": "村",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pueblo",
+      "aldea",
+      "rústico"
+    ],
+    "examples": [
+      {
+        "zh": "我爷爷住在村里。",
+        "es": "Mi abuelo vive en el pueblo."
+      },
+      {
+        "zh": "这个村有三百多人。",
+        "es": "Esta aldea tiene más de trescientos habitantes."
+      },
+      {
+        "zh": "村里的孩子每天走路去上学。",
+        "es": "Los niños del pueblo van caminando a la escuela todos los días."
+      },
+      {
+        "zh": "这些年村里的变化很大，很多年轻人回来工作了。",
+        "es": "En estos años el pueblo ha cambiado mucho; muchos jóvenes han vuelto a trabajar."
+      }
+    ]
+  },
+  {
+    "word": "蓝",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "azul",
+      "añil (planta)"
+    ],
+    "examples": [
+      {
+        "zh": "天很蓝。",
+        "es": "El cielo está muy azul."
+      },
+      {
+        "zh": "她穿着一件蓝衣服。",
+        "es": "Ella lleva puesta una prenda azul."
+      },
+      {
+        "zh": "他的书包是蓝的，不是黑的。",
+        "es": "Su mochila es azul, no negra."
+      },
+      {
+        "zh": "昨天下了雨，今天的天特别蓝，空气也很好。",
+        "es": "Ayer llovió; hoy el cielo está especialmente azul y el aire está muy limpio."
+      }
+    ]
+  },
+  {
+    "word": "对象",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pareja (novio o novia)",
+      "objeto",
+      "destinatario",
+      "público objetivo"
+    ],
+    "examples": [
+      {
+        "zh": "你有对象吗？",
+        "es": "¿Tienes pareja?"
+      },
+      {
+        "zh": "她的对象是一位医生。",
+        "es": "Su pareja es médico."
+      },
+      {
+        "zh": "这本书的对象是小学生。",
+        "es": "Este libro está dirigido a estudiantes de primaria."
+      },
+      {
+        "zh": "他们的研究对象是中国的农村。",
+        "es": "El objeto de su investigación es el campo chino."
+      }
+    ]
+  },
+  {
+    "word": "感受",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sentir",
+      "sensación",
+      "impresión",
+      "experiencia"
+    ],
+    "examples": [
+      {
+        "zh": "你的感受是什么？",
+        "es": "¿Cómo te sientes al respecto?"
+      },
+      {
+        "zh": "我能感受到你的爱。",
+        "es": "Puedo sentir tu amor."
+      },
+      {
+        "zh": "第一次来中国，你有什么感受？",
+        "es": "Es tu primera vez en China, ¿qué impresión tienes?"
+      },
+      {
+        "zh": "你应该多关心别人的感受，不要只想自己。",
+        "es": "Deberías preocuparte más por los sentimientos de los demás y no pensar solo en ti."
+      }
+    ]
+  },
+  {
+    "word": "难过",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "triste",
+      "sentirse mal",
+      "difícil (la vida)"
+    ],
+    "examples": [
+      {
+        "zh": "我很难过。",
+        "es": "Estoy muy triste."
+      },
+      {
+        "zh": "别难过了。",
+        "es": "Ya no estés triste."
+      },
+      {
+        "zh": "听到这个消息，她难过得哭了。",
+        "es": "Al oír la noticia, se puso tan triste que lloró."
+      },
+      {
+        "zh": "朋友离开以后，他难过了很长时间。",
+        "es": "Después de que su amigo se fue, estuvo triste mucho tiempo."
+      }
+    ]
+  },
+  {
+    "word": "光",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "luz",
+      "brillante",
+      "solo",
+      "agotado"
+    ],
+    "examples": [
+      {
+        "zh": "房间里没有光。",
+        "es": "No hay luz en la habitación."
+      },
+      {
+        "zh": "太阳的光很强。",
+        "es": "La luz del sol es muy fuerte."
+      },
+      {
+        "zh": "我的钱都花光了。",
+        "es": "Ya me gasté todo el dinero."
+      },
+      {
+        "zh": "光说不做是没有用的，你得马上开始。",
+        "es": "Solo hablar sin actuar no sirve de nada; tienes que empezar ya."
+      }
+    ]
+  },
+  {
+    "word": "白色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "blanco",
+      "(fig.) reaccionario, anticomunista"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢白色。",
+        "es": "Me gusta el blanco."
+      },
+      {
+        "zh": "她穿着白色的衣服。",
+        "es": "Ella lleva ropa blanca."
+      },
+      {
+        "zh": "医院里的墙都是白色的。",
+        "es": "En el hospital todas las paredes son blancas."
+      },
+      {
+        "zh": "这辆白色的汽车是我爸爸去年买的。",
+        "es": "Este carro blanco lo compró mi papá el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "害怕",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener miedo",
+      "asustarse",
+      "temer"
+    ],
+    "examples": [
+      {
+        "zh": "我害怕狗。",
+        "es": "Les tengo miedo a los perros."
+      },
+      {
+        "zh": "别害怕，我在这里。",
+        "es": "No tengas miedo, aquí estoy."
+      },
+      {
+        "zh": "孩子害怕一个人在家。",
+        "es": "El niño tiene miedo de quedarse solo en casa."
+      },
+      {
+        "zh": "他害怕考试失败，所以每天晚上都认真学习。",
+        "es": "Tiene miedo de no aprobar el examen, así que estudia con dedicación todas las noches."
+      }
+    ]
+  }
+]

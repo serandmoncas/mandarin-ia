@@ -1,0 +1,539 @@
+[
+  {
+    "word": "付",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pagar",
+      "entregar, encargar",
+      "clasificador para pares o juegos de cosas"
+    ],
+    "examples": [
+      {
+        "zh": "我来付钱。",
+        "es": "Yo pago."
+      },
+      {
+        "zh": "你用手机付钱吗？",
+        "es": "¿Pagas con el celular?"
+      },
+      {
+        "zh": "这顿饭是谁付的钱？",
+        "es": "¿Quién pagó esta comida?"
+      },
+      {
+        "zh": "在中国，很多人用手机付钱，不带钱包。",
+        "es": "En China, mucha gente paga con el celular y no lleva cartera."
+      }
+    ]
+  },
+  {
+    "word": "家属",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "familiar, pariente",
+      "familiares a cargo"
+    ],
+    "examples": [
+      {
+        "zh": "病人家属在门口等。",
+        "es": "Los familiares del paciente esperan en la entrada."
+      },
+      {
+        "zh": "只有家属可以进去。",
+        "es": "Solo los familiares pueden entrar."
+      },
+      {
+        "zh": "医生正在跟病人家属说话。",
+        "es": "El médico está hablando con los familiares del paciente."
+      },
+      {
+        "zh": "医生告诉家属，病人的情况已经好多了。",
+        "es": "El médico les dijo a los familiares que el paciente ya está mucho mejor."
+      }
+    ]
+  },
+  {
+    "word": "美食",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comida deliciosa",
+      "gastronomía",
+      "platillo exquisito"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢美食。",
+        "es": "Me gusta la buena comida."
+      },
+      {
+        "zh": "北京有很多美食。",
+        "es": "Pekín tiene mucha comida deliciosa."
+      },
+      {
+        "zh": "他每到一个城市，都去找当地美食。",
+        "es": "Cada vez que llega a una ciudad, busca la comida típica del lugar."
+      },
+      {
+        "zh": "这个网站介绍中国各地的美食和它们的历史。",
+        "es": "Este sitio web presenta la gastronomía de distintas regiones de China y su historia."
+      }
+    ]
+  },
+  {
+    "word": "生意",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "negocio",
+      "comercio",
+      "ventas, clientela"
+    ],
+    "examples": [
+      {
+        "zh": "他在做生意。",
+        "es": "Él se dedica a los negocios."
+      },
+      {
+        "zh": "这家店生意很好。",
+        "es": "A esta tienda le va muy bien."
+      },
+      {
+        "zh": "我爸爸在上海做了二十年生意。",
+        "es": "Mi papá tuvo un negocio en Shanghái durante veinte años."
+      },
+      {
+        "zh": "因为天气太冷，最近饭店的生意不太好。",
+        "es": "Como hace mucho frío, últimamente al restaurante no le va muy bien."
+      }
+    ]
+  },
+  {
+    "word": "石头",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "piedra",
+      "roca"
+    ],
+    "examples": [
+      {
+        "zh": "这块石头很重。",
+        "es": "Esta piedra es muy pesada."
+      },
+      {
+        "zh": "孩子在河边找石头。",
+        "es": "El niño busca piedras a la orilla del río."
+      },
+      {
+        "zh": "路上有一块大石头，车过不去。",
+        "es": "Hay una piedra grande en el camino y el carro no puede pasar."
+      },
+      {
+        "zh": "这块石头是爷爷从山上带回来的，他非常喜欢。",
+        "es": "El abuelo trajo esta piedra de la montaña y le gusta muchísimo."
+      }
+    ]
+  },
+  {
+    "word": "痛",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dolor",
+      "doler",
+      "pena, tristeza",
+      "profundamente"
+    ],
+    "examples": [
+      {
+        "zh": "我头很痛。",
+        "es": "Me duele mucho la cabeza."
+      },
+      {
+        "zh": "你哪里痛？",
+        "es": "¿Dónde te duele?"
+      },
+      {
+        "zh": "他的腿痛了一个星期，还没去医院。",
+        "es": "Le duele la pierna desde hace una semana y todavía no ha ido al hospital."
+      },
+      {
+        "zh": "离开家人的时候，她心里非常痛。",
+        "es": "Cuando dejó a su familia, sintió un dolor muy profundo."
+      }
+    ]
+  },
+  {
+    "word": "领先",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ir a la cabeza",
+      "ir ganando, llevar ventaja",
+      "liderar"
+    ],
+    "examples": [
+      {
+        "zh": "我们队领先了。",
+        "es": "Nuestro equipo va ganando."
+      },
+      {
+        "zh": "中国队领先两分。",
+        "es": "El equipo de China lleva dos puntos de ventaja."
+      },
+      {
+        "zh": "这家公司的技术在世界上一直领先。",
+        "es": "La tecnología de esta empresa siempre ha estado a la cabeza en el mundo."
+      },
+      {
+        "zh": "比赛还有五分钟结束，他们仍然领先十分。",
+        "es": "Faltan cinco minutos para que termine el partido y ellos siguen ganando por diez puntos."
+      }
+    ]
+  },
+  {
+    "word": "美术",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bellas artes",
+      "arte",
+      "dibujo y pintura (materia escolar)"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢美术课。",
+        "es": "Me gusta la clase de arte."
+      },
+      {
+        "zh": "她是美术老师。",
+        "es": "Ella es maestra de arte."
+      },
+      {
+        "zh": "他从小就学美术，现在是画家。",
+        "es": "Estudia arte desde niño y ahora es pintor."
+      },
+      {
+        "zh": "这个周末，学校会举办学生美术作品比赛。",
+        "es": "Este fin de semana, la escuela organizará un concurso de obras de arte de los estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "年初",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "principio de año",
+      "inicios del año"
+    ],
+    "examples": [
+      {
+        "zh": "年初我很忙。",
+        "es": "A principios de año estoy muy ocupado."
+      },
+      {
+        "zh": "他年初去了北京。",
+        "es": "Él fue a Pekín a principios de año."
+      },
+      {
+        "zh": "我们年初的计划已经完成了。",
+        "es": "Ya cumplimos el plan que hicimos a principios de año."
+      },
+      {
+        "zh": "公司年初开发的新产品，现在已经卖出一万个了。",
+        "es": "Del nuevo producto que la empresa lanzó a principios de año ya se vendieron diez mil unidades."
+      }
+    ]
+  },
+  {
+    "word": "香",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oloroso, fragante",
+      "sabroso, apetitoso",
+      "(dormir) profundamente",
+      "incienso"
+    ],
+    "examples": [
+      {
+        "zh": "花很香。",
+        "es": "Las flores huelen muy bien."
+      },
+      {
+        "zh": "妈妈做的饭真香！",
+        "es": "¡Qué rica huele la comida que hizo mamá!"
+      },
+      {
+        "zh": "昨天晚上我睡得很香。",
+        "es": "Anoche dormí profundamente."
+      },
+      {
+        "zh": "一进门就闻到了鸡蛋和面包的香味。",
+        "es": "Apenas entré, olí el aroma del huevo y el pan."
+      }
+    ]
+  },
+  {
+    "word": "游泳",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nadar",
+      "natación"
+    ],
+    "examples": [
+      {
+        "zh": "我会游泳。",
+        "es": "Sé nadar."
+      },
+      {
+        "zh": "夏天我常常去游泳。",
+        "es": "En verano voy a nadar seguido."
+      },
+      {
+        "zh": "他每天早上去游泳，身体非常好。",
+        "es": "Va a nadar todas las mañanas y tiene muy buena salud."
+      },
+      {
+        "zh": "医生说游泳对身体好，所以我每个星期游两次。",
+        "es": "El médico dice que nadar es bueno para la salud, así que nado dos veces por semana."
+      }
+    ]
+  },
+  {
+    "word": "初步",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "preliminar",
+      "inicial",
+      "provisional"
+    ],
+    "examples": [
+      {
+        "zh": "这是初步的计划。",
+        "es": "Este es el plan preliminar."
+      },
+      {
+        "zh": "我们有了初步的结果。",
+        "es": "Ya tenemos los resultados preliminares."
+      },
+      {
+        "zh": "经过初步检查，医生说他没什么大问题。",
+        "es": "Tras una revisión inicial, el médico dijo que no tiene nada grave."
+      },
+      {
+        "zh": "双方的初步讨论很顺利，下个月会再见面。",
+        "es": "Las conversaciones iniciales entre ambas partes salieron bien; se volverán a reunir el próximo mes."
+      }
+    ]
+  },
+  {
+    "word": "防",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prevenir, evitar",
+      "proteger",
+      "defender",
+      "estar alerta contra"
+    ],
+    "examples": [
+      {
+        "zh": "防火很重要。",
+        "es": "Prevenir incendios es muy importante."
+      },
+      {
+        "zh": "出门带上伞，防下雨。",
+        "es": "Lleva un paraguas al salir, por si llueve."
+      },
+      {
+        "zh": "冬天要多穿衣服，防感冒。",
+        "es": "En invierno hay que abrigarse bien para no resfriarse."
+      },
+      {
+        "zh": "他把钱包放在书包里边，防别人拿走。",
+        "es": "Guardó la cartera dentro de la mochila para que nadie se la llevara."
+      }
+    ]
+  },
+  {
+    "word": "果然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "efectivamente",
+      "tal como se esperaba",
+      "en efecto"
+    ],
+    "examples": [
+      {
+        "zh": "他果然来了。",
+        "es": "Tal como se esperaba, él vino."
+      },
+      {
+        "zh": "你看，果然下雨了！",
+        "es": "¡Mira, efectivamente se puso a llover!"
+      },
+      {
+        "zh": "大家都说这家店好吃，果然很好吃。",
+        "es": "Todos dicen que la comida de este lugar es rica, y en efecto lo es."
+      },
+      {
+        "zh": "医生说多休息就会好，我休息了三天，果然好多了。",
+        "es": "El médico dijo que con descanso me recuperaría; descansé tres días y, efectivamente, estoy mucho mejor."
+      }
+    ]
+  },
+  {
+    "word": "皮",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "piel",
+      "cáscara",
+      "cuero",
+      "travieso"
+    ],
+    "examples": [
+      {
+        "zh": "苹果皮可以吃吗？",
+        "es": "¿Se puede comer la cáscara de la manzana?"
+      },
+      {
+        "zh": "我买了一双黑色的皮鞋。",
+        "es": "Compré un par de zapatos de cuero negros."
+      },
+      {
+        "zh": "吃包子的时候，他只吃肉，不吃皮。",
+        "es": "Cuando come baozi, solo se come la carne y no la masa."
+      },
+      {
+        "zh": "这个孩子太皮了，老师说什么他都不听。",
+        "es": "Este niño es muy travieso; no hace caso a nada de lo que dice el maestro."
+      }
+    ]
+  },
+  {
+    "word": "其次",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en segundo lugar",
+      "luego, después",
+      "secundario"
+    ],
+    "examples": [
+      {
+        "zh": "健康第一，钱其次。",
+        "es": "La salud es lo primero; el dinero viene después."
+      },
+      {
+        "zh": "首先要努力，其次要有方法。",
+        "es": "Primero hay que esforzarse y, en segundo lugar, tener un buen método."
+      },
+      {
+        "zh": "我最喜欢中国菜，其次是日本菜。",
+        "es": "Lo que más me gusta es la comida china y, después, la japonesa."
+      },
+      {
+        "zh": "找工作首先要自己喜欢，其次才是工资。",
+        "es": "Al buscar trabajo, lo primero es que te guste; el sueldo viene en segundo lugar."
+      }
+    ]
+  },
+  {
+    "word": "玩具",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "juguete"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的玩具。",
+        "es": "Este es mi juguete."
+      },
+      {
+        "zh": "孩子们在玩玩具。",
+        "es": "Los niños están jugando con sus juguetes."
+      },
+      {
+        "zh": "我给儿子买了一个新玩具。",
+        "es": "Le compré un juguete nuevo a mi hijo."
+      },
+      {
+        "zh": "妈妈让他把玩具放回房间，可是他不想去。",
+        "es": "Su mamá le dijo que guardara los juguetes en su cuarto, pero él no quería ir."
+      }
+    ]
+  },
+  {
+    "word": "温暖",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cálido, templado",
+      "reconfortante",
+      "calidez"
+    ],
+    "examples": [
+      {
+        "zh": "春天很温暖。",
+        "es": "La primavera es templada."
+      },
+      {
+        "zh": "这个房间很温暖。",
+        "es": "Este cuarto es muy cálido."
+      },
+      {
+        "zh": "朋友的话让我心里很温暖。",
+        "es": "Las palabras de mi amigo me reconfortaron mucho."
+      },
+      {
+        "zh": "虽然外边很冷，但是家里非常温暖，大家都很开心。",
+        "es": "Aunque afuera hace mucho frío, en casa se está muy a gusto y todos están contentos."
+      }
+    ]
+  },
+  {
+    "word": "一方面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por un lado, por una parte",
+      "un aspecto"
+    ],
+    "examples": [
+      {
+        "zh": "这只是一方面的原因。",
+        "es": "Esa es solo una parte de la razón."
+      },
+      {
+        "zh": "一方面我想去，另一方面我没钱。",
+        "es": "Por un lado quiero ir, pero por otro no tengo dinero."
+      },
+      {
+        "zh": "一方面要工作，一方面要照顾孩子，她很累。",
+        "es": "Por un lado tiene que trabajar y por otro cuidar a los niños; está muy cansada."
+      },
+      {
+        "zh": "我学中文，一方面为了工作，另一方面因为喜欢。",
+        "es": "Estudio chino, por un lado, por el trabajo y, por otro, porque me gusta."
+      }
+    ]
+  },
+  {
+    "word": "福",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "buena fortuna, suerte",
+      "felicidad",
+      "bendición"
+    ],
+    "examples": [
+      {
+        "zh": "你真有福！",
+        "es": "¡Qué suerte tienes!"
+      },
+      {
+        "zh": "门上有一个大大的“福”字。",
+        "es": "En la puerta hay un gran carácter de «fu» (buena fortuna)."
+      },
+      {
+        "zh": "能有这么好的孩子，是你们的福。",
+        "es": "Tener hijos tan buenos es una bendición para ustedes."
+      },
+      {
+        "zh": "爷爷常说，一家人平平安安在一起就是福。",
+        "es": "El abuelo siempre dice que la felicidad es que la familia esté junta y con bien."
+      }
+    ]
+  }
+]

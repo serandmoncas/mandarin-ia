@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:出门",
+    "ok": true,
+    "issues": [],
+    "content_hash": "160a2f939ee030bb65be37dee1b930688bee2fba"
+  },
+  {
+    "id": "word:蛋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "977c7d9d8f100574ed08f2ada820cc309659efed"
+  },
+  {
+    "id": "word:充满",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb86d6d88f10dd98625e972fc6996cbb4205b097"
+  },
+  {
+    "id": "word:湖",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «北京的公园里» es genérico; «En el parque de Pekín» sugiere un parque concreto. Mejor «En un parque de Pekín». Además, otros elementos usan «Beijing» y este «Pekín»; conviene unificar."
+    ],
+    "content_hash": "a90e87a02dd52da5c6ce1541d6c9c96495eb6a0d"
+  },
+  {
+    "id": "word:花园",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b65687c02d1145cab3ae6bc8f07aaa2f68ba5090"
+  },
+  {
+    "id": "word:纸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "768818356ff76886f4bed71317ebfe1a3783c861"
+  },
+  {
+    "id": "word:笔",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «pluma» significa bolígrafo en México, pero en otros países es pluma estilográfica o de ave. No es neutro e incoherente con «bolígrafo» en los demás ejemplos; mejor «un bolígrafo»."
+    ],
+    "content_hash": "0c79ed8768defb437b0a5b43d50852449c6671cd"
+  },
+  {
+    "id": "word:感动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6598054114bb6ba40e8af13d83ed63d740e7e19e"
+  },
+  {
+    "id": "word:观众",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9e2456db2b41e75ac5f3fa53998a2ef9194a875"
+  },
+  {
+    "id": "word:接到",
+    "ok": false,
+    "issues": [
+      "Significado «ir a buscar (a alguien)» corresponde a 接; 接到 indica haber recogido o encontrado con éxito a alguien. Mejor «recoger (a alguien), lograr encontrarlo»."
+    ],
+    "content_hash": "6bef1e3f64eff0a07453c6f3ee67353401af1a2a"
+  },
+  {
+    "id": "word:节日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd3a8f8f52ec2a4faa74b78d9eb5abebf885be42"
+  },
+  {
+    "id": "word:爬",
+    "ok": true,
+    "issues": [],
+    "content_hash": "816260249ec5194ce44047b22d01795a95f2546a"
+  },
+  {
+    "id": "word:响",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1fe677622a1fc25a8ebb02e8f610b899be6f7384"
+  },
+  {
+    "id": "word:友好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "23b57fcbf07d386183bc71ecf9bd17a7c2717b54"
+  },
+  {
+    "id": "word:区别",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «你能区别这两种茶吗？» suena poco natural; un hablante nativo diría 区分 o 分辨 («你能分辨出这两种茶吗？»)."
+    ],
+    "content_hash": "b95c99858abe6c163b716ad76c7990dbad1ea30c"
+  },
+  {
+    "id": "word:客人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1cd25b8e389982d549e5f93fc47a80f903cecce7"
+  },
+  {
+    "id": "word:形象",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b0429451ae0ebbdda54e0a2cd2b8920d3a35604"
+  },
+  {
+    "id": "word:全身",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «我全身都很累» no menciona dolor; la traducción «Me duele todo el cuerpo de cansancio» añade significado. Mejor «Tengo todo el cuerpo cansado»."
+    ],
+    "content_hash": "22720228f7c82d01ef7e168e053ed1e6f22576a1"
+  },
+  {
+    "id": "word:展开",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: con 活动 la colocación natural es 开展 («开展新的活动»), no 展开. 展开 se usa con 调查, 讨论, 竞争, etc."
+    ],
+    "content_hash": "649fcdbb2970c3b8572f4e4f7b4779f8da0f1fb5"
+  },
+  {
+    "id": "word:正好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2f35f194380dd40b5ad1897aa1aef62c1db717e6"
+  },
+  {
+    "id": "word:晚安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2cf741d75ef8280baa2e2cdad8b7aeca816c2ac6"
+  },
+  {
+    "id": "word:比例",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: en las proporciones, 一 se lee sin cambio tonal: «yī bǐ yī», no «yì bǐ yī»."
+    ],
+    "content_hash": "984a407347c3a1fbb361111a84cce1d01f510c92"
+  },
+  {
+    "id": "word:姓名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a0b80e5c68535fd104b59bc7d915352d398ea0a"
+  },
+  {
+    "id": "word:发动",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: en el complemento potencial, 不 va en tono neutro: «fā dòng bu liǎo le». Es incoherente con otros ejemplos («zhǎo bu dào»)."
+    ],
+    "content_hash": "bea86cc9591063b9a280b15f6ddf56318410c774"
+  },
+  {
+    "id": "word:眼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "31219597a12bfe04f5e6aec79835893d5ea0e1c8"
+  }
+]

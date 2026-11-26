@@ -1,0 +1,177 @@
+[
+  {
+    "id": "word:建议",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ab53b41b670ee368ccd37c4aeaf95635e9e7098"
+  },
+  {
+    "id": "word:午饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2fe89900584c0e8032f4123c2f6b34525e234744"
+  },
+  {
+    "id": "word:期",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2 erróneo: dice «xiàng mù dì dì èr qī» con un «dì» de más; debe ser «xiàng mù de dì èr qī»."
+    ],
+    "content_hash": "e83504d332b65264e3b2f82c7a797c4ccfcbd411"
+  },
+  {
+    "id": "word:放学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2cc8c49651afdc603436cd17610f3050a2c122ce"
+  },
+  {
+    "id": "word:说明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c8f52dd2ba1d88c2b50e52d6f1296f6e490f0fd"
+  },
+  {
+    "id": "word:杯子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "06125a6bdee18f4d9f433b5bb0646d7a6de9eec1"
+  },
+  {
+    "id": "word:条件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f6c4d904eb2a6a2eb77a5a09a35fb764065b6de"
+  },
+  {
+    "id": "word:打球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81dcf9c8183c649672e45b485b98052dc2f7e684"
+  },
+  {
+    "id": "word:怎么样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be9c4422e9956931f272671f146b4d983ea7a173"
+  },
+  {
+    "id": "word:西边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "569f09cb637f67529d519977257c5ae4cded2d39"
+  },
+  {
+    "id": "word:指出",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 睡得 se lee «shuì de», no «shuì dé»."
+    ],
+    "content_hash": "8356891b205cb44d36d36c574843b758a1fbf514"
+  },
+  {
+    "id": "word:后天",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 东西 (cosas) es «dōng xi» con tono neutro; «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "49218684182bff50417a4004e842db6f590c207d"
+  },
+  {
+    "id": "word:专家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f09141b0c0c59ea4d2ef9391978155f704ea72fd"
+  },
+  {
+    "id": "word:东边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1e1117077ed45991982a2d22cc9c1659e2c488b5"
+  },
+  {
+    "id": "word:均",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a140b109953f1d24277c4b7dc6346cd413e20b3e"
+  },
+  {
+    "id": "word:早饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ffe9c53e28e20ddcc59ac0f77712d05e0a3a916"
+  },
+  {
+    "id": "word:权利",
+    "ok": true,
+    "issues": [],
+    "content_hash": "db57f985dbf1512cfbdf2a58a9a35304786a5a4a"
+  },
+  {
+    "id": "word:法",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4 poco natural: con una ley no se usa 使用; lo natural es «这部新法明年开始实施/施行»."
+    ],
+    "content_hash": "4ce07d5f404f9441f30883e121111f3cd89681c3"
+  },
+  {
+    "id": "word:一下儿",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo en todos los ejemplos: el 儿 de la erización no se lee «ér»; debe ser «yí xiàr»/«yíxiàr».",
+      "Sandhi inconsistente: aparece «yí xià» en un ejemplo y «yī xià» en otros; ante 4.º tono debe ser «yí».",
+      "Traducción del ejemplo 3 forzada: «preséntate un poco» no es natural; mejor «Por favor, preséntate»."
+    ],
+    "content_hash": "eba1a6f9b493e220b56655cc391167dffbc8d505"
+  },
+  {
+    "id": "word:变",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 变得 se lee «biàn de», no «biàn dé».",
+      "Pinyin del ejemplo 4: 一点儿 se lee «yì diǎnr», no «yì diǎn ér»."
+    ],
+    "content_hash": "e52a040ecc40d1d2f418a2ebb73422b3c9c42fc0"
+  },
+  {
+    "id": "word:看病",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: en 很长时间, 长 se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "d555d080ad3184e63005b697a47d461c47fe4940"
+  },
+  {
+    "id": "word:记录",
+    "ok": false,
+    "issues": [
+      "En sentido de «récord» (deportivo, mundial), la forma normativa es 纪录; «世界记录» se considera incorrecto. Debe ser «世界纪录», y conviene matizar el significado «récord» para 记录.",
+      "Pinyin del ejemplo 4: 东西 (cosas) es «dōng xi», no «dōng xī»."
+    ],
+    "content_hash": "0341ac38487daed77380f5fcb4ae30c2f169aeaa"
+  },
+  {
+    "id": "word:南边",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2 ambiguo y poco natural: «中国的南边» puede entenderse como «al sur de China» (fuera del país); para «el sur de China» lo natural es «中国南方很热»."
+    ],
+    "content_hash": "c25592e29c8ed21ef8d1cc8b2d6cd4e2caafebdc"
+  },
+  {
+    "id": "word:警察",
+    "ok": true,
+    "issues": [],
+    "content_hash": "982f295e28c25b9d9583a3de7c5ed02c164365d2"
+  },
+  {
+    "id": "word:玩儿",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: la erización no se lee «ér». Debe ser «wánr» (no «wán ér») y «nǎr» (no «nǎ ér»).",
+      "Traducción del ejemplo 4 incompleta: omite 游戏 («jugaba juegos/videojuegos»)."
+    ],
+    "content_hash": "535b85f90e5c43f072fc785051cd6a19106561dd"
+  }
+]

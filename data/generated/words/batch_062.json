@@ -1,0 +1,545 @@
+[
+  {
+    "word": "道路",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "camino",
+      "carretera",
+      "vía",
+      "rumbo (sentido figurado)"
+    ],
+    "examples": [
+      {
+        "zh": "这条道路很长。",
+        "es": "Este camino es muy largo."
+      },
+      {
+        "zh": "这里的道路很干净。",
+        "es": "Las calles de aquí están muy limpias."
+      },
+      {
+        "zh": "下雨的时候，道路很难走。",
+        "es": "Cuando llueve, es difícil transitar por el camino."
+      },
+      {
+        "zh": "政府决定在这个地区建设新的道路。",
+        "es": "El gobierno decidió construir nuevas carreteras en esta zona."
+      }
+    ]
+  },
+  {
+    "word": "金融",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "finanzas",
+      "financiero",
+      "banca"
+    ],
+    "examples": [
+      {
+        "zh": "他在金融公司工作。",
+        "es": "Él trabaja en una empresa financiera."
+      },
+      {
+        "zh": "香港是一个金融中心。",
+        "es": "Hong Kong es un centro financiero."
+      },
+      {
+        "zh": "我哥哥大学学的是金融专业。",
+        "es": "Mi hermano mayor estudió Finanzas en la universidad."
+      },
+      {
+        "zh": "这次金融问题对世界经济影响很大。",
+        "es": "Este problema financiero tuvo un gran impacto en la economía mundial."
+      }
+    ]
+  },
+  {
+    "word": "感谢",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "agradecer",
+      "dar las gracias",
+      "estar agradecido"
+    ],
+    "examples": [
+      {
+        "zh": "感谢你的帮助。",
+        "es": "Gracias por tu ayuda."
+      },
+      {
+        "zh": "我非常感谢我的老师。",
+        "es": "Le estoy muy agradecido a mi maestro."
+      },
+      {
+        "zh": "感谢大家今天来参加我的生日。",
+        "es": "Gracias a todos por venir hoy a mi cumpleaños."
+      },
+      {
+        "zh": "我们要感谢所有支持这个计划的人。",
+        "es": "Queremos agradecer a todas las personas que apoyaron este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "需",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "necesitar",
+      "requerir",
+      "necesidad"
+    ],
+    "examples": [
+      {
+        "zh": "去机场需一个小时。",
+        "es": "Para ir al aeropuerto se necesita una hora."
+      },
+      {
+        "zh": "学生需带上课本。",
+        "es": "Los estudiantes deben traer el libro de texto."
+      },
+      {
+        "zh": "参加活动的人需在明天上午到学校。",
+        "es": "Quienes participen en la actividad deben llegar a la escuela mañana en la mañana."
+      },
+      {
+        "zh": "根据规定，所有人员需在八点以前到达。",
+        "es": "Según las normas, todo el personal debe llegar antes de las ocho."
+      }
+    ]
+  },
+  {
+    "word": "关心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "preocuparse por",
+      "interesarse por",
+      "cuidar de"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈很关心我。",
+        "es": "Mi mamá se preocupa mucho por mí."
+      },
+      {
+        "zh": "谢谢你的关心。",
+        "es": "Gracias por preocuparte."
+      },
+      {
+        "zh": "老师常常关心学生的身体健康。",
+        "es": "El maestro suele preocuparse por la salud de sus estudiantes."
+      },
+      {
+        "zh": "他只关心自己，从来不关心别人的问题。",
+        "es": "Solo se preocupa por sí mismo; nunca le importan los problemas de los demás."
+      }
+    ]
+  },
+  {
+    "word": "相同",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "igual",
+      "idéntico",
+      "mismo"
+    ],
+    "examples": [
+      {
+        "zh": "我们的名字相同。",
+        "es": "Nuestros nombres son iguales."
+      },
+      {
+        "zh": "这两个字的意思相同。",
+        "es": "Estos dos caracteres tienen el mismo significado."
+      },
+      {
+        "zh": "他们穿着相同的衣服去上学。",
+        "es": "Ellos van a la escuela con la misma ropa."
+      },
+      {
+        "zh": "虽然我们的爱好相同，但是想法很不一样。",
+        "es": "Aunque tenemos los mismos pasatiempos, pensamos de forma muy diferente."
+      }
+    ]
+  },
+  {
+    "word": "交流",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comunicarse",
+      "intercambio",
+      "comunicación",
+      "relacionarse (con alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "我们常常用中文交流。",
+        "es": "Muchas veces nos comunicamos en chino."
+      },
+      {
+        "zh": "他喜欢和外国人交流。",
+        "es": "A él le gusta conversar con extranjeros."
+      },
+      {
+        "zh": "两国的文化交流越来越多。",
+        "es": "El intercambio cultural entre los dos países es cada vez mayor."
+      },
+      {
+        "zh": "通过网上交流，我认识了很多新朋友。",
+        "es": "Gracias a la comunicación por internet, conocí a muchos amigos nuevos."
+      }
+    ]
+  },
+  {
+    "word": "成绩",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "calificaciones",
+      "notas",
+      "resultados",
+      "logros"
+    ],
+    "examples": [
+      {
+        "zh": "他的成绩很好。",
+        "es": "Sus calificaciones son muy buenas."
+      },
+      {
+        "zh": "这次考试我的成绩不错。",
+        "es": "Me fue bastante bien en este examen."
+      },
+      {
+        "zh": "为了提高成绩，她每天都认真学习。",
+        "es": "Para mejorar sus calificaciones, ella estudia con dedicación todos los días."
+      },
+      {
+        "zh": "虽然他的成绩不是最好的，但是他非常努力。",
+        "es": "Aunque sus notas no son las mejores, él se esfuerza muchísimo."
+      }
+    ]
+  },
+  {
+    "word": "举办",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "organizar",
+      "realizar (un evento)",
+      "celebrar (un evento)"
+    ],
+    "examples": [
+      {
+        "zh": "学校举办了一个活动。",
+        "es": "La escuela organizó una actividad."
+      },
+      {
+        "zh": "明天我们要举办一个生日晚会。",
+        "es": "Mañana vamos a hacer una fiesta de cumpleaños."
+      },
+      {
+        "zh": "这个城市每年都举办音乐节。",
+        "es": "Esta ciudad organiza un festival de música cada año."
+      },
+      {
+        "zh": "公司决定下个月在上海举办一次国际会议。",
+        "es": "La empresa decidió realizar una conferencia internacional en Shanghái el próximo mes."
+      }
+    ]
+  },
+  {
+    "word": "懂",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entender",
+      "comprender"
+    ],
+    "examples": [
+      {
+        "zh": "我不懂。",
+        "es": "No entiendo."
+      },
+      {
+        "zh": "你懂我的意思吗？",
+        "es": "¿Entiendes lo que quiero decir?"
+      },
+      {
+        "zh": "这本书太难了，我看不懂。",
+        "es": "Este libro es demasiado difícil; no lo entiendo."
+      },
+      {
+        "zh": "他说得太快了，我一句也听不懂。",
+        "es": "Habla demasiado rápido; no le entiendo ni una sola frase."
+      }
+    ]
+  },
+  {
+    "word": "团体",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grupo",
+      "organización",
+      "equipo",
+      "colectivo"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个学生团体。",
+        "es": "Este es un grupo estudiantil."
+      },
+      {
+        "zh": "团体门票比较便宜。",
+        "es": "Las entradas de grupo son más baratas."
+      },
+      {
+        "zh": "他参加了一个音乐团体。",
+        "es": "Él se unió a un grupo musical."
+      },
+      {
+        "zh": "这个团体的成员来自不同的国家。",
+        "es": "Los miembros de esta organización vienen de distintos países."
+      }
+    ]
+  },
+  {
+    "word": "训练",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrenar",
+      "entrenamiento",
+      "capacitar",
+      "capacitación"
+    ],
+    "examples": [
+      {
+        "zh": "他每天都训练。",
+        "es": "Él entrena todos los días."
+      },
+      {
+        "zh": "足球队下午有训练。",
+        "es": "El equipo de fútbol tiene entrenamiento en la tarde."
+      },
+      {
+        "zh": "新来的工人需要接受训练。",
+        "es": "Los trabajadores nuevos necesitan recibir capacitación."
+      },
+      {
+        "zh": "经过一年的努力训练，她终于参加了国际比赛。",
+        "es": "Después de un año de entrenamiento intenso, por fin participó en una competencia internacional."
+      }
+    ]
+  },
+  {
+    "word": "多数",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mayoría",
+      "la mayor parte"
+    ],
+    "examples": [
+      {
+        "zh": "多数人都同意。",
+        "es": "La mayoría está de acuerdo."
+      },
+      {
+        "zh": "我们班多数学生会说英语。",
+        "es": "La mayoría de los estudiantes de nuestra clase habla inglés."
+      },
+      {
+        "zh": "这里的多数居民都是老人。",
+        "es": "La mayor parte de los habitantes de aquí son personas mayores."
+      },
+      {
+        "zh": "在这个问题上，多数人的意见跟他不一样。",
+        "es": "En este asunto, la mayoría opina distinto a él."
+      }
+    ]
+  },
+  {
+    "word": "脸",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cara",
+      "rostro"
+    ],
+    "examples": [
+      {
+        "zh": "他的脸红了。",
+        "es": "Se le puso roja la cara."
+      },
+      {
+        "zh": "我每天早上洗脸。",
+        "es": "Me lavo la cara todas las mañanas."
+      },
+      {
+        "zh": "她的脸上总是带着笑。",
+        "es": "Ella siempre tiene una sonrisa en la cara."
+      },
+      {
+        "zh": "听到这个消息以后，他的脸一下子就白了。",
+        "es": "Al oír la noticia, se puso pálido de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "影片",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "película",
+      "filme",
+      "video (en Taiwán)"
+    ],
+    "examples": [
+      {
+        "zh": "这部影片很好看。",
+        "es": "Esta película es muy buena."
+      },
+      {
+        "zh": "我们晚上去看这部新影片吧。",
+        "es": "Vamos a ver esta película nueva en la noche."
+      },
+      {
+        "zh": "这部影片讲的是一个老人的故事。",
+        "es": "Esta película cuenta la historia de un anciano."
+      },
+      {
+        "zh": "这部影片在国外也受到了很多人的欢迎。",
+        "es": "Esta película también fue muy bien recibida en el extranjero."
+      }
+    ]
+  },
+  {
+    "word": "制造",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fabricar",
+      "producir",
+      "causar (problemas, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司制造汽车。",
+        "es": "Esta empresa fabrica autos."
+      },
+      {
+        "zh": "这些衣服是在中国制造的。",
+        "es": "Esta ropa se fabricó en China."
+      },
+      {
+        "zh": "他总是给别人制造问题。",
+        "es": "Él siempre les causa problemas a los demás."
+      },
+      {
+        "zh": "这个国家的工业主要是制造电子产品。",
+        "es": "La industria de este país se dedica principalmente a fabricar productos electrónicos."
+      }
+    ]
+  },
+  {
+    "word": "假",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "falso",
+      "falsificado",
+      "artificial",
+      "suponer"
+    ],
+    "examples": [
+      {
+        "zh": "这是假的。",
+        "es": "Esto es falso."
+      },
+      {
+        "zh": "这张照片是假的吗？",
+        "es": "¿Esta foto es falsa?"
+      },
+      {
+        "zh": "他说的话都是假的，你别相信。",
+        "es": "Todo lo que dijo es mentira; no le creas."
+      },
+      {
+        "zh": "在网上买东西的时候，要注意别买到假的。",
+        "es": "Cuando compres por internet, ten cuidado de no comprar productos falsificados."
+      }
+    ]
+  },
+  {
+    "word": "主任",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "director",
+      "jefe",
+      "encargado"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们的主任。",
+        "es": "Él es nuestro jefe."
+      },
+      {
+        "zh": "王主任今天不在办公室。",
+        "es": "El director Wang no está hoy en la oficina."
+      },
+      {
+        "zh": "有问题的话，你可以去问主任。",
+        "es": "Si tienes alguna duda, puedes preguntarle al director."
+      },
+      {
+        "zh": "新来的主任决定改变部门的工作方式。",
+        "es": "El nuevo jefe decidió cambiar la forma de trabajar del departamento."
+      }
+    ]
+  },
+  {
+    "word": "作者",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "autor",
+      "escritor"
+    ],
+    "examples": [
+      {
+        "zh": "这本书的作者是谁？",
+        "es": "¿Quién es el autor de este libro?"
+      },
+      {
+        "zh": "我很喜欢这位作者。",
+        "es": "Me gusta mucho este autor."
+      },
+      {
+        "zh": "这篇文章的作者是一位大学老师。",
+        "es": "El autor de este artículo es un profesor universitario."
+      },
+      {
+        "zh": "作者通过这个故事告诉我们生活的意义。",
+        "es": "A través de esta historia, el autor nos muestra el sentido de la vida."
+      }
+    ]
+  },
+  {
+    "word": "改",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cambiar",
+      "modificar",
+      "corregir",
+      "transformar"
+    ],
+    "examples": [
+      {
+        "zh": "我想改时间。",
+        "es": "Quiero cambiar la hora."
+      },
+      {
+        "zh": "这个字写错了，请改一下。",
+        "es": "Este carácter está mal escrito; corrígelo, por favor."
+      },
+      {
+        "zh": "他把电话号码改了。",
+        "es": "Él cambió su número de teléfono."
+      },
+      {
+        "zh": "他说了很多次要改，可是一直没有改。",
+        "es": "Dijo muchas veces que iba a cambiar, pero nunca lo hizo."
+      }
+    ]
+  }
+]

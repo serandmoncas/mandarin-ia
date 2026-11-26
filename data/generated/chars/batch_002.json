@@ -1,0 +1,422 @@
+[
+  {
+    "char": "看",
+    "components": [
+      {
+        "char": "手",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien con la mano sobre los ojos, como visera, para mirar a lo lejos: eso es mirar."
+  },
+  {
+    "char": "问",
+    "components": [
+      {
+        "char": "门",
+        "meaning_es": "puerta"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Una boca asomada en la puerta pregunta: ¿hay alguien en casa?"
+  },
+  {
+    "char": "题",
+    "components": [
+      {
+        "char": "是",
+        "meaning_es": "ser; correcto"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza; página"
+      }
+    ],
+    "mnemonic_es": "En la página del examen, la cabeza busca qué es lo correcto: ese es el problema o el tema que hay que resolver."
+  },
+  {
+    "char": "去",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "厶",
+        "meaning_es": "privado; uno mismo"
+      }
+    ],
+    "mnemonic_es": "Uno mismo se levanta de la tierra donde estaba sentado y se va: ir."
+  },
+  {
+    "char": "过",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar; avanzar"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "pulgada; medida pequeña"
+      }
+    ],
+    "mnemonic_es": "Avanzas pulgada a pulgada por el camino hasta que pasas al otro lado: pasar, cruzar."
+  },
+  {
+    "char": "时",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol; día"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "pulgada; medida pequeña"
+      }
+    ],
+    "mnemonic_es": "La sombra del sol avanza pulgada a pulgada en el reloj de sol: así se mide el tiempo y la hora."
+  },
+  {
+    "char": "下",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno; línea"
+      },
+      {
+        "char": "卜",
+        "meaning_es": "adivinar"
+      }
+    ],
+    "mnemonic_es": "Piensa en una línea del suelo con algo colgando por debajo de ella: abajo, bajar."
+  },
+  {
+    "char": "把",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "巴",
+        "meaning_es": "anhelar; pegarse"
+      }
+    ],
+    "mnemonic_es": "La mano se pega al objeto que anhela y lo agarra bien fuerte: agarrar, tomar algo para hacer algo con ello."
+  },
+  {
+    "char": "现",
+    "components": [
+      {
+        "char": "王",
+        "meaning_es": "jade (aquí como 玉)"
+      },
+      {
+        "char": "见",
+        "meaning_es": "ver"
+      }
+    ],
+    "mnemonic_es": "Pules una piedra de jade y de pronto ves su brillo aparecer justo ahora: aparecer, actual."
+  },
+  {
+    "char": "里",
+    "components": [
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "Campos sobre la tierra forman una aldea; tú estás dentro de ella: dentro, interior."
+  },
+  {
+    "char": "又",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano derecha; otra vez"
+      }
+    ],
+    "mnemonic_es": "Imagina una mano que vuelve a saludarte una y otra vez: otra vez, de nuevo."
+  },
+  {
+    "char": "新",
+    "components": [
+      {
+        "char": "立",
+        "meaning_es": "estar de pie"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol; madera"
+      },
+      {
+        "char": "斤",
+        "meaning_es": "hacha"
+      }
+    ],
+    "mnemonic_es": "Un árbol que está de pie se corta con el hacha y queda madera recién cortada: nuevo."
+  },
+  {
+    "char": "美",
+    "components": [
+      {
+        "char": "羊",
+        "meaning_es": "oveja"
+      },
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      }
+    ],
+    "mnemonic_es": "Una oveja grande y bien alimentada: ¡qué hermosa se ve! Bello, bonito."
+  },
+  {
+    "char": "地",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "也",
+        "meaning_es": "también"
+      }
+    ],
+    "mnemonic_es": "Tierra, y también más tierra hasta donde alcanza la vista: el suelo, la tierra, el lugar."
+  },
+  {
+    "char": "或",
+    "components": [
+      {
+        "char": "戈",
+        "meaning_es": "lanza; alabarda"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno; línea"
+      }
+    ],
+    "mnemonic_es": "Un guardia con su lanza frente a una boca que habla duda: ¿la deja pasar o no? Tal vez, o."
+  },
+  {
+    "char": "因",
+    "components": [
+      {
+        "char": "囗",
+        "meaning_es": "recinto; cerco"
+      },
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      }
+    ],
+    "mnemonic_es": "Alguien grande está encerrado en un cuadro; ¿por qué? Porque no cabe en ningún otro lado: porque, causa."
+  },
+  {
+    "char": "做",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "古",
+        "meaning_es": "antiguo"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear; acción"
+      }
+    ],
+    "mnemonic_es": "Una persona golpea una herramienta antigua para ponerse manos a la obra: hacer, fabricar."
+  },
+  {
+    "char": "用",
+    "components": [
+      {
+        "char": "用",
+        "meaning_es": "usar"
+      }
+    ],
+    "mnemonic_es": "Imagina el carácter como una cerca o un estante con divisiones listo para usarse: usar, utilizar."
+  },
+  {
+    "char": "怎",
+    "components": [
+      {
+        "char": "乍",
+        "meaning_es": "de repente"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón; mente"
+      }
+    ],
+    "mnemonic_es": "De repente el corazón se pregunta: ¿cómo pasó esto? Cómo, de qué manera."
+  },
+  {
+    "char": "之",
+    "components": [
+      {
+        "char": "之",
+        "meaning_es": "de (partícula posesiva clásica)"
+      }
+    ],
+    "mnemonic_es": "Imagínalo como un caminito en zigzag que lleva de una cosa a la que le pertenece: de, partícula que une."
+  },
+  {
+    "char": "些",
+    "components": [
+      {
+        "char": "此",
+        "meaning_es": "este; esto"
+      },
+      {
+        "char": "二",
+        "meaning_es": "dos"
+      }
+    ],
+    "mnemonic_es": "Esto y dos más: no es mucho, solo algunos, unos cuantos."
+  },
+  {
+    "char": "想",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón; mente"
+      }
+    ],
+    "mnemonic_es": "Miras un árbol con los ojos y tu corazón empieza a soñar: pensar, querer, extrañar."
+  },
+  {
+    "char": "最",
+    "components": [
+      {
+        "char": "曰",
+        "meaning_es": "decir"
+      },
+      {
+        "char": "耳",
+        "meaning_es": "oreja"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Dicen que el que agarra la oreja con la mano se lleva el primer lugar: el más, lo máximo."
+  },
+  {
+    "char": "那",
+    "components": [
+      {
+        "char": "刀",
+        "meaning_es": "cuchillo"
+      },
+      {
+        "char": "二",
+        "meaning_es": "dos"
+      },
+      {
+        "char": "阝",
+        "meaning_es": "ciudad (a la derecha)"
+      }
+    ],
+    "mnemonic_es": "Dos cuchillos señalan hacia aquella ciudad lejana: aquel, aquello, ese de allá."
+  },
+  {
+    "char": "由",
+    "components": [
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      },
+      {
+        "char": "丨",
+        "meaning_es": "trazo vertical; brote"
+      }
+    ],
+    "mnemonic_es": "Un brote sale hacia arriba desde el campo: de ahí viene, ese es su origen. Desde, por, causa."
+  },
+  {
+    "char": "工",
+    "components": [
+      {
+        "char": "工",
+        "meaning_es": "trabajo; obra"
+      }
+    ],
+    "mnemonic_es": "Parece una viga en forma de I o una regla de carpintero, herramienta de quien trabaja: trabajo, obrero."
+  },
+  {
+    "char": "作",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "乍",
+        "meaning_es": "de repente"
+      }
+    ],
+    "mnemonic_es": "Una persona de repente se pone a trabajar: hacer, crear, obra."
+  },
+  {
+    "char": "及",
+    "components": [
+      {
+        "char": "及",
+        "meaning_es": "alcanzar; y"
+      }
+    ],
+    "mnemonic_es": "Imagina a una persona corriendo y una mano que la alcanza por detrás: alcanzar, llegar a; también se usa como y."
+  },
+  {
+    "char": "吧",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "巴",
+        "meaning_es": "anhelar; pegarse"
+      }
+    ],
+    "mnemonic_es": "La boca anhela que aceptes la propuesta: ¡vamos, hagámoslo, ¿no?! Partícula de sugerencia."
+  },
+  {
+    "char": "三",
+    "components": [
+      {
+        "char": "三",
+        "meaning_es": "tres"
+      }
+    ],
+    "mnemonic_es": "Tres líneas horizontales, una sobre otra: tres."
+  }
+]

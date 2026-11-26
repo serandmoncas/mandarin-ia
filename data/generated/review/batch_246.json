@@ -1,0 +1,155 @@
+[
+  {
+    "id": "word:这时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "05da01acde70edfb5a2ce48134c70cf37d563b2e"
+  },
+  {
+    "id": "word:从来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd242329f2788756ea68a687bf2fb7784b62af67"
+  },
+  {
+    "id": "word:大约",
+    "ok": true,
+    "issues": [],
+    "content_hash": "937f72633388570a3e14265a5cd06c4ea9496a2c"
+  },
+  {
+    "id": "word:相机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b256d1d90460c700b7ee3b417c68507cc3c231a"
+  },
+  {
+    "id": "word:有意思",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5f5570832635017b814f22404f3bccff38886b7"
+  },
+  {
+    "id": "word:常用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f63c326adda02f79686ab2908e1df4819b797063"
+  },
+  {
+    "id": "word:领",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ad74b0e3268682d09824e4bf128a539122bb62a"
+  },
+  {
+    "id": "word:超市",
+    "ok": true,
+    "issues": [],
+    "content_hash": "66433f249d65d5728ebe624f315b00e49a2c9be4"
+  },
+  {
+    "id": "word:确保",
+    "ok": true,
+    "issues": [],
+    "content_hash": "116351d25e0d1352562238a3b41b843d64dc865d"
+  },
+  {
+    "id": "word:完整",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e97619dc9167dc5bfbe5e3bb657cd19213774f6"
+  },
+  {
+    "id": "word:全年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a7a7a6939f49acee6382572db4a6e989d376aec"
+  },
+  {
+    "id": "word:消失",
+    "ok": true,
+    "issues": [],
+    "content_hash": "881a722f62cd3894d4066de9d3da41922685d5b8"
+  },
+  {
+    "id": "word:闻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "386ef011ea841c447d82affab2ee578ea0c4e6c7"
+  },
+  {
+    "id": "word:直播",
+    "ok": false,
+    "issues": [
+      "El significado «hacer un en vivo» es jerga regional y no español neutro; mejor «transmitir en vivo por internet» o «hacer una transmisión en vivo».",
+      "En el primer ejemplo, «Seguido veo» es un regionalismo; en español neutro sería «Con frecuencia veo» o «A menudo veo»."
+    ],
+    "content_hash": "76ad5d5997d6998f6fc113efa272f8bd32799ee8"
+  },
+  {
+    "id": "word:难题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fd17a676740455b4d7b2b506d5ce53ae256f8a02"
+  },
+  {
+    "id": "word:工厂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5387fe5557d69065b50d30da0459bbf3a217073c"
+  },
+  {
+    "id": "word:好人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6cb1704f8a9e8b10a98f2ddd9d2bd7d3ed894419"
+  },
+  {
+    "id": "word:假期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80e09e6d83672bfa071e196f2e4c32a140c477c6"
+  },
+  {
+    "id": "word:建",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8fd09d8bb48e669b51905df7a464b8f1af7586d8"
+  },
+  {
+    "id": "word:民间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "116104c9eee4ad148085920d088a98d64eb651f2"
+  },
+  {
+    "id": "word:碰到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1e609f2c7d42a470769c3caf495d14af74c3aa41"
+  },
+  {
+    "id": "word:对面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cbec51da88423beff78a2d546259a4ba80b8004d"
+  },
+  {
+    "id": "word:起飞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c64958ef4c03b4801e425e46ce84756d6cdbd042"
+  },
+  {
+    "id": "word:大概",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b9bf12a15ee1cc6c46d6c193a7c18c0d8531454"
+  },
+  {
+    "id": "word:教室",
+    "ok": true,
+    "issues": [],
+    "content_hash": "17f9470f4489d7bc6b4e6343c966458710f66bbc"
+  }
+]

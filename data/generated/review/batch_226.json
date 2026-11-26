@@ -1,0 +1,174 @@
+[
+  {
+    "id": "word:男孩儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c67839567aaf95f7493d1174a08b7a3299296756"
+  },
+  {
+    "id": "word:渴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "280edfc92fde4db8abde5aa599dcca4326cea5a9"
+  },
+  {
+    "id": "word:课文",
+    "ok": false,
+    "issues": [
+      "En «请把课文读三次» lo natural para leer un texto completo es el medidor 遍 (读三遍). 次 se entiende, pero enseña un uso menos idiomático."
+    ],
+    "content_hash": "c9d58559e57b43fcaea46a941d9c45f4f37d580b"
+  },
+  {
+    "id": "word:分别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "580f10d907ad9b65b8040a6ec693b10a5c0bc775"
+  },
+  {
+    "id": "word:下边",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente: el ejemplo 1 da «xià biān» y los demás «xià bian». Debería ser «xià bian» (tono neutro), como en la entrada."
+    ],
+    "content_hash": "8e2ebc017641a227d7fc0e0d091cbef8cef61d47"
+  },
+  {
+    "id": "word:父亲",
+    "ok": false,
+    "issues": [
+      "Pinyin: 告诉 se pronuncia «gào su» (tono neutro), no «gào sù»."
+    ],
+    "content_hash": "08367bf0137973100a7c5e05ef8810b21f983182"
+  },
+  {
+    "id": "word:不客气",
+    "ok": true,
+    "issues": [],
+    "content_hash": "23c1a76f77e29737947ff6bfdcad02e3ec6879d0"
+  },
+  {
+    "id": "word:简单",
+    "ok": false,
+    "issues": [
+      "Pinyin: 东西 con el sentido de 'cosa' es «dōng xi» (tono neutro). «dōng xī» significa 'este y oeste'."
+    ],
+    "content_hash": "68ea6e777813f97b1037f6e08215e6494c46ce9e"
+  },
+  {
+    "id": "word:没事儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "394ca4d343ac29e45946e21f3c2c9546fadf5481"
+  },
+  {
+    "id": "word:教学楼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "18ce932489182cba0aa768735c697ef97f1bb7af"
+  },
+  {
+    "id": "word:小孩儿",
+    "ok": false,
+    "issues": [
+      "«玩游戏» se traduce como «jugar videojuegos», pero aplicado a niños puede significar simplemente 'jugar'. La traducción restringe el sentido sin apoyo en el texto chino."
+    ],
+    "content_hash": "78fbf45a7f1662383b7118e7188fc56ff37bd56e"
+  },
+  {
+    "id": "word:区域",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a83f6941e0ec98b89acf353d14debca95d62c6f8"
+  },
+  {
+    "id": "word:综合",
+    "ok": false,
+    "issues": [
+      "«综合问题» traducido como «problema integral» suena raro en español. Se refiere a una pregunta o problema que integra varios temas; conviene «una pregunta de integración» o cambiar el ejemplo."
+    ],
+    "content_hash": "79351d5b2012ec829568b031a59adaf0a8703729"
+  },
+  {
+    "id": "word:当地",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5359161ce7d128116d077212dd3af29d9f6b756d"
+  },
+  {
+    "id": "word:全部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ba4717eac0af561168ec17557df2df51e266520"
+  },
+  {
+    "id": "word:自然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b278d0e69ecb6373d73fa469021796dc3cb9fd5"
+  },
+  {
+    "id": "word:不到",
+    "ok": false,
+    "issues": [
+      "El ejemplo «我找不到我的手机» usa 不到 como complemento potencial de 找 ('no poder encontrar'). No corresponde a la palabra 不到 con los significados listados ('menos de', 'no alcanzar'), y puede confundir al estudiante."
+    ],
+    "content_hash": "495ac50bf12b6b57cdda592217922aec39b02bc9"
+  },
+  {
+    "id": "word:社区",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eebc474f0d2487c7b22ba0fafd1df4b29c73e994"
+  },
+  {
+    "id": "word:范围",
+    "ok": false,
+    "issues": [
+      "Pinyin: en «这不在考试范围里», 不 ante 在 (cuarto tono) se pronuncia «bú», no «bu»."
+    ],
+    "content_hash": "8fc2bd16ca41c50f3fe7d7e37bc51c1d64479c08"
+  },
+  {
+    "id": "word:坚持",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24b3a6a0711e6b09748178ed51e5a9acb51fcbf1"
+  },
+  {
+    "id": "word:意思",
+    "ok": false,
+    "issues": [
+      "Pinyin: 明白 es «míng bai» (tono neutro), no «míng bái»."
+    ],
+    "content_hash": "97dfb334c7da338a28e1816bc76b438501469f1c"
+  },
+  {
+    "id": "word:搞",
+    "ok": false,
+    "issues": [
+      "Pinyin: en el complemento potencial «搞不明白», 不 va en tono neutro y 白 también: «gǎo bu míng bai», no «gǎo bù míng bái»."
+    ],
+    "content_hash": "2b8584aafd444d22a1d1380d323b69149a22ad36"
+  },
+  {
+    "id": "word:类",
+    "ok": false,
+    "issues": [
+      "Error de concordancia en español: «Me gustan mucho este tipo de películas» debe ser «Me gusta mucho este tipo de películas»."
+    ],
+    "content_hash": "36e1110182c76b55da7ac0cfabb4d1b5901081fa"
+  },
+  {
+    "id": "word:力量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "335b5f88b8557f98aa2ebab3e7c2c9535226f09e"
+  },
+  {
+    "id": "word:民族",
+    "ok": true,
+    "issues": [],
+    "content_hash": "db544063b241c4cb73f17d938f82ae738b8cd455"
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "id": "word:饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "18f331753e6eea887893503dd64735d897b320d4"
+  },
+  {
+    "id": "word:唱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aff1ac69fb64e2545d53b7d6ec3707f637989411"
+  },
+  {
+    "id": "word:旁边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5299934db4cc2dfac4ea847fea7326197a7d82ec"
+  },
+  {
+    "id": "word:打电话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aae75a4e46790e2ee125a0eb78471e7065e336f2"
+  },
+  {
+    "id": "word:经",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3518806898897ba4746361424e42a35695b6b4ea"
+  },
+  {
+    "id": "word:杯",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 妈妈 debe ser «mā ma» (tono neutro), no «mā mā».",
+      "Ejemplo 4 poco natural y sin marca de pasado: lo habitual sería «妈妈给每个人倒了一杯热水»."
+    ],
+    "content_hash": "1d9167b1ccbc7b433a3f55ffe4ad084b865df2a8"
+  },
+  {
+    "id": "word:处理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f765950f4e5eb3550a24dd22c24e6b5ef60cb346"
+  },
+  {
+    "id": "word:对不起",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: «duì bù qǐ» contradice la lectura de la palabra (dui4 bu5 qi3); debe ser «duì bu qǐ»."
+    ],
+    "content_hash": "8ee5322c6c6c5dc17e6e3975196f85404c977081"
+  },
+  {
+    "id": "word:生日",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 妹妹 debe ser «mèi mei» (tono neutro), no «mèi mèi»."
+    ],
+    "content_hash": "37500a756c058f6a3f395a0c808bd6441b1ed5bd"
+  },
+  {
+    "id": "word:感觉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "68d1ca2d6031c62370ac865860f204b597a1972d"
+  },
+  {
+    "id": "word:树",
+    "ok": true,
+    "issues": [],
+    "content_hash": "474bb41bfa730da9d2ee8adf83015503c335f661"
+  },
+  {
+    "id": "word:听见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a27a65fcb8b8b0c962c09b2885083c5f6a6abc94"
+  },
+  {
+    "id": "word:干净",
+    "ok": false,
+    "issues": [
+      "El significado «ordenado» no corresponde a 干净 (eso sería 整齐). Conviene dejar solo «limpio; pulcro»."
+    ],
+    "content_hash": "c6263257ce886fe862113ed2716a84b6063a9690"
+  },
+  {
+    "id": "word:艺术",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e498acb47b08f0fd1154485c9fade61ff1f88618"
+  },
+  {
+    "id": "word:了解",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7dff8ea248ecd25da5e515af216e2091763b248"
+  },
+  {
+    "id": "word:贵",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5efb11cb107b2f58acbd11ba8630620e04bd864"
+  },
+  {
+    "id": "word:副",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35b3275cf144bb67b0d2f3db3a83f7e3f8f53f65"
+  },
+  {
+    "id": "word:拥有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a2f621254e5c5cfc8b0dc9db92d3ad3736ae5db"
+  },
+  {
+    "id": "word:机会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0905bd28cded7011827148bb830b70945fb9d98b"
+  },
+  {
+    "id": "word:在家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5f36f5a010afeb04159ac0b2128cd6f5bbc7d760"
+  },
+  {
+    "id": "word:地上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e51c6642a23dc200ba8403f24fd5a1bb0315bec3"
+  },
+  {
+    "id": "word:美",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27ed5c2976d9d8da9bc3164232a115a0c8389a15"
+  },
+  {
+    "id": "word:慢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9de89a87d57a0b7af6823942442bb42333b492db"
+  },
+  {
+    "id": "word:其实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4707b1c14687abc520a9022b5c792c52c9edd2f4"
+  },
+  {
+    "id": "word:菜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "18ea822d0191df010587f6218a5e4ba9e3d4b96d"
+  }
+]

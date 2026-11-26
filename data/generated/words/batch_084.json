@@ -1,0 +1,539 @@
+[
+  {
+    "word": "初",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "al principio, inicialmente",
+      "primero, inicial",
+      "(antes de los números 1–10) días del 1 al 10 del mes lunar"
+    ],
+    "examples": [
+      {
+        "zh": "今天是初一。",
+        "es": "Hoy es el primer día del mes lunar."
+      },
+      {
+        "zh": "我们年初开始工作。",
+        "es": "Empezamos a trabajar a principios de año."
+      },
+      {
+        "zh": "我初到中国的时候不会说中文。",
+        "es": "Cuando recién llegué a China, no sabía hablar chino."
+      },
+      {
+        "zh": "当初我觉得学习汉语很难，现在很喜欢。",
+        "es": "Al principio pensaba que estudiar chino era difícil; ahora me encanta."
+      }
+    ]
+  },
+  {
+    "word": "舒服",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cómodo",
+      "sentirse bien",
+      "a gusto"
+    ],
+    "examples": [
+      {
+        "zh": "这个床很舒服。",
+        "es": "Esta cama es muy cómoda."
+      },
+      {
+        "zh": "我今天身体不太舒服。",
+        "es": "Hoy no me siento muy bien."
+      },
+      {
+        "zh": "下雨天在家睡觉真舒服。",
+        "es": "Qué rico es dormir en casa cuando llueve."
+      },
+      {
+        "zh": "这件衣服穿着很舒服，也不贵。",
+        "es": "Esta ropa es muy cómoda y además no es cara."
+      }
+    ]
+  },
+  {
+    "word": "北方",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el norte",
+      "la región norte de un país",
+      "el norte de China (al norte del río Amarillo)"
+    ],
+    "examples": [
+      {
+        "zh": "北京在中国北方。",
+        "es": "Pekín está en el norte de China."
+      },
+      {
+        "zh": "北方的天气很冷。",
+        "es": "En el norte hace mucho frío."
+      },
+      {
+        "zh": "我是北方人，喜欢吃面条儿。",
+        "es": "Soy del norte y me gustan los fideos."
+      },
+      {
+        "zh": "北方人和南方人吃饭的习惯不一样。",
+        "es": "La gente del norte y la del sur tienen costumbres alimenticias distintas."
+      }
+    ]
+  },
+  {
+    "word": "回国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "volver a su país",
+      "regresar a la patria"
+    ],
+    "examples": [
+      {
+        "zh": "他明天回国。",
+        "es": "Él vuelve a su país mañana."
+      },
+      {
+        "zh": "你什么时候回国？",
+        "es": "¿Cuándo regresas a tu país?"
+      },
+      {
+        "zh": "学完汉语以后，我想回国工作。",
+        "es": "Después de aprender chino, quiero volver a mi país a trabajar."
+      },
+      {
+        "zh": "她在美国生活了五年，去年才回国。",
+        "es": "Ella vivió cinco años en Estados Unidos y apenas el año pasado regresó a su país."
+      }
+    ]
+  },
+  {
+    "word": "蓝色",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "azul",
+      "color azul"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢蓝色。",
+        "es": "Me gusta el azul."
+      },
+      {
+        "zh": "今天的天是蓝色的。",
+        "es": "Hoy el cielo está azul."
+      },
+      {
+        "zh": "她穿着一件蓝色的衣服。",
+        "es": "Ella lleva puesta una prenda azul."
+      },
+      {
+        "zh": "我觉得蓝色的车比白色的好看。",
+        "es": "Creo que el auto azul se ve mejor que el blanco."
+      }
+    ]
+  },
+  {
+    "word": "课程",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "curso",
+      "programa de estudios",
+      "materia, asignatura"
+    ],
+    "examples": [
+      {
+        "zh": "这个课程很难。",
+        "es": "Este curso es muy difícil."
+      },
+      {
+        "zh": "我们学校有很多中文课程。",
+        "es": "Nuestra escuela tiene muchos cursos de chino."
+      },
+      {
+        "zh": "这个课程从下个月开始。",
+        "es": "Este curso empieza el próximo mes."
+      },
+      {
+        "zh": "他选择了一个关于中国历史的课程。",
+        "es": "Él eligió un curso sobre historia de China."
+      }
+    ]
+  },
+  {
+    "word": "夜",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "noche"
+    ],
+    "examples": [
+      {
+        "zh": "夜里很冷。",
+        "es": "En la noche hace mucho frío."
+      },
+      {
+        "zh": "昨天夜里下雨了。",
+        "es": "Anoche llovió."
+      },
+      {
+        "zh": "他工作到夜里十二点。",
+        "es": "Él trabajó hasta las doce de la noche."
+      },
+      {
+        "zh": "我一夜没睡，现在非常累。",
+        "es": "No dormí en toda la noche y ahora estoy muy cansado."
+      }
+    ]
+  },
+  {
+    "word": "好事",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "algo bueno",
+      "buena acción",
+      "acontecimiento feliz",
+      "(irónico) ¡qué bonito!"
+    ],
+    "examples": [
+      {
+        "zh": "这是好事。",
+        "es": "Esto es algo bueno."
+      },
+      {
+        "zh": "你做了一件好事。",
+        "es": "Hiciste una buena acción."
+      },
+      {
+        "zh": "多读书是一件好事。",
+        "es": "Leer mucho es algo bueno."
+      },
+      {
+        "zh": "他找到工作了，这对他家来说是件大好事。",
+        "es": "Encontró trabajo; para su familia es una gran noticia."
+      }
+    ]
+  },
+  {
+    "word": "人才",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "persona talentosa",
+      "talento",
+      "personal calificado"
+    ],
+    "examples": [
+      {
+        "zh": "他是个人才。",
+        "es": "Él es una persona muy talentosa."
+      },
+      {
+        "zh": "公司需要更多人才。",
+        "es": "La empresa necesita más talento."
+      },
+      {
+        "zh": "这个城市很欢迎外国人才。",
+        "es": "Esta ciudad recibe con gusto a profesionales extranjeros."
+      },
+      {
+        "zh": "这所大学每年都为社会提供很多人才。",
+        "es": "Esta universidad aporta cada año muchos profesionales a la sociedad."
+      }
+    ]
+  },
+  {
+    "word": "篮球",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "básquetbol",
+      "pelota de básquetbol"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢打篮球。",
+        "es": "Me gusta jugar básquetbol."
+      },
+      {
+        "zh": "他每天下午打篮球。",
+        "es": "Él juega básquetbol todas las tardes."
+      },
+      {
+        "zh": "我们学校的篮球比赛明天开始。",
+        "es": "El torneo de básquetbol de nuestra escuela empieza mañana."
+      },
+      {
+        "zh": "他虽然不高，但是篮球打得非常好。",
+        "es": "Aunque no es alto, juega básquetbol muy bien."
+      }
+    ]
+  },
+  {
+    "word": "商品",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "producto",
+      "mercancía",
+      "artículo"
+    ],
+    "examples": [
+      {
+        "zh": "这些商品很便宜。",
+        "es": "Estos productos son muy baratos."
+      },
+      {
+        "zh": "这家商店的商品很多。",
+        "es": "Esta tienda tiene muchos productos."
+      },
+      {
+        "zh": "网上的商品比商场的便宜。",
+        "es": "Los productos en internet son más baratos que en el centro comercial."
+      },
+      {
+        "zh": "这种商品在中国卖得很好，但在国外没人买。",
+        "es": "Este producto se vende muy bien en China, pero en el extranjero nadie lo compra."
+      }
+    ]
+  },
+  {
+    "word": "碰",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "tocar",
+      "encontrarse con alguien",
+      "chocar, golpearse"
+    ],
+    "examples": [
+      {
+        "zh": "别碰我的电脑。",
+        "es": "No toques mi computadora."
+      },
+      {
+        "zh": "他的头碰到了门。",
+        "es": "Se pegó en la cabeza con la puerta."
+      },
+      {
+        "zh": "我在路上碰到了老师。",
+        "es": "Me encontré con el maestro en el camino."
+      },
+      {
+        "zh": "昨天在商场里，我碰见了很久没见的朋友。",
+        "es": "Ayer en el centro comercial me encontré con un amigo que no veía hace mucho."
+      }
+    ]
+  },
+  {
+    "word": "受伤",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lastimarse",
+      "resultar herido",
+      "herido"
+    ],
+    "examples": [
+      {
+        "zh": "他受伤了。",
+        "es": "Él se lastimó."
+      },
+      {
+        "zh": "你哪里受伤了？",
+        "es": "¿Dónde te lastimaste?"
+      },
+      {
+        "zh": "他打球的时候受伤了。",
+        "es": "Se lastimó mientras jugaba a la pelota."
+      },
+      {
+        "zh": "车开得太快，有两个人受伤了，被送到医院。",
+        "es": "El auto iba muy rápido; dos personas resultaron heridas y las llevaron al hospital."
+      }
+    ]
+  },
+  {
+    "word": "骑",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "montar (a caballo)",
+      "andar en (bicicleta, moto)",
+      "ir a horcajadas"
+    ],
+    "examples": [
+      {
+        "zh": "我会骑车。",
+        "es": "Sé andar en bicicleta."
+      },
+      {
+        "zh": "你骑过马吗？",
+        "es": "¿Alguna vez has montado a caballo?"
+      },
+      {
+        "zh": "他每天骑车上班。",
+        "es": "Él va al trabajo en bicicleta todos los días."
+      },
+      {
+        "zh": "天气好的时候，我喜欢骑车去公园。",
+        "es": "Cuando hace buen tiempo, me gusta ir al parque en bicicleta."
+      }
+    ]
+  },
+  {
+    "word": "文字",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escritura, sistema de escritura",
+      "texto",
+      "carácter, letra",
+      "estilo de redacción"
+    ],
+    "examples": [
+      {
+        "zh": "这本书的文字很简单。",
+        "es": "El texto de este libro es muy sencillo."
+      },
+      {
+        "zh": "图片下面有一些文字。",
+        "es": "Debajo de la imagen hay un poco de texto."
+      },
+      {
+        "zh": "汉字是中国的文字。",
+        "es": "Los caracteres chinos son la escritura de China."
+      },
+      {
+        "zh": "每个国家都有自己的语言和文字。",
+        "es": "Cada país tiene su propia lengua y su propia escritura."
+      }
+    ]
+  },
+  {
+    "word": "喊",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gritar",
+      "llamar (a alguien) en voz alta"
+    ],
+    "examples": [
+      {
+        "zh": "别喊了！",
+        "es": "¡Ya no grites!"
+      },
+      {
+        "zh": "妈妈在喊你。",
+        "es": "Tu mamá te está llamando."
+      },
+      {
+        "zh": "他大声喊我的名字。",
+        "es": "Él gritó mi nombre en voz alta."
+      },
+      {
+        "zh": "老师喊了三次，他才从房间里出来。",
+        "es": "El maestro lo llamó tres veces y hasta entonces salió del cuarto."
+      }
+    ]
+  },
+  {
+    "word": "消费",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "consumir",
+      "gastar",
+      "consumo, gasto"
+    ],
+    "examples": [
+      {
+        "zh": "这个月我消费太多了。",
+        "es": "Este mes gasté demasiado."
+      },
+      {
+        "zh": "这家饭店的消费很高。",
+        "es": "En este restaurante se gasta mucho."
+      },
+      {
+        "zh": "年轻人喜欢在网上消费。",
+        "es": "A los jóvenes les gusta comprar por internet."
+      },
+      {
+        "zh": "为了买房子，我们应该减少不必要的消费。",
+        "es": "Para comprar una casa, debemos reducir los gastos innecesarios."
+      }
+    ]
+  },
+  {
+    "word": "青少年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adolescente",
+      "joven",
+      "juventud"
+    ],
+    "examples": [
+      {
+        "zh": "青少年需要多运动。",
+        "es": "Los adolescentes necesitan hacer mucho ejercicio."
+      },
+      {
+        "zh": "很多青少年喜欢玩手机游戏。",
+        "es": "A muchos adolescentes les gustan los juegos de celular."
+      },
+      {
+        "zh": "这本书很适合青少年读。",
+        "es": "Este libro es muy adecuado para que lo lean los jóvenes."
+      },
+      {
+        "zh": "父母应该多关心青少年的想法。",
+        "es": "Los padres deberían prestar más atención a lo que piensan los adolescentes."
+      }
+    ]
+  },
+  {
+    "word": "油",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aceite",
+      "grasa",
+      "petróleo, gasolina",
+      "grasoso"
+    ],
+    "examples": [
+      {
+        "zh": "车没油了。",
+        "es": "El auto se quedó sin gasolina."
+      },
+      {
+        "zh": "这个菜油太多了。",
+        "es": "Este platillo tiene demasiado aceite."
+      },
+      {
+        "zh": "少吃油，多吃水果，身体会更好。",
+        "es": "Come menos grasa y más fruta, y tu salud mejorará."
+      },
+      {
+        "zh": "我们先去加油，然后开车去北京。",
+        "es": "Primero vamos a cargar gasolina y luego manejamos a Pekín."
+      }
+    ]
+  },
+  {
+    "word": "至今",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hasta ahora",
+      "hasta el día de hoy",
+      "todavía"
+    ],
+    "examples": [
+      {
+        "zh": "我至今还没去过北京。",
+        "es": "Hasta ahora no he ido a Pekín."
+      },
+      {
+        "zh": "这件事我至今还记得。",
+        "es": "Todavía hoy recuerdo eso."
+      },
+      {
+        "zh": "他四十岁了，至今还没结婚。",
+        "es": "Tiene cuarenta años y hasta ahora no se ha casado."
+      },
+      {
+        "zh": "这家店开了一百年，至今还很有名。",
+        "es": "Esta tienda abrió hace cien años y hasta hoy sigue siendo muy famosa."
+      }
+    ]
+  }
+]

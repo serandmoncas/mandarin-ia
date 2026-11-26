@@ -1,0 +1,173 @@
+[
+  {
+    "id": "word:姐姐",
+    "ok": false,
+    "issues": [
+      "Pinyin de 姐姐 en todos los ejemplos: 'jiě jiě' debe ser 'jiě jie', con la segunda sílaba en tono neutro, como indica la entrada jie3 jie5.",
+      "En el ejemplo 3, 衣服 se escribe 'yī fú'; lo habitual es 'yī fu', con tono neutro."
+    ],
+    "content_hash": "551b464cef514c54b222529ff75a49d10f4f99be"
+  },
+  {
+    "id": "word:记",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a783794dc94eabea7e8fbc5f3111629316032d77"
+  },
+  {
+    "id": "word:直接",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1eb8ffe81c09b462709e9814739dbc8bc765daa5"
+  },
+  {
+    "id": "word:左",
+    "ok": true,
+    "issues": [],
+    "content_hash": "564afa2bc3d0aa990bfa3a06f563a32c91dda416"
+  },
+  {
+    "id": "word:县",
+    "ok": true,
+    "issues": [],
+    "content_hash": "195c5ac39a29424d337af2f9d134914e5c8fcb6d"
+  },
+  {
+    "id": "word:地点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a51ec05c23777cfb698d5887203b99d3327f6182"
+  },
+  {
+    "id": "word:报告",
+    "ok": true,
+    "issues": [],
+    "content_hash": "833c9f50acb660632ed9e5158fc26d8c361746ca"
+  },
+  {
+    "id": "word:地图",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51d2fe5aecb7617406d6e3e3a4e7d9ba79db785f"
+  },
+  {
+    "id": "word:比较",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 中国 aparece como 'zhòng guó'; lo correcto es 'zhōng guó'."
+    ],
+    "content_hash": "a3f7aa8881d51cd5117c36a19db47ffd0b1e01db"
+  },
+  {
+    "id": "word:别的",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 还想 significa 'también quieres' o 'quieres además', no 'todavía quieres'. Mejor: '¿También quieres ir a conocer otras ciudades?'."
+    ],
+    "content_hash": "a84bf5028a6ab5880a36585e8bbc45f03a9d53ea"
+  },
+  {
+    "id": "word:成功",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa51c6b36b99cd142d42b9964207b0910be616c8"
+  },
+  {
+    "id": "word:存在",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 东西 con el sentido de 'cosa' se lee 'dōng xi', con tono neutro. 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "2f64c159f207f0cbe795de99b08c4adc669bf00f"
+  },
+  {
+    "id": "word:球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a4881a123ff2369b8d5c80b3078170adc5d1bd9"
+  },
+  {
+    "id": "word:或者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8880157bd735ba61f154fb03c6a6ed3d9b578b06"
+  },
+  {
+    "id": "word:忘",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 妈妈 debe ser 'mā ma', no 'mā mā'."
+    ],
+    "content_hash": "9e1abdec1af73398dc462183b6d93f17ea129903"
+  },
+  {
+    "id": "word:每",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 东西 con el sentido de 'cosas' se lee 'dōng xi', no 'dōng xī'."
+    ],
+    "content_hash": "a892e29fd9e1830b98f9509efd3254f68d65a2f7"
+  },
+  {
+    "id": "word:中间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "920227e4f0791dac81b7e92ab8d85f6e8eef63fd"
+  },
+  {
+    "id": "word:房子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac86fb6e06f176cbf6ac663b9f5615d431d5f533"
+  },
+  {
+    "id": "word:人员",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: '医院的人员很忙' suena poco natural, porque 人员 casi nunca va solo tras un lugar. Lo natural es '医院的工作人员很忙' o '医护人员很忙'."
+    ],
+    "content_hash": "d174ede5d34251bf5db1e939e2f174afb6329964"
+  },
+  {
+    "id": "word:楼",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 东西 con el sentido de 'cosas' se lee 'dōng xi', no 'dōng xī'."
+    ],
+    "content_hash": "d127d92d0063880304a6b05e9eeced8587de9f44"
+  },
+  {
+    "id": "word:事情",
+    "ok": false,
+    "issues": [
+      "Pinyin de 事情 en todos los ejemplos: 'shì qíng' debe ser 'shì qing', con tono neutro, como indica la entrada shi4 qing5."
+    ],
+    "content_hash": "a139124f298bc2ad90058d255da4c4a9b168e920"
+  },
+  {
+    "id": "word:进去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "644ae6e1e510771ee9ae5377bb5f7c91a19fef9f"
+  },
+  {
+    "id": "word:信息",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b91bd2d00a4e6b9b2b4a0d261e3345fa16c9b8b"
+  },
+  {
+    "id": "word:马上",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 妈妈 debe ser 'mā ma', no 'mā mā'."
+    ],
+    "content_hash": "2f8e3ea89a79a0e1aa9cf9579a5908bc63751ebf"
+  },
+  {
+    "id": "word:没什么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53f4df4b40cbbdb2b7b7173151d97727bb0d436d"
+  }
+]

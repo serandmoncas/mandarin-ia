@@ -1,0 +1,434 @@
+[
+  {
+    "char": "标",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "示",
+        "meaning_es": "mostrar, señal"
+      }
+    ],
+    "mnemonic_es": "Imagina un poste de madera que muestra el camino: es una marca o señal, como en 标志 (símbolo) y 目标 (meta)."
+  },
+  {
+    "char": "商",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa, techo"
+      },
+      {
+        "char": "丷",
+        "meaning_es": "dos gotas"
+      },
+      {
+        "char": "冂",
+        "meaning_es": "marco, caja"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Bajo un toldo, un vendedor abre una caja con ocho productos y usa la boca para negociar el precio: así es el comercio (商店, 商人)."
+  },
+  {
+    "char": "店",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "techo, cobertizo"
+      },
+      {
+        "char": "占",
+        "meaning_es": "ocupar"
+      }
+    ],
+    "mnemonic_es": "Un local bajo techo que ocupa un espacio en la calle: una tienda (商店) o un hotel (酒店)."
+  },
+  {
+    "char": "右",
+    "components": [
+      {
+        "char": "𠂇",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Para recordarlo: la mano con la que la mayoría se lleva la comida a la boca es la derecha."
+  },
+  {
+    "char": "类",
+    "components": [
+      {
+        "char": "米",
+        "meaning_es": "arroz"
+      },
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      }
+    ],
+    "mnemonic_es": "Imagina un costal grande de arroz donde separas los granos por tipo: así clasificas en clases o categorías (种类)."
+  },
+  {
+    "char": "饿",
+    "components": [
+      {
+        "char": "饣",
+        "meaning_es": "comida"
+      },
+      {
+        "char": "我",
+        "meaning_es": "yo"
+      }
+    ],
+    "mnemonic_es": "«¡Comida para mí!», grita alguien con mucha hambre: 我饿了 (tengo hambre)."
+  },
+  {
+    "char": "床",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "techo, cobertizo"
+      },
+      {
+        "char": "木",
+        "meaning_es": "madera"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo de tu casa hay un mueble de madera donde duermes: la cama."
+  },
+  {
+    "char": "析",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "斤",
+        "meaning_es": "hacha"
+      }
+    ],
+    "mnemonic_es": "Partes un tronco con un hacha para ver qué hay adentro: eso es analizar (分析)."
+  },
+  {
+    "char": "制",
+    "components": [
+      {
+        "char": "牛",
+        "meaning_es": "vaca (forma abreviada)"
+      },
+      {
+        "char": "巾",
+        "meaning_es": "tela"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Imagina a un artesano que corta cuero y tela con un cuchillo siguiendo reglas precisas: así se fabrica (制造) y se establece un sistema (制度)."
+  },
+  {
+    "char": "投",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "殳",
+        "meaning_es": "arma, golpear"
+      }
+    ],
+    "mnemonic_es": "La mano toma un arma y la lanza con fuerza: lanzar, arrojar; también se usa para invertir (投资) o votar (投票)."
+  },
+  {
+    "char": "助",
+    "components": [
+      {
+        "char": "且",
+        "meaning_es": "montón, además"
+      },
+      {
+        "char": "力",
+        "meaning_es": "fuerza"
+      }
+    ],
+    "mnemonic_es": "Hay un montón de cosas que cargar y alguien añade su fuerza: eso es ayudar (帮助)."
+  },
+  {
+    "char": "仍",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "乃",
+        "meaning_es": "entonces, ser"
+      }
+    ],
+    "mnemonic_es": "Una persona que, pase lo que pase, sigue ahí igual que antes: todavía, aún (仍然)."
+  },
+  {
+    "char": "纪",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "己",
+        "meaning_es": "uno mismo"
+      }
+    ],
+    "mnemonic_es": "Imagina que haces nudos en un hilo para llevar tú mismo la cuenta de los años: registrar, época (世纪) y disciplina (纪律)."
+  },
+  {
+    "char": "汉",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "又",
+        "meaning_es": "otra vez, mano"
+      }
+    ],
+    "mnemonic_es": "Piensa en el río Han, cuyas aguas fluyen una y otra vez: de ahí el nombre de lo chino, como en 汉语 y 汉字."
+  },
+  {
+    "char": "语",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "五",
+        "meaning_es": "cinco"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Palabras que salen de cinco bocas distintas: muchas personas hablando forman un idioma (语言, 汉语)."
+  },
+  {
+    "char": "造",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "告",
+        "meaning_es": "anunciar"
+      }
+    ],
+    "mnemonic_es": "Un mensajero camina por el pueblo anunciando: «¡Vamos a construir algo nuevo!». Crear, fabricar (制造, 创造)."
+  },
+  {
+    "char": "增",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "曾",
+        "meaning_es": "alguna vez, antes"
+      }
+    ],
+    "mnemonic_es": "A la tierra que antes había, le echas más y más encima: aumentar (增加)."
+  },
+  {
+    "char": "严",
+    "components": [
+      {
+        "char": "严",
+        "meaning_es": "estricto, severo"
+      }
+    ],
+    "mnemonic_es": "Míralo como un profesor de pie, rígido y con los brazos en alto, que no deja pasar ni una: estricto, serio (严格, 严重)."
+  },
+  {
+    "char": "军",
+    "components": [
+      {
+        "char": "冖",
+        "meaning_es": "cubierta"
+      },
+      {
+        "char": "车",
+        "meaning_es": "vehículo, carro"
+      }
+    ],
+    "mnemonic_es": "Carros de guerra cubiertos con lonas avanzando en fila: el ejército (军队)."
+  },
+  {
+    "char": "累",
+    "components": [
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      },
+      {
+        "char": "糸",
+        "meaning_es": "hilo"
+      }
+    ],
+    "mnemonic_es": "Trabajar el campo todo el día y luego tejer hilo toda la noche: ¡qué cansado! (累); también significa acumular."
+  },
+  {
+    "char": "负",
+    "components": [
+      {
+        "char": "⺈",
+        "meaning_es": "forma de cuchillo, persona inclinada"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      }
+    ],
+    "mnemonic_es": "Una persona encorvada carga un saco de dinero que debe: cargar, deber, negativo (负责, 负数)."
+  },
+  {
+    "char": "责",
+    "components": [
+      {
+        "char": "龶",
+        "meaning_es": "brote, espina"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      }
+    ],
+    "mnemonic_es": "El dinero ajeno a tu cargo pincha como una espina si lo descuidas: responsabilidad (责任), y también reprochar."
+  },
+  {
+    "char": "爷",
+    "components": [
+      {
+        "char": "父",
+        "meaning_es": "padre"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "sello, persona arrodillada"
+      }
+    ],
+    "mnemonic_es": "El padre de tu padre, ante quien todos se inclinan con respeto: el abuelo paterno (爷爷)."
+  },
+  {
+    "char": "基",
+    "components": [
+      {
+        "char": "其",
+        "meaning_es": "eso, su"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "Sobre la tierra firme apoyas todo lo demás: la base, el fundamento (基础, 基本)."
+  },
+  {
+    "char": "础",
+    "components": [
+      {
+        "char": "石",
+        "meaning_es": "piedra"
+      },
+      {
+        "char": "出",
+        "meaning_es": "salir"
+      }
+    ],
+    "mnemonic_es": "Una piedra que sale del suelo para sostener una columna: la base de piedra (基础)."
+  },
+  {
+    "char": "庭",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "techo, cobertizo"
+      },
+      {
+        "char": "廷",
+        "meaning_es": "corte, palacio"
+      }
+    ],
+    "mnemonic_es": "Bajo un mismo techo, como en una pequeña corte, se reúne la familia en el patio: 家庭 (familia), 法庭 (tribunal)."
+  },
+  {
+    "char": "雨",
+    "components": [
+      {
+        "char": "雨",
+        "meaning_es": "lluvia"
+      }
+    ],
+    "mnemonic_es": "Mira el dibujo: una nube arriba, el cielo como ventana y cuatro gotas cayendo dentro: lluvia (下雨)."
+  },
+  {
+    "char": "百",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "白",
+        "meaning_es": "blanco"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien que vivió cien años y solo le queda una línea de cabello blanco: cien (一百)."
+  },
+  {
+    "char": "占",
+    "components": [
+      {
+        "char": "卜",
+        "meaning_es": "adivinar"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Un adivino planta su vara sobre una caja y habla con la boca: adivinar, y como no se mueve de ahí, también ocupar (占线)."
+  },
+  {
+    "char": "杀",
+    "components": [
+      {
+        "char": "乂",
+        "meaning_es": "cruz, cortar"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol (forma)"
+      }
+    ],
+    "mnemonic_es": "Una cruz de cortes marcada sobre el árbol antes de talarlo: matar, acabar con algo (杀死)."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "word": "相当",
+    "examples": [
+      {
+        "zh": "这个问题相当难。",
+        "pinyin": "zhe4 ge5 wen4 ti2 xiang1 dang1 nan2"
+      },
+      {
+        "zh": "他的汉语说得相当好。",
+        "pinyin": "ta1 de5 han4 yu3 shuo1 de5 xiang1 dang1 hao3"
+      },
+      {
+        "zh": "这次考试相当重要，你要认真准备。",
+        "pinyin": "zhe4 ci4 kao3 shi4 xiang1 dang1 zhong4 yao4 ni3 yao4 ren4 zhen1 zhun3 bei4"
+      },
+      {
+        "zh": "这个城市的变化相当大，跟十年前完全不一样了。",
+        "pinyin": "zhe4 ge5 cheng2 shi4 de5 bian4 hua4 xiang1 dang1 da4 gen1 shi2 nian2 qian2 wan2 quan2 bu4 yi1 yang4 le5"
+      }
+    ]
+  },
+  {
+    "word": "最终",
+    "examples": [
+      {
+        "zh": "最终结果怎么样？",
+        "pinyin": "zui4 zhong1 jie2 guo3 zen3 me5 yang4"
+      },
+      {
+        "zh": "他最终决定去北京工作。",
+        "pinyin": "ta1 zui4 zhong1 jue2 ding4 qu4 bei3 jing1 gong1 zuo4"
+      },
+      {
+        "zh": "我们的最终目标是帮助更多的人。",
+        "pinyin": "wo3 men5 de5 zui4 zhong1 mu4 biao1 shi4 bang1 zhu4 geng4 duo1 de5 ren2"
+      },
+      {
+        "zh": "经过很长时间的讨论，他们最终选择了这个计划。",
+        "pinyin": "jing1 guo4 hen3 chang2 shi2 jian1 de5 tao3 lun4 ta1 men5 zui4 zhong1 xuan3 ze2 le5 zhe4 ge5 ji4 hua4"
+      }
+    ]
+  },
+  {
+    "word": "空间",
+    "examples": [
+      {
+        "zh": "这个房间空间很大。",
+        "pinyin": "zhe4 ge5 fang2 jian1 kong1 jian1 hen3 da4"
+      },
+      {
+        "zh": "车里没有空间了。",
+        "pinyin": "che1 li3 mei2 you3 kong1 jian1 le5"
+      },
+      {
+        "zh": "我需要一点自己的空间。",
+        "pinyin": "wo3 xu1 yao4 yi1 dian3 zi4 ji3 de5 kong1 jian1"
+      },
+      {
+        "zh": "这个城市发展得很快，还有很大的发展空间。",
+        "pinyin": "zhe4 ge5 cheng2 shi4 fa1 zhan3 de5 hen3 kuai4 hai2 you3 hen3 da4 de5 fa1 zhan3 kong1 jian1"
+      }
+    ]
+  },
+  {
+    "word": "领域",
+    "examples": [
+      {
+        "zh": "你在哪个领域工作？",
+        "pinyin": "ni3 zai4 na3 ge5 ling3 yu4 gong1 zuo4"
+      },
+      {
+        "zh": "他是这个领域的专家。",
+        "pinyin": "ta1 shi4 zhe4 ge5 ling3 yu4 de5 zhuan1 jia1"
+      },
+      {
+        "zh": "科技领域发展得非常快。",
+        "pinyin": "ke1 ji4 ling3 yu4 fa1 zhan3 de5 fei1 chang2 kuai4"
+      },
+      {
+        "zh": "她在艺术领域取得了很大的成功。",
+        "pinyin": "ta1 zai4 yi4 shu4 ling3 yu4 qu3 de2 le5 hen3 da4 de5 cheng2 gong1"
+      }
+    ]
+  },
+  {
+    "word": "作用",
+    "examples": [
+      {
+        "zh": "这个办法没有作用。",
+        "pinyin": "zhe4 ge5 ban4 fa3 mei2 you3 zuo4 yong4"
+      },
+      {
+        "zh": "运动对身体有很好的作用。",
+        "pinyin": "yun4 dong4 dui4 shen1 ti3 you3 hen3 hao3 de5 zuo4 yong4"
+      },
+      {
+        "zh": "老师在孩子的教育中起着重要的作用。",
+        "pinyin": "lao3 shi1 zai4 hai2 zi5 de5 jiao4 yu4 zhong1 qi3 zhe5 zhong4 yao4 de5 zuo4 yong4"
+      },
+      {
+        "zh": "科技在经济发展中起了非常大的作用。",
+        "pinyin": "ke1 ji4 zai4 jing1 ji4 fa1 zhan3 zhong1 qi3 le5 fei1 chang2 da4 de5 zuo4 yong4"
+      }
+    ]
+  },
+  {
+    "word": "哦",
+    "examples": [
+      {
+        "zh": "哦，我知道了。",
+        "pinyin": "o4 wo3 zhi1 dao4 le5"
+      },
+      {
+        "zh": "哦，原来是你啊！",
+        "pinyin": "o4 yuan2 lai2 shi4 ni3 a5"
+      },
+      {
+        "zh": "哦，他今天不来上班了。",
+        "pinyin": "o4 ta1 jin1 tian1 bu4 lai2 shang4 ban1 le5"
+      },
+      {
+        "zh": "哦，我明白了，你是说明天下午开会。",
+        "pinyin": "o4 wo3 ming2 bai5 le5 ni3 shi4 shuo1 ming2 tian1 xia4 wu3 kai1 hui4"
+      }
+    ]
+  },
+  {
+    "word": "亚洲",
+    "examples": [
+      {
+        "zh": "中国在亚洲。",
+        "pinyin": "zhong1 guo2 zai4 ya4 zhou1"
+      },
+      {
+        "zh": "日本和韩国都是亚洲国家。",
+        "pinyin": "ri4 ben3 he2 han2 guo2 dou1 shi4 ya4 zhou1 guo2 jia1"
+      },
+      {
+        "zh": "他明年想去亚洲旅游。",
+        "pinyin": "ta1 ming2 nian2 xiang3 qu4 ya4 zhou1 lv3 you2"
+      },
+      {
+        "zh": "这是亚洲最大的机场之一，每天有很多飞机。",
+        "pinyin": "zhe4 shi4 ya4 zhou1 zui4 da4 de5 ji1 chang3 zhi1 yi1 mei3 tian1 you3 hen3 duo1 fei1 ji1"
+      }
+    ]
+  },
+  {
+    "word": "统一",
+    "examples": [
+      {
+        "zh": "学生们穿着统一的衣服。",
+        "pinyin": "xue2 sheng1 men5 chuan1 zhe5 tong3 yi1 de5 yi1 fu5"
+      },
+      {
+        "zh": "我们先统一一下意见。",
+        "pinyin": "wo3 men5 xian1 tong3 yi1 yi1 xia4 yi4 jian4"
+      },
+      {
+        "zh": "公司决定统一使用新的电脑系统。",
+        "pinyin": "gong1 si1 jue2 ding4 tong3 yi1 shi3 yong4 xin1 de5 dian4 nao3 xi4 tong3"
+      },
+      {
+        "zh": "这个国家统一以后，经济发展得非常快。",
+        "pinyin": "zhe4 ge5 guo2 jia1 tong3 yi1 yi3 hou4 jing1 ji4 fa1 zhan3 de5 fei1 chang2 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "而是",
+    "examples": [
+      {
+        "zh": "他不是老师，而是医生。",
+        "pinyin": "ta1 bu4 shi4 lao3 shi1 er2 shi4 yi1 sheng1"
+      },
+      {
+        "zh": "这本书不是我的，而是我哥哥的。",
+        "pinyin": "zhe4 ben3 shu1 bu4 shi4 wo3 de5 er2 shi4 wo3 ge1 ge5 de5"
+      },
+      {
+        "zh": "我不是不想去，而是真的没有时间。",
+        "pinyin": "wo3 bu4 shi4 bu4 xiang3 qu4 er2 shi4 zhen1 de5 mei2 you3 shi2 jian1"
+      },
+      {
+        "zh": "这不是一个人的问题，而是整个社会的问题。",
+        "pinyin": "zhe4 bu4 shi4 yi1 ge4 ren2 de5 wen4 ti2 er2 shi4 zheng3 ge4 she4 hui4 de5 wen4 ti2"
+      }
+    ]
+  },
+  {
+    "word": "低",
+    "examples": [
+      {
+        "zh": "这个桌子太低了。",
+        "pinyin": "zhe4 ge5 zhuo1 zi5 tai4 di1 le5"
+      },
+      {
+        "zh": "这家商店的价格很低。",
+        "pinyin": "zhe4 jia1 shang1 dian4 de5 jia4 ge2 hen3 di1"
+      },
+      {
+        "zh": "他低着头，一句话也不说。",
+        "pinyin": "ta1 di1 zhe5 tou2 yi1 ju4 hua4 ye3 bu4 shuo1"
+      },
+      {
+        "zh": "这次考试他的分数很低，所以妈妈有点生气。",
+        "pinyin": "zhe4 ci4 kao3 shi4 ta1 de5 fen1 shu4 hen3 di1 suo3 yi3 ma1 ma5 you3 dian3 sheng1 qi4"
+      }
+    ]
+  },
+  {
+    "word": "拍",
+    "examples": [
+      {
+        "zh": "我们拍一张照片吧。",
+        "pinyin": "wo3 men5 pai1 yi1 zhang1 zhao4 pian4 ba5"
+      },
+      {
+        "zh": "他喜欢拍电影。",
+        "pinyin": "ta1 xi3 huan5 pai1 dian4 ying3"
+      },
+      {
+        "zh": "妈妈拍了拍孩子的头。",
+        "pinyin": "ma1 ma5 pai1 le5 pai1 hai2 zi5 de5 tou2"
+      },
+      {
+        "zh": "这些照片都是我去年在北京拍的。",
+        "pinyin": "zhe4 xie1 zhao4 pian4 dou1 shi4 wo3 qu4 nian2 zai4 bei3 jing1 pai1 de5"
+      }
+    ]
+  },
+  {
+    "word": "确实",
+    "examples": [
+      {
+        "zh": "他确实很忙。",
+        "pinyin": "ta1 que4 shi2 hen3 mang2"
+      },
+      {
+        "zh": "这个问题确实很难。",
+        "pinyin": "zhe4 ge5 wen4 ti2 que4 shi2 hen3 nan2"
+      },
+      {
+        "zh": "你说得对，我确实忘了。",
+        "pinyin": "ni3 shuo1 de5 dui4 wo3 que4 shi2 wang4 le5"
+      },
+      {
+        "zh": "经过调查，我们发现这个消息确实是真的。",
+        "pinyin": "jing1 guo4 diao4 cha2 wo3 men5 fa1 xian4 zhe4 ge5 xiao1 xi5 que4 shi2 shi4 zhen1 de5"
+      }
+    ]
+  },
+  {
+    "word": "系",
+    "examples": [
+      {
+        "zh": "你在哪个系？",
+        "pinyin": "ni3 zai4 na3 ge5 xi4"
+      },
+      {
+        "zh": "他是中文系的学生。",
+        "pinyin": "ta1 shi4 zhong1 wen2 xi4 de5 xue2 sheng1"
+      },
+      {
+        "zh": "我姐姐在大学的历史系工作。",
+        "pinyin": "wo3 jie3 jie5 zai4 da4 xue2 de5 li4 shi3 xi4 gong1 zuo4"
+      },
+      {
+        "zh": "这个系的老师都很认真，学生也很努力。",
+        "pinyin": "zhe4 ge5 xi4 de5 lao3 shi1 dou1 hen3 ren4 zhen1 xue2 sheng1 ye3 hen3 nu3 li4"
+      }
+    ]
+  },
+  {
+    "word": "更加",
+    "examples": [
+      {
+        "zh": "我们要更加努力学习。",
+        "pinyin": "wo3 men5 yao4 geng4 jia1 nu3 li4 xue2 xi2"
+      },
+      {
+        "zh": "下雨以后，天气更加冷了。",
+        "pinyin": "xia4 yu3 yi3 hou4 tian1 qi4 geng4 jia1 leng3 le5"
+      },
+      {
+        "zh": "有了电脑，工作变得更加简单了。",
+        "pinyin": "you3 le5 dian4 nao3 gong1 zuo4 bian4 de5 geng4 jia1 jian3 dan1 le5"
+      },
+      {
+        "zh": "听了老师的解释，我更加明白这个问题了。",
+        "pinyin": "ting1 le5 lao3 shi1 de5 jie3 shi4 wo3 geng4 jia1 ming2 bai5 zhe4 ge5 wen4 ti2 le5"
+      }
+    ]
+  },
+  {
+    "word": "也许",
+    "examples": [
+      {
+        "zh": "也许他不来了。",
+        "pinyin": "ye3 xu3 ta1 bu4 lai2 le5"
+      },
+      {
+        "zh": "明天也许会下雨。",
+        "pinyin": "ming2 tian1 ye3 xu3 hui4 xia4 yu3"
+      },
+      {
+        "zh": "也许你说得对，我再想想。",
+        "pinyin": "ye3 xu3 ni3 shuo1 de5 dui4 wo3 zai4 xiang3 xiang5"
+      },
+      {
+        "zh": "他还没回电话，也许正在开会，也许已经睡觉了。",
+        "pinyin": "ta1 hai2 mei2 hui2 dian4 hua4 ye3 xu3 zheng4 zai4 kai1 hui4 ye3 xu3 yi3 jing1 shui4 jiao4 le5"
+      }
+    ]
+  },
+  {
+    "word": "电子",
+    "examples": [
+      {
+        "zh": "我买了一本电子书。",
+        "pinyin": "wo3 mai3 le5 yi1 ben3 dian4 zi3 shu1"
+      },
+      {
+        "zh": "他在一家电子公司工作。",
+        "pinyin": "ta1 zai4 yi1 jia1 dian4 zi3 gong1 si1 gong1 zuo4"
+      },
+      {
+        "zh": "请把电子票发到我的手机上。",
+        "pinyin": "qing3 ba3 dian4 zi3 piao4 fa1 dao4 wo3 de5 shou3 ji1 shang4"
+      },
+      {
+        "zh": "现在很多人只读电子书，很少去书店买书了。",
+        "pinyin": "xian4 zai4 hen3 duo1 ren2 zhi3 du2 dian4 zi3 shu1 hen3 shao3 qu4 shu1 dian4 mai3 shu1 le5"
+      }
+    ]
+  },
+  {
+    "word": "感到",
+    "examples": [
+      {
+        "zh": "我感到很累。",
+        "pinyin": "wo3 gan3 dao4 hen3 lei4"
+      },
+      {
+        "zh": "听到这个消息，她感到很高兴。",
+        "pinyin": "ting1 dao4 zhe4 ge5 xiao1 xi5 ta1 gan3 dao4 hen3 gao1 xing4"
+      },
+      {
+        "zh": "一个人在家的时候，我感到有点儿害怕。",
+        "pinyin": "yi1 ge4 ren2 zai4 jia1 de5 shi2 hou5 wo3 gan3 dao4 you3 dian3 r5 hai4 pa4"
+      },
+      {
+        "zh": "看到孩子们这么努力，老师感到非常高兴。",
+        "pinyin": "kan4 dao4 hai2 zi5 men5 zhe4 me5 nu3 li4 lao3 shi1 gan3 dao4 fei1 chang2 gao1 xing4"
+      }
+    ]
+  },
+  {
+    "word": "转",
+    "examples": [
+      {
+        "zh": "前面路口向左转。",
+        "pinyin": "qian2 mian4 lu4 kou3 xiang4 zuo3 zhuan3"
+      },
+      {
+        "zh": "我已经把钱转给你了。",
+        "pinyin": "wo3 yi3 jing1 ba3 qian2 zhuan3 gei3 ni3 le5"
+      },
+      {
+        "zh": "这个视频很好玩儿，我转给你看看。",
+        "pinyin": "zhe4 ge5 shi4 pin2 hen3 hao3 wan2 r5 wo3 zhuan3 gei3 ni3 kan4 kan5"
+      },
+      {
+        "zh": "天气转冷了，出门多穿点衣服。",
+        "pinyin": "tian1 qi4 zhuan3 leng3 le5 chu1 men2 duo1 chuan1 dian3 yi1 fu5"
+      }
+    ]
+  },
+  {
+    "word": "行业",
+    "examples": [
+      {
+        "zh": "你在什么行业工作？",
+        "pinyin": "ni3 zai4 shen2 me5 hang2 ye4 gong1 zuo4"
+      },
+      {
+        "zh": "他在旅游行业工作了十年。",
+        "pinyin": "ta1 zai4 lv3 you2 hang2 ye4 gong1 zuo4 le5 shi2 nian2"
+      },
+      {
+        "zh": "这几年，电脑行业发展得非常快。",
+        "pinyin": "zhe4 ji3 nian2 dian4 nao3 hang2 ye4 fa1 zhan3 de5 fei1 chang2 kuai4"
+      },
+      {
+        "zh": "很多年轻人想进入网络行业，因为机会多。",
+        "pinyin": "hen3 duo1 nian2 qing1 ren2 xiang3 jin4 ru4 wang3 luo4 hang2 ye4 yin1 wei4 ji1 hui4 duo1"
+      }
+    ]
+  },
+  {
+    "word": "狗",
+    "examples": [
+      {
+        "zh": "我有一只狗。",
+        "pinyin": "wo3 you3 yi1 zhi1 gou3"
+      },
+      {
+        "zh": "我家的狗很大。",
+        "pinyin": "wo3 jia1 de5 gou3 hen3 da4"
+      },
+      {
+        "zh": "我每天下午带狗出去走走。",
+        "pinyin": "wo3 mei3 tian1 xia4 wu3 dai4 gou3 chu1 qu4 zou3 zou5"
+      },
+      {
+        "zh": "那只小狗每天在门口等我回家。",
+        "pinyin": "na4 zhi1 xiao3 gou3 mei3 tian1 zai4 men2 kou3 deng3 wo3 hui2 jia1"
+      }
+    ]
+  }
+]

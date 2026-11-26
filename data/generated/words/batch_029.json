@@ -1,0 +1,536 @@
+[
+  {
+    "word": "睡觉",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dormir",
+      "irse a la cama",
+      "acostarse"
+    ],
+    "examples": [
+      {
+        "zh": "我想睡觉。",
+        "es": "Tengo ganas de dormir."
+      },
+      {
+        "zh": "你几点睡觉？",
+        "es": "¿A qué hora te duermes?"
+      },
+      {
+        "zh": "睡觉前不要喝太多水。",
+        "es": "No tomes demasiada agua antes de dormir."
+      },
+      {
+        "zh": "昨天我工作太多，没有时间睡觉。",
+        "es": "Ayer trabajé demasiado y no tuve tiempo de dormir."
+      }
+    ]
+  },
+  {
+    "word": "常常",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "a menudo",
+      "con frecuencia",
+      "seguido"
+    ],
+    "examples": [
+      {
+        "zh": "我常常喝水。",
+        "es": "Tomo agua a menudo."
+      },
+      {
+        "zh": "他常常给妈妈打电话。",
+        "es": "Él llama a su mamá con frecuencia."
+      },
+      {
+        "zh": "我们常常一起去学校。",
+        "es": "Muchas veces vamos juntos a la escuela."
+      },
+      {
+        "zh": "她常常说自己没有时间学习中文。",
+        "es": "Ella dice a menudo que no tiene tiempo para estudiar chino."
+      }
+    ]
+  },
+  {
+    "word": "方面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aspecto",
+      "ámbito, área",
+      "lado, parte"
+    ],
+    "examples": [
+      {
+        "zh": "这个方面很重要。",
+        "es": "Este aspecto es importante."
+      },
+      {
+        "zh": "他在技术方面很好。",
+        "es": "Él es muy bueno en lo técnico."
+      },
+      {
+        "zh": "一方面我想去，另一方面我没有钱。",
+        "es": "Por un lado quiero ir, pero por otro no tengo dinero."
+      },
+      {
+        "zh": "政府在教育方面做了很多工作。",
+        "es": "El gobierno ha hecho mucho en el ámbito de la educación."
+      }
+    ]
+  },
+  {
+    "word": "好看",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bonito, lindo",
+      "guapo, atractivo",
+      "bueno, entretenido (película, libro, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "这件衣服很好看。",
+        "es": "Esta prenda se ve muy bonita."
+      },
+      {
+        "zh": "你妹妹真好看。",
+        "es": "Tu hermana menor es muy linda."
+      },
+      {
+        "zh": "这个电影好看吗？",
+        "es": "¿Está buena esta película?"
+      },
+      {
+        "zh": "我觉得那本书比这本好看多了。",
+        "es": "Creo que ese libro es mucho mejor que este."
+      }
+    ]
+  },
+  {
+    "word": "故事",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "cuento",
+      "historia",
+      "relato"
+    ],
+    "examples": [
+      {
+        "zh": "你知道这个故事吗？",
+        "es": "¿Conoces esta historia?"
+      },
+      {
+        "zh": "这个故事很好听。",
+        "es": "Este cuento es muy bonito."
+      },
+      {
+        "zh": "妈妈每天晚上给我讲故事。",
+        "es": "Mi mamá me cuenta un cuento todas las noches."
+      },
+      {
+        "zh": "这是一个关于中国历史的故事。",
+        "es": "Este es un relato sobre la historia de China."
+      }
+    ]
+  },
+  {
+    "word": "合作",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "colaborar",
+      "cooperar",
+      "trabajar juntos"
+    ],
+    "examples": [
+      {
+        "zh": "我们合作吧。",
+        "es": "Trabajemos juntos."
+      },
+      {
+        "zh": "他们合作得很好。",
+        "es": "Ellos colaboran muy bien."
+      },
+      {
+        "zh": "我们公司想和你们合作。",
+        "es": "Nuestra empresa quiere colaborar con ustedes."
+      },
+      {
+        "zh": "中国和美国在很多问题上需要合作。",
+        "es": "China y Estados Unidos necesitan cooperar en muchos temas."
+      }
+    ]
+  },
+  {
+    "word": "十",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "diez"
+    ],
+    "examples": [
+      {
+        "zh": "他今年十岁。",
+        "es": "Él tiene diez años."
+      },
+      {
+        "zh": "现在是十点。",
+        "es": "Son las diez."
+      },
+      {
+        "zh": "我们班有三十个学生。",
+        "es": "En nuestro grupo hay treinta estudiantes."
+      },
+      {
+        "zh": "从学校到医院走路要十分钟。",
+        "es": "De la escuela al hospital son diez minutos caminando."
+      }
+    ]
+  },
+  {
+    "word": "晚",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tarde",
+      "noche"
+    ],
+    "examples": [
+      {
+        "zh": "太晚了。",
+        "es": "Ya es muy tarde."
+      },
+      {
+        "zh": "对不起，我来晚了。",
+        "es": "Perdón, llegué tarde."
+      },
+      {
+        "zh": "你今天怎么回家这么晚？",
+        "es": "¿Por qué volviste tan tarde a casa hoy?"
+      },
+      {
+        "zh": "他每天工作到很晚才回家。",
+        "es": "Todos los días trabaja hasta tarde y solo entonces vuelve a casa."
+      }
+    ]
+  },
+  {
+    "word": "八",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ocho"
+    ],
+    "examples": [
+      {
+        "zh": "我妹妹八岁。",
+        "es": "Mi hermana menor tiene ocho años."
+      },
+      {
+        "zh": "我早上八点去学校。",
+        "es": "Voy a la escuela a las ocho de la mañana."
+      },
+      {
+        "zh": "这本书八十块钱。",
+        "es": "Este libro cuesta ochenta yuanes."
+      },
+      {
+        "zh": "他每天工作八个小时，星期六也要工作。",
+        "es": "Él trabaja ocho horas al día y también tiene que trabajar los sábados."
+      }
+    ]
+  },
+  {
+    "word": "省",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "provincia",
+      "ahorrar",
+      "omitir"
+    ],
+    "examples": [
+      {
+        "zh": "你是哪个省的人？",
+        "es": "¿De qué provincia eres?"
+      },
+      {
+        "zh": "这样做很省钱。",
+        "es": "Hacerlo así ahorra mucho dinero."
+      },
+      {
+        "zh": "坐飞机可以省很多时间。",
+        "es": "Ir en avión puede ahorrar mucho tiempo."
+      },
+      {
+        "zh": "中国有很多省，每个省的文化都不一样。",
+        "es": "China tiene muchas provincias y cada una tiene una cultura distinta."
+      }
+    ]
+  },
+  {
+    "word": "房间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cuarto",
+      "habitación"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的房间。",
+        "es": "Este es mi cuarto."
+      },
+      {
+        "zh": "你的房间真大！",
+        "es": "¡Tu cuarto es muy grande!"
+      },
+      {
+        "zh": "请帮我打开房间的门。",
+        "es": "Por favor, ábreme la puerta de la habitación."
+      },
+      {
+        "zh": "我回家以后，在房间里看了两个小时的书。",
+        "es": "Después de volver a casa, leí dos horas en mi cuarto."
+      }
+    ]
+  },
+  {
+    "word": "网",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "internet",
+      "red",
+      "malla"
+    ],
+    "examples": [
+      {
+        "zh": "我家没有网。",
+        "es": "En mi casa no hay internet."
+      },
+      {
+        "zh": "你每天上网吗？",
+        "es": "¿Te conectas a internet todos los días?"
+      },
+      {
+        "zh": "他在网上买了一个新手机。",
+        "es": "Él compró un celular nuevo por internet."
+      },
+      {
+        "zh": "这里的网太慢了，我看不了视频。",
+        "es": "El internet aquí es demasiado lento, no puedo ver videos."
+      }
+    ]
+  },
+  {
+    "word": "位",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clasificador cortés para personas",
+      "lugar, puesto",
+      "asiento"
+    ],
+    "examples": [
+      {
+        "zh": "这位是我的老师。",
+        "es": "Él es mi maestro."
+      },
+      {
+        "zh": "那位先生是谁？",
+        "es": "¿Quién es ese señor?"
+      },
+      {
+        "zh": "请问，您几位？",
+        "es": "Disculpe, ¿para cuántas personas?"
+      },
+      {
+        "zh": "我想给大家介绍一位新同学。",
+        "es": "Quiero presentarles a un nuevo compañero de clase."
+      }
+    ]
+  },
+  {
+    "word": "课",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "clase",
+      "lección",
+      "materia, asignatura"
+    ],
+    "examples": [
+      {
+        "zh": "今天有课吗？",
+        "es": "¿Hoy hay clase?"
+      },
+      {
+        "zh": "我下午有中文课。",
+        "es": "En la tarde tengo clase de chino."
+      },
+      {
+        "zh": "上课的时候不要玩手机。",
+        "es": "No uses el celular durante la clase."
+      },
+      {
+        "zh": "这本书一共有二十课，我们已经学了五课。",
+        "es": "Este libro tiene veinte lecciones en total y ya estudiamos cinco."
+      }
+    ]
+  },
+  {
+    "word": "以后",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "después",
+      "más adelante, en el futuro",
+      "de ahora en adelante"
+    ],
+    "examples": [
+      {
+        "zh": "以后再说吧。",
+        "es": "Mejor lo hablamos después."
+      },
+      {
+        "zh": "吃饭以后我们去看电影。",
+        "es": "Después de comer vamos al cine."
+      },
+      {
+        "zh": "你以后想做什么工作？",
+        "es": "¿En qué quieres trabajar en el futuro?"
+      },
+      {
+        "zh": "我以后不会再忘记你的名字了。",
+        "es": "De ahora en adelante no volveré a olvidar tu nombre."
+      }
+    ]
+  },
+  {
+    "word": "试",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "probar",
+      "intentar",
+      "examen, prueba"
+    ],
+    "examples": [
+      {
+        "zh": "我试试。",
+        "es": "Déjame intentarlo."
+      },
+      {
+        "zh": "这件衣服你可以试一下。",
+        "es": "Puedes probarte esta prenda."
+      },
+      {
+        "zh": "这个菜很好吃，你试试吧。",
+        "es": "Este platillo está muy rico, pruébalo."
+      },
+      {
+        "zh": "我想试一下用中文给老师写信。",
+        "es": "Quiero intentar escribirle una carta en chino a mi maestro."
+      }
+    ]
+  },
+  {
+    "word": "休息",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "descansar",
+      "descanso"
+    ],
+    "examples": [
+      {
+        "zh": "我累了，想休息。",
+        "es": "Estoy cansado, quiero descansar."
+      },
+      {
+        "zh": "你休息一下吧。",
+        "es": "Descansa un poco."
+      },
+      {
+        "zh": "明天是星期天，我们在家休息。",
+        "es": "Mañana es domingo, vamos a descansar en casa."
+      },
+      {
+        "zh": "医生说他身体不好，需要多休息几天。",
+        "es": "El médico dijo que no está bien de salud y necesita descansar unos días más."
+      }
+    ]
+  },
+  {
+    "word": "一下",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un momento, un rato",
+      "un poco (suaviza el verbo)",
+      "de repente"
+    ],
+    "examples": [
+      {
+        "zh": "请等一下。",
+        "es": "Espera un momento, por favor."
+      },
+      {
+        "zh": "我看一下。",
+        "es": "Déjame ver."
+      },
+      {
+        "zh": "你能帮我一下吗？",
+        "es": "¿Me puedes ayudar un momento?"
+      },
+      {
+        "zh": "我来介绍一下，这是我的朋友小明。",
+        "es": "Les presento: este es mi amigo Xiaoming."
+      }
+    ]
+  },
+  {
+    "word": "有一些",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "algunos",
+      "algo de",
+      "un poco"
+    ],
+    "examples": [
+      {
+        "zh": "我有一些钱。",
+        "es": "Tengo algo de dinero."
+      },
+      {
+        "zh": "桌子上有一些书。",
+        "es": "Hay algunos libros en la mesa."
+      },
+      {
+        "zh": "我有一些问题想问你。",
+        "es": "Tengo algunas preguntas que hacerte."
+      },
+      {
+        "zh": "我们学校有一些学生是从日本来的。",
+        "es": "Algunos estudiantes de nuestra escuela vienen de Japón."
+      }
+    ]
+  },
+  {
+    "word": "作",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hacer, realizar",
+      "escribir, componer",
+      "considerar como",
+      "obra"
+    ],
+    "examples": [
+      {
+        "zh": "你的作业写完了吗？",
+        "es": "¿Ya terminaste tu tarea?"
+      },
+      {
+        "zh": "我一直把他当作好朋友。",
+        "es": "Siempre lo he considerado un buen amigo."
+      },
+      {
+        "zh": "作为学生，你应该认真学习。",
+        "es": "Como estudiante, debes estudiar con dedicación."
+      },
+      {
+        "zh": "他作了一个对公司很重要的决定。",
+        "es": "Él tomó una decisión muy importante para la empresa."
+      }
+    ]
+  }
+]

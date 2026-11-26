@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:嘛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "88987992101aeac6496f29e5b570271d1319f7b3"
+  },
+  {
+    "id": "char:败",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a928fbf5bd6f3d4a8ac6be234746d45aa1f70e74"
+  },
+  {
+    "id": "char:略",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9fe9de606ae8a6abe8f3e22542332a80c7224e33"
+  },
+  {
+    "id": "char:授",
+    "ok": true,
+    "issues": [],
+    "content_hash": "49b8dbef8efead2b8de42aa5eed7b9493d981f29"
+  },
+  {
+    "id": "char:王",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9bce089c5f4682aec2bba7525cef431446398a79"
+  },
+  {
+    "id": "char:编",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8e5f6fcac2a087dcb463802738937834f97fee96"
+  },
+  {
+    "id": "char:辑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96258844282a6052484a57c422aa05d6582b8547"
+  },
+  {
+    "id": "char:盟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a7d4ecb3f8e461427b251fc38b3234c4c047a6d"
+  },
+  {
+    "id": "char:质",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5102f8913d931407aab5bd8f7c66e313adb83dcd"
+  },
+  {
+    "id": "char:街",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dff63afc0001184afc180b1e032593e46659696b"
+  },
+  {
+    "id": "char:阶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "db3daab1f5ac90e9ca3cac6200b7342768984459"
+  },
+  {
+    "id": "char:词",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b7450b18bba4cfae47138c668e02db2c14ca2b5f"
+  },
+  {
+    "id": "char:红",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7cccf849b2635b6b158346c37174a3799d4f111c"
+  },
+  {
+    "id": "char:克",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2bbabab153f428e65b8d3124c88c0887e12a3afc"
+  },
+  {
+    "id": "char:困",
+    "ok": true,
+    "issues": [],
+    "content_hash": "17cb13149e44c966b9819b764786cd25b948108d"
+  },
+  {
+    "id": "char:怕",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd0be462d24720c9d44873594fbef121a56da1dd"
+  },
+  {
+    "id": "char:眼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b825cd299a3083fa41667309dc992022ca2e399"
+  },
+  {
+    "id": "char:睛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a57f980368c67e9dfaa64055b0d57b135fae7d47"
+  },
+  {
+    "id": "char:首",
+    "ok": false,
+    "issues": [
+      "La descomposición está incompleta: la parte superior de 首 es 䒑 (丷 más un trazo horizontal 一), no solo 丷. Con 丷 + 自 falta el trazo horizontal, y el estudiante no podrá reconstruir el carácter."
+    ],
+    "content_hash": "c6f82a0bfaeb417b909bc433d05a7cd941fa9cab"
+  },
+  {
+    "id": "char:留",
+    "ok": true,
+    "issues": [],
+    "content_hash": "267bddc4ea329593178621080fece8673078b3a5"
+  },
+  {
+    "id": "char:双",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de8b99b9c4510141897e4e8fbcf256e1d6768bf8"
+  },
+  {
+    "id": "char:食",
+    "ok": true,
+    "issues": [],
+    "content_hash": "421764249032a9744140546c3c5998f6d24e57f4"
+  },
+  {
+    "id": "char:武",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3da49acaf7c79c091dac1d48626667ff125336b6"
+  },
+  {
+    "id": "char:器",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86ad5c3329b498f4beaf71191db65bb39aa10dc4"
+  },
+  {
+    "id": "char:掉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a454bce4a1f8e2dda584e88d42790612ea1303f6"
+  }
+]

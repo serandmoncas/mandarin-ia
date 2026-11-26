@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:酒",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: traducir 酒 como «vino» es demasiado específico; en ese contexto es alcohol en general (vino de uva sería 葡萄酒). Mejor «tomamos un poco» o «tomamos un poco de alcohol»."
+    ],
+    "content_hash": "c93c3f0635b9010d4f0166ec8fe6773af5dd8f1c"
+  },
+  {
+    "id": "word:理想",
+    "ok": true,
+    "issues": [],
+    "content_hash": "733cee98fa5677c96533f2e64f143802233f87e2"
+  },
+  {
+    "id": "word:效果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e11cf2dab97aca8c0bc73e815244bf3293a56974"
+  },
+  {
+    "id": "word:日报",
+    "ok": false,
+    "issues": [
+      "Pinyin ejemplo 2: 爸爸 debe ser «bà ba» (segunda sílaba en tono neutro), no «bà bà»."
+    ],
+    "content_hash": "84dbbfbb6448c044bb11b858726b15732b3f412a"
+  },
+  {
+    "id": "word:提到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "92ebb51f4d89d99c2160080f0f528cb557e72bf8"
+  },
+  {
+    "id": "word:胜利",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b3d0f222e76246c064ea8f5584d827b01d1e536"
+  },
+  {
+    "id": "word:值得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34272ad0861a9eb2f9d5fb9a48f01578088f8d91"
+  },
+  {
+    "id": "word:安排",
+    "ok": true,
+    "issues": [],
+    "content_hash": "599a476c1a535b2ac55b98a9312e7c0d0226680e"
+  },
+  {
+    "id": "word:空气",
+    "ok": true,
+    "issues": [],
+    "content_hash": "11007c03d52596b8ba28690fd4590abe59fd556b"
+  },
+  {
+    "id": "word:满",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1e0cdc9b3f9f0aecc511f407d2cc3151ee775903"
+  },
+  {
+    "id": "word:轻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3736a7bf5539578d4fd8a1709845fa2b1ab2cc57"
+  },
+  {
+    "id": "word:一生",
+    "ok": false,
+    "issues": [
+      "Pinyin ejemplo 4: 爷爷 debe ser «yé ye» (tono neutro), no «yé yé»."
+    ],
+    "content_hash": "3db6baf64624cf4417045a8e28c37cc13f0fbe03"
+  },
+  {
+    "id": "word:草",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c98a614f11488b83c37b971d7cd16a20e1f4e20"
+  },
+  {
+    "id": "word:河",
+    "ok": false,
+    "issues": [
+      "Pinyin ejemplo 1: 长 en 很长 («largo») se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "cbcb2cb9184278d30b03cf9ac248766c888aac34"
+  },
+  {
+    "id": "word:成长",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «我是在北京成长的» suena poco natural; para «crecí en Pekín» lo habitual es «我是在北京长大的»."
+    ],
+    "content_hash": "e2cee7cbda2780fa0d2fe184963275fb6c8c15b5"
+  },
+  {
+    "id": "word:旅行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "05eaa30f76835f637c67a9dfb67cfb5c8ed4b1aa"
+  },
+  {
+    "id": "word:对话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "41fdb66c36295eac8df6d73cdb6fa2c73ed85785"
+  },
+  {
+    "id": "word:接着",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa8b2af772a82ffab7f2a86affa5be82a8678513"
+  },
+  {
+    "id": "word:猫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "12f852df85e37f8c65008e1ee467ef87298f5d13"
+  },
+  {
+    "id": "word:好处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "31e973bc3cd21680d19c7b2017b9254c30abb29c"
+  },
+  {
+    "id": "word:题",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «你能再说一次吗» significa «¿lo puede repetir/decir otra vez?», no «¿me la puede explicar otra vez?» (explicar sería 讲/解释)."
+    ],
+    "content_hash": "b98959e7b49e53b5874ff90805e9fff4115ed13f"
+  },
+  {
+    "id": "word:腿",
+    "ok": false,
+    "issues": [
+      "Pinyin ejemplo 1: 长 en 很长 («largo») se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "018d29f067d438dd3f7b057e0dbd8eab3538e287"
+  },
+  {
+    "id": "word:快速",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8c7d6dc0ad6f19d447329755ed08452e5d0c2655"
+  },
+  {
+    "id": "word:男子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d1332673d40aa6a10082d313d8e91e6dc91faa6"
+  },
+  {
+    "id": "word:特色",
+    "ok": false,
+    "issues": [
+      "Pinyin ejemplo 4: 东西 («cosa») se lee «dōng xi» con tono neutro; «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "5027fa16cda421fc6aa2bc20a2f2045999222b7b"
+  }
+]

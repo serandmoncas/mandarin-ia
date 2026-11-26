@@ -1,0 +1,158 @@
+[
+  {
+    "id": "phrase:transport:003",
+    "ok": true,
+    "issues": [],
+    "content_hash": "039f6edef50829c0a413a16a5e6c7a207d8a17a3"
+  },
+  {
+    "id": "phrase:transport:004",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e18e49b44e5e667770f5ad61fd61dbac2437548e"
+  },
+  {
+    "id": "phrase:transport:005",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: 长 en 多长时间 se lee «cháng», no «zhǎng» (debe ser «duō cháng shí jiān»)."
+    ],
+    "content_hash": "9757211269d0019cfd764eac37486afbe104ed77"
+  },
+  {
+    "id": "phrase:transport:006",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e102ab85a2d2e32932c3edc7f31a8a662b128d8"
+  },
+  {
+    "id": "phrase:transport:007",
+    "ok": true,
+    "issues": [],
+    "content_hash": "43e3d7fc0680aa21e1f9f71eb9a3b05cd673fe5a"
+  },
+  {
+    "id": "phrase:transport:008",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1e7c16d26cfb7889022d74de1ef9b736862e577c"
+  },
+  {
+    "id": "phrase:transport:009",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: 哪儿 se pronuncia con erhua «nǎr», no como dos sílabas «nǎ ér»."
+    ],
+    "content_hash": "c70e9202a5118f9d4c4fd326484856d0d411c38d"
+  },
+  {
+    "id": "phrase:transport:010",
+    "ok": true,
+    "issues": [],
+    "content_hash": "01487a93a58383dd77e120bc964ec204d15c5903"
+  },
+  {
+    "id": "phrase:transport:011",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f7b6ae11115efdbec51cc4ced5c0db3e8ee33a9"
+  },
+  {
+    "id": "phrase:transport:012",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7dbf4660291737b5431c8c7e73d6cbad21a853da"
+  },
+  {
+    "id": "phrase:transport:013",
+    "ok": true,
+    "issues": [],
+    "content_hash": "590c1e33df32c664fd7d5b52509566935232ec7c"
+  },
+  {
+    "id": "phrase:transport:014",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0a51db087fe6aa3cfc69ef0ce510b8e4b67aa39b"
+  },
+  {
+    "id": "phrase:transport:015",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1d6304cc8fdca508a3f6560276640898418bf8e"
+  },
+  {
+    "id": "phrase:transport:016",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9dec8d171b4b63ad8f466331e247af0e971f8a72"
+  },
+  {
+    "id": "phrase:transport:017",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89bc17ddb442ed640b065609280b90ca6cd43d3f"
+  },
+  {
+    "id": "phrase:transport:018",
+    "ok": true,
+    "issues": [],
+    "content_hash": "871aaa2329551e2994f5ef40e56b645139db1128"
+  },
+  {
+    "id": "phrase:transport:019",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c3c4a4d3e91e224b7540a74161bdf6a3641672a"
+  },
+  {
+    "id": "phrase:transport:020",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1919621b13658ad6bf41fde23ec89d997e083edc"
+  },
+  {
+    "id": "phrase:transport:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f9af9998785b7c6d7ae229b8571e1ca7826eefa"
+  },
+  {
+    "id": "phrase:transport:022",
+    "ok": true,
+    "issues": [],
+    "content_hash": "753928b0ab36a9967c8f78ae5fe63a69022478da"
+  },
+  {
+    "id": "phrase:transport:023",
+    "ok": false,
+    "issues": [
+      "La traducción no es fiel: 公交车站在附近吗 significa «¿La parada de autobús está cerca?»; para «¿Hay una parada de autobús cerca?» lo natural es 附近有公交车站吗？ (fù jìn yǒu gōng jiāo chē zhàn ma)."
+    ],
+    "content_hash": "53248b3170f31278b9d23679761857b3057c3ab8"
+  },
+  {
+    "id": "phrase:transport:024",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ae472fe2e43ad49155960aebf95b3681fa9a514"
+  },
+  {
+    "id": "phrase:transport:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a5df00c4656703ff833442c10ecdc4d01f6352d"
+  },
+  {
+    "id": "phrase:transport:026",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f901b0d2985d82d09fa3d11fa3cc9d311f79c1c"
+  },
+  {
+    "id": "phrase:transport:027",
+    "ok": true,
+    "issues": [],
+    "content_hash": "186486f0d707ff607b0270e9721073210833d3a0"
+  }
+]

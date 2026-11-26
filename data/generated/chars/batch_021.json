@@ -1,0 +1,434 @@
+[
+  {
+    "char": "搞",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "高",
+        "meaning_es": "alto"
+      }
+    ],
+    "mnemonic_es": "Una mano que se estira bien alto para alcanzar algo: hay que ponerse a hacerlo, a ocuparse del asunto."
+  },
+  {
+    "char": "级",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "及",
+        "meaning_es": "alcanzar"
+      }
+    ],
+    "mnemonic_es": "Imagina un hilo con nudos que vas alcanzando uno por uno, como los peldaños de una escalera: cada nudo es un nivel o grado."
+  },
+  {
+    "char": "量",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol, día"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "里",
+        "meaning_es": "aldea; medida de distancia"
+      }
+    ],
+    "mnemonic_es": "Cada día el sol sale sobre la aldea y el campesino mide cuánto ha cosechado: medir y la cantidad."
+  },
+  {
+    "char": "例",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "列",
+        "meaning_es": "fila, hilera"
+      }
+    ],
+    "mnemonic_es": "Una persona sale de la fila para mostrar a los demás cómo se hace: es el ejemplo."
+  },
+  {
+    "char": "旅",
+    "components": [
+      {
+        "char": "方",
+        "meaning_es": "dirección, cuadrado"
+      },
+      {
+        "char": "𠂉",
+        "meaning_es": "bandera"
+      },
+      {
+        "char": "从",
+        "meaning_es": "personas que se siguen (forma estilizada)"
+      }
+    ],
+    "mnemonic_es": "Un guía levanta una bandera, señala la dirección y las personas lo siguen: es un viaje de turistas."
+  },
+  {
+    "char": "族",
+    "components": [
+      {
+        "char": "方",
+        "meaning_es": "dirección, cuadrado"
+      },
+      {
+        "char": "𠂉",
+        "meaning_es": "bandera"
+      },
+      {
+        "char": "矢",
+        "meaning_es": "flecha"
+      }
+    ],
+    "mnemonic_es": "Bajo una misma bandera, todos con sus flechas apuntando en la misma dirección: así se ve un clan o una etnia unida."
+  },
+  {
+    "char": "农",
+    "components": [
+      {
+        "char": "农",
+        "meaning_es": "agricultura, campesino"
+      }
+    ],
+    "mnemonic_es": "Míralo como un campesino con sombrero ancho, inclinado y con la ropa arremangada, trabajando la tierra: la agricultura."
+  },
+  {
+    "char": "取",
+    "components": [
+      {
+        "char": "耳",
+        "meaning_es": "oreja"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Una mano agarra una oreja y la jala: así se ve tomar o sacar algo con firmeza."
+  },
+  {
+    "char": "土",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra, suelo"
+      }
+    ],
+    "mnemonic_es": "Un brote que sale del suelo: la línea de abajo es la tierra y la cruz es la plantita que asoma."
+  },
+  {
+    "char": "施",
+    "components": [
+      {
+        "char": "方",
+        "meaning_es": "dirección, cuadrado"
+      },
+      {
+        "char": "𠂉",
+        "meaning_es": "bandera"
+      },
+      {
+        "char": "也",
+        "meaning_es": "también"
+      }
+    ],
+    "mnemonic_es": "Bajo la bandera se reparte ayuda en todas direcciones, y a ti también te toca: otorgar, aplicar, poner en práctica."
+  },
+  {
+    "char": "健",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "建",
+        "meaning_es": "construir"
+      }
+    ],
+    "mnemonic_es": "Una persona que construye su cuerpo con ejercicio todos los días: sana y fuerte."
+  },
+  {
+    "char": "康",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "techo, cobertizo"
+      },
+      {
+        "char": "彐",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "氺",
+        "meaning_es": "agua"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo, una mano te sirve agua fresca: en casa, tranquilo y con salud."
+  },
+  {
+    "char": "精",
+    "components": [
+      {
+        "char": "米",
+        "meaning_es": "arroz"
+      },
+      {
+        "char": "青",
+        "meaning_es": "verde, joven, fresco"
+      }
+    ],
+    "mnemonic_es": "El arroz más fresco, pulido hasta quedar perfecto: lo refinado, la esencia, lo excelente."
+  },
+  {
+    "char": "神",
+    "components": [
+      {
+        "char": "礻",
+        "meaning_es": "altar, espíritu"
+      },
+      {
+        "char": "申",
+        "meaning_es": "extender, declarar"
+      }
+    ],
+    "mnemonic_es": "Frente al altar, un rayo se extiende del cielo a la tierra: allí se manifiesta un dios o espíritu."
+  },
+  {
+    "char": "易",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "勿",
+        "meaning_es": "no; banderines al viento"
+      }
+    ],
+    "mnemonic_es": "El sol arriba y abajo los rayos que caen sin esfuerzo: ¡qué fácil brilla! Y como el clima, todo cambia fácilmente."
+  },
+  {
+    "char": "消",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "肖",
+        "meaning_es": "parecerse; pequeño"
+      }
+    ],
+    "mnemonic_es": "El agua va dejando las cosas cada vez más pequeñas hasta que desaparecen: eliminar, desvanecerse."
+  },
+  {
+    "char": "永",
+    "components": [
+      {
+        "char": "丶",
+        "meaning_es": "punto, gota"
+      },
+      {
+        "char": "水",
+        "meaning_es": "agua"
+      }
+    ],
+    "mnemonic_es": "Una gota encima del agua de un río que nunca deja de fluir: eterno, para siempre."
+  },
+  {
+    "char": "虑",
+    "components": [
+      {
+        "char": "虍",
+        "meaning_es": "tigre"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Un tigre rondando sobre tu corazón: estás preocupado y piensas con cuidado qué hacer."
+  },
+  {
+    "char": "按",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "安",
+        "meaning_es": "paz, tranquilidad"
+      }
+    ],
+    "mnemonic_es": "Con la mano presionas el botón y todo queda en paz: apretar, presionar."
+  },
+  {
+    "char": "声",
+    "components": [
+      {
+        "char": "士",
+        "meaning_es": "erudito, guerrero"
+      },
+      {
+        "char": "户",
+        "meaning_es": "puerta (forma similar, sin el punto)"
+      }
+    ],
+    "mnemonic_es": "Un guerrero toca a la puerta y se oye desde lejos: sonido, voz."
+  },
+  {
+    "char": "线",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "戋",
+        "meaning_es": "pequeño, delgado"
+      }
+    ],
+    "mnemonic_es": "Un hilo muy delgadito estirado de punta a punta: una línea."
+  },
+  {
+    "char": "终",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo, seda"
+      },
+      {
+        "char": "冬",
+        "meaning_es": "invierno"
+      }
+    ],
+    "mnemonic_es": "El hilo del año se acaba cuando llega el invierno: el final."
+  },
+  {
+    "char": "足",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca; aquí, la rodilla"
+      },
+      {
+        "char": "龰",
+        "meaning_es": "forma de 止, pie"
+      }
+    ],
+    "mnemonic_es": "Imagina la rodilla arriba y el pie apoyado abajo: es una pierna con su pie, y con dos piernas ya es suficiente para caminar."
+  },
+  {
+    "char": "免",
+    "components": [
+      {
+        "char": "免",
+        "meaning_es": "evitar, librarse de; gratis"
+      }
+    ],
+    "mnemonic_es": "Se parece a 兔 (conejo) pero sin el punto de la cola: el conejo se libró del cazador dejando la cola atrás; evitar, librarse, y en 免费, gratis."
+  },
+  {
+    "char": "费",
+    "components": [
+      {
+        "char": "弗",
+        "meaning_es": "no; negar"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      }
+    ],
+    "mnemonic_es": "Tus conchas de dinero se van y no vuelven: es un gasto, una tarifa."
+  },
+  {
+    "char": "印",
+    "components": [
+      {
+        "char": "𠂎",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "persona arrodillada, sello"
+      }
+    ],
+    "mnemonic_es": "Una mano presiona el sello con fuerza sobre el papel: imprimir, dejar una huella."
+  },
+  {
+    "char": "型",
+    "components": [
+      {
+        "char": "开",
+        "meaning_es": "abrir"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra, barro"
+      }
+    ],
+    "mnemonic_es": "Abres el barro y lo cortas con un cuchillo para darle forma: así se hace un molde o modelo."
+  },
+  {
+    "char": "空",
+    "components": [
+      {
+        "char": "穴",
+        "meaning_es": "cueva, hoyo"
+      },
+      {
+        "char": "工",
+        "meaning_es": "trabajo"
+      }
+    ],
+    "mnemonic_es": "Trabajas cavando una cueva hasta dejarla hueca: vacío, espacio, y también el cielo abierto."
+  },
+  {
+    "char": "钟",
+    "components": [
+      {
+        "char": "钅",
+        "meaning_es": "metal"
+      },
+      {
+        "char": "中",
+        "meaning_es": "centro, medio"
+      }
+    ],
+    "mnemonic_es": "Una campana de metal en el centro del pueblo que da las horas: reloj, campana."
+  },
+  {
+    "char": "靠",
+    "components": [
+      {
+        "char": "告",
+        "meaning_es": "informar, avisar"
+      },
+      {
+        "char": "非",
+        "meaning_es": "no; dos alas o espaldas"
+      }
+    ],
+    "mnemonic_es": "Te aviso: la forma de abajo son dos espaldas juntas, una apoyada en la otra; apoyarse, depender de alguien."
+  }
+]

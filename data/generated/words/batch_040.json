@@ -1,0 +1,529 @@
+[
+  {
+    "word": "以来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desde",
+      "desde entonces",
+      "a partir de"
+    ],
+    "examples": [
+      {
+        "zh": "去年以来，我一直很忙。",
+        "es": "Desde el año pasado he estado muy ocupado."
+      },
+      {
+        "zh": "工作以来，他没有回过家。",
+        "es": "Desde que empezó a trabajar, no ha vuelto a casa."
+      },
+      {
+        "zh": "来北京以来，我认识了很多朋友。",
+        "es": "Desde que llegué a Pekín, he conocido a muchos amigos."
+      },
+      {
+        "zh": "二十世纪以来，中国的经济发展得非常快。",
+        "es": "Desde el siglo veinte, la economía de China ha crecido muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "爸",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "papá",
+      "padre"
+    ],
+    "examples": [
+      {
+        "zh": "爸，我回来了！",
+        "es": "¡Papá, ya volví!"
+      },
+      {
+        "zh": "我爸是医生。",
+        "es": "Mi papá es médico."
+      },
+      {
+        "zh": "我爸每天早上六点起床。",
+        "es": "Mi papá se levanta todos los días a las seis de la mañana."
+      },
+      {
+        "zh": "我爸说，如果明天下雨，我们就不去了。",
+        "es": "Mi papá dice que, si mañana llueve, no vamos a ir."
+      }
+    ]
+  },
+  {
+    "word": "以上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "o más; por encima de",
+      "lo anterior; lo mencionado",
+      "eso es todo (al terminar de hablar)"
+    ],
+    "examples": [
+      {
+        "zh": "以上是我的问题。",
+        "es": "Esas son mis preguntas."
+      },
+      {
+        "zh": "十八岁以上的人可以参加。",
+        "es": "Pueden participar las personas de dieciocho años o más."
+      },
+      {
+        "zh": "这个城市有五百万以上的人口。",
+        "es": "Esta ciudad tiene más de cinco millones de habitantes."
+      },
+      {
+        "zh": "以上就是我今天要说的话，谢谢大家。",
+        "es": "Eso es todo lo que quería decir hoy. Gracias a todos."
+      }
+    ]
+  },
+  {
+    "word": "楼下",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abajo (en un edificio)",
+      "el piso de abajo"
+    ],
+    "examples": [
+      {
+        "zh": "我在楼下。",
+        "es": "Estoy abajo."
+      },
+      {
+        "zh": "楼下有一个商店。",
+        "es": "Abajo hay una tienda."
+      },
+      {
+        "zh": "我在楼下等你，你快点下来。",
+        "es": "Te espero abajo, baja rápido."
+      },
+      {
+        "zh": "楼下住着一位老人，他每天早上都在唱歌。",
+        "es": "Abajo vive un señor mayor que canta todas las mañanas."
+      }
+    ]
+  },
+  {
+    "word": "主席",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "presidente (de un país, partido u organización)",
+      "quien preside una reunión"
+    ],
+    "examples": [
+      {
+        "zh": "他是主席。",
+        "es": "Él es el presidente."
+      },
+      {
+        "zh": "主席明天来学校。",
+        "es": "El presidente viene mañana a la escuela."
+      },
+      {
+        "zh": "委员会的主席介绍了新计划。",
+        "es": "El presidente del comité presentó el nuevo plan."
+      },
+      {
+        "zh": "会议开始之前，主席请大家关手机。",
+        "es": "Antes de empezar la reunión, el presidente pidió a todos que apagaran el celular."
+      }
+    ]
+  },
+  {
+    "word": "几个",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "algunos; unos cuantos",
+      "¿cuántos?"
+    ],
+    "examples": [
+      {
+        "zh": "你有几个孩子？",
+        "es": "¿Cuántos hijos tienes?"
+      },
+      {
+        "zh": "我买了几个面包。",
+        "es": "Compré unos cuantos panes."
+      },
+      {
+        "zh": "这几个学生都是从日本来的。",
+        "es": "Estos estudiantes vienen todos de Japón."
+      },
+      {
+        "zh": "我们班有几个同学下个星期要去北京参加比赛。",
+        "es": "Algunos compañeros de mi clase van a ir a Pekín la próxima semana para participar en una competencia."
+      }
+    ]
+  },
+  {
+    "word": "奶",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "leche",
+      "pecho; seno",
+      "amamantar"
+    ],
+    "examples": [
+      {
+        "zh": "孩子要喝奶。",
+        "es": "El bebé quiere tomar leche."
+      },
+      {
+        "zh": "这个茶里有奶。",
+        "es": "Este té tiene leche."
+      },
+      {
+        "zh": "我不喜欢喝奶，我喜欢喝茶。",
+        "es": "No me gusta tomar leche, me gusta tomar té."
+      },
+      {
+        "zh": "这个孩子还小，每天要喝很多次奶。",
+        "es": "Este niño todavía es pequeño y tiene que tomar leche muchas veces al día."
+      }
+    ]
+  },
+  {
+    "word": "未来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "futuro",
+      "próximo; venidero"
+    ],
+    "examples": [
+      {
+        "zh": "你想过你的未来吗？",
+        "es": "¿Has pensado en tu futuro?"
+      },
+      {
+        "zh": "未来三天会下雨。",
+        "es": "Va a llover en los próximos tres días."
+      },
+      {
+        "zh": "孩子是国家的未来。",
+        "es": "Los niños son el futuro del país."
+      },
+      {
+        "zh": "我希望未来能在一家科技公司工作。",
+        "es": "Espero poder trabajar en una empresa de tecnología en el futuro."
+      }
+    ]
+  },
+  {
+    "word": "小学生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alumno de primaria",
+      "escolar",
+      "principiante (en sentido figurado)"
+    ],
+    "examples": [
+      {
+        "zh": "他是小学生。",
+        "es": "Él es alumno de primaria."
+      },
+      {
+        "zh": "我妹妹还是小学生。",
+        "es": "Mi hermana menor todavía está en la primaria."
+      },
+      {
+        "zh": "这些小学生每天走路上学。",
+        "es": "Estos niños de primaria van caminando a la escuela todos los días."
+      },
+      {
+        "zh": "这个问题连小学生都会回答。",
+        "es": "Hasta un niño de primaria sabría responder esta pregunta."
+      }
+    ]
+  },
+  {
+    "word": "革命",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "revolución",
+      "revolucionario",
+      "revolucionar; rebelarse"
+    ],
+    "examples": [
+      {
+        "zh": "他们开始了革命。",
+        "es": "Ellos comenzaron la revolución."
+      },
+      {
+        "zh": "法国大革命很有名。",
+        "es": "La Revolución francesa es muy famosa."
+      },
+      {
+        "zh": "这次革命改变了这个国家的历史和政治。",
+        "es": "Esta revolución cambió la historia y la política del país."
+      },
+      {
+        "zh": "手机给我们的生活带来了一次革命。",
+        "es": "El celular trajo una revolución a nuestra vida."
+      }
+    ]
+  },
+  {
+    "word": "下班",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salir del trabajo",
+      "terminar la jornada laboral"
+    ],
+    "examples": [
+      {
+        "zh": "我下班了。",
+        "es": "Ya salí del trabajo."
+      },
+      {
+        "zh": "你几点下班？",
+        "es": "¿A qué hora sales del trabajo?"
+      },
+      {
+        "zh": "爸爸今天下班以后要去医院看奶奶。",
+        "es": "Hoy, después del trabajo, papá va a ir al hospital a ver a la abuela."
+      },
+      {
+        "zh": "他每天都工作到很晚，晚上十点才下班。",
+        "es": "Todos los días trabaja hasta tarde; no sale hasta las diez de la noche."
+      }
+    ]
+  },
+  {
+    "word": "除了",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "además de",
+      "excepto; salvo",
+      "o… o… (con 就是)"
+    ],
+    "examples": [
+      {
+        "zh": "除了我，大家都去了。",
+        "es": "Todos fueron, menos yo."
+      },
+      {
+        "zh": "除了茶，我也喜欢喝牛奶。",
+        "es": "Además del té, también me gusta tomar leche."
+      },
+      {
+        "zh": "除了星期天，他每天都上班。",
+        "es": "Trabaja todos los días excepto los domingos."
+      },
+      {
+        "zh": "他在家除了睡觉就是玩游戏。",
+        "es": "En casa, o duerme o juega videojuegos."
+      }
+    ]
+  },
+  {
+    "word": "中学生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estudiante de secundaria",
+      "estudiante de preparatoria o bachillerato"
+    ],
+    "examples": [
+      {
+        "zh": "我是中学生。",
+        "es": "Soy estudiante de secundaria."
+      },
+      {
+        "zh": "很多中学生喜欢玩手机。",
+        "es": "A muchos estudiantes de secundaria les gusta usar el celular."
+      },
+      {
+        "zh": "这本书是给中学生写的。",
+        "es": "Este libro fue escrito para estudiantes de secundaria."
+      },
+      {
+        "zh": "现在很多中学生下课以后还要去上别的课。",
+        "es": "Hoy en día, muchos estudiantes de secundaria todavía tienen que ir a otras clases después de la escuela."
+      }
+    ]
+  },
+  {
+    "word": "的话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "si (al final de una condición)",
+      "en caso de que"
+    ],
+    "examples": [
+      {
+        "zh": "你想去的话，就去吧。",
+        "es": "Si quieres ir, ve."
+      },
+      {
+        "zh": "有问题的话，请给我打电话。",
+        "es": "Si tienes alguna pregunta, llámame."
+      },
+      {
+        "zh": "明天下雨的话，我们就不去了。",
+        "es": "Si mañana llueve, no vamos a ir."
+      },
+      {
+        "zh": "如果你明天有时间的话，我们一起去看电影吧。",
+        "es": "Si mañana tienes tiempo, vamos juntos al cine."
+      }
+    ]
+  },
+  {
+    "word": "基本",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "básico",
+      "fundamental",
+      "principal"
+    ],
+    "examples": [
+      {
+        "zh": "这是基本的问题。",
+        "es": "Esta es una pregunta básica."
+      },
+      {
+        "zh": "学汉语要先学基本的汉字。",
+        "es": "Para aprender chino, primero hay que aprender los caracteres básicos."
+      },
+      {
+        "zh": "吃饭和睡觉是人的基本需要。",
+        "es": "Comer y dormir son necesidades básicas del ser humano."
+      },
+      {
+        "zh": "这个工作的基本要求是会说汉语和英语。",
+        "es": "El requisito básico de este trabajo es hablar chino e inglés."
+      }
+    ]
+  },
+  {
+    "word": "门票",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "boleto de entrada",
+      "entrada"
+    ],
+    "examples": [
+      {
+        "zh": "门票多少钱？",
+        "es": "¿Cuánto cuesta la entrada?"
+      },
+      {
+        "zh": "我买了两张门票。",
+        "es": "Compré dos boletos."
+      },
+      {
+        "zh": "学生不用买门票。",
+        "es": "Los estudiantes no necesitan comprar boleto."
+      },
+      {
+        "zh": "这个比赛的门票很贵，但是很快就没有了。",
+        "es": "Los boletos para este partido son muy caros, pero se agotaron muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "价值",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "valor",
+      "valores (éticos, culturales, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "这本书很有价值。",
+        "es": "Este libro es muy valioso."
+      },
+      {
+        "zh": "这个东西没有什么价值。",
+        "es": "Esta cosa no tiene mucho valor."
+      },
+      {
+        "zh": "这些照片对我来说有很大的价值。",
+        "es": "Estas fotos tienen un gran valor para mí."
+      },
+      {
+        "zh": "我们应该了解这些历史资料的价值。",
+        "es": "Debemos entender el valor de estos documentos históricos."
+      }
+    ]
+  },
+  {
+    "word": "半天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "un buen rato; mucho tiempo",
+      "medio día"
+    ],
+    "examples": [
+      {
+        "zh": "我等了你半天。",
+        "es": "Te esperé un buen rato."
+      },
+      {
+        "zh": "明天我只工作半天。",
+        "es": "Mañana solo trabajo medio día."
+      },
+      {
+        "zh": "他说了半天，我还是不明白。",
+        "es": "Habló un buen rato y todavía no entiendo."
+      },
+      {
+        "zh": "我找了半天钱包，最后发现它就在床上。",
+        "es": "Busqué la cartera un buen rato y al final descubrí que estaba en la cama."
+      }
+    ]
+  },
+  {
+    "word": "离开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "irse; salir",
+      "dejar; abandonar",
+      "separarse de"
+    ],
+    "examples": [
+      {
+        "zh": "他离开了。",
+        "es": "Él se fue."
+      },
+      {
+        "zh": "你什么时候离开北京？",
+        "es": "¿Cuándo te vas de Pekín?"
+      },
+      {
+        "zh": "我不想离开我的家人。",
+        "es": "No quiero separarme de mi familia."
+      },
+      {
+        "zh": "他十八岁离开家，去上海一个人生活。",
+        "es": "A los dieciocho años dejó su casa y se fue a vivir solo a Shanghái."
+      }
+    ]
+  },
+  {
+    "word": "妹",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermana menor"
+    ],
+    "examples": [
+      {
+        "zh": "她们是姐妹。",
+        "es": "Ellas son hermanas."
+      },
+      {
+        "zh": "这是我妹。",
+        "es": "Ella es mi hermana menor."
+      },
+      {
+        "zh": "我妹今年上中学了。",
+        "es": "Mi hermana menor empezó la secundaria este año."
+      },
+      {
+        "zh": "我妹昨天打电话告诉我，她找到了新工作。",
+        "es": "Ayer mi hermana menor me llamó para decirme que encontró un nuevo trabajo."
+      }
+    ]
+  }
+]

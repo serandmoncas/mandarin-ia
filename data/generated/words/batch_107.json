@@ -1,0 +1,536 @@
+[
+  {
+    "word": "相比",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comparar",
+      "en comparación con"
+    ],
+    "examples": [
+      {
+        "zh": "和去年相比，今年很热。",
+        "es": "Comparado con el año pasado, este año hace mucho calor."
+      },
+      {
+        "zh": "这两个手机无法相比。",
+        "es": "Estos dos celulares no se pueden comparar."
+      },
+      {
+        "zh": "跟北京相比，上海的人口更多。",
+        "es": "En comparación con Pekín, Shanghái tiene más población."
+      },
+      {
+        "zh": "与过去相比，我们的生活好多了。",
+        "es": "Comparada con la del pasado, nuestra vida es mucho mejor."
+      }
+    ]
+  },
+  {
+    "word": "造",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fabricar",
+      "construir",
+      "crear",
+      "hacer (una oración)"
+    ],
+    "examples": [
+      {
+        "zh": "这辆车是中国造的。",
+        "es": "Este auto fue fabricado en China."
+      },
+      {
+        "zh": "这些飞机是在哪里造的？",
+        "es": "¿Dónde fabricaron estos aviones?"
+      },
+      {
+        "zh": "老师让我们用这个词造句。",
+        "es": "El maestro nos pidió hacer una oración con esta palabra."
+      },
+      {
+        "zh": "他们在河边造了一座房子。",
+        "es": "Construyeron una casa junto al río."
+      }
+    ]
+  },
+  {
+    "word": "保存",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "guardar",
+      "conservar",
+      "preservar"
+    ],
+    "examples": [
+      {
+        "zh": "别忘了保存文件。",
+        "es": "No olvides guardar el archivo."
+      },
+      {
+        "zh": "牛奶要放在冷的地方保存。",
+        "es": "La leche se debe conservar en un lugar frío."
+      },
+      {
+        "zh": "这些照片我一直保存着。",
+        "es": "He guardado estas fotos todo este tiempo."
+      },
+      {
+        "zh": "这座城市保存了很多古代建筑。",
+        "es": "Esta ciudad ha conservado muchos edificios antiguos."
+      }
+    ]
+  },
+  {
+    "word": "不论",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sin importar",
+      "no importa (qué, quién, cómo)",
+      "sea como sea"
+    ],
+    "examples": [
+      {
+        "zh": "不论是谁，都要排队。",
+        "es": "Sea quien sea, tiene que hacer fila."
+      },
+      {
+        "zh": "不论多忙，他每天都运动。",
+        "es": "Por muy ocupado que esté, hace ejercicio todos los días."
+      },
+      {
+        "zh": "不论天气怎么样，我们都去。",
+        "es": "No importa cómo esté el clima, vamos a ir."
+      },
+      {
+        "zh": "不论结果如何，我都支持你的决定。",
+        "es": "Sin importar el resultado, apoyo tu decisión."
+      }
+    ]
+  },
+  {
+    "word": "庆祝",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "celebrar",
+      "festejar"
+    ],
+    "examples": [
+      {
+        "zh": "我们一起庆祝吧！",
+        "es": "¡Celebremos juntos!"
+      },
+      {
+        "zh": "他们在饭店庆祝妈妈的生日。",
+        "es": "Celebraron el cumpleaños de su mamá en un restaurante."
+      },
+      {
+        "zh": "全国人民都在庆祝新年。",
+        "es": "Todo el país está celebrando el Año Nuevo."
+      },
+      {
+        "zh": "为了庆祝比赛胜利，球队老板请大家吃饭。",
+        "es": "Para celebrar la victoria, el dueño del equipo invitó a todos a comer."
+      }
+    ]
+  },
+  {
+    "word": "显得",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "verse",
+      "parecer",
+      "lucir"
+    ],
+    "examples": [
+      {
+        "zh": "她今天显得很高兴。",
+        "es": "Hoy se ve muy contenta."
+      },
+      {
+        "zh": "考试前，他显得非常紧张。",
+        "es": "Antes del examen se veía muy nervioso."
+      },
+      {
+        "zh": "你穿这件衣服显得很年轻。",
+        "es": "Con esta ropa te ves muy joven."
+      },
+      {
+        "zh": "他虽然很累，但还是显得很有精神。",
+        "es": "Aunque estaba muy cansado, todavía se veía lleno de energía."
+      }
+    ]
+  },
+  {
+    "word": "直",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "recto",
+      "derecho (sin desviarse)",
+      "franco, directo",
+      "vertical"
+    ],
+    "examples": [
+      {
+        "zh": "这条路很直。",
+        "es": "Este camino es muy recto."
+      },
+      {
+        "zh": "从这里直走，就能看到银行。",
+        "es": "Sigue derecho desde aquí y vas a ver el banco."
+      },
+      {
+        "zh": "老师让我们坐直，不要说话。",
+        "es": "El maestro nos pidió sentarnos derechos y no hablar."
+      },
+      {
+        "zh": "他说话很直，有时候让人生气。",
+        "es": "Habla muy directo y a veces hace enojar a la gente."
+      }
+    ]
+  },
+  {
+    "word": "准",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "exacto, preciso",
+      "seguramente, sin duda",
+      "estándar",
+      "futuro (novio, novia, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "我的手表不准。",
+        "es": "Mi reloj no da la hora exacta."
+      },
+      {
+        "zh": "这个地图不太准。",
+        "es": "Este mapa no es muy preciso."
+      },
+      {
+        "zh": "他明天准会来。",
+        "es": "Seguro que mañana viene."
+      },
+      {
+        "zh": "你的读音很准，中文说得真好。",
+        "es": "Tu pronunciación es muy precisa; hablas chino muy bien."
+      }
+    ]
+  },
+  {
+    "word": "当初",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en ese entonces",
+      "al principio",
+      "en su momento"
+    ],
+    "examples": [
+      {
+        "zh": "当初我不喜欢他。",
+        "es": "Al principio no me caía bien."
+      },
+      {
+        "zh": "你还记得当初的计划吗？",
+        "es": "¿Todavía te acuerdas del plan original?"
+      },
+      {
+        "zh": "早知道这样，当初就不该来。",
+        "es": "Si lo hubiera sabido, no habría venido desde un principio."
+      },
+      {
+        "zh": "当初他一个人来北京，现在已经有了自己的公司。",
+        "es": "En ese entonces llegó solo a Pekín; ahora ya tiene su propia empresa."
+      }
+    ]
+  },
+  {
+    "word": "实验室",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "laboratorio"
+    ],
+    "examples": [
+      {
+        "zh": "他在实验室工作。",
+        "es": "Él trabaja en el laboratorio."
+      },
+      {
+        "zh": "学校有一个新的实验室。",
+        "es": "La escuela tiene un laboratorio nuevo."
+      },
+      {
+        "zh": "进实验室以前，必须先洗手。",
+        "es": "Antes de entrar al laboratorio, hay que lavarse las manos."
+      },
+      {
+        "zh": "这个实验室的科学家正在研究新的药。",
+        "es": "Los científicos de este laboratorio están investigando un nuevo medicamento."
+      }
+    ]
+  },
+  {
+    "word": "退休",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jubilarse",
+      "retirarse (del trabajo)"
+    ],
+    "examples": [
+      {
+        "zh": "我爷爷已经退休了。",
+        "es": "Mi abuelo ya se jubiló."
+      },
+      {
+        "zh": "她明年就要退休了。",
+        "es": "Ella se jubila el próximo año."
+      },
+      {
+        "zh": "退休以后，他每天去公园走路。",
+        "es": "Después de jubilarse, va a caminar al parque todos los días."
+      },
+      {
+        "zh": "很多老人退休后觉得生活没有意思。",
+        "es": "Muchos adultos mayores sienten que la vida se vuelve aburrida después de jubilarse."
+      }
+    ]
+  },
+  {
+    "word": "相似",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parecido",
+      "similar"
+    ],
+    "examples": [
+      {
+        "zh": "这两个字很相似。",
+        "es": "Estos dos caracteres se parecen mucho."
+      },
+      {
+        "zh": "我和姐姐的声音很相似。",
+        "es": "Mi voz y la de mi hermana mayor son muy parecidas."
+      },
+      {
+        "zh": "这两个国家的文化有很多相似的地方。",
+        "es": "Las culturas de estos dos países tienen muchas cosas en común."
+      },
+      {
+        "zh": "我们以前也有过相似的问题，后来解决了。",
+        "es": "Antes también tuvimos un problema similar y luego lo resolvimos."
+      }
+    ]
+  },
+  {
+    "word": "北部",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "norte",
+      "parte norte",
+      "región norte"
+    ],
+    "examples": [
+      {
+        "zh": "北京在中国北部。",
+        "es": "Pekín está en el norte de China."
+      },
+      {
+        "zh": "北部的冬天很冷。",
+        "es": "En el norte los inviernos son muy fríos."
+      },
+      {
+        "zh": "明天北部地区会下雪。",
+        "es": "Mañana va a nevar en la región norte."
+      },
+      {
+        "zh": "这个国家的北部山很多，人口比较少。",
+        "es": "El norte de este país tiene muchas montañas y relativamente poca población."
+      }
+    ]
+  },
+  {
+    "word": "对手",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rival",
+      "oponente",
+      "competidor"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的对手。",
+        "es": "Él es mi rival."
+      },
+      {
+        "zh": "这次比赛的对手很强。",
+        "es": "El rival de este partido es muy fuerte."
+      },
+      {
+        "zh": "两家公司是老对手了。",
+        "es": "Las dos empresas son viejas rivales."
+      },
+      {
+        "zh": "他们在球场上是对手，在生活中是好朋友。",
+        "es": "En la cancha son rivales, pero en la vida son buenos amigos."
+      }
+    ]
+  },
+  {
+    "word": "后果",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "consecuencias",
+      "secuelas"
+    ],
+    "examples": [
+      {
+        "zh": "你想过后果吗？",
+        "es": "¿Pensaste en las consecuencias?"
+      },
+      {
+        "zh": "这样做后果很严重。",
+        "es": "Hacer esto tiene consecuencias muy graves."
+      },
+      {
+        "zh": "不注意安全会有什么后果？",
+        "es": "¿Qué consecuencias puede tener no cuidar la seguridad?"
+      },
+      {
+        "zh": "他没想到一个小错误会造成这么大的后果。",
+        "es": "No se imaginaba que un pequeño error tendría consecuencias tan graves."
+      }
+    ]
+  },
+  {
+    "word": "咖啡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "café"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢喝咖啡。",
+        "es": "Me gusta tomar café."
+      },
+      {
+        "zh": "请给我一杯咖啡。",
+        "es": "Por favor, deme un café."
+      },
+      {
+        "zh": "晚上喝咖啡，我会睡不着。",
+        "es": "Si tomo café en la noche, no puedo dormir."
+      },
+      {
+        "zh": "我们去公司旁边那家店喝咖啡吧。",
+        "es": "Vamos a tomar café al lugar que está junto a la oficina."
+      }
+    ]
+  },
+  {
+    "word": "深刻",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "profundo",
+      "hondo",
+      "marcado (una impresión)"
+    ],
+    "examples": [
+      {
+        "zh": "这本书很深刻。",
+        "es": "Este libro es muy profundo."
+      },
+      {
+        "zh": "他给我留下了深刻的印象。",
+        "es": "Me dejó una impresión muy profunda."
+      },
+      {
+        "zh": "老师的话很深刻，我一直记得。",
+        "es": "Las palabras del maestro fueron muy profundas; siempre las recuerdo."
+      },
+      {
+        "zh": "这次经历让他深刻地认识到自己的错误。",
+        "es": "Esta experiencia le hizo comprender a fondo su error."
+      }
+    ]
+  },
+  {
+    "word": "早已",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desde hace mucho",
+      "hace tiempo que",
+      "ya (desde antes)"
+    ],
+    "examples": [
+      {
+        "zh": "他早已走了。",
+        "es": "Él ya se había ido hace rato."
+      },
+      {
+        "zh": "这件事我早已知道了。",
+        "es": "Eso ya lo sabía desde hace tiempo."
+      },
+      {
+        "zh": "等我们到车站，火车早已开走了。",
+        "es": "Cuando llegamos a la estación, el tren ya se había ido hacía rato."
+      },
+      {
+        "zh": "那个小学生早已成为有名的科学家了。",
+        "es": "Aquel niño de primaria hace mucho que se convirtió en un científico famoso."
+      }
+    ]
+  },
+  {
+    "word": "整理",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ordenar",
+      "organizar",
+      "arreglar (la maleta, papeles)",
+      "recopilar (datos)"
+    ],
+    "examples": [
+      {
+        "zh": "我要整理房间。",
+        "es": "Tengo que ordenar mi cuarto."
+      },
+      {
+        "zh": "你的书包该整理一下了。",
+        "es": "Ya es hora de ordenar tu mochila."
+      },
+      {
+        "zh": "出发前，她把衣服整理好了。",
+        "es": "Antes de partir, dejó la ropa bien acomodada."
+      },
+      {
+        "zh": "老师让我们把上课的笔记整理成一篇文章。",
+        "es": "El maestro nos pidió organizar los apuntes de clase en un texto."
+      }
+    ]
+  },
+  {
+    "word": "子女",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hijos",
+      "hijos e hijas"
+    ],
+    "examples": [
+      {
+        "zh": "他们有两个子女。",
+        "es": "Tienen dos hijos."
+      },
+      {
+        "zh": "父母都希望子女幸福。",
+        "es": "Todos los padres quieren que sus hijos sean felices."
+      },
+      {
+        "zh": "现在很多子女不住在父母身边。",
+        "es": "Hoy en día muchos hijos no viven cerca de sus padres."
+      },
+      {
+        "zh": "退休以后，她常常去国外看子女。",
+        "es": "Después de jubilarse, ella va seguido al extranjero a visitar a sus hijos."
+      }
+    ]
+  }
+]

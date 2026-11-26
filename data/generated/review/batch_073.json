@@ -1,0 +1,165 @@
+[
+  {
+    "id": "word:实习",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e48e77eecf3df41ff2e9a3fc8faf73cb86e834d"
+  },
+  {
+    "id": "word:力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1aa2746c98d5caa6b0808f3279e6213e5c8b315c"
+  },
+  {
+    "id": "word:中医",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en los ejemplos 1 y 4: 中医 se lee «zhōng yī», no «zhòng yī».",
+      "Pinyin incorrecto en el ejemplo 3: 很长 es «hěn cháng», no «hěn zhǎng»."
+    ],
+    "content_hash": "078e4ebed67b2177abd318e2898222d9aa6d7bf3"
+  },
+  {
+    "id": "word:春节",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 都 es «dōu», no «dū»."
+    ],
+    "content_hash": "ed834eece343f6e45bd523369561cc93b8d90c48"
+  },
+  {
+    "id": "word:普遍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "302ca3b08bd6aa460f16540c7552c17eed1dfcc8"
+  },
+  {
+    "id": "word:鞋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b90a1361bf001b24e3db63664278342d7c2c5de"
+  },
+  {
+    "id": "word:一点点",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: el complemento 得 de 说得 es «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "5ca068741a5c3459f8a34966ecf7f5fa17171045"
+  },
+  {
+    "id": "word:亮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f686f5e96b26691605c51bcd93a8f4ccbd9832bd"
+  },
+  {
+    "id": "word:上周",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: el complemento 得 de 考得 es «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "e77c1e8d612ec48289653ace63033aed9123aa9c"
+  },
+  {
+    "id": "word:停车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "485adc473193ee33727300d2327caef772a87a34"
+  },
+  {
+    "id": "word:导演",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dba03ca5657b5d3280f40d219f239fff54691bb4"
+  },
+  {
+    "id": "word:笔记",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: el complemento 得 de 写得 es «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "55d0d9fd6b075d739dc6ba5e72e560456d5b4011"
+  },
+  {
+    "id": "word:共有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4438ad3ade2021c1153f48cd461c815a0083bcb8"
+  },
+  {
+    "id": "word:出租车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f24577e9b3e82a8f36021936b53634b1b7a00c75"
+  },
+  {
+    "id": "word:广播",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e09cb6a03e14431de61e72fc9436525ff413916"
+  },
+  {
+    "id": "word:气温",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa4a7585852abbb15e4897bca2727b564b9c0a61"
+  },
+  {
+    "id": "word:后面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f1c19108447f401540373df5afddb7707134eff"
+  },
+  {
+    "id": "word:一共",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a703113111614e7ae93216aff07ca8d3fd44c6e8"
+  },
+  {
+    "id": "word:找出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b94ade45a83e6104229b3495019716830e993e73"
+  },
+  {
+    "id": "word:判断",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e52394b81f33447b6331fa577eaaafbe413bcd5"
+  },
+  {
+    "id": "word:排队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a2a8fc0dba7de4346f89aa1f9df3a9ce276c99f"
+  },
+  {
+    "id": "word:月亮",
+    "ok": false,
+    "issues": [
+      "El ejemplo 4 tiene una estructura poco natural: «在山上看月亮，比在城市里看更大更亮» hace que «看月亮» sea el sujeto de «更大更亮». Sería más natural: «在山上看，月亮比在城市里更大更亮»."
+    ],
+    "content_hash": "2441fc059741ffb73e401abf38f72eb6d076f8a6"
+  },
+  {
+    "id": "word:深",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b345ac0adbc35a90e9de5b6c81205aa60cc150c"
+  },
+  {
+    "id": "word:座位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b59bc90793b7c187fcad07238d3bf5181c954880"
+  },
+  {
+    "id": "word:坏人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a562edc1730e5171d358fa3fd7720e83d13d61d"
+  }
+]

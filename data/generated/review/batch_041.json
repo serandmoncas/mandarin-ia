@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:型",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1aa71c53a237f09f5d36908f03058dea129666d2"
+  },
+  {
+    "id": "word:想要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2759c96bf23f64ad5d741f7e59470fd7ca1e93bc"
+  },
+  {
+    "id": "word:最终",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 很长时间 se lee «hěn cháng shí jiān», no «hěn zhǎng»."
+    ],
+    "content_hash": "fed95725339f2fd7b6cd87e0dc2f7daae180b562"
+  },
+  {
+    "id": "word:空间",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: 空间 se lee «kōng jiān», no «kòng jiān».",
+      "Pinyin incorrecto en el ejemplo 4: la partícula 得 en 发展得 se lee «de» (neutro), no «dé»."
+    ],
+    "content_hash": "3f346e124f8c89a06772a0f3affc8587aac3945b"
+  },
+  {
+    "id": "word:领域",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: la partícula 得 en 发展得 se lee «de» (neutro), no «dé»."
+    ],
+    "content_hash": "ec34588973e53c5602656c6405fbfee281b9f994"
+  },
+  {
+    "id": "word:报",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2c820d6140aa37daf79b3306b1e61e3796121a2"
+  },
+  {
+    "id": "word:分钟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3a414854de424a4a1a5bee65237fe131623d39c"
+  },
+  {
+    "id": "word:靠",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9ec664bf5924e5194164580dd3cadc8f56e76555"
+  },
+  {
+    "id": "word:面积",
+    "ok": true,
+    "issues": [],
+    "content_hash": "67f160216c952c8e14f4793ee06ae0042e585a94"
+  },
+  {
+    "id": "word:生命",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0ec1951ecb1ee441c4354449dec9ae8b02057b7"
+  },
+  {
+    "id": "word:十分",
+    "ok": true,
+    "issues": [],
+    "content_hash": "507c69c3eb451b4053c26b8d3595404f13d1f778"
+  },
+  {
+    "id": "word:文章",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7bb02f629e2cae33ac6891a08a22d261954d3cf6"
+  },
+  {
+    "id": "word:亿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a91f600dbf96062a8722f2f1e831d8756bc2931"
+  },
+  {
+    "id": "word:意义",
+    "ok": true,
+    "issues": [],
+    "content_hash": "901649749c20aeb9f3518220ebdb37e131383fa7"
+  },
+  {
+    "id": "word:作用",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: el aspecto 着 en 起着 se lee «zhe» (neutro), no «zhuó»."
+    ],
+    "content_hash": "2d57a2b9b956efa22fef18aed91a31cb0f80c154"
+  },
+  {
+    "id": "word:产业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6f0d1527792699592cf6ac16c00a744f052154f6"
+  },
+  {
+    "id": "word:几乎",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4 poco natural: 几乎 con una cantidad seguido de 才 suena forzado; lo natural sería «差不多走了一个小时才回到家»."
+    ],
+    "content_hash": "656e9dc370a77b931dc5ffa3f27c6eedae317f92"
+  },
+  {
+    "id": "word:哦",
+    "ok": false,
+    "issues": [
+      "Incoherencia de tono: la palabra se presenta como o4 (ò, comprensión), pero todos los ejemplos usan «ó» (tono 2, sorpresa/duda). Para «ya entiendo» corresponde «ò»."
+    ],
+    "content_hash": "c3866e991b153c215b38e62e1da6107d0ab07ed8"
+  },
+  {
+    "id": "word:若",
+    "ok": true,
+    "issues": [],
+    "content_hash": "691da17e552a463a6d652830ce3229ffdad34f6a"
+  },
+  {
+    "id": "word:曾经",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c70ac4f43a7e3c04624ba05816677e09b3731d8"
+  },
+  {
+    "id": "word:队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1cdbd9eb1ca93f12a878a59fb7468e6f54952d0"
+  },
+  {
+    "id": "word:加",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f35041c087e4638b1e91377e270a9d391efc754"
+  },
+  {
+    "id": "word:结合",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2 semánticamente raro: «结合了音乐和艺术» combina la música con el arte, pero la música ya es un arte; sería más natural «音乐和美术» (música y artes plásticas)."
+    ],
+    "content_hash": "925c950e1a6f5c0cfc1fc1db197be31ca7e17e94"
+  },
+  {
+    "id": "word:拉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c1662e0e78635c0effc15066659af6ca57bd6fc7"
+  },
+  {
+    "id": "word:原来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad1889577fcc9502f64fc3114eafdbb4a767f61e"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "char": "妹",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "未",
+        "meaning_es": "todavía no"
+      }
+    ],
+    "mnemonic_es": "Una mujer que todavía no es grande: es tu hermana menor."
+  },
+  {
+    "char": "改",
+    "components": [
+      {
+        "char": "己",
+        "meaning_es": "uno mismo"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear, actuar"
+      }
+    ],
+    "mnemonic_es": "Te das un golpecito a ti mismo para cambiar y corregir tus malos hábitos."
+  },
+  {
+    "char": "变",
+    "components": [
+      {
+        "char": "亦",
+        "meaning_es": "también"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano, otra vez"
+      }
+    ],
+    "mnemonic_es": "Otra vez y también otra vez la mano mueve las cosas, hasta que todo cambia."
+  },
+  {
+    "char": "各",
+    "components": [
+      {
+        "char": "夂",
+        "meaning_es": "pie que avanza"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca, entrada"
+      }
+    ],
+    "mnemonic_es": "Unos pies llegan a la entrada, y cada uno entra por su lado: cada quien a lo suyo."
+  },
+  {
+    "char": "歌",
+    "components": [
+      {
+        "char": "哥",
+        "meaning_es": "hermano mayor"
+      },
+      {
+        "char": "欠",
+        "meaning_es": "boca abierta, bostezar"
+      }
+    ],
+    "mnemonic_es": "Tu hermano mayor abre bien la boca para cantar su canción favorita."
+  },
+  {
+    "char": "科",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "grano, cereal"
+      },
+      {
+        "char": "斗",
+        "meaning_es": "medida, cucharón"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien midiendo granos con un cucharón para clasificarlos: así se ordenan las materias de estudio."
+  },
+  {
+    "char": "九",
+    "components": [
+      {
+        "char": "九",
+        "meaning_es": "nueve"
+      }
+    ],
+    "mnemonic_es": "Parece un brazo que se estira y se dobla al final, como el número nueve que casi llega a diez."
+  },
+  {
+    "char": "星",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "生",
+        "meaning_es": "nacer"
+      }
+    ],
+    "mnemonic_es": "Pequeños soles que nacen en el cielo nocturno: son las estrellas."
+  },
+  {
+    "char": "期",
+    "components": [
+      {
+        "char": "其",
+        "meaning_es": "eso, su"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna, mes"
+      }
+    ],
+    "mnemonic_es": "Cuentas las lunas en el calendario para saber cuánto dura un período, como en 星期, la semana."
+  },
+  {
+    "char": "策",
+    "components": [
+      {
+        "char": "竹",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "朿",
+        "meaning_es": "espina"
+      }
+    ],
+    "mnemonic_es": "Imagina a un estratega que dibuja su plan con una espina sobre tablillas de bambú."
+  },
+  {
+    "char": "项",
+    "components": [
+      {
+        "char": "工",
+        "meaning_es": "trabajo"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza, página"
+      }
+    ],
+    "mnemonic_es": "Cada trabajo anotado en una página es un ítem del proyecto."
+  },
+  {
+    "char": "票",
+    "components": [
+      {
+        "char": "覀",
+        "meaning_es": "cubrir"
+      },
+      {
+        "char": "示",
+        "meaning_es": "mostrar"
+      }
+    ],
+    "mnemonic_es": "Sacas de tu bolsillo cubierto un papelito para mostrarlo en la entrada: tu boleto."
+  },
+  {
+    "char": "断",
+    "components": [
+      {
+        "char": "米",
+        "meaning_es": "arroz"
+      },
+      {
+        "char": "斤",
+        "meaning_es": "hacha"
+      }
+    ],
+    "mnemonic_es": "Un hacha corta de un golpe el saco de arroz y lo parte en dos: romper, cortar."
+  },
+  {
+    "char": "面",
+    "components": [
+      {
+        "char": "面",
+        "meaning_es": "cara, superficie; fideos"
+      }
+    ],
+    "mnemonic_es": "Mira el marco como el contorno de una cara con su nariz en el centro; y si tienes hambre, también son fideos."
+  },
+  {
+    "char": "故",
+    "components": [
+      {
+        "char": "古",
+        "meaning_es": "antiguo"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "golpear, actuar"
+      }
+    ],
+    "mnemonic_es": "Las acciones de los tiempos antiguos se convierten en historias: 故事, un cuento."
+  },
+  {
+    "char": "合",
+    "components": [
+      {
+        "char": "亼",
+        "meaning_es": "tapa, juntar"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca, recipiente"
+      }
+    ],
+    "mnemonic_es": "Una tapa que encaja justo sobre la boca de la olla: cerrar, juntar, combinar."
+  },
+  {
+    "char": "十",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      }
+    ],
+    "mnemonic_es": "Una cruz perfecta, como dos manos cruzadas con sus diez dedos."
+  },
+  {
+    "char": "八",
+    "components": [
+      {
+        "char": "八",
+        "meaning_es": "ocho"
+      }
+    ],
+    "mnemonic_es": "Dos trazos que se separan como una carpa abierta: el ocho, número de la buena suerte en China."
+  },
+  {
+    "char": "省",
+    "components": [
+      {
+        "char": "少",
+        "meaning_es": "poco"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      }
+    ],
+    "mnemonic_es": "Con ojo atento gastas poco: ahorras; y también revisas cada provincia con cuidado."
+  },
+  {
+    "char": "课",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "果",
+        "meaning_es": "fruto, resultado"
+      }
+    ],
+    "mnemonic_es": "Las palabras del profesor dan fruto en tu cabeza: eso es una clase."
+  },
+  {
+    "char": "休",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Una persona se recuesta contra un árbol para descansar."
+  },
+  {
+    "char": "未",
+    "components": [
+      {
+        "char": "未",
+        "meaning_es": "todavía no"
+      }
+    ],
+    "mnemonic_es": "Un árbol con una rama extra que todavía no ha dado fruto: aún no."
+  },
+  {
+    "char": "饭",
+    "components": [
+      {
+        "char": "饣",
+        "meaning_es": "comida"
+      },
+      {
+        "char": "反",
+        "meaning_es": "al revés, voltear"
+      }
+    ],
+    "mnemonic_es": "Volteas la comida en la sartén una y otra vez hasta que el arroz está listo."
+  },
+  {
+    "char": "源",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "原",
+        "meaning_es": "origen"
+      }
+    ],
+    "mnemonic_es": "El agua en su origen: la fuente, el nacimiento del río."
+  },
+  {
+    "char": "集",
+    "components": [
+      {
+        "char": "隹",
+        "meaning_es": "pájaro"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Los pájaros se reúnen sobre un árbol: juntarse, reunir."
+  },
+  {
+    "char": "团",
+    "components": [
+      {
+        "char": "囗",
+        "meaning_es": "cerco, recinto"
+      },
+      {
+        "char": "才",
+        "meaning_es": "talento"
+      }
+    ],
+    "mnemonic_es": "Juntas a todos los talentos dentro de un mismo cerco y formas un equipo."
+  },
+  {
+    "char": "规",
+    "components": [
+      {
+        "char": "夫",
+        "meaning_es": "hombre adulto"
+      },
+      {
+        "char": "见",
+        "meaning_es": "ver"
+      }
+    ],
+    "mnemonic_es": "Un hombre adulto observa que todos cumplan las reglas."
+  },
+  {
+    "char": "弟",
+    "components": [
+      {
+        "char": "弟",
+        "meaning_es": "hermano menor"
+      }
+    ],
+    "mnemonic_es": "Imagina a tu hermanito con dos antenitas arriba y un arco enredado en el cuerpo, jugando a ser arquero."
+  },
+  {
+    "char": "唱",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "昌",
+        "meaning_es": "prosperar, brillante"
+      }
+    ],
+    "mnemonic_es": "Una boca que canta tan brillante como dos soles."
+  },
+  {
+    "char": "原",
+    "components": [
+      {
+        "char": "厂",
+        "meaning_es": "acantilado"
+      },
+      {
+        "char": "白",
+        "meaning_es": "blanco"
+      },
+      {
+        "char": "小",
+        "meaning_es": "pequeño"
+      }
+    ],
+    "mnemonic_es": "Bajo un acantilado brota un pequeño chorro de agua blanca: el origen de todo, lo original."
+  }
+]

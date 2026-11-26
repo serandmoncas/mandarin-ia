@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:齐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5bf239c15fd7e4635019dad0e8ddca1c8282a537"
+  },
+  {
+    "id": "word:身份证",
+    "ok": true,
+    "issues": [],
+    "content_hash": "93f29667f1ea209e92fca3ea5f07baa123c21312"
+  },
+  {
+    "id": "word:老百姓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a189f773bc383fef0d526905fb2289ec059fd62"
+  },
+  {
+    "id": "word:乐队",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, 体育馆 es un gimnasio o una arena techada, no un estadio (eso sería 体育场). Mejor traducir: 'en el gimnasio' o 'en la arena'."
+    ],
+    "content_hash": "aefbda4674239f7617769abd255292001671c87e"
+  },
+  {
+    "id": "word:录音",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f85c1b50d77671e6e21f40efa7c7b02bb810aafc"
+  },
+  {
+    "id": "word:难度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9aa500b142a389cebb05036900bc0a907991f1b1"
+  },
+  {
+    "id": "word:邮件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a54d4ce5a25c691ddb158b6d155c74cbc70717e4"
+  },
+  {
+    "id": "word:手续",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97872edb0329ce8c940fa01d3f349a2cae7c5f90"
+  },
+  {
+    "id": "word:跳舞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "010480f3847402c6fc0d98f80d9fdd81da52d06a"
+  },
+  {
+    "id": "word:影视",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d3f7aaa3ddb446cc686168ea661d258c81e8942"
+  },
+  {
+    "id": "word:保安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14f13051af45b75495f85c8db2d439c9f78b821e"
+  },
+  {
+    "id": "word:志愿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e7f6105cb2be0cf13c027f535639cab533fcdae"
+  },
+  {
+    "id": "word:哈哈",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0f77e93aa228831fae3bc5363fde8de44d0f1cc"
+  },
+  {
+    "id": "word:接待",
+    "ok": false,
+    "issues": [
+      "El significado 'hospedar' es engañoso: en español implica dar alojamiento, y 接待 significa recibir o atender. Sugerencia: 'acoger'.",
+      "En el ejemplo 2, 外国客人 se traduce mejor como 'visitantes' o 'invitados extranjeros'. 'Los clientes' con artículo definido es demasiado específico."
+    ],
+    "content_hash": "45a5740c5e8ad53dcf9c84a36bf2f0027c879571"
+  },
+  {
+    "id": "word:裤子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81bb282c2c6670bab460838b6ffd79984cf80010"
+  },
+  {
+    "id": "word:价钱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d63605c0f34a3476c4b1f8de6e5e63ff218f76d"
+  },
+  {
+    "id": "word:大使馆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f34f58f5e7cbeadc5e23eb433349c4a3b16fac24"
+  },
+  {
+    "id": "word:海关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "305451728bc5a47507de0960de114219951219bb"
+  },
+  {
+    "id": "word:初级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "510ac391a163b50854c37395b5779898475767f6"
+  },
+  {
+    "id": "word:困",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34b9866ff72234c0fd1af65f3689a44118c80c3b"
+  },
+  {
+    "id": "word:啤酒",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2f87f16419062b088b1bd25a93e748f4993f532"
+  },
+  {
+    "id": "word:甜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "01570db0cef1f31197d7000b1b54af21635c7874"
+  },
+  {
+    "id": "word:中华民族",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07a7455b67478a81e9b42b14341543870639479c"
+  },
+  {
+    "id": "word:故乡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e4e58fc1d453876fa124a23abf3745cd2adae3d"
+  },
+  {
+    "id": "word:金牌",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: en 高兴得哭了, 得 es partícula estructural y se lee 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "5a46873fef19d04ea11872edea4e523f7aa5d914"
+  }
+]

@@ -1,0 +1,535 @@
+[
+  {
+    "word": "听众",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oyentes",
+      "público",
+      "audiencia"
+    ],
+    "examples": [
+      {
+        "zh": "听众很多。",
+        "es": "Hay muchos oyentes."
+      },
+      {
+        "zh": "今天的听众都是学生。",
+        "es": "El público de hoy son todos estudiantes."
+      },
+      {
+        "zh": "这个节目的听众非常喜欢他。",
+        "es": "A los oyentes de este programa les cae muy bien."
+      },
+      {
+        "zh": "他的话让所有听众都笑了起来。",
+        "es": "Sus palabras hicieron reír a todo el público."
+      }
+    ]
+  },
+  {
+    "word": "家具",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muebles",
+      "mobiliario"
+    ],
+    "examples": [
+      {
+        "zh": "这些家具很新。",
+        "es": "Estos muebles son muy nuevos."
+      },
+      {
+        "zh": "我想买一些新家具。",
+        "es": "Quiero comprar algunos muebles nuevos."
+      },
+      {
+        "zh": "这个房间里的家具都很贵。",
+        "es": "Todos los muebles de esta habitación son muy caros."
+      },
+      {
+        "zh": "我们打算下个月换掉家里所有的家具。",
+        "es": "Pensamos cambiar todos los muebles de la casa el próximo mes."
+      }
+    ]
+  },
+  {
+    "word": "老太太",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "señora mayor",
+      "anciana",
+      "(respetuoso) madre de alguien"
+    ],
+    "examples": [
+      {
+        "zh": "那位老太太是我奶奶。",
+        "es": "Esa señora mayor es mi abuela."
+      },
+      {
+        "zh": "老太太每天早上去公园。",
+        "es": "La anciana va al parque todas las mañanas."
+      },
+      {
+        "zh": "他帮那位老太太过马路。",
+        "es": "Él ayudó a esa señora a cruzar la calle."
+      },
+      {
+        "zh": "楼下的老太太很喜欢跟孩子们说话。",
+        "es": "A la señora de abajo le encanta platicar con los niños."
+      }
+    ]
+  },
+  {
+    "word": "亲切",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "amable",
+      "cordial",
+      "cercano",
+      "familiar"
+    ],
+    "examples": [
+      {
+        "zh": "老师很亲切。",
+        "es": "La maestra es muy amable."
+      },
+      {
+        "zh": "她的声音很亲切。",
+        "es": "Su voz es muy cálida y cercana."
+      },
+      {
+        "zh": "他对每个人都很亲切。",
+        "es": "Él es muy cordial con todo el mundo."
+      },
+      {
+        "zh": "第一次见面，她就让我觉得非常亲切。",
+        "es": "Desde la primera vez que nos vimos, me hizo sentir muy a gusto."
+      }
+    ]
+  },
+  {
+    "word": "开业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abrir un negocio",
+      "inaugurar",
+      "abrir (al público)"
+    ],
+    "examples": [
+      {
+        "zh": "这家店明天开业。",
+        "es": "Esta tienda abre mañana."
+      },
+      {
+        "zh": "新饭店下个月开业。",
+        "es": "El nuevo restaurante abre el próximo mes."
+      },
+      {
+        "zh": "我们的公司是去年开业的。",
+        "es": "Nuestra empresa abrió el año pasado."
+      },
+      {
+        "zh": "商场开业那天，门口来了很多人。",
+        "es": "El día que inauguraron el centro comercial, llegó mucha gente a la entrada."
+      }
+    ]
+  },
+  {
+    "word": "整整",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo entero",
+      "completo",
+      "nada menos que"
+    ],
+    "examples": [
+      {
+        "zh": "我整整睡了十个小时。",
+        "es": "Dormí diez horas completas."
+      },
+      {
+        "zh": "他整整一天没吃饭。",
+        "es": "No comió nada en todo el día."
+      },
+      {
+        "zh": "雨整整下了三天。",
+        "es": "Llovió tres días enteros."
+      },
+      {
+        "zh": "为了这次考试，她整整准备了一年。",
+        "es": "Para este examen, se preparó durante un año entero."
+      }
+    ]
+  },
+  {
+    "word": "本事",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "habilidad",
+      "capacidad",
+      "talento"
+    ],
+    "examples": [
+      {
+        "zh": "他很有本事。",
+        "es": "Él es muy capaz."
+      },
+      {
+        "zh": "你有本事就自己做。",
+        "es": "Si eres tan capaz, hazlo tú mismo."
+      },
+      {
+        "zh": "她的本事是从爸爸那里学的。",
+        "es": "Aprendió sus habilidades de su papá."
+      },
+      {
+        "zh": "没有真本事，在大城市很难找到好工作。",
+        "es": "Sin verdadero talento, es difícil encontrar un buen trabajo en una gran ciudad."
+      }
+    ]
+  },
+  {
+    "word": "感冒",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "resfriado",
+      "resfriarse",
+      "(coloquial) interesarse (sobre todo en negativo)"
+    ],
+    "examples": [
+      {
+        "zh": "我感冒了。",
+        "es": "Me resfrié."
+      },
+      {
+        "zh": "天气冷，小心感冒。",
+        "es": "Hace frío, cuídate de no resfriarte."
+      },
+      {
+        "zh": "他感冒了，今天不能来上课。",
+        "es": "Está resfriado y hoy no puede venir a clase."
+      },
+      {
+        "zh": "多喝水、多休息，感冒很快就会好。",
+        "es": "Toma mucha agua y descansa; el resfriado se te quitará pronto."
+      }
+    ]
+  },
+  {
+    "word": "牌子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "marca",
+      "letrero",
+      "cartel"
+    ],
+    "examples": [
+      {
+        "zh": "这是什么牌子？",
+        "es": "¿De qué marca es esto?"
+      },
+      {
+        "zh": "门口有一个牌子。",
+        "es": "Hay un letrero en la entrada."
+      },
+      {
+        "zh": "我喜欢这个牌子的手机。",
+        "es": "Me gustan los celulares de esta marca."
+      },
+      {
+        "zh": "这个牌子的衣服很好看，但是太贵了。",
+        "es": "La ropa de esta marca es muy bonita, pero demasiado cara."
+      }
+    ]
+  },
+  {
+    "word": "屋子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cuarto",
+      "habitación",
+      "casa"
+    ],
+    "examples": [
+      {
+        "zh": "屋子里很热。",
+        "es": "Hace mucho calor en el cuarto."
+      },
+      {
+        "zh": "这间屋子很干净。",
+        "es": "Esta habitación está muy limpia."
+      },
+      {
+        "zh": "孩子们在屋子里玩游戏。",
+        "es": "Los niños están jugando en el cuarto."
+      },
+      {
+        "zh": "下雨了，大家快进屋子里来吧。",
+        "es": "Está lloviendo, entren rápido a la casa."
+      }
+    ]
+  },
+  {
+    "word": "表格",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "formulario",
+      "tabla",
+      "planilla"
+    ],
+    "examples": [
+      {
+        "zh": "这个表格很简单。",
+        "es": "Este formulario es muy sencillo."
+      },
+      {
+        "zh": "请把这张表格写好。",
+        "es": "Por favor, llene este formulario."
+      },
+      {
+        "zh": "老师给了我们一张表格。",
+        "es": "La maestra nos dio una tabla."
+      },
+      {
+        "zh": "申请以前，你必须在网上完成这个表格。",
+        "es": "Antes de presentar la solicitud, debes llenar este formulario en línea."
+      }
+    ]
+  },
+  {
+    "word": "裙子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "falda"
+    ],
+    "examples": [
+      {
+        "zh": "这条裙子很漂亮。",
+        "es": "Esta falda es muy bonita."
+      },
+      {
+        "zh": "她今天穿了一条红裙子。",
+        "es": "Hoy se puso una falda roja."
+      },
+      {
+        "zh": "妈妈给我买了一条新裙子。",
+        "es": "Mi mamá me compró una falda nueva."
+      },
+      {
+        "zh": "夏天到了，很多女孩子都喜欢穿裙子。",
+        "es": "Ya llegó el verano, y a muchas chicas les gusta usar falda."
+      }
+    ]
+  },
+  {
+    "word": "所长",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "director (de un instituto u oficina)",
+      "jefe (de una estación o dependencia)"
+    ],
+    "examples": [
+      {
+        "zh": "所长今天不在。",
+        "es": "El director no está hoy."
+      },
+      {
+        "zh": "他是我们的所长。",
+        "es": "Él es nuestro director."
+      },
+      {
+        "zh": "这位是研究所的所长。",
+        "es": "Él es el director del instituto de investigación."
+      },
+      {
+        "zh": "所长说明天下午要开一个重要的会议。",
+        "es": "El director dijo que mañana en la tarde habrá una reunión importante."
+      }
+    ]
+  },
+  {
+    "word": "收看",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ver (un programa de televisión)",
+      "sintonizar"
+    ],
+    "examples": [
+      {
+        "zh": "欢迎收看今天的新闻。",
+        "es": "Bienvenidos a las noticias de hoy."
+      },
+      {
+        "zh": "我每天晚上收看这个节目。",
+        "es": "Veo este programa todas las noches."
+      },
+      {
+        "zh": "很多人在家收看了这场比赛。",
+        "es": "Mucha gente vio este partido desde su casa."
+      },
+      {
+        "zh": "这个电视剧很有名，全国有几亿人收看。",
+        "es": "Esta serie es muy famosa; cientos de millones de personas en el país la ven."
+      }
+    ]
+  },
+  {
+    "word": "吵架",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pelear",
+      "discutir",
+      "pleito"
+    ],
+    "examples": [
+      {
+        "zh": "他们又吵架了。",
+        "es": "Volvieron a pelearse."
+      },
+      {
+        "zh": "别吵架了！",
+        "es": "¡Ya no se peleen!"
+      },
+      {
+        "zh": "我和哥哥小时候常常吵架。",
+        "es": "De niños, mi hermano mayor y yo nos peleábamos seguido."
+      },
+      {
+        "zh": "吵架解决不了问题，我们好好谈谈吧。",
+        "es": "Pelear no resuelve nada; hablemos con calma."
+      }
+    ]
+  },
+  {
+    "word": "旅行社",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "agencia de viajes"
+    ],
+    "examples": [
+      {
+        "zh": "我在旅行社工作。",
+        "es": "Trabajo en una agencia de viajes."
+      },
+      {
+        "zh": "这家旅行社很有名。",
+        "es": "Esta agencia de viajes es muy conocida."
+      },
+      {
+        "zh": "我们通过旅行社买了机票。",
+        "es": "Compramos los boletos de avión a través de una agencia de viajes."
+      },
+      {
+        "zh": "这家旅行社的服务很好，价格也不贵。",
+        "es": "Esta agencia de viajes da muy buen servicio y sus precios no son caros."
+      }
+    ]
+  },
+  {
+    "word": "武术",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "artes marciales",
+      "kung-fu"
+    ],
+    "examples": [
+      {
+        "zh": "他喜欢武术。",
+        "es": "Le gustan las artes marciales."
+      },
+      {
+        "zh": "武术是中国的传统文化。",
+        "es": "Las artes marciales son parte de la cultura tradicional china."
+      },
+      {
+        "zh": "我想去中国学习武术。",
+        "es": "Quiero ir a China a aprender artes marciales."
+      },
+      {
+        "zh": "他从小练习武术，身体非常健康。",
+        "es": "Practica artes marciales desde niño y tiene muy buena salud."
+      }
+    ]
+  },
+  {
+    "word": "搬家",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mudarse",
+      "mudanza"
+    ],
+    "examples": [
+      {
+        "zh": "他昨天搬家了。",
+        "es": "Se mudó ayer."
+      },
+      {
+        "zh": "我们下个月搬家。",
+        "es": "Nos mudamos el próximo mes."
+      },
+      {
+        "zh": "搬家很累，你需要帮忙吗？",
+        "es": "Mudarse cansa mucho, ¿necesitas ayuda?"
+      },
+      {
+        "zh": "因为工作，我们去年搬家了，现在住在上海。",
+        "es": "Por el trabajo nos mudamos el año pasado; ahora vivimos en Shanghái."
+      }
+    ]
+  },
+  {
+    "word": "全场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todos los presentes",
+      "todo el público",
+      "todo el partido",
+      "por unanimidad"
+    ],
+    "examples": [
+      {
+        "zh": "全场都笑了。",
+        "es": "Todos los presentes se rieron."
+      },
+      {
+        "zh": "全场观众都站了起来。",
+        "es": "Todo el público se puso de pie."
+      },
+      {
+        "zh": "他一说完，全场都安静了。",
+        "es": "En cuanto terminó de hablar, todo el lugar quedó en silencio."
+      },
+      {
+        "zh": "他在全场比赛中表现得非常好。",
+        "es": "Jugó muy bien durante todo el partido."
+      }
+    ]
+  },
+  {
+    "word": "动人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conmovedor",
+      "emotivo",
+      "encantador"
+    ],
+    "examples": [
+      {
+        "zh": "她笑得很动人。",
+        "es": "Tiene una sonrisa encantadora."
+      },
+      {
+        "zh": "她的声音非常动人。",
+        "es": "Su voz es muy conmovedora."
+      },
+      {
+        "zh": "这是一个很动人的爱情故事。",
+        "es": "Es una historia de amor muy conmovedora."
+      },
+      {
+        "zh": "这部电影讲了一个动人的故事，我看哭了。",
+        "es": "Esta película cuenta una historia conmovedora; lloré al verla."
+      }
+    ]
+  }
+]

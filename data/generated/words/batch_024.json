@@ -1,0 +1,537 @@
+[
+  {
+    "word": "党",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "partido (político)",
+      "asociación",
+      "grupo, bando"
+    ],
+    "examples": [
+      {
+        "zh": "这个党很大。",
+        "es": "Este partido es grande."
+      },
+      {
+        "zh": "你喜欢哪个党？",
+        "es": "¿Qué partido te gusta?"
+      },
+      {
+        "zh": "他去年参加了一个党。",
+        "es": "El año pasado se unió a un partido."
+      },
+      {
+        "zh": "这个党在国内有很多人支持。",
+        "es": "Este partido tiene mucho apoyo en el país."
+      }
+    ]
+  },
+  {
+    "word": "哥哥",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermano mayor"
+    ],
+    "examples": [
+      {
+        "zh": "我有一个哥哥。",
+        "es": "Tengo un hermano mayor."
+      },
+      {
+        "zh": "我哥哥是老师。",
+        "es": "Mi hermano mayor es maestro."
+      },
+      {
+        "zh": "哥哥今天回家吃饭。",
+        "es": "Hoy mi hermano mayor viene a comer a casa."
+      },
+      {
+        "zh": "我哥哥在北京的一家公司工作。",
+        "es": "Mi hermano mayor trabaja en una empresa en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "坏",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "malo",
+      "descompuesto, averiado",
+      "echado a perder",
+      "(sufijo) muchísimo, a más no poder"
+    ],
+    "examples": [
+      {
+        "zh": "他不是坏人。",
+        "es": "Él no es una mala persona."
+      },
+      {
+        "zh": "我的手机坏了。",
+        "es": "Mi celular se descompuso."
+      },
+      {
+        "zh": "这个东西坏了，不能吃。",
+        "es": "Esto se echó a perder, no se puede comer."
+      },
+      {
+        "zh": "听到这个新闻，妈妈高兴坏了。",
+        "es": "Al oír la noticia, mamá se puso contentísima."
+      }
+    ]
+  },
+  {
+    "word": "发",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enviar, mandar",
+      "repartir, entregar",
+      "publicar",
+      "desarrollarse"
+    ],
+    "examples": [
+      {
+        "zh": "请把资料发给我。",
+        "es": "Por favor, mándame los documentos."
+      },
+      {
+        "zh": "老师给学生发书。",
+        "es": "El maestro les reparte libros a los alumnos."
+      },
+      {
+        "zh": "公司今天给大家发钱了。",
+        "es": "Hoy la empresa les pagó a todos."
+      },
+      {
+        "zh": "他在网站上发了一些关于中国文化的内容。",
+        "es": "Publicó en el sitio web algunos contenidos sobre la cultura china."
+      }
+    ]
+  },
+  {
+    "word": "家人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "familia, familiares",
+      "miembro de la familia"
+    ],
+    "examples": [
+      {
+        "zh": "我爱我的家人。",
+        "es": "Quiero a mi familia."
+      },
+      {
+        "zh": "他的家人都在北京。",
+        "es": "Toda su familia está en Pekín."
+      },
+      {
+        "zh": "今天晚上我和家人一起吃饭。",
+        "es": "Esta noche voy a cenar con mi familia."
+      },
+      {
+        "zh": "他很少回家，家人都很想他。",
+        "es": "Casi nunca va a casa, y su familia lo extraña mucho."
+      }
+    ]
+  },
+  {
+    "word": "昨天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ayer"
+    ],
+    "examples": [
+      {
+        "zh": "昨天很热。",
+        "es": "Ayer hizo mucho calor."
+      },
+      {
+        "zh": "你昨天去哪里了？",
+        "es": "¿A dónde fuiste ayer?"
+      },
+      {
+        "zh": "我昨天在家里看电影。",
+        "es": "Ayer vi una película en casa."
+      },
+      {
+        "zh": "昨天下午我和朋友一起去医院看老师。",
+        "es": "Ayer por la tarde fui con un amigo al hospital a visitar al maestro."
+      }
+    ]
+  },
+  {
+    "word": "环境",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entorno, ambiente",
+      "medio ambiente",
+      "condiciones, circunstancias"
+    ],
+    "examples": [
+      {
+        "zh": "这里的环境很好。",
+        "es": "El ambiente aquí es muy bueno."
+      },
+      {
+        "zh": "新的工作环境怎么样？",
+        "es": "¿Qué tal el nuevo ambiente de trabajo?"
+      },
+      {
+        "zh": "孩子需要一个好的学习环境。",
+        "es": "Los niños necesitan un buen ambiente para estudiar."
+      },
+      {
+        "zh": "这个地区的经济发展很快，但环境问题也很多。",
+        "es": "La economía de esta región crece rápido, pero también tiene muchos problemas ambientales."
+      }
+    ]
+  },
+  {
+    "word": "名",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nombre",
+      "famoso, conocido",
+      "clasificador para personas",
+      "lugar, puesto (en una clasificación)"
+    ],
+    "examples": [
+      {
+        "zh": "他是一名老师。",
+        "es": "Él es maestro."
+      },
+      {
+        "zh": "这个地方很有名。",
+        "es": "Este lugar es muy famoso."
+      },
+      {
+        "zh": "这家医院有五十名医生。",
+        "es": "Este hospital tiene cincuenta médicos."
+      },
+      {
+        "zh": "在这次活动中，他得了第二名。",
+        "es": "En esta actividad, quedó en segundo lugar."
+      }
+    ]
+  },
+  {
+    "word": "口",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "boca",
+      "clasificador para miembros de una familia",
+      "bocado, sorbo",
+      "entrada, abertura"
+    ],
+    "examples": [
+      {
+        "zh": "他喝了一口水。",
+        "es": "Tomó un sorbo de agua."
+      },
+      {
+        "zh": "我们在门口见吧。",
+        "es": "Nos vemos en la entrada."
+      },
+      {
+        "zh": "你家有几口人？",
+        "es": "¿Cuántas personas hay en tu familia?"
+      },
+      {
+        "zh": "这个孩子吃了一口就不想吃了。",
+        "es": "El niño comió un bocado y ya no quiso comer más."
+      }
+    ]
+  },
+  {
+    "word": "完成",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "terminar, completar",
+      "cumplir, lograr"
+    ],
+    "examples": [
+      {
+        "zh": "工作完成了。",
+        "es": "El trabajo está terminado."
+      },
+      {
+        "zh": "你今天能完成吗？",
+        "es": "¿Puedes terminarlo hoy?"
+      },
+      {
+        "zh": "我今天必须完成这些工作。",
+        "es": "Hoy tengo que terminar este trabajo."
+      },
+      {
+        "zh": "这个计划需要两年时间才能完成。",
+        "es": "Este plan va a tardar dos años en completarse."
+      }
+    ]
+  },
+  {
+    "word": "同学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "compañero de clase",
+      "compañero de escuela",
+      "estudiar en la misma escuela"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的同学。",
+        "es": "Él es mi compañero de clase."
+      },
+      {
+        "zh": "同学们，请看这里。",
+        "es": "Chicos, miren aquí, por favor."
+      },
+      {
+        "zh": "我常和同学一起学习中文。",
+        "es": "Seguido estudio chino con mis compañeros."
+      },
+      {
+        "zh": "我们是小学同学，已经认识二十年了。",
+        "es": "Fuimos compañeros en la primaria y ya nos conocemos desde hace veinte años."
+      }
+    ]
+  },
+  {
+    "word": "一般",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "generalmente, por lo general",
+      "común, normal",
+      "regular, más o menos",
+      "igual, del mismo modo"
+    ],
+    "examples": [
+      {
+        "zh": "这个电影很一般。",
+        "es": "Esta película es más o menos."
+      },
+      {
+        "zh": "我一般在家吃饭。",
+        "es": "Por lo general como en casa."
+      },
+      {
+        "zh": "一般的人都不知道这个问题。",
+        "es": "La gente común no conoce este problema."
+      },
+      {
+        "zh": "我一般晚上十点以后才回家。",
+        "es": "Normalmente no llego a casa sino hasta después de las diez de la noche."
+      }
+    ]
+  },
+  {
+    "word": "小学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escuela primaria",
+      "primaria"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的小学。",
+        "es": "Esta es mi escuela primaria."
+      },
+      {
+        "zh": "我女儿今年上小学了。",
+        "es": "Mi hija entró a la primaria este año."
+      },
+      {
+        "zh": "他妈妈是小学老师。",
+        "es": "Su mamá es maestra de primaria."
+      },
+      {
+        "zh": "我们是在小学的时候认识的。",
+        "es": "Nos conocimos cuando íbamos en la primaria."
+      }
+    ]
+  },
+  {
+    "word": "网络",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "internet",
+      "red"
+    ],
+    "examples": [
+      {
+        "zh": "这里没有网络。",
+        "es": "Aquí no hay internet."
+      },
+      {
+        "zh": "今天的网络不太好。",
+        "es": "Hoy el internet no anda muy bien."
+      },
+      {
+        "zh": "我们可以通过网络学习中文。",
+        "es": "Podemos aprender chino por internet."
+      },
+      {
+        "zh": "现在很多人每天都要用网络工作和学习。",
+        "es": "Hoy en día mucha gente usa internet todos los días para trabajar y estudiar."
+      }
+    ]
+  },
+  {
+    "word": "早上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mañana (primeras horas del día)",
+      "temprano en la mañana"
+    ],
+    "examples": [
+      {
+        "zh": "早上好！",
+        "es": "¡Buenos días!"
+      },
+      {
+        "zh": "你早上几点起来？",
+        "es": "¿A qué hora te levantas en la mañana?"
+      },
+      {
+        "zh": "我每天早上走路去学校。",
+        "es": "Todas las mañanas voy caminando a la escuela."
+      },
+      {
+        "zh": "明天早上八点我们在机场见吧。",
+        "es": "Nos vemos mañana a las ocho de la mañana en el aeropuerto."
+      }
+    ]
+  },
+  {
+    "word": "达",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "alcanzar, lograr",
+      "llegar (a un lugar)",
+      "ascender a (una cantidad)",
+      "expresar, comunicar"
+    ],
+    "examples": [
+      {
+        "zh": "我们已经到达机场了。",
+        "es": "Ya llegamos al aeropuerto."
+      },
+      {
+        "zh": "这个会议长达五个小时。",
+        "es": "Esta reunión duró nada menos que cinco horas."
+      },
+      {
+        "zh": "他不太会表达自己的想法。",
+        "es": "No sabe expresar muy bien lo que piensa."
+      },
+      {
+        "zh": "这个城市的人口已经达到两千万。",
+        "es": "La población de esta ciudad ya llegó a veinte millones."
+      }
+    ]
+  },
+  {
+    "word": "保护",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "proteger",
+      "defender, resguardar",
+      "protección"
+    ],
+    "examples": [
+      {
+        "zh": "我会保护你。",
+        "es": "Yo te voy a proteger."
+      },
+      {
+        "zh": "我们要保护环境。",
+        "es": "Tenemos que proteger el medio ambiente."
+      },
+      {
+        "zh": "妈妈总是保护自己的孩子。",
+        "es": "Una mamá siempre protege a sus hijos."
+      },
+      {
+        "zh": "这个地区的历史文化需要大家一起保护。",
+        "es": "Todos debemos proteger juntos la historia y la cultura de esta región."
+      }
+    ]
+  },
+  {
+    "word": "考试",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "examen",
+      "presentar un examen"
+    ],
+    "examples": [
+      {
+        "zh": "明天有考试。",
+        "es": "Mañana hay examen."
+      },
+      {
+        "zh": "昨天的考试难不难？",
+        "es": "¿Estuvo difícil el examen de ayer?"
+      },
+      {
+        "zh": "我今天晚上要准备考试。",
+        "es": "Esta noche tengo que prepararme para el examen."
+      },
+      {
+        "zh": "这次考试很重要，我必须好好学习。",
+        "es": "Este examen es muy importante, tengo que estudiar bien."
+      }
+    ]
+  },
+  {
+    "word": "称",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "llamar, denominar",
+      "pesar",
+      "nombre, denominación",
+      "elogiar"
+    ],
+    "examples": [
+      {
+        "zh": "请帮我称一下这个。",
+        "es": "Por favor, pésame esto."
+      },
+      {
+        "zh": "大家都称他为老师。",
+        "es": "Todos lo llaman “maestro”."
+      },
+      {
+        "zh": "那个人称自己是记者。",
+        "es": "Esa persona dice ser periodista."
+      },
+      {
+        "zh": "这个地方被人们称为“小香港”。",
+        "es": "La gente llama a este lugar “el pequeño Hong Kong”."
+      }
+    ]
+  },
+  {
+    "word": "网上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en internet, en línea"
+    ],
+    "examples": [
+      {
+        "zh": "我在网上买书。",
+        "es": "Compro libros en internet."
+      },
+      {
+        "zh": "你常在网上看电影吗？",
+        "es": "¿Seguido ves películas en línea?"
+      },
+      {
+        "zh": "我在网上认识了一个外国朋友。",
+        "es": "Conocí a un amigo extranjero por internet."
+      },
+      {
+        "zh": "关于这个问题，网上有很多资料。",
+        "es": "Sobre este tema hay mucha información en internet."
+      }
+    ]
+  }
+]

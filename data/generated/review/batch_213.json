@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dde560ee9681f9e3c9aae3db6c9bd1dc505cfeba"
+  },
+  {
+    "id": "word:她们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c825d08cf72bd796d949c5a919315e725f76d51"
+  },
+  {
+    "id": "word:外国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c10058a67fef99566248000feaa1aa159db85d1b"
+  },
+  {
+    "id": "word:晚上",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente en 晚上好: aparece «wǎn shàng» con tono completo; debe ser «wǎn shang» (tono neutro), como en los demás ejemplos."
+    ],
+    "content_hash": "754b973d74566ae011c407bfd3e909f28f4373c8"
+  },
+  {
+    "id": "word:资料",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4cb7acaa35427d0dcefc43236aeb1f5d7559469a"
+  },
+  {
+    "id": "word:错",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba1a5f81ae7ce4d7096e941598e8ebe665e1c1ee"
+  },
+  {
+    "id": "word:电脑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c52dde0945cbc2114260ea79ccf7676017d7bf62"
+  },
+  {
+    "id": "word:成",
+    "ok": false,
+    "issues": [
+      "Pinyin de 做不成: en el complemento potencial 不 va en tono neutro («zuò bu chéng»), no «zuò bù chéng»."
+    ],
+    "content_hash": "8f08c7c6ad50f81d2fb0229c9ff731ecb882be01"
+  },
+  {
+    "id": "word:五",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9853e1f3c4f1c7af6e9d3f239a3b58572eb6882e"
+  },
+  {
+    "id": "word:不大",
+    "ok": false,
+    "issues": [
+      "El ejemplo 我们的学校不大 usa 不 + 大 en sentido literal («no es grande»), no la acepción adverbial de 不大 («no muy, casi no») que se está enseñando; confunde al estudiante."
+    ],
+    "content_hash": "f950f4d9e3a07864f1218d56839be8b2bfea9dd3"
+  },
+  {
+    "id": "word:关于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8ab7a11a1fdb4cb39f96b57d8ba99c43e738f6ed"
+  },
+  {
+    "id": "word:回到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5019c8cb8e0b792b9a0760a320cf34279d64c5f1"
+  },
+  {
+    "id": "word:重",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1920142921f27be1efcac771b7ce013469be9afc"
+  },
+  {
+    "id": "word:第二",
+    "ok": false,
+    "issues": [
+      "La traducción «Hasta la segunda vez que vi esta película entendí...» usa un regionalismo (México/Centroamérica); en otros países se entiende lo contrario. Mejor: «No fue sino hasta la segunda vez que vi esta película que entendí de qué trataba» o «Solo la segunda vez...»."
+    ],
+    "content_hash": "35e2e56ab1e8fad122aac5701f2994520d3fa491"
+  },
+  {
+    "id": "word:大家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "56b75e33a6aafb496f1db736dc69563d49f0a7f2"
+  },
+  {
+    "id": "word:运动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2f0e074abe106ea044f3be46f31731e5902fe0ee"
+  },
+  {
+    "id": "word:几",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91aeaeac3fef2d4b5f252bfaa0208e90fa9c75da"
+  },
+  {
+    "id": "word:国外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c78cee7e003517b0dd388d282c7c312ad32d9c0d"
+  },
+  {
+    "id": "word:建设",
+    "ok": false,
+    "issues": [
+      "«La construcción económica» es un calco poco natural en español; 经济建设 se traduce mejor como «el desarrollo económico»."
+    ],
+    "content_hash": "45148b5a11bfb535e824adc0feb13e517a372aa2"
+  },
+  {
+    "id": "word:新闻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6673d9e16a9f9cc37540c73c1e2c41cb47631cf3"
+  },
+  {
+    "id": "word:南",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b061515554c8da620f640ef77bc8e902b5f860bc"
+  },
+  {
+    "id": "word:读",
+    "ok": true,
+    "issues": [],
+    "content_hash": "72a2831c919c4d9cc7341089cc273f911e68b5e4"
+  },
+  {
+    "id": "word:工人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "531766c048d56fb3c120a18d204238c921fa5794"
+  },
+  {
+    "id": "word:参加",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aed0901aa43b78cfe231e6b75cac94491b70e60e"
+  },
+  {
+    "id": "word:电",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ffd8471210780459cf727c31e67357e073fd1a44"
+  }
+]

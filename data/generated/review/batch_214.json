@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:单位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "823bba71852ea807ff3b2e550969568e69832893"
+  },
+  {
+    "id": "word:道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ffc6004bc4f93d37632f7ae881d5c20349e869b"
+  },
+  {
+    "id": "word:有时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5e1f163d8c8e31b10f5dba943793cff49a1e2bc"
+  },
+  {
+    "id": "word:妈",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8c0eb07e8d8e080ff3c436cf9ea8bcd365fbd19"
+  },
+  {
+    "id": "word:会议",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7fdfd0d20c76efab5c5313eff226768f754b06f5"
+  },
+  {
+    "id": "word:建立",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc0360b58d75cd69db568824bb6811cb92032de7"
+  },
+  {
+    "id": "word:听到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9bcc07e5ecc1e4895f698a258fdc82d862fea8b3"
+  },
+  {
+    "id": "word:认真",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e13dee626269c016e73ce3a21435bb3e9f5ac86d"
+  },
+  {
+    "id": "word:完全",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4947371b7f6273c36f8b162b0cbda054b699ec89"
+  },
+  {
+    "id": "word:下午",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7f6388fc71336faf8aaedfda10bd76bcb830b12"
+  },
+  {
+    "id": "word:坐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53effd6a1372a42cd5d4e35e2c33f391b2a3fd96"
+  },
+  {
+    "id": "word:产品",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37ec546a7b2c92e5884a79594ec27e19a474c712"
+  },
+  {
+    "id": "word:即",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a180a82ce23c16ae7ecfe831b86ac7082f14a1e0"
+  },
+  {
+    "id": "word:打开",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «有三个妈妈打来的电话» es ambiguo, porque también puede leerse como «llamadas de tres mamás». Es más claro «有三个妈妈打来的未接电话» o «妈妈给他打了三个电话»."
+    ],
+    "content_hash": "b648f2ec59d08277a33474547449c5edf8deb19f"
+  },
+  {
+    "id": "word:高兴",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «他知道自己找到工作以后» suena poco natural, porque uno no «se entera» de que encontró trabajo. Es mejor «他知道自己被录用以后» o «听说自己找到了工作以后»."
+    ],
+    "content_hash": "8d6f402e82c452ae73bbe44423c4b6fa5818de62"
+  },
+  {
+    "id": "word:喝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f06be466bf2f99f69275e951459dd8e7aa224347"
+  },
+  {
+    "id": "word:中学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8c66c0bfc394bdc2466a1bdacbed989795749daa"
+  },
+  {
+    "id": "word:委员会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98e977fa3fa4b622772d5f25ef786955a4b23dda"
+  },
+  {
+    "id": "word:山",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27265525b1d7ca0a108695f2a6a7746d6977e77a"
+  },
+  {
+    "id": "word:那个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89797c704305495b79d1b9ede2f5f32f94f0b3cf"
+  },
+  {
+    "id": "word:记者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f6d9a676212e0ad1aa4f3977e73d5a4e7fc7d39"
+  },
+  {
+    "id": "word:家里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d54db50a879d339f9ee0b1d143d18d39500e4ace"
+  },
+  {
+    "id": "word:页",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b44cfcbeecd6204451a21462aa3cd18e847017c1"
+  },
+  {
+    "id": "word:领导",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «这个计划由王先生领导» es poco natural, porque 领导 suele llevar como objeto organizaciones, equipos o movimientos, no un 计划. Es mejor «这个项目由王先生负责/领导».",
+      "Ejemplo 3: 计划 significa «plan», no «proyecto». La traducción no es fiel."
+    ],
+    "content_hash": "5ec57b19ad6f46e5d1ca67011ac435f2d57ab2d8"
+  },
+  {
+    "id": "word:半",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aeb00a415cd83d401b5e4c9499951db797fc1945"
+  }
+]

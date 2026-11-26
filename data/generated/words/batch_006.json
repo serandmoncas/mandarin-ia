@@ -1,0 +1,539 @@
+[
+  {
+    "word": "事",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "asunto, cosa",
+      "trabajo, ocupación",
+      "problema, incidente"
+    ],
+    "examples": [
+      {
+        "zh": "我有事。",
+        "es": "Tengo algo que hacer."
+      },
+      {
+        "zh": "这是我的事。",
+        "es": "Esto es asunto mío."
+      },
+      {
+        "zh": "你有什么事吗？",
+        "es": "¿Necesitas algo?"
+      },
+      {
+        "zh": "这事我已经知道了，你不用再说了。",
+        "es": "Eso ya lo sé, no tienes que repetirlo."
+      }
+    ]
+  },
+  {
+    "word": "可",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pero, sin embargo",
+      "poder, ser posible",
+      "realmente, sí que (enfático)",
+      "aprobar, permitir"
+    ],
+    "examples": [
+      {
+        "zh": "你可来了！",
+        "es": "¡Por fin llegaste!"
+      },
+      {
+        "zh": "这个可好了！",
+        "es": "¡Esto está buenísimo!"
+      },
+      {
+        "zh": "我想去，可我没有时间。",
+        "es": "Quiero ir, pero no tengo tiempo."
+      },
+      {
+        "zh": "这个问题可不小，我们要快点做。",
+        "es": "Este problema no es nada pequeño; tenemos que actuar rápido."
+      }
+    ]
+  },
+  {
+    "word": "有的",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "algunos, algunas",
+      "hay quienes"
+    ],
+    "examples": [
+      {
+        "zh": "有的好，有的不好。",
+        "es": "Algunos son buenos y otros no."
+      },
+      {
+        "zh": "有的人不爱说话。",
+        "es": "Algunas personas no son muy habladoras."
+      },
+      {
+        "zh": "有的时候我很想家。",
+        "es": "A veces extraño mucho mi casa."
+      },
+      {
+        "zh": "公司里有的人想去中国，有的人想去美国。",
+        "es": "En la empresa, algunos quieren ir a China y otros a Estados Unidos."
+      }
+    ]
+  },
+  {
+    "word": "进行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "realizar, llevar a cabo",
+      "estar en curso",
+      "avanzar"
+    ],
+    "examples": [
+      {
+        "zh": "工作正在进行。",
+        "es": "El trabajo está en curso."
+      },
+      {
+        "zh": "他们在进行什么工作？",
+        "es": "¿Qué trabajo están realizando?"
+      },
+      {
+        "zh": "政府会对这个问题进行研究。",
+        "es": "El gobierno va a estudiar este problema."
+      },
+      {
+        "zh": "这个工作已经进行了三个月，还没有做完。",
+        "es": "Este trabajo lleva tres meses en curso y todavía no está terminado."
+      }
+    ]
+  },
+  {
+    "word": "比",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "más… que (comparación)",
+      "comparar",
+      "proporción",
+      "hacer gestos"
+    ],
+    "examples": [
+      {
+        "zh": "我比你大。",
+        "es": "Soy mayor que tú."
+      },
+      {
+        "zh": "他比我快。",
+        "es": "Él es más rápido que yo."
+      },
+      {
+        "zh": "你们比一比，看谁快。",
+        "es": "Compitan a ver quién es más rápido."
+      },
+      {
+        "zh": "现在的工作比以前的好多了。",
+        "es": "Mi trabajo actual es mucho mejor que el anterior."
+      }
+    ]
+  },
+  {
+    "word": "如果",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "si",
+      "en caso de que"
+    ],
+    "examples": [
+      {
+        "zh": "如果你想去，就去吧。",
+        "es": "Si quieres ir, ve."
+      },
+      {
+        "zh": "如果没有时间，就不要来了。",
+        "es": "Si no tienes tiempo, no vengas."
+      },
+      {
+        "zh": "如果你不知道，可以问我。",
+        "es": "Si no sabes, puedes preguntarme."
+      },
+      {
+        "zh": "如果明天不下雨，我们就去北京看看。",
+        "es": "Si mañana no llueve, vamos a ir a conocer Pekín."
+      }
+    ]
+  },
+  {
+    "word": "跟",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "con",
+      "seguir",
+      "y (entre sustantivos)",
+      "a (dirigido a alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "我跟你去。",
+        "es": "Voy contigo."
+      },
+      {
+        "zh": "你跟我来。",
+        "es": "Ven conmigo."
+      },
+      {
+        "zh": "他跟我说了这个问题。",
+        "es": "Él me habló de este problema."
+      },
+      {
+        "zh": "我想的跟你想的不一样，我们再说说吧。",
+        "es": "Lo que yo pienso no es igual a lo que piensas tú; hablémoslo otra vez."
+      }
+    ]
+  },
+  {
+    "word": "还有",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "además",
+      "todavía hay, quedan",
+      "y también"
+    ],
+    "examples": [
+      {
+        "zh": "还有吗？",
+        "es": "¿Hay más?"
+      },
+      {
+        "zh": "我还有一个问题。",
+        "es": "Tengo otra pregunta."
+      },
+      {
+        "zh": "还有三天就要开始工作了。",
+        "es": "Faltan tres días para empezar a trabajar."
+      },
+      {
+        "zh": "我爱看书，还有，我也很爱做饭。",
+        "es": "Me encanta leer y, además, también me encanta cocinar."
+      }
+    ]
+  },
+  {
+    "word": "该",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "deber, debería",
+      "tocarle (a alguien)",
+      "merecer",
+      "dicho, el mencionado"
+    ],
+    "examples": [
+      {
+        "zh": "该你了。",
+        "es": "Te toca."
+      },
+      {
+        "zh": "你该去了。",
+        "es": "Ya deberías irte."
+      },
+      {
+        "zh": "我们该怎么做？",
+        "es": "¿Qué deberíamos hacer?"
+      },
+      {
+        "zh": "时间不早了，我们该走了，明天还要工作。",
+        "es": "Ya es tarde, deberíamos irnos; mañana tenemos que trabajar."
+      }
+    ]
+  },
+  {
+    "word": "世界",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mundo"
+    ],
+    "examples": [
+      {
+        "zh": "世界很大。",
+        "es": "El mundo es muy grande."
+      },
+      {
+        "zh": "我想去看看世界。",
+        "es": "Quiero ir a conocer el mundo."
+      },
+      {
+        "zh": "这是世界上最好的工作。",
+        "es": "Este es el mejor trabajo del mundo."
+      },
+      {
+        "zh": "这个世界发展得很快，我们也要学新的东西。",
+        "es": "Este mundo avanza muy rápido; nosotros también tenemos que aprender cosas nuevas."
+      }
+    ]
+  },
+  {
+    "word": "请",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por favor",
+      "invitar",
+      "pedir, solicitar"
+    ],
+    "examples": [
+      {
+        "zh": "请进。",
+        "es": "Adelante, pase."
+      },
+      {
+        "zh": "请问，你是谁？",
+        "es": "Disculpe, ¿quién es usted?"
+      },
+      {
+        "zh": "我请你吃饭。",
+        "es": "Te invito a comer."
+      },
+      {
+        "zh": "他请我们明天去他家吃饭，你想去吗？",
+        "es": "Nos invitó a comer a su casa mañana, ¿quieres ir?"
+      }
+    ]
+  },
+  {
+    "word": "其",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "su, sus (formal)",
+      "ese, eso",
+      "ello, lo (refiriéndose a algo ya mencionado)"
+    ],
+    "examples": [
+      {
+        "zh": "这样做有其好处。",
+        "es": "Hacerlo así tiene sus ventajas."
+      },
+      {
+        "zh": "我们有三个问题，其中一个很大。",
+        "es": "Tenemos tres problemas y uno de ellos es grave."
+      },
+      {
+        "zh": "这个地方很小，政府想使其快点发展。",
+        "es": "Este lugar es pequeño; el gobierno quiere que se desarrolle más rápido."
+      },
+      {
+        "zh": "这家公司因其新的工作方法而很有名。",
+        "es": "Esta empresa es famosa por su nuevo método de trabajo."
+      }
+    ]
+  },
+  {
+    "word": "还是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "o (en preguntas)",
+      "todavía, aún",
+      "mejor (sería)",
+      "aun así"
+    ],
+    "examples": [
+      {
+        "zh": "你要这个还是那个？",
+        "es": "¿Quieres este o aquel?"
+      },
+      {
+        "zh": "他还是没有来。",
+        "es": "Él todavía no ha llegado."
+      },
+      {
+        "zh": "我们还是明天去吧。",
+        "es": "Mejor vamos mañana."
+      },
+      {
+        "zh": "我说了很多次，他还是不知道该怎么做。",
+        "es": "Se lo dije muchas veces y aun así no sabe qué hacer."
+      }
+    ]
+  },
+  {
+    "word": "日本",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Japón"
+    ],
+    "examples": [
+      {
+        "zh": "他是日本人。",
+        "es": "Él es japonés."
+      },
+      {
+        "zh": "我想去日本。",
+        "es": "Quiero ir a Japón."
+      },
+      {
+        "zh": "日本在中国的东边。",
+        "es": "Japón está al este de China."
+      },
+      {
+        "zh": "她在日本工作了三年，现在回中国了。",
+        "es": "Ella trabajó tres años en Japón y ahora volvió a China."
+      }
+    ]
+  },
+  {
+    "word": "呢",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿y…? (partícula interrogativa)",
+      "partícula que indica acción en curso",
+      "partícula de pausa o énfasis"
+    ],
+    "examples": [
+      {
+        "zh": "你呢？",
+        "es": "¿Y tú?"
+      },
+      {
+        "zh": "我的书呢？",
+        "es": "¿Y mi libro?"
+      },
+      {
+        "zh": "他还在工作呢。",
+        "es": "Él todavía está trabajando."
+      },
+      {
+        "zh": "我们都去，你为什么不想去呢？",
+        "es": "Todos vamos, ¿por qué tú no quieres ir?"
+      }
+    ]
+  },
+  {
+    "word": "计划",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "plan",
+      "planear, planificar",
+      "proyecto, programa"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的计划。",
+        "es": "Este es mi plan."
+      },
+      {
+        "zh": "你有什么计划？",
+        "es": "¿Qué planes tienes?"
+      },
+      {
+        "zh": "我计划明年去中国。",
+        "es": "Planeo ir a China el próximo año."
+      },
+      {
+        "zh": "公司的新计划从下个月开始进行。",
+        "es": "El nuevo plan de la empresa empieza a ejecutarse el próximo mes."
+      }
+    ]
+  },
+  {
+    "word": "一些",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "algunos, unos",
+      "un poco",
+      "algo más (tras un adjetivo)"
+    ],
+    "examples": [
+      {
+        "zh": "我有一些问题。",
+        "es": "Tengo algunas preguntas."
+      },
+      {
+        "zh": "给我一些时间。",
+        "es": "Dame un poco de tiempo."
+      },
+      {
+        "zh": "我今天好一些了。",
+        "es": "Hoy me siento un poco mejor."
+      },
+      {
+        "zh": "我想去中国认识一些新朋友。",
+        "es": "Quiero ir a China a conocer a algunos amigos nuevos."
+      }
+    ]
+  },
+  {
+    "word": "向",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hacia",
+      "a (dirigido a alguien)",
+      "mirar hacia, dar a",
+      "dirección"
+    ],
+    "examples": [
+      {
+        "zh": "向前看。",
+        "es": "Mira hacia adelante."
+      },
+      {
+        "zh": "他向我走来。",
+        "es": "Él caminó hacia mí."
+      },
+      {
+        "zh": "我们要向他学习。",
+        "es": "Debemos aprender de él."
+      },
+      {
+        "zh": "你们出门以后向北走，就能看到公司。",
+        "es": "Al salir, caminen hacia el norte y verán la empresa."
+      }
+    ]
+  },
+  {
+    "word": "只",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "solo, solamente",
+      "nada más que"
+    ],
+    "examples": [
+      {
+        "zh": "我只有一个。",
+        "es": "Solo tengo uno."
+      },
+      {
+        "zh": "我只想睡觉。",
+        "es": "Solo quiero dormir."
+      },
+      {
+        "zh": "这个地方只有三个人。",
+        "es": "En este lugar solo hay tres personas."
+      },
+      {
+        "zh": "我只知道他在北京工作，别的都不知道。",
+        "es": "Solo sé que trabaja en Pekín; de lo demás no sé nada."
+      }
+    ]
+  },
+  {
+    "word": "北京",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Pekín (Beijing)"
+    ],
+    "examples": [
+      {
+        "zh": "我在北京。",
+        "es": "Estoy en Pekín."
+      },
+      {
+        "zh": "北京很大。",
+        "es": "Pekín es muy grande."
+      },
+      {
+        "zh": "他明年要去北京工作。",
+        "es": "El próximo año él va a ir a trabajar a Pekín."
+      },
+      {
+        "zh": "北京的冬天很冷，你要多穿一点。",
+        "es": "El invierno en Pekín es muy frío; tienes que abrigarte bien."
+      }
+    ]
+  }
+]

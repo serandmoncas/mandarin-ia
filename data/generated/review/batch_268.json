@@ -1,0 +1,157 @@
+[
+  {
+    "id": "word:其",
+    "ok": false,
+    "issues": [
+      "En «政府想使其快点发展» se mezcla el registro formal de «使其» con el coloquial «快点»; suena poco natural. Mejor «使其加快发展» o «使其更快发展»."
+    ],
+    "content_hash": "40d197e736f49bc8a87fa1323fc9f2a9b1907db9"
+  },
+  {
+    "id": "word:只",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d74df4631422e056ca7737f4e3bc54b270de52a"
+  },
+  {
+    "id": "word:历史",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cdbcba8a0810e0fe1de04f06a61546ec3cff356f"
+  },
+  {
+    "id": "word:其他",
+    "ok": true,
+    "issues": [],
+    "content_hash": "17d13aed0ba0072ba8f6d6b26303f9adf95d23f3"
+  },
+  {
+    "id": "word:为什么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a8d541b99b0ea7f16e25f81d6c65cd6a8aacf9e7"
+  },
+  {
+    "id": "word:正在",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5bdb9d046886978724e6a3a5abdc2de561149e58"
+  },
+  {
+    "id": "word:其中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2432ed8faeb8d54158e4f11674a3824ecdd5c4f"
+  },
+  {
+    "id": "word:有些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b091bce216ba97eb6ac4007133eeb098ce1091a"
+  },
+  {
+    "id": "word:文化",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b76bd9c85a4e26dee82eab75add80aab6b1a6acf"
+  },
+  {
+    "id": "word:多少",
+    "ok": false,
+    "issues": [
+      "El significado «más o menos, algo» corresponde a la lectura duōshǎo (adverbio), no a la lectura interrogativa duōshao de esta entrada; no aparece en las glosas dadas.",
+      "El pinyin de los ejemplos (duō shǎo) no coincide con el de la entrada (duo1 shao5)."
+    ],
+    "content_hash": "840aa91e507cb7ee39a270ff40740ba2a394f36b"
+  },
+  {
+    "id": "word:那么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1065fd115b2807cf5d20972d6bc707519d5b9e4"
+  },
+  {
+    "id": "word:路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a1501b76be7d79742f302d418b6c3bd0b1e3eecd"
+  },
+  {
+    "id": "word:住",
+    "ok": true,
+    "issues": [],
+    "content_hash": "591fb488f9ddc5a96059c5a35aa09a69d11eae19"
+  },
+  {
+    "id": "word:别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5567a5bc70341494b030587f12f934605879529"
+  },
+  {
+    "id": "word:回",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dcdd6589c88aaea049637c6ec8daca6400063e58"
+  },
+  {
+    "id": "word:只是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a30e68f8f01f70e6d822489b95731487c86dd2b"
+  },
+  {
+    "id": "word:送",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f2174ab9cd9cea3ceafe24654b2e5a29ac1a411"
+  },
+  {
+    "id": "word:别人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c6448f7f4066591e154dbae6ca799e49757d494"
+  },
+  {
+    "id": "word:先生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8080f613f3d9f8133428f10e4b2fffc30b4669ab"
+  },
+  {
+    "id": "word:自",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a2a42193bf6c0e27563d5517ab4749b116d6ff17"
+  },
+  {
+    "id": "word:晚上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8d1bfa8966bb26859a8c43f989cbdfdd23a7cf23"
+  },
+  {
+    "id": "word:过去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c504e9395f526596a18ef291a7d7879e4837013"
+  },
+  {
+    "id": "word:包",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de016a5276d82b9aa0e6845f46beb014137f168e"
+  },
+  {
+    "id": "word:网友",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e8aa709599beb19e1917cb8a5b2f2d6f879bf56"
+  },
+  {
+    "id": "word:个人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba5e6c46db176275c49fc453c64fd0764b111d52"
+  }
+]

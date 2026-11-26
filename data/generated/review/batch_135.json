@@ -1,0 +1,155 @@
+[
+  {
+    "id": "char:礼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df61def93995df2e02b6e14e5fd17959b5861a5b"
+  },
+  {
+    "id": "char:播",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb629bb70d5f8be4da12926285d412c36bac2fa7"
+  },
+  {
+    "id": "char:油",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d64901a7c1a27ea8e1baa6ee08f65d78b3ca3f3d"
+  },
+  {
+    "id": "char:借",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c89a042fed74935160d5ad9043bf9f7596db3b2c"
+  },
+  {
+    "id": "char:墙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c28874ffe246ce3da68d5e4838dcecdb7ae36186"
+  },
+  {
+    "id": "char:养",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia no usa el componente 介 («intermediario, entre»). Ese componente queda sin conexión con la historia.",
+      "La parte inferior de 养 solo se parece aproximadamente a 介. Conviene aclarar que es una forma visual y no el carácter 介."
+    ],
+    "content_hash": "e6373b78503407e63507f6e43e65de129b594029"
+  },
+  {
+    "id": "char:吹",
+    "ok": true,
+    "issues": [],
+    "content_hash": "806c67e89cf0419a567795b075314ca00b019606"
+  },
+  {
+    "id": "char:访",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5b740c739247551af42655bbb1241ad42bbacfb4"
+  },
+  {
+    "id": "char:概",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e05417fb39232b71e1f0607411f8a04514123ec3"
+  },
+  {
+    "id": "char:念",
+    "ok": true,
+    "issues": [],
+    "content_hash": "00a70a34a6b2f764e35361dfe8adb073f67537b0"
+  },
+  {
+    "id": "char:急",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b30eea7d1ea1afbe5357314760f83e8ffe7b32e3"
+  },
+  {
+    "id": "char:套",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e7c039e748ffdc550f96fc2c9f0c66b5e03cc907"
+  },
+  {
+    "id": "char:末",
+    "ok": true,
+    "issues": [],
+    "content_hash": "142033905fbf6b3655707783f60c7f3f2a000978"
+  },
+  {
+    "id": "char:板",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7de89df8736f133713eb0089f5e5e26142eb1d6f"
+  },
+  {
+    "id": "char:丽",
+    "ok": true,
+    "issues": [],
+    "content_hash": "439989b1dc8d9c55cb57dfab102cdeee9b9ad925"
+  },
+  {
+    "id": "char:某",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a07b0fe8f08353b1ae5f22ed0571f0cca39aec78"
+  },
+  {
+    "id": "char:烈",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8886e7df794005f484183ff47e2ac7f593822c6a"
+  },
+  {
+    "id": "char:夏",
+    "ok": true,
+    "issues": [],
+    "content_hash": "db97ac58e52f2a0ac4da310ab9742a66baca4a5f"
+  },
+  {
+    "id": "char:味",
+    "ok": true,
+    "issues": [],
+    "content_hash": "334848b1ff0c20066414faad929bd5cc36c64bac"
+  },
+  {
+    "id": "char:温",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b3b8b93c0e1b6b528bb0a6c441c4e1db1d926f04"
+  },
+  {
+    "id": "char:句",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cba7fda15a4549b8491e06fad7c54e4861ade5a1"
+  },
+  {
+    "id": "char:蓝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9d4e8af4919cdb1d17c5c780a7606970140f510"
+  },
+  {
+    "id": "char:光",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e62d5629a3cdb6abb7c468b9a6eac065c7efad1"
+  },
+  {
+    "id": "char:害",
+    "ok": true,
+    "issues": [],
+    "content_hash": "78f5a318a854f3925083bf6d686293664b4fcc45"
+  },
+  {
+    "id": "char:优",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aaa866eb9e7001af2142b4ccf70c1cabb9e65b41"
+  }
+]

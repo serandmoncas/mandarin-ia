@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:大学生",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2 el pinyin dice «dà xué sheng» con tono neutro. En 大学生 la forma estándar es «dà xué shēng», que es la que usan los demás ejemplos."
+    ],
+    "content_hash": "1d9bb176ada0101954df11dd0f75d7da07677ae7"
+  },
+  {
+    "id": "word:战争",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e81b0926362b954414395a2e0c6124ef608a7504"
+  },
+  {
+    "id": "word:英国",
+    "ok": false,
+    "issues": [
+      "«Inglaterra» no equivale exactamente a 英国 (Reino Unido); Inglaterra es 英格兰. Conviene quitarlo o aclarar que es un uso coloquial e impreciso."
+    ],
+    "content_hash": "5f040e86b7dace6856e187a500650b4c12a61f5d"
+  },
+  {
+    "id": "word:方法",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 2 la traducción «¿Tienes alguna buena idea para hacerlo?» no es fiel: «idea» no corresponde a 方法 y «para hacerlo» está añadido. Mejor: «¿Tienes algún buen método?»",
+      "En el ejemplo 4 el pinyin de 告诉 suele ser «gào su», con tono neutro, no «gào sù»."
+    ],
+    "content_hash": "0fef9bfb74144060354a3198f8e695022f104e7f"
+  },
+  {
+    "id": "word:女生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6bb40cca8dbcc57d56723b5a15e2da8613dddc30"
+  },
+  {
+    "id": "word:进来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0c271b51ac2d792b6c3f16433cda7ed065a27a8"
+  },
+  {
+    "id": "word:各",
+    "ok": true,
+    "issues": [],
+    "content_hash": "db679e8550fc99f6a005b44d718d993aa3d66534"
+  },
+  {
+    "id": "word:歌",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c7d4019718939bd665d2c97ecf695447dc958d0"
+  },
+  {
+    "id": "word:接受",
+    "ok": true,
+    "issues": [],
+    "content_hash": "42918c748098dcb79437ac98a6334af5dd552ee0"
+  },
+  {
+    "id": "word:科技",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6590b5bb1159231bc9bb258338f15a50cc4ec88d"
+  },
+  {
+    "id": "word:九",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7edc7ae255b1004b9c5cec7091dcb7737e6fc65e"
+  },
+  {
+    "id": "word:哪些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "366b02eeedd19aeeeb4dd9a9b7bc92c765ecc121"
+  },
+  {
+    "id": "word:星期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7657cc43c044e5ba564ded140fd3b7d258ade06a"
+  },
+  {
+    "id": "word:政策",
+    "ok": true,
+    "issues": [],
+    "content_hash": "08ca1b7636f1e01af3b669ec652e240c23b159c1"
+  },
+  {
+    "id": "word:一半",
+    "ok": true,
+    "issues": [],
+    "content_hash": "05adcb35acbb4b85a50ae6c9189bec278d9a1103"
+  },
+  {
+    "id": "word:时期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b91fd22df49403c48f8d2c9eea0135e8041c97d"
+  },
+  {
+    "id": "word:项目",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1db5458bd803312b09e001759c58fa7099e322cb"
+  },
+  {
+    "id": "word:常常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "00b0799d424c952ca2763a33dbef6c8cf9e09329"
+  },
+  {
+    "id": "word:好看",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3e5be8762f5da79ae75f9c1486b8c988750d750"
+  },
+  {
+    "id": "word:故事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "290af042f4082e1d5c3ed6752562e90a82d48993"
+  },
+  {
+    "id": "word:十",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b741a0394e36110ef4d66840002844b39e6b702"
+  },
+  {
+    "id": "word:晚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5405c09607da1423c8847c7b7d5469c744c97646"
+  },
+  {
+    "id": "word:八",
+    "ok": true,
+    "issues": [],
+    "content_hash": "78a671ffca7dfcda1ea665ec9c10e599fde4dcc9"
+  },
+  {
+    "id": "word:省",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7858a2a7a26ebf7f9fb76c0c61a24a1d0c57998e"
+  },
+  {
+    "id": "word:网",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c180cea968ddefec86578c9681ea31f099798408"
+  }
+]

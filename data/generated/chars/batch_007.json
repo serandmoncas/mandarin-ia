@@ -1,0 +1,398 @@
+[
+  {
+    "char": "买",
+    "components": [
+      {
+        "char": "乛",
+        "meaning_es": "gancho"
+      },
+      {
+        "char": "头",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "Imagina que en el mercado enganchas una bolsa y te la pones sobre la cabeza para llevártela: ¡ya la compraste!"
+  },
+  {
+    "char": "正",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno; línea"
+      },
+      {
+        "char": "止",
+        "meaning_es": "detenerse"
+      }
+    ],
+    "mnemonic_es": "Imagina un pie que se detiene justo en la línea, sin pasarse: eso es lo correcto, lo recto."
+  },
+  {
+    "char": "长",
+    "components": [
+      {
+        "char": "长",
+        "meaning_es": "largo; crecer"
+      }
+    ],
+    "mnemonic_es": "Ve el carácter como una melena larguísima que se mueve con el viento: el cabello crece y crece hasta ser muy largo."
+  },
+  {
+    "char": "包",
+    "components": [
+      {
+        "char": "勹",
+        "meaning_es": "envolver"
+      },
+      {
+        "char": "巳",
+        "meaning_es": "serpiente; algo enroscado"
+      }
+    ],
+    "mnemonic_es": "Imagina una serpiente enroscada que envuelves con cuidado en una bolsa para que no se escape: así se hace un paquete."
+  },
+  {
+    "char": "括",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "舌",
+        "meaning_es": "lengua"
+      }
+    ],
+    "mnemonic_es": "Imagina que con la mano y con la lengua juntas abarcas todo lo que hay en el plato: nada queda fuera, todo está incluido."
+  },
+  {
+    "char": "干",
+    "components": [
+      {
+        "char": "干",
+        "meaning_es": "seco; hacer, trabajar"
+      }
+    ],
+    "mnemonic_es": "Ve el carácter como una horquilla clavada en la tierra seca: con ella hay que ponerse a trabajar."
+  },
+  {
+    "char": "找",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "戈",
+        "meaning_es": "lanza, alabarda"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien que, lanza en mano, aparta los arbustos uno por uno: está buscando algo."
+  },
+  {
+    "char": "您",
+    "components": [
+      {
+        "char": "你",
+        "meaning_es": "tú"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Cuando le hablas a alguien con todo el corazón y respeto, el «tú» se convierte en «usted»."
+  },
+  {
+    "char": "决",
+    "components": [
+      {
+        "char": "冫",
+        "meaning_es": "hielo"
+      },
+      {
+        "char": "夬",
+        "meaning_es": "partir, separar"
+      }
+    ],
+    "mnemonic_es": "Imagina que partes el hielo de un solo golpe: ya no hay vuelta atrás, la decisión está tomada."
+  },
+  {
+    "char": "定",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "正",
+        "meaning_es": "correcto, recto (en forma modificada)"
+      }
+    ],
+    "mnemonic_es": "Cuando todo está en su lugar correcto bajo tu techo, las cosas quedan fijas y decididas."
+  },
+  {
+    "char": "全",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "王",
+        "meaning_es": "rey"
+      }
+    ],
+    "mnemonic_es": "Imagina a un rey bajo un gran techo que reúne a todas las personas del reino: están completos, no falta nadie."
+  },
+  {
+    "char": "何",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "可",
+        "meaning_es": "poder, ser posible"
+      }
+    ],
+    "mnemonic_es": "Una persona se para frente a algo y pregunta: «¿Es posible? ¿Qué es esto?»."
+  },
+  {
+    "char": "准",
+    "components": [
+      {
+        "char": "冫",
+        "meaning_es": "hielo"
+      },
+      {
+        "char": "隹",
+        "meaning_es": "pájaro"
+      }
+    ],
+    "mnemonic_es": "Imagina un pájaro que aterriza sobre el hielo sin resbalar: necesita mucha precisión para hacerlo bien."
+  },
+  {
+    "char": "备",
+    "components": [
+      {
+        "char": "夂",
+        "meaning_es": "pie que avanza; llegar"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      }
+    ],
+    "mnemonic_es": "Imagina a un campesino que llega temprano al campo para dejar todo listo antes de sembrar: se está preparando."
+  },
+  {
+    "char": "哪",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "那",
+        "meaning_es": "aquel, ese"
+      }
+    ],
+    "mnemonic_es": "Con la boca señalas varias cosas y preguntas: «¿Aquel? ¿Cuál de esos?»."
+  },
+  {
+    "char": "女",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      }
+    ],
+    "mnemonic_es": "Ve el carácter como una mujer sentada con las piernas cruzadas y los brazos extendidos con elegancia."
+  },
+  {
+    "char": "习",
+    "components": [
+      {
+        "char": "习",
+        "meaning_es": "practicar, estudiar"
+      }
+    ],
+    "mnemonic_es": "Imagina el carácter como una pequeña ala que se agita una y otra vez: un pajarito practicando para aprender a volar."
+  },
+  {
+    "char": "次",
+    "components": [
+      {
+        "char": "冫",
+        "meaning_es": "hielo"
+      },
+      {
+        "char": "欠",
+        "meaning_es": "bostezar; faltar"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien que bosteza frente al hielo una vez, y otra vez, y otra vez más: cuenta cuántas veces pasa."
+  },
+  {
+    "char": "老",
+    "components": [
+      {
+        "char": "耂",
+        "meaning_es": "anciano (forma superior)"
+      },
+      {
+        "char": "匕",
+        "meaning_es": "cuchara; persona encorvada"
+      }
+    ],
+    "mnemonic_es": "Imagina a un anciano de barba larga, encorvado y apoyado en su bastón: alguien viejo y lleno de experiencia."
+  },
+  {
+    "char": "企",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "止",
+        "meaning_es": "detenerse; pie"
+      }
+    ],
+    "mnemonic_es": "Imagina a una persona parada en puntas de pie mirando lejos: tiene grandes planes, como quien funda una empresa."
+  },
+  {
+    "char": "业",
+    "components": [
+      {
+        "char": "业",
+        "meaning_es": "industria, oficio, negocio"
+      }
+    ],
+    "mnemonic_es": "Ve el carácter como varias columnas firmes sobre una base: la estructura sólida de una fábrica o de un negocio."
+  },
+  {
+    "char": "识",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "只",
+        "meaning_es": "solo, únicamente"
+      }
+    ],
+    "mnemonic_es": "Con solo escuchar unas palabras, ya reconoces a la persona: la conoces."
+  },
+  {
+    "char": "响",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "向",
+        "meaning_es": "hacia, en dirección a"
+      }
+    ],
+    "mnemonic_es": "Imagina una boca que grita hacia el otro lado del valle: el sonido resuena fuerte y vuelve como eco."
+  },
+  {
+    "char": "文",
+    "components": [
+      {
+        "char": "文",
+        "meaning_es": "escritura, cultura"
+      }
+    ],
+    "mnemonic_es": "Ve el carácter como una persona con dibujos cruzados en el pecho: las marcas y la escritura son la base de la cultura."
+  },
+  {
+    "char": "化",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "匕",
+        "meaning_es": "cuchara; persona caída"
+      }
+    ],
+    "mnemonic_es": "Una persona de pie al lado de otra que está al revés: algo se ha transformado, ha cambiado."
+  },
+  {
+    "char": "外",
+    "components": [
+      {
+        "char": "夕",
+        "meaning_es": "atardecer"
+      },
+      {
+        "char": "卜",
+        "meaning_es": "adivinar"
+      }
+    ],
+    "mnemonic_es": "Imagina a un adivino que, al atardecer, sale a leer el cielo: para eso tiene que estar afuera."
+  },
+  {
+    "char": "则",
+    "components": [
+      {
+        "char": "贝",
+        "meaning_es": "concha; dinero"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Imagina que el dinero se reparte con un cuchillo en partes exactas: hay reglas claras que se deben seguir."
+  },
+  {
+    "char": "技",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "支",
+        "meaning_es": "rama; sostener"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien que con la mano talla una rama hasta convertirla en una obra perfecta: eso es tener habilidad."
+  },
+  {
+    "char": "术",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "丶",
+        "meaning_es": "punto"
+      }
+    ],
+    "mnemonic_es": "Imagina a un carpintero que sabe exactamente en qué punto del árbol cortar: domina la técnica, es todo un arte."
+  },
+  {
+    "char": "少",
+    "components": [
+      {
+        "char": "小",
+        "meaning_es": "pequeño"
+      },
+      {
+        "char": "丿",
+        "meaning_es": "trazo inclinado"
+      }
+    ],
+    "mnemonic_es": "Imagina algo pequeño al que todavía le quitan un pedazo con un corte inclinado: queda poquito."
+  }
+]

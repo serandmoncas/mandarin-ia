@@ -1,0 +1,422 @@
+[
+  {
+    "word": "回去",
+    "examples": [
+      {
+        "zh": "我要回去了。",
+        "pinyin": "wo3 yao4 hui2 qu4 le5"
+      },
+      {
+        "zh": "你什么时候回去？",
+        "pinyin": "ni3 shen2 me5 shi2 hou5 hui2 qu4"
+      },
+      {
+        "zh": "太晚了，我们回去吧。",
+        "pinyin": "tai4 wan3 le5 wo3 men5 hui2 qu4 ba5"
+      },
+      {
+        "zh": "他想回去看看妈妈，但是没有时间。",
+        "pinyin": "ta1 xiang3 hui2 qu4 kan4 kan5 ma1 ma5 dan4 shi4 mei2 you3 shi2 jian1"
+      }
+    ]
+  },
+  {
+    "word": "规定",
+    "examples": [
+      {
+        "zh": "这是学校的规定。",
+        "pinyin": "zhe4 shi4 xue2 xiao4 de5 gui1 ding4"
+      },
+      {
+        "zh": "公司规定九点开始工作。",
+        "pinyin": "gong1 si1 gui1 ding4 jiu3 dian3 kai1 shi3 gong1 zuo4"
+      },
+      {
+        "zh": "根据规定，学生不能在房间里吃东西。",
+        "pinyin": "gen1 ju4 gui1 ding4 xue2 sheng5 bu4 neng2 zai4 fang2 jian1 li3 chi1 dong1 xi5"
+      },
+      {
+        "zh": "医院规定晚上八点以后不能进去看病人。",
+        "pinyin": "yi1 yuan4 gui1 ding4 wan3 shang5 ba1 dian3 yi3 hou4 bu4 neng2 jin4 qu4 kan4 bing4 ren2"
+      }
+    ]
+  },
+  {
+    "word": "弟弟",
+    "examples": [
+      {
+        "zh": "我有一个弟弟。",
+        "pinyin": "wo3 you3 yi1 ge4 di4 di5"
+      },
+      {
+        "zh": "我弟弟今年八岁。",
+        "pinyin": "wo3 di4 di5 jin1 nian2 ba1 sui4"
+      },
+      {
+        "zh": "弟弟喜欢跟哥哥一起玩游戏。",
+        "pinyin": "di4 di5 xi3 huan5 gen1 ge1 ge5 yi1 qi3 wan2 you2 xi4"
+      },
+      {
+        "zh": "妈妈让我送弟弟去学校，因为她很忙。",
+        "pinyin": "ma1 ma5 rang4 wo3 song4 di4 di5 qu4 xue2 xiao4 yin1 wei4 ta1 hen3 mang2"
+      }
+    ]
+  },
+  {
+    "word": "饭",
+    "examples": [
+      {
+        "zh": "饭好了吗？",
+        "pinyin": "fan4 hao3 le5 ma5"
+      },
+      {
+        "zh": "我们一起吃晚饭吧。",
+        "pinyin": "wo3 men5 yi1 qi3 chi1 wan3 fan4 ba5"
+      },
+      {
+        "zh": "妈妈做的饭很好吃。",
+        "pinyin": "ma1 ma5 zuo4 de5 fan4 hen3 hao3 chi1"
+      },
+      {
+        "zh": "我今天太忙了，到现在还没吃午饭。",
+        "pinyin": "wo3 jin1 tian1 tai4 mang2 le5 dao4 xian4 zai4 hai2 mei2 chi1 wu3 fan4"
+      }
+    ]
+  },
+  {
+    "word": "唱",
+    "examples": [
+      {
+        "zh": "她在唱歌。",
+        "pinyin": "ta1 zai4 chang4 ge1"
+      },
+      {
+        "zh": "你会唱中文歌吗？",
+        "pinyin": "ni3 hui4 chang4 zhong1 wen2 ge1 ma5"
+      },
+      {
+        "zh": "孩子们唱得很好。",
+        "pinyin": "hai2 zi5 men5 chang4 de5 hen3 hao3"
+      },
+      {
+        "zh": "她每天晚上都在房间里唱歌，唱得非常好听。",
+        "pinyin": "ta1 mei3 tian1 wan3 shang5 dou1 zai4 fang2 jian1 li3 chang4 ge1 chang4 de5 fei1 chang2 hao3 ting1"
+      }
+    ]
+  },
+  {
+    "word": "旁边",
+    "examples": [
+      {
+        "zh": "我坐在你旁边。",
+        "pinyin": "wo3 zuo4 zai4 ni3 pang2 bian1"
+      },
+      {
+        "zh": "医院在学校旁边。",
+        "pinyin": "yi1 yuan4 zai4 xue2 xiao4 pang2 bian1"
+      },
+      {
+        "zh": "我家旁边有一个很大的市场。",
+        "pinyin": "wo3 jia1 pang2 bian1 you3 yi1 ge4 hen3 da4 de5 shi4 chang3"
+      },
+      {
+        "zh": "站在老师旁边的那个人是我哥哥。",
+        "pinyin": "zhan4 zai4 lao3 shi1 pang2 bian1 de5 na4 ge4 ren2 shi4 wo3 ge1 ge5"
+      }
+    ]
+  },
+  {
+    "word": "打电话",
+    "examples": [
+      {
+        "zh": "我给你打电话。",
+        "pinyin": "wo3 gei3 ni3 da3 dian4 hua4"
+      },
+      {
+        "zh": "晚上给我打电话吧。",
+        "pinyin": "wan3 shang5 gei3 wo3 da3 dian4 hua4 ba5"
+      },
+      {
+        "zh": "她正在跟妈妈打电话。",
+        "pinyin": "ta1 zheng4 zai4 gen1 ma1 ma5 da3 dian4 hua4"
+      },
+      {
+        "zh": "我昨天打电话给他，但是他一直没接。",
+        "pinyin": "wo3 zuo2 tian1 da3 dian4 hua4 gei3 ta1 dan4 shi4 ta1 yi1 zhi2 mei2 jie1"
+      }
+    ]
+  },
+  {
+    "word": "经",
+    "examples": [
+      {
+        "zh": "他每天早上读经。",
+        "pinyin": "ta1 mei3 tian1 zao3 shang5 du2 jing1"
+      },
+      {
+        "zh": "经朋友介绍，我认识了她。",
+        "pinyin": "jing1 peng2 you5 jie4 shao4 wo3 ren4 shi5 le5 ta1"
+      },
+      {
+        "zh": "经他这么一说，我才明白。",
+        "pinyin": "jing1 ta1 zhe4 me5 yi1 shuo1 wo3 cai2 ming2 bai5"
+      },
+      {
+        "zh": "经研究，公司决定改变这个计划。",
+        "pinyin": "jing1 yan2 jiu1 gong1 si1 jue2 ding4 gai3 bian4 zhe4 ge4 ji4 hua4"
+      }
+    ]
+  },
+  {
+    "word": "对不起",
+    "examples": [
+      {
+        "zh": "对不起，我来晚了。",
+        "pinyin": "dui4 bu5 qi3 wo3 lai2 wan3 le5"
+      },
+      {
+        "zh": "对不起，请问机场怎么走？",
+        "pinyin": "dui4 bu5 qi3 qing3 wen4 ji1 chang3 zen3 me5 zou3"
+      },
+      {
+        "zh": "对不起，我忘记你的生日了。",
+        "pinyin": "dui4 bu5 qi3 wo3 wang4 ji4 ni3 de5 sheng1 ri4 le5"
+      },
+      {
+        "zh": "我觉得对不起妈妈，因为我没有好好学习。",
+        "pinyin": "wo3 jue2 de5 dui4 bu5 qi3 ma1 ma5 yin1 wei4 wo3 mei2 you3 hao3 hao3 xue2 xi2"
+      }
+    ]
+  },
+  {
+    "word": "听见",
+    "examples": [
+      {
+        "zh": "你听见了吗？",
+        "pinyin": "ni3 ting1 jian4 le5 ma5"
+      },
+      {
+        "zh": "我听见有人叫我。",
+        "pinyin": "wo3 ting1 jian4 you3 ren2 jiao4 wo3"
+      },
+      {
+        "zh": "对不起，我没听见你说什么。",
+        "pinyin": "dui4 bu5 qi3 wo3 mei2 ting1 jian4 ni3 shuo1 shen2 me5"
+      },
+      {
+        "zh": "晚上睡觉的时候，我听见外面有人在唱歌。",
+        "pinyin": "wan3 shang5 shui4 jiao4 de5 shi2 hou5 wo3 ting1 jian4 wai4 mian4 you3 ren2 zai4 chang4 ge1"
+      }
+    ]
+  },
+  {
+    "word": "干净",
+    "examples": [
+      {
+        "zh": "这个房间很干净。",
+        "pinyin": "zhe4 ge4 fang2 jian1 hen3 gan1 jing4"
+      },
+      {
+        "zh": "吃饭前先把手洗干净。",
+        "pinyin": "chi1 fan4 qian2 xian1 ba3 shou3 xi3 gan1 jing4"
+      },
+      {
+        "zh": "这里的水不干净，不能喝。",
+        "pinyin": "zhe4 li3 de5 shui3 bu4 gan1 jing4 bu4 neng2 he1"
+      },
+      {
+        "zh": "她把衣服洗得很干净，像新的一样。",
+        "pinyin": "ta1 ba3 yi1 fu5 xi3 de5 hen3 gan1 jing4 xiang4 xin1 de5 yi1 yang4"
+      }
+    ]
+  },
+  {
+    "word": "在家",
+    "examples": [
+      {
+        "zh": "我今天在家。",
+        "pinyin": "wo3 jin1 tian1 zai4 jia1"
+      },
+      {
+        "zh": "你妈妈在家吗？",
+        "pinyin": "ni3 ma1 ma5 zai4 jia1 ma5"
+      },
+      {
+        "zh": "星期天我常常在家休息。",
+        "pinyin": "xing1 qi1 tian1 wo3 chang2 chang2 zai4 jia1 xiu1 xi5"
+      },
+      {
+        "zh": "现在很多人可以在家工作，不用去公司。",
+        "pinyin": "xian4 zai4 hen3 duo1 ren2 ke3 yi3 zai4 jia1 gong1 zuo4 bu4 yong4 qu4 gong1 si1"
+      }
+    ]
+  },
+  {
+    "word": "地上",
+    "examples": [
+      {
+        "zh": "书在地上。",
+        "pinyin": "shu1 zai4 di4 shang5"
+      },
+      {
+        "zh": "别坐在地上。",
+        "pinyin": "bie2 zuo4 zai4 di4 shang5"
+      },
+      {
+        "zh": "孩子把衣服放在地上了。",
+        "pinyin": "hai2 zi5 ba3 yi1 fu5 fang4 zai4 di4 shang5 le5"
+      },
+      {
+        "zh": "地上不太干净，我们去那里坐吧。",
+        "pinyin": "di4 shang5 bu4 tai4 gan1 jing4 wo3 men5 qu4 na4 li3 zuo4 ba5"
+      }
+    ]
+  },
+  {
+    "word": "美",
+    "examples": [
+      {
+        "zh": "这里真美！",
+        "pinyin": "zhe4 li3 zhen1 mei3"
+      },
+      {
+        "zh": "她长得很美。",
+        "pinyin": "ta1 zhang3 de5 hen3 mei3"
+      },
+      {
+        "zh": "这个城市晚上特别美。",
+        "pinyin": "zhe4 ge4 cheng2 shi4 wan3 shang5 te4 bie2 mei3"
+      },
+      {
+        "zh": "这张照片拍得太美了，可以送给我吗？",
+        "pinyin": "zhe4 zhang1 zhao4 pian4 pai1 de5 tai4 mei3 le5 ke3 yi3 song4 gei3 wo3 ma5"
+      }
+    ]
+  },
+  {
+    "word": "慢",
+    "examples": [
+      {
+        "zh": "请慢一点。",
+        "pinyin": "qing3 man4 yi1 dian3"
+      },
+      {
+        "zh": "他走得很慢。",
+        "pinyin": "ta1 zou3 de5 hen3 man4"
+      },
+      {
+        "zh": "我的电脑太慢了，我想买新的。",
+        "pinyin": "wo3 de5 dian4 nao3 tai4 man4 le5 wo3 xiang3 mai3 xin1 de5"
+      },
+      {
+        "zh": "你说得太快了，可以说慢一点吗？",
+        "pinyin": "ni3 shuo1 de5 tai4 kuai4 le5 ke3 yi3 shuo1 man4 yi1 dian3 ma5"
+      }
+    ]
+  },
+  {
+    "word": "其实",
+    "examples": [
+      {
+        "zh": "其实我不知道。",
+        "pinyin": "qi2 shi2 wo3 bu4 zhi1 dao5"
+      },
+      {
+        "zh": "其实他是我哥哥。",
+        "pinyin": "qi2 shi2 ta1 shi4 wo3 ge1 ge5"
+      },
+      {
+        "zh": "这个问题其实不难。",
+        "pinyin": "zhe4 ge4 wen4 ti2 qi2 shi2 bu4 nan2"
+      },
+      {
+        "zh": "很多人觉得中文很难，其实也没那么难。",
+        "pinyin": "hen3 duo1 ren2 jue2 de5 zhong1 wen2 hen3 nan2 qi2 shi2 ye3 mei2 na4 me5 nan2"
+      }
+    ]
+  },
+  {
+    "word": "菜",
+    "examples": [
+      {
+        "zh": "我喜欢吃中国菜。",
+        "pinyin": "wo3 xi3 huan5 chi1 zhong1 guo2 cai4"
+      },
+      {
+        "zh": "这个菜太好吃了！",
+        "pinyin": "zhe4 ge4 cai4 tai4 hao3 chi1 le5"
+      },
+      {
+        "zh": "妈妈每天都去市场买菜。",
+        "pinyin": "ma1 ma5 mei3 tian1 dou1 qu4 shi4 chang3 mai3 cai4"
+      },
+      {
+        "zh": "今天晚上我做了几个菜，请朋友来吃饭。",
+        "pinyin": "jin1 tian1 wan3 shang5 wo3 zuo4 le5 ji3 ge4 cai4 qing3 peng2 you5 lai2 chi1 fan4"
+      }
+    ]
+  },
+  {
+    "word": "茶",
+    "examples": [
+      {
+        "zh": "我喜欢喝茶。",
+        "pinyin": "wo3 xi3 huan5 he1 cha2"
+      },
+      {
+        "zh": "请喝杯茶。",
+        "pinyin": "qing3 he1 bei1 cha2"
+      },
+      {
+        "zh": "你想喝茶还是喝水？",
+        "pinyin": "ni3 xiang3 he1 cha2 hai2 shi4 he1 shui3"
+      },
+      {
+        "zh": "中国的茶文化已经有很长的历史了。",
+        "pinyin": "zhong1 guo2 de5 cha2 wen2 hua4 yi3 jing1 you3 hen3 chang2 de5 li4 shi3 le5"
+      }
+    ]
+  },
+  {
+    "word": "行为",
+    "examples": [
+      {
+        "zh": "这种行为不好。",
+        "pinyin": "zhe4 zhong3 xing2 wei2 bu4 hao3"
+      },
+      {
+        "zh": "老师不喜欢他的行为。",
+        "pinyin": "lao3 shi1 bu4 xi3 huan5 ta1 de5 xing2 wei2"
+      },
+      {
+        "zh": "他的行为让妈妈很生气。",
+        "pinyin": "ta1 de5 xing2 wei2 rang4 ma1 ma5 hen3 sheng1 qi4"
+      },
+      {
+        "zh": "孩子的行为常常会影响别人。",
+        "pinyin": "hai2 zi5 de5 xing2 wei2 chang2 chang2 hui4 ying3 xiang3 bie2 ren2"
+      }
+    ]
+  },
+  {
+    "word": "哥",
+    "examples": [
+      {
+        "zh": "我哥很高。",
+        "pinyin": "wo3 ge1 hen3 gao1"
+      },
+      {
+        "zh": "哥，你去哪里？",
+        "pinyin": "ge1 ni3 qu4 na3 li3"
+      },
+      {
+        "zh": "我哥在北京工作。",
+        "pinyin": "wo3 ge1 zai4 bei3 jing1 gong1 zuo4"
+      },
+      {
+        "zh": "我哥每天晚上都打电话给妈妈。",
+        "pinyin": "wo3 ge1 mei3 tian1 wan3 shang5 dou1 da3 dian4 hua4 gei3 ma1 ma5"
+      }
+    ]
+  }
+]

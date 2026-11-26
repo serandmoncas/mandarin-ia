@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:近",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2331c8c2d54824e3e6b6e69f872962351447ef5"
+  },
+  {
+    "id": "char:范",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2cd04e47e6d95a9e2306d5db02aa648d3e343828"
+  },
+  {
+    "id": "char:围",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce3db8e19a7d1784ab27be3b8452d46d7d9c2830"
+  },
+  {
+    "id": "char:坚",
+    "ok": false,
+    "issues": [
+      "La descomposición está incompleta: falta el elemento superior izquierdo (dos trazos verticales, forma simplificada de 臣). 坚 no es solo 又 + 土, así que el estudiante no puede reconstruir el carácter con estos componentes."
+    ],
+    "content_hash": "890df65ddc0a59920a1f9fda786a8c061ad99eec"
+  },
+  {
+    "id": "char:思",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7a481667a8e1c7125c7b8dedc16d3bdd23a36ea"
+  },
+  {
+    "id": "char:搞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "084d9402abe4b9dbc5db75c813e1f4262b51cf48"
+  },
+  {
+    "id": "char:级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af5940a74b25a9943e4d5518c700dc716f0d0761"
+  },
+  {
+    "id": "char:量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "21c01ecda63372cd150014ace49f11c59e2a613c"
+  },
+  {
+    "id": "char:例",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f998dd03de2af98197415c7a39b65994e09891db"
+  },
+  {
+    "id": "char:旅",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa43c1d349d5fa355182f4b874c4fd9e2a4df949"
+  },
+  {
+    "id": "char:族",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4a189ddedcdd041c4cc174d9a3bf047c8ca2114"
+  },
+  {
+    "id": "char:农",
+    "ok": true,
+    "issues": [],
+    "content_hash": "11041ea53733b665ada6c768ad1508dd331360c3"
+  },
+  {
+    "id": "char:取",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f4c19b691c89042f10ad3aa3ad3a7a5d50908258"
+  },
+  {
+    "id": "char:土",
+    "ok": true,
+    "issues": [],
+    "content_hash": "32e570e3e86fde969e24a0e1c01a6295fe9de545"
+  },
+  {
+    "id": "char:施",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6afd5415540bb3aed49280edde1b36b789d05e87"
+  },
+  {
+    "id": "char:健",
+    "ok": true,
+    "issues": [],
+    "content_hash": "918fc625f09fb37a67e68898a397a899f085e041"
+  },
+  {
+    "id": "char:康",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b75b71881df78045f8aad0ce2c5b6543c608e888"
+  },
+  {
+    "id": "char:精",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4443f92c85d225614f2b41dddb1d1f6385cea11"
+  },
+  {
+    "id": "char:神",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f30c6dd7cc93e28c142815a0e4c09ccf35e38b5b"
+  },
+  {
+    "id": "char:易",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cbdc3fd1b577e8a739b260c49e7cb7768cab910b"
+  },
+  {
+    "id": "char:消",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a84c87fec071220793bc42f2b4081ea61b94d37d"
+  },
+  {
+    "id": "char:永",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cfef59fb7e2b45455966795db529a8e7a91198aa"
+  },
+  {
+    "id": "char:虑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3dd212090138a2902db6f5c55684d6e7f21252e0"
+  },
+  {
+    "id": "char:按",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b39af8214a846fd86d2c2aa389ba6e67c38a933"
+  },
+  {
+    "id": "char:声",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce6cff82a4903d58fedd69ac2fc8a0764bc94d89"
+  }
+]

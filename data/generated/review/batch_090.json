@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:决心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99c8adb172405473a59c50abd5dbb4cacb4e4c4a"
+  },
+  {
+    "id": "word:愿望",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9c87fcdefa52e7b52d547a05f6cb5ded0e9fad0"
+  },
+  {
+    "id": "word:播出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10c766c4e5e724e59e11847b2ad76be5cd476008"
+  },
+  {
+    "id": "word:短期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d5df2f64bd893a7357399d2ce14290e2d515c7a"
+  },
+  {
+    "id": "word:年纪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1824bb9e3d9de68ae13e1374f6e243755ff2aa0c"
+  },
+  {
+    "id": "word:去世",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e3a9fc3bcc93160789bb2be9a1f0c4b786fa021"
+  },
+  {
+    "id": "word:危害",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3455964a8e195d5fbf054923b06a43a0a02d4486"
+  },
+  {
+    "id": "word:中部",
+    "ok": false,
+    "issues": [
+      "'我家在城市中部' suena poco natural; para 'el centro de la ciudad' se dice 市中心 (我家在市中心)."
+    ],
+    "content_hash": "334d25cc8f38e1be461bad1fd91476c264e20826"
+  },
+  {
+    "id": "word:抓住",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5adee573bb0aba5fced427742081b3f508b39dc2"
+  },
+  {
+    "id": "word:定期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d02d156d300705466b14b28659c663919e5cd68a"
+  },
+  {
+    "id": "word:付",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0aab6c985e60db086d9b886e73bd699385dc53c"
+  },
+  {
+    "id": "word:家属",
+    "ok": true,
+    "issues": [],
+    "content_hash": "acecf2e6804efe17e9739f16bef41e0f1286f919"
+  },
+  {
+    "id": "word:美食",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c795ccba6fd13acfb01a2d3bc9f1e088a7dfe285"
+  },
+  {
+    "id": "word:生意",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos pone 'shēng yì' con cuarto tono, pero la palabra se lee con tono neutro: 'shēng yi' (coincide con el encabezado sheng1 yi5)."
+    ],
+    "content_hash": "7a1d305ea8e44575b6cd764f01c5b3576b55f17a"
+  },
+  {
+    "id": "word:石头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b6d59c8b3f2fc803082378d3bca9cf8737411a1"
+  },
+  {
+    "id": "word:痛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37d37a9b67fab9592e702bf87ecfce975ccb83c0"
+  },
+  {
+    "id": "word:领先",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3fa2ea10c4b08d6899d85c3f0cb65f67961dddb"
+  },
+  {
+    "id": "word:美术",
+    "ok": false,
+    "issues": [
+      "'他从小就学美术，现在是画家' se traduce 'Estudia arte desde niño'; el tiempo verbal debería ser pasado: 'Estudió arte desde niño y ahora es pintor'."
+    ],
+    "content_hash": "d7ac96ae8f3a00a9293867e8414fdc63fb1caa5f"
+  },
+  {
+    "id": "word:年初",
+    "ok": false,
+    "issues": [
+      "En el último ejemplo, 开发 significa 'desarrollar', no 'lanzar': mejor 'Del nuevo producto que la empresa desarrolló a principios de año...'."
+    ],
+    "content_hash": "831b876615a7836f5c734f610719fe2594d9e164"
+  },
+  {
+    "id": "word:香",
+    "ok": false,
+    "issues": [
+      "Pinyin: 睡得很香 debe ser 'shuì de', no 'shuì dé'.",
+      "Pinyin: 和 en 鸡蛋和面包 es 'hé', no 'huó'.",
+      "'¡Qué rica huele la comida...!' no sigue la norma; lo correcto es '¡Qué rico huele la comida...!', porque 'rico' funciona como adverbio."
+    ],
+    "content_hash": "9c99e5ec4959ffff20dfb42eaa28fccd19254fa3"
+  },
+  {
+    "id": "word:游泳",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c0f665091f64d89822917c3f9fd41ba1af155ba"
+  },
+  {
+    "id": "word:初步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "329a307a7047f578b4c46dcd946d39ae181c6527"
+  },
+  {
+    "id": "word:防",
+    "ok": false,
+    "issues": [
+      "'防下雨' y '防别人拿走' suenan poco naturales; lo habitual es '以防下雨' y '以防被别人拿走' (o '免得被别人拿走')."
+    ],
+    "content_hash": "490547d56276faf4642e27153869319bbb61c369"
+  },
+  {
+    "id": "word:果然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "056acfee602695c9848cbd7a22b700afc7b9a90a"
+  },
+  {
+    "id": "word:皮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "565998202c81349abedd6243dffa24155ad19d17"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:团",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c2dad4e8f2e6b0b7be359babfed79aea47642978"
+  },
+  {
+    "id": "char:规",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d8993bbec05edd90d7207e8d9040621cfa9d82af"
+  },
+  {
+    "id": "char:弟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b78d8bca307385bedcb35cbc6d4216850e4ecfbf"
+  },
+  {
+    "id": "char:唱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "64d88e3279fef3c532d2445d3af634b60cdc1698"
+  },
+  {
+    "id": "char:原",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57b44cef5ce937f3daf10542befe257043acc5fc"
+  },
+  {
+    "id": "char:旁",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia llama «flecha» a 方, lo que contradice el significado dado al componente (dirección, lado) y puede confundir al estudiante."
+    ],
+    "content_hash": "016e4af27d8f8b9f3b987c5730363e4843647ef3"
+  },
+  {
+    "id": "char:专",
+    "ok": true,
+    "issues": [],
+    "content_hash": "590d60c2ef6102871cd57084c619b79ea1651184"
+  },
+  {
+    "id": "char:火",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3856c1f652bec314ce9eebc2daf3ab4c7f876b2b"
+  },
+  {
+    "id": "char:否",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77e776e68c28bf066eb7cdeb76a88d4ca9bdaca2"
+  },
+  {
+    "id": "char:杯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7278cd224f47b26feebd12daef230d424e81464e"
+  },
+  {
+    "id": "char:感",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab949a031cd9af67e09a80626a365f173f1c27d8"
+  },
+  {
+    "id": "char:解",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5c6d29e0914e32b8883aa4e24c9f6a5bdee8797"
+  },
+  {
+    "id": "char:树",
+    "ok": true,
+    "issues": [],
+    "content_hash": "891f2b70191dc36fe97c5ae080b6739f5bf07b3b"
+  },
+  {
+    "id": "char:举",
+    "ok": true,
+    "issues": [],
+    "content_hash": "747677f07f0b7663b1783aa6853776454e449c9f"
+  },
+  {
+    "id": "char:馆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb4a79cd3c9a9f8e236ba0ad2d3500aff38b4544"
+  },
+  {
+    "id": "char:力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e8cf7fa2e539848ea9ef630466408c35b3db4fe"
+  },
+  {
+    "id": "char:净",
+    "ok": true,
+    "issues": [],
+    "content_hash": "421ce8dd2b09693766f14e0597610dec2c290660"
+  },
+  {
+    "id": "char:艺",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2918616ec3291388c55f0d5f68a0e4aade5ac49e"
+  },
+  {
+    "id": "char:贵",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4531f3a01928f1a98d657cd0c017e1a6a3d31b4e"
+  },
+  {
+    "id": "char:副",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce3b827403ce469e439dd489c8d5e35c257113e3"
+  },
+  {
+    "id": "char:零",
+    "ok": true,
+    "issues": [],
+    "content_hash": "173518e91f98258cbe279c27f929207d3e655cab"
+  },
+  {
+    "id": "char:拥",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6a80cb5b0f5247f1b2fffc062a8f7f14897aa1a"
+  },
+  {
+    "id": "char:超",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a40e8e8bff50c793a1a75deffaa953bc3e0e12a"
+  },
+  {
+    "id": "char:连",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df3a432f385deae0c692de760fc3db825f9a90e3"
+  },
+  {
+    "id": "char:冷",
+    "ok": true,
+    "issues": [],
+    "content_hash": "950f6ce9a585bb6ed072ba21d37b53b5d1919855"
+  }
+]

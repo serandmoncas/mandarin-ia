@@ -1,0 +1,542 @@
+[
+  {
+    "word": "终于",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "por fin",
+      "finalmente",
+      "al final"
+    ],
+    "examples": [
+      {
+        "zh": "我终于明白了。",
+        "es": "Por fin entendí."
+      },
+      {
+        "zh": "他终于回家了。",
+        "es": "Por fin volvió a casa."
+      },
+      {
+        "zh": "我们等了三个小时，终于见到了他。",
+        "es": "Esperamos tres horas y por fin lo vimos."
+      },
+      {
+        "zh": "经过很多努力，她终于找到了自己喜欢的工作。",
+        "es": "Después de mucho esfuerzo, por fin encontró un trabajo que le gusta."
+      }
+    ]
+  },
+  {
+    "word": "足球",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fútbol",
+      "balón de fútbol"
+    ],
+    "examples": [
+      {
+        "zh": "我很喜欢足球。",
+        "es": "Me gusta mucho el fútbol."
+      },
+      {
+        "zh": "明天有足球比赛吗？",
+        "es": "¿Hay partido de fútbol mañana?"
+      },
+      {
+        "zh": "我弟弟每天下午都踢足球。",
+        "es": "Mi hermano menor juega fútbol todas las tardes."
+      },
+      {
+        "zh": "这场足球比赛非常重要，很多人都去看了。",
+        "es": "Este partido de fútbol es muy importante; mucha gente fue a verlo."
+      }
+    ]
+  },
+  {
+    "word": "位于",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar ubicado en",
+      "encontrarse en",
+      "situarse en"
+    ],
+    "examples": [
+      {
+        "zh": "北京位于中国的北边。",
+        "es": "Pekín está ubicada en el norte de China."
+      },
+      {
+        "zh": "我们学校位于城市中心。",
+        "es": "Nuestra escuela está en el centro de la ciudad."
+      },
+      {
+        "zh": "这家饭店位于机场旁边。",
+        "es": "Este hotel se encuentra junto al aeropuerto."
+      },
+      {
+        "zh": "这个公司位于上海，是一家很有名的科技企业。",
+        "es": "Esta compañía está ubicada en Shanghái y es una empresa tecnológica muy conocida."
+      }
+    ]
+  },
+  {
+    "word": "免费",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gratis",
+      "gratuito",
+      "sin costo"
+    ],
+    "examples": [
+      {
+        "zh": "这个是免费的。",
+        "es": "Esto es gratis."
+      },
+      {
+        "zh": "今天门票免费。",
+        "es": "Hoy la entrada es gratuita."
+      },
+      {
+        "zh": "学生可以免费使用图书馆。",
+        "es": "Los estudiantes pueden usar la biblioteca sin costo."
+      },
+      {
+        "zh": "这个网站提供免费的中文课，你可以试试。",
+        "es": "Este sitio web ofrece clases de chino gratuitas; puedes probarlas."
+      }
+    ]
+  },
+  {
+    "word": "印度",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "India"
+    ],
+    "examples": [
+      {
+        "zh": "他是印度人。",
+        "es": "Él es de la India."
+      },
+      {
+        "zh": "我明年想去印度旅游。",
+        "es": "El próximo año quiero viajar a la India."
+      },
+      {
+        "zh": "印度的人口非常多。",
+        "es": "La India tiene muchísima población."
+      },
+      {
+        "zh": "印度和中国都是历史很长的国家。",
+        "es": "La India y China son países con una historia muy larga."
+      }
+    ]
+  },
+  {
+    "word": "型",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tipo",
+      "modelo",
+      "estilo",
+      "molde"
+    ],
+    "examples": [
+      {
+        "zh": "你是什么血型？",
+        "es": "¿Cuál es tu tipo de sangre?"
+      },
+      {
+        "zh": "这是一种新型手机。",
+        "es": "Este es un nuevo modelo de celular."
+      },
+      {
+        "zh": "这个城市有很多大型商场。",
+        "es": "Esta ciudad tiene muchos centros comerciales grandes."
+      },
+      {
+        "zh": "这家公司主要生产小型汽车。",
+        "es": "Esta empresa produce principalmente autos pequeños."
+      }
+    ]
+  },
+  {
+    "word": "想要",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "querer",
+      "desear",
+      "tener ganas de"
+    ],
+    "examples": [
+      {
+        "zh": "我想要一杯茶。",
+        "es": "Quiero una taza de té."
+      },
+      {
+        "zh": "你生日想要什么？",
+        "es": "¿Qué quieres para tu cumpleaños?"
+      },
+      {
+        "zh": "孩子想要一个新手机，可是妈妈说不行。",
+        "es": "El niño quiere un celular nuevo, pero su mamá dice que no."
+      },
+      {
+        "zh": "如果你想要学好汉语，就必须每天认真学习。",
+        "es": "Si quieres aprender bien chino, tienes que estudiar en serio todos los días."
+      }
+    ]
+  },
+  {
+    "word": "最终",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "al final",
+      "finalmente",
+      "final",
+      "definitivo"
+    ],
+    "examples": [
+      {
+        "zh": "最终结果怎么样？",
+        "es": "¿Cuál fue el resultado final?"
+      },
+      {
+        "zh": "他最终决定去北京工作。",
+        "es": "Al final decidió ir a trabajar a Pekín."
+      },
+      {
+        "zh": "我们的最终目标是帮助更多的人。",
+        "es": "Nuestro objetivo final es ayudar a más personas."
+      },
+      {
+        "zh": "经过很长时间的讨论，他们最终选择了这个计划。",
+        "es": "Después de discutirlo mucho tiempo, finalmente eligieron este plan."
+      }
+    ]
+  },
+  {
+    "word": "空间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "espacio",
+      "lugar",
+      "margen",
+      "espacio exterior"
+    ],
+    "examples": [
+      {
+        "zh": "这个房间空间很大。",
+        "es": "Esta habitación es muy amplia."
+      },
+      {
+        "zh": "车里没有空间了。",
+        "es": "Ya no hay lugar en el carro."
+      },
+      {
+        "zh": "我需要一点自己的空间。",
+        "es": "Necesito un poco de espacio para mí."
+      },
+      {
+        "zh": "这个城市发展得很快，还有很大的发展空间。",
+        "es": "Esta ciudad crece rápido y todavía tiene mucho margen para desarrollarse."
+      }
+    ]
+  },
+  {
+    "word": "领域",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "campo",
+      "área",
+      "ámbito",
+      "territorio"
+    ],
+    "examples": [
+      {
+        "zh": "你在哪个领域工作？",
+        "es": "¿En qué área trabajas?"
+      },
+      {
+        "zh": "他是这个领域的专家。",
+        "es": "Él es experto en este campo."
+      },
+      {
+        "zh": "科技领域发展得非常快。",
+        "es": "El ámbito de la tecnología avanza muy rápido."
+      },
+      {
+        "zh": "她在艺术领域取得了很大的成功。",
+        "es": "Ella ha tenido un gran éxito en el campo del arte."
+      }
+    ]
+  },
+  {
+    "word": "报",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "periódico",
+      "informar, reportar",
+      "inscribirse",
+      "devolver, corresponder"
+    ],
+    "examples": [
+      {
+        "zh": "爸爸每天早上看报。",
+        "es": "Mi papá lee el periódico todas las mañanas."
+      },
+      {
+        "zh": "我想报这个班。",
+        "es": "Quiero inscribirme en este curso."
+      },
+      {
+        "zh": "今天的报上有一个很重要的新闻。",
+        "es": "En el periódico de hoy hay una noticia muy importante."
+      },
+      {
+        "zh": "发生了这么严重的事情，你应该马上报警。",
+        "es": "Pasó algo tan grave que deberías llamar a la policía de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "分钟",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "minuto"
+    ],
+    "examples": [
+      {
+        "zh": "请等我五分钟。",
+        "es": "Espérame cinco minutos, por favor."
+      },
+      {
+        "zh": "会议还有五分钟就开始了。",
+        "es": "La reunión empieza en cinco minutos."
+      },
+      {
+        "zh": "从我家走路到学校要二十分钟。",
+        "es": "De mi casa a la escuela caminando son veinte minutos."
+      },
+      {
+        "zh": "他每天早上跑三十分钟，所以身体非常健康。",
+        "es": "Corre treinta minutos todas las mañanas, por eso está muy sano."
+      }
+    ]
+  },
+  {
+    "word": "靠",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "depender de",
+      "apoyarse en",
+      "acercarse a",
+      "confiar en"
+    ],
+    "examples": [
+      {
+        "zh": "别靠在门上。",
+        "es": "No te recargues en la puerta."
+      },
+      {
+        "zh": "我家靠近机场。",
+        "es": "Mi casa está cerca del aeropuerto."
+      },
+      {
+        "zh": "他的成功全靠自己的努力。",
+        "es": "Su éxito se debe por completo a su propio esfuerzo."
+      },
+      {
+        "zh": "我们不能只靠别人，必须自己想办法解决问题。",
+        "es": "No podemos depender solo de los demás; tenemos que buscar nosotros mismos cómo resolver el problema."
+      }
+    ]
+  },
+  {
+    "word": "面积",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "superficie",
+      "área",
+      "extensión"
+    ],
+    "examples": [
+      {
+        "zh": "这个房间面积不大。",
+        "es": "Esta habitación no tiene mucha superficie."
+      },
+      {
+        "zh": "你家的面积是多少？",
+        "es": "¿Cuántos metros cuadrados tiene tu casa?"
+      },
+      {
+        "zh": "中国的面积非常大。",
+        "es": "China tiene una extensión enorme."
+      },
+      {
+        "zh": "这个城市的面积比北京小，但人口很多。",
+        "es": "Esta ciudad tiene menos superficie que Pekín, pero mucha población."
+      }
+    ]
+  },
+  {
+    "word": "生命",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vida",
+      "ser vivo"
+    ],
+    "examples": [
+      {
+        "zh": "生命很重要。",
+        "es": "La vida es muy importante."
+      },
+      {
+        "zh": "没有水就没有生命。",
+        "es": "Sin agua no hay vida."
+      },
+      {
+        "zh": "安全第一，生命最重要。",
+        "es": "La seguridad es primero; la vida es lo más importante."
+      },
+      {
+        "zh": "每个人的生命都只有一次，我们应该好好生活。",
+        "es": "Cada quien tiene una sola vida; debemos vivirla bien."
+      }
+    ]
+  },
+  {
+    "word": "十分",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "muy",
+      "sumamente",
+      "completamente"
+    ],
+    "examples": [
+      {
+        "zh": "我十分高兴。",
+        "es": "Estoy muy contento."
+      },
+      {
+        "zh": "今天天气十分冷。",
+        "es": "Hoy hace muchísimo frío."
+      },
+      {
+        "zh": "这个问题十分重要。",
+        "es": "Este problema es sumamente importante."
+      },
+      {
+        "zh": "他工作十分认真，大家都很喜欢他。",
+        "es": "Trabaja con mucha seriedad y a todos les cae muy bien."
+      }
+    ]
+  },
+  {
+    "word": "文章",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "artículo",
+      "texto",
+      "ensayo",
+      "obra escrita"
+    ],
+    "examples": [
+      {
+        "zh": "我写了一篇文章。",
+        "es": "Escribí un artículo."
+      },
+      {
+        "zh": "这篇文章很有意思。",
+        "es": "Este texto es muy interesante."
+      },
+      {
+        "zh": "你读过他写的文章吗？",
+        "es": "¿Has leído los artículos que él escribe?"
+      },
+      {
+        "zh": "老师让我们写一篇关于家庭的文章。",
+        "es": "El maestro nos pidió escribir un ensayo sobre la familia."
+      }
+    ]
+  },
+  {
+    "word": "亿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cien millones"
+    ],
+    "examples": [
+      {
+        "zh": "中国有十四亿人。",
+        "es": "China tiene mil cuatrocientos millones de habitantes."
+      },
+      {
+        "zh": "世界上有八十亿人。",
+        "es": "En el mundo hay ocho mil millones de personas."
+      },
+      {
+        "zh": "这个项目花了一亿元。",
+        "es": "Este proyecto costó cien millones de yuanes."
+      },
+      {
+        "zh": "政府决定投资五亿元建设新的机场。",
+        "es": "El gobierno decidió invertir quinientos millones de yuanes en construir un nuevo aeropuerto."
+      }
+    ]
+  },
+  {
+    "word": "意义",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sentido",
+      "significado",
+      "importancia"
+    ],
+    "examples": [
+      {
+        "zh": "这件事有什么意义？",
+        "es": "¿Qué sentido tiene esto?"
+      },
+      {
+        "zh": "这次会议非常有意义。",
+        "es": "Esta reunión es muy significativa."
+      },
+      {
+        "zh": "学习历史有很重要的意义。",
+        "es": "Estudiar historia tiene una gran importancia."
+      },
+      {
+        "zh": "对我来说，帮助别人是一件很有意义的事情。",
+        "es": "Para mí, ayudar a los demás es algo que tiene mucho sentido."
+      }
+    ]
+  },
+  {
+    "word": "作用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "efecto",
+      "función",
+      "papel",
+      "influir en"
+    ],
+    "examples": [
+      {
+        "zh": "这个办法没有作用。",
+        "es": "Este método no sirve."
+      },
+      {
+        "zh": "运动对身体有很好的作用。",
+        "es": "El ejercicio tiene muy buenos efectos en el cuerpo."
+      },
+      {
+        "zh": "老师在孩子的教育中起着重要的作用。",
+        "es": "Los maestros tienen un papel importante en la educación de los niños."
+      },
+      {
+        "zh": "科技在经济发展中起了非常大的作用。",
+        "es": "La tecnología ha tenido un papel enorme en el desarrollo económico."
+      }
+    ]
+  }
+]

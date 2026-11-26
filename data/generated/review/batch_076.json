@@ -1,0 +1,203 @@
+[
+  {
+    "id": "word:声明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "320bbff7129a4de287c2c3da1ee97faba163ad32"
+  },
+  {
+    "id": "word:过年",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 debe ser «shí hou» (tono neutro), no «shí hòu».",
+      "Pinyin: 奶奶 debe ser «nǎi nai», no «nǎi nǎi».",
+      "Pinyin: 东西 («cosas») es «dōng xi» con tono neutro; «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "cb00195c4c4f13b79fd15e5f6dada2223e2912d2"
+  },
+  {
+    "id": "word:实力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d85b46b54351494c87f2c4f1189674da3d3fc537"
+  },
+  {
+    "id": "word:难受",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 en 吃得 se lee «de» (neutro), no «dé».",
+      "Pinyin: 消息 debe ser «xiāo xi», no «xiāo xī».",
+      "Pinyin: 朋友 debe ser «péng you», no «péng yǒu»."
+    ],
+    "content_hash": "63bd0f3b650358d8f267bb0cc1eeb1b7d35cd78d"
+  },
+  {
+    "id": "word:始终",
+    "ok": true,
+    "issues": [],
+    "content_hash": "682c7d28ec4aea484a494960095eb03e363bc782"
+  },
+  {
+    "id": "word:球场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ca32b4b54c1300b4f2153f625576d56b776a16a"
+  },
+  {
+    "id": "word:跳",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 en 跳得 (dos ejemplos) se lee «de» (neutro), no «dé».",
+      "Pinyin: 消息 debe ser «xiāo xi».",
+      "Pinyin: 喜欢 debe ser «xǐ huan», no «xǐ huān»."
+    ],
+    "content_hash": "b02ae5b05d228331b3da6554d1b9516487532981"
+  },
+  {
+    "id": "word:分数",
+    "ok": false,
+    "issues": [
+      "Pinyin: 多少 debe ser «duō shao» (tono neutro), no «duō shǎo»."
+    ],
+    "content_hash": "2c9e9b4853f79d342f5880b46ac517f1a4079692"
+  },
+  {
+    "id": "word:西部",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 en 发展得 se lee «de», no «dé».",
+      "Pinyin: 打算 debe ser «dǎ suan», no «dǎ suàn»."
+    ],
+    "content_hash": "3524669a62b68f26f9afaa6a20f07d2026ed3c8c"
+  },
+  {
+    "id": "word:幸福",
+    "ok": true,
+    "issues": [],
+    "content_hash": "544a42ec9d1a5dc824d8a4fabcff32fa3262663b"
+  },
+  {
+    "id": "word:公交车",
+    "ok": false,
+    "issues": [
+      "Pinyin: 早上 debe ser «zǎo shang» (tono neutro), no «zǎo shàng»."
+    ],
+    "content_hash": "d5e5e3d645f7ff1e26c11e031679a98d74f0cf25"
+  },
+  {
+    "id": "word:商量",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 商量 debe ser «shāng liang» (tono neutro, como indica la lectura shang1 liang5), no «shāng liáng»."
+    ],
+    "content_hash": "c373d42ac9b74080f25e5ebc304df7e920df5809"
+  },
+  {
+    "id": "word:演出",
+    "ok": false,
+    "issues": [
+      "Pinyin: 晚上 debe ser «wǎn shang» (tono neutro), no «wǎn shàng» (dos ejemplos)."
+    ],
+    "content_hash": "72b540feb799425e1618eff642e28b2327eb5f32"
+  },
+  {
+    "id": "word:星星",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 星星 debe ser «xīng xing» (lectura xing1 xing5), no «xīng xīng».",
+      "Pinyin: 晚上 debe ser «wǎn shang».",
+      "Pinyin: 时候 debe ser «shí hou» y 爷爷 «yé ye»."
+    ],
+    "content_hash": "d0dcffc4bed2a77cd4f76a0c3e4c7ee876e23e42"
+  },
+  {
+    "id": "word:留学生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "116ce773e1697dfd29c8304a67dca3e4601426e1"
+  },
+  {
+    "id": "word:播放",
+    "ok": false,
+    "issues": [
+      "Pinyin: 晚上 debe ser «wǎn shang» (tono neutro), no «wǎn shàng» (dos ejemplos)."
+    ],
+    "content_hash": "8b0720373b2b03ccce4fd27fbb7fd4a08e182ebf"
+  },
+  {
+    "id": "word:晚餐",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 en 吃得 se lee «de», no «dé»."
+    ],
+    "content_hash": "b9f348cd41f8c10ec5d45b908bd063aabd5cbe13"
+  },
+  {
+    "id": "word:碗",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 debe ser «mā ma», no «mā mā».",
+      "Pinyin: 味道 se lee habitualmente «wèi dao» (tono neutro)."
+    ],
+    "content_hash": "2d897b222813620fd91b2063488b11e0621e9910"
+  },
+  {
+    "id": "word:半夜",
+    "ok": false,
+    "issues": [
+      "Pinyin: 睡不着 se lee «shuì bu zháo»; 着 aquí es «zháo», no «zhe»."
+    ],
+    "content_hash": "e75a2192ae9cde40f82f6e7bd8681b75bf2ae0c7"
+  },
+  {
+    "id": "word:等待",
+    "ok": false,
+    "issues": [
+      "Pinyin: 消息 debe ser «xiāo xi» (tono neutro), no «xiāo xī»."
+    ],
+    "content_hash": "d3876ad580c5b74ed3b760262f46c68e4d62321e"
+  },
+  {
+    "id": "word:椅子",
+    "ok": false,
+    "issues": [
+      "Pinyin: 舒服 debe ser «shū fu» (tono neutro), no «shū fú»."
+    ],
+    "content_hash": "44f2743191b3310afcae80ccbc8f1ee7b8220096"
+  },
+  {
+    "id": "word:调",
+    "ok": false,
+    "issues": [
+      "Pinyin erróneo: en todos los ejemplos (调小, 调电视, 调低, 调味) 调 se lee «tiáo» (la lectura de esta entrada), no «diào»; «diào» es otra lectura con otros significados (trasladar, tono).",
+      "Pinyin: 妈妈 debe ser «mā ma»."
+    ],
+    "content_hash": "faaef6cd6e499e918d3f0ee25bff6e27c7dbefea"
+  },
+  {
+    "id": "word:手表",
+    "ok": false,
+    "issues": [
+      "Pinyin: 爸爸 debe ser «bà ba», no «bà bà»."
+    ],
+    "content_hash": "7928a8e2799e1fd6a9c2a61b73a0544b990c982b"
+  },
+  {
+    "id": "word:词语",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 debe ser «shí hou» (tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "f1901a43d91f71ba3bdce227ff95589f1ae18846"
+  },
+  {
+    "id": "word:秋天",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 debe ser «xǐ huan» (dos ejemplos).",
+      "Pinyin: 漂亮 debe ser «piào liang».",
+      "Pinyin: 朋友 debe ser «péng you»."
+    ],
+    "content_hash": "b3251cf999e9f96f87551e06d2f430115f854f31"
+  }
+]

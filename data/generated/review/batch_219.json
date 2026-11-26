@@ -1,0 +1,161 @@
+[
+  {
+    "id": "word:艺术",
+    "ok": true,
+    "issues": [],
+    "content_hash": "198bffe994d61486c2045e1f16d8262b084734d1"
+  },
+  {
+    "id": "word:帮忙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "224c0139b1ab641dedbf243a3b4b77028dd9491d"
+  },
+  {
+    "id": "word:贵",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9eeda1a1e92e4c1e1b3be54b261276ea8d38a19"
+  },
+  {
+    "id": "word:拥有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef152c75ee4f8521ada1081216fcc79a0e60d819"
+  },
+  {
+    "id": "word:生气",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4ab5cb218e2dda49ab3ce519bfcff13d654d55c"
+  },
+  {
+    "id": "word:超过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca6b537179ced35974f1a97d1ebd3baf592c994b"
+  },
+  {
+    "id": "word:机会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4ee37b89bad94777c822600d5a2cb5feafdc681"
+  },
+  {
+    "id": "word:地上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0044c83127b65c96dfef905931f63c92b681e1e8"
+  },
+  {
+    "id": "word:美",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5d99094ce13ccec4d4bbc645640d86753adf0ca"
+  },
+  {
+    "id": "word:其实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4537caa26facb9d233f118eee7b6e589e50f70e"
+  },
+  {
+    "id": "word:全球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f270d4ed835a5d04ce8ef7cee0b4e60473dbef20"
+  },
+  {
+    "id": "word:菜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce217958616df3165ed55c15a8e31c5300ceb11e"
+  },
+  {
+    "id": "word:茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "056b6b2a3900b1fa9df86265d23276337f5ceb74"
+  },
+  {
+    "id": "word:行为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b6c468e9934c22e7bd8c48e104804cf82cfe98cb"
+  },
+  {
+    "id": "word:独立",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8e514537902685850d44755e80d6a945a3546b83"
+  },
+  {
+    "id": "word:产生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bbd3bcae50c57742655c8b85a00a88a4ed94b898"
+  },
+  {
+    "id": "word:调查",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d6ff22d1c75dd81a5533f36d945d1a0ca00820d6"
+  },
+  {
+    "id": "word:右",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «在前面向右走» suena forzado; lo natural sería «前面右转» o «到前面路口往右拐». La traducción «gira» corresponde a 转/拐, no a 走."
+    ],
+    "content_hash": "c2c08ed1104d4ddec818a0cf112640c56ea9696d"
+  },
+  {
+    "id": "word:人类",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1eee20f763674fb4a75fda4c6c37d10b92c0cfaf"
+  },
+  {
+    "id": "word:病人",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «医生正在看病人» es ambiguo, porque 看病人 suele entenderse como «visitar a un enfermo». Para «revisar al paciente» es más natural «医生正在给病人看病».",
+      "Ejemplo 4: el pinyin de 告诉 debería ser «gào su» (tono neutro), no «gào sù»."
+    ],
+    "content_hash": "632986d35cf193513d6cbe6c051064fe684194f1"
+  },
+  {
+    "id": "word:饿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e833550f0d4818e463aa69e55a200f923f5e22f"
+  },
+  {
+    "id": "word:真正",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cfaf2be0344ec022df22a0bed5ae0af9afe7db25"
+  },
+  {
+    "id": "word:床",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 床上 debería ser «chuáng shang» (上 en tono neutro), igual que en 地上."
+    ],
+    "content_hash": "c13b792968d38e7e6056fdfcc2056b3fcb930d10"
+  },
+  {
+    "id": "word:开车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a4cb1586da9101a584155b5b41dd4468e7ba023f"
+  },
+  {
+    "id": "word:制",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: usa el compuesto 制定 («formular, establecer»), que no ilustra ninguno de los significados listados para 制 solo y puede confundir al estudiante. Conviene sustituirlo por un ejemplo de 制 como «sistema» o «fabricar»."
+    ],
+    "content_hash": "823da73a21ad5445e0f1576f692ae5b19a740b06"
+  }
+]

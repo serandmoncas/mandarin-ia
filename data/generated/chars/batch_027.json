@@ -1,0 +1,418 @@
+[
+  {
+    "char": "阳",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina, montículo"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      }
+    ],
+    "mnemonic_es": "El sol brilla sobre la ladera de la colina: ese es el lado soleado, el yang."
+  },
+  {
+    "char": "监",
+    "components": [
+      {
+        "char": "𠂉",
+        "meaning_es": "persona inclinada"
+      },
+      {
+        "char": "皿",
+        "meaning_es": "recipiente, plato"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien inclinado sobre un recipiente sin quitarle la vista de encima: está vigilando y supervisando todo."
+  },
+  {
+    "char": "督",
+    "components": [
+      {
+        "char": "叔",
+        "meaning_es": "tío (hermano menor del padre)"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      }
+    ],
+    "mnemonic_es": "El tío pone su ojo sobre los sobrinos mientras hacen la tarea: los supervisa de cerca."
+  },
+  {
+    "char": "装",
+    "components": [
+      {
+        "char": "壮",
+        "meaning_es": "fuerte, robusto"
+      },
+      {
+        "char": "衣",
+        "meaning_es": "ropa"
+      }
+    ],
+    "mnemonic_es": "Un hombre fuerte se pone ropa elegante para aparentar: vestirse, disfrazarse o fingir; y con su fuerza también carga e instala cosas."
+  },
+  {
+    "char": "址",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "止",
+        "meaning_es": "detenerse"
+      }
+    ],
+    "mnemonic_es": "El lugar de la tierra donde te detienes es tu sitio, tu dirección (地址)."
+  },
+  {
+    "char": "层",
+    "components": [
+      {
+        "char": "尸",
+        "meaning_es": "techo, cuerpo tendido"
+      },
+      {
+        "char": "云",
+        "meaning_es": "nube"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo y encima de otro, como capas de nubes apiladas: así se forman los pisos de un edificio."
+  },
+  {
+    "char": "针",
+    "components": [
+      {
+        "char": "钅",
+        "meaning_es": "metal"
+      },
+      {
+        "char": "十",
+        "meaning_es": "diez, cruz"
+      }
+    ],
+    "mnemonic_es": "Un pedacito de metal que cruza la tela una y otra vez, como una cruz: es la aguja."
+  },
+  {
+    "char": "酒",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua, líquido"
+      },
+      {
+        "char": "酉",
+        "meaning_es": "jarra de fermentación"
+      }
+    ],
+    "mnemonic_es": "El líquido que sale de la jarra de fermentación es el licor."
+  },
+  {
+    "char": "铁",
+    "components": [
+      {
+        "char": "钅",
+        "meaning_es": "metal"
+      },
+      {
+        "char": "失",
+        "meaning_es": "perder"
+      }
+    ],
+    "mnemonic_es": "El metal que pierde su brillo cuando se oxida: el hierro."
+  },
+  {
+    "char": "短",
+    "components": [
+      {
+        "char": "矢",
+        "meaning_es": "flecha"
+      },
+      {
+        "char": "豆",
+        "meaning_es": "frijol"
+      }
+    ],
+    "mnemonic_es": "Una flecha del tamaño de un frijol: ¡qué corta es!"
+  },
+  {
+    "char": "脚",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "carne, parte del cuerpo"
+      },
+      {
+        "char": "去",
+        "meaning_es": "ir"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "persona arrodillada"
+      }
+    ],
+    "mnemonic_es": "La parte del cuerpo que usas para ir a cualquier lado, o en la que te apoyas al arrodillarte: el pie."
+  },
+  {
+    "char": "召",
+    "components": [
+      {
+        "char": "刀",
+        "meaning_es": "cuchillo"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "El jefe golpea la mesa con un cuchillo y grita con la boca: está convocando a todos."
+  },
+  {
+    "char": "州",
+    "components": [
+      {
+        "char": "州",
+        "meaning_es": "estado, provincia"
+      }
+    ],
+    "mnemonic_es": "Míralo como un río con islitas entre sus corrientes: tierras rodeadas de agua que forman un estado o provincia."
+  },
+  {
+    "char": "评",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabras, hablar"
+      },
+      {
+        "char": "平",
+        "meaning_es": "plano, justo"
+      }
+    ],
+    "mnemonic_es": "Usar palabras justas y equilibradas para opinar sobre algo: evaluar, comentar, criticar."
+  },
+  {
+    "char": "挺",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "廷",
+        "meaning_es": "corte imperial"
+      }
+    ],
+    "mnemonic_es": "Ante la corte del emperador te enderezas con la mano en la espalda, bien erguido; y en la vida diaria, todo está 挺好: bastante bien."
+  },
+  {
+    "char": "软",
+    "components": [
+      {
+        "char": "车",
+        "meaning_es": "vehículo"
+      },
+      {
+        "char": "欠",
+        "meaning_es": "bostezar, faltar"
+      }
+    ],
+    "mnemonic_es": "Un carro al que le falta aire en las llantas se siente todo blando."
+  },
+  {
+    "char": "逼",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "畐",
+        "meaning_es": "lleno, repleto"
+      }
+    ],
+    "mnemonic_es": "Avanzas hacia alguien con el pecho lleno de exigencias y lo arrinconas: lo estás forzando, presionando."
+  },
+  {
+    "char": "角",
+    "components": [
+      {
+        "char": "角",
+        "meaning_es": "cuerno, ángulo"
+      }
+    ],
+    "mnemonic_es": "Dibuja el cuerno de un toro con sus rayitas por dentro: es un cuerno, una esquina, un ángulo, y también una moneda de diez centavos."
+  },
+  {
+    "char": "镇",
+    "components": [
+      {
+        "char": "钅",
+        "meaning_es": "metal"
+      },
+      {
+        "char": "真",
+        "meaning_es": "verdadero"
+      }
+    ],
+    "mnemonic_es": "Un pisapapeles de metal verdadero mantiene todo quieto: calmar, mantener en orden; y también un pueblo tranquilo."
+  },
+  {
+    "char": "哭",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "犬",
+        "meaning_es": "perro"
+      }
+    ],
+    "mnemonic_es": "Dos ojos grandes llenos de lágrimas sobre un perrito que gime: está llorando."
+  },
+  {
+    "char": "颜",
+    "components": [
+      {
+        "char": "彦",
+        "meaning_es": "persona talentosa y bien parecida"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "La cabeza de una persona bien parecida muestra su rostro y sus colores: semblante, color."
+  },
+  {
+    "char": "色",
+    "components": [
+      {
+        "char": "⺈",
+        "meaning_es": "persona, cuchillo pequeño"
+      },
+      {
+        "char": "巴",
+        "meaning_es": "serpiente enroscada"
+      }
+    ],
+    "mnemonic_es": "Imagina a una persona sobre una serpiente enroscada que cambia de color como un camaleón: color, matiz."
+  },
+  {
+    "char": "顾",
+    "components": [
+      {
+        "char": "厄",
+        "meaning_es": "aprieto, dificultad"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "Cuando alguien está en un aprieto, giras la cabeza para mirarlo y cuidarlo; y al cliente (顾客) también hay que atenderlo así."
+  },
+  {
+    "char": "绿",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda, hilo"
+      },
+      {
+        "char": "录",
+        "meaning_es": "registrar, grabar"
+      }
+    ],
+    "mnemonic_es": "Un hilo de seda que registra el color de las hojas frescas: verde."
+  },
+  {
+    "char": "纸",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda, hilo"
+      },
+      {
+        "char": "氏",
+        "meaning_es": "clan, apellido"
+      }
+    ],
+    "mnemonic_es": "Fibras entretejidas donde cada clan escribe su apellido: el papel."
+  },
+  {
+    "char": "篇",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "扁",
+        "meaning_es": "plano, aplanado"
+      }
+    ],
+    "mnemonic_es": "Tiras de bambú aplanadas donde escribes un texto completo: un artículo, un capítulo; también es el clasificador para textos."
+  },
+  {
+    "char": "咱",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "自",
+        "meaning_es": "uno mismo"
+      }
+    ],
+    "mnemonic_es": "Con la boca hablas de ti mismo, pero incluyendo a quien te escucha: nosotros, tú y yo."
+  },
+  {
+    "char": "座",
+    "components": [
+      {
+        "char": "广",
+        "meaning_es": "techo, edificio"
+      },
+      {
+        "char": "坐",
+        "meaning_es": "sentarse"
+      }
+    ],
+    "mnemonic_es": "Bajo un techo hay un lugar para sentarse: un asiento; también sirve para contar edificios, puentes y montañas."
+  },
+  {
+    "char": "乡",
+    "components": [
+      {
+        "char": "乡",
+        "meaning_es": "campo, pueblo natal"
+      }
+    ],
+    "mnemonic_es": "Sus trazos zigzaguean como un caminito de tierra que te lleva de vuelta al campo, a tu pueblo natal."
+  },
+  {
+    "char": "兄",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "儿",
+        "meaning_es": "piernas, niño"
+      }
+    ],
+    "mnemonic_es": "Un niño con una boca grande que siempre da órdenes a los menores: es el hermano mayor."
+  }
+]

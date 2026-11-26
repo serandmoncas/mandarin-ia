@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c4f4a122332ef707e7ee85934a2bf4d5da9819a"
+  },
+  {
+    "id": "char:到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0cc0de7e4ea1849d9dc9134ab66db6ed48d680b"
+  },
+  {
+    "id": "char:会",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia sitúa a las personas «bajo una nube», pero en el carácter 人 está arriba y 云 abajo; la imagen invierte la disposición y puede confundir al visualizarlo."
+    ],
+    "content_hash": "9642d77dd16207a5e650674be57ed422bf43ec13"
+  },
+  {
+    "id": "char:要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f742ddc53a214b2f6d853266562a255159b61e1"
+  },
+  {
+    "id": "char:来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c720e284c494df72b7cf0c69ad7df231e13d238f"
+  },
+  {
+    "id": "char:月",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4806b6df09f179feec14aa17b68e18595751785"
+  },
+  {
+    "id": "char:国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "913dbe1f9c886004d23b2184ddad5cb03df9e316"
+  },
+  {
+    "id": "char:被",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63f5352771d8e4556f8eb1e08e732d5f6af2eced"
+  },
+  {
+    "id": "char:还",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99b31210b1dc5ff4202671caae4d64d4d9d0a1f5"
+  },
+  {
+    "id": "char:没",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f77adc0be6fa12f4f09dcbfeb7074818eca7820d"
+  },
+  {
+    "id": "char:而",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac32b8aa6a7296157cca75cfe5d3f13542a6fac5"
+  },
+  {
+    "id": "char:可",
+    "ok": true,
+    "issues": [],
+    "content_hash": "42cc88796a3b088e1b0699f54c402059ba16a524"
+  },
+  {
+    "id": "char:以",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed068bc30840d5ec58c381dedf481a156e120b38"
+  },
+  {
+    "id": "char:等",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2676bcbfebbfab8aa6fc64f207b4e13468063597"
+  },
+  {
+    "id": "char:后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "643c73dba33a9a158a07ba5b52a16c3922466636"
+  },
+  {
+    "id": "char:但",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b59e4a43a067116f6728f3629fe98c730d4266bc"
+  },
+  {
+    "id": "char:于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c5897197156773b7ef74eebe4922eb33049590e"
+  },
+  {
+    "id": "char:日",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d41902473dadd2855dd249cbd324ba04369813a1"
+  },
+  {
+    "id": "char:什",
+    "ok": true,
+    "issues": [],
+    "content_hash": "513d76e953c9beffe29f8a0becb397b5f099abb2"
+  },
+  {
+    "id": "char:么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d9dcaa5bb391fef6025099287e035ba6a31d01de"
+  },
+  {
+    "id": "char:并",
+    "ok": true,
+    "issues": [],
+    "content_hash": "11e7c8302345958c72f303d90ffe54134a84ef68"
+  },
+  {
+    "id": "char:能",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a1de8876c60204ee9144a0b271e2d8de71b870b"
+  },
+  {
+    "id": "char:很",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ea9d58da0d6b8ca0c2acb2d3b5ab737f6415c782"
+  },
+  {
+    "id": "char:将",
+    "ok": true,
+    "issues": [],
+    "content_hash": "75071cedd3a30c947ff37df802ff6ea0d77f6ba7"
+  },
+  {
+    "id": "char:从",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63a6530d426ba51100072ad6fcfced1cc9050b66"
+  }
+]

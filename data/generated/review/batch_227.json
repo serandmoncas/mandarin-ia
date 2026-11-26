@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:同样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57c0dc6bbd3abd24dc4bc5976382b0b8417bfd16"
+  },
+  {
+    "id": "word:正式",
+    "ok": true,
+    "issues": [],
+    "content_hash": "938ae235fda6cf353286354b9a5a2f338d0a4a5a"
+  },
+  {
+    "id": "word:土地",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d6ae17f31f21a89e79a0951a0dfb520e97614f8"
+  },
+  {
+    "id": "word:保证",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bafe4d84adf1a157cd0d374880b9762d045f3d00"
+  },
+  {
+    "id": "word:持续",
+    "ok": true,
+    "issues": [],
+    "content_hash": "409525d27206b074c05b05f848ff4de79a097aca"
+  },
+  {
+    "id": "word:健康",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2954f6a6a4aec6831a5022e10607a689d3762a8"
+  },
+  {
+    "id": "word:精神",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c91734b66e686711f89a3946afd98e54f183694"
+  },
+  {
+    "id": "word:开放",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d76006174afda045575b2daed5ef7880923b0ac8"
+  },
+  {
+    "id": "word:容易",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec8f81385c4034cca7d04fa88c98f7d266b8ce57"
+  },
+  {
+    "id": "word:实际",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b75205253c9c2dfb1a86479d2cfdf9194ca03efc"
+  },
+  {
+    "id": "word:消息",
+    "ok": true,
+    "issues": [],
+    "content_hash": "db5716df00a09fc24fc45226f241458226d9f483"
+  },
+  {
+    "id": "word:永远",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d8808df2364fc990128087de94fb20b9db6550d"
+  },
+  {
+    "id": "word:些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "41c730ad1f8fe5017991b7b65bfa6ebccb112925"
+  },
+  {
+    "id": "word:然而",
+    "ok": true,
+    "issues": [],
+    "content_hash": "506f7e5b2a06fec469ced431d47ab93ad2977ced"
+  },
+  {
+    "id": "word:考虑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f26967c6e918ce8ab6622eb0d4d21cafead0d426"
+  },
+  {
+    "id": "word:变成",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «长大以后变成了有名的医生» suena poco natural; para la profesión que alguien llega a tener se usa 成为 o 成了 (p. ej. «长大以后成了一名有名的医生»). Además, «这个小学生长大» se presta a una segmentación ambigua (小学/生长)."
+    ],
+    "content_hash": "c4cb142f2114109565433a55e30f056260e42f1e"
+  },
+  {
+    "id": "word:另外",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d976159b90dbdd1be95b63a9bd2167b1e2dede15"
+  },
+  {
+    "id": "word:声音",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin «yì diǎn ér» es incorrecto. 儿 es una erhua y debe escribirse «yì diǎnr», no como sílaba separada.",
+      "Ejemplo 3: «请说话的声音小一点儿» resulta algo forzado; es más natural «请说话小声一点儿» o «请说话声音小一点儿»."
+    ],
+    "content_hash": "43a60d41e57dbafafbb6357f496fb3032a7597bb"
+  },
+  {
+    "id": "word:线",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7dc25a4de182eb7633ef41a0e5b86d737da62ac0"
+  },
+  {
+    "id": "word:应用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d191616b504e9f7da1df0477c510662aa025637f"
+  },
+  {
+    "id": "word:终于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "56999101c00b44f0ab3469cdee466a7001e53169"
+  },
+  {
+    "id": "word:足球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "65214d04255f43a6affb91c4ddaa92fe362f27eb"
+  },
+  {
+    "id": "word:免费",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: en el pinyin de 试试 falta el tono neutro de la segunda sílaba del verbo reduplicado; debe ser «shì shi», no «shì shì»."
+    ],
+    "content_hash": "697a33fcebf7a62097eeebd7c5a8182658eeaded"
+  },
+  {
+    "id": "word:想要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c8661593000d3ffc6740789a836afcf39a98f07"
+  },
+  {
+    "id": "word:报",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98763408e1a3b1e7ab1287ce2177211943bcd220"
+  }
+]

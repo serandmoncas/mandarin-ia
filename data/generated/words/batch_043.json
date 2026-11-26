@@ -1,0 +1,536 @@
+[
+  {
+    "word": "车票",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "boleto (de autobús o tren)",
+      "pasaje"
+    ],
+    "examples": [
+      {
+        "zh": "这是你的车票吗？",
+        "es": "¿Este es tu boleto?"
+      },
+      {
+        "zh": "我要买两张车票。",
+        "es": "Quiero comprar dos boletos."
+      },
+      {
+        "zh": "我的车票在钱包里。",
+        "es": "Mi boleto está en la billetera."
+      },
+      {
+        "zh": "我在网上买了去上海的车票。",
+        "es": "Compré por internet el boleto para Shanghái."
+      }
+    ]
+  },
+  {
+    "word": "增长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "crecer",
+      "aumentar",
+      "crecimiento"
+    ],
+    "examples": [
+      {
+        "zh": "人口增长很快。",
+        "es": "La población crece muy rápido."
+      },
+      {
+        "zh": "中国经济一直在增长。",
+        "es": "La economía china ha estado creciendo todo el tiempo."
+      },
+      {
+        "zh": "今年公司的钱增长了很多。",
+        "es": "Este año el dinero de la empresa aumentó mucho."
+      },
+      {
+        "zh": "这几年城市人口增长得非常快。",
+        "es": "En los últimos años, la población de las ciudades ha crecido muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "电视机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "televisor",
+      "aparato de televisión"
+    ],
+    "examples": [
+      {
+        "zh": "我家有一台电视机。",
+        "es": "En mi casa hay un televisor."
+      },
+      {
+        "zh": "这台电视机太贵了。",
+        "es": "Este televisor es demasiado caro."
+      },
+      {
+        "zh": "请把电视机关上。",
+        "es": "Por favor, apaga el televisor."
+      },
+      {
+        "zh": "爷爷每天晚上都坐在电视机前看新闻。",
+        "es": "Mi abuelo se sienta todas las noches frente al televisor a ver las noticias."
+      }
+    ]
+  },
+  {
+    "word": "指",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "señalar",
+      "referirse a",
+      "dedo",
+      "contar con"
+    ],
+    "examples": [
+      {
+        "zh": "他用手指了指门口。",
+        "es": "Él señaló la puerta con la mano."
+      },
+      {
+        "zh": "你指的是哪本书？",
+        "es": "¿A qué libro te refieres?"
+      },
+      {
+        "zh": "老师指着地图说话。",
+        "es": "El maestro hablaba señalando el mapa."
+      },
+      {
+        "zh": "这里的“他们”是指那些学生吗？",
+        "es": "¿Aquí «ellos» se refiere a esos estudiantes?"
+      }
+    ]
+  },
+  {
+    "word": "好听",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "agradable al oído",
+      "bonito (de escuchar)",
+      "que suena bien"
+    ],
+    "examples": [
+      {
+        "zh": "你的名字真好听。",
+        "es": "Tu nombre suena muy bonito."
+      },
+      {
+        "zh": "这首歌非常好听。",
+        "es": "Esta canción es muy bonita."
+      },
+      {
+        "zh": "她唱歌唱得很好听。",
+        "es": "Ella canta muy bonito."
+      },
+      {
+        "zh": "我觉得汉语听起来很好听。",
+        "es": "Creo que el chino suena muy bonito."
+      }
+    ]
+  },
+  {
+    "word": "之一",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "uno de",
+      "una de"
+    ],
+    "examples": [
+      {
+        "zh": "他是我最好的朋友之一。",
+        "es": "Él es uno de mis mejores amigos."
+      },
+      {
+        "zh": "这是我最喜欢的电影之一。",
+        "es": "Esta es una de mis películas favoritas."
+      },
+      {
+        "zh": "北京是中国最大的城市之一。",
+        "es": "Pekín es una de las ciudades más grandes de China."
+      },
+      {
+        "zh": "安全问题是这个项目最重要的问题之一。",
+        "es": "La seguridad es uno de los problemas más importantes de este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "官方",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oficial",
+      "el gobierno",
+      "las autoridades"
+    ],
+    "examples": [
+      {
+        "zh": "这是官方网站。",
+        "es": "Este es el sitio web oficial."
+      },
+      {
+        "zh": "中国的官方语言是汉语。",
+        "es": "El idioma oficial de China es el chino."
+      },
+      {
+        "zh": "官方还没有告诉大家原因。",
+        "es": "Las autoridades todavía no han dicho la razón."
+      },
+      {
+        "zh": "根据官方数据，这个城市的人口超过一千万。",
+        "es": "Según datos oficiales, esta ciudad tiene más de diez millones de habitantes."
+      }
+    ]
+  },
+  {
+    "word": "课本",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "libro de texto",
+      "libro escolar"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的中文课本。",
+        "es": "Este es mi libro de texto de chino."
+      },
+      {
+        "zh": "请打开课本第十页。",
+        "es": "Por favor, abran el libro en la página diez."
+      },
+      {
+        "zh": "我的课本放在家里了。",
+        "es": "Dejé mi libro de texto en la casa."
+      },
+      {
+        "zh": "老师说明天上课一定要带课本。",
+        "es": "El maestro dijo que mañana hay que traer el libro a clase sin falta."
+      }
+    ]
+  },
+  {
+    "word": "德国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Alemania"
+    ],
+    "examples": [
+      {
+        "zh": "他是德国人。",
+        "es": "Él es alemán."
+      },
+      {
+        "zh": "我明年想去德国学习。",
+        "es": "El próximo año quiero ir a estudiar a Alemania."
+      },
+      {
+        "zh": "德国的汽车非常有名。",
+        "es": "Los autos alemanes son muy famosos."
+      },
+      {
+        "zh": "德国在欧洲，离中国很远。",
+        "es": "Alemania está en Europa, muy lejos de China."
+      }
+    ]
+  },
+  {
+    "word": "北边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el norte",
+      "lado norte",
+      "al norte de"
+    ],
+    "examples": [
+      {
+        "zh": "学校在北边。",
+        "es": "La escuela está en el norte."
+      },
+      {
+        "zh": "银行在医院北边。",
+        "es": "El banco está al norte del hospital."
+      },
+      {
+        "zh": "我家北边有一座山。",
+        "es": "Al norte de mi casa hay una montaña."
+      },
+      {
+        "zh": "北边的天气比南边冷多了。",
+        "es": "En el norte hace mucho más frío que en el sur."
+      }
+    ]
+  },
+  {
+    "word": "标准",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estándar",
+      "norma",
+      "criterio",
+      "correcto (pronunciación, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "他说的汉语很标准。",
+        "es": "Él habla un chino muy correcto."
+      },
+      {
+        "zh": "每个学校的标准都不一样。",
+        "es": "Cada escuela tiene criterios diferentes."
+      },
+      {
+        "zh": "你觉得好朋友的标准是什么？",
+        "es": "¿Para ti, qué hace a alguien un buen amigo?"
+      },
+      {
+        "zh": "这些产品必须达到国家的安全标准。",
+        "es": "Estos productos deben cumplir con las normas nacionales de seguridad."
+      }
+    ]
+  },
+  {
+    "word": "弟",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermano menor",
+      "joven (trato a un hombre menor)"
+    ],
+    "examples": [
+      {
+        "zh": "我弟今年十岁。",
+        "es": "Mi hermanito tiene diez años."
+      },
+      {
+        "zh": "老弟，好久不见啊！",
+        "es": "¡Hermano, cuánto tiempo sin verte!"
+      },
+      {
+        "zh": "这是我弟，他在上小学。",
+        "es": "Este es mi hermano menor; está en la primaria."
+      },
+      {
+        "zh": "我弟比我高，但是比我小三岁。",
+        "es": "Mi hermano menor es más alto que yo, pero es tres años menor."
+      }
+    ]
+  },
+  {
+    "word": "部门",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "departamento",
+      "área",
+      "sección",
+      "dependencia"
+    ],
+    "examples": [
+      {
+        "zh": "你在哪个部门工作？",
+        "es": "¿En qué departamento trabajas?"
+      },
+      {
+        "zh": "这个部门有二十个人。",
+        "es": "Este departamento tiene veinte personas."
+      },
+      {
+        "zh": "我们部门明天开会。",
+        "es": "Nuestro departamento tiene reunión mañana."
+      },
+      {
+        "zh": "这个问题应该由技术部门负责处理。",
+        "es": "Este problema lo debe resolver el departamento técnico."
+      }
+    ]
+  },
+  {
+    "word": "关上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cerrar (una puerta, etc.)",
+      "apagar (un aparato)"
+    ],
+    "examples": [
+      {
+        "zh": "请关上门。",
+        "es": "Por favor, cierra la puerta."
+      },
+      {
+        "zh": "外面风很大，把门关上吧。",
+        "es": "Afuera hace mucho viento; cierra la puerta."
+      },
+      {
+        "zh": "出去的时候请把电视关上。",
+        "es": "Cuando salgas, por favor apaga la tele."
+      },
+      {
+        "zh": "他走进房间，马上把门关上了。",
+        "es": "Entró al cuarto y cerró la puerta de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "价格",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "precio"
+    ],
+    "examples": [
+      {
+        "zh": "这个价格太高了。",
+        "es": "Este precio es demasiado alto."
+      },
+      {
+        "zh": "这家店的价格不贵。",
+        "es": "Los precios de esta tienda no son caros."
+      },
+      {
+        "zh": "上海的房子价格非常高。",
+        "es": "Los precios de las casas en Shanghái son altísimos."
+      },
+      {
+        "zh": "最近牛奶和鸡蛋的价格都增加了。",
+        "es": "Últimamente subieron los precios de la leche y los huevos."
+      }
+    ]
+  },
+  {
+    "word": "建议",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sugerir",
+      "recomendar",
+      "sugerencia",
+      "propuesta"
+    ],
+    "examples": [
+      {
+        "zh": "你有什么建议？",
+        "es": "¿Qué sugieres?"
+      },
+      {
+        "zh": "我建议你早点休息。",
+        "es": "Te recomiendo que descanses temprano."
+      },
+      {
+        "zh": "医生建议他多喝水。",
+        "es": "El médico le recomendó tomar más agua."
+      },
+      {
+        "zh": "谢谢你的建议，对我很有帮助。",
+        "es": "Gracias por tu sugerencia, me ayudó mucho."
+      }
+    ]
+  },
+  {
+    "word": "午饭",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "almuerzo",
+      "comida del mediodía"
+    ],
+    "examples": [
+      {
+        "zh": "你吃午饭了吗？",
+        "es": "¿Ya almorzaste?"
+      },
+      {
+        "zh": "我们一起吃午饭吧。",
+        "es": "Almorcemos juntos."
+      },
+      {
+        "zh": "今天的午饭是面包和牛奶。",
+        "es": "El almuerzo de hoy es pan con leche."
+      },
+      {
+        "zh": "我每天中午十二点在学校吃午饭。",
+        "es": "Todos los días almuerzo en la escuela a las doce."
+      }
+    ]
+  },
+  {
+    "word": "期",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "período",
+      "etapa",
+      "número (de una publicación)",
+      "plazo"
+    ],
+    "examples": [
+      {
+        "zh": "这是第一期。",
+        "es": "Esta es la primera edición."
+      },
+      {
+        "zh": "这个项目的第二期明年开始。",
+        "es": "La segunda etapa de este proyecto empieza el próximo año."
+      },
+      {
+        "zh": "学校每年开两期汉语班。",
+        "es": "La escuela abre dos ciclos de clases de chino al año."
+      },
+      {
+        "zh": "下一期的新闻视频已经在网上了。",
+        "es": "El próximo episodio del video de noticias ya está en internet."
+      }
+    ]
+  },
+  {
+    "word": "放学",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salir de la escuela",
+      "terminar las clases (del día)"
+    ],
+    "examples": [
+      {
+        "zh": "我们几点放学？",
+        "es": "¿A qué hora salimos de la escuela?"
+      },
+      {
+        "zh": "放学以后我去找你。",
+        "es": "Después de clases te voy a buscar."
+      },
+      {
+        "zh": "孩子们放学回家了。",
+        "es": "Los niños salieron de la escuela y se fueron a casa."
+      },
+      {
+        "zh": "今天下午放学的时候，妈妈来学校接我。",
+        "es": "Hoy en la tarde, a la salida de clases, mi mamá vino a recogerme a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "说明",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "explicar",
+      "demostrar",
+      "explicación",
+      "instrucciones"
+    ],
+    "examples": [
+      {
+        "zh": "请说明原因。",
+        "es": "Por favor, explica la razón."
+      },
+      {
+        "zh": "你能说明一下这个计划吗？",
+        "es": "¿Puedes explicar este plan?"
+      },
+      {
+        "zh": "这个说明我看不明白。",
+        "es": "No entiendo estas instrucciones."
+      },
+      {
+        "zh": "他没来，说明他不想参加这个会议。",
+        "es": "No vino, lo que demuestra que no quería participar en esta reunión."
+      }
+    ]
+  }
+]

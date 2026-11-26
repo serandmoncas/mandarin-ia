@@ -1,0 +1,195 @@
+[
+  {
+    "id": "word:外地",
+    "ok": false,
+    "issues": [
+      "Pinyin: 哥哥 debe ser 'gē ge' (tono neutro), no 'gē gē'.",
+      "Pinyin: 时候 debe ser 'shí hou', no 'shí hòu'.",
+      "Ejemplo 4: '刚来外地上学' suena poco natural; es más común '刚到外地上学' o '刚去外地上学'."
+    ],
+    "content_hash": "e7536959428486f458b7f81398907bad283ca0b6"
+  },
+  {
+    "id": "word:适应",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 适应 aparece como 'shì yīng'; debe ser 'shì yìng'.",
+      "Pinyin: 时候 debe ser 'shí hou', no 'shí hòu'."
+    ],
+    "content_hash": "356d130ccabb6cb714f6281e30f4130e4a56c7d0"
+  },
+  {
+    "id": "word:体验",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b45c3c7d4e3efd39fbf7e053c235334ce7296c89"
+  },
+  {
+    "id": "word:普通话",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 en '说得很好' es 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "748811c907263e4714807838b24b082382b1dd57"
+  },
+  {
+    "id": "word:体育场",
+    "ok": false,
+    "issues": [
+      "Pinyin: 晚上 debe ser 'wǎn shang' (tono neutro), no 'wǎn shàng'."
+    ],
+    "content_hash": "51605aa6d3260356a512e1068f12ef830bd4c669"
+  },
+  {
+    "id": "word:照",
+    "ok": false,
+    "issues": [
+      "Pinyin: 照片 en la norma estándar es 'zhào piàn', no 'zhào piān'.",
+      "Pinyin: 舒服 debe ser 'shū fu', no 'shū fú'."
+    ],
+    "content_hash": "1d045cc824b2f18971fb6fe0236f6e31dad24e02"
+  },
+  {
+    "id": "word:行人",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 debe ser 'shí hou', no 'shí hòu'."
+    ],
+    "content_hash": "31cf548cd095409852ded033a9a6836daacf0d7f"
+  },
+  {
+    "id": "word:打印",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a362d41cf5e5d712d42e72b3f19c4c96bd1f1ea"
+  },
+  {
+    "id": "word:组合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d3ddaa82513037da5faafb1f6073092a4a6a2e1"
+  },
+  {
+    "id": "word:大自然",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 debe ser 'xǐ huan' (tono neutro), no 'xǐ huān'."
+    ],
+    "content_hash": "c845b58c6ee70b99b0ee8ef0cfc230d47db664ef"
+  },
+  {
+    "id": "word:好久",
+    "ok": false,
+    "issues": [
+      "Pinyin: 爸爸妈妈 debe ser 'bà ba mā ma', no 'bà bà mā mā'."
+    ],
+    "content_hash": "c7fdddb761fd4a1adafe5cbc1970730b56af5ec2"
+  },
+  {
+    "id": "word:动力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a4763a7b92a6a89ae84050d3d1138bfdcf308ae"
+  },
+  {
+    "id": "word:句子",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 长 en '很长' es 'cháng', no 'zhǎng'.",
+      "Pinyin: 明白 suele ser 'míng bai' (tono neutro), no 'míng bái'."
+    ],
+    "content_hash": "8218fe22224efaee531ee3f69f353e88673325da"
+  },
+  {
+    "id": "word:对待",
+    "ok": false,
+    "issues": [
+      "Pinyin: 朋友 debe ser 'péng you' (tono neutro), no 'péng yǒu'."
+    ],
+    "content_hash": "a49e53f6cc3d1a3299c54a9a5b40ef1acc0feed2"
+  },
+  {
+    "id": "word:快要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "140418fb81266d261ba1efbed4cd124b4ae4b74a"
+  },
+  {
+    "id": "word:脏",
+    "ok": false,
+    "issues": [
+      "Pinyin: 衣服 debe ser 'yī fu', no 'yī fú'; 外边 debe ser 'wài bian', no 'wài biān'.",
+      "Ejemplo 3: '用水洗一下' resulta poco natural para una mesa; lo habitual es '擦一下' (limpiarla, pasarle un trapo)."
+    ],
+    "content_hash": "2dc0d3095f12fe5e8ba4196e3c24b3a7170a438a"
+  },
+  {
+    "id": "word:住院",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 en '病得很严重' es 'de', no 'dé'."
+    ],
+    "content_hash": "4588abd62494d2009e81c7a41b1e6e9ad8806160"
+  },
+  {
+    "id": "word:南部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5300f288f2cccf90a3ae859ac56a15b272339ad0"
+  },
+  {
+    "id": "word:刻",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 en '高兴得笑了' es 'de', no 'dé'."
+    ],
+    "content_hash": "9fe4d6455e69416888f93dc6a09840417123062b"
+  },
+  {
+    "id": "word:配合",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 en '配合得很好' y '配合得不够好' es 'de', no 'dé'."
+    ],
+    "content_hash": "6620833d518a5759964692dd51ea583c2fa95315"
+  },
+  {
+    "id": "word:老年",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 debe ser 'shí hou', no 'shí hòu'."
+    ],
+    "content_hash": "d64df448f4c1ec88ec9ee2fa2e485b4e4a3c2312"
+  },
+  {
+    "id": "word:事实上",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 debe ser 'xǐ huan' (tono neutro), no 'xǐ huān'."
+    ],
+    "content_hash": "649c012461c40e16ecb1c6eb7d986378c9fd4044"
+  },
+  {
+    "id": "word:里头",
+    "ok": false,
+    "issues": [
+      "Pinyin: 外边 debe ser 'wài bian', no 'wài biān'; 漂亮 debe ser 'piào liang', no 'piào liàng'."
+    ],
+    "content_hash": "1bb0c98971d100c6712b3b569cd7b9d3e87c2d33"
+  },
+  {
+    "id": "word:首都",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e976abc64dcc3c0e9791583e8e8800b678a26cd3"
+  },
+  {
+    "id": "word:凉",
+    "ok": false,
+    "issues": [
+      "Pinyin: 早上 y 晚上 deben ser 'zǎo shang' y 'wǎn shang' (tono neutro).",
+      "Pinyin: 喜欢 debe ser 'xǐ huan' y 舒服 debe ser 'shū fu'."
+    ],
+    "content_hash": "6c09c75d3b91635e20f23ac63689b1195de9416b"
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "id": "word:高级",
+    "ok": false,
+    "issues": [
+      "En «我姐姐是一名高级工程师» el término es un título profesional; «ingeniera sénior» es más fiel que «de alto nivel».",
+      "Pinyin: 姐姐 se escribe jiě jie (segunda sílaba en tono neutro), no jiě jiě."
+    ],
+    "content_hash": "bf5948162b87c5b00355eb218e4d52e81162a643"
+  },
+  {
+    "id": "word:街",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96ba4dce550bb87102040329c6ef0890416e2c01"
+  },
+  {
+    "id": "word:开心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "184d6f8d29164d98309d17459aae0a0ee6728450"
+  },
+  {
+    "id": "word:城",
+    "ok": false,
+    "issues": [
+      "«这个城很大» suena poco natural; lo habitual es «这座城市很大».",
+      "El significado «pueblo» es engañoso: 城 se opone al campo (城里 vs. 乡下), y en español «pueblo» sugiere una localidad rural pequeña.",
+      "Pinyin: 这个 se escribe zhè ge (tono neutro), no zhè gè."
+    ],
+    "content_hash": "ce922da7379f2706f3adf8ef602acc52cf9b92be"
+  },
+  {
+    "id": "word:调整",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9effe6fcb5d0eef70b0e5a010d499a3cbfd572b5"
+  },
+  {
+    "id": "word:全面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3e5cecf7d30e315aeeb48993c6d4246534ca261"
+  },
+  {
+    "id": "word:眼睛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f47b0a1fc751ad0f71e8d8ab9828226bcab87f72"
+  },
+  {
+    "id": "word:首先",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e450a056c1a31fe32b66744c8475d8c2ef8b0b9f"
+  },
+  {
+    "id": "word:留下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a8d08d42cc4dc84e66839c0943168a8fd4cd8ae6"
+  },
+  {
+    "id": "word:查",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad99411bfe83dcfd6652f6d76faaa410c563d0a7"
+  },
+  {
+    "id": "word:打算",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1bc1ed3efe445debfed8ac10bc095376fedfd0a7"
+  },
+  {
+    "id": "word:状况",
+    "ok": false,
+    "issues": [
+      "«医生告诉我爸爸的状况不太好» es ambigua: puede leerse como «el médico le dijo a mi papá que su estado no es bueno». Para que coincida con la traducción, debería ser «医生告诉我，爸爸的状况不太好».",
+      "Pinyin: 告诉 se escribe gào su y 爸爸 se escribe bà ba (tono neutro)."
+    ],
+    "content_hash": "b04caf73b490ae313188c1577073db483b800a1d"
+  },
+  {
+    "id": "word:业务",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e4ba1e1f5069a80fa3e1d0fd9ce19d0f8efe3ff"
+  },
+  {
+    "id": "word:份",
+    "ok": false,
+    "issues": [
+      "Pinyin: 告诉 se escribe gào su (tono neutro), no gào sù."
+    ],
+    "content_hash": "75d34e14becd11a1ba02f2f21c7b99071f8a3ee0"
+  },
+  {
+    "id": "word:画",
+    "ok": false,
+    "issues": [
+      "Pinyin: 漂亮 se escribe piào liang (tono neutro), no piào liàng."
+    ],
+    "content_hash": "761c215cf9f16c1f670ef6f9c2e72518db4310e7"
+  },
+  {
+    "id": "word:协会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "601630ead583d778bb77b1265fa7e95eb11207a0"
+  },
+  {
+    "id": "word:政权",
+    "ok": false,
+    "issues": [
+      "«这个政权…它最后失去了权力» resulta redundante y poco natural (un 政权 que «pierde el poder»). Sería mejor «这个政权最后倒台了»."
+    ],
+    "content_hash": "21707db53a191dc4dc44e0b5a1ab55c61d1e8643"
+  },
+  {
+    "id": "word:接",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 se escribe mā ma (tono neutro), no mā mā."
+    ],
+    "content_hash": "3fe1c65c9c6317c27ecfd4613229966472142120"
+  },
+  {
+    "id": "word:申请",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a1cd5160efcae50d60d07df35c45487705d3337"
+  },
+  {
+    "id": "word:节",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0cdf6f313b6fd7bbfb094190ffe8b2c172aa1d0e"
+  },
+  {
+    "id": "word:设",
+    "ok": true,
+    "issues": [],
+    "content_hash": "46840ad7949db7f2fa96d6e134aa502a3664ab63"
+  },
+  {
+    "id": "word:购买",
+    "ok": false,
+    "issues": [
+      "Pinyin: 衣服 se escribe yī fu (tono neutro), no yī fú."
+    ],
+    "content_hash": "b0acf8fc42d137e1ecb6b05113d36d3d5c3fcb94"
+  },
+  {
+    "id": "word:面对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "41c4b0b7c4f3503e206474c0498b491ee9bf5b03"
+  },
+  {
+    "id": "word:商业",
+    "ok": false,
+    "issues": [
+      "«这里是商业中心» se traduce como «Aquí está el centro comercial de la ciudad», lo cual es infiel: «centro comercial» en español significa un mall, y «de la ciudad» no aparece en el original. Mejor: «Esta es la zona comercial».",
+      "Pinyin: 这个 se escribe zhè ge, no zhè gè."
+    ],
+    "content_hash": "4c83b9c8a948edd06ce8509980b3f32350d7caef"
+  },
+  {
+    "id": "word:速度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51e4e89b0a81eb549577f8fcef745de56ba791ec"
+  }
+]

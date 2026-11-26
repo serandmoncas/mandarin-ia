@@ -1,0 +1,553 @@
+[
+  {
+    "word": "综合",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "integral",
+      "combinar",
+      "general",
+      "integrar"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个综合问题。",
+        "es": "Este es un problema integral."
+      },
+      {
+        "zh": "我们要综合大家的意见。",
+        "es": "Tenemos que combinar las opiniones de todos."
+      },
+      {
+        "zh": "他的综合能力很强。",
+        "es": "Su capacidad general es muy alta."
+      },
+      {
+        "zh": "这家综合医院有很多好医生。",
+        "es": "Este hospital general tiene muchos buenos médicos."
+      }
+    ]
+  },
+  {
+    "word": "当地",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "local",
+      "del lugar"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢当地的菜。",
+        "es": "Me gusta la comida local."
+      },
+      {
+        "zh": "当地人都很好。",
+        "es": "La gente del lugar es muy amable."
+      },
+      {
+        "zh": "今天当地的天气很热。",
+        "es": "Hoy hace mucho calor en la zona."
+      },
+      {
+        "zh": "当地政府决定建设一个新学校。",
+        "es": "El gobierno local decidió construir una escuela nueva."
+      }
+    ]
+  },
+  {
+    "word": "发表",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "publicar",
+      "expresar (una opinión)",
+      "pronunciar (un discurso)"
+    ],
+    "examples": [
+      {
+        "zh": "你可以发表意见。",
+        "es": "Puedes dar tu opinión."
+      },
+      {
+        "zh": "老师发表了新的研究。",
+        "es": "El profesor publicó una nueva investigación."
+      },
+      {
+        "zh": "他在网上发表了很多照片。",
+        "es": "Él publicó muchas fotos en internet."
+      },
+      {
+        "zh": "主席在会议上发表了重要讲话。",
+        "es": "El presidente dio un discurso importante en la reunión."
+      }
+    ]
+  },
+  {
+    "word": "公开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "público",
+      "hacer público",
+      "abiertamente",
+      "divulgar"
+    ],
+    "examples": [
+      {
+        "zh": "这是公开的信息。",
+        "es": "Esta es información pública."
+      },
+      {
+        "zh": "他们公开了照片。",
+        "es": "Ellos hicieron públicas las fotos."
+      },
+      {
+        "zh": "政府已经公开了这些数据。",
+        "es": "El gobierno ya hizo públicos estos datos."
+      },
+      {
+        "zh": "这个问题我们不能公开讨论。",
+        "es": "No podemos discutir este problema públicamente."
+      }
+    ]
+  },
+  {
+    "word": "派",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "enviar",
+      "asignar",
+      "facción",
+      "escuela (de pensamiento o estilo)"
+    ],
+    "examples": [
+      {
+        "zh": "公司派他去北京。",
+        "es": "La empresa lo envió a Beijing."
+      },
+      {
+        "zh": "老师派我去买水。",
+        "es": "El maestro me mandó a comprar agua."
+      },
+      {
+        "zh": "他们派了两个人来帮忙。",
+        "es": "Enviaron a dos personas para ayudar."
+      },
+      {
+        "zh": "这两派的意见很不一样。",
+        "es": "Las opiniones de estas dos facciones son muy distintas."
+      }
+    ]
+  },
+  {
+    "word": "全部",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo",
+      "completo",
+      "en su totalidad"
+    ],
+    "examples": [
+      {
+        "zh": "这些全部是我的。",
+        "es": "Todo esto es mío."
+      },
+      {
+        "zh": "学生全部来了。",
+        "es": "Vinieron todos los estudiantes."
+      },
+      {
+        "zh": "我把钱全部给了他。",
+        "es": "Le di todo el dinero."
+      },
+      {
+        "zh": "他用一个下午做完了全部工作。",
+        "es": "Terminó todo el trabajo en una tarde."
+      }
+    ]
+  },
+  {
+    "word": "宣布",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "anunciar",
+      "declarar",
+      "proclamar"
+    ],
+    "examples": [
+      {
+        "zh": "老师宣布明天放假。",
+        "es": "El maestro anunció que mañana no hay clases."
+      },
+      {
+        "zh": "公司宣布了新计划。",
+        "es": "La empresa anunció un nuevo plan."
+      },
+      {
+        "zh": "他宣布比赛开始。",
+        "es": "Él declaró iniciada la competencia."
+      },
+      {
+        "zh": "政府今天宣布了新的教育政策。",
+        "es": "Hoy el gobierno anunció una nueva política educativa."
+      }
+    ]
+  },
+  {
+    "word": "自然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "naturaleza",
+      "natural",
+      "naturalmente",
+      "con naturalidad"
+    ],
+    "examples": [
+      {
+        "zh": "我很喜欢大自然。",
+        "es": "Me encanta la naturaleza."
+      },
+      {
+        "zh": "他说话很自然。",
+        "es": "Él habla con mucha naturalidad."
+      },
+      {
+        "zh": "我们应该保护自然环境。",
+        "es": "Debemos proteger el medio ambiente natural."
+      },
+      {
+        "zh": "多学习，你自然就会明白。",
+        "es": "Si estudias más, naturalmente lo vas a entender."
+      }
+    ]
+  },
+  {
+    "word": "最近",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "últimamente",
+      "recientemente",
+      "el más cercano",
+      "próximamente"
+    ],
+    "examples": [
+      {
+        "zh": "你最近好吗？",
+        "es": "¿Cómo has estado últimamente?"
+      },
+      {
+        "zh": "我最近很忙。",
+        "es": "Estos días he estado muy ocupado."
+      },
+      {
+        "zh": "最近的银行在哪里？",
+        "es": "¿Dónde está el banco más cercano?"
+      },
+      {
+        "zh": "最近天气很冷，你要多穿衣服。",
+        "es": "Últimamente hace mucho frío, abrígate bien."
+      }
+    ]
+  },
+  {
+    "word": "不到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "menos de",
+      "no alcanzar",
+      "no llegar"
+    ],
+    "examples": [
+      {
+        "zh": "他不到二十岁。",
+        "es": "Él tiene menos de veinte años."
+      },
+      {
+        "zh": "我找不到我的手机。",
+        "es": "No encuentro mi celular."
+      },
+      {
+        "zh": "坐车不到一个小时就到了。",
+        "es": "En auto se llega en menos de una hora."
+      },
+      {
+        "zh": "来参加会议的人不到一半。",
+        "es": "Vino menos de la mitad de la gente a la reunión."
+      }
+    ]
+  },
+  {
+    "word": "社区",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comunidad",
+      "barrio",
+      "vecindario"
+    ],
+    "examples": [
+      {
+        "zh": "我们社区很安全。",
+        "es": "Nuestro barrio es muy seguro."
+      },
+      {
+        "zh": "社区里有一个小商店。",
+        "es": "En el vecindario hay una tiendita."
+      },
+      {
+        "zh": "他在社区医院工作。",
+        "es": "Él trabaja en la clínica del barrio."
+      },
+      {
+        "zh": "这个社区的老人常常一起运动。",
+        "es": "Los adultos mayores de esta comunidad suelen hacer ejercicio juntos."
+      }
+    ]
+  },
+  {
+    "word": "范围",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alcance",
+      "rango",
+      "ámbito",
+      "límite"
+    ],
+    "examples": [
+      {
+        "zh": "这不在考试范围里。",
+        "es": "Esto no entra en el temario del examen."
+      },
+      {
+        "zh": "这个问题的范围很大。",
+        "es": "Este problema tiene un alcance muy amplio."
+      },
+      {
+        "zh": "请在这个范围内选择。",
+        "es": "Por favor, elige dentro de este rango."
+      },
+      {
+        "zh": "这次活动的范围包括全国各个城市。",
+        "es": "Esta actividad abarca todas las ciudades del país."
+      }
+    ]
+  },
+  {
+    "word": "功能",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "función",
+      "funcionalidad",
+      "capacidad"
+    ],
+    "examples": [
+      {
+        "zh": "这个功能怎么用？",
+        "es": "¿Cómo se usa esta función?"
+      },
+      {
+        "zh": "这个手机功能很多。",
+        "es": "Este celular tiene muchas funciones."
+      },
+      {
+        "zh": "新电脑有什么功能？",
+        "es": "¿Qué funciones tiene la computadora nueva?"
+      },
+      {
+        "zh": "这个网站增加了一些新功能。",
+        "es": "Este sitio web agregó algunas funciones nuevas."
+      }
+    ]
+  },
+  {
+    "word": "坚持",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "perseverar",
+      "insistir en",
+      "mantener",
+      "seguir adelante"
+    ],
+    "examples": [
+      {
+        "zh": "你要坚持下去！",
+        "es": "¡Tienes que seguir adelante!"
+      },
+      {
+        "zh": "他坚持每天跑步。",
+        "es": "Él corre todos los días sin falta."
+      },
+      {
+        "zh": "妈妈坚持要我吃早饭。",
+        "es": "Mi mamá insiste en que desayune."
+      },
+      {
+        "zh": "学习汉语最重要的是坚持。",
+        "es": "Lo más importante al aprender chino es la constancia."
+      }
+    ]
+  },
+  {
+    "word": "提高",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mejorar",
+      "aumentar",
+      "elevar",
+      "subir"
+    ],
+    "examples": [
+      {
+        "zh": "价格又提高了。",
+        "es": "Los precios subieron otra vez."
+      },
+      {
+        "zh": "我要提高汉语水平。",
+        "es": "Quiero mejorar mi nivel de chino."
+      },
+      {
+        "zh": "多读书能提高你的能力。",
+        "es": "Leer más puede mejorar tus habilidades."
+      },
+      {
+        "zh": "政府希望提高人民的生活水平。",
+        "es": "El gobierno quiere elevar el nivel de vida de la población."
+      }
+    ]
+  },
+  {
+    "word": "以为",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "creer (por error)",
+      "pensar",
+      "suponer"
+    ],
+    "examples": [
+      {
+        "zh": "我以为你不来了。",
+        "es": "Pensé que ya no venías."
+      },
+      {
+        "zh": "我以为他是老师。",
+        "es": "Creí que él era maestro."
+      },
+      {
+        "zh": "你以为这很简单吗？",
+        "es": "¿Crees que esto es fácil?"
+      },
+      {
+        "zh": "我以为今天会下雨，结果天气很好。",
+        "es": "Pensé que hoy iba a llover, pero hizo muy buen tiempo."
+      }
+    ]
+  },
+  {
+    "word": "意思",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "significado",
+      "intención",
+      "interés",
+      "detalle (como muestra de aprecio)"
+    ],
+    "examples": [
+      {
+        "zh": "这个字是什么意思？",
+        "es": "¿Qué significa este carácter?"
+      },
+      {
+        "zh": "我不明白你的意思。",
+        "es": "No entiendo lo que quieres decir."
+      },
+      {
+        "zh": "这个电影很有意思。",
+        "es": "Esta película es muy interesante."
+      },
+      {
+        "zh": "这只是一点小意思，谢谢你的帮助。",
+        "es": "Es solo un pequeño detalle; gracias por tu ayuda."
+      }
+    ]
+  },
+  {
+    "word": "搞",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer",
+      "encargarse de",
+      "organizar",
+      "conseguir"
+    ],
+    "examples": [
+      {
+        "zh": "你在搞什么？",
+        "es": "¿Qué estás haciendo?"
+      },
+      {
+        "zh": "别搞错了。",
+        "es": "No te vayas a equivocar."
+      },
+      {
+        "zh": "这个问题我搞不明白。",
+        "es": "No logro entender este problema."
+      },
+      {
+        "zh": "他们正在搞一个新项目。",
+        "es": "Están armando un proyecto nuevo."
+      }
+    ]
+  },
+  {
+    "word": "共同",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "común",
+      "conjunto",
+      "juntos",
+      "en conjunto"
+    ],
+    "examples": [
+      {
+        "zh": "我们要共同努力。",
+        "es": "Tenemos que esforzarnos juntos."
+      },
+      {
+        "zh": "我们有共同的爱好。",
+        "es": "Tenemos pasatiempos en común."
+      },
+      {
+        "zh": "这是我们共同的家。",
+        "es": "Este es el hogar de todos nosotros."
+      },
+      {
+        "zh": "两个国家共同解决了这个问题。",
+        "es": "Los dos países resolvieron este problema en conjunto."
+      }
+    ]
+  },
+  {
+    "word": "级",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nivel",
+      "grado",
+      "categoría",
+      "escalón"
+    ],
+    "examples": [
+      {
+        "zh": "你是几年级？",
+        "es": "¿En qué grado estás?"
+      },
+      {
+        "zh": "我弟弟上小学三年级。",
+        "es": "Mi hermano menor está en tercero de primaria."
+      },
+      {
+        "zh": "这是一家五星级饭店。",
+        "es": "Este es un hotel de cinco estrellas."
+      },
+      {
+        "zh": "他通过了汉语四级考试。",
+        "es": "Él aprobó el examen de chino de nivel cuatro."
+      }
+    ]
+  }
+]

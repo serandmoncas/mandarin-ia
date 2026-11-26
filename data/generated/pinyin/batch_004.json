@@ -1,0 +1,422 @@
+[
+  {
+    "word": "身上",
+    "examples": [
+      {
+        "zh": "我身上没有钱。",
+        "pinyin": "wo3 shen1 shang5 mei2 you3 qian2"
+      },
+      {
+        "zh": "你身上有手机吗？",
+        "pinyin": "ni3 shen1 shang5 you3 shou3 ji1 ma5"
+      },
+      {
+        "zh": "他身上的衣服很新。",
+        "pinyin": "ta1 shen1 shang5 de5 yi1 fu5 hen3 xin1"
+      },
+      {
+        "zh": "这种问题在很多孩子身上都会出现。",
+        "pinyin": "zhe4 zhong3 wen4 ti2 zai4 hen3 duo1 hai2 zi5 shen1 shang5 dou1 hui4 chu1 xian4"
+      }
+    ]
+  },
+  {
+    "word": "不用",
+    "examples": [
+      {
+        "zh": "不用谢！",
+        "pinyin": "bu4 yong4 xie4"
+      },
+      {
+        "zh": "你不用来了。",
+        "pinyin": "ni3 bu4 yong4 lai2 le5"
+      },
+      {
+        "zh": "明天不用去学校。",
+        "pinyin": "ming2 tian1 bu4 yong4 qu4 xue2 xiao4"
+      },
+      {
+        "zh": "这些东西我已经买了，你不用再买了。",
+        "pinyin": "zhe4 xie1 dong1 xi5 wo3 yi3 jing1 mai3 le5 ni3 bu4 yong4 zai4 mai3 le5"
+      }
+    ]
+  },
+  {
+    "word": "记得",
+    "examples": [
+      {
+        "zh": "我记得你。",
+        "pinyin": "wo3 ji4 de5 ni3"
+      },
+      {
+        "zh": "你还记得他的名字吗？",
+        "pinyin": "ni3 hai2 ji4 de5 ta1 de5 ming2 zi5 ma5"
+      },
+      {
+        "zh": "明天记得带手机。",
+        "pinyin": "ming2 tian1 ji4 de5 dai4 shou3 ji1"
+      },
+      {
+        "zh": "我不记得那个电影是什么时候看的了。",
+        "pinyin": "wo3 bu4 ji4 de5 na4 ge5 dian4 ying3 shi4 shen2 me5 shi2 hou5 kan4 de5 le5"
+      }
+    ]
+  },
+  {
+    "word": "教",
+    "examples": [
+      {
+        "zh": "她教中文。",
+        "pinyin": "ta1 jiao1 zhong1 wen2"
+      },
+      {
+        "zh": "老师教我们写字。",
+        "pinyin": "lao3 shi1 jiao1 wo3 men5 xie3 zi4"
+      },
+      {
+        "zh": "你可以教我用这个电脑吗？",
+        "pinyin": "ni3 ke3 yi3 jiao1 wo3 yong4 zhe4 ge5 dian4 nao3 ma5"
+      },
+      {
+        "zh": "我妈妈在大学教历史，已经教了二十年。",
+        "pinyin": "wo3 ma1 ma5 zai4 da4 xue2 jiao1 li4 shi3 yi3 jing1 jiao1 le5 er4 shi2 nian2"
+      }
+    ]
+  },
+  {
+    "word": "图",
+    "examples": [
+      {
+        "zh": "这张图很好看。",
+        "pinyin": "zhe4 zhang1 tu2 hen3 hao3 kan4"
+      },
+      {
+        "zh": "请看第二张图。",
+        "pinyin": "qing3 kan4 di4 er4 zhang1 tu2"
+      },
+      {
+        "zh": "他在电脑上画了一张图。",
+        "pinyin": "ta1 zai4 dian4 nao3 shang4 hua4 le5 yi1 zhang1 tu2"
+      },
+      {
+        "zh": "这张图告诉我们中国经济发展得很快。",
+        "pinyin": "zhe4 zhang1 tu2 gao4 su5 wo3 men5 zhong1 guo2 jing1 ji4 fa1 zhan3 de5 hen3 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "回家",
+    "examples": [
+      {
+        "zh": "我回家了。",
+        "pinyin": "wo3 hui2 jia1 le5"
+      },
+      {
+        "zh": "你什么时候回家？",
+        "pinyin": "ni3 shen2 me5 shi2 hou5 hui2 jia1"
+      },
+      {
+        "zh": "今天晚上我想早点回家。",
+        "pinyin": "jin1 tian1 wan3 shang5 wo3 xiang3 zao3 dian3 hui2 jia1"
+      },
+      {
+        "zh": "他已经很多年没有回家看妈妈了。",
+        "pinyin": "ta1 yi3 jing1 hen3 duo1 nian2 mei2 you3 hui2 jia1 kan4 ma1 ma5 le5"
+      }
+    ]
+  },
+  {
+    "word": "有人",
+    "examples": [
+      {
+        "zh": "有人吗？",
+        "pinyin": "you3 ren2 ma5"
+      },
+      {
+        "zh": "门外有人。",
+        "pinyin": "men2 wai4 you3 ren2"
+      },
+      {
+        "zh": "有人给你打电话了。",
+        "pinyin": "you3 ren2 gei3 ni3 da3 dian4 hua4 le5"
+      },
+      {
+        "zh": "有人喜欢一个人生活，有人喜欢和朋友住。",
+        "pinyin": "you3 ren2 xi3 huan5 yi1 ge4 ren2 sheng1 huo2 you3 ren2 xi3 huan5 he2 peng2 you5 zhu4"
+      }
+    ]
+  },
+  {
+    "word": "医生",
+    "examples": [
+      {
+        "zh": "我妈妈是医生。",
+        "pinyin": "wo3 ma1 ma5 shi4 yi1 sheng1"
+      },
+      {
+        "zh": "你应该去看医生。",
+        "pinyin": "ni3 ying1 gai1 qu4 kan4 yi1 sheng1"
+      },
+      {
+        "zh": "医生说我的身体没有问题。",
+        "pinyin": "yi1 sheng1 shuo1 wo3 de5 shen1 ti3 mei2 you3 wen4 ti2"
+      },
+      {
+        "zh": "他从小就想成为医生，现在在北京的医院工作。",
+        "pinyin": "ta1 cong2 xiao3 jiu4 xiang3 cheng2 wei2 yi1 sheng1 xian4 zai4 zai4 bei3 jing1 de5 yi1 yuan4 gong1 zuo4"
+      }
+    ]
+  },
+  {
+    "word": "自由",
+    "examples": [
+      {
+        "zh": "我想要自由。",
+        "pinyin": "wo3 xiang3 yao4 zi4 you2"
+      },
+      {
+        "zh": "你可以自由地说话。",
+        "pinyin": "ni3 ke3 yi3 zi4 you2 de5 shuo1 hua4"
+      },
+      {
+        "zh": "大学生活比以前自由多了。",
+        "pinyin": "da4 xue2 sheng1 huo2 bi3 yi3 qian2 zi4 you2 duo1 le5"
+      },
+      {
+        "zh": "很多人认为，自由比钱和工作都更重要。",
+        "pinyin": "hen3 duo1 ren2 ren4 wei2 zi4 you2 bi3 qian2 he2 gong1 zuo4 dou1 geng4 zhong4 yao4"
+      }
+    ]
+  },
+  {
+    "word": "台湾",
+    "examples": [
+      {
+        "zh": "我去过台湾。",
+        "pinyin": "wo3 qu4 guo5 tai2 wan1"
+      },
+      {
+        "zh": "她是台湾人。",
+        "pinyin": "ta1 shi4 tai2 wan1 ren2"
+      },
+      {
+        "zh": "我朋友明年想去台湾学习中文。",
+        "pinyin": "wo3 peng2 you5 ming2 nian2 xiang3 qu4 tai2 wan1 xue2 xi2 zhong1 wen2"
+      },
+      {
+        "zh": "台湾的东西很好吃，所以我每年都去一次。",
+        "pinyin": "tai2 wan1 de5 dong1 xi5 hen3 hao3 chi1 suo3 yi3 wo3 mei3 nian2 dou1 qu4 yi1 ci4"
+      }
+    ]
+  },
+  {
+    "word": "读",
+    "examples": [
+      {
+        "zh": "我喜欢读书。",
+        "pinyin": "wo3 xi3 huan5 du2 shu1"
+      },
+      {
+        "zh": "请你读一下这个字。",
+        "pinyin": "qing3 ni3 du2 yi1 xia4 zhe4 ge5 zi4"
+      },
+      {
+        "zh": "她的儿子在北京读大学。",
+        "pinyin": "ta1 de5 er2 zi5 zai4 bei3 jing1 du2 da4 xue2"
+      },
+      {
+        "zh": "这本书我读了三次，还是不太明白。",
+        "pinyin": "zhe4 ben3 shu1 wo3 du2 le5 san1 ci4 hai2 shi4 bu4 tai4 ming2 bai5"
+      }
+    ]
+  },
+  {
+    "word": "曾",
+    "examples": [
+      {
+        "zh": "我曾去过日本。",
+        "pinyin": "wo3 ceng2 qu4 guo5 ri4 ben3"
+      },
+      {
+        "zh": "他曾是一名老师。",
+        "pinyin": "ta1 ceng2 shi4 yi1 ming2 lao3 shi1"
+      },
+      {
+        "zh": "她曾在香港住过两年。",
+        "pinyin": "ta1 ceng2 zai4 xiang1 gang3 zhu4 guo5 liang3 nian2"
+      },
+      {
+        "zh": "我们曾认为这个问题不重要，但我们错了。",
+        "pinyin": "wo3 men5 ceng2 ren4 wei2 zhe4 ge5 wen4 ti2 bu4 zhong4 yao4 dan4 wo3 men5 cuo4 le5"
+      }
+    ]
+  },
+  {
+    "word": "当时",
+    "examples": [
+      {
+        "zh": "当时我在家。",
+        "pinyin": "dang1 shi2 wo3 zai4 jia1"
+      },
+      {
+        "zh": "当时你在哪里？",
+        "pinyin": "dang1 shi2 ni3 zai4 na3 li3"
+      },
+      {
+        "zh": "当时我还小，不知道发生了什么。",
+        "pinyin": "dang1 shi2 wo3 hai2 xiao3 bu4 zhi1 dao5 fa1 sheng1 le5 shen2 me5"
+      },
+      {
+        "zh": "我当时觉得他说得对，现在才明白他错了。",
+        "pinyin": "wo3 dang1 shi2 jue2 de5 ta1 shuo1 de5 dui4 xian4 zai4 cai2 ming2 bai5 ta1 cuo4 le5"
+      }
+    ]
+  },
+  {
+    "word": "常",
+    "examples": [
+      {
+        "zh": "我常去北京。",
+        "pinyin": "wo3 chang2 qu4 bei3 jing1"
+      },
+      {
+        "zh": "他常给妈妈打电话。",
+        "pinyin": "ta1 chang2 gei3 ma1 ma5 da3 dian4 hua4"
+      },
+      {
+        "zh": "我们常在一起吃东西。",
+        "pinyin": "wo3 men5 chang2 zai4 yi1 qi3 chi1 dong1 xi5"
+      },
+      {
+        "zh": "他小时候常和朋友在学校外面跑。",
+        "pinyin": "ta1 xiao3 shi2 hou5 chang2 he2 peng2 you5 zai4 xue2 xiao4 wai4 mian4 pao3"
+      }
+    ]
+  },
+  {
+    "word": "过去",
+    "examples": [
+      {
+        "zh": "过去的事就别想了。",
+        "pinyin": "guo4 qu4 de5 shi4 jiu4 bie2 xiang3 le5"
+      },
+      {
+        "zh": "过去我不喜欢吃这个。",
+        "pinyin": "guo4 qu4 wo3 bu4 xi3 huan5 chi1 zhe4 ge5"
+      },
+      {
+        "zh": "你先过去，我一会儿就来。",
+        "pinyin": "ni3 xian1 guo4 qu4 wo3 yi1 hui4 r5 jiu4 lai2"
+      },
+      {
+        "zh": "过去十年，这个城市发展得非常快。",
+        "pinyin": "guo4 qu4 shi2 nian2 zhe4 ge5 cheng2 shi4 fa1 zhan3 de5 fei1 chang2 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "回答",
+    "examples": [
+      {
+        "zh": "请回答我的问题。",
+        "pinyin": "qing3 hui2 da2 wo3 de5 wen4 ti2"
+      },
+      {
+        "zh": "他没有回答。",
+        "pinyin": "ta1 mei2 you3 hui2 da2"
+      },
+      {
+        "zh": "这个问题太难了，我回答不了。",
+        "pinyin": "zhe4 ge5 wen4 ti2 tai4 nan2 le5 wo3 hui2 da2 bu4 liao3"
+      },
+      {
+        "zh": "老师问了很多问题，她都回答得很好。",
+        "pinyin": "lao3 shi1 wen4 le5 hen3 duo1 wen4 ti2 ta1 dou1 hui2 da2 de5 hen3 hao3"
+      }
+    ]
+  },
+  {
+    "word": "认真",
+    "examples": [
+      {
+        "zh": "他学习很认真。",
+        "pinyin": "ta1 xue2 xi2 hen3 ren4 zhen1"
+      },
+      {
+        "zh": "请认真听。",
+        "pinyin": "qing3 ren4 zhen1 ting1"
+      },
+      {
+        "zh": "这只是个游戏，别太认真。",
+        "pinyin": "zhe4 zhi3 shi4 ge5 you2 xi4 bie2 tai4 ren4 zhen1"
+      },
+      {
+        "zh": "老师认真看了每个学生写的东西。",
+        "pinyin": "lao3 shi1 ren4 zhen1 kan4 le5 mei3 ge4 xue2 sheng5 xie3 de5 dong1 xi5"
+      }
+    ]
+  },
+  {
+    "word": "完全",
+    "examples": [
+      {
+        "zh": "我完全明白。",
+        "pinyin": "wo3 wan2 quan2 ming2 bai5"
+      },
+      {
+        "zh": "你说得完全对。",
+        "pinyin": "ni3 shuo1 de5 wan2 quan2 dui4"
+      },
+      {
+        "zh": "这两个地方完全不一样。",
+        "pinyin": "zhe4 liang3 ge4 di4 fang5 wan2 quan2 bu4 yi1 yang4"
+      },
+      {
+        "zh": "他说话太快了，我完全听不懂他在说什么。",
+        "pinyin": "ta1 shuo1 hua4 tai4 kuai4 le5 wo3 wan2 quan2 ting1 bu4 dong3 ta1 zai4 shuo1 shen2 me5"
+      }
+    ]
+  },
+  {
+    "word": "高兴",
+    "examples": [
+      {
+        "zh": "我今天很高兴。",
+        "pinyin": "wo3 jin1 tian1 hen3 gao1 xing4"
+      },
+      {
+        "zh": "认识你很高兴。",
+        "pinyin": "ren4 shi5 ni3 hen3 gao1 xing4"
+      },
+      {
+        "zh": "妈妈看到我回家，非常高兴。",
+        "pinyin": "ma1 ma5 kan4 dao4 wo3 hui2 jia1 fei1 chang2 gao1 xing4"
+      },
+      {
+        "zh": "他知道自己找到工作以后，高兴得说不出话来。",
+        "pinyin": "ta1 zhi1 dao5 zi4 ji3 zhao3 dao4 gong1 zuo4 yi3 hou4 gao1 xing4 de5 shuo1 bu4 chu1 hua4 lai2"
+      }
+    ]
+  },
+  {
+    "word": "管理",
+    "examples": [
+      {
+        "zh": "他管理这家公司。",
+        "pinyin": "ta1 guan3 li3 zhe4 jia1 gong1 si1"
+      },
+      {
+        "zh": "我在大学学习管理。",
+        "pinyin": "wo3 zai4 da4 xue2 xue2 xi2 guan3 li3"
+      },
+      {
+        "zh": "孩子的钱由妈妈管理。",
+        "pinyin": "hai2 zi5 de5 qian2 you2 ma1 ma5 guan3 li3"
+      },
+      {
+        "zh": "这个系统让学校可以更好地管理学生的资料。",
+        "pinyin": "zhe4 ge5 xi4 tong3 rang4 xue2 xiao4 ke3 yi3 geng4 hao3 de5 guan3 li3 xue2 sheng5 de5 zi1 liao4"
+      }
+    ]
+  }
+]

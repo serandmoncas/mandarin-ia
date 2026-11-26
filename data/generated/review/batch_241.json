@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:礼物",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ffd09b124594fa7329a10d63bb9909196d3874d5"
+  },
+  {
+    "id": "word:指导",
+    "ok": true,
+    "issues": [],
+    "content_hash": "afbff401b35460068111fb6072a62889bb184468"
+  },
+  {
+    "id": "word:什么样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e50785149652f32b5f1ebb7c69cbc77cf845aa3b"
+  },
+  {
+    "id": "word:准确",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9fc31f1eead6e9729fe1b2e644ab0ef09f540729"
+  },
+  {
+    "id": "word:电视台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e75267d735bc21019106881f546c19bda7dbf0be"
+  },
+  {
+    "id": "word:作业",
+    "ok": false,
+    "issues": [
+      "Error de pinyin en el ejemplo 4: 'zuò zuo yè' debería ser 'zuò zuò yè' (做作业)."
+    ],
+    "content_hash": "45a8534b645881714ee431ebe64af7b56bc7e6ab"
+  },
+  {
+    "id": "word:合适",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3d67461312677c8b4ab2926931e424e10e5ce3aa"
+  },
+  {
+    "id": "word:加油",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ea4d951cd422db8b70437a9b21e0c42f38cfdd8d"
+  },
+  {
+    "id": "word:借",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d6d6841abb829d1f735a77c22c97ed61c54652b4"
+  },
+  {
+    "id": "word:杂志",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1317677d4269dec4747da3b1536043b927acad7e"
+  },
+  {
+    "id": "word:值",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80e5627142ac46448da039afbfb43798095a0efc"
+  },
+  {
+    "id": "word:随便",
+    "ok": true,
+    "issues": [],
+    "content_hash": "615f75738afed8eef126ce51e23de6608700ff3f"
+  },
+  {
+    "id": "word:从事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bce9751b1310bff94d8e1a68612d827bbd2289fd"
+  },
+  {
+    "id": "word:访问",
+    "ok": false,
+    "issues": [
+      "El significado 'entrevistar' es propio de Taiwán (así lo marca CEDICT); en China continental se usa 采访. Conviene indicarlo como uso regional."
+    ],
+    "content_hash": "b9c5050ed14e6c7c92bd632cdfbe79cf082aa382"
+  },
+  {
+    "id": "word:答应",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f91e54f683715cbe62203aff4417c40f7ecd14aa"
+  },
+  {
+    "id": "word:概念",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69746d3c71d4a1f94b54e91ebcc517e4a442b8fd"
+  },
+  {
+    "id": "word:久",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 好久不见 se transcribe normalmente 'hǎo jiǔ bú jiàn' (不 con sandhi a segundo tono), no 'bu' en tono neutro."
+    ],
+    "content_hash": "1852dfe1c27048982cc9ed8bf8f47351d7139080"
+  },
+  {
+    "id": "word:周末",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96e4a66884a490f1cff82ae081e8325b275e469c"
+  },
+  {
+    "id": "word:那时候",
+    "ok": true,
+    "issues": [],
+    "content_hash": "743f86ddaff96058965ea6cc51c7fd25baa3da5d"
+  },
+  {
+    "id": "word:美丽",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de0ff3cb95fab48c68d73e1cdb706dd9c076d1b0"
+  },
+  {
+    "id": "word:球队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70067bfc00c5ee74861a1f5b8f5c092e79f6d3f5"
+  },
+  {
+    "id": "word:某",
+    "ok": true,
+    "issues": [],
+    "content_hash": "59a2057ce7ad3da16bad9355e88f6595e09b0207"
+  },
+  {
+    "id": "word:评价",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6600e60743f77047f392707c2f6f03b1880515ec"
+  },
+  {
+    "id": "word:强烈",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: '今天的太阳很强烈' suena poco natural; lo habitual es '今天的阳光很强烈' o '今天太阳很大'."
+    ],
+    "content_hash": "36e7d52cbc2824d4901efabb98b953058a786f6c"
+  },
+  {
+    "id": "word:做法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "175d242e7bfd9e392c9d196537e4e4a164df1cf4"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "id": "char:线",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91c9edc3f15424cbb54121bccf663b9176e5286f"
+  },
+  {
+    "id": "char:终",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1de5411916d03033e6632c681ee22c1eb236302b"
+  },
+  {
+    "id": "char:足",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c966c78de23679c64a007356fa83165a22b7425"
+  },
+  {
+    "id": "char:免",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96403a7a790e4353b6b4b5308b05652bb554fc44"
+  },
+  {
+    "id": "char:费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fd13920435b17a497f695791c55593224217596f"
+  },
+  {
+    "id": "char:印",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e99b56cc890719e90b1a8b5726a653f0d872132"
+  },
+  {
+    "id": "char:型",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d28f657f4e7573ca4ebf12842a502aa58e1eb2cc"
+  },
+  {
+    "id": "char:空",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b1bd20c0284a4df4d6c2522f7c9790eb224f514"
+  },
+  {
+    "id": "char:钟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "505dc7472270c6f686648e0c270449b0848c8406"
+  },
+  {
+    "id": "char:靠",
+    "ok": true,
+    "issues": [],
+    "content_hash": "19811a189d9bb387768706701a80ba96467e7a2a"
+  },
+  {
+    "id": "char:积",
+    "ok": true,
+    "issues": [],
+    "content_hash": "68f1f973930533576ab52665c9a0578d5ba546a8"
+  },
+  {
+    "id": "char:章",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a79c725a59eeca473a47e46d448f4b5589e7f82f"
+  },
+  {
+    "id": "char:亿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f6a810121f5ac5ea33eaa7867475b9f8d86010e7"
+  },
+  {
+    "id": "char:义",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a1c551c90cd88a11697b9d82efc59c743235a33f"
+  },
+  {
+    "id": "char:乎",
+    "ok": false,
+    "issues": [
+      "El ejemplo 似乎 no ilustra el uso interrogativo: ahí 乎 es un sufijo de adverbio o verbo, no una partícula de pregunta. Conviene aclararlo o usar un ejemplo interrogativo como 在乎 o el uso clásico (…乎？).",
+      "La parte superior de 乎 es un trazo inclinado (丿) más dos puntos, no exactamente 'tres gotitas'. Es una imagen algo forzada."
+    ],
+    "content_hash": "d91f7aacaaaa52577c0f2d5ccea501b60cbd3a14"
+  },
+  {
+    "id": "char:哦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3cfc3bfbf32fdd45bca00a43a5d1816bb7d09402"
+  },
+  {
+    "id": "char:若",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bb0a69a46070193419ef120b96bbf5364f3b4334"
+  },
+  {
+    "id": "char:队",
+    "ok": true,
+    "issues": [],
+    "content_hash": "492c8f52d1bb894ae284f41d35970fbb671e9bdb"
+  },
+  {
+    "id": "char:拉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d869e6db3282d20b629a1e94f447f14095cc6a8"
+  },
+  {
+    "id": "char:亚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4173c663716f43746a52f473845cda2ccf62a5f"
+  },
+  {
+    "id": "char:唯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec7185e972ea4ed86595b4cc9b92ddef60d54e31"
+  },
+  {
+    "id": "char:居",
+    "ok": true,
+    "issues": [],
+    "content_hash": "745ad7713a2f492cb8c9c01288b8503f4b530295"
+  },
+  {
+    "id": "char:谓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9de2c826430aec56e953947543cdea8e99777726"
+  },
+  {
+    "id": "char:肯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6456c2268e227b2125cefe704eecca912052bbb6"
+  },
+  {
+    "id": "char:低",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f1148db4d84cf0970b7389c62de5b5cac5d35f1"
+  }
+]

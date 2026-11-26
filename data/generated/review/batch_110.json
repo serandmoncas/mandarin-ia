@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80e729f3d3f90a5b6eb413f26b39b5b5c9248d9e"
+  },
+  {
+    "id": "char:至",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb0591163c8855363f6efe6ba2ff10f2f9ae8db2"
+  },
+  {
+    "id": "char:先",
+    "ok": true,
+    "issues": [],
+    "content_hash": "106da5b1e9cf7d04452504b4a862baa833cd5b3d"
+  },
+  {
+    "id": "char:二",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5b0168123ea6a5e2e55ef8932f2c9c85b4e1c4e"
+  },
+  {
+    "id": "char:男",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f337fd96f5c47bbd71ebf60ffe8d140840fbf5c"
+  },
+  {
+    "id": "char:万",
+    "ok": true,
+    "issues": [],
+    "content_hash": "534ae7404c38fb1addcf3aaf07d76e5cdf0d7f92"
+  },
+  {
+    "id": "char:住",
+    "ok": true,
+    "issues": [],
+    "content_hash": "404de883a798b57f8d6908c6827dbfaa45fa6f87"
+  },
+  {
+    "id": "char:像",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0460b19619adef53f250b0cd7e6f2bb5dac2895f"
+  },
+  {
+    "id": "char:关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb0be53f7854b8fbab752912aa10562ef8815be9"
+  },
+  {
+    "id": "char:系",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a06af41288c089ea18aaebc3be4791c56ec50ab"
+  },
+  {
+    "id": "char:别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f572154aa264e52824b83cfc7d96064e73ed3565"
+  },
+  {
+    "id": "char:回",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4f737956e40390fffe88033a9ab18913ea4b102"
+  },
+  {
+    "id": "char:书",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4becf75289037ed5217146fcaf0531d70faa4cd9"
+  },
+  {
+    "id": "char:送",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e1f271dbe212f4d0ba239f283408b7724d4b150"
+  },
+  {
+    "id": "char:研",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a500effb804fd85070b8aff68129a8d76ebfb4e"
+  },
+  {
+    "id": "char:究",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7393cc91e5368a059e76c16ff308424d4888b4e9"
+  },
+  {
+    "id": "char:医",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f84f2128f95e8b2e346945ff89b1f661f4ee9877"
+  },
+  {
+    "id": "char:院",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4faab9af5ad28e6022c8ca8fc27f0bc0fb103915"
+  },
+  {
+    "id": "char:根",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9eb47b7c03861931994bcb7c8012e0166a619277"
+  },
+  {
+    "id": "char:据",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bfa33bfbad64e8c91d97c4c3a63b94f3dc5aea88"
+  },
+  {
+    "id": "char:此",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dfd1a06dd8d5fdf38dbb7ac9cf2d134da049859b"
+  },
+  {
+    "id": "char:水",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d59fdc875e3a81026e07c8da9711585bf31b974"
+  },
+  {
+    "id": "char:统",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c4faf912ad72ff0e8ed12a8a091ec5cced69ae8"
+  },
+  {
+    "id": "char:服",
+    "ok": false,
+    "issues": [
+      "La lista de componentes está mal formateada: «cuerpo (carne)» aparece como si fuera un componente aparte, sin carácter asociado. Debería decir «月 = luna; cuerpo (carne)» como un solo componente."
+    ],
+    "content_hash": "c2975f0da7d6e83cd0d171476059bf0248403fbd"
+  },
+  {
+    "id": "char:务",
+    "ok": true,
+    "issues": [],
+    "content_hash": "534a488c2ed05c4008e85a00246b94ba70bac6b8"
+  }
+]

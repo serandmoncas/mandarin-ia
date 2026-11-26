@@ -1,0 +1,527 @@
+[
+  {
+    "word": "班级",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grupo (de alumnos), salón de clase",
+      "grado escolar"
+    ],
+    "examples": [
+      {
+        "zh": "我们班级有三十个学生。",
+        "es": "Nuestro grupo tiene treinta alumnos."
+      },
+      {
+        "zh": "这个班级的老师很好。",
+        "es": "La maestra de este grupo es muy buena."
+      },
+      {
+        "zh": "他是我们班级最高的学生。",
+        "es": "Él es el alumno más alto de nuestro grupo."
+      },
+      {
+        "zh": "我们班级的同学下午一起去打球了。",
+        "es": "Los compañeros de nuestro grupo fueron a jugar a la pelota juntos en la tarde."
+      }
+    ]
+  },
+  {
+    "word": "不光",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no solo",
+      "no únicamente"
+    ],
+    "examples": [
+      {
+        "zh": "不光我去，他也去。",
+        "es": "No solo voy yo, él también va."
+      },
+      {
+        "zh": "这里不光有茶，还有咖啡。",
+        "es": "Aquí no solo hay té, también hay café."
+      },
+      {
+        "zh": "他不光会说汉语，还会写汉字。",
+        "es": "Él no solo sabe hablar chino, también sabe escribir caracteres."
+      },
+      {
+        "zh": "不光是学生，老师也喜欢这个游戏。",
+        "es": "No solo a los estudiantes, a los maestros también les gusta este juego."
+      }
+    ]
+  },
+  {
+    "word": "房东",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "casero, arrendador",
+      "dueño de la vivienda"
+    ],
+    "examples": [
+      {
+        "zh": "我的房东是一位老人。",
+        "es": "Mi casero es un señor mayor."
+      },
+      {
+        "zh": "房东今天来收房租了。",
+        "es": "El casero vino hoy a cobrar la renta."
+      },
+      {
+        "zh": "我们给房东打电话，可是他没有回答。",
+        "es": "Le llamamos al casero, pero no contestó."
+      },
+      {
+        "zh": "房东说下个月房租要增加一百元。",
+        "es": "El casero dijo que el próximo mes la renta va a subir cien yuanes."
+      }
+    ]
+  },
+  {
+    "word": "信封",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sobre (de carta)"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个信封。",
+        "es": "Esto es un sobre."
+      },
+      {
+        "zh": "请把信放进信封里。",
+        "es": "Por favor, mete la carta en el sobre."
+      },
+      {
+        "zh": "信封上写着我的名字。",
+        "es": "El sobre tiene escrito mi nombre."
+      },
+      {
+        "zh": "她在商店买了十个白色的信封。",
+        "es": "Ella compró diez sobres blancos en la tienda."
+      }
+    ]
+  },
+  {
+    "word": "干吗",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿qué haces?, ¿qué vas a hacer?",
+      "¿por qué?",
+      "¿para qué?"
+    ],
+    "examples": [
+      {
+        "zh": "你在干吗？",
+        "es": "¿Qué estás haciendo?"
+      },
+      {
+        "zh": "你明天干吗？",
+        "es": "¿Qué vas a hacer mañana?"
+      },
+      {
+        "zh": "你干吗不去？",
+        "es": "¿Por qué no vas?"
+      },
+      {
+        "zh": "你干吗不告诉我你生病了？",
+        "es": "¿Por qué no me dijiste que estabas enfermo?"
+      }
+    ]
+  },
+  {
+    "word": "歌迷",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fan (de un cantante)",
+      "admirador"
+    ],
+    "examples": [
+      {
+        "zh": "我是她的歌迷。",
+        "es": "Soy fan de ella."
+      },
+      {
+        "zh": "很多歌迷在门口等她。",
+        "es": "Muchos fans la esperan en la entrada."
+      },
+      {
+        "zh": "这个歌手有很多外国歌迷。",
+        "es": "Este cantante tiene muchos fans extranjeros."
+      },
+      {
+        "zh": "演唱会结束以后，歌迷们还不想离开。",
+        "es": "Después de que terminó el concierto, los fans todavía no querían irse."
+      }
+    ]
+  },
+  {
+    "word": "电子邮件",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "correo electrónico",
+      "email"
+    ],
+    "examples": [
+      {
+        "zh": "我给你发了一封电子邮件。",
+        "es": "Te mandé un correo electrónico."
+      },
+      {
+        "zh": "你收到我的电子邮件了吗？",
+        "es": "¿Recibiste mi correo electrónico?"
+      },
+      {
+        "zh": "请用电子邮件把资料发给我。",
+        "es": "Por favor, mándame la información por correo electrónico."
+      },
+      {
+        "zh": "老师每天早上都要看很多电子邮件。",
+        "es": "Todas las mañanas el maestro tiene que leer muchos correos electrónicos."
+      }
+    ]
+  },
+  {
+    "word": "跑步",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "correr",
+      "trotar",
+      "(militar) marchar a paso ligero"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢跑步。",
+        "es": "Me gusta correr."
+      },
+      {
+        "zh": "跑步对身体很好。",
+        "es": "Correr es muy bueno para la salud."
+      },
+      {
+        "zh": "他每天早上去公园跑步。",
+        "es": "Él va a correr al parque todas las mañanas."
+      },
+      {
+        "zh": "下雨的时候，我们不能在外边跑步。",
+        "es": "Cuando llueve, no podemos correr afuera."
+      }
+    ]
+  },
+  {
+    "word": "巧",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "qué casualidad, por coincidencia",
+      "hábil, habilidoso",
+      "oportuno"
+    ],
+    "examples": [
+      {
+        "zh": "真巧！",
+        "es": "¡Qué casualidad!"
+      },
+      {
+        "zh": "你也在这里？太巧了！",
+        "es": "¿Tú también estás aquí? ¡Qué coincidencia!"
+      },
+      {
+        "zh": "她的手很巧，会做很多东西。",
+        "es": "Ella es muy hábil con las manos y sabe hacer muchas cosas."
+      },
+      {
+        "zh": "我正要给你打电话，真巧，你就来了。",
+        "es": "Justo te iba a llamar y, qué casualidad, llegaste."
+      }
+    ]
+  },
+  {
+    "word": "国庆",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Día Nacional",
+      "fiesta nacional"
+    ],
+    "examples": [
+      {
+        "zh": "国庆快乐！",
+        "es": "¡Feliz Día Nacional!"
+      },
+      {
+        "zh": "国庆的时候我们放假。",
+        "es": "En el Día Nacional tenemos vacaciones."
+      },
+      {
+        "zh": "今年国庆我想去北京旅游。",
+        "es": "Este Día Nacional quiero ir de viaje a Pekín."
+      },
+      {
+        "zh": "国庆期间，很多人回家看父母。",
+        "es": "Durante las fiestas nacionales, mucha gente regresa a casa a ver a sus padres."
+      }
+    ]
+  },
+  {
+    "word": "卫生间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "baño",
+      "sanitario"
+    ],
+    "examples": [
+      {
+        "zh": "卫生间在哪儿？",
+        "es": "¿Dónde está el baño?"
+      },
+      {
+        "zh": "请问，这里有卫生间吗？",
+        "es": "Disculpe, ¿hay baño aquí?"
+      },
+      {
+        "zh": "卫生间在楼上左边。",
+        "es": "El baño está arriba, a la izquierda."
+      },
+      {
+        "zh": "这个房间很大，还有一个干净的卫生间。",
+        "es": "Este cuarto es muy grande y además tiene un baño limpio."
+      }
+    ]
+  },
+  {
+    "word": "红酒",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vino tinto"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢喝红酒。",
+        "es": "Me gusta tomar vino tinto."
+      },
+      {
+        "zh": "晚饭的时候，他喝了一杯红酒。",
+        "es": "En la cena, él se tomó una copa de vino tinto."
+      },
+      {
+        "zh": "这瓶红酒是朋友送给我的。",
+        "es": "Esta botella de vino tinto me la regaló un amigo."
+      },
+      {
+        "zh": "法国的红酒很有名，可是有点儿贵。",
+        "es": "El vino tinto francés es muy famoso, pero es un poco caro."
+      }
+    ]
+  },
+  {
+    "word": "收音机",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "radio (aparato)"
+    ],
+    "examples": [
+      {
+        "zh": "这是我爷爷的收音机。",
+        "es": "Este es el radio de mi abuelo."
+      },
+      {
+        "zh": "他每天用收音机听新闻。",
+        "es": "Él escucha las noticias en el radio todos los días."
+      },
+      {
+        "zh": "我的收音机坏了，不能听了。",
+        "es": "Mi radio se descompuso y ya no se puede escuchar."
+      },
+      {
+        "zh": "以前很多人在家里用收音机听音乐。",
+        "es": "Antes mucha gente escuchaba música en casa con el radio."
+      }
+    ]
+  },
+  {
+    "word": "邮票",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estampilla",
+      "timbre postal"
+    ],
+    "examples": [
+      {
+        "zh": "我想买两张邮票。",
+        "es": "Quiero comprar dos estampillas."
+      },
+      {
+        "zh": "这个信封上没有邮票。",
+        "es": "Este sobre no tiene estampilla."
+      },
+      {
+        "zh": "他有很多外国邮票。",
+        "es": "Él tiene muchas estampillas extranjeras."
+      },
+      {
+        "zh": "请问，到美国的信要多少钱的邮票？",
+        "es": "Disculpe, ¿cuánto cuestan las estampillas para una carta a Estados Unidos?"
+      }
+    ]
+  },
+  {
+    "word": "本领",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "habilidad",
+      "capacidad",
+      "talento"
+    ],
+    "examples": [
+      {
+        "zh": "他的本领很大。",
+        "es": "Él tiene mucha habilidad."
+      },
+      {
+        "zh": "我想学一些新本领。",
+        "es": "Quiero aprender algunas habilidades nuevas."
+      },
+      {
+        "zh": "她有很多本领，会唱歌，也会画画。",
+        "es": "Ella tiene muchos talentos: sabe cantar y también dibujar."
+      },
+      {
+        "zh": "年轻人应该多学习，提高自己的本领。",
+        "es": "Los jóvenes deben estudiar más para mejorar sus capacidades."
+      }
+    ]
+  },
+  {
+    "word": "连续剧",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "serie de televisión",
+      "telenovela"
+    ],
+    "examples": [
+      {
+        "zh": "我妈妈喜欢看连续剧。",
+        "es": "A mi mamá le gusta ver telenovelas."
+      },
+      {
+        "zh": "这部连续剧很好看。",
+        "es": "Esta serie está muy buena."
+      },
+      {
+        "zh": "晚上他在家看韩国连续剧。",
+        "es": "En la noche él ve series coreanas en casa."
+      },
+      {
+        "zh": "这部连续剧一共有四十集，我已经看完了。",
+        "es": "Esta serie tiene cuarenta episodios en total y ya la terminé."
+      }
+    ]
+  },
+  {
+    "word": "邮箱",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "correo electrónico (dirección)",
+      "bandeja de entrada",
+      "buzón",
+      "apartado postal"
+    ],
+    "examples": [
+      {
+        "zh": "你的邮箱是什么？",
+        "es": "¿Cuál es tu correo electrónico?"
+      },
+      {
+        "zh": "请看一下你的邮箱。",
+        "es": "Por favor, revisa tu bandeja de entrada."
+      },
+      {
+        "zh": "门口有一个红色的邮箱。",
+        "es": "En la entrada hay un buzón rojo."
+      },
+      {
+        "zh": "我的邮箱里有很多广告邮件，我都不看。",
+        "es": "En mi bandeja de entrada hay muchos correos de publicidad, y no leo ninguno."
+      }
+    ]
+  },
+  {
+    "word": "跳高",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salto de altura"
+    ],
+    "examples": [
+      {
+        "zh": "他喜欢跳高。",
+        "es": "A él le gusta el salto de altura."
+      },
+      {
+        "zh": "她跳高跳得很好。",
+        "es": "Ella es muy buena en el salto de altura."
+      },
+      {
+        "zh": "明天学校有跳高比赛。",
+        "es": "Mañana hay una competencia de salto de altura en la escuela."
+      },
+      {
+        "zh": "他每天下午练习跳高，希望得到金牌。",
+        "es": "Él practica salto de altura todas las tardes; espera ganar la medalla de oro."
+      }
+    ]
+  },
+  {
+    "word": "整齐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ordenado",
+      "arreglado",
+      "parejo, uniforme"
+    ],
+    "examples": [
+      {
+        "zh": "他的房间很整齐。",
+        "es": "Su cuarto está muy ordenado."
+      },
+      {
+        "zh": "请把书放整齐。",
+        "es": "Por favor, acomoda bien los libros."
+      },
+      {
+        "zh": "学生们穿着整齐的衣服。",
+        "es": "Los estudiantes llevan ropa bien arreglada."
+      },
+      {
+        "zh": "这条路两边的树又高又整齐。",
+        "es": "Los árboles a ambos lados de este camino son altos y parejos."
+      }
+    ]
+  },
+  {
+    "word": "束",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "ramo (clasificador para flores)",
+      "manojo, haz (también de luz)",
+      "atar, amarrar",
+      "controlar, restringir"
+    ],
+    "examples": [
+      {
+        "zh": "我送给她一束花。",
+        "es": "Le regalé un ramo de flores."
+      },
+      {
+        "zh": "这束花真漂亮。",
+        "es": "Este ramo de flores está precioso."
+      },
+      {
+        "zh": "一束阳光照进了房间。",
+        "es": "Un rayo de sol entró en el cuarto."
+      },
+      {
+        "zh": "他生日的时候，朋友们送给他一大束花。",
+        "es": "En su cumpleaños, sus amigos le regalaron un ramo grande de flores."
+      }
+    ]
+  }
+]

@@ -1,0 +1,543 @@
+[
+  {
+    "word": "的",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de (posesión)",
+      "partícula que une un modificador con un sustantivo",
+      "partícula que forma sustantivos (el/la que…)",
+      "partícula de énfasis al final de la frase"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的书。",
+        "es": "Este es mi libro."
+      },
+      {
+        "zh": "他是我的好朋友。",
+        "es": "Él es mi buen amigo."
+      },
+      {
+        "zh": "红色的那个是你的吗？",
+        "es": "¿El rojo es tuyo?"
+      },
+      {
+        "zh": "我是坐飞机来的，不是坐火车来的。",
+        "es": "Vine en avión, no en tren."
+      }
+    ]
+  },
+  {
+    "word": "是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ser",
+      "sí; correcto",
+      "de verdad (énfasis)"
+    ],
+    "examples": [
+      {
+        "zh": "我是学生。",
+        "es": "Soy estudiante."
+      },
+      {
+        "zh": "他是老师吗？",
+        "es": "¿Él es maestro?"
+      },
+      {
+        "zh": "是，你说得没错。",
+        "es": "Sí, tienes razón."
+      },
+      {
+        "zh": "这本书是我昨天在商店买的。",
+        "es": "Este libro lo compré ayer en la tienda."
+      }
+    ]
+  },
+  {
+    "word": "在",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar (en un lugar)",
+      "en",
+      "estar haciendo algo (acción en curso)",
+      "existir; vivir"
+    ],
+    "examples": [
+      {
+        "zh": "我在家。",
+        "es": "Estoy en casa."
+      },
+      {
+        "zh": "你妈妈在吗？",
+        "es": "¿Está tu mamá?"
+      },
+      {
+        "zh": "他在学习中文。",
+        "es": "Él está estudiando chino."
+      },
+      {
+        "zh": "我们明天在学校门口见面吧。",
+        "es": "Veámonos mañana en la entrada de la escuela."
+      }
+    ]
+  },
+  {
+    "word": "了",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "partícula de acción terminada",
+      "partícula de cambio de situación",
+      "partícula de énfasis"
+    ],
+    "examples": [
+      {
+        "zh": "我吃饭了。",
+        "es": "Ya comí."
+      },
+      {
+        "zh": "下雨了。",
+        "es": "Empezó a llover."
+      },
+      {
+        "zh": "他昨天买了三本书。",
+        "es": "Ayer él compró tres libros."
+      },
+      {
+        "zh": "我已经等了你一个小时了。",
+        "es": "Ya llevo una hora esperándote."
+      }
+    ]
+  },
+  {
+    "word": "我",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "yo",
+      "me; mí",
+      "mi"
+    ],
+    "examples": [
+      {
+        "zh": "我很好。",
+        "es": "Estoy muy bien."
+      },
+      {
+        "zh": "我叫小明。",
+        "es": "Me llamo Xiaoming."
+      },
+      {
+        "zh": "你可以帮我一下吗？",
+        "es": "¿Me puedes ayudar un momento?"
+      },
+      {
+        "zh": "我每天早上都喝一杯咖啡。",
+        "es": "Todas las mañanas me tomo una taza de café."
+      }
+    ]
+  },
+  {
+    "word": "和",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "y",
+      "con",
+      "empatar",
+      "armonioso"
+    ],
+    "examples": [
+      {
+        "zh": "我和你。",
+        "es": "Tú y yo."
+      },
+      {
+        "zh": "我有一个哥哥和一个妹妹。",
+        "es": "Tengo un hermano mayor y una hermana menor."
+      },
+      {
+        "zh": "他喜欢和朋友去看电影。",
+        "es": "A él le gusta ir al cine con sus amigos."
+      },
+      {
+        "zh": "你想和我一起去吃晚饭吗？",
+        "es": "¿Quieres ir a cenar conmigo?"
+      }
+    ]
+  },
+  {
+    "word": "有",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener",
+      "haber (hay)"
+    ],
+    "examples": [
+      {
+        "zh": "我有一个苹果。",
+        "es": "Tengo una manzana."
+      },
+      {
+        "zh": "这里有人吗？",
+        "es": "¿Hay alguien aquí?"
+      },
+      {
+        "zh": "你今天晚上有时间吗？",
+        "es": "¿Tienes tiempo hoy en la noche?"
+      },
+      {
+        "zh": "我们学校有很多外国学生。",
+        "es": "En nuestra escuela hay muchos estudiantes extranjeros."
+      }
+    ]
+  },
+  {
+    "word": "不",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no",
+      "in-; des- (prefijo de negación)"
+    ],
+    "examples": [
+      {
+        "zh": "我不去。",
+        "es": "No voy."
+      },
+      {
+        "zh": "他不是老师。",
+        "es": "Él no es maestro."
+      },
+      {
+        "zh": "今天不太冷。",
+        "es": "Hoy no hace mucho frío."
+      },
+      {
+        "zh": "对不起，我不知道你在这里。",
+        "es": "Perdón, no sabía que estabas aquí."
+      }
+    ]
+  },
+  {
+    "word": "人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "persona",
+      "gente"
+    ],
+    "examples": [
+      {
+        "zh": "他是好人。",
+        "es": "Él es una buena persona."
+      },
+      {
+        "zh": "这里人很多。",
+        "es": "Aquí hay mucha gente."
+      },
+      {
+        "zh": "你家有几口人？",
+        "es": "¿Cuántas personas hay en tu familia?"
+      },
+      {
+        "zh": "我认识一个会说中文的美国人。",
+        "es": "Conozco a un estadounidense que habla chino."
+      }
+    ]
+  },
+  {
+    "word": "你",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tú",
+      "te; ti",
+      "tu"
+    ],
+    "examples": [
+      {
+        "zh": "你好！",
+        "es": "¡Hola!"
+      },
+      {
+        "zh": "你叫什么名字？",
+        "es": "¿Cómo te llamas?"
+      },
+      {
+        "zh": "我明天给你打电话。",
+        "es": "Mañana te llamo por teléfono."
+      },
+      {
+        "zh": "你周末想不想跟我去公园？",
+        "es": "¿Quieres ir al parque conmigo el fin de semana?"
+      }
+    ]
+  },
+  {
+    "word": "也",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "también",
+      "tampoco (con negación)",
+      "incluso; ni siquiera"
+    ],
+    "examples": [
+      {
+        "zh": "我也是。",
+        "es": "Yo también."
+      },
+      {
+        "zh": "他也不喜欢喝茶。",
+        "es": "A él tampoco le gusta el té."
+      },
+      {
+        "zh": "我会说英文，也会说一点中文。",
+        "es": "Hablo inglés y también un poco de chino."
+      },
+      {
+        "zh": "他太忙了，连一杯水也没喝。",
+        "es": "Estaba tan ocupado que ni siquiera tomó un vaso de agua."
+      }
+    ]
+  },
+  {
+    "word": "为",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "por; para",
+      "a causa de",
+      "con el fin de"
+    ],
+    "examples": [
+      {
+        "zh": "你为什么不来？",
+        "es": "¿Por qué no vienes?"
+      },
+      {
+        "zh": "我为你高兴。",
+        "es": "Me alegro por ti."
+      },
+      {
+        "zh": "妈妈为我做了一个蛋糕。",
+        "es": "Mi mamá me hizo un pastel."
+      },
+      {
+        "zh": "为了学好中文，他每天都看中国电影。",
+        "es": "Para aprender bien chino, él ve películas chinas todos los días."
+      }
+    ]
+  },
+  {
+    "word": "他",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "él",
+      "lo; le",
+      "su (de él)",
+      "otro"
+    ],
+    "examples": [
+      {
+        "zh": "他是我哥哥。",
+        "es": "Él es mi hermano mayor."
+      },
+      {
+        "zh": "你认识他吗？",
+        "es": "¿Lo conoces?"
+      },
+      {
+        "zh": "他的电话号码是多少？",
+        "es": "¿Cuál es su número de teléfono?"
+      },
+      {
+        "zh": "他说明天要带朋友来我家。",
+        "es": "Él dijo que mañana va a traer a un amigo a mi casa."
+      }
+    ]
+  },
+  {
+    "word": "这",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "este; esta",
+      "esto",
+      "estos; estas"
+    ],
+    "examples": [
+      {
+        "zh": "这是什么？",
+        "es": "¿Qué es esto?"
+      },
+      {
+        "zh": "这个很好吃。",
+        "es": "Esto está muy rico."
+      },
+      {
+        "zh": "这本书是你的吗？",
+        "es": "¿Este libro es tuyo?"
+      },
+      {
+        "zh": "这几天天气不好，我们都在家。",
+        "es": "Estos días el clima está mal; todos estamos en casa."
+      }
+    ]
+  },
+  {
+    "word": "中",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "en medio; centro",
+      "dentro de; entre",
+      "durante"
+    ],
+    "examples": [
+      {
+        "zh": "他在家中。",
+        "es": "Él está en casa."
+      },
+      {
+        "zh": "我中午不回家。",
+        "es": "Al mediodía no regreso a casa."
+      },
+      {
+        "zh": "桌子放在房间中间。",
+        "es": "La mesa está en medio del cuarto."
+      },
+      {
+        "zh": "在这些水果中，我最喜欢苹果。",
+        "es": "De todas estas frutas, la que más me gusta es la manzana."
+      }
+    ]
+  },
+  {
+    "word": "年",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "año",
+      "Año Nuevo"
+    ],
+    "examples": [
+      {
+        "zh": "新年好！",
+        "es": "¡Feliz Año Nuevo!"
+      },
+      {
+        "zh": "今年我二十岁。",
+        "es": "Este año cumplo veinte años."
+      },
+      {
+        "zh": "他在中国住了三年。",
+        "es": "Él vivió tres años en China."
+      },
+      {
+        "zh": "我们每年夏天都去海边玩。",
+        "es": "Todos los años en verano vamos a la playa."
+      }
+    ]
+  },
+  {
+    "word": "与",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "y (formal)",
+      "con (formal)"
+    ],
+    "examples": [
+      {
+        "zh": "我与他是朋友。",
+        "es": "Él y yo somos amigos."
+      },
+      {
+        "zh": "这与你没有关系。",
+        "es": "Esto no tiene nada que ver contigo."
+      },
+      {
+        "zh": "今年的天气与去年不同。",
+        "es": "El clima de este año es distinto al del año pasado."
+      },
+      {
+        "zh": "老师与学生一起在教室里看书。",
+        "es": "El maestro y los estudiantes leen juntos en el salón."
+      }
+    ]
+  },
+  {
+    "word": "对",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "correcto; cierto",
+      "con; hacia (trato)",
+      "sobre; respecto a",
+      "par (clasificador)"
+    ],
+    "examples": [
+      {
+        "zh": "对，我是学生。",
+        "es": "Sí, soy estudiante."
+      },
+      {
+        "zh": "你说得很对。",
+        "es": "Tienes toda la razón."
+      },
+      {
+        "zh": "他对我很好。",
+        "es": "Él me trata muy bien."
+      },
+      {
+        "zh": "我对中国文化很感兴趣。",
+        "es": "Me interesa mucho la cultura china."
+      }
+    ]
+  },
+  {
+    "word": "就",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en seguida; ya",
+      "justamente; precisamente",
+      "solo; nada más",
+      "entonces (en ese caso)"
+    ],
+    "examples": [
+      {
+        "zh": "我马上就来。",
+        "es": "Ya voy en seguida."
+      },
+      {
+        "zh": "他就是我哥哥。",
+        "es": "Él es precisamente mi hermano mayor."
+      },
+      {
+        "zh": "你想去就去吧。",
+        "es": "Si quieres ir, ve."
+      },
+      {
+        "zh": "我昨天一到家就睡觉了。",
+        "es": "Ayer, en cuanto llegué a casa, me dormí."
+      }
+    ]
+  },
+  {
+    "word": "都",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "todos; ambos",
+      "ya (énfasis)",
+      "incluso"
+    ],
+    "examples": [
+      {
+        "zh": "我们都是学生。",
+        "es": "Todos somos estudiantes."
+      },
+      {
+        "zh": "他每天都喝咖啡。",
+        "es": "Él toma café todos los días."
+      },
+      {
+        "zh": "都十点了，你还不睡吗？",
+        "es": "Ya son las diez, ¿todavía no te vas a dormir?"
+      },
+      {
+        "zh": "我和我的朋友都很喜欢吃中国菜。",
+        "es": "A mí y a mis amigos nos gusta mucho la comida china."
+      }
+    ]
+  }
+]

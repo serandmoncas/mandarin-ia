@@ -1,0 +1,537 @@
+[
+  {
+    "word": "气温",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "temperatura (del aire)",
+      "temperatura ambiente"
+    ],
+    "examples": [
+      {
+        "zh": "今天气温很高。",
+        "es": "Hoy la temperatura está muy alta."
+      },
+      {
+        "zh": "明天气温比今天低。",
+        "es": "Mañana la temperatura será más baja que hoy."
+      },
+      {
+        "zh": "北京冬天的气温非常低。",
+        "es": "En Beijing la temperatura es muy baja en invierno."
+      },
+      {
+        "zh": "晚上气温变化很大，你要多穿衣服。",
+        "es": "En la noche la temperatura cambia mucho; tienes que abrigarte bien."
+      }
+    ]
+  },
+  {
+    "word": "后面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "detrás",
+      "parte de atrás",
+      "parte final",
+      "después, más adelante"
+    ],
+    "examples": [
+      {
+        "zh": "他坐在我后面。",
+        "es": "Él se sienta detrás de mí."
+      },
+      {
+        "zh": "商店后面有一个公园。",
+        "es": "Detrás de la tienda hay un parque."
+      },
+      {
+        "zh": "这本书后面的故事更有意思。",
+        "es": "La historia de la parte final de este libro es más interesante."
+      },
+      {
+        "zh": "你先走，我跟在你后面，我们在车站见面。",
+        "es": "Ve tú primero, yo voy detrás de ti; nos vemos en la estación."
+      }
+    ]
+  },
+  {
+    "word": "一共",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en total",
+      "en conjunto"
+    ],
+    "examples": [
+      {
+        "zh": "一共多少钱？",
+        "es": "¿Cuánto es en total?"
+      },
+      {
+        "zh": "我们班一共有三十个学生。",
+        "es": "En nuestra clase hay treinta estudiantes en total."
+      },
+      {
+        "zh": "这些水果一共五十块钱。",
+        "es": "Estas frutas cuestan cincuenta yuanes en total."
+      },
+      {
+        "zh": "这次旅行我们一共去了七个城市。",
+        "es": "En este viaje visitamos siete ciudades en total."
+      }
+    ]
+  },
+  {
+    "word": "找出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "encontrar",
+      "descubrir",
+      "identificar"
+    ],
+    "examples": [
+      {
+        "zh": "请找出错误的字。",
+        "es": "Por favor, encuentra los caracteres incorrectos."
+      },
+      {
+        "zh": "我们要找出问题在哪里。",
+        "es": "Tenemos que encontrar dónde está el problema."
+      },
+      {
+        "zh": "警察很快找出了那个坏人。",
+        "es": "La policía encontró rápidamente al delincuente."
+      },
+      {
+        "zh": "我们必须找出原因，才能解决这个问题。",
+        "es": "Debemos descubrir la causa para poder resolver este problema."
+      }
+    ]
+  },
+  {
+    "word": "判断",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "juzgar",
+      "determinar",
+      "juicio, criterio"
+    ],
+    "examples": [
+      {
+        "zh": "你的判断是对的。",
+        "es": "Tu juicio es correcto."
+      },
+      {
+        "zh": "我很难判断他说的是不是真的。",
+        "es": "Me cuesta saber si lo que dice es verdad."
+      },
+      {
+        "zh": "不要只看一个人的衣服来判断他。",
+        "es": "No juzgues a una persona solo por su ropa."
+      },
+      {
+        "zh": "医生根据检查结果判断他没有大问题。",
+        "es": "Según los resultados del examen, el médico determinó que no tiene ningún problema grave."
+      }
+    ]
+  },
+  {
+    "word": "排队",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer fila",
+      "formarse"
+    ],
+    "examples": [
+      {
+        "zh": "请排队。",
+        "es": "Por favor, hagan fila."
+      },
+      {
+        "zh": "很多人在门口排队。",
+        "es": "Mucha gente está haciendo fila en la entrada."
+      },
+      {
+        "zh": "我们排队排了一个小时才买到票。",
+        "es": "Hicimos fila una hora para poder comprar los boletos."
+      },
+      {
+        "zh": "周末这家饭店人很多，常常要排队半个小时。",
+        "es": "Los fines de semana este restaurante se llena y muchas veces hay que hacer fila media hora."
+      }
+    ]
+  },
+  {
+    "word": "月亮",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "luna"
+    ],
+    "examples": [
+      {
+        "zh": "今天晚上的月亮很美。",
+        "es": "La luna está muy bonita esta noche."
+      },
+      {
+        "zh": "你看，月亮出来了！",
+        "es": "¡Mira, ya salió la luna!"
+      },
+      {
+        "zh": "小时候我觉得月亮一直跟着我走。",
+        "es": "Cuando era niño, sentía que la luna me seguía todo el tiempo."
+      },
+      {
+        "zh": "在山上看月亮，比在城市里看更大更亮。",
+        "es": "Desde la montaña, la luna se ve más grande y brillante que en la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "深",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "profundo",
+      "oscuro (color)",
+      "difícil, complejo",
+      "intenso, fuerte"
+    ],
+    "examples": [
+      {
+        "zh": "这条河很深。",
+        "es": "Este río es muy profundo."
+      },
+      {
+        "zh": "我喜欢深蓝色。",
+        "es": "Me gusta el azul oscuro."
+      },
+      {
+        "zh": "这本书的内容太深，我看不懂。",
+        "es": "El contenido de este libro es demasiado complejo; no lo entiendo."
+      },
+      {
+        "zh": "老师说的话对我影响很深。",
+        "es": "Lo que dijo el maestro me influyó profundamente."
+      }
+    ]
+  },
+  {
+    "word": "座位",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "asiento",
+      "lugar (para sentarse)"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的座位。",
+        "es": "Este es mi asiento."
+      },
+      {
+        "zh": "请问，这个座位有人吗？",
+        "es": "Disculpe, ¿este asiento está ocupado?"
+      },
+      {
+        "zh": "电影院里已经没有座位了。",
+        "es": "Ya no hay asientos en el cine."
+      },
+      {
+        "zh": "火车上人太多了，我们找不到座位，只能站着。",
+        "es": "Había demasiada gente en el tren; no encontramos asiento y tuvimos que ir de pie."
+      }
+    ]
+  },
+  {
+    "word": "坏人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mala persona",
+      "villano",
+      "delincuente"
+    ],
+    "examples": [
+      {
+        "zh": "他不是坏人。",
+        "es": "Él no es una mala persona."
+      },
+      {
+        "zh": "小心坏人！",
+        "es": "¡Cuidado con la gente mala!"
+      },
+      {
+        "zh": "电影里的坏人最后被警察抓住了。",
+        "es": "Al final de la película, la policía atrapó al villano."
+      },
+      {
+        "zh": "妈妈告诉孩子不要跟不认识的人走，可能是坏人。",
+        "es": "La mamá le dijo al niño que no se fuera con desconocidos, porque podrían ser malas personas."
+      }
+    ]
+  },
+  {
+    "word": "追",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "perseguir, correr tras",
+      "seguir (una serie)",
+      "cortejar, pretender",
+      "investigar"
+    ],
+    "examples": [
+      {
+        "zh": "狗在追猫。",
+        "es": "El perro está persiguiendo al gato."
+      },
+      {
+        "zh": "他跑得太快了，我追不上。",
+        "es": "Corre demasiado rápido; no lo puedo alcanzar."
+      },
+      {
+        "zh": "我最近在追一部电视剧。",
+        "es": "Últimamente estoy siguiendo una serie de televisión."
+      },
+      {
+        "zh": "他追了她两年，她终于答应做他女朋友了。",
+        "es": "La pretendió durante dos años y por fin ella aceptó ser su novia."
+      }
+    ]
+  },
+  {
+    "word": "租",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rentar, alquilar",
+      "dar en renta",
+      "renta, alquiler"
+    ],
+    "examples": [
+      {
+        "zh": "我想租一个房子。",
+        "es": "Quiero rentar una casa."
+      },
+      {
+        "zh": "我们可以在机场租一辆车。",
+        "es": "Podemos rentar un auto en el aeropuerto."
+      },
+      {
+        "zh": "这里的房子太贵了，我租不起。",
+        "es": "Las casas aquí son muy caras; no me alcanza para rentar una."
+      },
+      {
+        "zh": "他在学校附近租了一个房间，每个月两千块。",
+        "es": "Rentó un cuarto cerca de la escuela por dos mil yuanes al mes."
+      }
+    ]
+  },
+  {
+    "word": "足够",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "suficiente",
+      "bastante",
+      "alcanzar (ser suficiente)"
+    ],
+    "examples": [
+      {
+        "zh": "我们的时间足够。",
+        "es": "Tenemos suficiente tiempo."
+      },
+      {
+        "zh": "这些钱足够买一张机票。",
+        "es": "Este dinero alcanza para comprar un boleto de avión."
+      },
+      {
+        "zh": "你要有足够的休息，身体才会健康。",
+        "es": "Necesitas descansar lo suficiente para estar sano."
+      },
+      {
+        "zh": "他还没有足够的经验，不能一个人负责这个项目。",
+        "es": "Todavía no tiene suficiente experiencia para hacerse cargo solo de este proyecto."
+      }
+    ]
+  },
+  {
+    "word": "瓶",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "botella",
+      "frasco, florero",
+      "(clasificador para botellas)"
+    ],
+    "examples": [
+      {
+        "zh": "我要一瓶水。",
+        "es": "Quiero una botella de agua."
+      },
+      {
+        "zh": "桌子上有两瓶牛奶。",
+        "es": "Hay dos botellas de leche en la mesa."
+      },
+      {
+        "zh": "他一个人喝了三瓶酒。",
+        "es": "Él solo se tomó tres botellas de alcohol."
+      },
+      {
+        "zh": "请把空瓶放在门口，明天会有人来拿。",
+        "es": "Por favor, deja las botellas vacías en la entrada; mañana alguien vendrá por ellas."
+      }
+    ]
+  },
+  {
+    "word": "走过",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasar (caminando)",
+      "pasar por",
+      "atravesar"
+    ],
+    "examples": [
+      {
+        "zh": "他从我身边走过。",
+        "es": "Pasó caminando a mi lado."
+      },
+      {
+        "zh": "我每天都走过这条路。",
+        "es": "Paso por esta calle todos los días."
+      },
+      {
+        "zh": "走过那个路口，你就能看到银行。",
+        "es": "Después de pasar ese cruce, vas a ver el banco."
+      },
+      {
+        "zh": "我走过商店门口的时候，看见了一个老朋友。",
+        "es": "Cuando pasaba frente a la tienda, vi a un viejo amigo."
+      }
+    ]
+  },
+  {
+    "word": "出租",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "rentar (dar en renta)",
+      "alquilar",
+      "en renta"
+    ],
+    "examples": [
+      {
+        "zh": "这个房子出租。",
+        "es": "Esta casa se renta."
+      },
+      {
+        "zh": "楼下有一个房间要出租。",
+        "es": "Hay un cuarto en renta en la planta baja."
+      },
+      {
+        "zh": "我爷爷把老房子出租给了一个学生。",
+        "es": "Mi abuelo le rentó su casa vieja a un estudiante."
+      },
+      {
+        "zh": "他们在机场附近开了一家出租汽车的公司。",
+        "es": "Abrieron una empresa de renta de autos cerca del aeropuerto."
+      }
+    ]
+  },
+  {
+    "word": "忽然",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de repente",
+      "de pronto"
+    ],
+    "examples": [
+      {
+        "zh": "天忽然下雨了。",
+        "es": "De repente empezó a llover."
+      },
+      {
+        "zh": "他忽然笑了起来。",
+        "es": "De pronto se echó a reír."
+      },
+      {
+        "zh": "我忽然想起来，今天是妈妈的生日。",
+        "es": "De repente recordé que hoy es el cumpleaños de mi mamá."
+      },
+      {
+        "zh": "我们正在上课，教室里的灯忽然都不亮了。",
+        "es": "Estábamos en clase cuando, de repente, se apagaron todas las luces del salón."
+      }
+    ]
+  },
+  {
+    "word": "午餐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "almuerzo",
+      "comida del mediodía"
+    ],
+    "examples": [
+      {
+        "zh": "午餐吃什么？",
+        "es": "¿Qué vamos a almorzar?"
+      },
+      {
+        "zh": "我们一起吃午餐吧。",
+        "es": "Almorcemos juntos."
+      },
+      {
+        "zh": "公司每天给员工提供免费午餐。",
+        "es": "La empresa les da almuerzo gratis a los empleados todos los días."
+      },
+      {
+        "zh": "因为工作太忙，他常常没有时间吃午餐。",
+        "es": "Como tiene mucho trabajo, muchas veces no tiene tiempo para almorzar."
+      }
+    ]
+  },
+  {
+    "word": "问路",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "preguntar cómo llegar",
+      "pedir indicaciones"
+    ],
+    "examples": [
+      {
+        "zh": "我去问路吧。",
+        "es": "Voy a preguntar cómo llegar."
+      },
+      {
+        "zh": "他在路口向警察问路。",
+        "es": "En el cruce le pidió indicaciones a un policía."
+      },
+      {
+        "zh": "我不会说中文，所以问路很难。",
+        "es": "No hablo chino, así que me cuesta preguntar cómo llegar."
+      },
+      {
+        "zh": "有一个外国游客向我问路，我用英语回答了他。",
+        "es": "Un turista extranjero me preguntó cómo llegar y le respondí en inglés."
+      }
+    ]
+  },
+  {
+    "word": "乱",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desordenado",
+      "confundido, alterado",
+      "sin control, a lo loco",
+      "caos, disturbio"
+    ],
+    "examples": [
+      {
+        "zh": "你的房间太乱了。",
+        "es": "Tu cuarto está muy desordenado."
+      },
+      {
+        "zh": "不要乱说！",
+        "es": "¡No digas tonterías!"
+      },
+      {
+        "zh": "别把东西乱放，用完要放回去。",
+        "es": "No dejes las cosas en cualquier lugar; cuando termines, ponlas en su sitio."
+      },
+      {
+        "zh": "听到这个消息以后，他心里很乱，不知道该怎么办。",
+        "es": "Después de oír la noticia, se sintió muy confundido y no sabía qué hacer."
+      }
+    ]
+  }
+]

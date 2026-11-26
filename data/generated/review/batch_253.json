@@ -1,0 +1,159 @@
+[
+  {
+    "id": "word:美好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3f5dbbbb39862033c362048ee02fa1bbf3aba2a1"
+  },
+  {
+    "id": "word:发明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2bbe04acfa63e4437c7f6f937435622c7bdc6727"
+  },
+  {
+    "id": "word:飞行",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «坐飞机飞行» es redundante y poco natural; lo habitual es «我第一次坐飞机的时候很害怕».",
+      "Ejemplo 4: «飞行很远» suena forzado; lo natural es «鸟可以飞得很远»."
+    ],
+    "content_hash": "0af02bbe419ff2f94367f2a63e6ad465706c4994"
+  },
+  {
+    "id": "word:话题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d1ad13414c4bfc93ca2588d3a9378601b9441c5b"
+  },
+  {
+    "id": "word:信任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e77665221a6a699f7a9cc38fb84c85a755a9ecc1"
+  },
+  {
+    "id": "word:电台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "171977ed19e1fcee8c903e942b84170a90085878"
+  },
+  {
+    "id": "word:分配",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ff156d89ec124ab019cc10f9b6e615a418c45149"
+  },
+  {
+    "id": "word:姑娘",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «La niña de su casa» es una traducción poco natural; aquí 小姑娘 se refiere a su hija pequeña, por ejemplo «Su hija pequeña cumplió cinco años este año»."
+    ],
+    "content_hash": "5832b1f3cf53d63abc74a4ebd31af8b0384b6893"
+  },
+  {
+    "id": "word:观看",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aeeb0797607a684e20822f73da23ece5beb56d3c"
+  },
+  {
+    "id": "word:纪录",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e503ba9138b406b29be22775cd4150b30ffdafea"
+  },
+  {
+    "id": "word:前面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be42d09d979fb416930875323f2ab6ed50e1f634"
+  },
+  {
+    "id": "word:上升",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b47f1f66b5404661ab2c7cad1f617ad2d6af9628"
+  },
+  {
+    "id": "word:表面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba978c5030b67acb4ebcc80c2e125e6962e3c72a"
+  },
+  {
+    "id": "word:不必",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ddd1c344b01c70b0ed4e531c1c322106d981d54"
+  },
+  {
+    "id": "word:坚决",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dcb62854fa63a0df7e1f31e2ac4b7db9d4e2d2c3"
+  },
+  {
+    "id": "word:慢慢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc33a0a60b48a1f2d758778af97c0733be928ce2"
+  },
+  {
+    "id": "word:排名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "15eea63f3a80987e744c121242884741fe34e4da"
+  },
+  {
+    "id": "word:铁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "930d6f82d6f1d520f18fa884e90dafd61797f4b4"
+  },
+  {
+    "id": "word:印象",
+    "ok": true,
+    "issues": [],
+    "content_hash": "28ded25b73b9ca0e5fc6e0f3d9eb17072d6f447a"
+  },
+  {
+    "id": "word:代",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: en el pinyin, 妈妈 debe ser «mā ma» (segunda sílaba en tono neutro), no «mā mā»."
+    ],
+    "content_hash": "54df5d6e06aa60331977f35eb66d77abd09eb406"
+  },
+  {
+    "id": "word:到达",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d3993119c647721cef00cfd65433507e0cd416f4"
+  },
+  {
+    "id": "word:发达",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5def3f171ad0d88f23ae31e3804e0663c7cd9272"
+  },
+  {
+    "id": "word:古",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e2b28ab0f5fdf0600a1dfbe4fe5279c9bf019468"
+  },
+  {
+    "id": "word:观念",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c79cb7c469c6a92f9e40751c9d73e4fa492330c"
+  },
+  {
+    "id": "word:建成",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cbc68aa735e42ff0c4eec72ab9c28844091116d6"
+  }
+]

@@ -1,0 +1,544 @@
+[
+  {
+    "word": "万",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "diez mil",
+      "gran cantidad",
+      "muchísimo"
+    ],
+    "examples": [
+      {
+        "zh": "我有一万元。",
+        "es": "Tengo diez mil yuanes."
+      },
+      {
+        "zh": "这个手机要两万元。",
+        "es": "Este celular cuesta veinte mil yuanes."
+      },
+      {
+        "zh": "这个大学有三万多个学生。",
+        "es": "Esta universidad tiene más de treinta mil estudiantes."
+      },
+      {
+        "zh": "为了买这个房子，他们准备了五十万元。",
+        "es": "Para comprar esta casa, juntaron quinientos mil yuanes."
+      }
+    ]
+  },
+  {
+    "word": "住",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vivir, residir",
+      "quedarse, alojarse",
+      "detenerse",
+      "(complemento) con firmeza, de forma estable"
+    ],
+    "examples": [
+      {
+        "zh": "你住在哪里？",
+        "es": "¿Dónde vives?"
+      },
+      {
+        "zh": "我住在北京。",
+        "es": "Vivo en Pekín."
+      },
+      {
+        "zh": "他们在朋友家住了三天。",
+        "es": "Se quedaron tres días en casa de un amigo."
+      },
+      {
+        "zh": "这个东西太大了，孩子拿不住。",
+        "es": "Esta cosa es demasiado grande; el niño no puede sostenerla."
+      }
+    ]
+  },
+  {
+    "word": "像",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parecerse a",
+      "como, tal como",
+      "parecer que",
+      "imagen, retrato"
+    ],
+    "examples": [
+      {
+        "zh": "你很像你妈妈。",
+        "es": "Te pareces mucho a tu mamá."
+      },
+      {
+        "zh": "他说话像老人一样。",
+        "es": "Habla como un anciano."
+      },
+      {
+        "zh": "这个孩子像他爸爸一样喜欢电影。",
+        "es": "A este niño le gustan las películas, igual que a su papá."
+      },
+      {
+        "zh": "像北京、香港这样的地方，东西都很贵。",
+        "es": "En lugares como Pekín y Hong Kong, todo es muy caro."
+      }
+    ]
+  },
+  {
+    "word": "关系",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "relación",
+      "vínculo, conexión",
+      "contactos, palancas (guanxi)",
+      "importar, afectar"
+    ],
+    "examples": [
+      {
+        "zh": "没关系。",
+        "es": "No pasa nada."
+      },
+      {
+        "zh": "他们是什么关系？",
+        "es": "¿Qué relación tienen ellos?"
+      },
+      {
+        "zh": "我和他的关系很好。",
+        "es": "Me llevo muy bien con él."
+      },
+      {
+        "zh": "在中国做事，有关系很重要。",
+        "es": "En China, para lograr las cosas, tener contactos es muy importante."
+      }
+    ]
+  },
+  {
+    "word": "别",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "no (en órdenes: no hagas…)",
+      "otro, distinto",
+      "separarse, despedirse",
+      "prender, sujetar con un alfiler"
+    ],
+    "examples": [
+      {
+        "zh": "别走！",
+        "es": "¡No te vayas!"
+      },
+      {
+        "zh": "你别告诉他。",
+        "es": "No le digas."
+      },
+      {
+        "zh": "这个不好，我们看看别的吧。",
+        "es": "Este no es bueno, veamos otros."
+      },
+      {
+        "zh": "现在别去，那里人太多了。",
+        "es": "No vayas ahora, allá hay demasiada gente."
+      }
+    ]
+  },
+  {
+    "word": "回",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "volver, regresar",
+      "responder, contestar",
+      "vez (clasificador)",
+      "capítulo (clasificador)"
+    ],
+    "examples": [
+      {
+        "zh": "我要回家了。",
+        "es": "Ya me voy a casa."
+      },
+      {
+        "zh": "他什么时候回来？",
+        "es": "¿Cuándo regresa?"
+      },
+      {
+        "zh": "你给他回电话了吗？",
+        "es": "¿Le devolviste la llamada?"
+      },
+      {
+        "zh": "这个电影我已经看过两回了。",
+        "es": "Ya vi esta película dos veces."
+      }
+    ]
+  },
+  {
+    "word": "这么",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tan",
+      "así, de esta manera",
+      "tanto"
+    ],
+    "examples": [
+      {
+        "zh": "这么多人！",
+        "es": "¡Cuánta gente!"
+      },
+      {
+        "zh": "你怎么来得这么快？",
+        "es": "¿Cómo llegaste tan rápido?"
+      },
+      {
+        "zh": "这个字应该这么写。",
+        "es": "Este carácter se escribe así."
+      },
+      {
+        "zh": "我不知道他为什么这么喜欢这个电影。",
+        "es": "No sé por qué le gusta tanto esta película."
+      }
+    ]
+  },
+  {
+    "word": "书",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "libro",
+      "carta",
+      "documento",
+      "escribir"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的书。",
+        "es": "Este es mi libro."
+      },
+      {
+        "zh": "我喜欢看书。",
+        "es": "Me gusta leer."
+      },
+      {
+        "zh": "你买了几本书？",
+        "es": "¿Cuántos libros compraste?"
+      },
+      {
+        "zh": "这本书写的是中国历史。",
+        "es": "Este libro trata de la historia de China."
+      }
+    ]
+  },
+  {
+    "word": "只是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "solo, solamente",
+      "simplemente",
+      "pero, solo que"
+    ],
+    "examples": [
+      {
+        "zh": "我只是问问。",
+        "es": "Solo estaba preguntando."
+      },
+      {
+        "zh": "他不是老师，只是学生。",
+        "es": "No es profesor, solo es estudiante."
+      },
+      {
+        "zh": "这个手机很好，只是太贵了。",
+        "es": "Este celular es muy bueno, solo que es demasiado caro."
+      },
+      {
+        "zh": "我很想去，只是今天没有时间。",
+        "es": "Tengo muchas ganas de ir, pero hoy no tengo tiempo."
+      }
+    ]
+  },
+  {
+    "word": "送",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "regalar",
+      "enviar, entregar",
+      "acompañar, llevar (a alguien)",
+      "despedir (a alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "我送你回家。",
+        "es": "Te acompaño a tu casa."
+      },
+      {
+        "zh": "这是朋友送我的书。",
+        "es": "Este es un libro que me regaló un amigo."
+      },
+      {
+        "zh": "他每天送孩子去学校。",
+        "es": "Todos los días lleva a su hijo a la escuela."
+      },
+      {
+        "zh": "你可以把这些东西送到公司吗？",
+        "es": "¿Puedes llevar estas cosas a la empresa?"
+      }
+    ]
+  },
+  {
+    "word": "研究",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "investigar",
+      "investigación, estudio",
+      "analizar, examinar"
+    ],
+    "examples": [
+      {
+        "zh": "她研究中国历史。",
+        "es": "Ella investiga la historia de China."
+      },
+      {
+        "zh": "他在大学做研究。",
+        "es": "Hace investigación en la universidad."
+      },
+      {
+        "zh": "这个问题我们要研究一下。",
+        "es": "Tenemos que analizar este problema."
+      },
+      {
+        "zh": "这个研究对发展经济非常重要。",
+        "es": "Esta investigación es muy importante para el desarrollo económico."
+      }
+    ]
+  },
+  {
+    "word": "是不是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿es o no es?",
+      "¿no es cierto que…?",
+      "¿será que…?"
+    ],
+    "examples": [
+      {
+        "zh": "你是不是学生？",
+        "es": "¿Eres estudiante?"
+      },
+      {
+        "zh": "这是不是你的手机？",
+        "es": "¿Este es tu celular?"
+      },
+      {
+        "zh": "你是不是不喜欢吃这个？",
+        "es": "No te gusta comer esto, ¿verdad?"
+      },
+      {
+        "zh": "他今天没来，是不是有什么事？",
+        "es": "Hoy no vino, ¿le habrá pasado algo?"
+      }
+    ]
+  },
+  {
+    "word": "医院",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hospital"
+    ],
+    "examples": [
+      {
+        "zh": "医院在哪里？",
+        "es": "¿Dónde está el hospital?"
+      },
+      {
+        "zh": "我妈妈在医院工作。",
+        "es": "Mi mamá trabaja en el hospital."
+      },
+      {
+        "zh": "孩子病了，我们得去医院。",
+        "es": "El niño se enfermó, tenemos que ir al hospital."
+      },
+      {
+        "zh": "这家医院是北京最好的医院之一。",
+        "es": "Este hospital es uno de los mejores de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "根据",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "según, de acuerdo con",
+      "con base en",
+      "fundamento, base"
+    ],
+    "examples": [
+      {
+        "zh": "根据计划，我们明天走。",
+        "es": "Según el plan, nos vamos mañana."
+      },
+      {
+        "zh": "你这么说有什么根据？",
+        "es": "¿En qué te basas para decir eso?"
+      },
+      {
+        "zh": "我们应该根据情况决定怎么做。",
+        "es": "Debemos decidir qué hacer según la situación."
+      },
+      {
+        "zh": "根据学校的要求，学生必须八点到。",
+        "es": "Según las reglas de la escuela, los estudiantes deben llegar a las ocho."
+      }
+    ]
+  },
+  {
+    "word": "别人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "los demás",
+      "otras personas",
+      "otra persona"
+    ],
+    "examples": [
+      {
+        "zh": "别人都走了。",
+        "es": "Los demás ya se fueron."
+      },
+      {
+        "zh": "不要拿别人的东西。",
+        "es": "No tomes las cosas de los demás."
+      },
+      {
+        "zh": "这件事我只告诉了你，没有告诉别人。",
+        "es": "Esto solo te lo conté a ti, no se lo dije a nadie más."
+      },
+      {
+        "zh": "做事不能只想自己，也要想别人。",
+        "es": "No puedes pensar solo en ti; también tienes que pensar en los demás."
+      }
+    ]
+  },
+  {
+    "word": "此",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "este, esta, esto (formal)",
+      "estos, estas",
+      "aquí (formal)"
+    ],
+    "examples": [
+      {
+        "zh": "此事很重要。",
+        "es": "Este asunto es muy importante."
+      },
+      {
+        "zh": "请在此等一下。",
+        "es": "Por favor, espere aquí un momento."
+      },
+      {
+        "zh": "大家对此都没有问题。",
+        "es": "Nadie tiene objeciones al respecto."
+      },
+      {
+        "zh": "从此以后，他再也没来过这里。",
+        "es": "Desde entonces, nunca volvió a venir aquí."
+      }
+    ]
+  },
+  {
+    "word": "水",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "agua",
+      "río (después de un nombre)",
+      "(coloquial) de mala calidad"
+    ],
+    "examples": [
+      {
+        "zh": "我想喝水。",
+        "es": "Quiero tomar agua."
+      },
+      {
+        "zh": "请给我一杯水。",
+        "es": "Por favor, deme un vaso de agua."
+      },
+      {
+        "zh": "这里的水能喝吗？",
+        "es": "¿Se puede tomar el agua de aquí?"
+      },
+      {
+        "zh": "天太热了，你要多喝水。",
+        "es": "Hace mucho calor; tienes que tomar bastante agua."
+      }
+    ]
+  },
+  {
+    "word": "系统",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sistema"
+    ],
+    "examples": [
+      {
+        "zh": "这个系统很新。",
+        "es": "Este sistema es muy nuevo."
+      },
+      {
+        "zh": "公司的电脑系统出问题了。",
+        "es": "El sistema informático de la empresa tiene una falla."
+      },
+      {
+        "zh": "我们要学习怎么使用这个系统。",
+        "es": "Tenemos que aprender a usar este sistema."
+      },
+      {
+        "zh": "这个系统可以给学生提供很多帮助。",
+        "es": "Este sistema puede brindar mucha ayuda a los estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "服务",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "servicio",
+      "servir",
+      "atender"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司的服务很好。",
+        "es": "El servicio de esta empresa es muy bueno."
+      },
+      {
+        "zh": "这个网站提供什么服务？",
+        "es": "¿Qué servicios ofrece este sitio web?"
+      },
+      {
+        "zh": "很多人觉得这里的服务太慢了。",
+        "es": "Mucha gente piensa que el servicio aquí es demasiado lento."
+      },
+      {
+        "zh": "政府应该为人民提供更好的服务。",
+        "es": "El gobierno debería brindarle mejores servicios a la gente."
+      }
+    ]
+  },
+  {
+    "word": "老师",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "maestro, maestra",
+      "profesor, profesora"
+    ],
+    "examples": [
+      {
+        "zh": "老师，您好！",
+        "es": "¡Hola, profesor!"
+      },
+      {
+        "zh": "她是我的老师。",
+        "es": "Ella es mi maestra."
+      },
+      {
+        "zh": "老师让我们每天学习一个小时。",
+        "es": "El maestro nos pidió estudiar una hora al día."
+      },
+      {
+        "zh": "我们的老师已经在这个学校工作了二十年。",
+        "es": "Nuestro maestro ya lleva veinte años trabajando en esta escuela."
+      }
+    ]
+  }
+]

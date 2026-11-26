@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:从",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 一月 se pronuncia «yī yuè» (en fechas y ordinales no hay sandhi), no «yí yuè»."
+    ],
+    "content_hash": "161d20b6f6ece59e82aa0701d7f73cae4dcddc3e"
+  },
+  {
+    "id": "word:让",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0b5ca6cd5622271ca36bff428878f3d37747195"
+  },
+  {
+    "id": "word:国家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "194cc124d14ee0aa1aeca8c894ce71e02e0bf5a6"
+  },
+  {
+    "id": "word:好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7bd1c2094fa2a8ebae22bf6b0511df5c751e7ef7"
+  },
+  {
+    "id": "word:大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7416eef1d05024f4a66269464ff6bec25ad5a520"
+  },
+  {
+    "id": "word:以",
+    "ok": false,
+    "issues": [
+      "El ejemplo 1 usa la palabra 以后 («después»), que no ilustra ninguno de los significados listados para 以.",
+      "Pinyin incorrecto en el ejemplo 4: en 以…为… el carácter 为 se lee «wéi» (2.º tono), no «wèi»."
+    ],
+    "content_hash": "6fac66f229fe8788760f0b05e1f32caa7b70caf2"
+  },
+  {
+    "id": "word:她",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e0d4fb654c9e1092969b5643d6ffb21bd1c1479"
+  },
+  {
+    "id": "word:着",
+    "ok": true,
+    "issues": [],
+    "content_hash": "68e651ac05798534d4b90b428a913d31986b32c7"
+  },
+  {
+    "id": "word:多",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e7bc4812c3707873cf86b21d602d75de3b630f13"
+  },
+  {
+    "id": "word:给",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 一本 se pronuncia «yì běn» por sandhi tonal; aparece «yī běn», lo que es inconsistente con el resto de los ejemplos."
+    ],
+    "content_hash": "e4a5d2d7c842e5936c9a0cdca81cd7839c03dc95"
+  },
+  {
+    "id": "word:自己",
+    "ok": true,
+    "issues": [],
+    "content_hash": "adc732a6523202bfd68b1c301ad68e36c6f097e1"
+  },
+  {
+    "id": "word:看",
+    "ok": true,
+    "issues": [],
+    "content_hash": "62daf5a9f6eeb9a03595d971181d8b6afb2fc080"
+  },
+  {
+    "id": "word:问题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3a52a34a1b76735fd15750b767f28ae718a6145"
+  },
+  {
+    "id": "word:去",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 哪儿 se pronuncia «nǎr» (con erhua), no «nǎ ér»."
+    ],
+    "content_hash": "eba8943d362a546f9780bb42a55d5123c82c62a7"
+  },
+  {
+    "id": "word:过",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 一下 se pronuncia «yí xià» por sandhi tonal, no «yī xià».",
+      "Pinyin del ejemplo 3: la partícula 得 es átona («de»), no «dé»."
+    ],
+    "content_hash": "014d17b897c2de88a4bb30f6eda67656a01ac41d"
+  },
+  {
+    "id": "word:时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4d7a314f1c9837e584fcb2d803e88c09eb04b82a"
+  },
+  {
+    "id": "word:下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cfac01f39adfc733e057c08e116644d67c9c51db"
+  },
+  {
+    "id": "word:把",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d197d811db6c8cb76ba47031a723d32c63d9bdb"
+  },
+  {
+    "id": "word:现在",
+    "ok": true,
+    "issues": [],
+    "content_hash": "583d8038a8a774c824541ec29e4b8ce42888533a"
+  },
+  {
+    "id": "word:里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "877308d4e00ba5537a0534cf5d91bb0fd6be2a5c"
+  },
+  {
+    "id": "word:又",
+    "ok": false,
+    "issues": [
+      "El ejemplo 4 «他还是又忘了» suena forzado por la combinación de 还是 y 又; lo natural sería «他还是忘了» o «他又忘了»."
+    ],
+    "content_hash": "ab57fb2169c7e0c77ef68654b489f1d7865b7ab9"
+  },
+  {
+    "id": "word:新",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0e63895d8756089cab3e5827c9d95a3469999bd"
+  },
+  {
+    "id": "word:美国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c090dd32e53de533fbb1e59eaae6906ea4a0468c"
+  },
+  {
+    "id": "word:地",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e79ffb3ab82ba4ea275a1de769f65fe8e66862a"
+  },
+  {
+    "id": "word:或",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e7747478128c1b10564f677fb2f855f295f59c9"
+  }
+]

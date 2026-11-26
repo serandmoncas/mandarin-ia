@@ -1,0 +1,532 @@
+[
+  {
+    "word": "可是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pero",
+      "sin embargo",
+      "(enfático) de verdad, sí que"
+    ],
+    "examples": [
+      {
+        "zh": "我想去，可是没有时间。",
+        "es": "Quiero ir, pero no tengo tiempo."
+      },
+      {
+        "zh": "这个菜很好吃，可是太贵了。",
+        "es": "Esta comida es muy rica, pero es demasiado cara."
+      },
+      {
+        "zh": "他说他会来，可是他没来。",
+        "es": "Dijo que vendría, pero no vino."
+      },
+      {
+        "zh": "我很喜欢这个城市，可是这里的天气太热了。",
+        "es": "Me gusta mucho esta ciudad, pero aquí hace demasiado calor."
+      }
+    ]
+  },
+  {
+    "word": "联系",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "contactar, ponerse en contacto",
+      "relación, conexión",
+      "vincular, relacionar"
+    ],
+    "examples": [
+      {
+        "zh": "我明天联系你。",
+        "es": "Te contacto mañana."
+      },
+      {
+        "zh": "你可以打电话联系我。",
+        "es": "Puedes llamarme por teléfono para contactarme."
+      },
+      {
+        "zh": "我们已经很久没有联系了。",
+        "es": "Hace mucho tiempo que no estamos en contacto."
+      },
+      {
+        "zh": "这两个问题之间有什么联系？",
+        "es": "¿Qué relación hay entre estos dos problemas?"
+      }
+    ]
+  },
+  {
+    "word": "本子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cuaderno",
+      "libreta",
+      "libro"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的本子。",
+        "es": "Este es mi cuaderno."
+      },
+      {
+        "zh": "请把本子给我。",
+        "es": "Por favor, dame el cuaderno."
+      },
+      {
+        "zh": "我的本子在桌子上。",
+        "es": "Mi cuaderno está sobre la mesa."
+      },
+      {
+        "zh": "老师让我们把这些字写在本子上。",
+        "es": "El maestro nos pidió escribir estos caracteres en el cuaderno."
+      }
+    ]
+  },
+  {
+    "word": "米",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "arroz (crudo)",
+      "metro (unidad de longitud)"
+    ],
+    "examples": [
+      {
+        "zh": "家里没有米了。",
+        "es": "Ya no hay arroz en la casa."
+      },
+      {
+        "zh": "我去商店买米。",
+        "es": "Voy a la tienda a comprar arroz."
+      },
+      {
+        "zh": "这条路有五百米长。",
+        "es": "Esta calle mide quinientos metros de largo."
+      },
+      {
+        "zh": "从我家到学校只有三百米，我每天走路去。",
+        "es": "De mi casa a la escuela hay solo trescientos metros; voy caminando todos los días."
+      }
+    ]
+  },
+  {
+    "word": "米饭",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "arroz (cocido)"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃米饭。",
+        "es": "Me gusta comer arroz."
+      },
+      {
+        "zh": "中国人常常吃米饭。",
+        "es": "Los chinos comen arroz con frecuencia."
+      },
+      {
+        "zh": "米饭好了，我们吃饭吧。",
+        "es": "El arroz ya está listo, vamos a comer."
+      },
+      {
+        "zh": "我妈妈做的米饭特别好吃，我每次都吃很多。",
+        "es": "El arroz que hace mi mamá es riquísimo; siempre como mucho."
+      }
+    ]
+  },
+  {
+    "word": "母亲",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "madre"
+    ],
+    "examples": [
+      {
+        "zh": "我母亲是老师。",
+        "es": "Mi madre es maestra."
+      },
+      {
+        "zh": "他的母亲在医院工作。",
+        "es": "Su madre trabaja en un hospital."
+      },
+      {
+        "zh": "我每个星期都给母亲打电话。",
+        "es": "Llamo a mi madre todas las semanas."
+      },
+      {
+        "zh": "母亲告诉我，学习比什么都重要。",
+        "es": "Mi madre me dijo que estudiar es más importante que cualquier cosa."
+      }
+    ]
+  },
+  {
+    "word": "请假",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pedir permiso para faltar",
+      "pedir el día libre"
+    ],
+    "examples": [
+      {
+        "zh": "我明天要请假。",
+        "es": "Mañana voy a pedir permiso para faltar."
+      },
+      {
+        "zh": "他生病了，今天请假。",
+        "es": "Está enfermo; hoy pidió el día libre."
+      },
+      {
+        "zh": "你可以跟老师请假吗？",
+        "es": "¿Puedes pedirle permiso al maestro para faltar?"
+      },
+      {
+        "zh": "我想请假两天，回家看我妈妈。",
+        "es": "Quiero pedir dos días libres para ir a casa a ver a mi mamá."
+      }
+    ]
+  },
+  {
+    "word": "全",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "todo",
+      "entero",
+      "completo"
+    ],
+    "examples": [
+      {
+        "zh": "全家人都很高兴。",
+        "es": "Toda la familia está muy contenta."
+      },
+      {
+        "zh": "他全都知道了。",
+        "es": "Él ya lo sabe todo."
+      },
+      {
+        "zh": "这个问题全班只有他知道。",
+        "es": "En toda la clase, solo él sabe la respuesta a esta pregunta."
+      },
+      {
+        "zh": "他把全部时间都用在学习汉语上。",
+        "es": "Dedica todo su tiempo a estudiar chino."
+      }
+    ]
+  },
+  {
+    "word": "里边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adentro",
+      "dentro (de)",
+      "el interior"
+    ],
+    "examples": [
+      {
+        "zh": "里边有人吗？",
+        "es": "¿Hay alguien adentro?"
+      },
+      {
+        "zh": "房间里边很热。",
+        "es": "Dentro del cuarto hace mucho calor."
+      },
+      {
+        "zh": "请到里边坐吧。",
+        "es": "Pase y siéntese adentro, por favor."
+      },
+      {
+        "zh": "我打开门，看到里边有很多书。",
+        "es": "Abrí la puerta y vi que adentro había muchos libros."
+      }
+    ]
+  },
+  {
+    "word": "改革",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "reforma",
+      "reformar"
+    ],
+    "examples": [
+      {
+        "zh": "这个改革很重要。",
+        "es": "Esta reforma es muy importante."
+      },
+      {
+        "zh": "政府要改革教育制度。",
+        "es": "El gobierno quiere reformar el sistema educativo."
+      },
+      {
+        "zh": "很多人支持这次改革。",
+        "es": "Mucha gente apoya esta reforma."
+      },
+      {
+        "zh": "改革开放以后，中国的经济发展得很快。",
+        "es": "Después de la reforma y apertura, la economía de China creció muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "系列",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "serie",
+      "conjunto, colección"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢这个系列。",
+        "es": "Me gusta esta serie."
+      },
+      {
+        "zh": "这个系列的电影很好看。",
+        "es": "Las películas de esta serie son muy buenas."
+      },
+      {
+        "zh": "他写了一系列的书。",
+        "es": "Escribió una serie de libros."
+      },
+      {
+        "zh": "政府提出了一系列新的政策来发展经济。",
+        "es": "El gobierno propuso una serie de nuevas políticas para desarrollar la economía."
+      }
+    ]
+  },
+  {
+    "word": "书包",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mochila (escolar)",
+      "bolsa para libros"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的书包。",
+        "es": "Esta es mi mochila."
+      },
+      {
+        "zh": "我的书包很重。",
+        "es": "Mi mochila pesa mucho."
+      },
+      {
+        "zh": "他把书放进书包里。",
+        "es": "Metió los libros en la mochila."
+      },
+      {
+        "zh": "妈妈给我买了一个新书包，我非常喜欢。",
+        "es": "Mi mamá me compró una mochila nueva y me gusta muchísimo."
+      }
+    ]
+  },
+  {
+    "word": "洗手间",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "baño",
+      "sanitario"
+    ],
+    "examples": [
+      {
+        "zh": "洗手间在哪里？",
+        "es": "¿Dónde está el baño?"
+      },
+      {
+        "zh": "我去一下洗手间。",
+        "es": "Voy un momento al baño."
+      },
+      {
+        "zh": "洗手间在楼上，左边。",
+        "es": "El baño está arriba, a la izquierda."
+      },
+      {
+        "zh": "对不起，请问这里有洗手间吗？我找不到。",
+        "es": "Disculpe, ¿hay baño aquí? No lo encuentro."
+      }
+    ]
+  },
+  {
+    "word": "不仅",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no solo",
+      "no únicamente"
+    ],
+    "examples": [
+      {
+        "zh": "这个菜不仅好吃，而且不贵。",
+        "es": "Esta comida no solo es rica, sino que además no es cara."
+      },
+      {
+        "zh": "他不仅会说汉语，还会说英语。",
+        "es": "No solo habla chino, también habla inglés."
+      },
+      {
+        "zh": "不仅学生喜欢他，老师也喜欢他。",
+        "es": "No solo los estudiantes lo quieren, los maestros también."
+      },
+      {
+        "zh": "这不仅是我的问题，也是大家的问题。",
+        "es": "Este no es solo mi problema, es un problema de todos."
+      }
+    ]
+  },
+  {
+    "word": "后边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "atrás",
+      "detrás (de)",
+      "la parte de atrás"
+    ],
+    "examples": [
+      {
+        "zh": "他坐在我后边。",
+        "es": "Él se sienta detrás de mí."
+      },
+      {
+        "zh": "车站在银行后边。",
+        "es": "La estación está detrás del banco."
+      },
+      {
+        "zh": "我家后边有很多树。",
+        "es": "Detrás de mi casa hay muchos árboles."
+      },
+      {
+        "zh": "后边的人听不见，请大声一点。",
+        "es": "Los de atrás no escuchan; hable más fuerte, por favor."
+      }
+    ]
+  },
+  {
+    "word": "后来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "después",
+      "más tarde",
+      "luego"
+    ],
+    "examples": [
+      {
+        "zh": "后来呢？",
+        "es": "¿Y luego qué pasó?"
+      },
+      {
+        "zh": "后来他去了北京。",
+        "es": "Después se fue a Pekín."
+      },
+      {
+        "zh": "我们以前是同学，后来成了好朋友。",
+        "es": "Antes éramos compañeros de clase; luego nos hicimos buenos amigos."
+      },
+      {
+        "zh": "他开始不喜欢学汉语，后来觉得汉语很有意思。",
+        "es": "Al principio no le gustaba estudiar chino, pero después le pareció muy interesante."
+      }
+    ]
+  },
+  {
+    "word": "女孩儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "niña",
+      "chica",
+      "muchacha"
+    ],
+    "examples": [
+      {
+        "zh": "那个女孩儿是谁？",
+        "es": "¿Quién es esa chica?"
+      },
+      {
+        "zh": "她是一个很好的女孩儿。",
+        "es": "Es una muchacha muy buena."
+      },
+      {
+        "zh": "那个女孩儿笑得很好看。",
+        "es": "Esa niña tiene una sonrisa muy bonita."
+      },
+      {
+        "zh": "我们班有一个女孩儿，她唱歌特别好听。",
+        "es": "En nuestra clase hay una chica que canta muy bonito."
+      }
+    ]
+  },
+  {
+    "word": "确定",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar seguro",
+      "determinar, fijar",
+      "confirmar",
+      "definitivo"
+    ],
+    "examples": [
+      {
+        "zh": "你确定吗？",
+        "es": "¿Estás seguro?"
+      },
+      {
+        "zh": "我不确定他会不会来。",
+        "es": "No estoy seguro de si va a venir."
+      },
+      {
+        "zh": "我们还没有确定开会的时间。",
+        "es": "Todavía no hemos fijado la hora de la reunión."
+      },
+      {
+        "zh": "你确定这个地方是对的吗？我们好像走错路了。",
+        "es": "¿Estás seguro de que es este lugar? Parece que nos equivocamos de camino."
+      }
+    ]
+  },
+  {
+    "word": "生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dar a luz",
+      "nacer",
+      "crudo",
+      "vivir"
+    ],
+    "examples": [
+      {
+        "zh": "这个肉是生的。",
+        "es": "Esta carne está cruda."
+      },
+      {
+        "zh": "他生在上海，长在北京。",
+        "es": "Nació en Shanghái y creció en Pekín."
+      },
+      {
+        "zh": "这些菜是生的，你别吃。",
+        "es": "Estas verduras están crudas, no te las comas."
+      },
+      {
+        "zh": "我姐姐去年生了一个儿子，全家人都很高兴。",
+        "es": "Mi hermana mayor tuvo un hijo el año pasado y toda la familia está muy contenta."
+      }
+    ]
+  },
+  {
+    "word": "一块儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "juntos",
+      "en el mismo lugar"
+    ],
+    "examples": [
+      {
+        "zh": "我们一块儿去吧。",
+        "es": "Vamos juntos."
+      },
+      {
+        "zh": "他们每天一块儿吃午饭。",
+        "es": "Ellos almuerzan juntos todos los días."
+      },
+      {
+        "zh": "你想跟我一块儿去看电影吗？",
+        "es": "¿Quieres ir conmigo a ver una película?"
+      },
+      {
+        "zh": "我和他是一块儿长大的，所以关系很好。",
+        "es": "Él y yo crecimos juntos, por eso nos llevamos muy bien."
+      }
+    ]
+  }
+]

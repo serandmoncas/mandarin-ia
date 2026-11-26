@@ -1,0 +1,539 @@
+[
+  {
+    "word": "明白",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entender, comprender",
+      "claro, evidente",
+      "darse cuenta",
+      "sensato, razonable"
+    ],
+    "examples": [
+      {
+        "zh": "我明白了。",
+        "es": "Ya entendí."
+      },
+      {
+        "zh": "你明白我的话吗？",
+        "es": "¿Entiendes lo que te digo?"
+      },
+      {
+        "zh": "老师说得很明白。",
+        "es": "El profesor lo explicó muy claramente."
+      },
+      {
+        "zh": "我现在才明白他为什么不想去北京。",
+        "es": "Apenas ahora entiendo por qué él no quería ir a Pekín."
+      }
+    ]
+  },
+  {
+    "word": "女儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hija"
+    ],
+    "examples": [
+      {
+        "zh": "这是我女儿。",
+        "es": "Esta es mi hija."
+      },
+      {
+        "zh": "他的女儿今年三岁。",
+        "es": "Su hija cumple tres años este año."
+      },
+      {
+        "zh": "我女儿很喜欢看电影。",
+        "es": "A mi hija le gusta mucho ver películas."
+      },
+      {
+        "zh": "她女儿在北京的一个大学学习历史。",
+        "es": "Su hija estudia historia en una universidad de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "代表",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "representar",
+      "representante, delegado",
+      "en nombre de",
+      "simbolizar"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们的代表。",
+        "es": "Él es nuestro representante."
+      },
+      {
+        "zh": "我代表公司来看你。",
+        "es": "Vengo a verte en nombre de la empresa."
+      },
+      {
+        "zh": "他代表学校去了美国。",
+        "es": "Él fue a Estados Unidos en representación de la escuela."
+      },
+      {
+        "zh": "他认为这个电影代表了中国文化的发展。",
+        "es": "Él cree que esta película representa el desarrollo de la cultura china."
+      }
+    ]
+  },
+  {
+    "word": "汽车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "auto, carro",
+      "automóvil",
+      "vehículo de motor"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的汽车。",
+        "es": "Este es mi auto."
+      },
+      {
+        "zh": "他想买一辆新汽车。",
+        "es": "Él quiere comprar un auto nuevo."
+      },
+      {
+        "zh": "美国人很喜欢日本汽车。",
+        "es": "A los estadounidenses les gustan mucho los autos japoneses."
+      },
+      {
+        "zh": "这家公司已经做了二十年汽车了。",
+        "es": "Esta empresa lleva veinte años fabricando autos."
+      }
+    ]
+  },
+  {
+    "word": "而且",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "además",
+      "y además",
+      "(no solo...) sino también"
+    ],
+    "examples": [
+      {
+        "zh": "这个很好，而且不贵。",
+        "es": "Esto es bueno y, además, no es caro."
+      },
+      {
+        "zh": "她会说中文，而且说得很好。",
+        "es": "Ella habla chino y, además, lo habla muy bien."
+      },
+      {
+        "zh": "今天太晚了，而且我也很累。",
+        "es": "Hoy ya es muy tarde y, además, estoy muy cansado."
+      },
+      {
+        "zh": "这个工作不但钱多，而且时间也不长。",
+        "es": "Este trabajo no solo paga bien, sino que además el horario no es largo."
+      }
+    ]
+  },
+  {
+    "word": "回来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "regresar, volver"
+    ],
+    "examples": [
+      {
+        "zh": "他回来了。",
+        "es": "Él ya volvió."
+      },
+      {
+        "zh": "你什么时候回来？",
+        "es": "¿Cuándo vas a regresar?"
+      },
+      {
+        "zh": "妈妈说她今天不回来吃饭。",
+        "es": "Mamá dijo que hoy no vuelve a comer."
+      },
+      {
+        "zh": "他去美国学习了三年，去年才回来。",
+        "es": "Él estudió tres años en Estados Unidos y apenas regresó el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "较",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "relativamente, bastante",
+      "comparado con, más que",
+      "comparar"
+    ],
+    "examples": [
+      {
+        "zh": "今天较冷。",
+        "es": "Hoy hace relativamente frío."
+      },
+      {
+        "zh": "这里的东西较贵。",
+        "es": "Las cosas aquí son relativamente caras."
+      },
+      {
+        "zh": "他的工作时间较长。",
+        "es": "Su horario de trabajo es bastante largo."
+      },
+      {
+        "zh": "今年来中国的学生较去年多了一些。",
+        "es": "Este año vinieron a China algunos estudiantes más que el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "男",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hombre, varón",
+      "masculino",
+      "barón (título nobiliario)"
+    ],
+    "examples": [
+      {
+        "zh": "我们老师是男的。",
+        "es": "Nuestro profesor es hombre."
+      },
+      {
+        "zh": "这个男孩子叫什么名字？",
+        "es": "¿Cómo se llama este niño?"
+      },
+      {
+        "zh": "我们学校男学生比女学生多。",
+        "es": "En nuestra escuela hay más estudiantes hombres que mujeres."
+      },
+      {
+        "zh": "她有一个男朋友，他在一家日本公司工作。",
+        "es": "Ella tiene novio; él trabaja en una empresa japonesa."
+      }
+    ]
+  },
+  {
+    "word": "跑",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "correr",
+      "escaparse, huir",
+      "ir de un lado a otro (hacer vueltas)",
+      "salirse, evaporarse (gas o líquido)"
+    ],
+    "examples": [
+      {
+        "zh": "他跑得很快。",
+        "es": "Él corre muy rápido."
+      },
+      {
+        "zh": "别跑，我们走路去吧。",
+        "es": "No corras, mejor vamos caminando."
+      },
+      {
+        "zh": "我们家的狗跑了。",
+        "es": "Se nos escapó el perro."
+      },
+      {
+        "zh": "为了这个问题，我今天跑了三个地方。",
+        "es": "Por este asunto hoy tuve que ir a tres lugares distintos."
+      }
+    ]
+  },
+  {
+    "word": "人们",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la gente",
+      "las personas"
+    ],
+    "examples": [
+      {
+        "zh": "人们都喜欢他。",
+        "es": "A la gente le cae bien."
+      },
+      {
+        "zh": "人们都在看电视。",
+        "es": "La gente está viendo televisión."
+      },
+      {
+        "zh": "现在人们都用手机买东西。",
+        "es": "Hoy en día la gente compra cosas con el celular."
+      },
+      {
+        "zh": "人们认为这个问题对社会的影响很大。",
+        "es": "La gente cree que este problema tiene un gran impacto en la sociedad."
+      }
+    ]
+  },
+  {
+    "word": "名字",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nombre"
+    ],
+    "examples": [
+      {
+        "zh": "你叫什么名字？",
+        "es": "¿Cómo te llamas?"
+      },
+      {
+        "zh": "我的名字是小明。",
+        "es": "Mi nombre es Xiaoming."
+      },
+      {
+        "zh": "我忘了那个老师的名字。",
+        "es": "Olvidé el nombre de ese profesor."
+      },
+      {
+        "zh": "这个公司的名字是他女儿给起的。",
+        "es": "El nombre de esta empresa se lo puso su hija."
+      }
+    ]
+  },
+  {
+    "word": "少",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "poco, pocos",
+      "faltar",
+      "menos",
+      "rara vez"
+    ],
+    "examples": [
+      {
+        "zh": "这里人很少。",
+        "es": "Aquí hay poca gente."
+      },
+      {
+        "zh": "你少吃一点吧。",
+        "es": "Come un poco menos."
+      },
+      {
+        "zh": "这里少了一本书。",
+        "es": "Aquí falta un libro."
+      },
+      {
+        "zh": "他工作很忙，很少有时间回家看妈妈。",
+        "es": "Él está muy ocupado con el trabajo y rara vez tiene tiempo para ir a ver a su mamá."
+      }
+    ]
+  },
+  {
+    "word": "支持",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "apoyar, respaldar",
+      "apoyo, respaldo",
+      "estar a favor de"
+    ],
+    "examples": [
+      {
+        "zh": "我支持你。",
+        "es": "Te apoyo."
+      },
+      {
+        "zh": "谢谢你们的支持。",
+        "es": "Gracias por su apoyo."
+      },
+      {
+        "zh": "我的家人都支持我去中国学习。",
+        "es": "Toda mi familia me apoya para que vaya a estudiar a China."
+      },
+      {
+        "zh": "这个计划得到了政府和很多企业的支持。",
+        "es": "Este plan recibió el apoyo del gobierno y de muchas empresas."
+      }
+    ]
+  },
+  {
+    "word": "中心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "centro",
+      "núcleo, corazón (de algo)"
+    ],
+    "examples": [
+      {
+        "zh": "这是城市的中心。",
+        "es": "Este es el centro de la ciudad."
+      },
+      {
+        "zh": "我们去市中心买东西吧。",
+        "es": "Vamos al centro a comprar cosas."
+      },
+      {
+        "zh": "这个活动中心是给孩子们用的。",
+        "es": "Este centro de actividades es para los niños."
+      },
+      {
+        "zh": "上海是中国经济发展的一个重要中心。",
+        "es": "Shanghái es un centro importante del desarrollo económico de China."
+      }
+    ]
+  },
+  {
+    "word": "放",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "poner, colocar",
+      "soltar, liberar",
+      "dejar salir",
+      "lanzar (fuegos artificiales)"
+    ],
+    "examples": [
+      {
+        "zh": "书放在这里吧。",
+        "es": "Deja el libro aquí."
+      },
+      {
+        "zh": "你把手机放哪里了？",
+        "es": "¿Dónde pusiste el celular?"
+      },
+      {
+        "zh": "他们把那个人放了。",
+        "es": "Soltaron a ese hombre."
+      },
+      {
+        "zh": "过年的时候，中国人都喜欢放烟花。",
+        "es": "En Año Nuevo, a los chinos les gusta lanzar fuegos artificiales."
+      }
+    ]
+  },
+  {
+    "word": "无",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "no tener, sin",
+      "ninguno, nada",
+      "no",
+      "in-, -less (prefijo de negación)"
+    ],
+    "examples": [
+      {
+        "zh": "我无话可说。",
+        "es": "No tengo nada que decir."
+      },
+      {
+        "zh": "这件事和你无关。",
+        "es": "Este asunto no tiene nada que ver contigo."
+      },
+      {
+        "zh": "他做了很多，可是都无用。",
+        "es": "Hizo mucho, pero todo fue inútil."
+      },
+      {
+        "zh": "没有手机的生活，对他来说无法想象。",
+        "es": "Para él, una vida sin celular es inimaginable."
+      }
+    ]
+  },
+  {
+    "word": "门",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "puerta",
+      "entrada, portón",
+      "clasificador para materias o cursos",
+      "escuela, secta"
+    ],
+    "examples": [
+      {
+        "zh": "请开门。",
+        "es": "Por favor, abre la puerta."
+      },
+      {
+        "zh": "别忘了关门。",
+        "es": "No olvides cerrar la puerta."
+      },
+      {
+        "zh": "这个学期我有五门课。",
+        "es": "Este semestre tengo cinco materias."
+      },
+      {
+        "zh": "我在学校门口等你，你什么时候到？",
+        "es": "Te espero en la entrada de la escuela, ¿a qué hora llegas?"
+      }
+    ]
+  },
+  {
+    "word": "城市",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ciudad"
+    ],
+    "examples": [
+      {
+        "zh": "北京是一个大城市。",
+        "es": "Pekín es una ciudad grande."
+      },
+      {
+        "zh": "你喜欢哪个城市？",
+        "es": "¿Qué ciudad te gusta?"
+      },
+      {
+        "zh": "这个城市的冬天非常冷。",
+        "es": "En esta ciudad el invierno es muy frío."
+      },
+      {
+        "zh": "很多人从小地方来大城市找工作。",
+        "es": "Mucha gente viene de lugares pequeños a las grandes ciudades a buscar trabajo."
+      }
+    ]
+  },
+  {
+    "word": "穿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ponerse, llevar puesto (ropa, zapatos)",
+      "atravesar, cruzar",
+      "perforar",
+      "ensartar"
+    ],
+    "examples": [
+      {
+        "zh": "你穿这个很好看。",
+        "es": "Eso se te ve muy bien."
+      },
+      {
+        "zh": "今天很冷，多穿点衣服。",
+        "es": "Hoy hace mucho frío, ponte más ropa."
+      },
+      {
+        "zh": "他穿过马路去买东西了。",
+        "es": "Cruzó la calle para ir a comprar algo."
+      },
+      {
+        "zh": "那个穿白衣服的女人是我们的新老师。",
+        "es": "La mujer vestida de blanco es nuestra nueva profesora."
+      }
+    ]
+  },
+  {
+    "word": "继续",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "continuar, seguir",
+      "proseguir"
+    ],
+    "examples": [
+      {
+        "zh": "请继续。",
+        "es": "Por favor, continúe."
+      },
+      {
+        "zh": "我们明天继续吧。",
+        "es": "Sigamos mañana."
+      },
+      {
+        "zh": "他吃完饭又继续工作了。",
+        "es": "Después de comer, siguió trabajando."
+      },
+      {
+        "zh": "虽然很难，但是她决定继续学习中文。",
+        "es": "Aunque es difícil, ella decidió seguir estudiando chino."
+      }
+    ]
+  }
+]

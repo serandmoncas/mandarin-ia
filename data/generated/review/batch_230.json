@@ -1,0 +1,163 @@
+[
+  {
+    "id": "word:错误",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c04c4f3a9ba912c2ad2868b3230e632264029196"
+  },
+  {
+    "id": "word:黑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69733cf53f1a61622af29eb8d541db4f1dfd92ba"
+  },
+  {
+    "id": "word:欢迎",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a707c963da6f3e9ccdefff61f07d4f179e4fc5f0"
+  },
+  {
+    "id": "word:仅",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bcc59a4ffb93cc838848cf8a06f5f385b491c3d6"
+  },
+  {
+    "id": "word:农民",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, «提高生产» es una colocación poco natural; lo idiomático es «提高产量» o «提高生产水平»."
+    ],
+    "content_hash": "00e3ec80a1759498275e76a63adad5c261610e04"
+  },
+  {
+    "id": "word:失去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5878b0e2940077b30d6725144fc9b4d73b7b6670"
+  },
+  {
+    "id": "word:下来",
+    "ok": false,
+    "issues": [
+      "El ejemplo 4 («天黑下来») usa 下来 para indicar el inicio o la progresión de un cambio de estado (oscurecer). Ese sentido no figura en los significados: conviene añadirlo o cambiar el ejemplo.",
+      "El pinyin de 下来 es inconsistente: «xià lai» en unos ejemplos y «xià lái» en el ejemplo 2. Como complemento verbal es preferible el tono neutro («xià lai»)."
+    ],
+    "content_hash": "66bd469ac4e4bafc104a5c09c1f5f696b56ef661"
+  },
+  {
+    "id": "word:形式",
+    "ok": false,
+    "issues": [
+      "El ejemplo 4 «以电影的形式介绍给了大家» no es natural en chino. Sería mejor «被拍成了电影» o «以电影的形式呈现给观众»."
+    ],
+    "content_hash": "0d1d1707abe307fa8acf59eb67faabf306472641"
+  },
+  {
+    "id": "word:状态",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b1d20b31630ad8a67288870b238b291ed1058621"
+  },
+  {
+    "id": "word:内部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da77efbbd75df3ccbc2806bd59920d0decfaef0e"
+  },
+  {
+    "id": "word:减少",
+    "ok": true,
+    "issues": [],
+    "content_hash": "269c8c12c6f2cbb2e45b30de75dc5f5005c2f39a"
+  },
+  {
+    "id": "word:女孩",
+    "ok": true,
+    "issues": [],
+    "content_hash": "545b41084ef18120cd0397583a59466beb8125dc"
+  },
+  {
+    "id": "word:攻击",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f8f8a098fdee7b63213405f7a99f8bc48206f75"
+  },
+  {
+    "id": "word:规模",
+    "ok": false,
+    "issues": [
+      "En el ejemplo 4, «减少……的规模» es una colocación incorrecta; con 规模 se usa «缩小规模» (o «扩大规模» para lo contrario)."
+    ],
+    "content_hash": "a4c0c1a17659005f48f289443eec1f1c6379511f"
+  },
+  {
+    "id": "word:部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14da41b8690f4d9de904b30f89d51026360b1c14"
+  },
+  {
+    "id": "word:采取",
+    "ok": false,
+    "issues": [
+      "El significado «tomar (una decisión…)» induce a error: 采取 no se combina con 决定 («tomar una decisión» es 做决定 o 作出决定). 采取 se usa con medidas, acciones, métodos o actitudes."
+    ],
+    "content_hash": "09142029f7583875f80a757afe4d6e7cd822368f"
+  },
+  {
+    "id": "word:动物",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc77f890ddaf934beb4fc7f37dab2ee7c744ac7e"
+  },
+  {
+    "id": "word:反应",
+    "ok": true,
+    "issues": [],
+    "content_hash": "989b3aeed3abc050f72d1e65e43c18289783f8f6"
+  },
+  {
+    "id": "word:黄",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a4c7d5b90c68e9fc73fc8058ac4c28dca3f2aaa"
+  },
+  {
+    "id": "word:积极",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2136f0e5b54b601b29525af35389784e96d6768b"
+  },
+  {
+    "id": "word:绝对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba66f4633f7001720ec64243449bc534077375da"
+  },
+  {
+    "id": "word:清楚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aad15e648b1db18242e961f36abaae691faa0a2c"
+  },
+  {
+    "id": "word:仍然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c035b873ce97a62d4642575bc8c9b2053cc12f14"
+  },
+  {
+    "id": "word:思想",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8715ae394776bf9a8bceb369350490ee5969c300"
+  },
+  {
+    "id": "word:届",
+    "ok": true,
+    "issues": [],
+    "content_hash": "049a4f91b9894d2c51607ad932e5889c2e01146b"
+  }
+]

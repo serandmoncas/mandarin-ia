@@ -1,0 +1,155 @@
+[
+  {
+    "id": "word:邮箱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df10b1a536c5a342296ac4fb786e24763f1fe350"
+  },
+  {
+    "id": "word:跳高",
+    "ok": true,
+    "issues": [],
+    "content_hash": "26eee8a24a54caf79595f815b305513fdf65bee6"
+  },
+  {
+    "id": "word:束",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69a088920139e6a119218d03c5a9d65e477fdf8d"
+  },
+  {
+    "id": "word:图画",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33ac502d97ed360ef46c804154f6401c7e75fede"
+  },
+  {
+    "id": "word:短裤",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ce9e50f2e337460cf6cad45ec3eaff7dcf7d03e"
+  },
+  {
+    "id": "word:熟人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d39fd223205a1484502ad4554594a58ef48b370c"
+  },
+  {
+    "id": "word:结实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d279ccb899850dddc50879b74847766c15970ede"
+  },
+  {
+    "id": "word:工夫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5573fc2aca9866c921013fa2db32d775a3643a95"
+  },
+  {
+    "id": "word:打听",
+    "ok": true,
+    "issues": [],
+    "content_hash": "649799a8fe6e7e86712ded0aaab821211766314a"
+  },
+  {
+    "id": "word:被子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a1c5fbe2ddd1355e286fe46bda6152f09f51116"
+  },
+  {
+    "id": "word:果汁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "995715fcc3303d541579b729da6fb4397c3c7f69"
+  },
+  {
+    "id": "word:听力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4df0bb451b91bd4855f8dad796dfa0d56c0bd927"
+  },
+  {
+    "id": "word:初一",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: 大年初一 se lee 'dà nián chū yī'. En 初一 el 一 es ordinal y no cambia de tono; está escrito 'chū yì'.",
+      "Pinyin incorrecto en el ejemplo 4: debe ser 'chū yī', no 'chū yí'."
+    ],
+    "content_hash": "5cb77426218d118885a5b54ffc34a738d7e5ec25"
+  },
+  {
+    "id": "word:银牌",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1bbc0f045dbaf231dbf6803774dc8b4c81c841a7"
+  },
+  {
+    "id": "word:外文",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1233d83ccc9699421cce9f07f383b417a212a392"
+  },
+  {
+    "id": "word:奶茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3516cbc634515f75670fc7b4f8509721745794ac"
+  },
+  {
+    "id": "word:暖和",
+    "ok": true,
+    "issues": [],
+    "content_hash": "059dba93232ba5a1cd986285493c84de2d3735b4"
+  },
+  {
+    "id": "word:衬衣",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bafbab0c385262c0ae797407b79dfebc033d75e1"
+  },
+  {
+    "id": "word:复印",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5efe086a6ba31ed6f8fc5356b093db158886477"
+  },
+  {
+    "id": "word:空儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20a38c22e850671de47310e5a7ff0c5768f8e07d"
+  },
+  {
+    "id": "word:红茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fe4fa0f3d075d391c3b3fa1e7f54027d17a0ee05"
+  },
+  {
+    "id": "word:理发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20558962a88bf6377ba38523c34c530ab41f7936"
+  },
+  {
+    "id": "word:划船",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b61725e145331ad2d9f52be544b1a70840c4c337"
+  },
+  {
+    "id": "word:书架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a2c18d97d06812440dc15967f8e0ce4eafa2b8ae"
+  },
+  {
+    "id": "word:短处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da4ff94e7a3f9ae5b67f4969784c5f28c3d59313"
+  }
+]

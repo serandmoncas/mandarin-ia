@@ -1,0 +1,154 @@
+[
+  {
+    "id": "word:长城",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b04dffad5e0e5d0dcccd65417ec91a264f8d82b"
+  },
+  {
+    "id": "word:志愿者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25c4e21fe676cb3316bfad5a9739f598b346c5df"
+  },
+  {
+    "id": "word:底下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5f498ba165eda811984154110ba3b149ce8466e0"
+  },
+  {
+    "id": "word:主意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35eaddf2a3628ec34c6594ebf7fb8dd4cbea40f1"
+  },
+  {
+    "id": "word:学费",
+    "ok": false,
+    "issues": [
+      "«Colegiatura» es un regionalismo (México y algunos otros países) y no es español neutro; en muchos países no se entiende. Mejor «matrícula», «costo de los estudios» o «cuota escolar» en el significado principal y en las traducciones."
+    ],
+    "content_hash": "51b345faaa03cf25ce54295f9240f9f4bf3acf18"
+  },
+  {
+    "id": "word:胖",
+    "ok": true,
+    "issues": [],
+    "content_hash": "538122cb44d340ea1d4708fce01916087d6abb62"
+  },
+  {
+    "id": "word:沙发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dae37ff1d531a6402bd3b3afd6fdd1db1094e974"
+  },
+  {
+    "id": "word:生动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35640028bbf21ea6b2729a1cf8d1cfc955cbe1e3"
+  },
+  {
+    "id": "word:羊",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0af84f11ddc2e4674ad7c9eb6eb8c9f6d1e38cd"
+  },
+  {
+    "id": "word:行李",
+    "ok": true,
+    "issues": [],
+    "content_hash": "290be07da6e0710b9b28118b206e5ae6954930ad"
+  },
+  {
+    "id": "word:大夫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "adb027fd5ffe7f5ace738b5c498a7e23a895cf35"
+  },
+  {
+    "id": "word:香蕉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4acffb88922d6aefc8e9b9acc7c9747f19303171"
+  },
+  {
+    "id": "word:证件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "47a45d35cf46621c2897b82656a70bae74166708"
+  },
+  {
+    "id": "word:彩色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ea9d46ac96d6ecbdacaa701c2c847042b05c894"
+  },
+  {
+    "id": "word:变为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "181286959be08f9e5db1e6d1a7e567a3495e7179"
+  },
+  {
+    "id": "word:吵",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0cd5310e0ff018d8846de0d708533ce775b5c982"
+  },
+  {
+    "id": "word:看上去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "52e350533d4a50c7bfee5d30b03c418cca2d3b6a"
+  },
+  {
+    "id": "word:毛病",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d714bc1ea3037296cc61320708862e6dcda4c2b"
+  },
+  {
+    "id": "word:家具",
+    "ok": true,
+    "issues": [],
+    "content_hash": "155bdf1e299368daf6f878afdfdaa5c26893e4c0"
+  },
+  {
+    "id": "word:老太太",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81533544935cb5bfbf7c94acc824b15a749b8b91"
+  },
+  {
+    "id": "word:整整",
+    "ok": true,
+    "issues": [],
+    "content_hash": "771931ba33c6caa73e3707afce9a44638b2d0855"
+  },
+  {
+    "id": "word:本事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d1202fff8bbdc4e77f712eae1e75fe22cdc496a"
+  },
+  {
+    "id": "word:表格",
+    "ok": true,
+    "issues": [],
+    "content_hash": "169e3656ecf0f66b761208085e3a95ebf2c7b4e8"
+  },
+  {
+    "id": "word:裙子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca609ca41215f60574f8de623dfa40ad3bc0000b"
+  },
+  {
+    "id": "word:所长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20dcb4d5e3852718f9a3ae8a44da4c18fc2420ba"
+  }
+]

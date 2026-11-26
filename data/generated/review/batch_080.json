@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:布",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7845c3f34c311168ec13992b84c598bf5ace69bf"
+  },
+  {
+    "id": "word:字典",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8592b84fde9eda62f9a31f00a144c47e653d2f5a"
+  },
+  {
+    "id": "word:成熟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "772afb8927876ad2e68d9ddb6c301e2c2c7ab050"
+  },
+  {
+    "id": "word:瓶子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89c874229bf28f684d4bb62f68ddc058ed72a468"
+  },
+  {
+    "id": "word:集体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d796d43164685eaaffe6d94028618ef0b7086423"
+  },
+  {
+    "id": "word:照相",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02bb49fb7b12129e4b8a8e4c4533948ed8e91ffa"
+  },
+  {
+    "id": "word:简直",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 得 (complemento de grado en 热得) debe ser «de» en tono neutro, no «dé»."
+    ],
+    "content_hash": "2a1927418874042681c66c25606def40cf822ac5"
+  },
+  {
+    "id": "word:晚报",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 都 debe ser «dōu», no «dū»."
+    ],
+    "content_hash": "6de4caf03666d0c7da2d14ccfcd843a2a2a5db20"
+  },
+  {
+    "id": "word:走开",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 地 (partícula adverbial en 生气地) debe ser «de» en tono neutro, no «dì»."
+    ],
+    "content_hash": "95aa9a5afc94aea4a00fb9969df946b691b04113"
+  },
+  {
+    "id": "word:举手",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc822d7d9ce0e22af8eff90b9e81b48e1168e7a5"
+  },
+  {
+    "id": "word:洗衣机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e580d921a47a94d45760e5e66de947ba831ef16e"
+  },
+  {
+    "id": "word:麻烦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "19c7ba794614fbf9433e778b23d04e7c40df3abc"
+  },
+  {
+    "id": "word:叫作",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5705d2f2993dfc67c46c51350fa8a8b3ff7a2682"
+  },
+  {
+    "id": "word:外卖",
+    "ok": true,
+    "issues": [],
+    "content_hash": "136dce949030dfc3a6a5da50bf812d996cb83c09"
+  },
+  {
+    "id": "word:深入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77d199c40d775a7498300712c84314dad1bbbfb8"
+  },
+  {
+    "id": "word:药店",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 得 con el sentido de «tener que» se lee «děi», no «dé»."
+    ],
+    "content_hash": "511cac035db205a96fb8deb6c8c80cbbf5e97da0"
+  },
+  {
+    "id": "word:外交",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7a363264e2fcd92eb652eb3d4f4639967137fa9"
+  },
+  {
+    "id": "word:个子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "088e4fa2a8534c48063d78f3637bd673ec3e9883"
+  },
+  {
+    "id": "word:现代化",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4dab11713ac3d47a2cdf5bc6a337270d598f948f"
+  },
+  {
+    "id": "word:饺子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce619f0a0438dabd8d60aaba9f002320075e4de5"
+  },
+  {
+    "id": "word:总结",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4350a5fff9e82c5d94ef5db8ef6369f639b8c660"
+  },
+  {
+    "id": "word:流利",
+    "ok": false,
+    "issues": [
+      "Ejemplos 2 y 4: el pinyin de 得 (complemento de grado en 说得) debe ser «de» en tono neutro, no «dé»."
+    ],
+    "content_hash": "c57d40acccb53bdf03bd6bb6ce2137382a38178a"
+  },
+  {
+    "id": "word:排球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89405755d428cfb962e9eaecccd2abcf6fe8811e"
+  },
+  {
+    "id": "word:请客",
+    "ok": true,
+    "issues": [],
+    "content_hash": "372c65103e6341e46ed55a06dbb65bda25a7348e"
+  },
+  {
+    "id": "word:小声",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fd6ead4cd3ff599f90214017aedfaaebca8dfede"
+  }
+]

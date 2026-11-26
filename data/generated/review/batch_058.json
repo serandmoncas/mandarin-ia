@@ -1,0 +1,169 @@
+[
+  {
+    "id": "word:篇",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51fcaf49ce61545947361efa260f8e6fe9563282"
+  },
+  {
+    "id": "word:通",
+    "ok": false,
+    "issues": [
+      "En «他昨天给我打了一通电话» el pinyin «yí tòng» es incorrecto: como clasificador de llamadas se lee tōng («yì tōng diàn huà»)."
+    ],
+    "content_hash": "61c8acd8fbe063565ab5a326d1f10123060f82d5"
+  },
+  {
+    "id": "word:重大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "48d0cd8a8c23e1a48728a07e85e1d84ecda46507"
+  },
+  {
+    "id": "word:咱们",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba18cc5a875e056aa107f8fdb7dd4a19d4479cfe"
+  },
+  {
+    "id": "word:周年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb2efd4a9180c586c29744482bf9aa0a39847da1"
+  },
+  {
+    "id": "word:不管",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77376b1e491de5bbe42da52a4db2f7775f5f4db0"
+  },
+  {
+    "id": "word:座",
+    "ok": false,
+    "issues": [
+      "«请问，这个座有人吗？» suena poco natural en chino estándar: 座 casi no se usa solo con el sentido de 'asiento'. Lo habitual es «这个座位有人吗？» (o el coloquial «这儿有人吗？»)."
+    ],
+    "content_hash": "4b980192f9f11ceb17a896f51374c965dbd3c9ca"
+  },
+  {
+    "id": "word:乡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "38c83cf587126290d79f59e8c194c7cb3322238a"
+  },
+  {
+    "id": "word:似乎",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a8e3ec4120ca235f8f526ff43b98163d949ceb97"
+  },
+  {
+    "id": "word:出生",
+    "ok": false,
+    "issues": [
+      "«很普通的农民家庭» significa 'una familia campesina muy común/corriente'. «Muy humilde» añade un matiz económico que no está en el original."
+    ],
+    "content_hash": "328b05a90def5cb86308a526111864ae48addf25"
+  },
+  {
+    "id": "word:兄弟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a2c70831acaa60553e11bdea60f6912106e98bb"
+  },
+  {
+    "id": "word:高中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3cbbde5d8005d6407c2e6fc4571a8f123100fe3f"
+  },
+  {
+    "id": "word:呀",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fdf80f2e939c2579002cba6cd21c999951858c41"
+  },
+  {
+    "id": "word:公路",
+    "ok": false,
+    "issues": [
+      "En «这条公路很长» el pinyin «hěn zhǎng» es incorrecto: 长 'largo' se lee cháng («hěn cháng»)."
+    ],
+    "content_hash": "16dd3fa5055436c0912fe06d58ceab7f410d8d39"
+  },
+  {
+    "id": "word:妻子",
+    "ok": false,
+    "issues": [
+      "En todos los ejemplos el pinyin «qī zǐ» es incorrecto: con el sentido de 'esposa' se lee qī zi, con tono neutro, como indica la propia entrada (zi5). «qī zǐ» significa 'esposa e hijos'."
+    ],
+    "content_hash": "226895de9b91b46f46e8ffd198bbadff86c276bd"
+  },
+  {
+    "id": "word:红色",
+    "ok": false,
+    "issues": [
+      "En «很多人家里都有红色的东西» el pinyin «dōng xī» es incorrecto: 东西 'cosa' se lee dōng xi, con tono neutro. «dōng xī» significa 'este y oeste'.",
+      "En «一件红色的衣服», 衣服 se lee yī fu, con tono neutro, no «yī fú»."
+    ],
+    "content_hash": "6c8cae05422035ba7343e50c36c44b07608daeea"
+  },
+  {
+    "id": "word:律师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24e18b28a969713725da6bd97528c0f37f3238f2"
+  },
+  {
+    "id": "word:家长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bff52a0682a7b3dbef611b3f87e6334d9d6d0723"
+  },
+  {
+    "id": "word:讲话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "502d12ae54ff0aaa9a161f3ddf44610884848a2b"
+  },
+  {
+    "id": "word:各地",
+    "ok": false,
+    "issues": [
+      "En «各地都会举行很多活动» el pinyin «dū huì» es incorrecto: aquí 都 significa 'todos' y se lee dōu («dōu huì»)."
+    ],
+    "content_hash": "3b80976b28ba9da19081760bbb5a7ba45c4610dc"
+  },
+  {
+    "id": "word:鱼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af16ee4c19d8272bccba3d761ee19e77e306e0bf"
+  },
+  {
+    "id": "word:不久",
+    "ok": false,
+    "issues": [
+      "En «汉语已经说得很好了» el pinyin «shuō dé» es incorrecto: el complemento 得 se lee de, con tono neutro («shuō de hěn hǎo»)."
+    ],
+    "content_hash": "5c133544c9b8eb2e4562ef1ab7a7a8d1a734d352"
+  },
+  {
+    "id": "word:可怕",
+    "ok": true,
+    "issues": [],
+    "content_hash": "363a37cd853855cf32b9b01ca798a8ca8c0fb01c"
+  },
+  {
+    "id": "word:前往",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1375d7b9da5fab68f2439cc9f88799ff2f1700a0"
+  },
+  {
+    "id": "word:留",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4579043169bae8261f336ca47c3d77ae4e54e9fa"
+  }
+]

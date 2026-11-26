@@ -1,0 +1,542 @@
+[
+  {
+    "word": "前天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "anteayer"
+    ],
+    "examples": [
+      {
+        "zh": "我前天去了北京。",
+        "es": "Anteayer fui a Pekín."
+      },
+      {
+        "zh": "前天下雨了，今天很热。",
+        "es": "Anteayer llovió, y hoy hace mucho calor."
+      },
+      {
+        "zh": "你前天为什么没来上课？",
+        "es": "¿Por qué no viniste a clase anteayer?"
+      },
+      {
+        "zh": "前天我和朋友一起去商店买了衣服。",
+        "es": "Anteayer fui con un amigo a la tienda a comprar ropa."
+      }
+    ]
+  },
+  {
+    "word": "意见",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "opinión",
+      "sugerencia",
+      "objeción",
+      "queja"
+    ],
+    "examples": [
+      {
+        "zh": "你有什么意见？",
+        "es": "¿Qué opinas?"
+      },
+      {
+        "zh": "我想听听你的意见。",
+        "es": "Quiero escuchar tu opinión."
+      },
+      {
+        "zh": "老师对我的计划提出了一些意见。",
+        "es": "El maestro me hizo algunas sugerencias sobre mi plan."
+      },
+      {
+        "zh": "如果大家有不同的意见，可以在会议上说。",
+        "es": "Si alguien tiene una opinión diferente, puede decirlo en la reunión."
+      }
+    ]
+  },
+  {
+    "word": "包子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "baozi (bollo relleno al vapor)",
+      "pan chino al vapor"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃包子。",
+        "es": "Me gusta comer baozi."
+      },
+      {
+        "zh": "早上我吃了两个包子。",
+        "es": "En la mañana me comí dos baozi."
+      },
+      {
+        "zh": "这家饭店的包子非常好吃。",
+        "es": "Los baozi de este restaurante son deliciosos."
+      },
+      {
+        "zh": "妈妈每个星期天都在家做肉包子。",
+        "es": "Mi mamá hace baozi de carne en casa todos los domingos."
+      }
+    ]
+  },
+  {
+    "word": "人物",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "personaje",
+      "figura (persona importante)",
+      "personalidad"
+    ],
+    "examples": [
+      {
+        "zh": "他是一个重要人物。",
+        "es": "Él es un personaje importante."
+      },
+      {
+        "zh": "这个电影里的人物我都很喜欢。",
+        "es": "Me gustan todos los personajes de esta película."
+      },
+      {
+        "zh": "他是中国历史上很有名的人物。",
+        "es": "Es una figura muy famosa de la historia de China."
+      },
+      {
+        "zh": "这个故事里的主要人物是一个小学生。",
+        "es": "El personaje principal de esta historia es un niño de primaria."
+      }
+    ]
+  },
+  {
+    "word": "打车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tomar un taxi",
+      "pedir un taxi"
+    ],
+    "examples": [
+      {
+        "zh": "我们打车去吧。",
+        "es": "Vamos en taxi."
+      },
+      {
+        "zh": "太晚了，我打车回家。",
+        "es": "Ya es muy tarde, voy a tomar un taxi a casa."
+      },
+      {
+        "zh": "下雨了，打车的人特别多。",
+        "es": "Está lloviendo y hay muchísima gente tomando taxi."
+      },
+      {
+        "zh": "从机场打车到大学要多少钱？",
+        "es": "¿Cuánto cuesta un taxi del aeropuerto a la universidad?"
+      }
+    ]
+  },
+  {
+    "word": "共",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en total",
+      "juntos",
+      "común",
+      "compartir"
+    ],
+    "examples": [
+      {
+        "zh": "我们一共有五个人。",
+        "es": "Somos cinco personas en total."
+      },
+      {
+        "zh": "这些东西一共多少钱？",
+        "es": "¿Cuánto cuestan todas estas cosas en total?"
+      },
+      {
+        "zh": "我们班共有二十个学生。",
+        "es": "Nuestra clase tiene veinte estudiantes en total."
+      },
+      {
+        "zh": "这个城市共有三个机场和两个火车站。",
+        "es": "Esta ciudad tiene en total tres aeropuertos y dos estaciones de tren."
+      }
+    ]
+  },
+  {
+    "word": "女性",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mujer",
+      "sexo femenino",
+      "femenino"
+    ],
+    "examples": [
+      {
+        "zh": "这个公司有很多女性。",
+        "es": "En esta empresa hay muchas mujeres."
+      },
+      {
+        "zh": "女性也可以当总统。",
+        "es": "Las mujeres también pueden ser presidentas."
+      },
+      {
+        "zh": "政府应该保护女性的权利。",
+        "es": "El gobierno debe proteger los derechos de las mujeres."
+      },
+      {
+        "zh": "这个大学的学生中，女性占一半。",
+        "es": "Entre los estudiantes de esta universidad, la mitad son mujeres."
+      }
+    ]
+  },
+  {
+    "word": "上边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "arriba",
+      "encima",
+      "la parte de arriba",
+      "los superiores"
+    ],
+    "examples": [
+      {
+        "zh": "书在桌子上边。",
+        "es": "El libro está encima de la mesa."
+      },
+      {
+        "zh": "你看上边，那是飞机吗？",
+        "es": "Mira hacia arriba, ¿eso es un avión?"
+      },
+      {
+        "zh": "上边写着你的名字。",
+        "es": "Arriba está escrito tu nombre."
+      },
+      {
+        "zh": "上边要求我们明天以前完成这个工作。",
+        "es": "Los de arriba nos pidieron terminar este trabajo antes de mañana."
+      }
+    ]
+  },
+  {
+    "word": "执行",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ejecutar",
+      "llevar a cabo",
+      "aplicar",
+      "cumplir"
+    ],
+    "examples": [
+      {
+        "zh": "我们要执行这个计划。",
+        "es": "Tenemos que llevar a cabo este plan."
+      },
+      {
+        "zh": "这个任务由他负责执行。",
+        "es": "Él es el responsable de ejecutar esta tarea."
+      },
+      {
+        "zh": "新的规定从下个月开始执行。",
+        "es": "Las nuevas normas se aplicarán a partir del próximo mes."
+      },
+      {
+        "zh": "政府决定马上执行新的环境保护政策。",
+        "es": "El gobierno decidió aplicar de inmediato la nueva política de protección ambiental."
+      }
+    ]
+  },
+  {
+    "word": "下课",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "terminar la clase",
+      "salir de clase",
+      "(fig.) ser destituido"
+    ],
+    "examples": [
+      {
+        "zh": "下课了，我们走吧。",
+        "es": "Ya terminó la clase, vámonos."
+      },
+      {
+        "zh": "我们几点下课？",
+        "es": "¿A qué hora salimos de clase?"
+      },
+      {
+        "zh": "下课以后，我们一起去吃饭吧。",
+        "es": "Después de clase, vamos a comer juntos."
+      },
+      {
+        "zh": "今天下课以后我要去图书馆找资料。",
+        "es": "Hoy, después de clase, voy a ir a la biblioteca a buscar información."
+      }
+    ]
+  },
+  {
+    "word": "最高",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "el más alto",
+      "máximo",
+      "supremo"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们班最高的。",
+        "es": "Él es el más alto de nuestra clase."
+      },
+      {
+        "zh": "这是北京最高的楼。",
+        "es": "Este es el edificio más alto de Pekín."
+      },
+      {
+        "zh": "这次考试他得了最高分。",
+        "es": "En este examen él sacó la calificación más alta."
+      },
+      {
+        "zh": "这是我们国家最高的山，每年都有很多人去。",
+        "es": "Esta es la montaña más alta de nuestro país; cada año va mucha gente."
+      }
+    ]
+  },
+  {
+    "word": "外边",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "afuera",
+      "el exterior",
+      "fuera de casa"
+    ],
+    "examples": [
+      {
+        "zh": "外边很冷。",
+        "es": "Afuera hace mucho frío."
+      },
+      {
+        "zh": "孩子们在外边玩儿。",
+        "es": "Los niños están jugando afuera."
+      },
+      {
+        "zh": "下雨了，别去外边了。",
+        "es": "Está lloviendo, mejor no salgas."
+      },
+      {
+        "zh": "我们今天晚上在外边吃饭吧，不在家做饭了。",
+        "es": "Esta noche comamos fuera, no cocinemos en casa."
+      }
+    ]
+  },
+  {
+    "word": "机关",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "organismo (público)",
+      "dependencia de gobierno",
+      "mecanismo",
+      "artimaña"
+    ],
+    "examples": [
+      {
+        "zh": "他在政府机关工作。",
+        "es": "Él trabaja en una dependencia del gobierno."
+      },
+      {
+        "zh": "这个机关负责管理全市的学校。",
+        "es": "Este organismo se encarga de administrar las escuelas de toda la ciudad."
+      },
+      {
+        "zh": "我爸爸在机关上班已经二十年了。",
+        "es": "Mi papá ya lleva veinte años trabajando en una oficina de gobierno."
+      },
+      {
+        "zh": "很多大学生都希望以后能在国家机关工作。",
+        "es": "Muchos universitarios esperan trabajar algún día en un organismo del Estado."
+      }
+    ]
+  },
+  {
+    "word": "男孩儿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "niño",
+      "chico",
+      "muchacho"
+    ],
+    "examples": [
+      {
+        "zh": "那个男孩儿是谁？",
+        "es": "¿Quién es ese niño?"
+      },
+      {
+        "zh": "他们有一个男孩儿。",
+        "es": "Ellos tienen un niño."
+      },
+      {
+        "zh": "这个男孩儿很喜欢打球。",
+        "es": "A este chico le gusta mucho jugar a la pelota."
+      },
+      {
+        "zh": "那个穿白衣服的男孩儿是我妹妹的同学。",
+        "es": "El chico vestido de blanco es compañero de clase de mi hermana menor."
+      }
+    ]
+  },
+  {
+    "word": "用户",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "usuario",
+      "cliente",
+      "suscriptor"
+    ],
+    "examples": [
+      {
+        "zh": "这个网站有很多用户。",
+        "es": "Este sitio web tiene muchos usuarios."
+      },
+      {
+        "zh": "用户可以在网上买票。",
+        "es": "Los usuarios pueden comprar boletos en línea."
+      },
+      {
+        "zh": "公司应该听听用户的意见。",
+        "es": "La empresa debería escuchar la opinión de los usuarios."
+      },
+      {
+        "zh": "这个游戏在全球已经有一千万用户了。",
+        "es": "Este juego ya tiene diez millones de usuarios en todo el mundo."
+      }
+    ]
+  },
+  {
+    "word": "解释",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "explicar",
+      "explicación",
+      "interpretar"
+    ],
+    "examples": [
+      {
+        "zh": "请你解释一下。",
+        "es": "Por favor, explícalo."
+      },
+      {
+        "zh": "我不明白他的解释。",
+        "es": "No entiendo su explicación."
+      },
+      {
+        "zh": "老师给我们解释了这个问题。",
+        "es": "El maestro nos explicó esta pregunta."
+      },
+      {
+        "zh": "你不用解释了，我知道你为什么没来。",
+        "es": "No tienes que explicar nada, ya sé por qué no viniste."
+      }
+    ]
+  },
+  {
+    "word": "渴",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener sed",
+      "sediento"
+    ],
+    "examples": [
+      {
+        "zh": "我很渴。",
+        "es": "Tengo mucha sed."
+      },
+      {
+        "zh": "你渴不渴？",
+        "es": "¿Tienes sed?"
+      },
+      {
+        "zh": "我渴了，想喝点水。",
+        "es": "Me dio sed, quiero tomar un poco de agua."
+      },
+      {
+        "zh": "跑了一个小时，我又累又渴。",
+        "es": "Después de correr una hora, estoy cansado y con sed."
+      }
+    ]
+  },
+  {
+    "word": "采用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adoptar",
+      "emplear",
+      "utilizar"
+    ],
+    "examples": [
+      {
+        "zh": "我们采用了他的建议。",
+        "es": "Adoptamos su sugerencia."
+      },
+      {
+        "zh": "这个公司采用了新技术。",
+        "es": "Esta empresa adoptó una nueva tecnología."
+      },
+      {
+        "zh": "学校决定采用新的课本。",
+        "es": "La escuela decidió usar nuevos libros de texto."
+      },
+      {
+        "zh": "这个城市采用了一种新的方法来解决问题。",
+        "es": "Esta ciudad adoptó un nuevo método para resolver el problema."
+      }
+    ]
+  },
+  {
+    "word": "课文",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "texto (de la lección)",
+      "lectura"
+    ],
+    "examples": [
+      {
+        "zh": "请读课文。",
+        "es": "Por favor, lee el texto."
+      },
+      {
+        "zh": "今天的课文很长。",
+        "es": "El texto de hoy es muy largo."
+      },
+      {
+        "zh": "回家以后，请把课文读三次。",
+        "es": "Cuando llegues a casa, lee el texto tres veces."
+      },
+      {
+        "zh": "这篇课文讲的是一个中国孩子的故事。",
+        "es": "Este texto cuenta la historia de un niño chino."
+      }
+    ]
+  },
+  {
+    "word": "分别",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "separarse",
+      "respectivamente",
+      "por separado",
+      "distinguir"
+    ],
+    "examples": [
+      {
+        "zh": "我们分别了三年。",
+        "es": "Estuvimos separados tres años."
+      },
+      {
+        "zh": "两个孩子分别是八岁和十岁。",
+        "es": "Los dos niños tienen ocho y diez años, respectivamente."
+      },
+      {
+        "zh": "分别的时候，她什么也没说。",
+        "es": "Cuando nos despedimos, ella no dijo nada."
+      },
+      {
+        "zh": "我们在机场分别以后，就再也没见面了。",
+        "es": "Después de despedirnos en el aeropuerto, nunca nos volvimos a ver."
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "phrase:hotel:000",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77b873bf75693a1ab9cc1567eb00061931b045fb"
+  },
+  {
+    "id": "phrase:hotel:001",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5cf0dde3a11bcbd48561cb609de670686d8f242d"
+  },
+  {
+    "id": "phrase:hotel:002",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ddcbdceacb17feb829532a0718c1b75e2e16a6a"
+  },
+  {
+    "id": "phrase:hotel:003",
+    "ok": true,
+    "issues": [],
+    "content_hash": "271b8a12c56718b39d913fe2e8e211529a635bd1"
+  },
+  {
+    "id": "phrase:hotel:004",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45e5ca9786923ce67f272449704cd4f74935e529"
+  },
+  {
+    "id": "phrase:hotel:005",
+    "ok": true,
+    "issues": [],
+    "content_hash": "49bb9cf2f2ef094dfb8f397e2218cedcdf6dbce3"
+  },
+  {
+    "id": "phrase:hotel:006",
+    "ok": true,
+    "issues": [],
+    "content_hash": "66ac5b7ced8af60ba1d3e371e1da033f7bc6b57a"
+  },
+  {
+    "id": "phrase:hotel:007",
+    "ok": true,
+    "issues": [],
+    "content_hash": "71fc07b0e69e569df3bbd3f0aa17fe780abeaab8"
+  },
+  {
+    "id": "phrase:hotel:008",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91b3b34137bacdaf88df1fd2f8eeb7ab0ab47f22"
+  },
+  {
+    "id": "phrase:hotel:009",
+    "ok": true,
+    "issues": [],
+    "content_hash": "153d8bb5e5fd23bfe64ce6bed478785f82d20f89"
+  },
+  {
+    "id": "phrase:hotel:010",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc061526461f6d362b8405fede924945b9e5c89d"
+  },
+  {
+    "id": "phrase:hotel:011",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5bcee1ef69f04a1ac9f239f77f781c7acaee9a3d"
+  },
+  {
+    "id": "phrase:hotel:012",
+    "ok": false,
+    "issues": [
+      "El pinyin omite «Wi-Fi», así que no corresponde a la frase completa; debería empezar con «Wi-Fi mì mǎ shì duō shǎo»."
+    ],
+    "content_hash": "e04c6cc8c09562529889ccb05ce05b44b8c4550f"
+  },
+  {
+    "id": "phrase:hotel:013",
+    "ok": true,
+    "issues": [],
+    "content_hash": "06b9f8582f8a611f45f118315857addb50056955"
+  },
+  {
+    "id": "phrase:hotel:014",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f9b7cdd8c46dc8f224a722ef78214a64cb638fcf"
+  },
+  {
+    "id": "phrase:hotel:015",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5fecf257c371a5b780cd27a2fd857ac5995d733"
+  },
+  {
+    "id": "phrase:hotel:016",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac5c3f042331d7e5864a88d04e95edb085f9c18f"
+  },
+  {
+    "id": "phrase:hotel:017",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aff8da65c53536b23c2b83a373bd4475d1e8bd0d"
+  },
+  {
+    "id": "phrase:hotel:018",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f9bd3cdc59fd6ba5093341416eaeffb645e2a8ff"
+  },
+  {
+    "id": "phrase:hotel:019",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f085c52f87210a5584d9c20b4884a1453185c3f5"
+  },
+  {
+    "id": "phrase:hotel:020",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce09f2e52ab2f2f7d5aca48bf83efbf90006f55c"
+  },
+  {
+    "id": "phrase:hotel:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e0c0275011dd6d40c9ddb87568fd1a811e064804"
+  },
+  {
+    "id": "phrase:hotel:022",
+    "ok": true,
+    "issues": [],
+    "content_hash": "44bfba4ec414a7a9700a877778fdaff6d34d4534"
+  },
+  {
+    "id": "phrase:hotel:023",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d79344a1c28dd05d28e3a80d0f7941b5e1a692ec"
+  },
+  {
+    "id": "phrase:hotel:024",
+    "ok": true,
+    "issues": [],
+    "content_hash": "306a32f853f3a1897ec91dbada6d0d38943db8ae"
+  }
+]

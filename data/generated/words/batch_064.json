@@ -1,0 +1,538 @@
+[
+  {
+    "word": "销售",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vender",
+      "comercializar",
+      "ventas"
+    ],
+    "examples": [
+      {
+        "zh": "他做销售工作。",
+        "es": "Él trabaja en ventas."
+      },
+      {
+        "zh": "这个产品销售得很好。",
+        "es": "Este producto se vende muy bien."
+      },
+      {
+        "zh": "今年公司的销售增加了很多。",
+        "es": "Este año las ventas de la empresa aumentaron mucho."
+      },
+      {
+        "zh": "我们需要新的方法来销售这些产品。",
+        "es": "Necesitamos nuevas formas de vender estos productos."
+      }
+    ]
+  },
+  {
+    "word": "不够",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "no alcanzar",
+      "no ser suficiente",
+      "insuficiente"
+    ],
+    "examples": [
+      {
+        "zh": "我的钱不够。",
+        "es": "No me alcanza el dinero."
+      },
+      {
+        "zh": "时间不够，我们快走吧。",
+        "es": "No hay suficiente tiempo, vámonos rápido."
+      },
+      {
+        "zh": "这些饭不够五个人吃。",
+        "es": "Esta comida no alcanza para cinco personas."
+      },
+      {
+        "zh": "他觉得自己学习还不够努力。",
+        "es": "Él siente que todavía no se esfuerza lo suficiente en sus estudios."
+      }
+    ]
+  },
+  {
+    "word": "附近",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cerca",
+      "alrededores",
+      "cercano"
+    ],
+    "examples": [
+      {
+        "zh": "附近有商店吗？",
+        "es": "¿Hay alguna tienda cerca?"
+      },
+      {
+        "zh": "我家附近有一个银行。",
+        "es": "Cerca de mi casa hay un banco."
+      },
+      {
+        "zh": "学校附近的饭店都很好吃。",
+        "es": "Los restaurantes cerca de la escuela son todos muy ricos."
+      },
+      {
+        "zh": "请问，这附近哪里可以打车？",
+        "es": "Disculpe, ¿dónde puedo tomar un taxi por aquí cerca?"
+      }
+    ]
+  },
+  {
+    "word": "地球",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la Tierra",
+      "el planeta"
+    ],
+    "examples": [
+      {
+        "zh": "地球很大。",
+        "es": "La Tierra es muy grande."
+      },
+      {
+        "zh": "我们住在地球上。",
+        "es": "Vivimos en la Tierra."
+      },
+      {
+        "zh": "保护地球是每个人的责任。",
+        "es": "Proteger la Tierra es responsabilidad de todos."
+      },
+      {
+        "zh": "科学家认为地球的环境正在发生变化。",
+        "es": "Los científicos creen que el medio ambiente de la Tierra está cambiando."
+      }
+    ]
+  },
+  {
+    "word": "公园",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parque"
+    ],
+    "examples": [
+      {
+        "zh": "我们去公园吧。",
+        "es": "Vamos al parque."
+      },
+      {
+        "zh": "公园里有很多树。",
+        "es": "En el parque hay muchos árboles."
+      },
+      {
+        "zh": "星期天我常常和妈妈去公园走路。",
+        "es": "Los domingos suelo ir a caminar al parque con mi mamá."
+      },
+      {
+        "zh": "这个城市的公园都是免费的，很多老人在那里休息。",
+        "es": "Todos los parques de esta ciudad son gratuitos, y muchos ancianos descansan allí."
+      }
+    ]
+  },
+  {
+    "word": "程度",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nivel",
+      "grado",
+      "medida"
+    ],
+    "examples": [
+      {
+        "zh": "他的中文程度很高。",
+        "es": "Su nivel de chino es muy alto."
+      },
+      {
+        "zh": "在一定程度上，他说得对。",
+        "es": "Hasta cierto punto, él tiene razón."
+      },
+      {
+        "zh": "教育程度会影响一个人的收入。",
+        "es": "El nivel educativo influye en los ingresos de una persona."
+      },
+      {
+        "zh": "我不知道问题严重到什么程度。",
+        "es": "No sé qué tan grave es el problema."
+      }
+    ]
+  },
+  {
+    "word": "见到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ver",
+      "encontrarse con"
+    ],
+    "examples": [
+      {
+        "zh": "很高兴见到你。",
+        "es": "Me da mucho gusto verte."
+      },
+      {
+        "zh": "我已经一年没见到他了。",
+        "es": "Hace un año que no lo veo."
+      },
+      {
+        "zh": "我昨天在商店见到了老师。",
+        "es": "Ayer vi a la maestra en la tienda."
+      },
+      {
+        "zh": "他回到北京以后，终于见到了自己的家人。",
+        "es": "Después de volver a Beijing, por fin pudo ver a su familia."
+      }
+    ]
+  },
+  {
+    "word": "通知",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "avisar",
+      "notificar",
+      "aviso",
+      "notificación"
+    ],
+    "examples": [
+      {
+        "zh": "请通知大家明天开会。",
+        "es": "Por favor, avisa a todos que mañana hay reunión."
+      },
+      {
+        "zh": "我还没看到学校的通知。",
+        "es": "Todavía no he visto el aviso de la escuela."
+      },
+      {
+        "zh": "有什么消息，我会马上通知你。",
+        "es": "Si hay alguna noticia, te aviso de inmediato."
+      },
+      {
+        "zh": "公司通知我们下个星期一不用上班。",
+        "es": "La empresa nos avisó que el próximo lunes no tenemos que ir a trabajar."
+      }
+    ]
+  },
+  {
+    "word": "习惯",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "costumbre",
+      "hábito",
+      "acostumbrarse",
+      "estar acostumbrado"
+    ],
+    "examples": [
+      {
+        "zh": "我习惯早上喝茶。",
+        "es": "Tengo la costumbre de tomar té en la mañana."
+      },
+      {
+        "zh": "你习惯这里的生活了吗？",
+        "es": "¿Ya te acostumbraste a la vida aquí?"
+      },
+      {
+        "zh": "每个国家都有不同的习惯。",
+        "es": "Cada país tiene costumbres diferentes."
+      },
+      {
+        "zh": "早睡早起是一个好习惯，对身体很有帮助。",
+        "es": "Dormirse y levantarse temprano es un buen hábito; ayuda mucho a la salud."
+      }
+    ]
+  },
+  {
+    "word": "比如",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "por ejemplo",
+      "como"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢水果，比如苹果。",
+        "es": "Me gustan las frutas, por ejemplo, las manzanas."
+      },
+      {
+        "zh": "比如说，你可以每天读一点中文书。",
+        "es": "Por ejemplo, podrías leer un poco en chino todos los días."
+      },
+      {
+        "zh": "他会说很多语言，比如英语和法语。",
+        "es": "Él habla muchos idiomas, como inglés y francés."
+      },
+      {
+        "zh": "有很多方法可以保护环境，比如少开车。",
+        "es": "Hay muchas formas de proteger el medio ambiente, como manejar menos."
+      }
+    ]
+  },
+  {
+    "word": "推动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "impulsar",
+      "promover",
+      "empujar"
+    ],
+    "examples": [
+      {
+        "zh": "我们要推动这个计划。",
+        "es": "Tenemos que impulsar este plan."
+      },
+      {
+        "zh": "科技推动社会发展。",
+        "es": "La tecnología impulsa el desarrollo de la sociedad."
+      },
+      {
+        "zh": "政府希望推动经济增长。",
+        "es": "El gobierno quiere impulsar el crecimiento económico."
+      },
+      {
+        "zh": "这次会议推动了两个国家之间的合作。",
+        "es": "Esta reunión impulsó la cooperación entre los dos países."
+      }
+    ]
+  },
+  {
+    "word": "卡",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tarjeta",
+      "trabarse",
+      "ir lento (dispositivo)",
+      "caloría"
+    ],
+    "examples": [
+      {
+        "zh": "我可以用卡吗？",
+        "es": "¿Puedo pagar con tarjeta?"
+      },
+      {
+        "zh": "我的银行卡不见了。",
+        "es": "No encuentro mi tarjeta del banco."
+      },
+      {
+        "zh": "我的手机很卡，打开一个网站要一分钟。",
+        "es": "Mi celular está muy lento; abrir una página web tarda un minuto."
+      },
+      {
+        "zh": "进图书馆以前，请先拿出你的学生卡。",
+        "es": "Antes de entrar a la biblioteca, por favor saca tu tarjeta de estudiante."
+      }
+    ]
+  },
+  {
+    "word": "有效",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "eficaz",
+      "efectivo",
+      "válido",
+      "vigente"
+    ],
+    "examples": [
+      {
+        "zh": "这个方法很有效。",
+        "es": "Este método es muy eficaz."
+      },
+      {
+        "zh": "这张票今天有效吗？",
+        "es": "¿Este boleto es válido hoy?"
+      },
+      {
+        "zh": "多运动是减少压力的有效方法。",
+        "es": "Hacer más ejercicio es una forma eficaz de reducir el estrés."
+      },
+      {
+        "zh": "政府需要采取有效的办法来解决交通问题。",
+        "es": "El gobierno necesita tomar medidas eficaces para resolver los problemas de tráfico."
+      }
+    ]
+  },
+  {
+    "word": "少数",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "minoría",
+      "pocos",
+      "unos cuantos"
+    ],
+    "examples": [
+      {
+        "zh": "只有少数人知道。",
+        "es": "Solo unas pocas personas lo saben."
+      },
+      {
+        "zh": "中国有很多少数民族。",
+        "es": "China tiene muchas minorías étnicas."
+      },
+      {
+        "zh": "少数学生没有参加考试。",
+        "es": "Unos cuantos estudiantes no presentaron el examen."
+      },
+      {
+        "zh": "在这个问题上，少数人的意见也很重要。",
+        "es": "En este tema, la opinión de la minoría también es importante."
+      }
+    ]
+  },
+  {
+    "word": "云",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "nube",
+      "la nube (almacenamiento en internet)"
+    ],
+    "examples": [
+      {
+        "zh": "天上有很多云。",
+        "es": "Hay muchas nubes en el cielo."
+      },
+      {
+        "zh": "你看，那朵云像一只狗。",
+        "es": "Mira, esa nube parece un perro."
+      },
+      {
+        "zh": "今天云很多，可能会下雨。",
+        "es": "Hoy hay muchas nubes; puede que llueva."
+      },
+      {
+        "zh": "我把照片都放在云上了，用手机也能看。",
+        "es": "Subí todas las fotos a la nube; también puedo verlas en el celular."
+      }
+    ]
+  },
+  {
+    "word": "儿童",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "niño",
+      "niños",
+      "infantil"
+    ],
+    "examples": [
+      {
+        "zh": "儿童票多少钱？",
+        "es": "¿Cuánto cuesta el boleto para niños?"
+      },
+      {
+        "zh": "这是一本儿童书。",
+        "es": "Este es un libro infantil."
+      },
+      {
+        "zh": "公园里有很多儿童在玩。",
+        "es": "Hay muchos niños jugando en el parque."
+      },
+      {
+        "zh": "我们应该保护儿童的权利，让他们快乐地生活。",
+        "es": "Debemos proteger los derechos de los niños y dejar que vivan felices."
+      }
+    ]
+  },
+  {
+    "word": "允许",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "permitir",
+      "dejar",
+      "autorizar"
+    ],
+    "examples": [
+      {
+        "zh": "这里不允许拍照。",
+        "es": "Aquí no se permite tomar fotos."
+      },
+      {
+        "zh": "妈妈不允许我晚上出去。",
+        "es": "Mi mamá no me deja salir en la noche."
+      },
+      {
+        "zh": "如果时间允许，我想再去一次北京。",
+        "es": "Si el tiempo lo permite, quiero volver a ir a Beijing."
+      },
+      {
+        "zh": "学校规定，学生考试的时候不允许使用手机。",
+        "es": "Según las reglas de la escuela, los estudiantes no pueden usar el celular durante los exámenes."
+      }
+    ]
+  },
+  {
+    "word": "度",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grado (temperatura, ángulo)",
+      "nivel",
+      "pasar (tiempo)"
+    ],
+    "examples": [
+      {
+        "zh": "今天三十度。",
+        "es": "Hoy hace treinta grados."
+      },
+      {
+        "zh": "明天会冷到零度。",
+        "es": "Mañana la temperatura va a bajar hasta cero grados."
+      },
+      {
+        "zh": "他每年都在中国度过新年。",
+        "es": "Cada año pasa el Año Nuevo en China."
+      },
+      {
+        "zh": "这次比赛的难度很高，但是他还是成功了。",
+        "es": "La dificultad de esta competencia era muy alta, pero aun así lo logró."
+      }
+    ]
+  },
+  {
+    "word": "出版",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "publicar",
+      "editar"
+    ],
+    "examples": [
+      {
+        "zh": "他出版了一本书。",
+        "es": "Él publicó un libro."
+      },
+      {
+        "zh": "这本小说是去年出版的。",
+        "es": "Esta novela se publicó el año pasado."
+      },
+      {
+        "zh": "我希望以后能出版自己的作品。",
+        "es": "Espero poder publicar mis propias obras en el futuro."
+      },
+      {
+        "zh": "这本书出版以后，很快就受到了全国读者的欢迎。",
+        "es": "Después de publicarse, este libro pronto se hizo popular entre lectores de todo el país."
+      }
+    ]
+  },
+  {
+    "word": "周",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "semana",
+      "semanal"
+    ],
+    "examples": [
+      {
+        "zh": "我下周去北京。",
+        "es": "La próxima semana voy a Beijing."
+      },
+      {
+        "zh": "我们每周上三次课。",
+        "es": "Tenemos clase tres veces por semana."
+      },
+      {
+        "zh": "上周我太忙了，没时间给你打电话。",
+        "es": "La semana pasada estuve muy ocupado y no tuve tiempo de llamarte."
+      },
+      {
+        "zh": "这个项目已经进行了两周，还需要一周才能完成。",
+        "es": "Este proyecto ya lleva dos semanas y necesita una semana más para terminarse."
+      }
+    ]
+  }
+]

@@ -1,0 +1,531 @@
+[
+  {
+    "word": "英国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Reino Unido",
+      "Gran Bretaña",
+      "Inglaterra"
+    ],
+    "examples": [
+      {
+        "zh": "我想去英国。",
+        "es": "Quiero ir al Reino Unido."
+      },
+      {
+        "zh": "她是英国人。",
+        "es": "Ella es británica."
+      },
+      {
+        "zh": "英国的天气怎么样？",
+        "es": "¿Cómo es el clima en el Reino Unido?"
+      },
+      {
+        "zh": "我哥哥去年在英国学习历史。",
+        "es": "El año pasado mi hermano mayor estudió historia en el Reino Unido."
+      }
+    ]
+  },
+  {
+    "word": "妹妹",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hermana menor",
+      "muchacha"
+    ],
+    "examples": [
+      {
+        "zh": "这是我妹妹。",
+        "es": "Ella es mi hermana menor."
+      },
+      {
+        "zh": "我妹妹今年六岁。",
+        "es": "Mi hermana menor tiene seis años."
+      },
+      {
+        "zh": "妹妹每天早上跟妈妈一起去学校。",
+        "es": "Todas las mañanas mi hermanita va a la escuela con mamá."
+      },
+      {
+        "zh": "我妹妹在北京上大学，她非常喜欢那个城市。",
+        "es": "Mi hermana menor estudia en la universidad en Pekín y le encanta esa ciudad."
+      }
+    ]
+  },
+  {
+    "word": "方法",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "método",
+      "manera; forma",
+      "técnica",
+      "procedimiento"
+    ],
+    "examples": [
+      {
+        "zh": "这个方法很好。",
+        "es": "Este método es muy bueno."
+      },
+      {
+        "zh": "你有什么好方法吗？",
+        "es": "¿Tienes alguna buena idea para hacerlo?"
+      },
+      {
+        "zh": "我们需要找到新的方法。",
+        "es": "Necesitamos encontrar una nueva manera."
+      },
+      {
+        "zh": "老师告诉我们一个学习中文的好方法。",
+        "es": "El maestro nos dijo un buen método para estudiar chino."
+      }
+    ]
+  },
+  {
+    "word": "女生",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "chica; muchacha",
+      "alumna; estudiante mujer"
+    ],
+    "examples": [
+      {
+        "zh": "我们班有很多女生。",
+        "es": "En nuestra clase hay muchas chicas."
+      },
+      {
+        "zh": "那个女生是我的同学。",
+        "es": "Esa chica es mi compañera de clase."
+      },
+      {
+        "zh": "这个女生喜欢看电影和玩游戏。",
+        "es": "A esta chica le gusta ver películas y jugar videojuegos."
+      },
+      {
+        "zh": "我们学校的女生比男生多一些。",
+        "es": "En nuestra escuela hay un poco más de chicas que de chicos."
+      }
+    ]
+  },
+  {
+    "word": "改变",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cambiar",
+      "modificar",
+      "transformar"
+    ],
+    "examples": [
+      {
+        "zh": "我不想改变。",
+        "es": "No quiero cambiar."
+      },
+      {
+        "zh": "他改变了计划。",
+        "es": "Él cambió el plan."
+      },
+      {
+        "zh": "这本书改变了我的生活。",
+        "es": "Este libro cambió mi vida."
+      },
+      {
+        "zh": "十年过去了，这个城市改变了很多。",
+        "es": "Pasaron diez años y esta ciudad cambió mucho."
+      }
+    ]
+  },
+  {
+    "word": "进来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrar (hacia donde está quien habla)",
+      "pasar (adelante)"
+    ],
+    "examples": [
+      {
+        "zh": "请进来。",
+        "es": "Pasa, por favor."
+      },
+      {
+        "zh": "外面风很大，快进来吧。",
+        "es": "Afuera hace mucho viento, entra rápido."
+      },
+      {
+        "zh": "他打开门走了进来。",
+        "es": "Él abrió la puerta y entró."
+      },
+      {
+        "zh": "老师进来的时候，学生们都站了起来。",
+        "es": "Cuando entró el maestro, todos los alumnos se pusieron de pie."
+      }
+    ]
+  },
+  {
+    "word": "各",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cada",
+      "todos; diversos"
+    ],
+    "examples": [
+      {
+        "zh": "各位朋友，你们好！",
+        "es": "¡Hola a todos, amigos!"
+      },
+      {
+        "zh": "各国的文化不一样。",
+        "es": "La cultura de cada país es diferente."
+      },
+      {
+        "zh": "他去过世界各地。",
+        "es": "Él ha estado en todas partes del mundo."
+      },
+      {
+        "zh": "来自各个地区的学生都参加了这次活动。",
+        "es": "Estudiantes de todas las regiones participaron en esta actividad."
+      }
+    ]
+  },
+  {
+    "word": "歌",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "canción",
+      "cantar (en palabras compuestas)"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢这首歌。",
+        "es": "Me gusta esta canción."
+      },
+      {
+        "zh": "这首歌真好听。",
+        "es": "Esta canción suena muy bonita."
+      },
+      {
+        "zh": "你知道这首歌的名字吗？",
+        "es": "¿Sabes cómo se llama esta canción?"
+      },
+      {
+        "zh": "妈妈每天晚上回家都要听几首中国歌。",
+        "es": "Todas las noches, al llegar a casa, mamá escucha algunas canciones chinas."
+      }
+    ]
+  },
+  {
+    "word": "接受",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aceptar",
+      "recibir",
+      "admitir"
+    ],
+    "examples": [
+      {
+        "zh": "我不能接受。",
+        "es": "No puedo aceptarlo."
+      },
+      {
+        "zh": "他接受了我们的要求。",
+        "es": "Él aceptó nuestra petición."
+      },
+      {
+        "zh": "她很高兴地接受了朋友送的花。",
+        "es": "Ella aceptó con mucho gusto las flores que le regaló su amigo."
+      },
+      {
+        "zh": "如果你不接受这个工作，公司会找别人。",
+        "es": "Si no aceptas este trabajo, la empresa buscará a otra persona."
+      }
+    ]
+  },
+  {
+    "word": "科技",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ciencia y tecnología",
+      "tecnología"
+    ],
+    "examples": [
+      {
+        "zh": "科技发展很快。",
+        "es": "La tecnología avanza muy rápido."
+      },
+      {
+        "zh": "他喜欢看科技新闻。",
+        "es": "A él le gusta leer noticias de tecnología."
+      },
+      {
+        "zh": "科技改变了我们的生活。",
+        "es": "La tecnología cambió nuestra vida."
+      },
+      {
+        "zh": "现在中国的科技公司在世界上越来越重要。",
+        "es": "Hoy en día, las empresas tecnológicas chinas son cada vez más importantes en el mundo."
+      }
+    ]
+  },
+  {
+    "word": "九",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nueve"
+    ],
+    "examples": [
+      {
+        "zh": "我女儿九岁。",
+        "es": "Mi hija tiene nueve años."
+      },
+      {
+        "zh": "现在是早上九点。",
+        "es": "Son las nueve de la mañana."
+      },
+      {
+        "zh": "我们九月要去北京看朋友。",
+        "es": "En septiembre vamos a ir a Pekín a visitar a unos amigos."
+      },
+      {
+        "zh": "我们班有九个学生，其中五个是女生。",
+        "es": "En nuestra clase hay nueve estudiantes, y cinco de ellos son chicas."
+      }
+    ]
+  },
+  {
+    "word": "市",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ciudad",
+      "municipio",
+      "mercado"
+    ],
+    "examples": [
+      {
+        "zh": "我住在北京市。",
+        "es": "Vivo en la ciudad de Pekín."
+      },
+      {
+        "zh": "他家离市中心很远。",
+        "es": "Su casa está muy lejos del centro de la ciudad."
+      },
+      {
+        "zh": "上海市是中国最大的城市之一。",
+        "es": "Shanghái es una de las ciudades más grandes de China."
+      },
+      {
+        "zh": "市政府决定明年在这里建一家新医院。",
+        "es": "El gobierno municipal decidió construir un nuevo hospital aquí el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "哪些",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¿cuáles?",
+      "¿qué?",
+      "¿quiénes?"
+    ],
+    "examples": [
+      {
+        "zh": "你喜欢哪些电影？",
+        "es": "¿Qué películas te gustan?"
+      },
+      {
+        "zh": "哪些人参加了会议？",
+        "es": "¿Quiénes participaron en la reunión?"
+      },
+      {
+        "zh": "你去过中国的哪些城市？",
+        "es": "¿Qué ciudades de China conoces?"
+      },
+      {
+        "zh": "学习中文的时候，你觉得哪些地方最难？",
+        "es": "Cuando estudias chino, ¿qué partes te parecen más difíciles?"
+      }
+    ]
+  },
+  {
+    "word": "星期",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "semana",
+      "día de la semana"
+    ],
+    "examples": [
+      {
+        "zh": "今天星期几？",
+        "es": "¿Qué día de la semana es hoy?"
+      },
+      {
+        "zh": "我星期六不工作。",
+        "es": "Los sábados no trabajo."
+      },
+      {
+        "zh": "我们下个星期去上海。",
+        "es": "La próxima semana vamos a Shanghái."
+      },
+      {
+        "zh": "我每个星期都给妈妈打两次电话。",
+        "es": "Llamo a mi mamá dos veces por semana."
+      }
+    ]
+  },
+  {
+    "word": "政策",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "política (medida de gobierno)",
+      "directriz"
+    ],
+    "examples": [
+      {
+        "zh": "这个政策很好。",
+        "es": "Esta política es muy buena."
+      },
+      {
+        "zh": "政府提出了新的政策。",
+        "es": "El gobierno propuso una nueva política."
+      },
+      {
+        "zh": "这个政策对学生有什么影响？",
+        "es": "¿Qué efecto tiene esta política en los estudiantes?"
+      },
+      {
+        "zh": "为了保护环境，国家提出了一些新的政策。",
+        "es": "Para proteger el medio ambiente, el país propuso algunas políticas nuevas."
+      }
+    ]
+  },
+  {
+    "word": "一半",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mitad",
+      "la mitad de"
+    ],
+    "examples": [
+      {
+        "zh": "我吃了一半。",
+        "es": "Me comí la mitad."
+      },
+      {
+        "zh": "班里一半的学生是女生。",
+        "es": "La mitad de los estudiantes de la clase son chicas."
+      },
+      {
+        "zh": "这本书我已经看了一半。",
+        "es": "Ya leí la mitad de este libro."
+      },
+      {
+        "zh": "他把一半的钱给了妈妈，另一半自己用。",
+        "es": "Le dio la mitad del dinero a su mamá y usó la otra mitad para él."
+      }
+    ]
+  },
+  {
+    "word": "时期",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "período; época",
+      "etapa"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个重要时期。",
+        "es": "Este es un período importante."
+      },
+      {
+        "zh": "那个时期的生活很难。",
+        "es": "La vida en esa época era muy difícil."
+      },
+      {
+        "zh": "大学时期，我认识了很多朋友。",
+        "es": "En mi época universitaria conocí a muchos amigos."
+      },
+      {
+        "zh": "在战争时期，很多人离开了自己的家。",
+        "es": "Durante la guerra, mucha gente dejó su hogar."
+      }
+    ]
+  },
+  {
+    "word": "项目",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "proyecto",
+      "punto; rubro",
+      "prueba (deportiva)"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个新项目。",
+        "es": "Este es un proyecto nuevo."
+      },
+      {
+        "zh": "他在做一个研究项目。",
+        "es": "Él está haciendo un proyecto de investigación."
+      },
+      {
+        "zh": "这个项目需要很多时间和钱。",
+        "es": "Este proyecto necesita mucho tiempo y dinero."
+      },
+      {
+        "zh": "公司决定让我管理这个重要的项目。",
+        "es": "La empresa decidió que yo dirija este proyecto importante."
+      }
+    ]
+  },
+  {
+    "word": "票",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "boleto",
+      "voto",
+      "billete (de banco)"
+    ],
+    "examples": [
+      {
+        "zh": "我买了两张票。",
+        "es": "Compré dos boletos."
+      },
+      {
+        "zh": "电影票多少钱？",
+        "es": "¿Cuánto cuesta el boleto del cine?"
+      },
+      {
+        "zh": "你买到去上海的飞机票了吗？",
+        "es": "¿Ya conseguiste el boleto de avión a Shanghái?"
+      },
+      {
+        "zh": "他在机场才发现自己的票忘在家里了。",
+        "es": "Hasta que llegó al aeropuerto se dio cuenta de que había olvidado su boleto en casa."
+      }
+    ]
+  },
+  {
+    "word": "不断",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "constantemente",
+      "sin parar",
+      "continuo"
+    ],
+    "examples": [
+      {
+        "zh": "他不断地问问题。",
+        "es": "Él hace preguntas sin parar."
+      },
+      {
+        "zh": "这个问题不断出现。",
+        "es": "Este problema aparece una y otra vez."
+      },
+      {
+        "zh": "我们要不断学习新的知识。",
+        "es": "Debemos aprender constantemente cosas nuevas."
+      },
+      {
+        "zh": "这几年中国经济不断发展，人们的生活越来越好。",
+        "es": "En estos años la economía china ha crecido sin parar y la vida de la gente es cada vez mejor."
+      }
+    ]
+  }
+]

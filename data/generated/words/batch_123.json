@@ -1,0 +1,532 @@
+[
+  {
+    "word": "图画",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dibujo",
+      "imagen",
+      "ilustración"
+    ],
+    "examples": [
+      {
+        "zh": "这是一张图画。",
+        "es": "Este es un dibujo."
+      },
+      {
+        "zh": "这本书里有很多图画。",
+        "es": "Este libro tiene muchas ilustraciones."
+      },
+      {
+        "zh": "她把自己的图画送给了老师。",
+        "es": "Ella le regaló su dibujo a la maestra."
+      },
+      {
+        "zh": "小朋友喜欢用图画表达自己的想法。",
+        "es": "A los niños les gusta expresar sus ideas con dibujos."
+      }
+    ]
+  },
+  {
+    "word": "短裤",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "short",
+      "pantalón corto"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢穿短裤。",
+        "es": "Me gusta usar short."
+      },
+      {
+        "zh": "今天很热，他穿了短裤。",
+        "es": "Hoy hace mucho calor, así que se puso un short."
+      },
+      {
+        "zh": "夏天孩子们都穿短裤去上学。",
+        "es": "En verano, todos los niños van a la escuela en short."
+      },
+      {
+        "zh": "这条短裤太小了，我想换一条大一点的。",
+        "es": "Este short me queda muy chico; quiero cambiarlo por uno más grande."
+      }
+    ]
+  },
+  {
+    "word": "交警",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "policía de tránsito",
+      "agente de tránsito"
+    ],
+    "examples": [
+      {
+        "zh": "他爸爸是交警。",
+        "es": "Su papá es policía de tránsito."
+      },
+      {
+        "zh": "交警在路口工作。",
+        "es": "El agente de tránsito trabaja en el cruce."
+      },
+      {
+        "zh": "那位交警帮一个老人过了马路。",
+        "es": "Ese policía de tránsito ayudó a un anciano a cruzar la calle."
+      },
+      {
+        "zh": "下雨天，交警还在马路上站着工作。",
+        "es": "Aunque llueve, el policía de tránsito sigue trabajando de pie en la calle."
+      }
+    ]
+  },
+  {
+    "word": "京剧",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ópera de Pekín"
+    ],
+    "examples": [
+      {
+        "zh": "你看过京剧吗？",
+        "es": "¿Has visto alguna vez la ópera de Pekín?"
+      },
+      {
+        "zh": "我爷爷很喜欢京剧。",
+        "es": "A mi abuelo le gusta mucho la ópera de Pekín."
+      },
+      {
+        "zh": "京剧是中国的传统艺术。",
+        "es": "La ópera de Pekín es un arte tradicional de China."
+      },
+      {
+        "zh": "很多外国人来北京就是为了看京剧表演。",
+        "es": "Muchos extranjeros vienen a Pekín precisamente para ver una función de ópera de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "熟人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conocido",
+      "persona conocida"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的熟人。",
+        "es": "Él es un conocido mío."
+      },
+      {
+        "zh": "在这里我没有熟人。",
+        "es": "Aquí no tengo conocidos."
+      },
+      {
+        "zh": "我在机场碰到了一个熟人。",
+        "es": "Me encontré con un conocido en el aeropuerto."
+      },
+      {
+        "zh": "找工作的时候，有熟人介绍会容易一些。",
+        "es": "Cuando buscas trabajo, es más fácil si te recomienda un conocido."
+      }
+    ]
+  },
+  {
+    "word": "结实",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "resistente",
+      "sólido",
+      "fuerte",
+      "robusto (de físico)"
+    ],
+    "examples": [
+      {
+        "zh": "这张桌子很结实。",
+        "es": "Esta mesa es muy resistente."
+      },
+      {
+        "zh": "他的身体非常结实。",
+        "es": "Él tiene un cuerpo muy fuerte."
+      },
+      {
+        "zh": "这双鞋又便宜又结实。",
+        "es": "Estos zapatos son baratos y duraderos."
+      },
+      {
+        "zh": "这座桥建得很结实，用了几十年也没问题。",
+        "es": "Este puente está muy bien construido; lleva décadas en uso sin problemas."
+      }
+    ]
+  },
+  {
+    "word": "工夫",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "tiempo, rato",
+      "tiempo libre",
+      "esfuerzo",
+      "habilidad"
+    ],
+    "examples": [
+      {
+        "zh": "我今天没有工夫玩。",
+        "es": "Hoy no tengo tiempo para jugar."
+      },
+      {
+        "zh": "一会儿工夫，他就把饭做好了。",
+        "es": "En un ratito, él ya había preparado la comida."
+      },
+      {
+        "zh": "学好汉语要下很多工夫。",
+        "es": "Para aprender bien chino hay que esforzarse mucho."
+      },
+      {
+        "zh": "他花了半年的工夫，才写完这本书。",
+        "es": "Le tomó medio año terminar de escribir este libro."
+      }
+    ]
+  },
+  {
+    "word": "打听",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "preguntar por",
+      "informarse",
+      "averiguar"
+    ],
+    "examples": [
+      {
+        "zh": "我想跟你打听一件事。",
+        "es": "Quiero preguntarte por algo."
+      },
+      {
+        "zh": "我向朋友打听了他的电话。",
+        "es": "Le pregunté a un amigo por su número de teléfono."
+      },
+      {
+        "zh": "他去车站打听火车票的价格。",
+        "es": "Él fue a la estación a averiguar el precio de los boletos de tren."
+      },
+      {
+        "zh": "我到处打听，才找到了这家饭店。",
+        "es": "Pregunté por todos lados y por fin encontré este restaurante."
+      }
+    ]
+  },
+  {
+    "word": "沙子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "arena"
+    ],
+    "examples": [
+      {
+        "zh": "海边有很多沙子。",
+        "es": "En la playa hay mucha arena."
+      },
+      {
+        "zh": "我的鞋里进了沙子。",
+        "es": "Me entró arena en los zapatos."
+      },
+      {
+        "zh": "孩子们在公园里玩沙子。",
+        "es": "Los niños están jugando con arena en el parque."
+      },
+      {
+        "zh": "风太大了，沙子吹进了我的眼睛。",
+        "es": "El viento estaba muy fuerte y me entró arena en los ojos."
+      }
+    ]
+  },
+  {
+    "word": "被子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cobija",
+      "edredón",
+      "colcha"
+    ],
+    "examples": [
+      {
+        "zh": "这条被子是新的。",
+        "es": "Esta cobija es nueva."
+      },
+      {
+        "zh": "妈妈把家里的被子都洗了。",
+        "es": "Mamá lavó todas las cobijas de la casa."
+      },
+      {
+        "zh": "天冷了，我给孩子拿了一条被子。",
+        "es": "Empezó a hacer frío, así que le traje una cobija al niño."
+      },
+      {
+        "zh": "每天起床以后，他都会先整理被子。",
+        "es": "Todos los días, después de levantarse, lo primero que hace es arreglar la cobija."
+      }
+    ]
+  },
+  {
+    "word": "跳远",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salto de longitud",
+      "salto largo"
+    ],
+    "examples": [
+      {
+        "zh": "我弟弟喜欢跳远。",
+        "es": "A mi hermano menor le gusta el salto de longitud."
+      },
+      {
+        "zh": "她在跳远比赛中得了第一。",
+        "es": "Ella quedó en primer lugar en la competencia de salto de longitud."
+      },
+      {
+        "zh": "他是我们学校跳远最好的学生。",
+        "es": "Él es el mejor alumno de salto de longitud de nuestra escuela."
+      },
+      {
+        "zh": "为了参加跳远比赛，他每天下午都去训练。",
+        "es": "Para participar en la competencia de salto de longitud, entrena todas las tardes."
+      }
+    ]
+  },
+  {
+    "word": "果汁",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jugo de fruta",
+      "jugo"
+    ],
+    "examples": [
+      {
+        "zh": "我想喝果汁。",
+        "es": "Quiero tomar jugo."
+      },
+      {
+        "zh": "这杯果汁很甜。",
+        "es": "Este vaso de jugo está muy dulce."
+      },
+      {
+        "zh": "你要喝果汁还是牛奶？",
+        "es": "¿Quieres tomar jugo o leche?"
+      },
+      {
+        "zh": "早上我常常喝一杯果汁，吃一个面包。",
+        "es": "En las mañanas suelo tomar un vaso de jugo y comer un pan."
+      }
+    ]
+  },
+  {
+    "word": "积极性",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entusiasmo",
+      "motivación",
+      "iniciativa"
+    ],
+    "examples": [
+      {
+        "zh": "学生们的积极性很高。",
+        "es": "Los alumnos tienen mucho entusiasmo."
+      },
+      {
+        "zh": "他对工作没有积极性。",
+        "es": "Él no tiene motivación para trabajar."
+      },
+      {
+        "zh": "老师想办法提高大家学习的积极性。",
+        "es": "El maestro busca la manera de aumentar la motivación de todos para estudiar."
+      },
+      {
+        "zh": "公司的新规定影响了员工的积极性。",
+        "es": "Las nuevas reglas de la empresa afectaron el entusiasmo de los empleados."
+      }
+    ]
+  },
+  {
+    "word": "听力",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comprensión auditiva",
+      "audición",
+      "oído"
+    ],
+    "examples": [
+      {
+        "zh": "明天有听力考试。",
+        "es": "Mañana hay examen de comprensión auditiva."
+      },
+      {
+        "zh": "我的汉语听力不太好。",
+        "es": "Mi comprensión auditiva del chino no es muy buena."
+      },
+      {
+        "zh": "多听中文歌可以提高听力。",
+        "es": "Escuchar muchas canciones en chino ayuda a mejorar la comprensión auditiva."
+      },
+      {
+        "zh": "爷爷年纪大了，听力越来越差了。",
+        "es": "Mi abuelo ya está grande y cada vez oye peor."
+      }
+    ]
+  },
+  {
+    "word": "推开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "abrir empujando",
+      "empujar",
+      "apartar",
+      "rechazar"
+    ],
+    "examples": [
+      {
+        "zh": "他推开了门。",
+        "es": "Él abrió la puerta empujándola."
+      },
+      {
+        "zh": "她推开我，一个人走了。",
+        "es": "Ella me empujó y se fue sola."
+      },
+      {
+        "zh": "我推开房间的门，看见妈妈在睡觉。",
+        "es": "Abrí la puerta del cuarto y vi que mamá estaba dormida."
+      },
+      {
+        "zh": "他想帮她，可是她把他推开了。",
+        "es": "Él quiso ayudarla, pero ella lo apartó."
+      }
+    ]
+  },
+  {
+    "word": "试题",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pregunta de examen",
+      "examen",
+      "prueba"
+    ],
+    "examples": [
+      {
+        "zh": "这次的试题很难。",
+        "es": "Las preguntas del examen de esta vez estuvieron muy difíciles."
+      },
+      {
+        "zh": "这些试题我都做完了。",
+        "es": "Ya terminé de resolver todas estas preguntas de examen."
+      },
+      {
+        "zh": "老师正在准备考试的试题。",
+        "es": "El maestro está preparando las preguntas del examen."
+      },
+      {
+        "zh": "有的学生说，今年的试题比去年简单多了。",
+        "es": "Algunos alumnos dicen que el examen de este año fue mucho más fácil que el del año pasado."
+      }
+    ]
+  },
+  {
+    "word": "长处",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "punto fuerte",
+      "cualidad",
+      "virtud"
+    ],
+    "examples": [
+      {
+        "zh": "每个人都有长处。",
+        "es": "Todas las personas tienen sus puntos fuertes."
+      },
+      {
+        "zh": "他的长处是很认真。",
+        "es": "Su punto fuerte es que es muy responsable."
+      },
+      {
+        "zh": "我们要学习别人的长处。",
+        "es": "Debemos aprender de las cualidades de los demás."
+      },
+      {
+        "zh": "找工作的时候，要知道自己的长处是什么。",
+        "es": "Cuando buscas trabajo, tienes que saber cuáles son tus puntos fuertes."
+      }
+    ]
+  },
+  {
+    "word": "初一",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "primer día del mes lunar",
+      "primer año de secundaria"
+    ],
+    "examples": [
+      {
+        "zh": "今天是初一。",
+        "es": "Hoy es el primer día del mes lunar."
+      },
+      {
+        "zh": "我妹妹今年上初一。",
+        "es": "Mi hermana menor este año entra a primero de secundaria."
+      },
+      {
+        "zh": "大年初一，我们一家人去看爷爷奶奶。",
+        "es": "El primer día del Año Nuevo chino, toda la familia fue a visitar a los abuelos."
+      },
+      {
+        "zh": "他初一的时候还很小，现在已经是大学生了。",
+        "es": "Cuando estaba en primero de secundaria era muy pequeño; ahora ya es universitario."
+      }
+    ]
+  },
+  {
+    "word": "银牌",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "medalla de plata"
+    ],
+    "examples": [
+      {
+        "zh": "她得了一块银牌。",
+        "es": "Ella ganó una medalla de plata."
+      },
+      {
+        "zh": "他在比赛中拿到了银牌。",
+        "es": "Él obtuvo la medalla de plata en la competencia."
+      },
+      {
+        "zh": "这次比赛中国队拿了两块银牌。",
+        "es": "En esta competencia, el equipo de China ganó dos medallas de plata."
+      },
+      {
+        "zh": "虽然只得了银牌，但是他已经很满意了。",
+        "es": "Aunque solo ganó la medalla de plata, ya está muy satisfecho."
+      }
+    ]
+  },
+  {
+    "word": "外文",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lengua extranjera",
+      "idioma extranjero (escrito)"
+    ],
+    "examples": [
+      {
+        "zh": "他能看懂外文。",
+        "es": "Él puede leer en idiomas extranjeros."
+      },
+      {
+        "zh": "这是一本外文书。",
+        "es": "Este es un libro en idioma extranjero."
+      },
+      {
+        "zh": "图书馆里有很多外文资料。",
+        "es": "En la biblioteca hay muchos materiales en lenguas extranjeras."
+      },
+      {
+        "zh": "她大学学的是外文，现在在外国公司工作。",
+        "es": "Ella estudió lenguas extranjeras en la universidad y ahora trabaja en una empresa extranjera."
+      }
+    ]
+  }
+]

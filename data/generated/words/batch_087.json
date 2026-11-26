@@ -1,0 +1,542 @@
+[
+  {
+    "word": "展开",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desplegar",
+      "extender",
+      "llevar a cabo",
+      "iniciar"
+    ],
+    "examples": [
+      {
+        "zh": "请展开这张地图。",
+        "es": "Por favor, despliega este mapa."
+      },
+      {
+        "zh": "他把信展开看了看。",
+        "es": "Él desdobló la carta y le echó un vistazo."
+      },
+      {
+        "zh": "学校明天展开新的活动。",
+        "es": "Mañana la escuela empezará una nueva actividad."
+      },
+      {
+        "zh": "警察已经对这个事情展开调查。",
+        "es": "La policía ya inició una investigación sobre este asunto."
+      }
+    ]
+  },
+  {
+    "word": "正好",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "justo",
+      "justo a tiempo",
+      "precisamente",
+      "por casualidad"
+    ],
+    "examples": [
+      {
+        "zh": "你来得正好！",
+        "es": "¡Llegaste justo a tiempo!"
+      },
+      {
+        "zh": "这件衣服我穿正好。",
+        "es": "Esta ropa me queda perfecta."
+      },
+      {
+        "zh": "我正好也要去北京。",
+        "es": "Justo yo también voy a Beijing."
+      },
+      {
+        "zh": "我去他家的时候，他正好不在家。",
+        "es": "Cuando fui a su casa, justo no estaba."
+      }
+    ]
+  },
+  {
+    "word": "支付",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pagar",
+      "efectuar un pago"
+    ],
+    "examples": [
+      {
+        "zh": "我用手机支付。",
+        "es": "Pago con el celular."
+      },
+      {
+        "zh": "这些钱由公司支付。",
+        "es": "Este dinero lo paga la empresa."
+      },
+      {
+        "zh": "在中国，很多人用手机支付。",
+        "es": "En China, mucha gente paga con el celular."
+      },
+      {
+        "zh": "如果你不能按时支付，银行会给你打电话。",
+        "es": "Si no puedes pagar a tiempo, el banco te va a llamar."
+      }
+    ]
+  },
+  {
+    "word": "晚安",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "buenas noches"
+    ],
+    "examples": [
+      {
+        "zh": "晚安，妈妈！",
+        "es": "¡Buenas noches, mamá!"
+      },
+      {
+        "zh": "我要睡觉了，晚安。",
+        "es": "Ya me voy a dormir, buenas noches."
+      },
+      {
+        "zh": "睡觉前，孩子跟爸爸说晚安。",
+        "es": "Antes de dormir, el niño le da las buenas noches a su papá."
+      },
+      {
+        "zh": "他每天晚上都给女朋友打电话说晚安。",
+        "es": "Todas las noches llama a su novia para darle las buenas noches."
+      }
+    ]
+  },
+  {
+    "word": "比例",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "proporción",
+      "escala"
+    ],
+    "examples": [
+      {
+        "zh": "这张地图的比例是多少？",
+        "es": "¿Cuál es la escala de este mapa?"
+      },
+      {
+        "zh": "男生和女生的比例是一比一。",
+        "es": "La proporción entre chicos y chicas es de uno a uno."
+      },
+      {
+        "zh": "这个学校的外国学生比例很高。",
+        "es": "En esta escuela la proporción de estudiantes extranjeros es alta."
+      },
+      {
+        "zh": "在这个城市，老人在人口中的比例越来越高。",
+        "es": "En esta ciudad, la proporción de personas mayores en la población es cada vez mayor."
+      }
+    ]
+  },
+  {
+    "word": "姓名",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nombre completo",
+      "nombre y apellido"
+    ],
+    "examples": [
+      {
+        "zh": "请写你的姓名。",
+        "es": "Por favor, escribe tu nombre completo."
+      },
+      {
+        "zh": "请问，您的姓名是什么？",
+        "es": "Disculpe, ¿cuál es su nombre completo?"
+      },
+      {
+        "zh": "老师记住了每个学生的姓名。",
+        "es": "El maestro se aprendió el nombre de cada estudiante."
+      },
+      {
+        "zh": "考试前，请在本子上写好你的姓名和电话。",
+        "es": "Antes del examen, escribe tu nombre completo y tu teléfono en el cuaderno."
+      }
+    ]
+  },
+  {
+    "word": "发动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "arrancar (un motor)",
+      "lanzar",
+      "desatar",
+      "movilizar"
+    ],
+    "examples": [
+      {
+        "zh": "他发动了汽车。",
+        "es": "Él arrancó el auto."
+      },
+      {
+        "zh": "车发动不了了。",
+        "es": "El auto ya no arranca."
+      },
+      {
+        "zh": "他们发动了一场战争。",
+        "es": "Ellos desataron una guerra."
+      },
+      {
+        "zh": "学校发动全体学生参加这次活动。",
+        "es": "La escuela movilizó a todos los estudiantes para participar en esta actividad."
+      }
+    ]
+  },
+  {
+    "word": "眼",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ojo",
+      "mirada",
+      "vistazo"
+    ],
+    "examples": [
+      {
+        "zh": "他看了我一眼。",
+        "es": "Me echó una mirada."
+      },
+      {
+        "zh": "我的右眼不太舒服。",
+        "es": "Tengo una molestia en el ojo derecho."
+      },
+      {
+        "zh": "他只看了一眼就知道是谁。",
+        "es": "Le bastó una mirada para saber quién era."
+      },
+      {
+        "zh": "我在人群中一眼就看到了妈妈。",
+        "es": "Entre la multitud, vi a mi mamá de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "观察",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "observar",
+      "examinar",
+      "vigilar"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢观察动物。",
+        "es": "Me gusta observar a los animales."
+      },
+      {
+        "zh": "医生正在观察病人的情况。",
+        "es": "El médico está observando el estado del paciente."
+      },
+      {
+        "zh": "你要认真观察天气的变化。",
+        "es": "Tienes que observar con atención los cambios del clima."
+      },
+      {
+        "zh": "科学家观察这些鸟很多年了，有了新发现。",
+        "es": "Los científicos llevan muchos años observando estas aves y han hecho nuevos descubrimientos."
+      }
+    ]
+  },
+  {
+    "word": "练",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "practicar",
+      "entrenar",
+      "ejercitar"
+    ],
+    "examples": [
+      {
+        "zh": "我每天练中文。",
+        "es": "Practico chino todos los días."
+      },
+      {
+        "zh": "他在练字。",
+        "es": "Él está practicando caligrafía."
+      },
+      {
+        "zh": "你要多练，才能说得好。",
+        "es": "Tienes que practicar más para poder hablar bien."
+      },
+      {
+        "zh": "为了参加比赛，她每天早上都去练球。",
+        "es": "Para participar en la competencia, ella va a entrenar todas las mañanas."
+      }
+    ]
+  },
+  {
+    "word": "规范",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "norma",
+      "estándar",
+      "regular",
+      "correcto (según la norma)"
+    ],
+    "examples": [
+      {
+        "zh": "这个字写得不规范。",
+        "es": "Este carácter no está bien escrito según la norma."
+      },
+      {
+        "zh": "公司有新的工作规范。",
+        "es": "La empresa tiene nuevas normas de trabajo."
+      },
+      {
+        "zh": "政府要规范网上的交易。",
+        "es": "El gobierno quiere regular las transacciones en línea."
+      },
+      {
+        "zh": "学汉字的时候，一定要把每个字写得规范。",
+        "es": "Cuando aprendes caracteres chinos, debes escribir cada uno de forma correcta."
+      }
+    ]
+  },
+  {
+    "word": "太太",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "esposa",
+      "señora"
+    ],
+    "examples": [
+      {
+        "zh": "这是我太太。",
+        "es": "Ella es mi esposa."
+      },
+      {
+        "zh": "王太太在家吗？",
+        "es": "¿Está la señora Wang en casa?"
+      },
+      {
+        "zh": "他太太是一名医生。",
+        "es": "Su esposa es médica."
+      },
+      {
+        "zh": "张先生和他太太每个周末都去公园走路。",
+        "es": "El señor Zhang y su esposa van a caminar al parque todos los fines de semana."
+      }
+    ]
+  },
+  {
+    "word": "好好",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bien",
+      "como se debe",
+      "a fondo",
+      "con cuidado"
+    ],
+    "examples": [
+      {
+        "zh": "你好好休息吧。",
+        "es": "Descansa bien."
+      },
+      {
+        "zh": "我要好好学习中文。",
+        "es": "Voy a estudiar chino como se debe."
+      },
+      {
+        "zh": "这件事你要好好想想。",
+        "es": "Tienes que pensar bien este asunto."
+      },
+      {
+        "zh": "他说要好好照顾父母，可是工作太忙了。",
+        "es": "Dice que quiere cuidar bien a sus padres, pero tiene demasiado trabajo."
+      }
+    ]
+  },
+  {
+    "word": "合",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "cerrar",
+      "juntar",
+      "unir",
+      "ajustarse a"
+    ],
+    "examples": [
+      {
+        "zh": "请把书合上。",
+        "es": "Por favor, cierra el libro."
+      },
+      {
+        "zh": "我们两个人合买了一台电脑。",
+        "es": "Compramos una computadora entre los dos."
+      },
+      {
+        "zh": "她太累了，一合上眼就睡着了。",
+        "es": "Estaba tan cansada que se durmió apenas cerró los ojos."
+      },
+      {
+        "zh": "两家公司决定合在一起，成立一个新集团。",
+        "es": "Las dos empresas decidieron unirse y formar un nuevo grupo."
+      }
+    ]
+  },
+  {
+    "word": "笑话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "chiste",
+      "broma",
+      "burlarse de",
+      "ridículo"
+    ],
+    "examples": [
+      {
+        "zh": "他很会讲笑话。",
+        "es": "Él es muy bueno contando chistes."
+      },
+      {
+        "zh": "这个笑话一点也不好笑。",
+        "es": "Este chiste no tiene nada de gracia."
+      },
+      {
+        "zh": "别笑话他，他才开始学。",
+        "es": "No te burles de él, apenas está empezando a aprender."
+      },
+      {
+        "zh": "我怕说错话，让别人看笑话。",
+        "es": "Me da miedo decir algo mal y quedar en ridículo frente a los demás."
+      }
+    ]
+  },
+  {
+    "word": "姓",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "apellido",
+      "apellidarse"
+    ],
+    "examples": [
+      {
+        "zh": "您贵姓？",
+        "es": "¿Cuál es su apellido?"
+      },
+      {
+        "zh": "我姓王。",
+        "es": "Me apellido Wang."
+      },
+      {
+        "zh": "中国人的姓一般在名字前面。",
+        "es": "En China, el apellido normalmente va antes del nombre."
+      },
+      {
+        "zh": "在中国，姓王和姓李的人非常多。",
+        "es": "En China hay muchísimas personas que se apellidan Wang o Li."
+      }
+    ]
+  },
+  {
+    "word": "批准",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aprobar",
+      "autorizar",
+      "ratificar"
+    ],
+    "examples": [
+      {
+        "zh": "老板批准了我的请假。",
+        "es": "Mi jefe aprobó mi permiso."
+      },
+      {
+        "zh": "这个计划还没有被批准。",
+        "es": "Este plan todavía no ha sido aprobado."
+      },
+      {
+        "zh": "没有老师批准，学生不能离开学校。",
+        "es": "Sin la autorización del maestro, los estudiantes no pueden salir de la escuela."
+      },
+      {
+        "zh": "政府已经批准了这个城市的新铁路项目。",
+        "es": "El gobierno ya aprobó el nuevo proyecto ferroviario de esta ciudad."
+      }
+    ]
+  },
+  {
+    "word": "大门",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "puerta principal",
+      "entrada",
+      "portón"
+    ],
+    "examples": [
+      {
+        "zh": "请关上大门。",
+        "es": "Por favor, cierra la puerta principal."
+      },
+      {
+        "zh": "我在学校大门口等你。",
+        "es": "Te espero en la entrada principal de la escuela."
+      },
+      {
+        "zh": "公园的大门晚上十点关。",
+        "es": "La puerta del parque cierra a las diez de la noche."
+      },
+      {
+        "zh": "这个国家终于向世界打开了大门。",
+        "es": "Este país por fin le abrió sus puertas al mundo."
+      }
+    ]
+  },
+  {
+    "word": "强大",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "poderoso",
+      "fuerte",
+      "potente"
+    ],
+    "examples": [
+      {
+        "zh": "他的力量很强大。",
+        "es": "Tiene una fuerza enorme."
+      },
+      {
+        "zh": "这个国家越来越强大。",
+        "es": "Este país es cada vez más poderoso."
+      },
+      {
+        "zh": "这台电脑的功能非常强大。",
+        "es": "Las funciones de esta computadora son muy potentes."
+      },
+      {
+        "zh": "只有经济发展了，一个国家才能真正强大。",
+        "es": "Solo cuando su economía se desarrolla, un país puede ser realmente poderoso."
+      }
+    ]
+  },
+  {
+    "word": "等到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "esperar hasta",
+      "para cuando",
+      "cuando"
+    ],
+    "examples": [
+      {
+        "zh": "等到明天再说吧。",
+        "es": "Esperemos hasta mañana para hablarlo."
+      },
+      {
+        "zh": "我等到十点，他也没来。",
+        "es": "Esperé hasta las diez, pero no llegó."
+      },
+      {
+        "zh": "等到你长大了，就会明白。",
+        "es": "Cuando seas grande, lo vas a entender."
+      },
+      {
+        "zh": "等到我们到了车站，火车已经开走了。",
+        "es": "Para cuando llegamos a la estación, el tren ya se había ido."
+      }
+    ]
+  }
+]

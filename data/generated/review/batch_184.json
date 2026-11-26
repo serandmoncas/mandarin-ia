@@ -1,0 +1,172 @@
+[
+  {
+    "id": "word:互相",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: la traducción añade 'mejor' en 'conocerse mejor'; el original dice 互相了解 ('conocerse mutuamente'), y además se repite 'mejor' dos veces."
+    ],
+    "content_hash": "d6e17776f886216d2e1b18e945f45876989ce0c9"
+  },
+  {
+    "id": "word:网球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "262c7fa788bd0ff2bd406fea9fae97a349896186"
+  },
+  {
+    "id": "word:斤",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7bb014d40d2fedb569a59cc69344f02a05d4e56f"
+  },
+  {
+    "id": "word:夜里",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 里 aparece como 'lǐ', pero en 夜里 es tono neutro ('yè li'), como indica la propia entrada (ye4 li5).",
+      "Ejemplo 4: 妈妈 debe ser 'mā ma', no 'mā mā'."
+    ],
+    "content_hash": "0ee3b7a08a7065f9826aed6c98cc310f4b21a019"
+  },
+  {
+    "id": "word:人民币",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 东西 ('cosas') es 'dōng xi' con tono neutro; 'dōng xī' significa 'este y oeste'."
+    ],
+    "content_hash": "852ec8cd18796766e39ca82c4f34686466b8d95d"
+  },
+  {
+    "id": "word:难看",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e2363c8d5dc3b00ce54ab7fc4f701afa8e9fef4"
+  },
+  {
+    "id": "word:院子",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 玩儿 debe transcribirse 'wánr', no 'wán ér'.",
+      "Ejemplo 4: pinyin con tonos neutros incorrectos: 'yé ye', 'xǐ huan' y 'wǎn shang', no 'yé yé', 'xǐ huān' ni 'wǎn shàng'."
+    ],
+    "content_hash": "8d2880123b029a6a3dfd6c93236342f2029ba353"
+  },
+  {
+    "id": "word:菜单",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ecfbaf023a42217e46aabfe33facf2de6ce72d69"
+  },
+  {
+    "id": "word:成果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "38f5e7b23008e0eced771f2a199027b40e693857"
+  },
+  {
+    "id": "word:作文",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2ffde5fac4fd55378294d6290bd0f1e505f1a720"
+  },
+  {
+    "id": "word:草地",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b0ee74d51c5b9778d9250fc72dd007c60748d00"
+  },
+  {
+    "id": "word:东部",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6d06e135beba2a1992bb2afb83996df02f9d14e"
+  },
+  {
+    "id": "word:晴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e911d6eaf6b42e92eecc7b180c8a7ca81ac04cf3"
+  },
+  {
+    "id": "word:开机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "92482ecc7048818114f62264e86d971849e7c4f5"
+  },
+  {
+    "id": "word:合理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2888d5ebd9a3bc84820c2a015739a9c0b0f91665"
+  },
+  {
+    "id": "word:挺好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b2c0454a996a29515543a9cafda1f838afd84d8d"
+  },
+  {
+    "id": "word:点头",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: 爸爸 debe ser 'bà ba', no 'bà bà'."
+    ],
+    "content_hash": "9d70ca4dfd6d6de707ab63614d5a91003dd92d79"
+  },
+  {
+    "id": "word:生词",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81e3d78e67af943582459bb37afe2d7eb511bcd7"
+  },
+  {
+    "id": "word:室",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a70a994e34f9fce6648d45448496e3b69271f61e"
+  },
+  {
+    "id": "word:出院",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 妈妈 debe ser 'mā ma', no 'mā mā'.",
+      "Ejemplo 4: 爷爷 debe ser 'yé ye', no 'yé yé'."
+    ],
+    "content_hash": "f8316802d3fb7ccf132399922663aa6981b3d803"
+  },
+  {
+    "id": "word:要是",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 是 aparece como 'shì', pero en 要是 es tono neutro ('yào shi'), como indica la propia entrada (yao4 shi5)."
+    ],
+    "content_hash": "3c252779ce6921238f01f6ad10b3310d7b73d111"
+  },
+  {
+    "id": "word:办理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2369d1ec96c051bd54df64aa09a39c77e788991"
+  },
+  {
+    "id": "word:有点儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35a352c8725d2b89e33b6d76fca1106ddf53f9a6"
+  },
+  {
+    "id": "word:布",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: 妈妈 debe ser 'mā ma', no 'mā mā'.",
+      "Ejemplo 3: 衣服 debe ser 'yī fu', con tono neutro, no 'yī fú'."
+    ],
+    "content_hash": "7b88f3674f0fae7874fb4ec5a0cb3550f7af7ee9"
+  },
+  {
+    "id": "word:字典",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0cdc10005673f7e4d8237486c5b41b0b473100c6"
+  }
+]

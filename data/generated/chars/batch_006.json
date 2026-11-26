@@ -1,0 +1,406 @@
+[
+  {
+    "char": "况",
+    "components": [
+      {
+        "char": "冫",
+        "meaning_es": "hielo"
+      },
+      {
+        "char": "兄",
+        "meaning_es": "hermano mayor"
+      }
+    ],
+    "mnemonic_es": "Imagina a tu hermano mayor parado sobre hielo: antes de dar un paso, evalúa la situación."
+  },
+  {
+    "char": "太",
+    "components": [
+      {
+        "char": "大",
+        "meaning_es": "grande"
+      },
+      {
+        "char": "丶",
+        "meaning_es": "punto"
+      }
+    ],
+    "mnemonic_es": "A algo grande le agregas un puntito más y ya es demasiado grande."
+  },
+  {
+    "char": "东",
+    "components": [
+      {
+        "char": "东",
+        "meaning_es": "este (punto cardinal)"
+      }
+    ],
+    "mnemonic_es": "Imagina el trazo largo de arriba como el horizonte por donde sale el sol cada mañana: el este."
+  },
+  {
+    "char": "西",
+    "components": [
+      {
+        "char": "西",
+        "meaning_es": "oeste (punto cardinal)"
+      }
+    ],
+    "mnemonic_es": "Piensa en una ventana con rejas mirando hacia donde se esconde el sol al atardecer: el oeste."
+  },
+  {
+    "char": "组",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo de seda"
+      },
+      {
+        "char": "且",
+        "meaning_es": "además"
+      }
+    ],
+    "mnemonic_es": "Hilos y además más hilos, amarrados juntos, forman un grupo bien organizado."
+  },
+  {
+    "char": "织",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "hilo de seda"
+      },
+      {
+        "char": "只",
+        "meaning_es": "solo, únicamente"
+      }
+    ],
+    "mnemonic_es": "Con un solo hilo no haces nada, pero si lo cruzas una y otra vez, terminas tejiendo una tela."
+  },
+  {
+    "char": "民",
+    "components": [
+      {
+        "char": "民",
+        "meaning_es": "pueblo, gente"
+      }
+    ],
+    "mnemonic_es": "Imagina el carácter como una persona agachada trabajando el campo: así se ve la gente común del pueblo."
+  },
+  {
+    "char": "朋",
+    "components": [
+      {
+        "char": "月",
+        "meaning_es": "luna"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna"
+      }
+    ],
+    "mnemonic_es": "Dos lunas lado a lado, iguales y acompañándose en la noche, como dos buenos amigos."
+  },
+  {
+    "char": "友",
+    "components": [
+      {
+        "char": "𠂇",
+        "meaning_es": "mano izquierda"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano derecha"
+      }
+    ],
+    "mnemonic_es": "Dos manos que se juntan en un apretón: así se saludan los amigos."
+  },
+  {
+    "char": "网",
+    "components": [
+      {
+        "char": "冂",
+        "meaning_es": "marco"
+      },
+      {
+        "char": "乂",
+        "meaning_es": "cruce"
+      },
+      {
+        "char": "乂",
+        "meaning_es": "cruce"
+      }
+    ],
+    "mnemonic_es": "Un marco lleno de cruces parece una red de pescar; hoy también es la red de internet."
+  },
+  {
+    "char": "站",
+    "components": [
+      {
+        "char": "立",
+        "meaning_es": "estar de pie"
+      },
+      {
+        "char": "占",
+        "meaning_es": "ocupar"
+      }
+    ],
+    "mnemonic_es": "Ocupas tu lugar de pie en el andén esperando el bus: estás parado en la estación."
+  },
+  {
+    "char": "校",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "交",
+        "meaning_es": "intercambiar, cruzar"
+      }
+    ],
+    "mnemonic_es": "Bajo un árbol, maestros y alumnos intercambian ideas: así es la escuela."
+  },
+  {
+    "char": "主",
+    "components": [
+      {
+        "char": "丶",
+        "meaning_es": "punto"
+      },
+      {
+        "char": "王",
+        "meaning_es": "rey"
+      }
+    ],
+    "mnemonic_es": "Un rey con un punto encima, como una corona brillante: él es el dueño y lo principal."
+  },
+  {
+    "char": "香",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, planta de grano"
+      },
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      }
+    ],
+    "mnemonic_es": "El cereal calentándose bajo el sol suelta un aroma delicioso: huele fragante."
+  },
+  {
+    "char": "港",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "巷",
+        "meaning_es": "callejón"
+      }
+    ],
+    "mnemonic_es": "Callejones que terminan en el agua, donde llegan los barcos: eso es un puerto, como Hong Kong."
+  },
+  {
+    "char": "孩",
+    "components": [
+      {
+        "char": "子",
+        "meaning_es": "niño"
+      },
+      {
+        "char": "亥",
+        "meaning_es": "cerdo (signo zodiacal)"
+      }
+    ],
+    "mnemonic_es": "Un niño jugando con un cerdito en el barro: ¡típico de un chiquillo!"
+  },
+  {
+    "char": "子",
+    "components": [
+      {
+        "char": "子",
+        "meaning_es": "niño, hijo"
+      }
+    ],
+    "mnemonic_es": "Mira el carácter como un bebé envuelto en su manta con los bracitos abiertos."
+  },
+  {
+    "char": "写",
+    "components": [
+      {
+        "char": "冖",
+        "meaning_es": "cubierta, techo"
+      },
+      {
+        "char": "与",
+        "meaning_es": "dar, y"
+      }
+    ],
+    "mnemonic_es": "Bajo techo, te sientas a dar forma a tus ideas en el papel: estás escribiendo."
+  },
+  {
+    "char": "种",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, planta de grano"
+      },
+      {
+        "char": "中",
+        "meaning_es": "centro, medio"
+      }
+    ],
+    "mnemonic_es": "Pones la semilla de cereal justo en el centro del surco para sembrarla; cada semilla da un tipo de planta."
+  },
+  {
+    "char": "元",
+    "components": [
+      {
+        "char": "二",
+        "meaning_es": "dos"
+      },
+      {
+        "char": "儿",
+        "meaning_es": "piernas, niño"
+      }
+    ],
+    "mnemonic_es": "Una persona con dos rayas sobre la cabeza camina al mercado a pagar con yuanes, la moneda china."
+  },
+  {
+    "char": "通",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "甬",
+        "meaning_es": "pasillo, camino"
+      }
+    ],
+    "mnemonic_es": "Caminas por un pasillo despejado y pasas de un lado a otro sin obstáculos: todo comunica."
+  },
+  {
+    "char": "打",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "丁",
+        "meaning_es": "clavo"
+      }
+    ],
+    "mnemonic_es": "Con la mano golpeas un clavo con fuerza: ¡pum, pum!"
+  },
+  {
+    "char": "必",
+    "components": [
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      },
+      {
+        "char": "丿",
+        "meaning_es": "trazo inclinado"
+      }
+    ],
+    "mnemonic_es": "Imagina una flecha que atraviesa el corazón: hay cosas que sientes que debes hacer sí o sí."
+  },
+  {
+    "char": "须",
+    "components": [
+      {
+        "char": "彡",
+        "meaning_es": "pelo, barba"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "Una cabeza con mucha barba: para verse presentable, tienes que afeitarte, ¡es obligatorio!"
+  },
+  {
+    "char": "非",
+    "components": [
+      {
+        "char": "非",
+        "meaning_es": "no, incorrecto"
+      }
+    ],
+    "mnemonic_es": "Dos filas de rayas que se dan la espalda, como dos personas que no están de acuerdo: ¡no!"
+  },
+  {
+    "char": "常",
+    "components": [
+      {
+        "char": "尚",
+        "meaning_es": "todavía, apreciar"
+      },
+      {
+        "char": "巾",
+        "meaning_es": "tela, pañuelo"
+      }
+    ],
+    "mnemonic_es": "Esa tela que tanto aprecias la usas todos los días: la llevas siempre, con frecuencia."
+  },
+  {
+    "char": "分",
+    "components": [
+      {
+        "char": "八",
+        "meaning_es": "ocho, separar"
+      },
+      {
+        "char": "刀",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Con un cuchillo separas algo en partes: divides, igual que la hora se divide en minutos."
+  },
+  {
+    "char": "同",
+    "components": [
+      {
+        "char": "冂",
+        "meaning_es": "marco"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Dentro de un mismo marco, todas las bocas dicen una sola cosa: todos iguales, todos juntos."
+  },
+  {
+    "char": "见",
+    "components": [
+      {
+        "char": "见",
+        "meaning_es": "ver"
+      }
+    ],
+    "mnemonic_es": "Imagina el carácter como un gran ojo sobre unas piernas que caminan mirando todo: ver."
+  },
+  {
+    "char": "叫",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "丩",
+        "meaning_es": "enredar"
+      }
+    ],
+    "mnemonic_es": "Abres la boca y gritas un nombre enredado para llamar a alguien: ¿cómo te llamas?"
+  }
+]

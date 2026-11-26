@@ -1,0 +1,155 @@
+[
+  {
+    "id": "char:选",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c6976f444507c5181b9f2f0fbf7d238d42d5837"
+  },
+  {
+    "id": "char:择",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9fd6ce5f64aad846b5879e7eed8412d721b106c6"
+  },
+  {
+    "id": "char:山",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb702639e40bd2c1a0f1f26b9eed38bcb192960c"
+  },
+  {
+    "id": "char:管",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c2fc29aaf6093a222f7e181e39587bbb6b9553a2"
+  },
+  {
+    "id": "char:理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e703fc4c06748fc3e76e1c830b76ab28b05f09a"
+  },
+  {
+    "id": "char:入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cafb0850f3c8521da5c5acc04d7edf970f3c1033"
+  },
+  {
+    "id": "char:页",
+    "ok": false,
+    "issues": [
+      "La descomposición 一 + 贝 es incompleta: 页 tiene además un trazo 丿 (arriba es 丆, no solo 一). 页 tiene 6 trazos y 一 + 贝 suman 5.",
+      "No se indica que 页 significaba originalmente «cabeza», lo cual es incoherente con la ficha de 领, donde 页 = cabeza."
+    ],
+    "content_hash": "03e665e17a1923fa0e02ced3265864052577d8bc"
+  },
+  {
+    "id": "char:领",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70ebba22b0e1a707a0026b0872004ffd2fba806c"
+  },
+  {
+    "id": "char:导",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9af0ab7724705bf1e245efce7c8d03abc53ea18"
+  },
+  {
+    "id": "char:半",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd22e98fe8a8b17b0178d24cac861803e579f2d3"
+  },
+  {
+    "id": "char:够",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1159fd6e3f7f0558d74990b9957e4207df527be5"
+  },
+  {
+    "id": "char:六",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a9dbf239edd822d90591bc5dcb537a9cdf4a4f4"
+  },
+  {
+    "id": "char:口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1b0cac3ddb1be6060d692de78e2223dfd3caed9"
+  },
+  {
+    "id": "char:切",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ea140db64c0247c7dbee7c1ecedcf859b19c254f"
+  },
+  {
+    "id": "char:睡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "74f01862dc98441c7850b31fbdf6bcec523d5993"
+  },
+  {
+    "id": "char:另",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ceb7afa23861392e6b87c170933f6c7076bd0b67"
+  },
+  {
+    "id": "char:块",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dbb7686d3ba28c85215dfbf39bfdfc7b5e03bd37"
+  },
+  {
+    "id": "char:法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8d8820e123b27f0526bd2e278ccdc25f1d41c7a7"
+  },
+  {
+    "id": "char:差",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34cf544c283010ddcf390f508fb9dbce38457286"
+  },
+  {
+    "id": "char:风",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cfd2a1a99d86818bc1a0fc237ffb6d22b9bf740d"
+  },
+  {
+    "id": "char:海",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef19c68135acb2a0dfc2c02cda4cd686b76ae465"
+  },
+  {
+    "id": "char:便",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45321c56c0641fac33e2ca01d8d77c4adcf68a5b"
+  },
+  {
+    "id": "char:党",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25996b006afdfd43e3b9fbfb5202db1644dc32a6"
+  },
+  {
+    "id": "char:哥",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ec22372bb274f760b723687486edd78cc3c0411"
+  },
+  {
+    "id": "char:坏",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1affc2949525f9726c46ede70f265b4ca24e3359"
+  }
+]

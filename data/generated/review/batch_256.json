@@ -1,0 +1,157 @@
+[
+  {
+    "id": "word:性别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d3d749d6dceb948ebd8e2fffe2315231cb274761"
+  },
+  {
+    "id": "word:步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e28a27cc01f98dde959d0390eca84fa6e446727d"
+  },
+  {
+    "id": "word:教练",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a5d722b2f85b53a06db1bf09a25c9afc47fc846"
+  },
+  {
+    "id": "word:争",
+    "ok": true,
+    "issues": [],
+    "content_hash": "16e12c2042de389f76b7144179a429d075916590"
+  },
+  {
+    "id": "word:专题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f7878db05a6305efa54c83385bb0d6fefec1e38"
+  },
+  {
+    "id": "word:环",
+    "ok": false,
+    "issues": [
+      "En «她手上有一个金环», un 金环 en la mano se entiende más como brazalete o aro; un anillo de dedo se dice 戒指. Traducirlo como «anillo de oro» puede confundir al estudiante."
+    ],
+    "content_hash": "7ce3a43a338c442cbe15fee387aaa58db6cc7476"
+  },
+  {
+    "id": "word:尽量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bdb4b1c1f62ec1394fe7319eaf7f7307abd0b9fe"
+  },
+  {
+    "id": "word:据说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b28e18e4463c907ee499597304d1ef2f26312ab"
+  },
+  {
+    "id": "word:配",
+    "ok": true,
+    "issues": [],
+    "content_hash": "010e236e21614f85785e70771ce88a98dc9abd8b"
+  },
+  {
+    "id": "word:证",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7485223bfc05df7164f371fe0c59c2fdd83f9f8a"
+  },
+  {
+    "id": "word:断",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07cc599eec635a1cdeb8936febd29292444b5d5e"
+  },
+  {
+    "id": "word:赶紧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4685689956950b245d194c76e665ad638f440fe9"
+  },
+  {
+    "id": "word:情感",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2605699a5df3872691cee161d9197a2f91c7e043"
+  },
+  {
+    "id": "word:基本上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2f578d8da444325dbb8055579d5e192968ce4154"
+  },
+  {
+    "id": "word:可靠",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cfbbb9a48538609e0391d2510cb0ba6f14d19751"
+  },
+  {
+    "id": "word:录",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14d995385367b355e91a6135d4d65c3cf1c48d9e"
+  },
+  {
+    "id": "word:上去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "15b4bb266a25bf6b9e45744110d44802d4de1de9"
+  },
+  {
+    "id": "word:自主",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b58ecdda875586bd704869568fc037619aad3d7"
+  },
+  {
+    "id": "word:另一方面",
+    "ok": false,
+    "issues": [
+      "«这个房子很大，另一方面也很贵» suena poco natural. 另一方面 suele usarse para introducir otro aspecto, normalmente en correlación con 一方面; para contrastar algo positivo con algo negativo se usaría 但是. Además, el 也 resulta extraño.",
+      "«城市生活很方便，另一方面空气不太好» tiene el mismo problema: falta 一方面 y lo natural sería un contraste con 但是 o 不过."
+    ],
+    "content_hash": "b7426d777cee44f6ec1d3ba44d6a0e1a04ce7aef"
+  },
+  {
+    "id": "word:退",
+    "ok": true,
+    "issues": [],
+    "content_hash": "651f4f36108bca72b390da1cbc04ed648a44293a"
+  },
+  {
+    "id": "word:公务员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b91e54cac72e58e9e1c6faf2935c8b483ce03a82"
+  },
+  {
+    "id": "word:念",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70aef0d9e5481353ee21775e108f581d90a198ef"
+  },
+  {
+    "id": "word:银",
+    "ok": true,
+    "issues": [],
+    "content_hash": "212786cc0a1480881069378621d6154bf1be7034"
+  },
+  {
+    "id": "word:决心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "529597036a73ca194ab80a06e0755bafdf670fe9"
+  },
+  {
+    "id": "word:播出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b7dafbf227a3df213cca5a5ef5c63fcf22efd92"
+  }
+]

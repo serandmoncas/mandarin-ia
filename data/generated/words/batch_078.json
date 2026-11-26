@@ -1,0 +1,531 @@
+[
+  {
+    "word": "交给",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entregar",
+      "dar",
+      "encargar (algo a alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "请把书交给我。",
+        "es": "Por favor, entrégame el libro."
+      },
+      {
+        "zh": "请把这个交给老师。",
+        "es": "Por favor, entrégale esto al maestro."
+      },
+      {
+        "zh": "这件事就交给你了。",
+        "es": "Este asunto te lo dejo a ti."
+      },
+      {
+        "zh": "我已经把报告交给领导了。",
+        "es": "Ya le entregué el informe al jefe."
+      }
+    ]
+  },
+  {
+    "word": "复杂",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "complicado",
+      "complejo"
+    ],
+    "examples": [
+      {
+        "zh": "这个问题很复杂。",
+        "es": "Este problema es muy complicado."
+      },
+      {
+        "zh": "这个故事太复杂了。",
+        "es": "Esta historia es demasiado complicada."
+      },
+      {
+        "zh": "他的家庭关系比较复杂。",
+        "es": "Las relaciones en su familia son bastante complicadas."
+      },
+      {
+        "zh": "情况比我们想的复杂得多。",
+        "es": "La situación es mucho más complicada de lo que pensábamos."
+      }
+    ]
+  },
+  {
+    "word": "停",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parar",
+      "detenerse",
+      "estacionar (un auto)"
+    ],
+    "examples": [
+      {
+        "zh": "雨停了。",
+        "es": "Dejó de llover."
+      },
+      {
+        "zh": "请停一下。",
+        "es": "Por favor, detente un momento."
+      },
+      {
+        "zh": "车可以停在这里吗？",
+        "es": "¿Se puede estacionar el auto aquí?"
+      },
+      {
+        "zh": "他说了很久，一直没停下来。",
+        "es": "Habló mucho tiempo y nunca se detuvo."
+      }
+    ]
+  },
+  {
+    "word": "同事",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "colega",
+      "compañero de trabajo"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的同事。",
+        "es": "Él es mi compañero de trabajo."
+      },
+      {
+        "zh": "我和同事一起吃午饭。",
+        "es": "Almuerzo con mis colegas."
+      },
+      {
+        "zh": "我的同事都很喜欢她。",
+        "es": "A todos mis compañeros de trabajo les cae muy bien ella."
+      },
+      {
+        "zh": "明天我要给新同事介绍一下公司。",
+        "es": "Mañana le voy a presentar la empresa al nuevo colega."
+      }
+    ]
+  },
+  {
+    "word": "等于",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ser igual a",
+      "equivaler a"
+    ],
+    "examples": [
+      {
+        "zh": "一加一等于二。",
+        "es": "Uno más uno es igual a dos."
+      },
+      {
+        "zh": "五加五等于十。",
+        "es": "Cinco más cinco es igual a diez."
+      },
+      {
+        "zh": "不说话不等于同意。",
+        "es": "No hablar no equivale a estar de acuerdo."
+      },
+      {
+        "zh": "他不来开会，就等于不支持这个计划。",
+        "es": "Que no venga a la reunión equivale a no apoyar el plan."
+      }
+    ]
+  },
+  {
+    "word": "互联网",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "internet"
+    ],
+    "examples": [
+      {
+        "zh": "现在大家都用互联网。",
+        "es": "Hoy en día todos usan internet."
+      },
+      {
+        "zh": "互联网改变了我们的生活。",
+        "es": "Internet cambió nuestra vida."
+      },
+      {
+        "zh": "很多人通过互联网学习中文。",
+        "es": "Mucha gente aprende chino por internet."
+      },
+      {
+        "zh": "没有互联网，很多公司都无法工作。",
+        "es": "Sin internet, muchas empresas no pueden trabajar."
+      }
+    ]
+  },
+  {
+    "word": "计算",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "calcular",
+      "computar",
+      "considerar",
+      "planear"
+    ],
+    "examples": [
+      {
+        "zh": "请你计算一下。",
+        "es": "Por favor, calcúlalo."
+      },
+      {
+        "zh": "这个问题很难计算。",
+        "es": "Este problema es muy difícil de calcular."
+      },
+      {
+        "zh": "他用电脑计算这个月的钱。",
+        "es": "Él calcula el dinero de este mes con la computadora."
+      },
+      {
+        "zh": "我们需要计算一下去北京要花多少钱。",
+        "es": "Necesitamos calcular cuánto dinero cuesta ir a Pekín."
+      }
+    ]
+  },
+  {
+    "word": "经理",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "gerente",
+      "director"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们的经理。",
+        "es": "Él es nuestro gerente."
+      },
+      {
+        "zh": "经理今天不在公司。",
+        "es": "El gerente no está hoy en la empresa."
+      },
+      {
+        "zh": "新经理对大家都很好。",
+        "es": "El nuevo gerente es muy amable con todos."
+      },
+      {
+        "zh": "经理让我明天下午去他的办公室。",
+        "es": "El gerente me pidió que vaya a su oficina mañana en la tarde."
+      }
+    ]
+  },
+  {
+    "word": "结婚",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "casarse",
+      "contraer matrimonio"
+    ],
+    "examples": [
+      {
+        "zh": "你结婚了吗？",
+        "es": "¿Estás casado?"
+      },
+      {
+        "zh": "他们去年结婚了。",
+        "es": "Ellos se casaron el año pasado."
+      },
+      {
+        "zh": "我姐姐明年要结婚。",
+        "es": "Mi hermana mayor se va a casar el próximo año."
+      },
+      {
+        "zh": "他们认识三年以后才决定结婚。",
+        "es": "Decidieron casarse después de conocerse tres años."
+      }
+    ]
+  },
+  {
+    "word": "心情",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estado de ánimo",
+      "humor"
+    ],
+    "examples": [
+      {
+        "zh": "我今天心情很好。",
+        "es": "Hoy estoy de muy buen humor."
+      },
+      {
+        "zh": "下雨天我的心情不太好。",
+        "es": "Los días de lluvia no estoy de muy buen ánimo."
+      },
+      {
+        "zh": "听音乐能让心情变好。",
+        "es": "Escuchar música puede mejorar el estado de ánimo."
+      },
+      {
+        "zh": "他考试没考好，所以心情很差。",
+        "es": "Le fue mal en el examen, así que está de muy mal humor."
+      }
+    ]
+  },
+  {
+    "word": "信心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "confianza",
+      "seguridad",
+      "fe (en algo o alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "我对你有信心。",
+        "es": "Tengo confianza en ti."
+      },
+      {
+        "zh": "他对自己没有信心。",
+        "es": "Él no tiene confianza en sí mismo."
+      },
+      {
+        "zh": "这次比赛我们很有信心。",
+        "es": "Tenemos mucha confianza en esta competencia."
+      },
+      {
+        "zh": "老师的话让我对学习中文有了信心。",
+        "es": "Las palabras del maestro me dieron confianza para aprender chino."
+      }
+    ]
+  },
+  {
+    "word": "早就",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desde hace tiempo",
+      "ya hace rato"
+    ],
+    "examples": [
+      {
+        "zh": "我早就知道了。",
+        "es": "Ya lo sabía desde hace tiempo."
+      },
+      {
+        "zh": "他早就回家了。",
+        "es": "Él ya se fue a casa hace rato."
+      },
+      {
+        "zh": "这个问题我们早就讨论过了。",
+        "es": "Este tema ya lo discutimos hace tiempo."
+      },
+      {
+        "zh": "你怎么才来？大家早就开始吃饭了。",
+        "es": "¿Por qué llegas hasta ahora? Todos empezaron a comer hace rato."
+      }
+    ]
+  },
+  {
+    "word": "理由",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "razón",
+      "motivo",
+      "justificación"
+    ],
+    "examples": [
+      {
+        "zh": "你有什么理由？",
+        "es": "¿Qué razón tienes?"
+      },
+      {
+        "zh": "这不是一个好理由。",
+        "es": "Esa no es una buena razón."
+      },
+      {
+        "zh": "他没有理由不来。",
+        "es": "Él no tiene ningún motivo para no venir."
+      },
+      {
+        "zh": "请告诉我你反对这个计划的理由。",
+        "es": "Por favor, dime por qué te opones a este plan."
+      }
+    ]
+  },
+  {
+    "word": "联合国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Naciones Unidas",
+      "ONU"
+    ],
+    "examples": [
+      {
+        "zh": "联合国是一个国际组织。",
+        "es": "La ONU es una organización internacional."
+      },
+      {
+        "zh": "中国是联合国的成员。",
+        "es": "China es miembro de las Naciones Unidas."
+      },
+      {
+        "zh": "很多国家都参加了联合国的会议。",
+        "es": "Muchos países participaron en la reunión de la ONU."
+      },
+      {
+        "zh": "联合国希望世界各国保持和平。",
+        "es": "La ONU espera que todos los países del mundo mantengan la paz."
+      }
+    ]
+  },
+  {
+    "word": "主人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dueño",
+      "anfitrión",
+      "amo"
+    ],
+    "examples": [
+      {
+        "zh": "这只狗的主人是谁？",
+        "es": "¿Quién es el dueño de este perro?"
+      },
+      {
+        "zh": "主人请我们吃饭。",
+        "es": "El anfitrión nos invitó a comer."
+      },
+      {
+        "zh": "这个房子的主人住在上海。",
+        "es": "El dueño de esta casa vive en Shanghái."
+      },
+      {
+        "zh": "猫看到主人回家，就跑到门口。",
+        "es": "Cuando el gato ve llegar a su dueño, corre a la puerta."
+      }
+    ]
+  },
+  {
+    "word": "明确",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "claro",
+      "definido",
+      "explícito",
+      "dejar claro"
+    ],
+    "examples": [
+      {
+        "zh": "他的目标很明确。",
+        "es": "Su objetivo es muy claro."
+      },
+      {
+        "zh": "请你说得明确一点。",
+        "es": "Por favor, dilo de forma más clara."
+      },
+      {
+        "zh": "公司还没有明确的计划。",
+        "es": "La empresa todavía no tiene un plan definido."
+      },
+      {
+        "zh": "老师明确告诉我们明天要考试。",
+        "es": "El maestro nos dijo claramente que mañana hay examen."
+      }
+    ]
+  },
+  {
+    "word": "嘴",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "boca",
+      "pico (de ave)",
+      "boquilla"
+    ],
+    "examples": [
+      {
+        "zh": "请张开嘴。",
+        "es": "Por favor, abre la boca."
+      },
+      {
+        "zh": "他的嘴很大。",
+        "es": "Él tiene la boca muy grande."
+      },
+      {
+        "zh": "孩子嘴里有一块面包。",
+        "es": "El niño tiene un pedazo de pan en la boca."
+      },
+      {
+        "zh": "他嘴上说不想去，其实很想去。",
+        "es": "Él dice que no quiere ir, pero en realidad tiene muchas ganas."
+      }
+    ]
+  },
+  {
+    "word": "女子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mujer",
+      "femenino (en deportes, etc.)"
+    ],
+    "examples": [
+      {
+        "zh": "一名女子在等车。",
+        "es": "Una mujer está esperando el autobús."
+      },
+      {
+        "zh": "她参加了女子足球比赛。",
+        "es": "Ella participó en un partido de fútbol femenino."
+      },
+      {
+        "zh": "这是一所女子大学。",
+        "es": "Esta es una universidad para mujeres."
+      },
+      {
+        "zh": "警察说那名女子已经离开了。",
+        "es": "La policía dijo que esa mujer ya se había ido."
+      }
+    ]
+  },
+  {
+    "word": "常见",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "común",
+      "frecuente",
+      "habitual"
+    ],
+    "examples": [
+      {
+        "zh": "这种鸟很常见。",
+        "es": "Este tipo de pájaro es muy común."
+      },
+      {
+        "zh": "这是一个常见的问题。",
+        "es": "Este es un problema frecuente."
+      },
+      {
+        "zh": "这个字在中文里很常见。",
+        "es": "Este carácter es muy común en chino."
+      },
+      {
+        "zh": "在这个城市，下雨天是很常见的。",
+        "es": "En esta ciudad, los días de lluvia son muy comunes."
+      }
+    ]
+  },
+  {
+    "word": "苹果",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "manzana"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃苹果。",
+        "es": "Me gusta comer manzanas."
+      },
+      {
+        "zh": "这个苹果很好吃。",
+        "es": "Esta manzana está muy rica."
+      },
+      {
+        "zh": "妈妈去商店买了一些苹果。",
+        "es": "Mamá fue a la tienda y compró unas manzanas."
+      },
+      {
+        "zh": "每天吃一个苹果对身体很好。",
+        "es": "Comer una manzana al día es muy bueno para la salud."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "phrase:emergencies:014",
+    "ok": true,
+    "issues": [],
+    "content_hash": "798eb0f4d8da1e851ee69253c54e858236b04400"
+  },
+  {
+    "id": "phrase:emergencies:015",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c001fc8b8cec92a5b7d64f39e18c37e0c79f3e96"
+  },
+  {
+    "id": "phrase:emergencies:016",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b50cf21f0de4a8038135547ec2201c3478f84dd5"
+  },
+  {
+    "id": "phrase:emergencies:017",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4f03d22379b351723558f32a7a5f2a7e6be90184"
+  },
+  {
+    "id": "phrase:emergencies:018",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a10514be0d4d9d517d937eccad88827d280a152"
+  },
+  {
+    "id": "phrase:emergencies:019",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5166558fff2085b2f49e0988e90ffc21c1daa7b1"
+  },
+  {
+    "id": "phrase:emergencies:020",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bec3f51cfb9e3a2c0272e25348095202ce5e59a3"
+  },
+  {
+    "id": "phrase:emergencies:021",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ffed46bbd02fb2207fd5a16c240d7621b923b2f8"
+  },
+  {
+    "id": "phrase:emergencies:022",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1699c27ce1c1a5cb9b504fa3a034e3decfe1f54b"
+  },
+  {
+    "id": "phrase:emergencies:023",
+    "ok": true,
+    "issues": [],
+    "content_hash": "518b769ded8a08bf01ddf4948ed0859189966345"
+  },
+  {
+    "id": "phrase:emergencies:024",
+    "ok": false,
+    "issues": [
+      "保险 significa 'seguro' en general (puede ser de viaje, médico, etc.); la traducción añade 'médico', que no está en el chino. Sugerencia: '¿Tiene seguro?'"
+    ],
+    "content_hash": "30f8b9dcab12bfbac4f803dec815d4aa26399b39"
+  },
+  {
+    "id": "phrase:emergencies:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "020518e8692cafaa1c1f166450e710127fb22872"
+  },
+  {
+    "id": "phrase:emergencies:026",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8627f903155154e140813a44250f5633346ef358"
+  },
+  {
+    "id": "phrase:emergencies:027",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4aa910dce550979676f94eac819fa7d430b5e79e"
+  },
+  {
+    "id": "phrase:emergencies:028",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b69898c15e06310eb55091e32db7c00a1ad4c684"
+  },
+  {
+    "id": "phrase:emergencies:029",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d6f644a0ecb4665850030c872f95dd193f714091"
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "word": "充满",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lleno de",
+      "colmado de",
+      "impregnado de"
+    ],
+    "examples": [
+      {
+        "zh": "他的心里充满了爱。",
+        "es": "Su corazón está lleno de amor."
+      },
+      {
+        "zh": "这个城市充满了希望。",
+        "es": "Esta ciudad está llena de esperanza."
+      },
+      {
+        "zh": "她的生活充满了快乐和音乐。",
+        "es": "Su vida está llena de alegría y música."
+      },
+      {
+        "zh": "虽然工作很难，但是我们心里充满了信心。",
+        "es": "Aunque el trabajo es difícil, estamos llenos de confianza."
+      }
+    ]
+  },
+  {
+    "word": "湖",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lago"
+    ],
+    "examples": [
+      {
+        "zh": "这个湖很大。",
+        "es": "Este lago es muy grande."
+      },
+      {
+        "zh": "湖里有很多鱼。",
+        "es": "En el lago hay muchos peces."
+      },
+      {
+        "zh": "周末我们去湖边走走吧。",
+        "es": "El fin de semana vamos a caminar a la orilla del lago."
+      },
+      {
+        "zh": "北京的公园里有一个很漂亮的湖。",
+        "es": "En el parque de Pekín hay un lago muy bonito."
+      }
+    ]
+  },
+  {
+    "word": "花园",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jardín",
+      "parque"
+    ],
+    "examples": [
+      {
+        "zh": "我家有一个花园。",
+        "es": "Mi casa tiene un jardín."
+      },
+      {
+        "zh": "奶奶喜欢在花园里看书。",
+        "es": "A mi abuela le gusta leer en el jardín."
+      },
+      {
+        "zh": "下午孩子们在花园里玩儿。",
+        "es": "En la tarde los niños juegan en el jardín."
+      },
+      {
+        "zh": "学校旁边的花园里有很多树和花。",
+        "es": "En el jardín junto a la escuela hay muchos árboles y flores."
+      }
+    ]
+  },
+  {
+    "word": "纸",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "papel",
+      "hoja (de papel)",
+      "clasificador para documentos"
+    ],
+    "examples": [
+      {
+        "zh": "请给我一张纸。",
+        "es": "Dame una hoja de papel, por favor."
+      },
+      {
+        "zh": "这张纸太小了。",
+        "es": "Esta hoja es demasiado pequeña."
+      },
+      {
+        "zh": "我用这张纸给妈妈写信。",
+        "es": "Uso esta hoja para escribirle una carta a mi mamá."
+      },
+      {
+        "zh": "老师让学生把名字写在纸上。",
+        "es": "El maestro les pidió a los alumnos que escribieran su nombre en el papel."
+      }
+    ]
+  },
+  {
+    "word": "笔",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bolígrafo, lápiz (instrumento para escribir)",
+      "pincel",
+      "trazo",
+      "clasificador para sumas de dinero"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的笔。",
+        "es": "Este es mi bolígrafo."
+      },
+      {
+        "zh": "你有笔吗？",
+        "es": "¿Tienes con qué escribir?"
+      },
+      {
+        "zh": "我的笔找不到了，可以用你的吗？",
+        "es": "No encuentro mi bolígrafo, ¿puedo usar el tuyo?"
+      },
+      {
+        "zh": "爸爸送给我一支笔作为生日礼物。",
+        "es": "Mi papá me regaló una pluma de cumpleaños."
+      }
+    ]
+  },
+  {
+    "word": "感动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "conmover",
+      "emocionar",
+      "conmovedor"
+    ],
+    "examples": [
+      {
+        "zh": "我很感动。",
+        "es": "Estoy muy conmovido."
+      },
+      {
+        "zh": "这个故事让我很感动。",
+        "es": "Esta historia me conmovió mucho."
+      },
+      {
+        "zh": "他的话让大家非常感动。",
+        "es": "Sus palabras emocionaron mucho a todos."
+      },
+      {
+        "zh": "看到妈妈送的礼物，她感动得哭了。",
+        "es": "Al ver el regalo de su mamá, se emocionó hasta las lágrimas."
+      }
+    ]
+  },
+  {
+    "word": "观众",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "público",
+      "espectadores",
+      "visitantes"
+    ],
+    "examples": [
+      {
+        "zh": "今天的观众很多。",
+        "es": "Hoy hay mucho público."
+      },
+      {
+        "zh": "观众都笑了。",
+        "es": "Todos los espectadores se rieron."
+      },
+      {
+        "zh": "这个节目很受观众欢迎。",
+        "es": "Este programa es muy popular entre el público."
+      },
+      {
+        "zh": "比赛结束以后，观众们一起站起来唱歌。",
+        "es": "Al terminar el partido, los espectadores se pusieron de pie y cantaron juntos."
+      }
+    ]
+  },
+  {
+    "word": "接到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recibir",
+      "ir a buscar (a alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "我接到了你的信。",
+        "es": "Recibí tu carta."
+      },
+      {
+        "zh": "你接到我的电话了吗？",
+        "es": "¿Recibiste mi llamada?"
+      },
+      {
+        "zh": "昨天他接到了一个好消息。",
+        "es": "Ayer recibió una buena noticia."
+      },
+      {
+        "zh": "我刚接到通知，明天下午不用上班。",
+        "es": "Acabo de recibir un aviso: mañana en la tarde no tengo que ir a trabajar."
+      }
+    ]
+  },
+  {
+    "word": "节日",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fiesta",
+      "festividad",
+      "día festivo"
+    ],
+    "examples": [
+      {
+        "zh": "今天是什么节日？",
+        "es": "¿Qué fiesta es hoy?"
+      },
+      {
+        "zh": "我最喜欢的节日是新年。",
+        "es": "Mi fiesta favorita es el Año Nuevo."
+      },
+      {
+        "zh": "节日的时候，家人都回家吃饭。",
+        "es": "En los días festivos, toda la familia vuelve a casa a comer."
+      },
+      {
+        "zh": "每个国家都有自己的传统节日和文化。",
+        "es": "Cada país tiene sus propias fiestas tradicionales y su propia cultura."
+      }
+    ]
+  },
+  {
+    "word": "爬",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "subir, escalar",
+      "trepar",
+      "gatear, arrastrarse"
+    ],
+    "examples": [
+      {
+        "zh": "我们去爬山吧。",
+        "es": "Vamos a subir la montaña."
+      },
+      {
+        "zh": "孩子在地上爬。",
+        "es": "El niño gatea por el suelo."
+      },
+      {
+        "zh": "猫爬到树上去了。",
+        "es": "El gato se trepó al árbol."
+      },
+      {
+        "zh": "爷爷虽然七十岁了，但是还能爬山。",
+        "es": "Aunque mi abuelo tiene setenta años, todavía puede subir montañas."
+      }
+    ]
+  },
+  {
+    "word": "西南",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "suroeste"
+    ],
+    "examples": [
+      {
+        "zh": "他来自中国西南。",
+        "es": "Él es del suroeste de China."
+      },
+      {
+        "zh": "学校在火车站的西南边。",
+        "es": "La escuela está al suroeste de la estación de tren."
+      },
+      {
+        "zh": "今天的风是从西南来的。",
+        "es": "Hoy el viento viene del suroeste."
+      },
+      {
+        "zh": "明天西南地区会下大雨，请注意安全。",
+        "es": "Mañana lloverá fuerte en la región suroeste; tengan cuidado."
+      }
+    ]
+  },
+  {
+    "word": "响",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sonar",
+      "hacer ruido",
+      "fuerte, ruidoso"
+    ],
+    "examples": [
+      {
+        "zh": "电话响了。",
+        "es": "Sonó el teléfono."
+      },
+      {
+        "zh": "你的手机一直在响。",
+        "es": "Tu celular no deja de sonar."
+      },
+      {
+        "zh": "音乐太响了，我听不见你说话。",
+        "es": "La música está muy fuerte, no te oigo."
+      },
+      {
+        "zh": "晚上外面突然响起了很大的声音。",
+        "es": "En la noche, de repente se oyó un ruido muy fuerte afuera."
+      }
+    ]
+  },
+  {
+    "word": "友好",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "amable",
+      "amistoso",
+      "cordial"
+    ],
+    "examples": [
+      {
+        "zh": "他对我很友好。",
+        "es": "Es muy amable conmigo."
+      },
+      {
+        "zh": "这里的人都很友好。",
+        "es": "La gente de aquí es muy amable."
+      },
+      {
+        "zh": "两个国家一直保持友好关系。",
+        "es": "Los dos países siempre han mantenido relaciones amistosas."
+      },
+      {
+        "zh": "新同学对大家都非常友好，所以很快就有了朋友。",
+        "es": "El compañero nuevo es muy amable con todos, así que hizo amigos rápido."
+      }
+    ]
+  },
+  {
+    "word": "住房",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vivienda"
+    ],
+    "examples": [
+      {
+        "zh": "这里的住房很贵。",
+        "es": "La vivienda aquí es muy cara."
+      },
+      {
+        "zh": "年轻人需要便宜的住房。",
+        "es": "Los jóvenes necesitan vivienda barata."
+      },
+      {
+        "zh": "政府决定建设更多的住房。",
+        "es": "El gobierno decidió construir más viviendas."
+      },
+      {
+        "zh": "在大城市，住房问题越来越严重了。",
+        "es": "En las grandes ciudades, el problema de la vivienda es cada vez más grave."
+      }
+    ]
+  },
+  {
+    "word": "区别",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "diferencia",
+      "distinguir",
+      "diferenciar"
+    ],
+    "examples": [
+      {
+        "zh": "这两个字有什么区别？",
+        "es": "¿Qué diferencia hay entre estos dos caracteres?"
+      },
+      {
+        "zh": "我看不出它们的区别。",
+        "es": "No veo la diferencia entre ellos."
+      },
+      {
+        "zh": "你能区别这两种茶吗？",
+        "es": "¿Puedes distinguir estos dos tipos de té?"
+      },
+      {
+        "zh": "南方人和北方人的生活习惯有很大区别。",
+        "es": "Las costumbres de la gente del sur y del norte son muy diferentes."
+      }
+    ]
+  },
+  {
+    "word": "大声",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en voz alta",
+      "fuerte"
+    ],
+    "examples": [
+      {
+        "zh": "请大声说。",
+        "es": "Habla más fuerte, por favor."
+      },
+      {
+        "zh": "别大声说话。",
+        "es": "No hables tan fuerte."
+      },
+      {
+        "zh": "老师让我们大声读课文。",
+        "es": "El maestro nos pidió leer el texto en voz alta."
+      },
+      {
+        "zh": "他在电话里大声告诉我，他找到了工作。",
+        "es": "Por teléfono me dijo en voz alta que había encontrado trabajo."
+      }
+    ]
+  },
+  {
+    "word": "实验",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "experimento",
+      "prueba",
+      "experimentar",
+      "experimental"
+    ],
+    "examples": [
+      {
+        "zh": "我们今天做实验。",
+        "es": "Hoy hacemos un experimento."
+      },
+      {
+        "zh": "这个实验成功了。",
+        "es": "Este experimento salió bien."
+      },
+      {
+        "zh": "科学家们正在进行新的实验。",
+        "es": "Los científicos están haciendo un nuevo experimento."
+      },
+      {
+        "zh": "实验的结果和我们想的不一样，所以要重新做。",
+        "es": "El resultado del experimento no fue el que esperábamos, así que hay que repetirlo."
+      }
+    ]
+  },
+  {
+    "word": "客人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "invitado",
+      "visita",
+      "cliente"
+    ],
+    "examples": [
+      {
+        "zh": "今天家里有客人。",
+        "es": "Hoy tenemos visitas en casa."
+      },
+      {
+        "zh": "客人来了，请进！",
+        "es": "¡Ya llegaron los invitados, pasen!"
+      },
+      {
+        "zh": "妈妈做了很多菜给客人吃。",
+        "es": "Mi mamá preparó mucha comida para los invitados."
+      },
+      {
+        "zh": "这家饭店的客人很多，我们最好早点来。",
+        "es": "Este restaurante tiene muchos clientes; mejor venimos temprano."
+      }
+    ]
+  },
+  {
+    "word": "形象",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "imagen",
+      "figura",
+      "vívido, expresivo"
+    ],
+    "examples": [
+      {
+        "zh": "他的形象很好。",
+        "es": "Él tiene muy buena imagen."
+      },
+      {
+        "zh": "公司很重视自己的形象。",
+        "es": "La empresa cuida mucho su imagen."
+      },
+      {
+        "zh": "这本小说里的人物形象非常真实。",
+        "es": "Los personajes de esta novela son muy realistas."
+      },
+      {
+        "zh": "他说话很形象，大家一听就明白了。",
+        "es": "Habla de forma muy expresiva; todos le entienden enseguida."
+      }
+    ]
+  },
+  {
+    "word": "全身",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo el cuerpo",
+      "cuerpo entero"
+    ],
+    "examples": [
+      {
+        "zh": "我全身都很累。",
+        "es": "Me duele todo el cuerpo de cansancio."
+      },
+      {
+        "zh": "他全身都是水。",
+        "es": "Está todo mojado."
+      },
+      {
+        "zh": "运动以后，我觉得全身很舒服。",
+        "es": "Después de hacer ejercicio, siento todo el cuerpo muy relajado."
+      },
+      {
+        "zh": "我生病了，全身都不舒服，只想睡觉。",
+        "es": "Estoy enfermo, me siento mal de todo el cuerpo y solo quiero dormir."
+      }
+    ]
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:飞行",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «鸟可以飞行很远» suena poco natural; en este contexto lo habitual es «鸟可以飞得很远» o «飞很远». 飞行 se usa más como sustantivo o en registro técnico.",
+      "Ejemplo 3: «坐飞机飞行» es redundante; sería más natural «我第一次坐飞机的时候很害怕»."
+    ],
+    "content_hash": "c3a2943d1125bf01f415dd35eb137795b405a257"
+  },
+  {
+    "id": "word:话题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6663a511e55e24e5562bd07491d86fffa80e0e39"
+  },
+  {
+    "id": "word:亲",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: el pinyin «yī xià» es inconsistente con el resto del contenido, que marca el sandhi de 一; debería ser «yí xià».",
+      "Ejemplo 2: «gē gē» debería ser «gē ge» (la segunda sílaba es tono neutro)."
+    ],
+    "content_hash": "fa34af745acd99d75fd29100688e5e6e2771cd0d"
+  },
+  {
+    "id": "word:信任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be8260cf99e54bffb72763b72cf6792801f864fc"
+  },
+  {
+    "id": "word:选手",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin de 得 como complemento es «de» (tono neutro), no «dé».",
+      "Ejemplo 1: para un futbolista es más natural «足球运动员»; «足球选手» es aceptable, pero menos habitual."
+    ],
+    "content_hash": "aba03d62523b3a87943bd99a4ef4540b92db84e9"
+  },
+  {
+    "id": "word:必然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89b150e469a1d6370cda38d1e64d8719318843b6"
+  },
+  {
+    "id": "word:电台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d8f3c11cf88c9bf43a0ced8b5d6c6218d3343ca"
+  },
+  {
+    "id": "word:分配",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d0da5504b94a35d2ceb45a0de04502a9f707de2"
+  },
+  {
+    "id": "word:各自",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c569a37c9ed9413272dc3b1e202bcd3822fe9b9d"
+  },
+  {
+    "id": "word:姑娘",
+    "ok": false,
+    "issues": [
+      "En todos los ejemplos, «gū niáng» debería ser «gū niang» (la segunda sílaba es tono neutro, como indica la propia entrada).",
+      "Ejemplo 3: «La niña de su casa» es una traducción forzada; sería mejor «Su hijita cumple cinco años este año»."
+    ],
+    "content_hash": "d05c95d75e5db2b5450b7f8584ee0c5337b57681"
+  },
+  {
+    "id": "word:观看",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b7dc60efd675859f65b851c44e2a7677d9649172"
+  },
+  {
+    "id": "word:纪录",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ff9323de31f6f3040f1db8f64d93574046827de"
+  },
+  {
+    "id": "word:前面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4bf62ead3637c92627fd39044e5cb6734ac00a5"
+  },
+  {
+    "id": "word:上升",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 得 como complemento es «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "e33c68b2f69dc51adb48be1a41680c712b926ad8"
+  },
+  {
+    "id": "word:谈话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "61acccbe7caa242a27a23ead546e13e39bd0069f"
+  },
+  {
+    "id": "word:自从",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f532dde5bc0071788fce377afaae49e764019941"
+  },
+  {
+    "id": "word:保留",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f693e17f262535858634632426bfbeed97b15142"
+  },
+  {
+    "id": "word:表面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6db0d5a620c18dc47bb094d5963983d7ff096462"
+  },
+  {
+    "id": "word:不必",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e93e3084f01bf119d753f7b49e7f72dacbc7be0b"
+  },
+  {
+    "id": "word:坚决",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4df165882b178321dd8552ab3985cf5fc5998ba"
+  },
+  {
+    "id": "word:将来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac7b0fd382d6069564c87a4fb258394050e2168a"
+  },
+  {
+    "id": "word:慢慢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "811aa180f7a6582a98f34149cf19d5977969f206"
+  },
+  {
+    "id": "word:排名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98b1f8f382b4953c626c584c9e50cac023a37fd5"
+  },
+  {
+    "id": "word:铁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a5667dd375c94555473c604d7967d8f95654000"
+  },
+  {
+    "id": "word:印象",
+    "ok": true,
+    "issues": [],
+    "content_hash": "15dffecc58a688a95f3da31e394b0708d374ae26"
+  }
+]

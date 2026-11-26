@@ -1,0 +1,158 @@
+[
+  {
+    "id": "char:欢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81421127684c5bd15dee77ea2a6d7562ab247f13"
+  },
+  {
+    "id": "char:钱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d369406a10fd94ac9c81c518dc44f119b20e64b4"
+  },
+  {
+    "id": "char:当",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d3aff9a2eb0bd64dafe38d6f16b898bf67d82676"
+  },
+  {
+    "id": "char:学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb0ba9b176ed41a7c2fcb65f175ff141766e3167"
+  },
+  {
+    "id": "char:生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e1fe5eedc3ae8e09eb12c249505b00a69b3de89"
+  },
+  {
+    "id": "char:区",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf30d7f897d9feb4701d870796bf25595b1b2713"
+  },
+  {
+    "id": "char:电",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c7f5199ab514acf5cece815f0f7743703154daa"
+  },
+  {
+    "id": "char:影",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5b15802168a6af766e9658f08ec6dbf41f687c47"
+  },
+  {
+    "id": "char:际",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4ededba403f494f53e2d12c3431f43864c07878"
+  },
+  {
+    "id": "char:点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e0ee55b3170f2328b24efb63b2435ca8c536198"
+  },
+  {
+    "id": "char:听",
+    "ok": true,
+    "issues": [],
+    "content_hash": "28cd65fe874eafc74a431564f115fde95c201340"
+  },
+  {
+    "id": "char:内",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c67014deea0f473958467d68ed361d839dfd493c"
+  },
+  {
+    "id": "char:两",
+    "ok": true,
+    "issues": [],
+    "content_hash": "78cc468c916f78ce0f6147f474a48ed69dd30b2a"
+  },
+  {
+    "id": "char:却",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia se contradice: dice que «se quedó» y luego que «retrocedió». Además mezcla dos significados (\"sin embargo\" y \"retroceder\") de forma confusa. Conviene elegir una sola imagen coherente."
+    ],
+    "content_hash": "ffc1bc661afb11d3b20e31743ff20e3de68b14de"
+  },
+  {
+    "id": "char:才",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d9a90879adb33097adfc15e365bbf49754f74872"
+  },
+  {
+    "id": "char:济",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2bd7d1715ce7d4198f6aae649c67750a2b62b149"
+  },
+  {
+    "id": "char:使",
+    "ok": true,
+    "issues": [],
+    "content_hash": "818f00b85f868c0f0c1f5d9a1ddee6846ce856ee"
+  },
+  {
+    "id": "char:活",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d0e0d82db258abaf6081790007c5841afb865b2"
+  },
+  {
+    "id": "char:动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "32dd020ca19c383ae349e197f68eddeb740954a4"
+  },
+  {
+    "id": "char:走",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a17e04f77cfd101e3af2b69ccad39573671abc82"
+  },
+  {
+    "id": "char:吃",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc96c329ffc16aaf62e703b323ff3989cb5754c6"
+  },
+  {
+    "id": "char:话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa5385abb67febd396ddd7f097544497fed9cac9"
+  },
+  {
+    "id": "char:应",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia introduce una persona que levanta la mano, pero ningún componente listado la representa (丷 se describe como «dos puntos»). Eso dificulta asociar la imagen con la forma del carácter."
+    ],
+    "content_hash": "b470e84e7d2585a8bb7bd698ec70b22251ffbaa8"
+  },
+  {
+    "id": "char:今",
+    "ok": false,
+    "issues": [
+      "El componente central de 今 no es 一 (línea), sino un punto corto 丶. Los trazos son 丿㇏丶㇇. La mnemotecnia, que habla de «una línea», se basa en esa descomposición incorrecta."
+    ],
+    "content_hash": "d0a9cc774aab451fc2e4a5d0cf7849af6f044ceb"
+  },
+  {
+    "id": "char:天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "127698bba25bc978ff279a9c52782a3752ee4245"
+  }
+]

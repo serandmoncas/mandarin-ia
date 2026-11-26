@@ -1,0 +1,422 @@
+[
+  {
+    "word": "月",
+    "examples": [
+      {
+        "zh": "今天是五月一号。",
+        "pinyin": "jin1 tian1 shi4 wu3 yue4 yi1 hao4"
+      },
+      {
+        "zh": "这个月我很忙。",
+        "pinyin": "zhe4 ge4 yue4 wo3 hen3 mang2"
+      },
+      {
+        "zh": "今天晚上的月亮很大。",
+        "pinyin": "jin1 tian1 wan3 shang5 de5 yue4 liang5 hen3 da4"
+      },
+      {
+        "zh": "我每个月都给家人打电话。",
+        "pinyin": "wo3 mei3 ge4 yue4 dou1 gei3 jia1 ren2 da3 dian4 hua4"
+      }
+    ]
+  },
+  {
+    "word": "日",
+    "examples": [
+      {
+        "zh": "今天是五月一日。",
+        "pinyin": "jin1 tian1 shi4 wu3 yue4 yi1 ri4"
+      },
+      {
+        "zh": "我的生日是十月三日。",
+        "pinyin": "wo3 de5 sheng1 ri4 shi4 shi2 yue4 san1 ri4"
+      },
+      {
+        "zh": "我们一起去看日出吧。",
+        "pinyin": "wo3 men5 yi1 qi3 qu4 kan4 ri4 chu1 ba5"
+      },
+      {
+        "zh": "中国的国庆节是十月一日。",
+        "pinyin": "zhong1 guo2 de5 guo2 qing4 jie2 shi4 shi2 yue4 yi1 ri4"
+      }
+    ]
+  },
+  {
+    "word": "让",
+    "examples": [
+      {
+        "zh": "让我看看。",
+        "pinyin": "rang4 wo3 kan4 kan5"
+      },
+      {
+        "zh": "妈妈不让我去。",
+        "pinyin": "ma1 ma5 bu4 rang4 wo3 qu4"
+      },
+      {
+        "zh": "这个消息让我很高兴。",
+        "pinyin": "zhe4 ge4 xiao1 xi5 rang4 wo3 hen3 gao1 xing4"
+      },
+      {
+        "zh": "老师让我们每天都说中文。",
+        "pinyin": "lao3 shi1 rang4 wo3 men5 mei3 tian1 dou1 shuo1 zhong1 wen2"
+      }
+    ]
+  },
+  {
+    "word": "之",
+    "examples": [
+      {
+        "zh": "一个月之后，他来了。",
+        "pinyin": "yi1 ge4 yue4 zhi1 hou4 ta1 lai2 le5"
+      },
+      {
+        "zh": "他是我的好朋友之一。",
+        "pinyin": "ta1 shi4 wo3 de5 hao3 peng2 you5 zhi1 yi1"
+      },
+      {
+        "zh": "三分之一的人没有来。",
+        "pinyin": "san1 fen1 zhi1 yi1 de5 ren2 mei2 you3 lai2"
+      },
+      {
+        "zh": "我来中国之前不会说中文。",
+        "pinyin": "wo3 lai2 zhong1 guo2 zhi1 qian2 bu4 hui4 shuo1 zhong1 wen2"
+      }
+    ]
+  },
+  {
+    "word": "有的",
+    "examples": [
+      {
+        "zh": "有的好，有的不好。",
+        "pinyin": "you3 de5 hao3 you3 de5 bu4 hao3"
+      },
+      {
+        "zh": "有的人不爱说话。",
+        "pinyin": "you3 de5 ren2 bu4 ai4 shuo1 hua4"
+      },
+      {
+        "zh": "有的时候我很想家。",
+        "pinyin": "you3 de5 shi2 hou5 wo3 hen3 xiang3 jia1"
+      },
+      {
+        "zh": "公司里有的人想去中国，有的人想去美国。",
+        "pinyin": "gong1 si1 li3 you3 de5 ren2 xiang3 qu4 zhong1 guo2 you3 de5 ren2 xiang3 qu4 mei3 guo2"
+      }
+    ]
+  },
+  {
+    "word": "买",
+    "examples": [
+      {
+        "zh": "我想买这个。",
+        "pinyin": "wo3 xiang3 mai3 zhe4 ge4"
+      },
+      {
+        "zh": "你买了什么？",
+        "pinyin": "ni3 mai3 le5 shen2 me5"
+      },
+      {
+        "zh": "她给孩子买了一些新衣服。",
+        "pinyin": "ta1 gei3 hai2 zi5 mai3 le5 yi1 xie1 xin1 yi1 fu5"
+      },
+      {
+        "zh": "这个太贵了，我们去别的地方买吧。",
+        "pinyin": "zhe4 ge4 tai4 gui4 le5 wo3 men5 qu4 bie2 de5 di4 fang5 mai3 ba5"
+      }
+    ]
+  },
+  {
+    "word": "女人",
+    "examples": [
+      {
+        "zh": "那个女人是谁？",
+        "pinyin": "na4 ge4 nü3 ren2 shi4 shei2"
+      },
+      {
+        "zh": "她是一个很好的女人。",
+        "pinyin": "ta1 shi4 yi1 ge4 hen3 hao3 de5 nü3 ren2"
+      },
+      {
+        "zh": "在这个公司，女人和男人做一样的工作。",
+        "pinyin": "zai4 zhe4 ge4 gong1 si1 nü3 ren2 he2 nan2 ren2 zuo4 yi1 yang4 de5 gong1 zuo4"
+      },
+      {
+        "zh": "历史上有很多女人做了非常重要的事。",
+        "pinyin": "li4 shi3 shang4 you3 hen3 duo1 nü3 ren2 zuo4 le5 fei1 chang2 zhong4 yao4 de5 shi4"
+      }
+    ]
+  },
+  {
+    "word": "多少",
+    "examples": [
+      {
+        "zh": "这个多少钱？",
+        "pinyin": "zhe4 ge4 duo1 shao5 qian2"
+      },
+      {
+        "zh": "你们学校有多少学生？",
+        "pinyin": "ni3 men5 xue2 xiao4 you3 duo1 shao5 xue2 sheng1"
+      },
+      {
+        "zh": "你的电话号码是多少？",
+        "pinyin": "ni3 de5 dian4 hua4 hao4 ma3 shi4 duo1 shao5"
+      },
+      {
+        "zh": "你知道从北京到香港要多少个小时吗？",
+        "pinyin": "ni3 zhi1 dao5 cong2 bei3 jing1 dao4 xiang1 gang3 yao4 duo1 shao5 ge4 xiao3 shi2 ma5"
+      }
+    ]
+  },
+  {
+    "word": "万",
+    "examples": [
+      {
+        "zh": "我有一万元。",
+        "pinyin": "wo3 you3 yi1 wan4 yuan2"
+      },
+      {
+        "zh": "这个手机要两万元。",
+        "pinyin": "zhe4 ge4 shou3 ji1 yao4 liang3 wan4 yuan2"
+      },
+      {
+        "zh": "这个大学有三万多个学生。",
+        "pinyin": "zhe4 ge4 da4 xue2 you3 san1 wan4 duo1 ge4 xue2 sheng1"
+      },
+      {
+        "zh": "为了买这个房子，他们准备了五十万元。",
+        "pinyin": "wei4 le5 mai3 zhe4 ge4 fang2 zi5 ta1 men5 zhun3 bei4 le5 wu3 shi2 wan4 yuan2"
+      }
+    ]
+  },
+  {
+    "word": "市场",
+    "examples": [
+      {
+        "zh": "这个市场很大。",
+        "pinyin": "zhe4 ge4 shi4 chang3 hen3 da4"
+      },
+      {
+        "zh": "我去市场买东西。",
+        "pinyin": "wo3 qu4 shi4 chang3 mai3 dong1 xi5"
+      },
+      {
+        "zh": "中国市场对这家公司非常重要。",
+        "pinyin": "zhong1 guo2 shi4 chang3 dui4 zhe4 jia1 gong1 si1 fei1 chang2 zhong4 yao4"
+      },
+      {
+        "zh": "我们需要了解市场，才能决定下一步的计划。",
+        "pinyin": "wo3 men5 xu1 yao4 liao3 jie3 shi4 chang3 cai2 neng2 jue2 ding4 xia4 yi1 bu4 de5 ji4 hua4"
+      }
+    ]
+  },
+  {
+    "word": "山",
+    "examples": [
+      {
+        "zh": "那座山很高。",
+        "pinyin": "na4 zuo4 shan1 hen3 gao1"
+      },
+      {
+        "zh": "我们明天去爬山吧。",
+        "pinyin": "wo3 men5 ming2 tian1 qu4 pa2 shan1 ba5"
+      },
+      {
+        "zh": "我家后面有一座小山。",
+        "pinyin": "wo3 jia1 hou4 mian4 you3 yi1 zuo4 xiao3 shan1"
+      },
+      {
+        "zh": "山上的天气变化很快，最好多带一件衣服。",
+        "pinyin": "shan1 shang4 de5 tian1 qi4 bian4 hua4 hen3 kuai4 zui4 hao3 duo1 dai4 yi1 jian4 yi1 fu5"
+      }
+    ]
+  },
+  {
+    "word": "小姐",
+    "examples": [
+      {
+        "zh": "小姐，你好！",
+        "pinyin": "xiao3 jie5 ni3 hao3"
+      },
+      {
+        "zh": "王小姐是我的老师。",
+        "pinyin": "wang2 xiao3 jie5 shi4 wo3 de5 lao3 shi1"
+      },
+      {
+        "zh": "小姐，请问这个多少钱？",
+        "pinyin": "xiao3 jie5 qing3 wen4 zhe4 ge4 duo1 shao5 qian2"
+      },
+      {
+        "zh": "李小姐明天要坐飞机去上海开会。",
+        "pinyin": "li3 xiao3 jie5 ming2 tian1 yao4 zuo4 fei1 ji1 qu4 shang4 hai3 kai1 hui4"
+      }
+    ]
+  },
+  {
+    "word": "没什么",
+    "examples": [
+      {
+        "zh": "没什么，不用谢。",
+        "pinyin": "mei2 shen2 me5 bu4 yong4 xie4"
+      },
+      {
+        "zh": "你怎么了？没什么，我很好。",
+        "pinyin": "ni3 zen3 me5 le5 mei2 shen2 me5 wo3 hen3 hao3"
+      },
+      {
+        "zh": "这没什么，大家都有错的时候。",
+        "pinyin": "zhe4 mei2 shen2 me5 da4 jia1 dou1 you3 cuo4 de5 shi2 hou5"
+      },
+      {
+        "zh": "考试没考好也没什么，下次认真学习就好。",
+        "pinyin": "kao3 shi4 mei2 kao3 hao3 ye3 mei2 shen2 me5 xia4 ci4 ren4 zhen1 xue2 xi2 jiu4 hao3"
+      }
+    ]
+  },
+  {
+    "word": "肉",
+    "examples": [
+      {
+        "zh": "我不吃肉。",
+        "pinyin": "wo3 bu4 chi1 rou4"
+      },
+      {
+        "zh": "这个肉很好吃。",
+        "pinyin": "zhe4 ge4 rou4 hen3 hao3 chi1"
+      },
+      {
+        "zh": "妈妈去市场买了一些肉。",
+        "pinyin": "ma1 ma5 qu4 shi4 chang3 mai3 le5 yi1 xie1 rou4"
+      },
+      {
+        "zh": "医生说他应该少吃肉，多运动。",
+        "pinyin": "yi1 sheng1 shuo1 ta1 ying1 gai1 shao3 chi1 rou4 duo1 yun4 dong4"
+      }
+    ]
+  },
+  {
+    "word": "课",
+    "examples": [
+      {
+        "zh": "今天有课吗？",
+        "pinyin": "jin1 tian1 you3 ke4 ma5"
+      },
+      {
+        "zh": "我下午有中文课。",
+        "pinyin": "wo3 xia4 wu3 you3 zhong1 wen2 ke4"
+      },
+      {
+        "zh": "上课的时候不要玩手机。",
+        "pinyin": "shang4 ke4 de5 shi2 hou5 bu4 yao4 wan2 shou3 ji1"
+      },
+      {
+        "zh": "这本书一共有二十课，我们已经学了五课。",
+        "pinyin": "zhe4 ben3 shu1 yi1 gong4 you3 er4 shi2 ke4 wo3 men5 yi3 jing1 xue2 le5 wu3 ke4"
+      }
+    ]
+  },
+  {
+    "word": "试",
+    "examples": [
+      {
+        "zh": "我试试。",
+        "pinyin": "wo3 shi4 shi5"
+      },
+      {
+        "zh": "这件衣服你可以试一下。",
+        "pinyin": "zhe4 jian4 yi1 fu5 ni3 ke3 yi3 shi4 yi1 xia4"
+      },
+      {
+        "zh": "这个菜很好吃，你试试吧。",
+        "pinyin": "zhe4 ge4 cai4 hen3 hao3 chi1 ni3 shi4 shi5 ba5"
+      },
+      {
+        "zh": "我想试一下用中文给老师写信。",
+        "pinyin": "wo3 xiang3 shi4 yi1 xia4 yong4 zhong1 wen2 gei3 lao3 shi1 xie3 xin4"
+      }
+    ]
+  },
+  {
+    "word": "杯",
+    "examples": [
+      {
+        "zh": "我要一杯水。",
+        "pinyin": "wo3 yao4 yi1 bei1 shui3"
+      },
+      {
+        "zh": "我们一起看世界杯吧。",
+        "pinyin": "wo3 men5 yi1 qi3 kan4 shi4 jie4 bei1 ba5"
+      },
+      {
+        "zh": "天气太热了，我一天要喝八杯水。",
+        "pinyin": "tian1 qi4 tai4 re4 le5 wo3 yi1 tian1 yao4 he1 ba1 bei1 shui3"
+      },
+      {
+        "zh": "朋友来家里，妈妈给每个人一杯热水。",
+        "pinyin": "peng2 you5 lai2 jia1 li3 ma1 ma5 gei3 mei3 ge4 ren2 yi1 bei1 re4 shui3"
+      }
+    ]
+  },
+  {
+    "word": "对不起",
+    "examples": [
+      {
+        "zh": "对不起，我来晚了。",
+        "pinyin": "dui4 bu5 qi3 wo3 lai2 wan3 le5"
+      },
+      {
+        "zh": "对不起，请问机场怎么走？",
+        "pinyin": "dui4 bu5 qi3 qing3 wen4 ji1 chang3 zen3 me5 zou3"
+      },
+      {
+        "zh": "对不起，我忘记你的生日了。",
+        "pinyin": "dui4 bu5 qi3 wo3 wang4 ji4 ni3 de5 sheng1 ri4 le5"
+      },
+      {
+        "zh": "我觉得对不起妈妈，因为我没有好好学习。",
+        "pinyin": "wo3 jue2 de5 dui4 bu5 qi3 ma1 ma5 yin1 wei4 wo3 mei2 you3 hao3 hao3 xue2 xi2"
+      }
+    ]
+  },
+  {
+    "word": "生日",
+    "examples": [
+      {
+        "zh": "今天是我的生日。",
+        "pinyin": "jin1 tian1 shi4 wo3 de5 sheng1 ri4"
+      },
+      {
+        "zh": "祝你生日快乐！",
+        "pinyin": "zhu4 ni3 sheng1 ri4 kuai4 le4"
+      },
+      {
+        "zh": "你的生日是几月几号？",
+        "pinyin": "ni3 de5 sheng1 ri4 shi4 ji3 yue4 ji3 hao4"
+      },
+      {
+        "zh": "妹妹生日那天我们一起去吃饭，还送了她一本书。",
+        "pinyin": "mei4 mei5 sheng1 ri4 na4 tian1 wo3 men5 yi1 qi3 qu4 chi1 fan4 hai2 song4 le5 ta1 yi1 ben3 shu1"
+      }
+    ]
+  },
+  {
+    "word": "那儿",
+    "examples": [
+      {
+        "zh": "你去那儿吗？",
+        "pinyin": "ni3 qu4 na4 r5 ma5"
+      },
+      {
+        "zh": "我的书在那儿。",
+        "pinyin": "wo3 de5 shu1 zai4 na4 r5"
+      },
+      {
+        "zh": "那儿的天气很好，不太热。",
+        "pinyin": "na4 r5 de5 tian1 qi4 hen3 hao3 bu4 tai4 re4"
+      },
+      {
+        "zh": "我上次去那儿的时候，认识了很多新朋友。",
+        "pinyin": "wo3 shang4 ci4 qu4 na4 r5 de5 shi2 hou5 ren4 shi5 le5 hen3 duo1 xin1 peng2 you5"
+      }
+    ]
+  }
+]

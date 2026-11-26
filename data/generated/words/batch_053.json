@@ -1,0 +1,546 @@
+[
+  {
+    "word": "目的",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "propósito",
+      "objetivo",
+      "fin"
+    ],
+    "examples": [
+      {
+        "zh": "你的目的是什么？",
+        "es": "¿Cuál es tu propósito?"
+      },
+      {
+        "zh": "我来这里的目的是学习汉语。",
+        "es": "Vine aquí con el objetivo de aprender chino."
+      },
+      {
+        "zh": "他做这件事有什么目的？",
+        "es": "¿Con qué propósito hace él esto?"
+      },
+      {
+        "zh": "这次会议的主要目的是讨论新的计划。",
+        "es": "El objetivo principal de esta reunión es discutir el nuevo plan."
+      }
+    ]
+  },
+  {
+    "word": "拍",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tomar (una foto)",
+      "filmar",
+      "dar palmaditas",
+      "aplaudir"
+    ],
+    "examples": [
+      {
+        "zh": "我们拍一张照片吧。",
+        "es": "Tomemos una foto."
+      },
+      {
+        "zh": "他喜欢拍电影。",
+        "es": "A él le gusta filmar películas."
+      },
+      {
+        "zh": "妈妈拍了拍孩子的头。",
+        "es": "La mamá le dio unas palmaditas en la cabeza al niño."
+      },
+      {
+        "zh": "这些照片都是我去年在北京拍的。",
+        "es": "Todas estas fotos las tomé el año pasado en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "确实",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "realmente",
+      "de verdad",
+      "efectivamente",
+      "cierto"
+    ],
+    "examples": [
+      {
+        "zh": "他确实很忙。",
+        "es": "Él realmente está muy ocupado."
+      },
+      {
+        "zh": "这个问题确实很难。",
+        "es": "Este problema es realmente difícil."
+      },
+      {
+        "zh": "你说得对，我确实忘了。",
+        "es": "Tienes razón, de verdad se me olvidó."
+      },
+      {
+        "zh": "经过调查，我们发现这个消息确实是真的。",
+        "es": "Después de investigar, descubrimos que la noticia efectivamente era cierta."
+      }
+    ]
+  },
+  {
+    "word": "系",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "departamento (universitario)",
+      "facultad",
+      "sistema"
+    ],
+    "examples": [
+      {
+        "zh": "你在哪个系？",
+        "es": "¿En qué departamento estás?"
+      },
+      {
+        "zh": "他是中文系的学生。",
+        "es": "Él es estudiante del departamento de chino."
+      },
+      {
+        "zh": "我姐姐在大学的历史系工作。",
+        "es": "Mi hermana mayor trabaja en el departamento de historia de la universidad."
+      },
+      {
+        "zh": "这个系的老师都很认真，学生也很努力。",
+        "es": "Los profesores de este departamento son muy dedicados y los estudiantes también se esfuerzan mucho."
+      }
+    ]
+  },
+  {
+    "word": "现场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lugar de los hechos",
+      "en vivo",
+      "en el lugar"
+    ],
+    "examples": [
+      {
+        "zh": "警察已经到现场了。",
+        "es": "La policía ya llegó al lugar de los hechos."
+      },
+      {
+        "zh": "我想去现场看比赛。",
+        "es": "Quiero ir a ver el partido en vivo."
+      },
+      {
+        "zh": "记者在现场报告新闻。",
+        "es": "El reportero informa las noticias desde el lugar."
+      },
+      {
+        "zh": "事件发生后，很多人马上来到了现场。",
+        "es": "Después del incidente, mucha gente llegó enseguida al lugar."
+      }
+    ]
+  },
+  {
+    "word": "现象",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fenómeno",
+      "manifestación"
+    ],
+    "examples": [
+      {
+        "zh": "这是一种自然现象。",
+        "es": "Este es un fenómeno natural."
+      },
+      {
+        "zh": "这种现象在城市里很多。",
+        "es": "Este fenómeno es muy común en las ciudades."
+      },
+      {
+        "zh": "科学家正在研究这个现象。",
+        "es": "Los científicos están estudiando este fenómeno."
+      },
+      {
+        "zh": "我们应该注意社会上出现的新现象。",
+        "es": "Debemos prestar atención a los nuevos fenómenos que aparecen en la sociedad."
+      }
+    ]
+  },
+  {
+    "word": "重新",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de nuevo",
+      "otra vez",
+      "volver a"
+    ],
+    "examples": [
+      {
+        "zh": "请重新说一次。",
+        "es": "Por favor, dilo otra vez."
+      },
+      {
+        "zh": "我要重新开始。",
+        "es": "Quiero empezar de nuevo."
+      },
+      {
+        "zh": "电脑有问题，你重新打开试试。",
+        "es": "La computadora tiene un problema; intenta volver a encenderla."
+      },
+      {
+        "zh": "老师让我们把这篇文章重新写一次。",
+        "es": "El maestro nos pidió volver a escribir este texto."
+      }
+    ]
+  },
+  {
+    "word": "且",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "y",
+      "además",
+      "incluso",
+      "por ahora"
+    ],
+    "examples": [
+      {
+        "zh": "这个房子大且干净。",
+        "es": "Esta casa es grande y limpia."
+      },
+      {
+        "zh": "这个方法简单且有用。",
+        "es": "Este método es sencillo y útil."
+      },
+      {
+        "zh": "这家饭店的菜好吃且不贵。",
+        "es": "La comida de este restaurante es rica y no es cara."
+      },
+      {
+        "zh": "这个问题很重要，且需要马上解决。",
+        "es": "Este problema es importante y, además, hay que resolverlo de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "人士",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "persona (de cierto ámbito)",
+      "figura",
+      "personalidad"
+    ],
+    "examples": [
+      {
+        "zh": "他是一位有名的人士。",
+        "es": "Él es una figura muy conocida."
+      },
+      {
+        "zh": "很多专业人士参加了会议。",
+        "es": "Muchos profesionales participaron en la reunión."
+      },
+      {
+        "zh": "有关人士表示，这个计划明年开始。",
+        "es": "Personas vinculadas al tema dijeron que el plan empezará el próximo año."
+      },
+      {
+        "zh": "社会各方面的人士都支持这个决定。",
+        "es": "Personas de todos los sectores de la sociedad apoyan esta decisión."
+      }
+    ]
+  },
+  {
+    "word": "军队",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ejército",
+      "fuerzas armadas",
+      "tropas"
+    ],
+    "examples": [
+      {
+        "zh": "他在军队工作。",
+        "es": "Él trabaja en el ejército."
+      },
+      {
+        "zh": "国家需要一支强大的军队。",
+        "es": "El país necesita un ejército fuerte."
+      },
+      {
+        "zh": "军队来帮助这个地区的人民。",
+        "es": "El ejército vino a ayudar a la gente de esta región."
+      },
+      {
+        "zh": "战争开始以后，政府派军队保护这座城市。",
+        "es": "Después de que empezó la guerra, el gobierno envió tropas a proteger esta ciudad."
+      }
+    ]
+  },
+  {
+    "word": "大陆",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "China continental",
+      "continente",
+      "tierra firme"
+    ],
+    "examples": [
+      {
+        "zh": "他是从大陆来的。",
+        "es": "Él viene de China continental."
+      },
+      {
+        "zh": "我明年想去大陆旅游。",
+        "es": "El próximo año quiero ir de viaje a China continental."
+      },
+      {
+        "zh": "很多台湾人在大陆工作。",
+        "es": "Muchos taiwaneses trabajan en China continental."
+      },
+      {
+        "zh": "这几年，很多大陆学生去香港的大学学习。",
+        "es": "En los últimos años, muchos estudiantes de China continental han ido a estudiar a universidades de Hong Kong."
+      }
+    ]
+  },
+  {
+    "word": "官员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "funcionario",
+      "oficial (de gobierno)"
+    ],
+    "examples": [
+      {
+        "zh": "他是政府官员。",
+        "es": "Él es funcionario del gobierno."
+      },
+      {
+        "zh": "这位官员很年轻。",
+        "es": "Este funcionario es muy joven."
+      },
+      {
+        "zh": "官员们正在开会讨论这个问题。",
+        "es": "Los funcionarios están en una reunión discutiendo este problema."
+      },
+      {
+        "zh": "记者问那位官员，政府为什么做这个决定。",
+        "es": "El periodista le preguntó a ese funcionario por qué el gobierno tomó esa decisión."
+      }
+    ]
+  },
+  {
+    "word": "引起",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "provocar",
+      "causar",
+      "despertar (interés, atención)"
+    ],
+    "examples": [
+      {
+        "zh": "这件事引起了很多问题。",
+        "es": "Este asunto causó muchos problemas."
+      },
+      {
+        "zh": "他的话引起了大家的注意。",
+        "es": "Sus palabras llamaron la atención de todos."
+      },
+      {
+        "zh": "这部电影引起了很多人的关注。",
+        "es": "Esta película despertó el interés de mucha gente."
+      },
+      {
+        "zh": "专家认为，这种现象是由天气变化引起的。",
+        "es": "Los expertos creen que este fenómeno es causado por los cambios del clima."
+      }
+    ]
+  },
+  {
+    "word": "稳定",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estable",
+      "estabilidad",
+      "estabilizar"
+    ],
+    "examples": [
+      {
+        "zh": "他的工作很稳定。",
+        "es": "Su trabajo es muy estable."
+      },
+      {
+        "zh": "最近天气不太稳定。",
+        "es": "Últimamente el clima no está muy estable."
+      },
+      {
+        "zh": "这个国家的经济比较稳定。",
+        "es": "La economía de este país es bastante estable."
+      },
+      {
+        "zh": "政府希望通过新政策来稳定市场价格。",
+        "es": "El gobierno espera estabilizar los precios del mercado con nuevas políticas."
+      }
+    ]
+  },
+  {
+    "word": "加强",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "fortalecer",
+      "reforzar",
+      "intensificar"
+    ],
+    "examples": [
+      {
+        "zh": "我们要加强学习。",
+        "es": "Debemos reforzar nuestro estudio."
+      },
+      {
+        "zh": "两个国家要加强合作。",
+        "es": "Los dos países deben fortalecer su cooperación."
+      },
+      {
+        "zh": "学校加强了安全管理。",
+        "es": "La escuela reforzó las medidas de seguridad."
+      },
+      {
+        "zh": "政府决定加强对城市环境的保护和管理。",
+        "es": "El gobierno decidió reforzar la protección y gestión del medio ambiente urbano."
+      }
+    ]
+  },
+  {
+    "word": "教师",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "maestro",
+      "profesor",
+      "docente"
+    ],
+    "examples": [
+      {
+        "zh": "我妈妈是教师。",
+        "es": "Mi mamá es maestra."
+      },
+      {
+        "zh": "他想成为一名教师。",
+        "es": "Él quiere ser maestro."
+      },
+      {
+        "zh": "这个学校有五十多名教师。",
+        "es": "Esta escuela tiene más de cincuenta docentes."
+      },
+      {
+        "zh": "好的教师不仅教知识，还关心学生的生活。",
+        "es": "Un buen maestro no solo enseña conocimientos, sino que también se preocupa por la vida de sus alumnos."
+      }
+    ]
+  },
+  {
+    "word": "金",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "oro",
+      "dorado",
+      "dinero",
+      "metal"
+    ],
+    "examples": [
+      {
+        "zh": "这是金的吗？",
+        "es": "¿Esto es de oro?"
+      },
+      {
+        "zh": "他买了一块金手表。",
+        "es": "Él compró un reloj de oro."
+      },
+      {
+        "zh": "他在比赛中得到了金牌。",
+        "es": "Ganó la medalla de oro en la competencia."
+      },
+      {
+        "zh": "在中国，很多老人喜欢把钱用来买金子。",
+        "es": "En China, a muchas personas mayores les gusta usar su dinero para comprar oro."
+      }
+    ]
+  },
+  {
+    "word": "近",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cerca",
+      "cercano",
+      "casi",
+      "aproximadamente"
+    ],
+    "examples": [
+      {
+        "zh": "我家离学校很近。",
+        "es": "Mi casa está muy cerca de la escuela."
+      },
+      {
+        "zh": "银行就在附近。",
+        "es": "El banco está aquí cerca."
+      },
+      {
+        "zh": "这个城市近年来变化很大。",
+        "es": "Esta ciudad ha cambiado mucho en los últimos años."
+      },
+      {
+        "zh": "这家公司已经有近一百年的历史了。",
+        "es": "Esta empresa ya tiene casi cien años de historia."
+      }
+    ]
+  },
+  {
+    "word": "联合",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "unir(se)",
+      "en conjunto",
+      "conjunto",
+      "alianza"
+    ],
+    "examples": [
+      {
+        "zh": "我们联合起来吧。",
+        "es": "Unámonos."
+      },
+      {
+        "zh": "两家公司联合开发新产品。",
+        "es": "Las dos empresas desarrollan juntas un nuevo producto."
+      },
+      {
+        "zh": "这个活动由三所大学联合举行。",
+        "es": "Esta actividad la organizan en conjunto tres universidades."
+      },
+      {
+        "zh": "各国应该联合起来，共同解决环境问题。",
+        "es": "Los países deberían unirse para resolver juntos los problemas ambientales."
+      }
+    ]
+  },
+  {
+    "word": "强调",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enfatizar",
+      "recalcar",
+      "destacar"
+    ],
+    "examples": [
+      {
+        "zh": "老师强调了这个问题。",
+        "es": "El maestro recalcó este punto."
+      },
+      {
+        "zh": "他一直强调安全很重要。",
+        "es": "Él siempre recalca que la seguridad es importante."
+      },
+      {
+        "zh": "我想强调一下，明天的会议很重要。",
+        "es": "Quiero recalcar que la reunión de mañana es muy importante."
+      },
+      {
+        "zh": "政府在报告中强调要加强对环境的保护。",
+        "es": "En el informe, el gobierno enfatizó que hay que reforzar la protección del medio ambiente."
+      }
+    ]
+  }
+]

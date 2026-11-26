@@ -1,0 +1,168 @@
+[
+  {
+    "id": "word:晚饭",
+    "ok": true,
+    "issues": [],
+    "content_hash": "456fcf6c522482b9550b207b69cbddbe74a10995"
+  },
+  {
+    "id": "word:变化",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1dda98e284d9c5c8ba80156fbfd894ee62632597"
+  },
+  {
+    "id": "word:星期天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e80730249993a92f32a1ae2408e85a6359a41ec"
+  },
+  {
+    "id": "word:经验",
+    "ok": false,
+    "issues": [
+      "El significado verbal «vivir, experimentar» es arcaico en el chino moderno (se usa 经历/体验); puede confundir al estudiante.",
+      "Pinyin: en 开得很好, 得 es «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "550bc2235b7ed3288585f4e1e08c53309c56ce0a"
+  },
+  {
+    "id": "word:一点儿",
+    "ok": false,
+    "issues": [
+      "Pinyin: el sufijo 儿 de erhua se escribe pegado como «r» (yì diǎnr), no como sílaba separada «ér»; esto ocurre en todos los ejemplos."
+    ],
+    "content_hash": "48eabd0be3c2b663d19da15c2397e9dd104b8362"
+  },
+  {
+    "id": "word:请坐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "56e5392e278e37866a67eaee0a040223aadf7101"
+  },
+  {
+    "id": "word:显示",
+    "ok": true,
+    "issues": [],
+    "content_hash": "35357ff3a2d78c577369de6f1583c59ac2ed28db"
+  },
+  {
+    "id": "word:性",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9778eaf87e8bc60a69cbe80dd98f8b8a7f091d9"
+  },
+  {
+    "id": "word:放假",
+    "ok": false,
+    "issues": [
+      "Pinyin: en 看家人, 看 se lee «kàn» (visitar/ver), no «kān»."
+    ],
+    "content_hash": "6b63364e12af38b1e36f82fcf59d2300c6faa003"
+  },
+  {
+    "id": "word:语言",
+    "ok": true,
+    "issues": [],
+    "content_hash": "df3a47a9b53956d69a19b2edfd532f442323cc6a"
+  },
+  {
+    "id": "word:车票",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fd04e3c6c34ff203b9239e3385404a3497584a04"
+  },
+  {
+    "id": "word:增长",
+    "ok": false,
+    "issues": [
+      "«公司的钱增长了很多» es poco natural; lo normal sería 收入/利润增长了很多.",
+      "Pinyin: en 增长得非常快, 得 es «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "260b3a4c51d691ef062f0cda39624d3d2f739e67"
+  },
+  {
+    "id": "word:电视机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9c569f823392bd36220fbc44f4a1494b57e17b28"
+  },
+  {
+    "id": "word:指",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9bfcc4e9abde8ae38eeaab177f4ace6916a1803"
+  },
+  {
+    "id": "word:好听",
+    "ok": false,
+    "issues": [
+      "Pinyin: en 唱得很好听, 得 es «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "7882424dd7642873ff6376e1d83659f422ac3ccc"
+  },
+  {
+    "id": "word:之一",
+    "ok": true,
+    "issues": [],
+    "content_hash": "641e1f1c266c33acbeb6eab4330cd893d381b861"
+  },
+  {
+    "id": "word:官方",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1987430f31c39e5721622b6b8c1c424c321d3e0"
+  },
+  {
+    "id": "word:课本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e4c5d60b844ed7ac8183d1c04e631e74ae93b4f"
+  },
+  {
+    "id": "word:德国",
+    "ok": true,
+    "issues": [],
+    "content_hash": "212e48461be4694f519937f251c4d1a0bc0455ac"
+  },
+  {
+    "id": "word:北边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "452cc0a3a28d757f7e0ececb9296662b32160c87"
+  },
+  {
+    "id": "word:标准",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3e089aadbe8f01b4385cb2308207c5f834ae959"
+  },
+  {
+    "id": "word:弟",
+    "ok": false,
+    "issues": [
+      "El significado «joven (trato a un hombre menor)» es engañoso: 弟 solo no se usa como tratamiento; se usa 老弟 o 小弟."
+    ],
+    "content_hash": "c08c41613e7398b094760e5a7ab080a6d54b0ed3"
+  },
+  {
+    "id": "word:部门",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86ab6114db4b2c677795282c2966759894de987a"
+  },
+  {
+    "id": "word:关上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c74734b48409f8bbd78495ccc7418303ff114b05"
+  },
+  {
+    "id": "word:价格",
+    "ok": false,
+    "issues": [
+      "«价格都增加了» es poco natural; para precios se dice 价格都上涨了 o 都涨价了."
+    ],
+    "content_hash": "b532b8d9bf14cc27de9c45c14a1f5ea35b63d148"
+  }
+]

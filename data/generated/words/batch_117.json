@@ -1,0 +1,531 @@
+[
+  {
+    "word": "影视",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cine y televisión",
+      "audiovisual"
+    ],
+    "examples": [
+      {
+        "zh": "他在影视公司工作。",
+        "es": "Él trabaja en una productora de cine y televisión."
+      },
+      {
+        "zh": "我很喜欢看影视作品。",
+        "es": "Me gusta mucho ver películas y series."
+      },
+      {
+        "zh": "她大学学的是影视专业。",
+        "es": "En la universidad ella estudió la carrera de cine y televisión."
+      },
+      {
+        "zh": "这几年中国的影视发展得非常快。",
+        "es": "En los últimos años, el cine y la televisión de China se han desarrollado muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "保安",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "guardia de seguridad",
+      "vigilante",
+      "seguridad pública"
+    ],
+    "examples": [
+      {
+        "zh": "我爸爸是保安。",
+        "es": "Mi papá es guardia de seguridad."
+      },
+      {
+        "zh": "门口有一个保安。",
+        "es": "Hay un guardia de seguridad en la entrada."
+      },
+      {
+        "zh": "保安不让我们进去。",
+        "es": "El guardia de seguridad no nos deja entrar."
+      },
+      {
+        "zh": "晚上公司里只有一个保安在工作。",
+        "es": "En la noche solo hay un vigilante trabajando en la empresa."
+      }
+    ]
+  },
+  {
+    "word": "志愿",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aspiración, sueño",
+      "opción (de universidad al postular)",
+      "voluntad propia, voluntariado"
+    ],
+    "examples": [
+      {
+        "zh": "我的志愿是当老师。",
+        "es": "Mi sueño es ser maestro."
+      },
+      {
+        "zh": "他的第一志愿是北京大学。",
+        "es": "Su primera opción es la Universidad de Pekín."
+      },
+      {
+        "zh": "她大学时当过志愿者。",
+        "es": "Cuando estaba en la universidad, ella fue voluntaria."
+      },
+      {
+        "zh": "他从小的志愿就是当一名医生，帮助病人。",
+        "es": "Desde niño, su sueño ha sido ser médico y ayudar a los enfermos."
+      }
+    ]
+  },
+  {
+    "word": "不安",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "inquieto, intranquilo",
+      "preocupado",
+      "inestable"
+    ],
+    "examples": [
+      {
+        "zh": "我心里很不安。",
+        "es": "Me siento muy intranquilo."
+      },
+      {
+        "zh": "他看起来有点不安。",
+        "es": "Él se ve un poco inquieto."
+      },
+      {
+        "zh": "听到这个消息，妈妈感到很不安。",
+        "es": "Al oír la noticia, mi mamá se sintió muy preocupada."
+      },
+      {
+        "zh": "孩子很晚还没回家，父母非常不安。",
+        "es": "Ya es muy tarde y el niño no ha vuelto a casa; sus padres están muy preocupados."
+      }
+    ]
+  },
+  {
+    "word": "代表团",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "delegación"
+    ],
+    "examples": [
+      {
+        "zh": "代表团已经到了。",
+        "es": "La delegación ya llegó."
+      },
+      {
+        "zh": "美国代表团明天来北京。",
+        "es": "La delegación de Estados Unidos llega mañana a Pekín."
+      },
+      {
+        "zh": "机场有很多人欢迎代表团。",
+        "es": "En el aeropuerto había mucha gente dándole la bienvenida a la delegación."
+      },
+      {
+        "zh": "这次会议有二十多个国家的代表团参加。",
+        "es": "En esta conferencia participan delegaciones de más de veinte países."
+      }
+    ]
+  },
+  {
+    "word": "哈哈",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "¡jaja! (risa)",
+      "carcajada"
+    ],
+    "examples": [
+      {
+        "zh": "哈哈，太好了！",
+        "es": "¡Jaja, qué bien!"
+      },
+      {
+        "zh": "哈哈，你的笑话太有意思了！",
+        "es": "¡Jaja, tu chiste está buenísimo!"
+      },
+      {
+        "zh": "他看完电影，哈哈大笑起来。",
+        "es": "Después de ver la película, se echó a reír a carcajadas."
+      },
+      {
+        "zh": "听了朋友的故事，大家都哈哈地笑了起来。",
+        "es": "Al escuchar la historia del amigo, todos soltaron la carcajada."
+      }
+    ]
+  },
+  {
+    "word": "球迷",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aficionado (al fútbol u otros deportes de pelota)",
+      "hincha",
+      "fanático"
+    ],
+    "examples": [
+      {
+        "zh": "我哥哥是个球迷。",
+        "es": "Mi hermano mayor es aficionado al fútbol."
+      },
+      {
+        "zh": "球场里有很多球迷。",
+        "es": "En el estadio hay muchos aficionados."
+      },
+      {
+        "zh": "很多球迷来机场接球队。",
+        "es": "Muchos hinchas vinieron al aeropuerto a recibir al equipo."
+      },
+      {
+        "zh": "比赛结束以后，球迷们在路上唱歌。",
+        "es": "Después del partido, los aficionados cantaban en la calle."
+      }
+    ]
+  },
+  {
+    "word": "订",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "reservar",
+      "encargar, pedir",
+      "suscribirse (a un periódico, revista, etc.)",
+      "establecer, acordar"
+    ],
+    "examples": [
+      {
+        "zh": "我想订一个房间。",
+        "es": "Quiero reservar una habitación."
+      },
+      {
+        "zh": "你订机票了吗？",
+        "es": "¿Ya reservaste el boleto de avión?"
+      },
+      {
+        "zh": "他每年都订这本杂志。",
+        "es": "Él se suscribe a esta revista cada año."
+      },
+      {
+        "zh": "我在网上订了两张去上海的火车票。",
+        "es": "Reservé por internet dos boletos de tren a Shanghái."
+      }
+    ]
+  },
+  {
+    "word": "整天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo el día",
+      "el día entero"
+    ],
+    "examples": [
+      {
+        "zh": "他整天玩游戏。",
+        "es": "Él se la pasa jugando videojuegos todo el día."
+      },
+      {
+        "zh": "我今天整天都在家。",
+        "es": "Hoy estuve en casa todo el día."
+      },
+      {
+        "zh": "她整天工作，很少休息。",
+        "es": "Ella trabaja todo el día y casi no descansa."
+      },
+      {
+        "zh": "你不能整天看手机，应该多出去运动。",
+        "es": "No puedes estar todo el día con el celular; deberías salir más a hacer ejercicio."
+      }
+    ]
+  },
+  {
+    "word": "单元",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "unidad (de un libro o curso)",
+      "entrada o torre (de un edificio de departamentos)",
+      "unidad, elemento"
+    ],
+    "examples": [
+      {
+        "zh": "我们今天学第三单元。",
+        "es": "Hoy estudiamos la unidad tres."
+      },
+      {
+        "zh": "这个单元的课文很难。",
+        "es": "Los textos de esta unidad son muy difíciles."
+      },
+      {
+        "zh": "我家住在三单元六楼。",
+        "es": "Vivo en la entrada tres, sexto piso."
+      },
+      {
+        "zh": "考试以前，老师让我们复习前五个单元。",
+        "es": "Antes del examen, el maestro nos pidió repasar las primeras cinco unidades."
+      }
+    ]
+  },
+  {
+    "word": "接待",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recibir (a visitantes)",
+      "atender (a clientes o invitados)",
+      "hospedar"
+    ],
+    "examples": [
+      {
+        "zh": "她在门口接待客人。",
+        "es": "Ella recibe a los invitados en la entrada."
+      },
+      {
+        "zh": "公司让我接待外国客人。",
+        "es": "La empresa me pidió atender a los clientes extranjeros."
+      },
+      {
+        "zh": "这家饭店每天接待很多游客。",
+        "es": "Este hotel recibe a muchos turistas cada día."
+      },
+      {
+        "zh": "上个月，我们学校接待了一些美国老师。",
+        "es": "El mes pasado, nuestra escuela recibió a unos maestros de Estados Unidos."
+      }
+    ]
+  },
+  {
+    "word": "空调",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aire acondicionado",
+      "aparato de aire acondicionado"
+    ],
+    "examples": [
+      {
+        "zh": "请打开空调。",
+        "es": "Por favor, prende el aire acondicionado."
+      },
+      {
+        "zh": "太热了，开空调吧。",
+        "es": "Hace mucho calor, prendamos el aire acondicionado."
+      },
+      {
+        "zh": "这个房间的空调坏了。",
+        "es": "El aire acondicionado de este cuarto está descompuesto."
+      },
+      {
+        "zh": "夏天晚上睡觉时，我常常开着空调。",
+        "es": "En verano, suelo dormir con el aire acondicionado prendido."
+      }
+    ]
+  },
+  {
+    "word": "裤子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pantalón",
+      "pantalones"
+    ],
+    "examples": [
+      {
+        "zh": "你的裤子很好看。",
+        "es": "Tu pantalón está muy bonito."
+      },
+      {
+        "zh": "我想买一条黑色的裤子。",
+        "es": "Quiero comprar un pantalón negro."
+      },
+      {
+        "zh": "他今天穿了一条新裤子。",
+        "es": "Hoy él se puso un pantalón nuevo."
+      },
+      {
+        "zh": "这条裤子太贵了，有没有便宜一点的？",
+        "es": "Este pantalón es muy caro, ¿no tiene uno más barato?"
+      }
+    ]
+  },
+  {
+    "word": "价钱",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "precio",
+      "costo"
+    ],
+    "examples": [
+      {
+        "zh": "价钱太贵了。",
+        "es": "El precio es muy caro."
+      },
+      {
+        "zh": "这件衣服的价钱是多少？",
+        "es": "¿Cuál es el precio de esta ropa?"
+      },
+      {
+        "zh": "我们可以谈谈价钱吗？",
+        "es": "¿Podemos hablar del precio?"
+      },
+      {
+        "zh": "这家店东西不错，价钱也不贵，所以客人很多。",
+        "es": "Esta tienda tiene cosas buenas y los precios no son caros, por eso tiene muchos clientes."
+      }
+    ]
+  },
+  {
+    "word": "亲人",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "familiares cercanos",
+      "seres queridos",
+      "parientes"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的亲人。",
+        "es": "Él es mi familiar."
+      },
+      {
+        "zh": "我很想家里的亲人。",
+        "es": "Extraño mucho a mi familia."
+      },
+      {
+        "zh": "过年的时候，大家都回家看亲人。",
+        "es": "En Año Nuevo, todos regresan a casa a ver a sus seres queridos."
+      },
+      {
+        "zh": "他一个人在外国工作，已经三年没见到亲人了。",
+        "es": "Él trabaja solo en el extranjero y lleva tres años sin ver a su familia."
+      }
+    ]
+  },
+  {
+    "word": "演唱会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "concierto (de un cantante)",
+      "recital"
+    ],
+    "examples": [
+      {
+        "zh": "我想去演唱会。",
+        "es": "Quiero ir al concierto."
+      },
+      {
+        "zh": "你买到演唱会的票了吗？",
+        "es": "¿Conseguiste los boletos para el concierto?"
+      },
+      {
+        "zh": "昨天晚上的演唱会非常精彩。",
+        "es": "El concierto de anoche estuvo increíble."
+      },
+      {
+        "zh": "为了看她的演唱会，我们很早就去排队了。",
+        "es": "Para ver su concierto, fuimos a hacer fila desde muy temprano."
+      }
+    ]
+  },
+  {
+    "word": "爱心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "amor al prójimo",
+      "bondad, compasión",
+      "solidario, benéfico (en actividades)",
+      "corazón (el símbolo ♥)"
+    ],
+    "examples": [
+      {
+        "zh": "她很有爱心。",
+        "es": "Ella es muy bondadosa."
+      },
+      {
+        "zh": "他在照片上画了一个爱心。",
+        "es": "Él dibujó un corazón en la foto."
+      },
+      {
+        "zh": "我们要用爱心帮助有困难的人。",
+        "es": "Debemos ayudar con cariño a las personas que pasan por dificultades."
+      },
+      {
+        "zh": "这次爱心活动得到了很多人的支持。",
+        "es": "Esta actividad benéfica recibió el apoyo de mucha gente."
+      }
+    ]
+  },
+  {
+    "word": "大使馆",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "embajada"
+    ],
+    "examples": [
+      {
+        "zh": "我明天要去大使馆。",
+        "es": "Mañana tengo que ir a la embajada."
+      },
+      {
+        "zh": "请问，美国大使馆在哪儿？",
+        "es": "Disculpe, ¿dónde está la embajada de Estados Unidos?"
+      },
+      {
+        "zh": "她姐姐在中国大使馆工作。",
+        "es": "Su hermana mayor trabaja en la embajada de China."
+      },
+      {
+        "zh": "我的护照找不到了，只好去大使馆。",
+        "es": "No encuentro mi pasaporte, así que no me queda más que ir a la embajada."
+      }
+    ]
+  },
+  {
+    "word": "海关",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aduana"
+    ],
+    "examples": [
+      {
+        "zh": "他在海关工作。",
+        "es": "Él trabaja en la aduana."
+      },
+      {
+        "zh": "过海关要多长时间？",
+        "es": "¿Cuánto tiempo se tarda en pasar la aduana?"
+      },
+      {
+        "zh": "海关的人检查了我的包。",
+        "es": "El personal de aduana revisó mi bolsa."
+      },
+      {
+        "zh": "下飞机以后，所有旅客都要先过海关。",
+        "es": "Al bajar del avión, todos los pasajeros tienen que pasar primero por la aduana."
+      }
+    ]
+  },
+  {
+    "word": "提问",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hacer preguntas",
+      "preguntar (en clase o en público)",
+      "interrogar"
+    ],
+    "examples": [
+      {
+        "zh": "现在请大家提问。",
+        "es": "Ahora pueden hacer sus preguntas."
+      },
+      {
+        "zh": "有问题可以提问。",
+        "es": "Si tienen dudas, pueden preguntar."
+      },
+      {
+        "zh": "老师提问的时候，他什么也没说。",
+        "es": "Cuando el maestro hizo una pregunta, él no dijo nada."
+      },
+      {
+        "zh": "上课的时候，学生可以随时向老师提问。",
+        "es": "Durante la clase, los alumnos pueden hacerle preguntas al maestro en cualquier momento."
+      }
+    ]
+  }
+]

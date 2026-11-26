@@ -1,0 +1,155 @@
+[
+  {
+    "id": "char:份",
+    "ok": true,
+    "issues": [],
+    "content_hash": "353201f077e23890ee2b3f26b4410613dfd9e2fd"
+  },
+  {
+    "id": "char:画",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5387a0f99bd7ae5eba37bb176ce7d3e9ec4bace0"
+  },
+  {
+    "id": "char:申",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a02c5b23361294a8190f2967d6d9a1ab4546058"
+  },
+  {
+    "id": "char:购",
+    "ok": true,
+    "issues": [],
+    "content_hash": "54a31848c2905b6cf639dbf771f67fa0a9b4de50"
+  },
+  {
+    "id": "char:速",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e36f3d6659298d54cf609f3129d7796a01aba523"
+  },
+  {
+    "id": "char:危",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f9abc57cc25c0eb814d25c495d8f3a81573bc0ec"
+  },
+  {
+    "id": "char:险",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a4d47e5c6767cb484006cb33afa77b0e86b246c"
+  },
+  {
+    "id": "char:妇",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1d6c71089c406965f91d9cf3af944efe3a0044b"
+  },
+  {
+    "id": "char:拒",
+    "ok": true,
+    "issues": [],
+    "content_hash": "08826ba967b94315111c78d9e4f70f298292824a"
+  },
+  {
+    "id": "char:既",
+    "ok": true,
+    "issues": [],
+    "content_hash": "759d436c4f58bea061fcc7c36aca15a06ac28bc4"
+  },
+  {
+    "id": "char:阳",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c3303d122ca67d853ed65d66dd6e6de8da61055b"
+  },
+  {
+    "id": "char:监",
+    "ok": false,
+    "issues": [
+      "La lista de componentes está incompleta: falta el elemento de la izquierda (los dos trazos verticales ‖), que es la simplificación de 臣 (ojo). Tampoco se menciona el punto 丶 junto a 𠂉.",
+      "La mnemotecnia mejoraría si incluyera el ojo, que es justamente el elemento que aporta el sentido de vigilar."
+    ],
+    "content_hash": "b5ab7099a656346532803bcaf7f52b054d066713"
+  },
+  {
+    "id": "char:督",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da6d58930747ec1ead7afac5c5129382bc22aee9"
+  },
+  {
+    "id": "char:装",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d394c48a5bd6e4cc1143090ac1c42b2531f3073b"
+  },
+  {
+    "id": "char:址",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a3a1fed222c48bddc4257a3864b4313662dc2d1"
+  },
+  {
+    "id": "char:层",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2262bc1956b387a73ad0bc0fff76aa41a0f15f98"
+  },
+  {
+    "id": "char:针",
+    "ok": true,
+    "issues": [],
+    "content_hash": "530205edca41683bc7e30e9ed490368ccf2919d4"
+  },
+  {
+    "id": "char:酒",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4cf0730735e510a47338b33f71c8bd9089637ed8"
+  },
+  {
+    "id": "char:铁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b0697a944ce2e92e0d50ca0db955c49085deedd"
+  },
+  {
+    "id": "char:短",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1721809df0ac2c97a7ecae2c9f938561a6787c19"
+  },
+  {
+    "id": "char:脚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a1ad9a323d60bd0495c1fd560a786a80b157dce2"
+  },
+  {
+    "id": "char:召",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9122356fe705f6659dc2c83eb18b1d845361ccc4"
+  },
+  {
+    "id": "char:州",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5da524a9ea9e584531eeabba38060d7ff1ffc84"
+  },
+  {
+    "id": "char:评",
+    "ok": true,
+    "issues": [],
+    "content_hash": "47976ff2f75d379391ccc2392398216d6630ba8a"
+  },
+  {
+    "id": "char:挺",
+    "ok": true,
+    "issues": [],
+    "content_hash": "91d017084552c8bee4d7029156ee6f85177e93cd"
+  }
+]

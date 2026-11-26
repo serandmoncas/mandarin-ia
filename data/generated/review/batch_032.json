@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:以来",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 得 como complemento de grado se lee 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "a61425b1d8e5058d922b624e47852e67afd136cc"
+  },
+  {
+    "id": "word:爸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4337b348da61008833fc3196a0b937522aa1c7b1"
+  },
+  {
+    "id": "word:以上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8861ae03c9eb40633ff28508fadfea3661ee5189"
+  },
+  {
+    "id": "word:楼下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2394a0202102f31fe5378a9f326d1d1de51188f3"
+  },
+  {
+    "id": "word:主席",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5fcb677f03eb194ef85a5d8d45d423825eb6635b"
+  },
+  {
+    "id": "word:几个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6edaa7295c0b67ea35f0c2a58727cf3ce5c0566"
+  },
+  {
+    "id": "word:奶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7302d11d4dc90158ee91d55801e9fe3e859b7500"
+  },
+  {
+    "id": "word:未来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c6dc872f7c96e7fecfe7293c9c78bbf402a118b8"
+  },
+  {
+    "id": "word:小学生",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 都 en 连…都 se lee 'dōu', no 'dū'."
+    ],
+    "content_hash": "bae9842071dbf7903c7c4deac8b471801376e03b"
+  },
+  {
+    "id": "word:革命",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2a6097ce09822a062043a857db58103b178b98cf"
+  },
+  {
+    "id": "word:下班",
+    "ok": true,
+    "issues": [],
+    "content_hash": "250a01ae68d4307bdab94a034f12cdd7c29bf103"
+  },
+  {
+    "id": "word:除了",
+    "ok": true,
+    "issues": [],
+    "content_hash": "424ba4f1e46656f708a732ccdd1f639b0c815b74"
+  },
+  {
+    "id": "word:中学生",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a803ad2716170658a4273442ddfe23988ffb1ea7"
+  },
+  {
+    "id": "word:的话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80b74f960f8e6d1f6fb37989a302126c7905f7d3"
+  },
+  {
+    "id": "word:基本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a5246439b7244b39fe54f0702f437caa9eaaafa1"
+  },
+  {
+    "id": "word:门票",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d979b42b8f3fbabcb7dc726dadc70d635ef9e77"
+  },
+  {
+    "id": "word:价值",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c7551d9c8558eae775a95d3fdfdb25856c5b46d"
+  },
+  {
+    "id": "word:半天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "479afb02536a7a8a44922d2297c99cdaf0492626"
+  },
+  {
+    "id": "word:离开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5cd7fdcd2e4c8151d5966c475bd892a046546c06"
+  },
+  {
+    "id": "word:妹",
+    "ok": false,
+    "issues": [
+      "El ejemplo 1 usa la palabra compuesta 姐妹 ('hermanas'), que no ilustra 妹 con el significado de 'hermana menor'; puede confundir al estudiante."
+    ],
+    "content_hash": "0f445498e4d59bfa600f14604438f75de2018c0e"
+  },
+  {
+    "id": "word:下雨",
+    "ok": false,
+    "issues": [
+      "Traducción dudosa del ejemplo 1: 今天下雨了 suele significar 'Hoy está lloviendo' o 'Ya empezó a llover', no necesariamente 'Hoy llovió'."
+    ],
+    "content_hash": "c1e6bc4791119be81880422566784930eecf27ca"
+  },
+  {
+    "id": "word:条",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9716252e1a122fa38ed005625fbdd8e136750b9e"
+  },
+  {
+    "id": "word:注意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bc8b1bfded0c05164130c50115ba263dfc2ed387"
+  },
+  {
+    "id": "word:小朋友",
+    "ok": true,
+    "issues": [],
+    "content_hash": "47ae91761837f8f535a7c9575dfbe4f586baf25f"
+  },
+  {
+    "id": "word:反",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb9ccf7fc8a6f0b1d0189e0a034e661c36e89983"
+  }
+]

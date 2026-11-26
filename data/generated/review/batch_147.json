@@ -1,0 +1,158 @@
+[
+  {
+    "id": "phrase:shopping:022",
+    "ok": true,
+    "issues": [],
+    "content_hash": "484ce7d35cdecd9e45667bf4f9ee8fa95dc7f959"
+  },
+  {
+    "id": "phrase:shopping:023",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca6e3c5b1654c4b9f1c0022e193af3d7083532ae"
+  },
+  {
+    "id": "phrase:shopping:024",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f61e4414ad7a6e781c15b47c27f089ee04091d3"
+  },
+  {
+    "id": "phrase:shopping:025",
+    "ok": true,
+    "issues": [],
+    "content_hash": "31f09a626bea111393eaae7cd0952530f21ab8ae"
+  },
+  {
+    "id": "phrase:shopping:026",
+    "ok": true,
+    "issues": [],
+    "content_hash": "62d455c3934cf475d9746cd1e896bff0ac0a9168"
+  },
+  {
+    "id": "phrase:shopping:027",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb8f22ecb42886489ead31cc0241625a80cd3695"
+  },
+  {
+    "id": "phrase:directions:000",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ac6752081e714b2ce7d7fcb0224228fdfd365a07"
+  },
+  {
+    "id": "phrase:directions:001",
+    "ok": true,
+    "issues": [],
+    "content_hash": "691ee1f7cdb61b81afdac2c0b221b77d5332b180"
+  },
+  {
+    "id": "phrase:directions:002",
+    "ok": true,
+    "issues": [],
+    "content_hash": "572d62728bf1625f01ac89cf8cf189307b045f6f"
+  },
+  {
+    "id": "phrase:directions:003",
+    "ok": true,
+    "issues": [],
+    "content_hash": "530ee39dc77a71f39bf60503c956e5a2c1655170"
+  },
+  {
+    "id": "phrase:directions:004",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9beb7181f68c099ca03fb28c2b8af3eee857e460"
+  },
+  {
+    "id": "phrase:directions:005",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: 长 en 多长时间 se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "11f78f91a20276b62fe7f5435366c962c347afdd"
+  },
+  {
+    "id": "phrase:directions:006",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5854db778fdc35fe5fb9a0f048f1c2fa930aeaca"
+  },
+  {
+    "id": "phrase:directions:007",
+    "ok": true,
+    "issues": [],
+    "content_hash": "932a0952032acf9684cab053950be199b2217f71"
+  },
+  {
+    "id": "phrase:directions:008",
+    "ok": true,
+    "issues": [],
+    "content_hash": "abaa6f09d99fb9d22ac878a414e55c44177b04fd"
+  },
+  {
+    "id": "phrase:directions:009",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a728cbee7d2138fe8aca9cf5c45e81d428473e9"
+  },
+  {
+    "id": "phrase:directions:010",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente con el sandhi tonal: 一遍 debería ser «yí biàn» (como se aplica en «yì diǎn» en la misma frase)."
+    ],
+    "content_hash": "56196088c7974aa01213d93e3ea63d4e989d86df"
+  },
+  {
+    "id": "phrase:directions:011",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1aac889085c7cc08ca1b6877d80275b1ff7e8dfe"
+  },
+  {
+    "id": "phrase:directions:012",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto: 那儿 se lee «nàr» (erhua), no «nà ér»."
+    ],
+    "content_hash": "73cda214a93c72e13c6dd65d0fd537cba2c17861"
+  },
+  {
+    "id": "phrase:directions:013",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8ec6ab83090df940771f43a7cfb29f966b25fd4e"
+  },
+  {
+    "id": "phrase:directions:014",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b355ab16a767eda500d0b0ed3b3d5d22e3dbe57"
+  },
+  {
+    "id": "phrase:directions:015",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ead7715796e8bf10df0e0f684bed9354e6f4a70f"
+  },
+  {
+    "id": "phrase:directions:016",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4e2bd1c9930d641c34296adc5226d68574800aa2"
+  },
+  {
+    "id": "phrase:directions:017",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f9bb8edc97c30b9fb97b20f6ce6092fb2297ec0"
+  },
+  {
+    "id": "phrase:directions:018",
+    "ok": true,
+    "issues": [],
+    "content_hash": "028ab6c75eeb40091b0edaed519fbdcf0413655c"
+  }
+]

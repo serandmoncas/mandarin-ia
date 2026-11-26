@@ -1,0 +1,172 @@
+[
+  {
+    "id": "word:整理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "225c22573b9f2fc8ece6c70dffa6890a0c623801"
+  },
+  {
+    "id": "word:修",
+    "ok": false,
+    "issues": [
+      "El significado 'decorar, embellecer' casi solo aparece en compuestos (修饰). Como significado de 修 solo puede confundir al estudiante."
+    ],
+    "content_hash": "82ea1e4ee9706c74b2357fee7f3d3eab655a2664"
+  },
+  {
+    "id": "word:带领",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a168b3f92d8d429b6d3121f8d0a158bbd8a7034"
+  },
+  {
+    "id": "word:加工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "208fca0aed943b66742985d9a287a56c9f353252"
+  },
+  {
+    "id": "word:压",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: la traducción añade 'para que no se moviera', que no está en el chino. Más fiel: 'Puso el papel debajo del libro'."
+    ],
+    "content_hash": "0634aad89684194303d3704b1480ae7e40d6b344"
+  },
+  {
+    "id": "word:支",
+    "ok": true,
+    "issues": [],
+    "content_hash": "13b2a49fc14cb51af089857ca734d72a18026e0d"
+  },
+  {
+    "id": "word:保",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc3c211c448fccd925aaafc0e6577160a9f4f93d"
+  },
+  {
+    "id": "word:个性",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba64dc03e3ba4690fe3bea2fa2b962b208a5f13c"
+  },
+  {
+    "id": "word:架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e678c1ac0df236aac67f46ec83e1bcff1025d364"
+  },
+  {
+    "id": "word:紧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a760558edd62259f0856f6eb8955e1cac3327255"
+  },
+  {
+    "id": "word:进展",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3cf25cb1ad4acad95b40f37ca609d9359aee6dc1"
+  },
+  {
+    "id": "word:升",
+    "ok": true,
+    "issues": [],
+    "content_hash": "37dcd53843ed62ac3afc88db3c1db0c24b5fb5fd"
+  },
+  {
+    "id": "word:现金",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 东西 ('cosa') debe ser 'dōng xi' (tono neutro), no 'dōng xī'."
+    ],
+    "content_hash": "1d5c853a45a2b6d0e2479403706c8460c4ab7369"
+  },
+  {
+    "id": "word:性格",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin de 爸爸 debe ser 'bà ba' (tono neutro).",
+      "Ejemplo 3: el pinyin de 喜欢 debe ser 'xǐ huan' (tono neutro)."
+    ],
+    "content_hash": "2de9251e9ef8ff3370768fd87134733bf87e62ec"
+  },
+  {
+    "id": "word:空",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c21f22a485b53e7327d3ae6bf3821b5568b804c0"
+  },
+  {
+    "id": "word:人工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "71c5bac8e7df31fd6763d82a957533e20aebd937"
+  },
+  {
+    "id": "word:人群",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: '人群越来越多了' suena poco natural; lo habitual es '人越来越多了'.",
+      "Ejemplo 2: el pinyin de 妈妈 debe ser 'mā ma' (tono neutro)."
+    ],
+    "content_hash": "5be51d3f2b3bacc44541683ffe44193af0979a07"
+  },
+  {
+    "id": "word:演",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dddd9439a6d3dd6d78ec02253ce7df423fc45280"
+  },
+  {
+    "id": "word:刀",
+    "ok": true,
+    "issues": [],
+    "content_hash": "291f72a2c1a6a826e83912b9d2b46745b1a68b12"
+  },
+  {
+    "id": "word:服装",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 时候 debe ser 'shí hou' (tono neutro)."
+    ],
+    "content_hash": "e4dcb3ca3bf6658c55b30b7aa3021d75690f63bc"
+  },
+  {
+    "id": "word:工程师",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: el pinyin de 爸爸 debe ser 'bà ba' (tono neutro)."
+    ],
+    "content_hash": "47d6cdfdf0f88f67685c9fd8a4d8bfc1b667cbb1"
+  },
+  {
+    "id": "word:近期",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 喜欢 debe ser 'xǐ huan' (tono neutro)."
+    ],
+    "content_hash": "84b7138ecdf0f3ff28bf2c62ec8578b8a0da80e9"
+  },
+  {
+    "id": "word:桥",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25f3f51421e218f5cdd6f05fc0bdac0af3b55aab"
+  },
+  {
+    "id": "word:天空",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14e891dce51ee39b51c782ef75c3c92ddf69c884"
+  },
+  {
+    "id": "word:种子",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 时候 debe ser 'shí hou' y el de 爷爷 'yé ye' (tonos neutros)."
+    ],
+    "content_hash": "3587d6cb7eed0a6df82738ee3edfcddcab230567"
+  }
+]

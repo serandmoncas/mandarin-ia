@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:一半",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4afbdb84d227ea1e3c4bb61f39b3f4dfcd4c10a"
+  },
+  {
+    "id": "word:时期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b9395298855a8d55297aceebe8069ea15867884"
+  },
+  {
+    "id": "word:项目",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a12f0e52f99957b3bec21de19a9df5e2cd4d207d"
+  },
+  {
+    "id": "word:票",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «Hasta que llegó al aeropuerto se dio cuenta» es un regionalismo (México/Centroamérica). En gran parte de Latinoamérica se entiende al revés. Mejor: «Recién al llegar al aeropuerto se dio cuenta…» o «No fue sino hasta que llegó al aeropuerto que se dio cuenta…»."
+    ],
+    "content_hash": "2eec5d0da46cb5796c49176e7ebbf466444fcd3d"
+  },
+  {
+    "id": "word:不断",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: el pinyin de 地 como partícula adverbial es «de» (tono neutro), no «dì»."
+    ],
+    "content_hash": "b8bc877c96e6d7f20c490f91f535e59d6f64f2c7"
+  },
+  {
+    "id": "word:睡觉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d9ff6b7cc39ab368b24aff23d4c928f6b0198ea"
+  },
+  {
+    "id": "word:常常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86360fd0dcffc7d4c1034c4d6735551a2dd21f28"
+  },
+  {
+    "id": "word:方面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f706a2cabebf69c3734de5c7ea8d9eb3c0b2306c"
+  },
+  {
+    "id": "word:好看",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d2cc5ddcd0082777416cd1a62c9af5bd4da2f0e1"
+  },
+  {
+    "id": "word:故事",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos marca «gù shì» con cuarto tono, pero la palabra es gu4 shi5 (tono neutro): debería ser «gù shi»."
+    ],
+    "content_hash": "c94600e98c2442e585623eef77394bbb888bf6f8"
+  },
+  {
+    "id": "word:合作",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el complemento de grado 得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "cfa0c1a86539f373619ef887c57d13a2772cdc43"
+  },
+  {
+    "id": "word:十",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab29d6bfba0afbe717661e085ef11716194d0fef"
+  },
+  {
+    "id": "word:晚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2aff1c793561488b6b5f22314de9bf2aac4b58d8"
+  },
+  {
+    "id": "word:八",
+    "ok": true,
+    "issues": [],
+    "content_hash": "58e21ec52ec4e71cf90385134e86c158d33efb01"
+  },
+  {
+    "id": "word:省",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ab077fbceec290d005db74f441cdd228d978435"
+  },
+  {
+    "id": "word:房间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1693007a22562a2a13ddd9ca4cc475c0c798214f"
+  },
+  {
+    "id": "word:网",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27fd4b3494843ee51b00360aa5c387d522b37ed2"
+  },
+  {
+    "id": "word:位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "41ad38335985095020f4052fb0d7eb1d27bd7132"
+  },
+  {
+    "id": "word:课",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b7ddfa14b958988d266e7dcb24a931ec70ff640c"
+  },
+  {
+    "id": "word:以后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4594fa65e9cf96f84d4f407d2bafeeb3def07775"
+  },
+  {
+    "id": "word:试",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b82e137b7c2995cf95faf2a02c8eedaed04332d"
+  },
+  {
+    "id": "word:休息",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos marca «xiū xī», pero la palabra es xiu1 xi5 (tono neutro): debería ser «xiū xi»."
+    ],
+    "content_hash": "b772b0fde6a370d584fa6571923c6ac88daa9ed7"
+  },
+  {
+    "id": "word:一下",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente dentro del mismo elemento. El ejemplo 1 marca el sandhi («yí xià») y los ejemplos 2–4 no («yī xià»). Conviene unificar, preferiblemente con «yí xià»."
+    ],
+    "content_hash": "719db26db111d00faa4cccb83f1e3a80c2044b6e"
+  },
+  {
+    "id": "word:有一些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d321ccac821210ce60805cd421e72d8c7493bf5"
+  },
+  {
+    "id": "word:作",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1 (作业) no ilustra ningún significado de 作 como palabra independiente; solo es parte del compuesto «tarea». Puede confundir al estudiante. Conviene reemplazarlo por un ejemplo de «escribir, componer» u «obra» (p. ej. 作曲, 作品)."
+    ],
+    "content_hash": "6a0a41987c5b614c95d80cce9ba4e2394599b98a"
+  }
+]

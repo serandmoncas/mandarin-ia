@@ -1,0 +1,536 @@
+[
+  {
+    "word": "艺术",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "arte"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢艺术。",
+        "es": "Me gusta el arte."
+      },
+      {
+        "zh": "她在大学学习艺术。",
+        "es": "Ella estudia arte en la universidad."
+      },
+      {
+        "zh": "这个城市有很多艺术活动。",
+        "es": "Esta ciudad tiene muchas actividades artísticas."
+      },
+      {
+        "zh": "我觉得电影也是一种艺术。",
+        "es": "Creo que el cine también es un tipo de arte."
+      }
+    ]
+  },
+  {
+    "word": "帮忙",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ayudar",
+      "echar una mano",
+      "hacer un favor"
+    ],
+    "examples": [
+      {
+        "zh": "谢谢你帮忙！",
+        "es": "¡Gracias por ayudar!"
+      },
+      {
+        "zh": "你可以帮忙吗？",
+        "es": "¿Puedes ayudar?"
+      },
+      {
+        "zh": "我朋友明天来我家帮忙。",
+        "es": "Mi amigo viene mañana a mi casa a echarme una mano."
+      },
+      {
+        "zh": "如果你需要帮忙，请给我打电话。",
+        "es": "Si necesitas ayuda, llámame por favor."
+      }
+    ]
+  },
+  {
+    "word": "了解",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entender",
+      "conocer bien",
+      "informarse sobre",
+      "enterarse de"
+    ],
+    "examples": [
+      {
+        "zh": "我很了解他。",
+        "es": "Lo conozco muy bien."
+      },
+      {
+        "zh": "你了解中国文化吗？",
+        "es": "¿Conoces la cultura china?"
+      },
+      {
+        "zh": "我想多了解一下这个公司。",
+        "es": "Quiero saber un poco más sobre esta empresa."
+      },
+      {
+        "zh": "老师说我们应该先了解问题，再做决定。",
+        "es": "El maestro dice que primero debemos entender el problema y después decidir."
+      }
+    ]
+  },
+  {
+    "word": "贵",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "caro",
+      "valioso",
+      "noble",
+      "su (honorífico)"
+    ],
+    "examples": [
+      {
+        "zh": "这个太贵了。",
+        "es": "Esto es demasiado caro."
+      },
+      {
+        "zh": "北京的房子很贵。",
+        "es": "Las casas en Pekín son muy caras."
+      },
+      {
+        "zh": "这件衣服不贵，我想买。",
+        "es": "Esta ropa no es cara, la quiero comprar."
+      },
+      {
+        "zh": "飞机票比火车票贵多了，所以我坐火车。",
+        "es": "El boleto de avión es mucho más caro que el de tren, por eso voy en tren."
+      }
+    ]
+  },
+  {
+    "word": "副",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vice-, sub-",
+      "secundario, auxiliar",
+      "par, juego (clasificador)"
+    ],
+    "examples": [
+      {
+        "zh": "他是副总统。",
+        "es": "Él es el vicepresidente."
+      },
+      {
+        "zh": "她是我们学校的副校长。",
+        "es": "Ella es la subdirectora de nuestra escuela."
+      },
+      {
+        "zh": "我买了一副新眼镜。",
+        "es": "Compré unos lentes nuevos."
+      },
+      {
+        "zh": "这个药有副作用，你要问医生。",
+        "es": "Esta medicina tiene efectos secundarios; tienes que preguntarle al médico."
+      }
+    ]
+  },
+  {
+    "word": "零",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cero",
+      "suelto, fraccionado",
+      "sobrante, extra"
+    ],
+    "examples": [
+      {
+        "zh": "我的手机号有三个零。",
+        "es": "Mi número de celular tiene tres ceros."
+      },
+      {
+        "zh": "他考试得了零分。",
+        "es": "Sacó cero en el examen."
+      },
+      {
+        "zh": "你有零钱吗？我想买水。",
+        "es": "¿Tienes cambio? Quiero comprar agua."
+      },
+      {
+        "zh": "今天外面零下五度，比昨天冷多了。",
+        "es": "Hoy afuera hace cinco grados bajo cero, mucho más frío que ayer."
+      }
+    ]
+  },
+  {
+    "word": "拥有",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tener",
+      "poseer",
+      "ser dueño de"
+    ],
+    "examples": [
+      {
+        "zh": "他拥有一家公司。",
+        "es": "Él es dueño de una empresa."
+      },
+      {
+        "zh": "她拥有很多书。",
+        "es": "Ella tiene muchos libros."
+      },
+      {
+        "zh": "这个国家拥有很多资源。",
+        "es": "Este país posee muchos recursos."
+      },
+      {
+        "zh": "不是每个人都能拥有自己的房子。",
+        "es": "No todo el mundo puede tener su propia casa."
+      }
+    ]
+  },
+  {
+    "word": "生气",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enojarse",
+      "estar enojado",
+      "vitalidad, energía"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈生气了。",
+        "es": "Mamá se enojó."
+      },
+      {
+        "zh": "你别生气，好吗？",
+        "es": "No te enojes, ¿sí?"
+      },
+      {
+        "zh": "他为什么对我生气？",
+        "es": "¿Por qué está enojado conmigo?"
+      },
+      {
+        "zh": "我忘了她的生日，所以她很生气。",
+        "es": "Olvidé su cumpleaños, por eso está muy enojada."
+      }
+    ]
+  },
+  {
+    "word": "超过",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "superar",
+      "pasar de, exceder",
+      "adelantar (a alguien)"
+    ],
+    "examples": [
+      {
+        "zh": "这本书超过五百页。",
+        "es": "Este libro tiene más de quinientas páginas."
+      },
+      {
+        "zh": "他跑得很快，超过了我。",
+        "es": "Corrió muy rápido y me rebasó."
+      },
+      {
+        "zh": "我每天工作超过十个小时。",
+        "es": "Trabajo más de diez horas al día."
+      },
+      {
+        "zh": "参加这次活动的学生超过了三千人。",
+        "es": "Los estudiantes que participaron en esta actividad superaron los tres mil."
+      }
+    ]
+  },
+  {
+    "word": "机会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oportunidad",
+      "ocasión"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个好机会。",
+        "es": "Esta es una buena oportunidad."
+      },
+      {
+        "zh": "请再给我一次机会。",
+        "es": "Por favor, dame otra oportunidad."
+      },
+      {
+        "zh": "我有机会去北京工作。",
+        "es": "Tengo la oportunidad de ir a trabajar a Pekín."
+      },
+      {
+        "zh": "如果有机会，我想去中国学习中文。",
+        "es": "Si tengo la oportunidad, quiero ir a China a estudiar chino."
+      }
+    ]
+  },
+  {
+    "word": "在家",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar en casa",
+      "en casa"
+    ],
+    "examples": [
+      {
+        "zh": "我今天在家。",
+        "es": "Hoy estoy en casa."
+      },
+      {
+        "zh": "你妈妈在家吗？",
+        "es": "¿Está tu mamá en casa?"
+      },
+      {
+        "zh": "星期天我常常在家休息。",
+        "es": "Los domingos suelo descansar en casa."
+      },
+      {
+        "zh": "现在很多人可以在家工作，不用去公司。",
+        "es": "Ahora mucha gente puede trabajar desde casa sin ir a la oficina."
+      }
+    ]
+  },
+  {
+    "word": "连",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "incluso, hasta (连…都/也)",
+      "seguido, consecutivo",
+      "unir, conectar"
+    ],
+    "examples": [
+      {
+        "zh": "他连水都不喝。",
+        "es": "Ni siquiera toma agua."
+      },
+      {
+        "zh": "我们连着三天没见面。",
+        "es": "Llevamos tres días seguidos sin vernos."
+      },
+      {
+        "zh": "这条路连着两个城市。",
+        "es": "Esta carretera une dos ciudades."
+      },
+      {
+        "zh": "他太忙了，连吃饭的时间都没有。",
+        "es": "Está tan ocupado que ni siquiera tiene tiempo para comer."
+      }
+    ]
+  },
+  {
+    "word": "地上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en el suelo",
+      "en el piso"
+    ],
+    "examples": [
+      {
+        "zh": "书在地上。",
+        "es": "El libro está en el suelo."
+      },
+      {
+        "zh": "别坐在地上。",
+        "es": "No te sientes en el piso."
+      },
+      {
+        "zh": "孩子把衣服放在地上了。",
+        "es": "El niño dejó la ropa en el suelo."
+      },
+      {
+        "zh": "地上不太干净，我们去那里坐吧。",
+        "es": "El piso no está muy limpio, vamos a sentarnos allá."
+      }
+    ]
+  },
+  {
+    "word": "冷",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "frío",
+      "tener frío",
+      "frío, distante (de trato)"
+    ],
+    "examples": [
+      {
+        "zh": "今天很冷。",
+        "es": "Hoy hace mucho frío."
+      },
+      {
+        "zh": "你冷不冷？",
+        "es": "¿Tienes frío?"
+      },
+      {
+        "zh": "北京的冬天非常冷。",
+        "es": "El invierno en Pekín es muy frío."
+      },
+      {
+        "zh": "外面太冷了，我们在家喝茶吧。",
+        "es": "Afuera hace demasiado frío, tomemos té en casa."
+      }
+    ]
+  },
+  {
+    "word": "美",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "hermoso, bonito",
+      "bueno, excelente",
+      "embellecer"
+    ],
+    "examples": [
+      {
+        "zh": "这里真美！",
+        "es": "¡Qué bonito es aquí!"
+      },
+      {
+        "zh": "她长得很美。",
+        "es": "Ella es muy hermosa."
+      },
+      {
+        "zh": "这个城市晚上特别美。",
+        "es": "Esta ciudad es especialmente bonita de noche."
+      },
+      {
+        "zh": "这张照片拍得太美了，可以送给我吗？",
+        "es": "Esta foto quedó preciosa, ¿me la regalas?"
+      }
+    ]
+  },
+  {
+    "word": "慢",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lento",
+      "despacio"
+    ],
+    "examples": [
+      {
+        "zh": "请慢一点。",
+        "es": "Más despacio, por favor."
+      },
+      {
+        "zh": "他走得很慢。",
+        "es": "Él camina muy despacio."
+      },
+      {
+        "zh": "我的电脑太慢了，我想买新的。",
+        "es": "Mi computadora es demasiado lenta, quiero comprar una nueva."
+      },
+      {
+        "zh": "你说得太快了，可以说慢一点吗？",
+        "es": "Hablas demasiado rápido, ¿puedes hablar más despacio?"
+      }
+    ]
+  },
+  {
+    "word": "其实",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en realidad",
+      "de hecho",
+      "la verdad es que"
+    ],
+    "examples": [
+      {
+        "zh": "其实我不知道。",
+        "es": "En realidad no lo sé."
+      },
+      {
+        "zh": "其实他是我哥哥。",
+        "es": "De hecho, él es mi hermano mayor."
+      },
+      {
+        "zh": "这个问题其实不难。",
+        "es": "Este problema en realidad no es difícil."
+      },
+      {
+        "zh": "很多人觉得中文很难，其实也没那么难。",
+        "es": "Mucha gente cree que el chino es muy difícil, pero en realidad no lo es tanto."
+      }
+    ]
+  },
+  {
+    "word": "全球",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todo el mundo",
+      "mundial",
+      "global"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个全球问题。",
+        "es": "Este es un problema mundial."
+      },
+      {
+        "zh": "全球有很多人学习中文。",
+        "es": "En todo el mundo hay mucha gente que estudia chino."
+      },
+      {
+        "zh": "这家公司在全球都很有名。",
+        "es": "Esta empresa es muy famosa en todo el mundo."
+      },
+      {
+        "zh": "全球经济的发展影响了每个国家。",
+        "es": "El desarrollo de la economía global ha afectado a todos los países."
+      }
+    ]
+  },
+  {
+    "word": "菜",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "platillo, comida",
+      "verdura",
+      "malo (para algo, coloquial)"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢吃中国菜。",
+        "es": "Me gusta la comida china."
+      },
+      {
+        "zh": "这个菜太好吃了！",
+        "es": "¡Este platillo está riquísimo!"
+      },
+      {
+        "zh": "妈妈每天都去市场买菜。",
+        "es": "Mamá va todos los días al mercado a comprar verduras."
+      },
+      {
+        "zh": "今天晚上我做了几个菜，请朋友来吃饭。",
+        "es": "Esta noche preparé varios platillos e invité a mis amigos a cenar."
+      }
+    ]
+  },
+  {
+    "word": "茶",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "té"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢喝茶。",
+        "es": "Me gusta tomar té."
+      },
+      {
+        "zh": "请喝杯茶。",
+        "es": "Tómate una taza de té, por favor."
+      },
+      {
+        "zh": "你想喝茶还是喝水？",
+        "es": "¿Quieres tomar té o agua?"
+      },
+      {
+        "zh": "中国的茶文化已经有很长的历史了。",
+        "es": "La cultura del té en China tiene una historia muy larga."
+      }
+    ]
+  }
+]

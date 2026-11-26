@@ -1,0 +1,418 @@
+[
+  {
+    "char": "快",
+    "components": [
+      {
+        "char": "忄",
+        "meaning_es": "corazón"
+      },
+      {
+        "char": "夬",
+        "meaning_es": "decidir, separar"
+      }
+    ],
+    "mnemonic_es": "Cuando el corazón por fin decide, todo pasa rápido: ¡pum, sin dudar! Y además uno se siente feliz (愉快)."
+  },
+  {
+    "char": "事",
+    "components": [
+      {
+        "char": "事",
+        "meaning_es": "asunto, cosa, trabajo"
+      }
+    ],
+    "mnemonic_es": "Imagina una mano que sostiene un palo con una banderita, y alguien ocupado que va de un lado a otro atendiendo sus asuntos."
+  },
+  {
+    "char": "进",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "井",
+        "meaning_es": "pozo"
+      }
+    ],
+    "mnemonic_es": "Vas caminando, pasas junto al pozo del pueblo y sigues adelante hasta entrar a la casa: avanzar, entrar."
+  },
+  {
+    "char": "行",
+    "components": [
+      {
+        "char": "彳",
+        "meaning_es": "paso con el pie izquierdo"
+      },
+      {
+        "char": "亍",
+        "meaning_es": "paso con el pie derecho"
+      }
+    ],
+    "mnemonic_es": "Un paso con el izquierdo y otro con el derecho: así se camina. Si todo camina bien, ¡está bien, funciona!"
+  },
+  {
+    "char": "比",
+    "components": [
+      {
+        "char": "匕",
+        "meaning_es": "cuchara; persona agachada"
+      },
+      {
+        "char": "匕",
+        "meaning_es": "cuchara; persona agachada"
+      }
+    ],
+    "mnemonic_es": "Dos personitas paradas una al lado de la otra: es imposible no compararlas."
+  },
+  {
+    "char": "如",
+    "components": [
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Una mujer que abre la boca y habla igualita que su mamá: es como ella."
+  },
+  {
+    "char": "果",
+    "components": [
+      {
+        "char": "田",
+        "meaning_es": "campo, parcela"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Imagina un árbol con un gran fruto redondo arriba: el fruto es el resultado del trabajo del árbol."
+  },
+  {
+    "char": "跟",
+    "components": [
+      {
+        "char": "𧾷",
+        "meaning_es": "pie"
+      },
+      {
+        "char": "艮",
+        "meaning_es": "firme, detenerse"
+      }
+    ],
+    "mnemonic_es": "Tu pie va pegado firmemente al talón de otra persona: la sigues a todas partes, vas con ella."
+  },
+  {
+    "char": "该",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "亥",
+        "meaning_es": "cerdo (signo del zodiaco chino)"
+      }
+    ],
+    "mnemonic_es": "Alguien le habla al cerdito y le dice lo que debe hacer: «deberías bañarte»."
+  },
+  {
+    "char": "世",
+    "components": [
+      {
+        "char": "世",
+        "meaning_es": "mundo, generación"
+      }
+    ],
+    "mnemonic_es": "Ve en él tres dieces (十) unidos: treinta años, una generación; y muchas generaciones juntas forman el mundo."
+  },
+  {
+    "char": "界",
+    "components": [
+      {
+        "char": "田",
+        "meaning_es": "campo, parcela"
+      },
+      {
+        "char": "介",
+        "meaning_es": "estar entre, intermediario"
+      }
+    ],
+    "mnemonic_es": "Lo que está entre dos campos es la cerca que los separa: el límite, la frontera."
+  },
+  {
+    "char": "请",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "青",
+        "meaning_es": "verde azulado, joven"
+      }
+    ],
+    "mnemonic_es": "Palabras frescas y amables como el pasto verde: «por favor», «te invito»."
+  },
+  {
+    "char": "其",
+    "components": [
+      {
+        "char": "其",
+        "meaning_es": "su, ese, aquel"
+      }
+    ],
+    "mnemonic_es": "Parece una canasta tejida con patitas: «esa canasta es suya», la de ellos."
+  },
+  {
+    "char": "本",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno, línea"
+      }
+    ],
+    "mnemonic_es": "Una rayita marca la raíz del árbol: lo básico, el origen. Y de los árboles sale el papel de los libros (一本书)."
+  },
+  {
+    "char": "呢",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "尼",
+        "meaning_es": "monja"
+      }
+    ],
+    "mnemonic_es": "Una boca pregunta: «Yo ya llegué, ¿y la monja?». Así suena 呢: «¿y…?»."
+  },
+  {
+    "char": "计",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      }
+    ],
+    "mnemonic_es": "Hablar en voz alta mientras cuentas hasta diez: calcular, hacer cuentas, planear."
+  },
+  {
+    "char": "划",
+    "components": [
+      {
+        "char": "戈",
+        "meaning_es": "alabarda, lanza"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Con la lanza y el cuchillo trazas líneas en el mapa: así se dibuja un plan (计划)."
+  },
+  {
+    "char": "向",
+    "components": [
+      {
+        "char": "冂",
+        "meaning_es": "marco, contorno"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca, abertura"
+      }
+    ],
+    "mnemonic_es": "Una casita con una ventana: la ventana siempre mira hacia algún lado. «Hacia», «en dirección a»."
+  },
+  {
+    "char": "只",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho"
+      }
+    ],
+    "mnemonic_es": "Una boca con dos patitas abajo: es solo una boquita, nada más. «Solo»."
+  },
+  {
+    "char": "北",
+    "components": [
+      {
+        "char": "北",
+        "meaning_es": "norte"
+      }
+    ],
+    "mnemonic_es": "Dos personas sentadas espalda con espalda, dándole la espalda al viento helado del norte."
+  },
+  {
+    "char": "京",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa, techo"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca, entrada"
+      },
+      {
+        "char": "小",
+        "meaning_es": "pequeño"
+      }
+    ],
+    "mnemonic_es": "Un edificio elegante con techo, una gran puerta y columnas abajo: el palacio de la capital (北京)."
+  },
+  {
+    "char": "高",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa, techo"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca, ventana"
+      },
+      {
+        "char": "冂",
+        "meaning_es": "marco, contorno"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca, ventana"
+      }
+    ],
+    "mnemonic_es": "Una torre con techo y ventanas apiladas piso sobre piso: ¡qué alta es!"
+  },
+  {
+    "char": "成",
+    "components": [
+      {
+        "char": "戈",
+        "meaning_es": "alabarda, lanza"
+      },
+      {
+        "char": "丁",
+        "meaning_es": "clavo"
+      }
+    ],
+    "mnemonic_es": "Con la alabarda en una mano y el clavo bien firme en la otra, el guerrero termina la obra: lo logró."
+  },
+  {
+    "char": "觉",
+    "components": [
+      {
+        "char": "⺍",
+        "meaning_es": "rayos, brillo"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "cubierta"
+      },
+      {
+        "char": "见",
+        "meaning_es": "ver"
+      }
+    ],
+    "mnemonic_es": "Algo brilla bajo una cubierta; al levantarla y verlo, te das cuenta: sentir, percibir, despertar."
+  },
+  {
+    "char": "认",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      }
+    ],
+    "mnemonic_es": "Una persona habla y enseguida reconoces su voz: «¡Ah, la conozco!»."
+  },
+  {
+    "char": "重",
+    "components": [
+      {
+        "char": "重",
+        "meaning_es": "pesado, importante; repetir"
+      }
+    ],
+    "mnemonic_es": "Mira la tierra (土) en la base y todo lo que tiene apilado encima: ¡qué carga tan pesada e importante!"
+  },
+  {
+    "char": "需",
+    "components": [
+      {
+        "char": "雨",
+        "meaning_es": "lluvia"
+      },
+      {
+        "char": "而",
+        "meaning_es": "y, además; barba"
+      }
+    ],
+    "mnemonic_es": "Bajo la lluvia, tu barba queda empapada: necesitas un paraguas."
+  },
+  {
+    "char": "起",
+    "components": [
+      {
+        "char": "走",
+        "meaning_es": "caminar"
+      },
+      {
+        "char": "己",
+        "meaning_es": "uno mismo"
+      }
+    ],
+    "mnemonic_es": "Para salir a caminar, uno mismo primero tiene que levantarse de la cama."
+  },
+  {
+    "char": "啊",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "阿",
+        "meaning_es": "prefijo afectivo, sonido «a»"
+      }
+    ],
+    "mnemonic_es": "Una boca que se abre y dice «¡aaah!»: la exclamación de sorpresa."
+  },
+  {
+    "char": "喜",
+    "components": [
+      {
+        "char": "壴",
+        "meaning_es": "tambor"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Un tambor que suena y una boca que canta: ¡hay fiesta, qué alegría! Por eso te gusta (喜欢)."
+  }
+]

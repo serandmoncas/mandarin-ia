@@ -1,0 +1,158 @@
+[
+  {
+    "id": "word:知识",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ee0a565a523eec07a115a6b6d1b80c4422746a1e"
+  },
+  {
+    "id": "word:帮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ff536afd9b8b0cc5361ac4314047a8b94b1e060"
+  },
+  {
+    "id": "word:么",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «这部电影» significa «esta película», no «esa película»."
+    ],
+    "content_hash": "e57de173d2bd876ec283df30b6f5c7337f7796fe"
+  },
+  {
+    "id": "word:东",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2ceb1c62a3becd1aafca241bac6815e12c4073e"
+  },
+  {
+    "id": "word:动",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin de 东西 con el sentido de «cosas» es «dōng xi» (tono neutro). «dōng xī» corresponde a «este y oeste»."
+    ],
+    "content_hash": "a8fc2bcaf14ee858d9dd7a347c34decb0f307861"
+  },
+  {
+    "id": "word:教育",
+    "ok": true,
+    "issues": [],
+    "content_hash": "255cc81041606c58ad77ff74fd001a1718e8a2db"
+  },
+  {
+    "id": "word:机场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34d7eba76833d460da1da91f87360fcde277de77"
+  },
+  {
+    "id": "word:内容",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b64729fdae3298b3b1dd4f3d4154d263435806d1"
+  },
+  {
+    "id": "word:看见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a92f08a555fb0675902db3a0bb2f343bee6a5313"
+  },
+  {
+    "id": "word:特别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e75eed5f0a48acc807c51517cef6dc37829bd6bf"
+  },
+  {
+    "id": "word:字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "94508a0b33257c3c46d8ded1f3239d7e45a1a97a"
+  },
+  {
+    "id": "word:最好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "59722fc3114c2b9c8a5b61a37a17443d9ba0b2f1"
+  },
+  {
+    "id": "word:许多",
+    "ok": true,
+    "issues": [],
+    "content_hash": "599bfb681c14f55a9fafdff509cf15263af930c1"
+  },
+  {
+    "id": "word:由于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c44b922030ac734e6f549744401ffb38f124fed"
+  },
+  {
+    "id": "word:花",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96b6269996171b8157fd87c88ee1000a48715c34"
+  },
+  {
+    "id": "word:之后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "275daa8a775dfcf877a19557600894fedaf2dcb0"
+  },
+  {
+    "id": "word:身体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "12b7bdf58a67cae5ba3f08ff8e6d7d37857734aa"
+  },
+  {
+    "id": "word:对于",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e6c36247eb8538b31d6be049e6b64dcd4fec1460"
+  },
+  {
+    "id": "word:谢谢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dcbb9b3477fa0dab0f9530fce22d49726d481278"
+  },
+  {
+    "id": "word:获得",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5a3e03a3df5539695329d189848d1838bed4ced0"
+  },
+  {
+    "id": "word:早",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5f1a50ca3d1ace44311588af957636a035be00f"
+  },
+  {
+    "id": "word:方式",
+    "ok": true,
+    "issues": [],
+    "content_hash": "390cec6008c2866649f90d74d1ce2720a8015a1a"
+  },
+  {
+    "id": "word:子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eec9aabd265d8b2b047890b0747c1df23936f10c"
+  },
+  {
+    "id": "word:目前",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: en «发展得非常快», 得 es la partícula de complemento y se pronuncia «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "8344a4a0e1084bcb4c2ce827d4b241e1cde01898"
+  },
+  {
+    "id": "word:关",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f5a805a40ef7477e135d99c24d42a08829262882"
+  }
+]

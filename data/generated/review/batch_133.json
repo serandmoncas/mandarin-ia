@@ -1,0 +1,156 @@
+[
+  {
+    "id": "char:软",
+    "ok": true,
+    "issues": [],
+    "content_hash": "67d01d693f7bd962aacc431d14cecdbd61a4a9c2"
+  },
+  {
+    "id": "char:逼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0d331fb5b5ff1bd8bd977b77d5780d67bc5eb57"
+  },
+  {
+    "id": "char:角",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45ca4ce8d1ef3afbd05ca06bbef4e643092870c3"
+  },
+  {
+    "id": "char:镇",
+    "ok": true,
+    "issues": [],
+    "content_hash": "25d78444a9cc3e1cd0351458bed240de5ce31578"
+  },
+  {
+    "id": "char:哭",
+    "ok": false,
+    "issues": [
+      "Incoherencia: los componentes definen 口 como «boca», pero la mnemotecnia los presenta como «dos ojos» sin aclarar esa reinterpretación, lo que puede confundir al estudiante."
+    ],
+    "content_hash": "0c61cc4f608e1d303c0740095b090749947acf24"
+  },
+  {
+    "id": "char:颜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5cc9c3c2954a034533d21b9625dc6c2e911c33c"
+  },
+  {
+    "id": "char:色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5c2729c3e0d5bdb9af014b97bf8dd1efb89889af"
+  },
+  {
+    "id": "char:顾",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f3c9d227b9f02e7a68681a1fe5b8755a6f92df0"
+  },
+  {
+    "id": "char:绿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e9f747945716f74fd3d620dded1e0aa6fb11e33"
+  },
+  {
+    "id": "char:纸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "01e70571a01d5911508982cfbfc37b134197bcc8"
+  },
+  {
+    "id": "char:篇",
+    "ok": true,
+    "issues": [],
+    "content_hash": "513b6e2c2f3d7d14cac573231efa8710cbc0ac6a"
+  },
+  {
+    "id": "char:咱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bcc16d56dd769b2d63cbaa052f8edad404f449cb"
+  },
+  {
+    "id": "char:座",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3128eac20988e94f98254233fdc8befb73845abf"
+  },
+  {
+    "id": "char:乡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "229fb970bfc8d8d15dfd44160fe17e066910845b"
+  },
+  {
+    "id": "char:兄",
+    "ok": true,
+    "issues": [],
+    "content_hash": "73d2458678d660100d4172f75c588171965bf42e"
+  },
+  {
+    "id": "char:呀",
+    "ok": false,
+    "issues": [
+      "La exclamación «¡Ay, sí, ya!» no refleja bien el valor de 呀 (interjección de sorpresa, «¡ah!», «¡oh!», o partícula final enfática); «sí, ya» sugiere un significado afirmativo que no tiene."
+    ],
+    "content_hash": "ec87f87f31c1c59afb0c59d75cb0ccdda08e3753"
+  },
+  {
+    "id": "char:妻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "071d1fce68bafa865ac3783530778ffe1dde8dc8"
+  },
+  {
+    "id": "char:鱼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b0c1e85594506b10d8f0a77480fe4270a136f87"
+  },
+  {
+    "id": "char:久",
+    "ok": true,
+    "issues": [],
+    "content_hash": "21a7087ca012c5a6be646f8951d8eabcfaf3270c"
+  },
+  {
+    "id": "char:弄",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3185134c6cb7ebacfe06893efbf8ce018410d4cc"
+  },
+  {
+    "id": "char:顺",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d40bb5c9eb434919cc0421a495ecaf3abe269eca"
+  },
+  {
+    "id": "char:船",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b31e5c287e55102039ad4619dd64053ce472a8b"
+  },
+  {
+    "id": "char:批",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b3ccde684118227b7aac9ee3259557942e53d25e"
+  },
+  {
+    "id": "char:停",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7daa9226957b7c2a84bd1801b01b5013deec666b"
+  },
+  {
+    "id": "char:止",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb5193fa7ee1238a7f8e4268e644c03440a19b18"
+  }
+]

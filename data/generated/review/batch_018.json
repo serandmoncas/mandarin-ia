@@ -1,0 +1,165 @@
+[
+  {
+    "id": "word:选择",
+    "ok": true,
+    "issues": [],
+    "content_hash": "327a173be31a27b2cab85a536c94ca8f6743df7b"
+  },
+  {
+    "id": "word:山",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5615c829d7855545af8beba6662f542f234884dd"
+  },
+  {
+    "id": "word:那个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "09e9c9c19a1e267c47f1e18b5b61b42d2edbacf3"
+  },
+  {
+    "id": "word:北",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd590267596e5eba3da6bbe6802c27c919d7f55a"
+  },
+  {
+    "id": "word:管理",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 地 como partícula adverbial es 'de', no 'dì' (gèng hǎo de guǎn lǐ)."
+    ],
+    "content_hash": "b6ad30893ab30cf3b2e216c117df7f21f44c5af5"
+  },
+  {
+    "id": "word:记者",
+    "ok": true,
+    "issues": [],
+    "content_hash": "355d443d3c2a4c82c97e17852cfd5c761be3dcff"
+  },
+  {
+    "id": "word:家里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f05b905f08dca663c929c699b62f36efcf03f1cc"
+  },
+  {
+    "id": "word:进入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7e4fd5dbf3427734d2aa5483476a450cfd9d0c71"
+  },
+  {
+    "id": "word:页",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b74f9b0fb690a6b4cd22c04e5f9d21f37096ba1"
+  },
+  {
+    "id": "word:领导",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 计划 significa 'plan', no 'proyecto' (项目); además, 'un plan dirigido por alguien' (计划由…领导) es una combinación forzada; sería más natural 这个项目由王先生领导 o 负责."
+    ],
+    "content_hash": "d0fc8456e3ad703744aecded77360b610d134d5e"
+  },
+  {
+    "id": "word:半",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6871f32808849151097c85390c3380f812577fcb"
+  },
+  {
+    "id": "word:能够",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aa1c535bca31a8bb96713b9ee9e6830ba057148d"
+  },
+  {
+    "id": "word:六",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9a462afe33e3fe579f8335f7622a7d38c3fb092"
+  },
+  {
+    "id": "word:人口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "68e440147eea4b03f3af131788eba58b807ce07a"
+  },
+  {
+    "id": "word:一切",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 都 está mal escrito; aquí se lee 'dōu', no 'dū'."
+    ],
+    "content_hash": "4597a9381689afd39dd1d238f69db3220a857d37"
+  },
+  {
+    "id": "word:包",
+    "ok": true,
+    "issues": [],
+    "content_hash": "726def318cea9fdf1c62e074340c6f5b6fdfed2c"
+  },
+  {
+    "id": "word:睡",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 得 como partícula de complemento es 'de', no 'dé' (shuì de hǎo)."
+    ],
+    "content_hash": "40c71924257369da2a333290363b6eaff991ca1c"
+  },
+  {
+    "id": "word:一次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b8b4e0e33c175840bedac43a363991dc8bf8c30f"
+  },
+  {
+    "id": "word:中文",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 得 como partícula es 'de', no 'dé' (shuō de hěn hǎo).",
+      "Ejemplo 4: el pinyin de 中文 está mal; debe ser 'zhōng wén', no 'zhòng wén'."
+    ],
+    "content_hash": "8b3c37ceb16bc247f8502703d1b36dbd85b24f98"
+  },
+  {
+    "id": "word:另",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab0bb8b1aea566c0b86c59ff3485ed3235ab6045"
+  },
+  {
+    "id": "word:块",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 一块 ('juntos', variante coloquial de 一块儿) no corresponde a ninguno de los significados listados y puede confundir al estudiante; conviene reemplazarlo por un ejemplo de 'pedazo' o de clasificador (p. ej., 一块蛋糕)."
+    ],
+    "content_hash": "bce05c035f12dad23ad3fc645c5b9c4fe70d1123"
+  },
+  {
+    "id": "word:应",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a000c1c105dc0f8cba16e005b9d44199835d6d57"
+  },
+  {
+    "id": "word:无法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a1127376698201b9eee4ae4d6922ea63e101708"
+  },
+  {
+    "id": "word:网友",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3b70b0a508f6ef89f9413ad15f01e9f7e39fc07"
+  },
+  {
+    "id": "word:个人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fdf4b72ae85aec8a1a7a738b572e7cacd694ae06"
+  }
+]

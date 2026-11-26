@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:逐渐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8b8c1f672c0338c986b5f7b1fc0d665584a09b9b"
+  },
+  {
+    "id": "word:样子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ea01e429a2d382994166e096a998fd21cf0cc21"
+  },
+  {
+    "id": "word:销售",
+    "ok": false,
+    "issues": [
+      "En «今年公司的销售增加了很多», 销售 solo como sustantivo de cantidad suena poco natural; lo habitual es 销售额 (o 销量) 增加了很多."
+    ],
+    "content_hash": "24671c647e95b7dea0680d87e430234d564f9ee6"
+  },
+  {
+    "id": "word:附近",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c25681292e366c23ac36fffc37d18b18d9b1e394"
+  },
+  {
+    "id": "word:地球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7fd96cf49805b2c67eb6499823f136e8b3476d29"
+  },
+  {
+    "id": "word:公园",
+    "ok": true,
+    "issues": [],
+    "content_hash": "179e76bd153b76a04de51326bcfd4e79ac3dd46f"
+  },
+  {
+    "id": "word:习惯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d2059b572607c36789c8d8367e64811ce1d86e3"
+  },
+  {
+    "id": "word:比如",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0176c4991f587f0a51eb1dde4377b873522a5bfa"
+  },
+  {
+    "id": "word:卡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aea3ae0092c690ab7c18e5dd5b601741205390ae"
+  },
+  {
+    "id": "word:少数",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8a47cdec11f33a539a35e3d220ab8823789a4479"
+  },
+  {
+    "id": "word:允许",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e77ca0d2870c43b7e2f0f8da7622819621b22d5e"
+  },
+  {
+    "id": "word:度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "82af1f14ab37602ce26725073c1ce5e41b39ae64"
+  },
+  {
+    "id": "word:刚刚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5b072b5c5d5519e98dd9b0664bcec083f7710505"
+  },
+  {
+    "id": "word:战略",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f56c90b05281ace76191e8f3a6dc276a66583918"
+  },
+  {
+    "id": "word:特点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ce77c35e8e7ffa1eb5d9e336455f58a1718319c9"
+  },
+  {
+    "id": "word:教授",
+    "ok": true,
+    "issues": [],
+    "content_hash": "263dbc26b4d5c6a6f578761be377daf234ff11f9"
+  },
+  {
+    "id": "word:英文",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b1032a728c4a299cbc5254513a553ca0936cf501"
+  },
+  {
+    "id": "word:王",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5eccdaccc34b00162375e515160d4f666388425c"
+  },
+  {
+    "id": "word:重视",
+    "ok": true,
+    "issues": [],
+    "content_hash": "db0f6502e42caf71fc51c257090d5645c4ad1ae0"
+  },
+  {
+    "id": "word:编辑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f76fa0fa50541009a67ffa2731d2b75130accba2"
+  },
+  {
+    "id": "word:出口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "876c416370fb9c63c713abf4c552a12044150a19"
+  },
+  {
+    "id": "word:联盟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa15e75bbc53d9e3b18166cc689dd51a08dcb901"
+  },
+  {
+    "id": "word:街",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07a2e7dd1cda207d9558cef31b763bfc1d2b262b"
+  },
+  {
+    "id": "word:阶段",
+    "ok": true,
+    "issues": [],
+    "content_hash": "538fbc57e9f30b4acb9049d83c79f16c3a0162da"
+  },
+  {
+    "id": "word:城",
+    "ok": false,
+    "issues": [
+      "«这个城很大» no es natural en el chino moderno; se diría «这座城市很大» o «这个城市很大»."
+    ],
+    "content_hash": "1948330923d9b13fa3b3a753b3e7cfd6c222fe1c"
+  }
+]

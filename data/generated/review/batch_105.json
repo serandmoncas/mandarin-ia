@@ -1,0 +1,154 @@
+[
+  {
+    "id": "char:如",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d78307978d756925cd9eb3419ab4aa56a5fec6ad"
+  },
+  {
+    "id": "char:果",
+    "ok": false,
+    "issues": [
+      "Se presenta 田 como componente con el significado «campo, parcela», pero la mnemotecnia lo trata como el fruto en el árbol. En 果, esa parte representa el fruto, no un campo. Conviene aclararlo o ajustar la descripción del componente para no confundir al estudiante."
+    ],
+    "content_hash": "ecdc7516882553f11d18ec7a531045ebe5ad149e"
+  },
+  {
+    "id": "char:跟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7cb602de8994d372ba07185df9e6e1cd0eaccdc9"
+  },
+  {
+    "id": "char:该",
+    "ok": true,
+    "issues": [],
+    "content_hash": "31fa496185212c57a08191dcd5a0a28af898a2b5"
+  },
+  {
+    "id": "char:世",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27a31389f998b63d17a2c5b70ef45a2a611cb876"
+  },
+  {
+    "id": "char:界",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0ca07f59ac1f09b43681fb5188b1acc9d3c5777"
+  },
+  {
+    "id": "char:请",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aaaf9b738b688ecd3f984123e2d9e3a50190f692"
+  },
+  {
+    "id": "char:其",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76f3e576198be9773e6d3675aa9300fb7e83f6e6"
+  },
+  {
+    "id": "char:本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a471cd33d11c05c0ead919b45774d19a0544d2e"
+  },
+  {
+    "id": "char:呢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c51c03c4b59b95210ccb71e982ebbc12945d08d"
+  },
+  {
+    "id": "char:计",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6d3742b0427e70db0514aec2de192d9c0d69d048"
+  },
+  {
+    "id": "char:划",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f77f4da843167075cb20a64b0400963fefce465"
+  },
+  {
+    "id": "char:向",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63a8ec716f3cb15d806233b8b6b2e31e4db2276b"
+  },
+  {
+    "id": "char:只",
+    "ok": true,
+    "issues": [],
+    "content_hash": "18b229d87056d50bb592981e4c4baf134486f2b9"
+  },
+  {
+    "id": "char:北",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77e1cae97809ef980b408812183c1d5ed1d7e93a"
+  },
+  {
+    "id": "char:京",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2f8db7df5ba4101eee101085d5bbae312614ee63"
+  },
+  {
+    "id": "char:高",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3213beab50384419a2137df1bc13c26697152559"
+  },
+  {
+    "id": "char:成",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1a562db41db0b985edce13d882726e79132cb0b5"
+  },
+  {
+    "id": "char:觉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f875e898dec9f16afb029370c463de3222af31a9"
+  },
+  {
+    "id": "char:认",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8abe65d00fbea31aabbd6eb7290d2b7b1ac563cc"
+  },
+  {
+    "id": "char:重",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c903824e28370f61ca1621133428e1f521452286"
+  },
+  {
+    "id": "char:需",
+    "ok": true,
+    "issues": [],
+    "content_hash": "684964418fae418020c4476185a1168a229e457f"
+  },
+  {
+    "id": "char:起",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d31a6722489aff1742f374ddf1338ae743384cf"
+  },
+  {
+    "id": "char:啊",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f3a9ad3235ec771a9c138780b7a934d67217d77a"
+  },
+  {
+    "id": "char:喜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9bb20d84a5693db9ea1662fc355107a64e0764a"
+  }
+]

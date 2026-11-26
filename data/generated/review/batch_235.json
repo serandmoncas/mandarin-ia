@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:身边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9825bb7399dead5f976a5b11eebd358d264d6995"
+  },
+  {
+    "id": "word:词",
+    "ok": false,
+    "issues": [
+      "«用这个词说话» suena poco natural; lo habitual es «用这个词造句» o «用这个词说一句话»."
+    ],
+    "content_hash": "970ece9ec331786e0390cccf8dc70b14db72b0f6"
+  },
+  {
+    "id": "word:大部分",
+    "ok": false,
+    "issues": [
+      "Pinyin: el 过 aspectual de «看过» va en tono neutro (kàn guo), no «kàn guò»."
+    ],
+    "content_hash": "0368b9cecec9b95e2cf17dff09d90ff8fe28044f"
+  },
+  {
+    "id": "word:红",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bfafc181f7d28a639ce3cd6d6b2b8bfb3911c0dc"
+  },
+  {
+    "id": "word:克",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4cb3968234704adbf91edcf9e400d6c61e48c47"
+  },
+  {
+    "id": "word:困难",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a27f328218c34eba78bdb861034d1561c861052"
+  },
+  {
+    "id": "word:全面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e986dcba51428bfc98a591dd07b93ae942837ba"
+  },
+  {
+    "id": "word:留下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da627ff848893ebbf218c281af7615e8b422277c"
+  },
+  {
+    "id": "word:食物",
+    "ok": true,
+    "issues": [],
+    "content_hash": "26e894f6c52d8768e861b128d22c2baa292bfa7e"
+  },
+  {
+    "id": "word:东北",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f98160c4ed28b6ecd78916f0bc56865ed524db26"
+  },
+  {
+    "id": "word:份",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7c1b39706da54a8e5f9c3566dd12ec300837d837"
+  },
+  {
+    "id": "word:教学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "82dd55977c5c268be410d5948f19e9808105ed45"
+  },
+  {
+    "id": "word:协会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2451fdaefa86517d2dd4d8f99b4e032877747fc2"
+  },
+  {
+    "id": "word:设",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c235f167286cc30421545c3bf8e0248b463b4fba"
+  },
+  {
+    "id": "word:想到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b13dc6e5cd620417a891de88a194eb1acf2224dd"
+  },
+  {
+    "id": "word:出发",
+    "ok": false,
+    "issues": [
+      "«飞机早上八点出发» es poco natural; para aviones se usa 起飞. Conviene cambiar el sujeto (p. ej. 我们早上八点出发) o el verbo."
+    ],
+    "content_hash": "5074ef07f07d20adbcf99dd53b20bf9ff3b30014"
+  },
+  {
+    "id": "word:面对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d409284a3faf3bc6c5b064dabae7611b9706fc3"
+  },
+  {
+    "id": "word:取",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3f4eb169ba7f55c7268aa260107a506c2c793bbd"
+  },
+  {
+    "id": "word:商业",
+    "ok": false,
+    "issues": [
+      "«Aquí está el centro comercial de la ciudad» es engañoso: en Latinoamérica «centro comercial» significa mall. 商业中心 es la zona comercial. Además, «de la ciudad» no está en el original. Mejor: «Esta es la zona comercial» o «Este es el centro de negocios»."
+    ],
+    "content_hash": "1f207c8eb2dde9765415385a69ec2d0d68c499b8"
+  },
+  {
+    "id": "word:团",
+    "ok": false,
+    "issues": [
+      "包 es bolsa o bolso, no necesariamente mochila (背包). Mejor traducir «la metió en la bolsa».",
+      "En los significados, «bollo» es ambiguo (puede entenderse como pan dulce); mejor «bola de masa» o «masa»."
+    ],
+    "content_hash": "b70beb096d0652177285a95021a447001fee24cc"
+  },
+  {
+    "id": "word:心里",
+    "ok": false,
+    "issues": [
+      "Pinyin: 告诉 se lee gào su (tono neutro en 诉), no «gào sù»."
+    ],
+    "content_hash": "73025dee87180c86e5f02cfabebb10e5bbc462d6"
+  },
+  {
+    "id": "word:危险",
+    "ok": true,
+    "issues": [],
+    "content_hash": "579fe64ce80bc4cff1791941f5a634e9c4e6b9fd"
+  },
+  {
+    "id": "word:正是",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 se lee shí hou (tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "33d9369bf0f1649cd0cee2b7cc630b22f1890dd7"
+  },
+  {
+    "id": "word:现实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5bcde293a33a678e4c9db50f14a1c68441c7dfc8"
+  },
+  {
+    "id": "word:表",
+    "ok": true,
+    "issues": [],
+    "content_hash": "644d442dfe31b2accafc632f63bb5420f1f3920a"
+  }
+]

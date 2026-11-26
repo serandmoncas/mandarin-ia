@@ -1,0 +1,430 @@
+[
+  {
+    "char": "议",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "义",
+        "meaning_es": "justicia, sentido"
+      }
+    ],
+    "mnemonic_es": "Usamos palabras para buscar lo justo: así se discute y se debate."
+  },
+  {
+    "char": "立",
+    "components": [
+      {
+        "char": "立",
+        "meaning_es": "estar de pie, establecer"
+      }
+    ],
+    "mnemonic_es": "Imagina a una persona con los brazos abiertos parada firme sobre una línea de suelo: está de pie."
+  },
+  {
+    "char": "产",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa, techo"
+      },
+      {
+        "char": "丷",
+        "meaning_es": "dos chispas"
+      },
+      {
+        "char": "厂",
+        "meaning_es": "fábrica"
+      }
+    ],
+    "mnemonic_es": "Bajo el techo de la fábrica saltan chispas: ahí se produce todo."
+  },
+  {
+    "char": "完",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo, casa"
+      },
+      {
+        "char": "元",
+        "meaning_es": "origen, primero"
+      }
+    ],
+    "mnemonic_es": "Desde los cimientos hasta el techo: cuando la casa tiene techo, la obra está terminada."
+  },
+  {
+    "char": "午",
+    "components": [
+      {
+        "char": "午",
+        "meaning_es": "mediodía"
+      }
+    ],
+    "mnemonic_es": "Parece 牛 (vaca) pero sin cuerno: a mediodía hace tanto calor que la vaca se escondió el cuerno para dormir la siesta."
+  },
+  {
+    "char": "相",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      },
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      }
+    ],
+    "mnemonic_es": "Un ojo mira al árbol y el árbol parece mirarlo de vuelta: se miran mutuamente."
+  },
+  {
+    "char": "坐",
+    "components": [
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "Dos personas sentadas una frente a otra sobre la tierra: así se sienta uno a conversar."
+  },
+  {
+    "char": "品",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Tres bocas prueban el mismo plato para juzgar su calidad: es un producto de buen gusto."
+  },
+  {
+    "char": "即",
+    "components": [
+      {
+        "char": "皀",
+        "meaning_es": "cuenco de comida"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "persona arrodillada"
+      }
+    ],
+    "mnemonic_es": "Alguien se arrodilla junto al cuenco de comida y se pone a comer de inmediato."
+  },
+  {
+    "char": "兴",
+    "components": [
+      {
+        "char": "⺍",
+        "meaning_es": "chispas, destellos"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno, mesa"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho, patas"
+      }
+    ],
+    "mnemonic_es": "Chispas de fuegos artificiales sobre una mesa con dos patas: ¡qué fiesta, qué entusiasmo!"
+  },
+  {
+    "char": "喝",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "曷",
+        "meaning_es": "¿por qué?"
+      }
+    ],
+    "mnemonic_es": "La boca pregunta «¿por qué no?» y se toma otro trago: beber."
+  },
+  {
+    "char": "总",
+    "components": [
+      {
+        "char": "丷",
+        "meaning_es": "dos puntos"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "Lo que dice la boca y siente el corazón, sumado, da el total: siempre van juntos."
+  },
+  {
+    "char": "委",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "grano, cereal"
+      },
+      {
+        "char": "女",
+        "meaning_es": "mujer"
+      }
+    ],
+    "mnemonic_es": "El comité le encarga a una mujer cuidar la cosecha de grano: le confían la tarea."
+  },
+  {
+    "char": "员",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      }
+    ],
+    "mnemonic_es": "Una boca que recibe dinero por su trabajo: es un empleado, un miembro del equipo."
+  },
+  {
+    "char": "热",
+    "components": [
+      {
+        "char": "执",
+        "meaning_es": "sujetar"
+      },
+      {
+        "char": "灬",
+        "meaning_es": "fuego"
+      }
+    ],
+    "mnemonic_es": "Sujetas algo justo encima del fuego: ¡quema, está caliente!"
+  },
+  {
+    "char": "选",
+    "components": [
+      {
+        "char": "先",
+        "meaning_es": "primero, antes"
+      },
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      }
+    ],
+    "mnemonic_es": "Caminas por el mercado y te quedas con lo primero que te gusta: elegir."
+  },
+  {
+    "char": "择",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "又",
+        "meaning_es": "otra mano"
+      },
+      {
+        "char": "干",
+        "meaning_es": "palo, tronco"
+      }
+    ],
+    "mnemonic_es": "Con una mano y luego la otra revisas los palos uno por uno hasta escoger el mejor."
+  },
+  {
+    "char": "山",
+    "components": [
+      {
+        "char": "山",
+        "meaning_es": "montaña"
+      }
+    ],
+    "mnemonic_es": "Tres picos que se alzan desde la base: el más alto en medio, como una cordillera."
+  },
+  {
+    "char": "管",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "官",
+        "meaning_es": "funcionario"
+      }
+    ],
+    "mnemonic_es": "El funcionario administra la ciudad usando tubos de bambú para el agua: tubo y administrar."
+  },
+  {
+    "char": "理",
+    "components": [
+      {
+        "char": "王",
+        "meaning_es": "jade (forma de 玉)"
+      },
+      {
+        "char": "里",
+        "meaning_es": "aldea, dentro"
+      }
+    ],
+    "mnemonic_es": "En la aldea pulen el jade siguiendo sus vetas: ordenar con lógica, tener razón."
+  },
+  {
+    "char": "入",
+    "components": [
+      {
+        "char": "入",
+        "meaning_es": "entrar"
+      }
+    ],
+    "mnemonic_es": "Dos piernas dando un paso hacia adelante, como alguien que cruza una puerta: entrar."
+  },
+  {
+    "char": "页",
+    "components": [
+      {
+        "char": "一",
+        "meaning_es": "uno, línea"
+      },
+      {
+        "char": "贝",
+        "meaning_es": "concha, dinero"
+      }
+    ],
+    "mnemonic_es": "Una línea encima de una concha, como un marcador sobre un libro: página."
+  },
+  {
+    "char": "领",
+    "components": [
+      {
+        "char": "令",
+        "meaning_es": "orden, mandato"
+      },
+      {
+        "char": "页",
+        "meaning_es": "cabeza"
+      }
+    ],
+    "mnemonic_es": "La cabeza que da las órdenes es la que dirige: el líder."
+  },
+  {
+    "char": "导",
+    "components": [
+      {
+        "char": "巳",
+        "meaning_es": "serpiente (signo zodiacal)"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "mano, pulgada"
+      }
+    ],
+    "mnemonic_es": "Una mano guía a la serpiente por el camino correcto: guiar, conducir."
+  },
+  {
+    "char": "半",
+    "components": [
+      {
+        "char": "丷",
+        "meaning_es": "dos puntos"
+      },
+      {
+        "char": "二",
+        "meaning_es": "dos"
+      },
+      {
+        "char": "丨",
+        "meaning_es": "línea vertical"
+      }
+    ],
+    "mnemonic_es": "Una línea vertical corta todo justo por el centro: queda dividido a la mitad."
+  },
+  {
+    "char": "够",
+    "components": [
+      {
+        "char": "句",
+        "meaning_es": "frase, oración"
+      },
+      {
+        "char": "多",
+        "meaning_es": "mucho"
+      }
+    ],
+    "mnemonic_es": "Ya dijiste muchas frases: ¡suficiente, basta!"
+  },
+  {
+    "char": "六",
+    "components": [
+      {
+        "char": "亠",
+        "meaning_es": "tapa"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho"
+      }
+    ],
+    "mnemonic_es": "Al ocho le ponen una tapa encima y pierde dos: queda en seis."
+  },
+  {
+    "char": "口",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Un cuadrado abierto como una boca diciendo «¡oh!»: boca, abertura."
+  },
+  {
+    "char": "切",
+    "components": [
+      {
+        "char": "七",
+        "meaning_es": "siete"
+      },
+      {
+        "char": "刀",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Con un cuchillo cortas el pastel en siete pedazos: cortar."
+  },
+  {
+    "char": "睡",
+    "components": [
+      {
+        "char": "目",
+        "meaning_es": "ojo"
+      },
+      {
+        "char": "垂",
+        "meaning_es": "colgar, caer"
+      }
+    ],
+    "mnemonic_es": "Los párpados del ojo se caen pesados: te quedas dormido."
+  }
+]

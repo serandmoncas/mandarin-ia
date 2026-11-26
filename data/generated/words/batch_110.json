@@ -1,0 +1,533 @@
+[
+  {
+    "word": "千万",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sin falta, a toda costa (en advertencias)",
+      "por nada del mundo (con negación)",
+      "diez millones",
+      "innumerables"
+    ],
+    "examples": [
+      {
+        "zh": "你千万别忘了。",
+        "es": "Que no se te olvide por nada."
+      },
+      {
+        "zh": "千万要小心！",
+        "es": "¡Ten muchísimo cuidado!"
+      },
+      {
+        "zh": "这个城市有一千万人。",
+        "es": "Esta ciudad tiene diez millones de habitantes."
+      },
+      {
+        "zh": "下雨天开车千万要慢，路上很不安全。",
+        "es": "Cuando llueve, maneja despacio sí o sí; las calles no son seguras."
+      }
+    ]
+  },
+  {
+    "word": "桥",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "puente"
+    ],
+    "examples": [
+      {
+        "zh": "这座桥很长。",
+        "es": "Este puente es muy largo."
+      },
+      {
+        "zh": "我们走过那座桥吧。",
+        "es": "Crucemos ese puente."
+      },
+      {
+        "zh": "河上有一座很老的桥。",
+        "es": "Sobre el río hay un puente muy antiguo."
+      },
+      {
+        "zh": "每天早上我都要开车经过这座桥去上班。",
+        "es": "Todas las mañanas cruzo este puente en carro para ir al trabajo."
+      }
+    ]
+  },
+  {
+    "word": "天空",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cielo"
+    ],
+    "examples": [
+      {
+        "zh": "今天的天空很蓝。",
+        "es": "Hoy el cielo está muy azul."
+      },
+      {
+        "zh": "天空中有很多星星。",
+        "es": "Hay muchas estrellas en el cielo."
+      },
+      {
+        "zh": "鸟在天空中飞。",
+        "es": "Los pájaros vuelan en el cielo."
+      },
+      {
+        "zh": "下过雨以后，天空变得特别干净。",
+        "es": "Después de la lluvia, el cielo quedó especialmente limpio."
+      }
+    ]
+  },
+  {
+    "word": "预防",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "prevenir",
+      "tomar precauciones",
+      "preventivo"
+    ],
+    "examples": [
+      {
+        "zh": "预防很重要。",
+        "es": "La prevención es muy importante."
+      },
+      {
+        "zh": "我们要预防这种病。",
+        "es": "Tenemos que prevenir esta enfermedad."
+      },
+      {
+        "zh": "多运动可以预防很多病。",
+        "es": "Hacer ejercicio ayuda a prevenir muchas enfermedades."
+      },
+      {
+        "zh": "为了预防生病，冬天出门要多穿点衣服。",
+        "es": "Para no enfermarte, abrígate bien cuando salgas en invierno."
+      }
+    ]
+  },
+  {
+    "word": "种子",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "semilla"
+    ],
+    "examples": [
+      {
+        "zh": "这是花的种子。",
+        "es": "Estas son semillas de flores."
+      },
+      {
+        "zh": "我买了一些种子。",
+        "es": "Compré algunas semillas."
+      },
+      {
+        "zh": "把种子放在土里，再给它一点水。",
+        "es": "Pon la semilla en la tierra y luego échale un poco de agua."
+      },
+      {
+        "zh": "春天的时候，爷爷在院子里种下了很多种子。",
+        "es": "En la primavera, el abuelo sembró muchas semillas en el patio."
+      }
+    ]
+  },
+  {
+    "word": "反正",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de todos modos",
+      "de cualquier manera",
+      "total"
+    ],
+    "examples": [
+      {
+        "zh": "反正我不去。",
+        "es": "De todos modos, yo no voy."
+      },
+      {
+        "zh": "别急，反正还有时间。",
+        "es": "No te apures, total todavía hay tiempo."
+      },
+      {
+        "zh": "你想去就去吧，反正我在家休息。",
+        "es": "Si quieres ir, ve; de todas formas yo me quedo descansando en casa."
+      },
+      {
+        "zh": "不管他说什么，反正我已经决定了。",
+        "es": "Diga lo que diga, yo ya lo decidí."
+      }
+    ]
+  },
+  {
+    "word": "否认",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "negar",
+      "desmentir"
+    ],
+    "examples": [
+      {
+        "zh": "他否认了。",
+        "es": "Él lo negó."
+      },
+      {
+        "zh": "她否认这件事。",
+        "es": "Ella niega este asunto."
+      },
+      {
+        "zh": "他否认自己说过这句话。",
+        "es": "Él niega haber dicho esa frase."
+      },
+      {
+        "zh": "虽然有照片，但是他还是否认自己去过那里。",
+        "es": "Aunque hay fotos, él sigue negando que haya estado ahí."
+      }
+    ]
+  },
+  {
+    "word": "加快",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "acelerar",
+      "apurar",
+      "agilizar"
+    ],
+    "examples": [
+      {
+        "zh": "请加快速度。",
+        "es": "Por favor, aumenta la velocidad."
+      },
+      {
+        "zh": "我们得加快一点。",
+        "es": "Tenemos que apurarnos un poco."
+      },
+      {
+        "zh": "下雨了，他加快了脚步。",
+        "es": "Empezó a llover y él apuró el paso."
+      },
+      {
+        "zh": "政府决定加快城市交通的建设。",
+        "es": "El gobierno decidió agilizar la construcción del transporte urbano."
+      }
+    ]
+  },
+  {
+    "word": "客观",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "objetivo",
+      "imparcial"
+    ],
+    "examples": [
+      {
+        "zh": "他说得很客观。",
+        "es": "Lo que dijo es muy objetivo."
+      },
+      {
+        "zh": "请你客观一点。",
+        "es": "Por favor, sé un poco más objetivo."
+      },
+      {
+        "zh": "我们要客观地看问题。",
+        "es": "Tenemos que ver los problemas de forma objetiva."
+      },
+      {
+        "zh": "这篇文章写得很客观，没有个人看法。",
+        "es": "Este artículo es muy objetivo; no tiene opiniones personales."
+      }
+    ]
+  },
+  {
+    "word": "落后",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "quedarse atrás",
+      "atrasado, poco desarrollado",
+      "ir perdiendo (en una competencia)"
+    ],
+    "examples": [
+      {
+        "zh": "我们落后了。",
+        "es": "Nos quedamos atrás."
+      },
+      {
+        "zh": "这个地方很落后。",
+        "es": "Este lugar es muy atrasado."
+      },
+      {
+        "zh": "他生病以后，学习落后了。",
+        "es": "Después de enfermarse, se atrasó en los estudios."
+      },
+      {
+        "zh": "比赛还有十分钟，我们的球队落后两分。",
+        "es": "Faltan diez minutos para que termine el partido y nuestro equipo va perdiendo por dos puntos."
+      }
+    ]
+  },
+  {
+    "word": "亲自",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en persona",
+      "personalmente",
+      "uno mismo"
+    ],
+    "examples": [
+      {
+        "zh": "我亲自去。",
+        "es": "Voy yo en persona."
+      },
+      {
+        "zh": "老板亲自来了。",
+        "es": "El jefe vino en persona."
+      },
+      {
+        "zh": "这件事你最好亲自问他。",
+        "es": "Es mejor que le preguntes eso tú mismo."
+      },
+      {
+        "zh": "妈妈亲自给我做了一桌好吃的菜。",
+        "es": "Mi mamá misma me preparó una mesa llena de comida deliciosa."
+      }
+    ]
+  },
+  {
+    "word": "通信",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "escribirse, mantener correspondencia",
+      "comunicarse (a distancia)",
+      "telecomunicaciones"
+    ],
+    "examples": [
+      {
+        "zh": "我们常常通信。",
+        "es": "Nos escribimos seguido."
+      },
+      {
+        "zh": "他们通信很多年了。",
+        "es": "Llevan muchos años escribiéndose."
+      },
+      {
+        "zh": "手机让通信变得非常方便。",
+        "es": "El celular hizo que comunicarse sea muy fácil."
+      },
+      {
+        "zh": "大雨以后，这个地区的通信出了问题。",
+        "es": "Después del aguacero, las comunicaciones de esta zona fallaron."
+      }
+    ]
+  },
+  {
+    "word": "外面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "afuera",
+      "exterior",
+      "apariencia externa"
+    ],
+    "examples": [
+      {
+        "zh": "外面很冷。",
+        "es": "Afuera hace mucho frío."
+      },
+      {
+        "zh": "他在外面等你。",
+        "es": "Él te está esperando afuera."
+      },
+      {
+        "zh": "外面下雨了，别出去了。",
+        "es": "Está lloviendo afuera, mejor no salgas."
+      },
+      {
+        "zh": "这家饭店外面看起来不大，里面很漂亮。",
+        "es": "Por fuera este restaurante no parece grande, pero por dentro es muy bonito."
+      }
+    ]
+  },
+  {
+    "word": "搬",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cargar, mover (algo pesado)",
+      "mudarse",
+      "copiar sin criterio"
+    ],
+    "examples": [
+      {
+        "zh": "我们搬家了。",
+        "es": "Nos mudamos."
+      },
+      {
+        "zh": "帮我搬一下这张桌子。",
+        "es": "Ayúdame a mover esta mesa."
+      },
+      {
+        "zh": "这个太重了，我一个人搬不动。",
+        "es": "Esto pesa demasiado, no puedo cargarlo yo solo."
+      },
+      {
+        "zh": "去年他从北京搬到上海，找了一份新工作。",
+        "es": "El año pasado se mudó de Pekín a Shanghái y consiguió un trabajo nuevo."
+      }
+    ]
+  },
+  {
+    "word": "性别",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sexo",
+      "género"
+    ],
+    "examples": [
+      {
+        "zh": "请写上你的性别。",
+        "es": "Por favor, escribe tu sexo."
+      },
+      {
+        "zh": "这个工作不分性别。",
+        "es": "Este trabajo no distingue entre géneros."
+      },
+      {
+        "zh": "表上要写名字和性别。",
+        "es": "En el formulario hay que poner el nombre y el sexo."
+      },
+      {
+        "zh": "不论性别，每个学生都有平等的机会。",
+        "es": "Sin importar el género, todos los estudiantes tienen las mismas oportunidades."
+      }
+    ]
+  },
+  {
+    "word": "步",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "paso",
+      "etapa (de un proceso)",
+      "situación, punto"
+    ],
+    "examples": [
+      {
+        "zh": "往前走一步。",
+        "es": "Da un paso hacia adelante."
+      },
+      {
+        "zh": "第一步最难。",
+        "es": "El primer paso es el más difícil."
+      },
+      {
+        "zh": "我们下一步怎么办？",
+        "es": "¿Qué hacemos ahora?"
+      },
+      {
+        "zh": "事情到了这一步，我们只能继续了。",
+        "es": "Con las cosas a este punto, solo podemos seguir adelante."
+      }
+    ]
+  },
+  {
+    "word": "教练",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrenador",
+      "instructor",
+      "entrenar"
+    ],
+    "examples": [
+      {
+        "zh": "他是我的教练。",
+        "es": "Él es mi entrenador."
+      },
+      {
+        "zh": "教练让我们休息一下。",
+        "es": "El entrenador nos dejó descansar un rato."
+      },
+      {
+        "zh": "我们的足球教练以前也是运动员。",
+        "es": "Nuestro entrenador de fútbol también fue deportista antes."
+      },
+      {
+        "zh": "比赛结束后，教练告诉我们哪里还需要练习。",
+        "es": "Después del partido, el entrenador nos dijo qué teníamos que practicar más."
+      }
+    ]
+  },
+  {
+    "word": "恐怕",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "me temo que",
+      "a lo mejor, quizás",
+      "temer"
+    ],
+    "examples": [
+      {
+        "zh": "恐怕要下雨了。",
+        "es": "Me temo que va a llover."
+      },
+      {
+        "zh": "他恐怕不会来了。",
+        "es": "Me temo que él ya no va a venir."
+      },
+      {
+        "zh": "时间太晚了，恐怕没有车了。",
+        "es": "Ya es muy tarde; a lo mejor ya no hay transporte."
+      },
+      {
+        "zh": "这个问题很复杂，恐怕一天解决不了。",
+        "es": "Este problema es muy complicado; me temo que no se puede resolver en un día."
+      }
+    ]
+  },
+  {
+    "word": "世界杯",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Copa del Mundo",
+      "Mundial"
+    ],
+    "examples": [
+      {
+        "zh": "你看世界杯吗？",
+        "es": "¿Ves el Mundial?"
+      },
+      {
+        "zh": "世界杯四年一次。",
+        "es": "El Mundial es cada cuatro años."
+      },
+      {
+        "zh": "我们晚上一起看世界杯比赛吧。",
+        "es": "Veamos juntos el partido del Mundial esta noche."
+      },
+      {
+        "zh": "很多人认为这是世界杯历史上最好的一场比赛。",
+        "es": "Mucha gente cree que este es el mejor partido en la historia del Mundial."
+      }
+    ]
+  },
+  {
+    "word": "争",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "discutir, pelear",
+      "competir por, disputarse",
+      "esforzarse por conseguir"
+    ],
+    "examples": [
+      {
+        "zh": "别争了。",
+        "es": "Ya no discutan."
+      },
+      {
+        "zh": "孩子们在争一个球。",
+        "es": "Los niños se están peleando por una pelota."
+      },
+      {
+        "zh": "他们为了一点小事争了起来。",
+        "es": "Se pusieron a discutir por una tontería."
+      },
+      {
+        "zh": "两个公司都在争这个市场，谁也不让谁。",
+        "es": "Las dos empresas se disputan este mercado y ninguna cede."
+      }
+    ]
+  }
+]

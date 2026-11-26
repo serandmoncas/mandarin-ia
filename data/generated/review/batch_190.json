@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:顿",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 debe ser «mā ma» (tono neutro en la segunda sílaba), no «mā mā»."
+    ],
+    "content_hash": "41aee8c137dd11725a95244a0d0a3a1d2d22cdd6"
+  },
+  {
+    "id": "word:年纪",
+    "ok": false,
+    "issues": [
+      "Pinyin: 爷爷 debe ser «yé ye» (tono neutro), no «yé yé».",
+      "认真 se traduce mejor como «muy seria/dedicada» que como «responsable»."
+    ],
+    "content_hash": "ef04de75edf2ef89244b28134fdbe425404e849c"
+  },
+  {
+    "id": "word:定期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cec11e42b490a11dbcf5c63f947e46d6e268909d"
+  },
+  {
+    "id": "word:付",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b57f2ca3b166accb4b591aca8be460f0ca4dac17"
+  },
+  {
+    "id": "word:生意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99c4bef498651c1d40cea53502af33ba00601083"
+  },
+  {
+    "id": "word:石头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "164e58d4c782b3732ae491ab0d774c1967f98850"
+  },
+  {
+    "id": "word:香",
+    "ok": false,
+    "issues": [
+      "«¡Qué rica huele la comida…!» no es correcto; debe ser «¡Qué rico huele la comida…!», porque «rico» funciona como adverbio."
+    ],
+    "content_hash": "8aabb366dcf61bedbb9d4539e1088be3a17f0fc6"
+  },
+  {
+    "id": "word:皮",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 debe ser «shí hou» (tono neutro), no «shí hòu»."
+    ],
+    "content_hash": "e0abcc0ce9e104229761389e7bdb2d276ea4a9e2"
+  },
+  {
+    "id": "word:福",
+    "ok": true,
+    "issues": [],
+    "content_hash": "31fe0196a01c8afea92a616ca0399384ef0aca0f"
+  },
+  {
+    "id": "word:热爱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ace8ae99b93fca84e8066fdae08638324f34f62f"
+  },
+  {
+    "id": "word:带动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "77039c10793f1cb5c7c2f5cd3b481fa58937266a"
+  },
+  {
+    "id": "word:补",
+    "ok": true,
+    "issues": [],
+    "content_hash": "be416f5f9b6da6a46806a625e986c2cf4096dda0"
+  },
+  {
+    "id": "word:好奇",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8d71176a7b8d984bb1d7b38a0f1ee1d77f273d4d"
+  },
+  {
+    "id": "word:营养",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bb238bd9bba040e8be134afecfff067885b795f5"
+  },
+  {
+    "id": "word:旅馆",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c44165d91b66b53aad86c4d70c228d9a384b23e"
+  },
+  {
+    "id": "word:热烈",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9e3ef3db5adb88b72877ff9695e8eb26438a7423"
+  },
+  {
+    "id": "word:游",
+    "ok": false,
+    "issues": [
+      "Falta el significado muy frecuente «pasear, viajar, recorrer» (variante de 遊, como en 旅游 o 游览).",
+      "«我会游» suena poco natural; lo habitual es «我会游泳，但是游得很慢»."
+    ],
+    "content_hash": "7113977ce5c08fa05cacad4f6c19cdece1b8436e"
+  },
+  {
+    "id": "word:存",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ffac8d26a7652a86a77d716e5275a0e8dfdfb74d"
+  },
+  {
+    "id": "word:伤心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a0e117165638bf7abb0e5f5120669cd0f99faf9c"
+  },
+  {
+    "id": "word:整",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9cd62ec7828f2bc26a043f71b1938bee55199ebc"
+  },
+  {
+    "id": "word:从前",
+    "ok": false,
+    "issues": [
+      "Pinyin: 早上 debe ser «zǎo shang» (tono neutro), no «zǎo shàng»."
+    ],
+    "content_hash": "d708e756f4bc33832ec4305d7fb76eab765ceed9"
+  },
+  {
+    "id": "word:汤",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 debe ser «mā ma», no «mā mā».",
+      "Pinyin: 时候 debe ser «shí hou», no «shí hòu»."
+    ],
+    "content_hash": "127df14b09c611936c1d36f7ad51100debc69f41"
+  },
+  {
+    "id": "word:自觉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c1eeac6c20bed3b9ac6a2e5cdd1c972cfc281cb"
+  },
+  {
+    "id": "word:发送",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34326b88bd2110f4c6e5b9f3f0b15bddc0c43966"
+  },
+  {
+    "id": "word:乐观",
+    "ok": false,
+    "issues": [
+      "Pinyin: 爸爸 debe ser «bà ba» (tono neutro), no «bà bà»."
+    ],
+    "content_hash": "aa89d305cdf81e62b390011673490bee10b831b5"
+  }
+]

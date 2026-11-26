@@ -1,0 +1,546 @@
+[
+  {
+    "word": "出来",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salir",
+      "aparecer",
+      "surgir"
+    ],
+    "examples": [
+      {
+        "zh": "你出来吧。",
+        "es": "Sal ya."
+      },
+      {
+        "zh": "他从公司出来了。",
+        "es": "Él salió de la empresa."
+      },
+      {
+        "zh": "我在外面等你出来。",
+        "es": "Te espero afuera hasta que salgas."
+      },
+      {
+        "zh": "这个问题是怎么出来的？",
+        "es": "¿Cómo surgió este problema?"
+      }
+    ]
+  },
+  {
+    "word": "起",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "levantarse",
+      "a partir de, desde",
+      "empezar",
+      "clasificador para casos o incidentes"
+    ],
+    "examples": [
+      {
+        "zh": "你几点起？",
+        "es": "¿A qué hora te levantas?"
+      },
+      {
+        "zh": "我今天起得很早。",
+        "es": "Hoy me levanté muy temprano."
+      },
+      {
+        "zh": "从明天起，我不喝酒了。",
+        "es": "A partir de mañana dejo de tomar alcohol."
+      },
+      {
+        "zh": "从下个月起，公司会给我们更多的钱。",
+        "es": "A partir del próximo mes, la empresa nos va a dar más dinero."
+      }
+    ]
+  },
+  {
+    "word": "内",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dentro de",
+      "en un plazo de",
+      "interno",
+      "interior"
+    ],
+    "examples": [
+      {
+        "zh": "我三天内给你钱。",
+        "es": "Te doy el dinero en un plazo de tres días."
+      },
+      {
+        "zh": "他现在在国内工作。",
+        "es": "Ahora él trabaja dentro del país."
+      },
+      {
+        "zh": "一个月内，我们要做好这个计划。",
+        "es": "En un mes tenemos que terminar este plan."
+      },
+      {
+        "zh": "这是公司内的事，你不能说。",
+        "es": "Es un asunto interno de la empresa; no puedes contarlo."
+      }
+    ]
+  },
+  {
+    "word": "两",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dos",
+      "ambos",
+      "unos cuantos, un par",
+      "liang (unidad de peso de 50 gramos)"
+    ],
+    "examples": [
+      {
+        "zh": "我有两个中国朋友。",
+        "es": "Tengo dos amigos chinos."
+      },
+      {
+        "zh": "他们两个人都喜欢电影。",
+        "es": "A los dos les gustan las películas."
+      },
+      {
+        "zh": "过两天我再去看你。",
+        "es": "En un par de días vuelvo a visitarte."
+      },
+      {
+        "zh": "我在北京工作了两年，觉得很好。",
+        "es": "Trabajé dos años en Pekín y me pareció muy bien."
+      }
+    ]
+  },
+  {
+    "word": "却",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "pero",
+      "sin embargo",
+      "en cambio",
+      "retroceder"
+    ],
+    "examples": [
+      {
+        "zh": "他有钱，却不快乐。",
+        "es": "Tiene dinero, pero no es feliz."
+      },
+      {
+        "zh": "我想去，他却不想去。",
+        "es": "Yo quiero ir, pero él no."
+      },
+      {
+        "zh": "这个问题很小，却很重要。",
+        "es": "Este problema es pequeño, pero es importante."
+      },
+      {
+        "zh": "他说今天来，现在却还没有来。",
+        "es": "Dijo que vendría hoy, pero todavía no ha llegado."
+      }
+    ]
+  },
+  {
+    "word": "这里",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "aquí",
+      "acá",
+      "este lugar"
+    ],
+    "examples": [
+      {
+        "zh": "我在这里。",
+        "es": "Estoy aquí."
+      },
+      {
+        "zh": "这里是北京。",
+        "es": "Aquí es Pekín."
+      },
+      {
+        "zh": "你可以在这里等我吗？",
+        "es": "¿Puedes esperarme aquí?"
+      },
+      {
+        "zh": "我很喜欢这里，想在这里工作。",
+        "es": "Me gusta mucho este lugar; quiero trabajar aquí."
+      }
+    ]
+  },
+  {
+    "word": "才",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "recién, apenas",
+      "solo (ante una cantidad)",
+      "solo entonces, hasta (que)",
+      "talento"
+    ],
+    "examples": [
+      {
+        "zh": "我才来。",
+        "es": "Acabo de llegar."
+      },
+      {
+        "zh": "他才三岁。",
+        "es": "Solo tiene tres años."
+      },
+      {
+        "zh": "他十点才来。",
+        "es": "No llegó hasta las diez."
+      },
+      {
+        "zh": "你要多听，才能说好中文。",
+        "es": "Tienes que escuchar mucho para poder hablar bien chino."
+      }
+    ]
+  },
+  {
+    "word": "经济",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "economía",
+      "económico"
+    ],
+    "examples": [
+      {
+        "zh": "我想学经济。",
+        "es": "Quiero estudiar economía."
+      },
+      {
+        "zh": "中国经济发展很快。",
+        "es": "La economía de China crece muy rápido."
+      },
+      {
+        "zh": "现在的经济问题很多。",
+        "es": "Hoy en día hay muchos problemas económicos."
+      },
+      {
+        "zh": "政府认为经济发展是最重要的事。",
+        "es": "El gobierno considera que el desarrollo económico es lo más importante."
+      }
+    ]
+  },
+  {
+    "word": "国",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "país",
+      "nación",
+      "nacional"
+    ],
+    "examples": [
+      {
+        "zh": "你是哪国人？",
+        "es": "¿De qué país eres?"
+      },
+      {
+        "zh": "他在国外工作。",
+        "es": "Él trabaja en el extranjero."
+      },
+      {
+        "zh": "中美两国都是大国。",
+        "es": "China y Estados Unidos son dos grandes potencias."
+      },
+      {
+        "zh": "他想去外国学习，但是没有钱。",
+        "es": "Quiere irse a estudiar al extranjero, pero no tiene dinero."
+      }
+    ]
+  },
+  {
+    "word": "使用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "usar",
+      "utilizar",
+      "emplear"
+    ],
+    "examples": [
+      {
+        "zh": "你会使用这个吗？",
+        "es": "¿Sabes usar esto?"
+      },
+      {
+        "zh": "这里不能使用电话。",
+        "es": "Aquí no se puede usar el teléfono."
+      },
+      {
+        "zh": "请在使用以前看一下这个。",
+        "es": "Por favor, lee esto antes de usarlo."
+      },
+      {
+        "zh": "公司的人都可以使用这个地方。",
+        "es": "Todo el personal de la empresa puede usar este lugar."
+      }
+    ]
+  },
+  {
+    "word": "看到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ver",
+      "notar"
+    ],
+    "examples": [
+      {
+        "zh": "我看到他了。",
+        "es": "Lo vi."
+      },
+      {
+        "zh": "你看到我的钱了吗？",
+        "es": "¿Viste mi dinero?"
+      },
+      {
+        "zh": "我在北京看到了很多新的东西。",
+        "es": "En Pekín vi muchas cosas nuevas."
+      },
+      {
+        "zh": "看到这个电影，我想起了我的国家。",
+        "es": "Al ver esta película, me acordé de mi país."
+      }
+    ]
+  },
+  {
+    "word": "一起",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "juntos",
+      "con (alguien)",
+      "en total",
+      "un caso (de un incidente)"
+    ],
+    "examples": [
+      {
+        "zh": "我们一起去吧。",
+        "es": "Vamos juntos."
+      },
+      {
+        "zh": "你想跟我一起吃饭吗？",
+        "es": "¿Quieres comer conmigo?"
+      },
+      {
+        "zh": "这些一起多少钱？",
+        "es": "¿Cuánto cuestan todos juntos?"
+      },
+      {
+        "zh": "他们在一起工作三年了。",
+        "es": "Llevan tres años trabajando juntos."
+      }
+    ]
+  },
+  {
+    "word": "活动",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "actividad",
+      "evento",
+      "moverse, hacer ejercicio",
+      "campaña"
+    ],
+    "examples": [
+      {
+        "zh": "今天有活动吗？",
+        "es": "¿Hay alguna actividad hoy?"
+      },
+      {
+        "zh": "你要多活动活动。",
+        "es": "Tienes que moverte más."
+      },
+      {
+        "zh": "学生们都喜欢这个活动。",
+        "es": "A todos los estudiantes les gusta esta actividad."
+      },
+      {
+        "zh": "公司下个月要在北京做一个活动。",
+        "es": "El próximo mes la empresa va a hacer un evento en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "走",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "caminar",
+      "irse",
+      "ir",
+      "pasar por"
+    ],
+    "examples": [
+      {
+        "zh": "我走了。",
+        "es": "Me voy."
+      },
+      {
+        "zh": "我们走路去吧。",
+        "es": "Vamos a pie."
+      },
+      {
+        "zh": "你走得太快了。",
+        "es": "Caminas demasiado rápido."
+      },
+      {
+        "zh": "从这里走到公司要多长时间？",
+        "es": "¿Cuánto se tarda caminando de aquí a la empresa?"
+      }
+    ]
+  },
+  {
+    "word": "但是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pero",
+      "sin embargo"
+    ],
+    "examples": [
+      {
+        "zh": "我想去，但是没有时间。",
+        "es": "Quiero ir, pero no tengo tiempo."
+      },
+      {
+        "zh": "这个很好，但是太贵了。",
+        "es": "Esto es muy bueno, pero es demasiado caro."
+      },
+      {
+        "zh": "他是日本人，但是中文说得很好。",
+        "es": "Es japonés, pero habla muy bien chino."
+      },
+      {
+        "zh": "我已经知道了，但是还是想听你说。",
+        "es": "Ya lo sé, pero aun así quiero oírlo de ti."
+      }
+    ]
+  },
+  {
+    "word": "吃",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comer",
+      "comer en (un lugar)",
+      "sufrir, padecer",
+      "consumir"
+    ],
+    "examples": [
+      {
+        "zh": "你吃饭了吗？",
+        "es": "¿Ya comiste?"
+      },
+      {
+        "zh": "我不吃这个。",
+        "es": "No como esto."
+      },
+      {
+        "zh": "我们今天去哪里吃？",
+        "es": "¿Dónde vamos a comer hoy?"
+      },
+      {
+        "zh": "他在中国吃了很多苦。",
+        "es": "Sufrió mucho en China."
+      }
+    ]
+  },
+  {
+    "word": "话",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "palabras, lo que alguien dice",
+      "habla, conversación",
+      "idioma",
+      "dialecto"
+    ],
+    "examples": [
+      {
+        "zh": "他不爱说话。",
+        "es": "A él no le gusta hablar."
+      },
+      {
+        "zh": "我听不懂你的话。",
+        "es": "No entiendo lo que dices."
+      },
+      {
+        "zh": "我想跟你说几句话。",
+        "es": "Quiero decirte unas palabras."
+      },
+      {
+        "zh": "他会说北京话和上海话。",
+        "es": "Él habla el dialecto de Pekín y el de Shanghái."
+      }
+    ]
+  },
+  {
+    "word": "应该",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "deber",
+      "tener que",
+      "deber de (probabilidad)"
+    ],
+    "examples": [
+      {
+        "zh": "你应该去。",
+        "es": "Deberías ir."
+      },
+      {
+        "zh": "我们应该怎么做？",
+        "es": "¿Qué deberíamos hacer?"
+      },
+      {
+        "zh": "他现在应该在公司。",
+        "es": "Ahora debe de estar en la empresa."
+      },
+      {
+        "zh": "学生应该多听多说，不要怕说错。",
+        "es": "Los estudiantes deberían escuchar y hablar mucho, sin miedo a equivocarse."
+      }
+    ]
+  },
+  {
+    "word": "今天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hoy",
+      "la actualidad"
+    ],
+    "examples": [
+      {
+        "zh": "今天很热。",
+        "es": "Hoy hace mucho calor."
+      },
+      {
+        "zh": "今天是几号？",
+        "es": "¿Qué fecha es hoy?"
+      },
+      {
+        "zh": "今天我没有时间，明天再说吧。",
+        "es": "Hoy no tengo tiempo; mejor lo hablamos mañana."
+      },
+      {
+        "zh": "今天的中国和以前很不一样。",
+        "es": "La China de hoy es muy distinta a la de antes."
+      }
+    ]
+  },
+  {
+    "word": "历史",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "historia"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢历史。",
+        "es": "Me gusta la historia."
+      },
+      {
+        "zh": "北京的历史很长。",
+        "es": "Pekín tiene una historia muy larga."
+      },
+      {
+        "zh": "他在大学学习历史。",
+        "es": "Él estudia historia en la universidad."
+      },
+      {
+        "zh": "这个电影让我知道了很多中国历史。",
+        "es": "Esta película me enseñó mucho sobre la historia de China."
+      }
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "id": "char:所",
+    "ok": true,
+    "issues": [],
+    "content_hash": "892f273c6d571ae8e2c077036198d692f11e3e93"
+  },
+  {
+    "id": "char:小",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f55b877a5ba13e5756a55927c2abffa0c588c723"
+  },
+  {
+    "id": "char:发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ea0ed3064407a859792906c68407e3bf25944826"
+  },
+  {
+    "id": "char:展",
+    "ok": false,
+    "issues": [
+      "La descomposición está incompleta: falta el elemento central (卄/共) entre 尸 y 𧘇, así que el estudiante no puede reconstruir el carácter con los componentes dados.",
+      "La imagen de tender ropa sobre un cuerpo acostado resulta confusa y poco intuitiva para el significado de 'desplegar, exhibir'."
+    ],
+    "content_hash": "bd8219bb60d8c4c7561133b84525fe19c1186cc1"
+  },
+  {
+    "id": "char:再",
+    "ok": true,
+    "issues": [],
+    "content_hash": "170af97f183b8b3ee41afc1f6f5d7016dd54a676"
+  },
+  {
+    "id": "char:开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fcb4c9a2a7100fad0a2404ba4405dda40be43d3c"
+  },
+  {
+    "id": "char:始",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2af955daf2fdbb1044c26f37bfd5e307d40f8733"
+  },
+  {
+    "id": "char:爱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "34113d8a47f060cd03259499f14cf84d6c03e27e"
+  },
+  {
+    "id": "char:样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f021305fc60cb0968ebe252fb8a35430004afa93"
+  },
+  {
+    "id": "char:第",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b2684f19acbb027eceba1989ebf85228c99b6a9c"
+  },
+  {
+    "id": "char:公",
+    "ok": true,
+    "issues": [],
+    "content_hash": "746addad9d9b91bb8489a16526d401b498b342f4"
+  },
+  {
+    "id": "char:司",
+    "ok": true,
+    "issues": [],
+    "content_hash": "673c142cc13769795fcdd44c349e34203fb80a5e"
+  },
+  {
+    "id": "char:谁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dec97d06b5a52baf601d12929fb13aacd9235df7"
+  },
+  {
+    "id": "char:它",
+    "ok": true,
+    "issues": [],
+    "content_hash": "950642a72773e75191e13b11d1063c9a2a184b8a"
+  },
+  {
+    "id": "char:真",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f824d11ef33190ff5176ea1adeb30145fb9f467b"
+  },
+  {
+    "id": "char:政",
+    "ok": true,
+    "issues": [],
+    "content_hash": "27d9ba32f084e13fb5bd19f54def0ef3589c537a"
+  },
+  {
+    "id": "char:府",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f5a228c20c20994f95220332c475512ef74dc22"
+  },
+  {
+    "id": "char:方",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97e3866d8a5d793e914deadb8f463ee2f9994c2d"
+  },
+  {
+    "id": "char:号",
+    "ok": true,
+    "issues": [],
+    "content_hash": "74ca069e739bbf127b7abc2477a3f82ff9c3cc01"
+  },
+  {
+    "id": "char:社",
+    "ok": true,
+    "issues": [],
+    "content_hash": "16f310fe08ce9ccaf61ef24eebda8cce28f612d4"
+  },
+  {
+    "id": "char:快",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7fd9a956f3ec665828de2148aee1788d8308b0c5"
+  },
+  {
+    "id": "char:事",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e324fa736303749b3a0b6f6cac0f88174195b908"
+  },
+  {
+    "id": "char:进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0c53f67acc6e867f647f8acc079f6d008e90845"
+  },
+  {
+    "id": "char:行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6014bc7b771becd63db0e709a7eb3ef71202d094"
+  },
+  {
+    "id": "char:比",
+    "ok": false,
+    "issues": [
+      "Incoherencia entre componentes y mnemotecnia: el componente se describe como 'persona agachada', pero la mnemotecnia habla de 'personitas paradas'."
+    ],
+    "content_hash": "6b21e08e95464ba257222581416b2a5893db307b"
+  }
+]

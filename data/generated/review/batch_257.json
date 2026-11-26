@@ -1,0 +1,161 @@
+[
+  {
+    "id": "word:短期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "21f57108185a2ac1a5ea7b631559ddd4c7b1daac"
+  },
+  {
+    "id": "word:去世",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ef60a4386695adb9d07d6ef0a8f5829a93c628a0"
+  },
+  {
+    "id": "word:定期",
+    "ok": true,
+    "issues": [],
+    "content_hash": "47beff15bf09fb24ddb6c9fc323d08220df2bce7"
+  },
+  {
+    "id": "word:美食",
+    "ok": true,
+    "issues": [],
+    "content_hash": "08af5e9335ea0d89ca75f57a418115a9601696e2"
+  },
+  {
+    "id": "word:石头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0923c2322baecdb2ee0acaf5497663a5d9a0acac"
+  },
+  {
+    "id": "word:痛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a4106abb8d03d5b07c93aa889822d36178602e76"
+  },
+  {
+    "id": "word:美术",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «Estudia arte desde niño» debería ir en pasado («Estudió arte desde niño»), ya que ahora es pintor."
+    ],
+    "content_hash": "99c5eb97e10446c171c0c8a2a5104aafea2766fc"
+  },
+  {
+    "id": "word:游泳",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f7ed3f3220ccfda066cee1e53ee3afa1076a424b"
+  },
+  {
+    "id": "word:防",
+    "ok": true,
+    "issues": [],
+    "content_hash": "823e9dab2557243989d9fc6d30e679801d508e84"
+  },
+  {
+    "id": "word:果然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "991d20277b44c6c194a9179a2c43d73347791d91"
+  },
+  {
+    "id": "word:皮",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f92f3c253eac005cda17e194c870656dbb2f1d14"
+  },
+  {
+    "id": "word:其次",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3d056ff3afa2ecf8523e365dc434b580ea052a0"
+  },
+  {
+    "id": "word:玩具",
+    "ok": true,
+    "issues": [],
+    "content_hash": "02aebe4db78484a3e05febe47d32c39243bd013d"
+  },
+  {
+    "id": "word:温暖",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f2e637fe21caa4b19341582950565387845a412e"
+  },
+  {
+    "id": "word:一方面",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4c039f8e739a73eca8a4f311e6b223bea18148fa"
+  },
+  {
+    "id": "word:福",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c7d85291cf41d62b9229ac62c65c39a719f8c5c"
+  },
+  {
+    "id": "word:糖",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «我不吃糖» se entiende normalmente como «No como dulces», no «No como azúcar»."
+    ],
+    "content_hash": "76a18abc650b008f96f5cf03b19a469ac8ab5674"
+  },
+  {
+    "id": "word:初中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0f7ee03dc2b8dd9413343557a2c075dd093dc3ee"
+  },
+  {
+    "id": "word:带动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e53d4d9ef3cd1b6be6a6e23793c5b9248ee57277"
+  },
+  {
+    "id": "word:胜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7cb3c75848e91cab7741f7cdbd90d88339980175"
+  },
+  {
+    "id": "word:土",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f98b0784fde526201235273318b8b560f04901b9"
+  },
+  {
+    "id": "word:坚强",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: pinyin «mā mā» debe ser «mā ma» (segunda sílaba en tono neutro)."
+    ],
+    "content_hash": "387c08cc42c561090a74404043f635f8f6446dba"
+  },
+  {
+    "id": "word:交往",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c9d92e399f9adc0e8ed75cd28c8af43af75ae747"
+  },
+  {
+    "id": "word:热烈",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98acf9db9072e3b4add5adca8db83ee5d00729e8"
+  },
+  {
+    "id": "word:游",
+    "ok": false,
+    "issues": [
+      "Faltan significados frecuentes de 游 (como variante de 遊): viajar, recorrer, pasear (p. ej. 旅游, 游览).",
+      "Ejemplo 2: «我会游» suena poco natural; lo habitual es «我会游泳»."
+    ],
+    "content_hash": "15741a2fe8420ede2c8b556d150c6516f1e7151e"
+  }
+]

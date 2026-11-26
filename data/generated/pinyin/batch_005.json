@@ -1,0 +1,422 @@
+[
+  {
+    "word": "一切",
+    "examples": [
+      {
+        "zh": "一切都好。",
+        "pinyin": "yi1 qie4 dou1 hao3"
+      },
+      {
+        "zh": "谢谢你为我做的一切。",
+        "pinyin": "xie4 xie5 ni3 wei4 wo3 zuo4 de5 yi1 qie4"
+      },
+      {
+        "zh": "他把一切都告诉了妈妈。",
+        "pinyin": "ta1 ba3 yi1 qie4 dou1 gao4 su5 le5 ma1 ma5"
+      },
+      {
+        "zh": "和你在一起，一切都会好起来的。",
+        "pinyin": "he2 ni3 zai4 yi1 qi3 yi1 qie4 dou1 hui4 hao3 qi3 lai5 de5"
+      }
+    ]
+  },
+  {
+    "word": "睡",
+    "examples": [
+      {
+        "zh": "我要睡了。",
+        "pinyin": "wo3 yao4 shui4 le5"
+      },
+      {
+        "zh": "孩子已经睡了。",
+        "pinyin": "hai2 zi5 yi3 jing1 shui4 le5"
+      },
+      {
+        "zh": "你昨天晚上睡得好吗？",
+        "pinyin": "ni3 zuo2 tian1 wan3 shang5 shui4 de5 hao3 ma5"
+      },
+      {
+        "zh": "我太累了，一回家就睡了。",
+        "pinyin": "wo3 tai4 lei4 le5 yi1 hui2 jia1 jiu4 shui4 le5"
+      }
+    ]
+  },
+  {
+    "word": "中文",
+    "examples": [
+      {
+        "zh": "我学中文。",
+        "pinyin": "wo3 xue2 zhong1 wen2"
+      },
+      {
+        "zh": "你会说中文吗？",
+        "pinyin": "ni3 hui4 shuo1 zhong1 wen2 ma5"
+      },
+      {
+        "zh": "他的中文说得很好。",
+        "pinyin": "ta1 de5 zhong1 wen2 shuo1 de5 hen3 hao3"
+      },
+      {
+        "zh": "我学了两年中文，现在可以看中文电影了。",
+        "pinyin": "wo3 xue2 le5 liang3 nian2 zhong1 wen2 xian4 zai4 ke3 yi3 kan4 zhong1 wen2 dian4 ying3 le5"
+      }
+    ]
+  },
+  {
+    "word": "风",
+    "examples": [
+      {
+        "zh": "今天风很大。",
+        "pinyin": "jin1 tian1 feng1 hen3 da4"
+      },
+      {
+        "zh": "外面风太大了。",
+        "pinyin": "wai4 mian4 feng1 tai4 da4 le5"
+      },
+      {
+        "zh": "晚上风很大，你多穿一点吧。",
+        "pinyin": "wan3 shang5 feng1 hen3 da4 ni3 duo1 chuan1 yi1 dian3 ba5"
+      },
+      {
+        "zh": "我们坐在山上，听着风的声音。",
+        "pinyin": "wo3 men5 zuo4 zai4 shan1 shang4 ting1 zhe5 feng1 de5 sheng1 yin1"
+      }
+    ]
+  },
+  {
+    "word": "哥哥",
+    "examples": [
+      {
+        "zh": "我有一个哥哥。",
+        "pinyin": "wo3 you3 yi1 ge4 ge1 ge5"
+      },
+      {
+        "zh": "我哥哥是老师。",
+        "pinyin": "wo3 ge1 ge5 shi4 lao3 shi1"
+      },
+      {
+        "zh": "哥哥今天回家吃饭。",
+        "pinyin": "ge1 ge5 jin1 tian1 hui2 jia1 chi1 fan4"
+      },
+      {
+        "zh": "我哥哥在北京的一家公司工作。",
+        "pinyin": "wo3 ge1 ge5 zai4 bei3 jing1 de5 yi1 jia1 gong1 si1 gong1 zuo4"
+      }
+    ]
+  },
+  {
+    "word": "发",
+    "examples": [
+      {
+        "zh": "请把资料发给我。",
+        "pinyin": "qing3 ba3 zi1 liao4 fa1 gei3 wo3"
+      },
+      {
+        "zh": "老师给学生发书。",
+        "pinyin": "lao3 shi1 gei3 xue2 sheng5 fa1 shu1"
+      },
+      {
+        "zh": "公司今天给大家发钱了。",
+        "pinyin": "gong1 si1 jin1 tian1 gei3 da4 jia1 fa1 qian2 le5"
+      },
+      {
+        "zh": "他在网站上发了一些关于中国文化的内容。",
+        "pinyin": "ta1 zai4 wang3 zhan4 shang4 fa1 le5 yi1 xie1 guan1 yu2 zhong1 guo2 wen2 hua4 de5 nei4 rong2"
+      }
+    ]
+  },
+  {
+    "word": "早上",
+    "examples": [
+      {
+        "zh": "早上好！",
+        "pinyin": "zao3 shang5 hao3"
+      },
+      {
+        "zh": "你早上几点起来？",
+        "pinyin": "ni3 zao3 shang5 ji3 dian3 qi3 lai2"
+      },
+      {
+        "zh": "我每天早上走路去学校。",
+        "pinyin": "wo3 mei3 tian1 zao3 shang5 zou3 lu4 qu4 xue2 xiao4"
+      },
+      {
+        "zh": "明天早上八点我们在机场见吧。",
+        "pinyin": "ming2 tian1 zao3 shang5 ba1 dian3 wo3 men5 zai4 ji1 chang3 jian4 ba5"
+      }
+    ]
+  },
+  {
+    "word": "达",
+    "examples": [
+      {
+        "zh": "我们已经到达机场了。",
+        "pinyin": "wo3 men5 yi3 jing1 dao4 da2 ji1 chang3 le5"
+      },
+      {
+        "zh": "这个会议长达五个小时。",
+        "pinyin": "zhe4 ge5 hui4 yi4 chang2 da2 wu3 ge4 xiao3 shi2"
+      },
+      {
+        "zh": "他不太会表达自己的想法。",
+        "pinyin": "ta1 bu4 tai4 hui4 biao3 da2 zi4 ji3 de5 xiang3 fa3"
+      },
+      {
+        "zh": "这个城市的人口已经达到两千万。",
+        "pinyin": "zhe4 ge5 cheng2 shi4 de5 ren2 kou3 yi3 jing1 da2 dao4 liang3 qian1 wan4"
+      }
+    ]
+  },
+  {
+    "word": "称",
+    "examples": [
+      {
+        "zh": "请帮我称一下这个。",
+        "pinyin": "qing3 bang1 wo3 cheng1 yi1 xia4 zhe4 ge5"
+      },
+      {
+        "zh": "大家都称他为老师。",
+        "pinyin": "da4 jia1 dou1 cheng1 ta1 wei2 lao3 shi1"
+      },
+      {
+        "zh": "那个人称自己是记者。",
+        "pinyin": "na4 ge5 ren2 cheng1 zi4 ji3 shi4 ji4 zhe3"
+      },
+      {
+        "zh": "这个地方被人们称为“小香港”。",
+        "pinyin": "zhe4 ge5 di4 fang5 bei4 ren2 men5 cheng1 wei2 xiao3 xiang1 gang3"
+      }
+    ]
+  },
+  {
+    "word": "白",
+    "examples": [
+      {
+        "zh": "我的手机是白的。",
+        "pinyin": "wo3 de5 shou3 ji1 shi4 bai2 de5"
+      },
+      {
+        "zh": "她今天穿了一件白衣服。",
+        "pinyin": "ta1 jin1 tian1 chuan1 le5 yi1 jian4 bai2 yi1 fu5"
+      },
+      {
+        "zh": "你别白等了，他不会来了。",
+        "pinyin": "ni3 bie2 bai2 deng3 le5 ta1 bu4 hui4 lai2 le5"
+      },
+      {
+        "zh": "我们去了三次，都白去了，他不在家。",
+        "pinyin": "wo3 men5 qu4 le5 san1 ci4 dou1 bai2 qu4 le5 ta1 bu4 zai4 jia1"
+      }
+    ]
+  },
+  {
+    "word": "衣服",
+    "examples": [
+      {
+        "zh": "这是我的衣服。",
+        "pinyin": "zhe4 shi4 wo3 de5 yi1 fu5"
+      },
+      {
+        "zh": "我想买新衣服。",
+        "pinyin": "wo3 xiang3 mai3 xin1 yi1 fu5"
+      },
+      {
+        "zh": "今天很热，你穿的衣服太多了。",
+        "pinyin": "jin1 tian1 hen3 re4 ni3 chuan1 de5 yi1 fu5 tai4 duo1 le5"
+      },
+      {
+        "zh": "妈妈每天晚上都帮孩子准备第二天的衣服。",
+        "pinyin": "ma1 ma5 mei3 tian1 wan3 shang5 dou1 bang1 hai2 zi5 zhun3 bei4 di4 er4 tian1 de5 yi1 fu5"
+      }
+    ]
+  },
+  {
+    "word": "一点",
+    "examples": [
+      {
+        "zh": "我会说一点中文。",
+        "pinyin": "wo3 hui4 shuo1 yi1 dian3 zhong1 wen2"
+      },
+      {
+        "zh": "请你快一点！",
+        "pinyin": "qing3 ni3 kuai4 yi1 dian3"
+      },
+      {
+        "zh": "这个比那个大一点。",
+        "pinyin": "zhe4 ge5 bi3 na4 ge5 da4 yi1 dian3"
+      },
+      {
+        "zh": "他一点钱也没有，所以不能买车。",
+        "pinyin": "ta1 yi1 dian3 qian2 ye3 mei2 you3 suo3 yi3 bu4 neng2 mai3 che1"
+      }
+    ]
+  },
+  {
+    "word": "毛",
+    "examples": [
+      {
+        "zh": "这个东西五毛钱。",
+        "pinyin": "zhe4 ge5 dong1 xi5 wu3 mao2 qian2"
+      },
+      {
+        "zh": "这只狗的毛是白的。",
+        "pinyin": "zhe4 zhi1 gou3 de5 mao2 shi4 bai2 de5"
+      },
+      {
+        "zh": "这个本子三块五毛钱。",
+        "pinyin": "zhe4 ge5 ben3 zi5 san1 kuai4 wu3 mao2 qian2"
+      },
+      {
+        "zh": "我身上有很多狗毛，因为我的狗很喜欢我。",
+        "pinyin": "wo3 shen1 shang5 you3 hen3 duo1 gou3 mao2 yin1 wei4 wo3 de5 gou3 hen3 xi3 huan5 wo3"
+      }
+    ]
+  },
+  {
+    "word": "甚至",
+    "examples": [
+      {
+        "zh": "他甚至不知道我的名字。",
+        "pinyin": "ta1 shen4 zhi4 bu4 zhi1 dao4 wo3 de5 ming2 zi5"
+      },
+      {
+        "zh": "她很忙，甚至没有时间吃饭。",
+        "pinyin": "ta1 hen3 mang2 shen4 zhi4 mei2 you3 shi2 jian1 chi1 fan4"
+      },
+      {
+        "zh": "这个问题很难，甚至老师也不会。",
+        "pinyin": "zhe4 ge5 wen4 ti2 hen3 nan2 shen4 zhi4 lao3 shi1 ye3 bu4 hui4"
+      },
+      {
+        "zh": "他太喜欢这个游戏了，甚至晚上都不睡觉。",
+        "pinyin": "ta1 tai4 xi3 huan5 zhe4 ge5 you2 xi4 le5 shen4 zhi4 wan3 shang5 dou1 bu4 shui4 jiao4"
+      }
+    ]
+  },
+  {
+    "word": "忘记",
+    "examples": [
+      {
+        "zh": "我忘记了。",
+        "pinyin": "wo3 wang4 ji4 le5"
+      },
+      {
+        "zh": "别忘记带手机。",
+        "pinyin": "bie2 wang4 ji4 dai4 shou3 ji1"
+      },
+      {
+        "zh": "他忘记告诉妈妈今天不回家。",
+        "pinyin": "ta1 wang4 ji4 gao4 su5 ma1 ma5 jin1 tian1 bu4 hui2 jia1"
+      },
+      {
+        "zh": "虽然过去很多年了，我还是没有忘记她。",
+        "pinyin": "sui1 ran2 guo4 qu4 hen3 duo1 nian2 le5 wo3 hai2 shi4 mei2 you3 wang4 ji4 ta1"
+      }
+    ]
+  },
+  {
+    "word": "当然",
+    "examples": [
+      {
+        "zh": "当然可以！",
+        "pinyin": "dang1 ran2 ke3 yi3"
+      },
+      {
+        "zh": "我当然知道。",
+        "pinyin": "wo3 dang1 ran2 zhi1 dao4"
+      },
+      {
+        "zh": "你是我的朋友，我当然会帮你。",
+        "pinyin": "ni3 shi4 wo3 de5 peng2 you5 wo3 dang1 ran2 hui4 bang1 ni3"
+      },
+      {
+        "zh": "他学了三年中文，当然能听懂这些话。",
+        "pinyin": "ta1 xue2 le5 san1 nian2 zhong1 wen2 dang1 ran2 neng2 ting1 dong3 zhe4 xie1 hua4"
+      }
+    ]
+  },
+  {
+    "word": "爸爸",
+    "examples": [
+      {
+        "zh": "这是我爸爸。",
+        "pinyin": "zhe4 shi4 wo3 ba4 ba5"
+      },
+      {
+        "zh": "我爸爸是医生。",
+        "pinyin": "wo3 ba4 ba5 shi4 yi1 sheng1"
+      },
+      {
+        "zh": "爸爸每天早上开车去公司。",
+        "pinyin": "ba4 ba5 mei3 tian1 zao3 shang5 kai1 che1 qu4 gong1 si1"
+      },
+      {
+        "zh": "我小时候，爸爸常常带我去北京看朋友。",
+        "pinyin": "wo3 xiao3 shi2 hou5 ba4 ba5 chang2 chang2 dai4 wo3 qu4 bei3 jing1 kan4 peng2 you5"
+      }
+    ]
+  },
+  {
+    "word": "过程",
+    "examples": [
+      {
+        "zh": "学习是一个过程。",
+        "pinyin": "xue2 xi2 shi4 yi1 ge4 guo4 cheng2"
+      },
+      {
+        "zh": "这个过程很长。",
+        "pinyin": "zhe4 ge5 guo4 cheng2 hen3 chang2"
+      },
+      {
+        "zh": "请告诉我事情发生的过程。",
+        "pinyin": "qing3 gao4 su5 wo3 shi4 qing5 fa1 sheng1 de5 guo4 cheng2"
+      },
+      {
+        "zh": "在学习中文的过程中，我认识了很多新朋友。",
+        "pinyin": "zai4 xue2 xi2 zhong1 wen2 de5 guo4 cheng2 zhong1 wo3 ren4 shi5 le5 hen3 duo1 xin1 peng2 you5"
+      }
+    ]
+  },
+  {
+    "word": "小姐",
+    "examples": [
+      {
+        "zh": "小姐，你好！",
+        "pinyin": "xiao3 jie3 ni3 hao3"
+      },
+      {
+        "zh": "王小姐是我的老师。",
+        "pinyin": "wang2 xiao3 jie3 shi4 wo3 de5 lao3 shi1"
+      },
+      {
+        "zh": "小姐，请问这个多少钱？",
+        "pinyin": "xiao3 jie3 qing3 wen4 zhe4 ge5 duo1 shao3 qian2"
+      },
+      {
+        "zh": "李小姐明天要坐飞机去上海开会。",
+        "pinyin": "li3 xiao3 jie3 ming2 tian1 yao4 zuo4 fei1 ji1 qu4 shang4 hai3 kai1 hui4"
+      }
+    ]
+  },
+  {
+    "word": "事件",
+    "examples": [
+      {
+        "zh": "这是一个重要事件。",
+        "pinyin": "zhe4 shi4 yi1 ge4 zhong4 yao4 shi4 jian4"
+      },
+      {
+        "zh": "这个事件发生在去年。",
+        "pinyin": "zhe4 ge5 shi4 jian4 fa1 sheng1 zai4 qu4 nian2"
+      },
+      {
+        "zh": "这个事件影响了很多人。",
+        "pinyin": "zhe4 ge5 shi4 jian4 ying3 xiang3 le5 hen3 duo1 ren2"
+      },
+      {
+        "zh": "到现在，政府还没有告诉人民这个事件的情况。",
+        "pinyin": "dao4 xian4 zai4 zheng4 fu3 hai2 mei2 you3 gao4 su5 ren2 min2 zhe4 ge5 shi4 jian4 de5 qing2 kuang4"
+      }
+    ]
+  }
+]

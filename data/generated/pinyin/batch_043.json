@@ -1,0 +1,422 @@
+[
+  {
+    "word": "月",
+    "examples": [
+      {
+        "zh": "今天是五月一号。",
+        "pinyin": "jin1 tian1 shi4 wu3 yue4 yi1 hao4"
+      },
+      {
+        "zh": "这个月我很忙。",
+        "pinyin": "zhe4 ge4 yue4 wo3 hen3 mang2"
+      },
+      {
+        "zh": "今天晚上的月亮很大。",
+        "pinyin": "jin1 tian1 wan3 shang5 de5 yue4 liang5 hen3 da4"
+      },
+      {
+        "zh": "我每个月都给家人打电话。",
+        "pinyin": "wo3 mei3 ge4 yue4 dou1 gei3 jia1 ren2 da3 dian4 hua4"
+      }
+    ]
+  },
+  {
+    "word": "日",
+    "examples": [
+      {
+        "zh": "今天是五月一日。",
+        "pinyin": "jin1 tian1 shi4 wu3 yue4 yi1 ri4"
+      },
+      {
+        "zh": "我的生日是十月三日。",
+        "pinyin": "wo3 de5 sheng1 ri4 shi4 shi2 yue4 san1 ri4"
+      },
+      {
+        "zh": "我们一起去看日出吧。",
+        "pinyin": "wo3 men5 yi1 qi3 qu4 kan4 ri4 chu1 ba5"
+      },
+      {
+        "zh": "中国的国庆节是十月一日。",
+        "pinyin": "zhong1 guo2 de5 guo2 qing4 jie2 shi4 shi2 yue4 yi1 ri4"
+      }
+    ]
+  },
+  {
+    "word": "之",
+    "examples": [
+      {
+        "zh": "一个月之后，他来了。",
+        "pinyin": "yi1 ge4 yue4 zhi1 hou4 ta1 lai2 le5"
+      },
+      {
+        "zh": "他是我的好朋友之一。",
+        "pinyin": "ta1 shi4 wo3 de5 hao3 peng2 you5 zhi1 yi1"
+      },
+      {
+        "zh": "三分之一的人没有来。",
+        "pinyin": "san1 fen1 zhi1 yi1 de5 ren2 mei2 you3 lai2"
+      },
+      {
+        "zh": "我来中国之前不会说中文。",
+        "pinyin": "wo3 lai2 zhong1 guo2 zhi1 qian2 bu4 hui4 shuo1 zhong1 wen2"
+      }
+    ]
+  },
+  {
+    "word": "万",
+    "examples": [
+      {
+        "zh": "我有一万元。",
+        "pinyin": "wo3 you3 yi1 wan4 yuan2"
+      },
+      {
+        "zh": "这个手机要两万元。",
+        "pinyin": "zhe4 ge4 shou3 ji1 yao4 liang3 wan4 yuan2"
+      },
+      {
+        "zh": "这个大学有三万多个学生。",
+        "pinyin": "zhe4 ge4 da4 xue2 you3 san1 wan4 duo1 ge4 xue2 sheng5"
+      },
+      {
+        "zh": "为了买这个房子，他们准备了五十万元。",
+        "pinyin": "wei4 le5 mai3 zhe4 ge4 fang2 zi5 ta1 men5 zhun3 bei4 le5 wu3 shi2 wan4 yuan2"
+      }
+    ]
+  },
+  {
+    "word": "成",
+    "examples": [
+      {
+        "zh": "他成了我的好朋友。",
+        "pinyin": "ta1 cheng2 le5 wo3 de5 hao3 peng2 you5"
+      },
+      {
+        "zh": "我把她看成了别人。",
+        "pinyin": "wo3 ba3 ta1 kan4 cheng2 le5 bie2 ren2"
+      },
+      {
+        "zh": "这个工作太难，我一个人做不成。",
+        "pinyin": "zhe4 ge4 gong1 zuo4 tai4 nan2 wo3 yi1 ge4 ren2 zuo4 bu4 cheng2"
+      },
+      {
+        "zh": "学了三年中文以后，他成了一个中文老师。",
+        "pinyin": "xue2 le5 san1 nian2 zhong1 wen2 yi3 hou4 ta1 cheng2 le5 yi1 ge4 zhong1 wen2 lao3 shi1"
+      }
+    ]
+  },
+  {
+    "word": "过去",
+    "examples": [
+      {
+        "zh": "过去的事就别想了。",
+        "pinyin": "guo4 qu4 de5 shi4 jiu4 bie2 xiang3 le5"
+      },
+      {
+        "zh": "过去我不喜欢吃这个。",
+        "pinyin": "guo4 qu4 wo3 bu4 xi3 huan5 chi1 zhe4 ge4"
+      },
+      {
+        "zh": "你先过去，我一会儿就来。",
+        "pinyin": "ni3 xian1 guo4 qu5 wo3 yi1 hui4 r5 jiu4 lai2"
+      },
+      {
+        "zh": "过去十年，这个城市发展得非常快。",
+        "pinyin": "guo4 qu4 shi2 nian2 zhe4 ge4 cheng2 shi4 fa1 zhan3 de5 fei1 chang2 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "床",
+    "examples": [
+      {
+        "zh": "这是我的床。",
+        "pinyin": "zhe4 shi4 wo3 de5 chuang2"
+      },
+      {
+        "zh": "我的床很大。",
+        "pinyin": "wo3 de5 chuang2 hen3 da4"
+      },
+      {
+        "zh": "孩子还在床上睡觉。",
+        "pinyin": "hai2 zi5 hai2 zai4 chuang2 shang4 shui4 jiao4"
+      },
+      {
+        "zh": "他每天晚上十点就上床睡觉。",
+        "pinyin": "ta1 mei3 tian1 wan3 shang5 shi2 dian3 jiu4 shang4 chuang2 shui4 jiao4"
+      }
+    ]
+  },
+  {
+    "word": "小学生",
+    "examples": [
+      {
+        "zh": "他是小学生。",
+        "pinyin": "ta1 shi4 xiao3 xue2 sheng1"
+      },
+      {
+        "zh": "我妹妹还是小学生。",
+        "pinyin": "wo3 mei4 mei5 hai2 shi4 xiao3 xue2 sheng1"
+      },
+      {
+        "zh": "这些小学生每天走路上学。",
+        "pinyin": "zhe4 xie1 xiao3 xue2 sheng1 mei3 tian1 zou3 lu4 shang4 xue2"
+      },
+      {
+        "zh": "这个问题连小学生都会回答。",
+        "pinyin": "zhe4 ge4 wen4 ti2 lian2 xiao3 xue2 sheng1 dou1 hui4 hui2 da2"
+      }
+    ]
+  },
+  {
+    "word": "唯一",
+    "examples": [
+      {
+        "zh": "这是唯一的办法。",
+        "pinyin": "zhe4 shi4 wei2 yi1 de5 ban4 fa3"
+      },
+      {
+        "zh": "他是我唯一的朋友。",
+        "pinyin": "ta1 shi4 wo3 wei2 yi1 de5 peng2 you5"
+      },
+      {
+        "zh": "她是我们班唯一会说法语的学生。",
+        "pinyin": "ta1 shi4 wo3 men5 ban1 wei2 yi1 hui4 shuo1 fa3 yu3 de5 xue2 sheng5"
+      },
+      {
+        "zh": "这是去机场唯一的路，所以每天车都很多。",
+        "pinyin": "zhe4 shi4 qu4 ji1 chang3 wei2 yi1 de5 lu4 suo3 yi3 mei3 tian1 che1 dou1 hen3 duo1"
+      }
+    ]
+  },
+  {
+    "word": "统一",
+    "examples": [
+      {
+        "zh": "学生们穿着统一的衣服。",
+        "pinyin": "xue2 sheng5 men5 chuan1 zhe5 tong3 yi1 de5 yi1 fu5"
+      },
+      {
+        "zh": "我们先统一一下意见。",
+        "pinyin": "wo3 men5 xian1 tong3 yi1 yi1 xia4 yi4 jian4"
+      },
+      {
+        "zh": "公司决定统一使用新的电脑系统。",
+        "pinyin": "gong1 si1 jue2 ding4 tong3 yi1 shi3 yong4 xin1 de5 dian4 nao3 xi4 tong3"
+      },
+      {
+        "zh": "这个国家统一以后，经济发展得非常快。",
+        "pinyin": "zhe4 ge4 guo2 jia1 tong3 yi1 yi3 hou4 jing1 ji4 fa1 zhan3 de5 fei1 chang2 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "通知",
+    "examples": [
+      {
+        "zh": "请通知大家明天开会。",
+        "pinyin": "qing3 tong1 zhi1 da4 jia1 ming2 tian1 kai1 hui4"
+      },
+      {
+        "zh": "我还没看到学校的通知。",
+        "pinyin": "wo3 hai2 mei2 kan4 dao4 xue2 xiao4 de5 tong1 zhi1"
+      },
+      {
+        "zh": "有什么消息，我会马上通知你。",
+        "pinyin": "you3 shen2 me5 xiao1 xi5 wo3 hui4 ma3 shang4 tong1 zhi1 ni3"
+      },
+      {
+        "zh": "公司通知我们下个星期一不用上班。",
+        "pinyin": "gong1 si1 tong1 zhi1 wo3 men5 xia4 ge4 xing1 qi1 yi1 bu4 yong4 shang4 ban1"
+      }
+    ]
+  },
+  {
+    "word": "通",
+    "examples": [
+      {
+        "zh": "这条路不通。",
+        "pinyin": "zhe4 tiao2 lu4 bu4 tong1"
+      },
+      {
+        "zh": "电话打不通。",
+        "pinyin": "dian4 hua4 da3 bu4 tong1"
+      },
+      {
+        "zh": "他昨天给我打了一通电话。",
+        "pinyin": "ta1 zuo2 tian1 gei3 wo3 da3 le5 yi1 tong4 dian4 hua4"
+      },
+      {
+        "zh": "我想了很久，终于想通了。",
+        "pinyin": "wo3 xiang3 le5 hen3 jiu3 zhong1 yu2 xiang3 tong1 le5"
+      }
+    ]
+  },
+  {
+    "word": "久",
+    "examples": [
+      {
+        "zh": "好久不见！",
+        "pinyin": "hao3 jiu3 bu4 jian4"
+      },
+      {
+        "zh": "你等了多久？",
+        "pinyin": "ni3 deng3 le5 duo1 jiu3"
+      },
+      {
+        "zh": "我在北京住了很久。",
+        "pinyin": "wo3 zai4 bei3 jing1 zhu4 le5 hen3 jiu3"
+      },
+      {
+        "zh": "他学了很久的汉语，现在说得非常好。",
+        "pinyin": "ta1 xue2 le5 hen3 jiu3 de5 han4 yu3 xian4 zai4 shuo1 de5 fei1 chang2 hao3"
+      }
+    ]
+  },
+  {
+    "word": "千",
+    "examples": [
+      {
+        "zh": "这个手机三千元。",
+        "pinyin": "zhe4 ge4 shou3 ji1 san1 qian1 yuan2"
+      },
+      {
+        "zh": "我们学校有两千个学生。",
+        "pinyin": "wo3 men5 xue2 xiao4 you3 liang3 qian1 ge4 xue2 sheng5"
+      },
+      {
+        "zh": "这个城市有一千多年的历史。",
+        "pinyin": "zhe4 ge4 cheng2 shi4 you3 yi1 qian1 duo1 nian2 de5 li4 shi3"
+      },
+      {
+        "zh": "这次活动有几千人参加，非常成功。",
+        "pinyin": "zhe4 ci4 huo2 dong4 you3 ji3 qian1 ren2 can1 jia1 fei1 chang2 cheng2 gong1"
+      }
+    ]
+  },
+  {
+    "word": "接近",
+    "examples": [
+      {
+        "zh": "时间接近十二点了。",
+        "pinyin": "shi2 jian1 jie1 jin4 shi2 er4 dian3 le5"
+      },
+      {
+        "zh": "他们的看法很接近。",
+        "pinyin": "ta1 men5 de5 kan4 fa3 hen3 jie1 jin4"
+      },
+      {
+        "zh": "这个城市的人口接近一千万。",
+        "pinyin": "zhe4 ge4 cheng2 shi4 de5 ren2 kou3 jie1 jin4 yi1 qian1 wan4"
+      },
+      {
+        "zh": "那只狗很怕人，不让别人接近它。",
+        "pinyin": "na4 zhi1 gou3 hen3 pa4 ren2 bu4 rang4 bie2 ren2 jie1 jin4 ta1"
+      }
+    ]
+  },
+  {
+    "word": "好久",
+    "examples": [
+      {
+        "zh": "好久不见！",
+        "pinyin": "hao3 jiu3 bu4 jian4"
+      },
+      {
+        "zh": "我等了你好久。",
+        "pinyin": "wo3 deng3 le5 ni3 hao3 jiu3"
+      },
+      {
+        "zh": "我好久没回家了，很想爸爸妈妈。",
+        "pinyin": "wo3 hao3 jiu3 mei2 hui2 jia1 le5 hen3 xiang3 ba4 ba5 ma1 ma5"
+      },
+      {
+        "zh": "这个问题我想了好久，还是不知道怎么回答。",
+        "pinyin": "zhe4 ge4 wen4 ti2 wo3 xiang3 le5 hao3 jiu3 hai2 shi4 bu4 zhi1 dao4 zen3 me5 hui2 da2"
+      }
+    ]
+  },
+  {
+    "word": "体育馆",
+    "examples": [
+      {
+        "zh": "学校有一个新体育馆。",
+        "pinyin": "xue2 xiao4 you3 yi1 ge4 xin1 ti3 yu4 guan3"
+      },
+      {
+        "zh": "我们去体育馆打篮球吧。",
+        "pinyin": "wo3 men5 qu4 ti3 yu4 guan3 da3 lan2 qiu2 ba5"
+      },
+      {
+        "zh": "明天的比赛在市体育馆举行。",
+        "pinyin": "ming2 tian1 de5 bi3 sai4 zai4 shi4 ti3 yu4 guan3 ju3 xing2"
+      },
+      {
+        "zh": "这个体育馆非常大，能坐一万多名观众。",
+        "pinyin": "zhe4 ge4 ti3 yu4 guan3 fei1 chang2 da4 neng2 zuo4 yi1 wan4 duo1 ming2 guan1 zhong4"
+      }
+    ]
+  },
+  {
+    "word": "千克",
+    "examples": [
+      {
+        "zh": "这些苹果两千克。",
+        "pinyin": "zhe4 xie1 ping2 guo3 liang3 qian1 ke4"
+      },
+      {
+        "zh": "我现在六十千克。",
+        "pinyin": "wo3 xian4 zai4 liu4 shi2 qian1 ke4"
+      },
+      {
+        "zh": "一千克等于两斤。",
+        "pinyin": "yi1 qian1 ke4 deng3 yu2 liang3 jin1"
+      },
+      {
+        "zh": "坐飞机的时候，每个人只能带二十千克的东西。",
+        "pinyin": "zuo4 fei1 ji1 de5 shi2 hou5 mei3 ge4 ren2 zhi3 neng2 dai4 er4 shi2 qian1 ke4 de5 dong1 xi5"
+      }
+    ]
+  },
+  {
+    "word": "快点儿",
+    "examples": [
+      {
+        "zh": "快点儿！",
+        "pinyin": "kuai4 dian3 r5"
+      },
+      {
+        "zh": "你快点儿走吧。",
+        "pinyin": "ni3 kuai4 dian3 r5 zou3 ba5"
+      },
+      {
+        "zh": "快点儿吃，火车快开了。",
+        "pinyin": "kuai4 dian3 r5 chi1 huo3 che1 kuai4 kai1 le5"
+      },
+      {
+        "zh": "妈妈让我快点儿起床，要不上学就晚了。",
+        "pinyin": "ma1 ma5 rang4 wo3 kuai4 dian3 r5 qi3 chuang2 yao4 bu4 shang4 xue2 jiu4 wan3 le5"
+      }
+    ]
+  },
+  {
+    "word": "选手",
+    "examples": [
+      {
+        "zh": "他是足球选手。",
+        "pinyin": "ta1 shi4 zu2 qiu2 xuan3 shou3"
+      },
+      {
+        "zh": "这位选手跑得很快。",
+        "pinyin": "zhe4 wei4 xuan3 shou3 pao3 de5 hen3 kuai4"
+      },
+      {
+        "zh": "比赛有一百多名选手参加。",
+        "pinyin": "bi3 sai4 you3 yi1 bai3 duo1 ming2 xuan3 shou3 can1 jia1"
+      },
+      {
+        "zh": "那个年轻选手第一次参加国际比赛就赢了。",
+        "pinyin": "na4 ge4 nian2 qing1 xuan3 shou3 di4 yi1 ci4 can1 jia1 guo2 ji4 bi3 sai4 jiu4 ying2 le5"
+      }
+    ]
+  }
+]

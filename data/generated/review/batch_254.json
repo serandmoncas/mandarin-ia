@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:生长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c6f19d525dd755d188abdddaa92f7c7b0fd63f5"
+  },
+  {
+    "id": "word:舞台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "43f93c97525894337f5c8ea9723a7d4ca8845dde"
+  },
+  {
+    "id": "word:防止",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d458d88faa1f514344b02404cc9485920db16651"
+  },
+  {
+    "id": "word:浪费",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 东西 con el sentido de 'cosas' se lee dōng xi (tono neutro), no dōng xī (que significa 'este y oeste')."
+    ],
+    "content_hash": "0a88f3c0c71420efcb65fbb6d9b15ccb19f19b96"
+  },
+  {
+    "id": "word:伤",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: 'me rompió el corazón' exagera 伤了我的心 y tiene un matiz romántico. Es más fiel 'Lo que dijo me hirió mucho' o 'me dolió mucho'."
+    ],
+    "content_hash": "57700cd3acdbacaee893b2de1a0c9deb745332c5"
+  },
+  {
+    "id": "word:造",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57def09851a64e61e371261276e18c740be2f976"
+  },
+  {
+    "id": "word:庆祝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6898ccb224ddaeb404deb49dc022976db85846a2"
+  },
+  {
+    "id": "word:显得",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: en 有精神 ('lleno de energía'), 精神 se lee jīng shen (tono neutro), no jīng shén."
+    ],
+    "content_hash": "79a7619a1cf37d435f4196e0e4e5e83b1009802f"
+  },
+  {
+    "id": "word:直",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10b71487d398cee1f25f502ade34f9e0450db206"
+  },
+  {
+    "id": "word:准",
+    "ok": true,
+    "issues": [],
+    "content_hash": "21fff3da399295ea4fa20cf2275faef059b401ff"
+  },
+  {
+    "id": "word:当初",
+    "ok": true,
+    "issues": [],
+    "content_hash": "67e1563c658b1ec0cc9ca4abcc2696f856cbb782"
+  },
+  {
+    "id": "word:实验室",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70513117de4c79b9268a66b4f6847730b7eb8dfb"
+  },
+  {
+    "id": "word:退休",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8eb7dbf199ec682e50c6ed9bb06d76370ebf719a"
+  },
+  {
+    "id": "word:相似",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de4d7bc582147fa7e4167586c0fe3ac16d7fb914"
+  },
+  {
+    "id": "word:对手",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a95fad5b7fb543a46fc1a09a322ec0273272c502"
+  },
+  {
+    "id": "word:后果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e516ee34d038e160a4c6a6c5d7adfb3b86228972"
+  },
+  {
+    "id": "word:整理",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bfac02c092697afbefb4e2070271aebe0afef579"
+  },
+  {
+    "id": "word:子女",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: falta el tono en 子; debe ser zǐ nǚ, no zi nǚ."
+    ],
+    "content_hash": "8961cdee32af723850a6421c521e7a94d508ce54"
+  },
+  {
+    "id": "word:歌手",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9caf8267d67554c8afafe0dd4e29551daf9348c2"
+  },
+  {
+    "id": "word:火",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8cf5b32aab4262c9f72510ffef18b4d0233292bf"
+  },
+  {
+    "id": "word:修",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8aa21388b5aa33e7d5ebdd66962f77d39c3f70b8"
+  },
+  {
+    "id": "word:职工",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24ce259fe6e1d8d68d3eeb3bafdb9032ab882542"
+  },
+  {
+    "id": "word:带领",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2161e80e14c5e5bc5fe5497ccc2d5b7db32d266e"
+  },
+  {
+    "id": "word:华人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3e5103867898c749d84e013f62f1534e6a83f03d"
+  },
+  {
+    "id": "word:离婚",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bed49434364c1c8eb178c6c6e6b2a2d025d5f57f"
+  }
+]

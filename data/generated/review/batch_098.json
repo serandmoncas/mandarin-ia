@@ -1,0 +1,169 @@
+[
+  {
+    "id": "word:卫生间",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 哪儿 debe ser «nǎr», no «nǎ ér»."
+    ],
+    "content_hash": "af45f9af8a28533e3df36a03e7966c81d360492d"
+  },
+  {
+    "id": "word:红酒",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 有点儿 debe ser «yǒu diǎnr», no «yǒu diǎn ér»."
+    ],
+    "content_hash": "51dc1f06dc6009f9c128b12b5f572dca50c769e3"
+  },
+  {
+    "id": "word:收音机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9bd7b9c6821f980977f913f4f37b0c116a2d6dbf"
+  },
+  {
+    "id": "word:邮票",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4 algo forzado: lo natural es «寄到美国的信要贴多少钱的邮票？»; falta 寄/贴."
+    ],
+    "content_hash": "dabcafae96b9ad7c090e47145a4c6947addc3a51"
+  },
+  {
+    "id": "word:本领",
+    "ok": true,
+    "issues": [],
+    "content_hash": "20f32c2ebad249166da9cda163614d87ca6bdb62"
+  },
+  {
+    "id": "word:连续剧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7bf94d1ddffda345d33160fd67adc43bc0051236"
+  },
+  {
+    "id": "word:邮箱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "05e40eac2b758d9326c934b4d801041849815f95"
+  },
+  {
+    "id": "word:跳高",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: la partícula 得 es «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "c372b1e64f566571b52b78f6e4b43f9c0318d969"
+  },
+  {
+    "id": "word:整齐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da2d0853b24ecf7413d418f609c3618e23cd65ad"
+  },
+  {
+    "id": "word:束",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cbc940083f30a5a9fb9ae2ffe22bdb931c2e669e"
+  },
+  {
+    "id": "word:图画",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd551221b7fc851af8c289bcc3f168fbd27ef1da"
+  },
+  {
+    "id": "word:短裤",
+    "ok": true,
+    "issues": [],
+    "content_hash": "83bc7f9069e855e192bbca680389c641cceb2921"
+  },
+  {
+    "id": "word:交警",
+    "ok": true,
+    "issues": [],
+    "content_hash": "53d37040ed852f41748d802fb25951a321ebb7be"
+  },
+  {
+    "id": "word:京剧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98579eb7174cfdf6245aaaff8c35b3362e4d3a42"
+  },
+  {
+    "id": "word:熟人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "82bc6ee35b1cbc18b4fb21ab16a60230279b79c1"
+  },
+  {
+    "id": "word:结实",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 结实 es «jiē shi» (tono neutro), no «jiē shí».",
+      "Pinyin del ejemplo 4: la partícula 得 es «de», no «dé»."
+    ],
+    "content_hash": "a9c4e12d4a231d45a0516c4581c45a79aad25ee1"
+  },
+  {
+    "id": "word:工夫",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 一会儿 debe ser «yí huìr», no «yī huì er»."
+    ],
+    "content_hash": "77664a73490c208be084821054b8425c219e7fff"
+  },
+  {
+    "id": "word:打听",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 打听 es «dǎ ting» (tono neutro), no «dǎ tīng»."
+    ],
+    "content_hash": "5ec3ed03ba870c02db89f178df960b4265fc81fc"
+  },
+  {
+    "id": "word:沙子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3458da1ceca7827315284d20062f509e385253d1"
+  },
+  {
+    "id": "word:被子",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 都 en este uso es «dōu», no «dū»."
+    ],
+    "content_hash": "7d634338dba961bf8cd6ee8e1d3d2e3babd43af4"
+  },
+  {
+    "id": "word:跳远",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45d3c8ffb56e72e82ae7cb16b96eb3a5424807d0"
+  },
+  {
+    "id": "word:果汁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ebd99e8bd3a64ea9b81450310cabc2b1452be687"
+  },
+  {
+    "id": "word:积极性",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b7d386fcb7a8a3e8a38195317b6a12b59a5cd06e"
+  },
+  {
+    "id": "word:听力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "220805c9bedd8ab876109148dd90624668e0fe21"
+  },
+  {
+    "id": "word:推开",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ac8ce9fdefd5da343ffdc406c933dcf4570b82a"
+  }
+]

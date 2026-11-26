@@ -1,0 +1,161 @@
+[
+  {
+    "id": "word:压力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "50f2601660ee393fbdfa1808080294b6efdd44ec"
+  },
+  {
+    "id": "word:制作",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dab88fcae9916da6c04841d051f64284cf767723"
+  },
+  {
+    "id": "word:年轻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a8e322b314fe68bc42831842315ed3f77148601a"
+  },
+  {
+    "id": "word:不再",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5f073f62108d2c2cb68a7dfc6ba6b6038d96cc61"
+  },
+  {
+    "id": "word:实在",
+    "ok": true,
+    "issues": [],
+    "content_hash": "10662764fa6642402a990c86ffec0f0a553537c0"
+  },
+  {
+    "id": "word:令",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb68201656a07abf71bce0c9f2448d74527425c7"
+  },
+  {
+    "id": "word:头",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ca84729bae70ada91db7d5e3790470de2df7622"
+  },
+  {
+    "id": "word:利益",
+    "ok": true,
+    "issues": [],
+    "content_hash": "17ec28c1e56955301e4a0f8d7722b4fa394620f6"
+  },
+  {
+    "id": "word:英语",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 说得 debe ser «shuō de» (得 complemento, tono neutro), no «shuō dé»."
+    ],
+    "content_hash": "ed28b148e0e7e04aed9ce9f9f077bfac09ca54b4"
+  },
+  {
+    "id": "word:加拿大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "242eb76acced9c14bd7959b5f1b06d1feed1791d"
+  },
+  {
+    "id": "word:宪法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9506df26ac0176343fcf9bd80ccf3778efb2f80f"
+  },
+  {
+    "id": "word:越来越",
+    "ok": true,
+    "issues": [],
+    "content_hash": "508e2a29a159d706870614ae77d621c6de04c055"
+  },
+  {
+    "id": "word:有点",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d6a9b6911b895e6bb25dd563f163167898f5204a"
+  },
+  {
+    "id": "word:组",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin de 一组 debería ser «yì zǔ» por sandhi tonal. Los demás ejemplos de la app sí aplican el sandhi («yí gè»), así que aquí queda inconsistente."
+    ],
+    "content_hash": "8b209780d4f3b317e860d2c09e1c5cdee836907c"
+  },
+  {
+    "id": "word:规律",
+    "ok": true,
+    "issues": [],
+    "content_hash": "68bffc8c0b9f02c857ab2d70d23efacf9ac4d90f"
+  },
+  {
+    "id": "word:道路",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5315d621b07c0ca557db0be307fa8bd285382223"
+  },
+  {
+    "id": "word:金融",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7c761edcef5fce6c70894ff22efd266c3dd55754"
+  },
+  {
+    "id": "word:感谢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87e8c8aaaa8c2e2a4d27cc426642270b26334c4d"
+  },
+  {
+    "id": "word:需",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9fa54156dd624176722e71cda05facc3401a9d19"
+  },
+  {
+    "id": "word:关心",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4082c792ed4e63b60c6f705bd157fd205728239"
+  },
+  {
+    "id": "word:相同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f90540655570ddb2bcf7863666141324986496d8"
+  },
+  {
+    "id": "word:交流",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b4453b27c5c0148aadb0144d24ce778538f45b8f"
+  },
+  {
+    "id": "word:成绩",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30dd4aa5501f2127fc222142ba9bc2ddd0a89006"
+  },
+  {
+    "id": "word:举办",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 一次 debería ser «yí cì» por sandhi tonal; el resto del contenido sí aplica el sandhi."
+    ],
+    "content_hash": "a59a618c98f71c0eb970dccc302d596b64875e26"
+  },
+  {
+    "id": "word:懂",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 说得 debe ser «shuō de» (tono neutro), no «shuō dé».",
+      "Ejemplo 4: el pinyin de 一句 debería ser «yí jù» por sandhi tonal, igual que en el resto del contenido."
+    ],
+    "content_hash": "b3ff6905e76545499ddc397b3277b701eb64fbf7"
+  }
+]

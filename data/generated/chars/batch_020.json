@@ -1,0 +1,422 @@
+[
+  {
+    "char": "亲",
+    "components": [
+      {
+        "char": "立",
+        "meaning_es": "estar de pie"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Imagina a alguien de pie junto al árbol familiar, esperando a sus parientes: así recibe a los suyos, a sus seres queridos."
+  },
+  {
+    "char": "列",
+    "components": [
+      {
+        "char": "歹",
+        "meaning_es": "huesos, algo malo"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Un carnicero corta los huesos con su cuchillo y los acomoda uno tras otro en fila: así forma una lista o hilera."
+  },
+  {
+    "char": "仅",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano, otra vez"
+      }
+    ],
+    "mnemonic_es": "Una persona levanta una sola mano: solo eso, nada más, apenas lo justo."
+  },
+  {
+    "char": "确",
+    "components": [
+      {
+        "char": "石",
+        "meaning_es": "piedra"
+      },
+      {
+        "char": "角",
+        "meaning_es": "cuerno, esquina"
+      }
+    ],
+    "mnemonic_es": "Piensa en un cuerno tan duro como la piedra: es firme y seguro, de verdad cierto."
+  },
+  {
+    "char": "物",
+    "components": [
+      {
+        "char": "牛",
+        "meaning_es": "vaca, buey"
+      },
+      {
+        "char": "勿",
+        "meaning_es": "no (prohibición)"
+      }
+    ],
+    "mnemonic_es": "En el mercado alguien grita: «¡No toquen la vaca!», porque es una cosa valiosa, un objeto en venta."
+  },
+  {
+    "char": "共",
+    "components": [
+      {
+        "char": "廿",
+        "meaning_es": "veinte"
+      },
+      {
+        "char": "八",
+        "meaning_es": "ocho"
+      }
+    ],
+    "mnemonic_es": "Imagina veinte manos arriba sostenidas por dos piernas abajo: todos cargan juntos, en común."
+  },
+  {
+    "char": "执",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "丸",
+        "meaning_es": "bolita, pastilla"
+      }
+    ],
+    "mnemonic_es": "Tu mano aprieta una bolita para que no se escape: así sostienes y ejecutas algo con firmeza."
+  },
+  {
+    "char": "户",
+    "components": [
+      {
+        "char": "户",
+        "meaning_es": "puerta, hogar"
+      }
+    ],
+    "mnemonic_es": "Visualiza una puerta de una sola hoja con un pequeño techo arriba: cada puerta es un hogar, una familia registrada."
+  },
+  {
+    "char": "释",
+    "components": [
+      {
+        "char": "釆",
+        "meaning_es": "distinguir"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "Una mano separa con cuidado las semillas de la tierra para distinguirlas: así explica y libera lo que estaba mezclado."
+  },
+  {
+    "char": "渴",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "曷",
+        "meaning_es": "¿qué?, ¿cómo?"
+      }
+    ],
+    "mnemonic_es": "En el desierto preguntas desesperado: «¿Agua? ¿Dónde está el agua?». Tienes muchísima sed."
+  },
+  {
+    "char": "采",
+    "components": [
+      {
+        "char": "爫",
+        "meaning_es": "garra, mano desde arriba"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Una mano baja sobre el árbol para arrancar frutas y hojas: está recolectando."
+  },
+  {
+    "char": "父",
+    "components": [
+      {
+        "char": "父",
+        "meaning_es": "padre"
+      }
+    ],
+    "mnemonic_es": "Dos trazos arriba y una gran cruz abajo: imagina a papá con los brazos cruzados, firme como jefe de la familia."
+  },
+  {
+    "char": "客",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "各",
+        "meaning_es": "cada uno"
+      }
+    ],
+    "mnemonic_es": "Bajo tu techo llega cada uno de los visitantes: todos son tus huéspedes, tus invitados."
+  },
+  {
+    "char": "简",
+    "components": [
+      {
+        "char": "⺮",
+        "meaning_es": "bambú"
+      },
+      {
+        "char": "间",
+        "meaning_es": "espacio, entre"
+      }
+    ],
+    "mnemonic_es": "Antes se escribía en tiras de bambú con espacio entre ellas; imagina que había que escribir poco: todo simple y breve."
+  },
+  {
+    "char": "论",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabras, hablar"
+      },
+      {
+        "char": "仑",
+        "meaning_es": "orden, secuencia"
+      }
+    ],
+    "mnemonic_es": "Palabras puestas en orden, una tras otra: así se arma una discusión o una teoría."
+  },
+  {
+    "char": "讨",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabras, hablar"
+      },
+      {
+        "char": "寸",
+        "meaning_es": "pulgada, mano"
+      }
+    ],
+    "mnemonic_es": "Con palabras y señalando con la mano punto por punto, los amigos debaten un tema."
+  },
+  {
+    "char": "证",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabras, hablar"
+      },
+      {
+        "char": "正",
+        "meaning_es": "correcto, recto"
+      }
+    ],
+    "mnemonic_es": "Palabras correctas que confirman la verdad: eso es una prueba o un certificado."
+  },
+  {
+    "char": "央",
+    "components": [
+      {
+        "char": "冂",
+        "meaning_es": "marco, límite"
+      },
+      {
+        "char": "大",
+        "meaning_es": "grande, persona con brazos abiertos"
+      }
+    ],
+    "mnemonic_es": "Una persona con los brazos abiertos parada justo dentro de un marco: está en el centro."
+  },
+  {
+    "char": "俄",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "我",
+        "meaning_es": "yo"
+      }
+    ],
+    "mnemonic_es": "Una persona dice «yo» con acento ruso: así recuerdas que este carácter se usa para Rusia (俄罗斯)."
+  },
+  {
+    "char": "罗",
+    "components": [
+      {
+        "char": "罒",
+        "meaning_es": "red"
+      },
+      {
+        "char": "夕",
+        "meaning_es": "atardecer"
+      }
+    ],
+    "mnemonic_es": "Al atardecer el pescador extiende su red para atrapar: piensa en una red tendida, y en el «ro» de Rusia (俄罗斯)."
+  },
+  {
+    "char": "斯",
+    "components": [
+      {
+        "char": "其",
+        "meaning_es": "eso, su"
+      },
+      {
+        "char": "斤",
+        "meaning_es": "hacha"
+      }
+    ],
+    "mnemonic_es": "Con un hacha partes «eso» en dos: suena «sī», como la «s» final de Rusia (俄罗斯)."
+  },
+  {
+    "char": "域",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "或",
+        "meaning_es": "o, quizás"
+      }
+    ],
+    "mnemonic_es": "«¿Esta tierra o aquella?», preguntan al trazar fronteras: así se define una región o un ámbito."
+  },
+  {
+    "char": "综",
+    "components": [
+      {
+        "char": "纟",
+        "meaning_es": "seda, hilo"
+      },
+      {
+        "char": "宗",
+        "meaning_es": "ancestro, clan"
+      }
+    ],
+    "mnemonic_es": "Los hilos de todo el clan se tejen juntos en una sola tela: así se integra y sintetiza todo."
+  },
+  {
+    "char": "派",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "𠂢",
+        "meaning_es": "ramificación"
+      }
+    ],
+    "mnemonic_es": "Un río que se ramifica en varios brazos: cada brazo es una corriente, una facción; y también enviar a alguien por ese camino."
+  },
+  {
+    "char": "宣",
+    "components": [
+      {
+        "char": "宀",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "亘",
+        "meaning_es": "extenderse"
+      }
+    ],
+    "mnemonic_es": "Desde el techo del palacio la noticia se extiende a todos lados: es un anuncio, una proclamación."
+  },
+  {
+    "char": "近",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "斤",
+        "meaning_es": "hacha"
+      }
+    ],
+    "mnemonic_es": "Caminas con tu hacha hacia el bosque y ya está ahí nomás: queda cerca."
+  },
+  {
+    "char": "范",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "㔾",
+        "meaning_es": "sello, persona arrodillada"
+      }
+    ],
+    "mnemonic_es": "Una persona arrodillada marca con hierba y agua los bordes del terreno: así fija el modelo y el alcance."
+  },
+  {
+    "char": "围",
+    "components": [
+      {
+        "char": "囗",
+        "meaning_es": "recinto, cerco"
+      },
+      {
+        "char": "韦",
+        "meaning_es": "cuero"
+      }
+    ],
+    "mnemonic_es": "Una correa de cuero queda dentro de un cerco que la rodea por todos lados: eso es rodear, encerrar."
+  },
+  {
+    "char": "坚",
+    "components": [
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "Una mano aprieta la tierra una y otra vez hasta dejarla dura: queda firme y sólida."
+  },
+  {
+    "char": "思",
+    "components": [
+      {
+        "char": "田",
+        "meaning_es": "campo"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "El campesino mira su campo con el corazón lleno de preocupaciones: está pensando."
+  }
+]

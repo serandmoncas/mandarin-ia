@@ -1,0 +1,157 @@
+[
+  {
+    "id": "char:师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "32202d4f3d84af6b5acefb9e44d524a2931d0ac9"
+  },
+  {
+    "id": "char:结",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5188f07bbc4475e56dcd32adefb2b0908ab88bf"
+  },
+  {
+    "id": "char:儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d09b7384acc89a4be995857306d8e575111ab56"
+  },
+  {
+    "id": "char:任",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ff1caa3d34e28251c550456e5a2640435c465f65"
+  },
+  {
+    "id": "char:车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b525e9ad47751b1a99babf56951d93ba328e0081"
+  },
+  {
+    "id": "char:介",
+    "ok": false,
+    "issues": [
+      "Los dos trazos inferiores son 丿 y 丨, no dos trazos verticales; la descripción del componente es imprecisa.",
+      "La mnemotecnia dice que la persona está «entre dos líneas», pero en el carácter 人 está encima de ellas, no entre ellas."
+    ],
+    "content_hash": "4396d9c6988bc18529242a6386151b0499e534e8"
+  },
+  {
+    "id": "char:绍",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e4652c475a1672217c634a9a477e50ab3544fe5d"
+  },
+  {
+    "id": "char:带",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ecc9a8d873948d06a2c0e46139fac13cc4807d09"
+  },
+  {
+    "id": "char:虽",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0c32f7fedf73f59adb40741e8492c75f6ea2494"
+  },
+  {
+    "id": "char:然",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d098ef73927c5546cad343e82fe5f0d4df53969"
+  },
+  {
+    "id": "char:视",
+    "ok": true,
+    "issues": [],
+    "content_hash": "79980ceeb6cefd31c9d8730aa9bf92226294dcc1"
+  },
+  {
+    "id": "char:游",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7189728275500cf4421a6ed68422c165fe0d7b91"
+  },
+  {
+    "id": "char:戏",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4396595925ee3f8c2f33b0497cf968236698f39e"
+  },
+  {
+    "id": "char:妈",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7746b49c97b77f2009e8204ffdb74a03386005f3"
+  },
+  {
+    "id": "char:明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b3d9eab75c7d1a7182529ce1c57b3160b5003513"
+  },
+  {
+    "id": "char:白",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c74fb245543497ced54c3b78151616194606066f"
+  },
+  {
+    "id": "char:代",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b3cdf1c9fa4e0314680a479499d8d936aa79d7b9"
+  },
+  {
+    "id": "char:表",
+    "ok": false,
+    "issues": [
+      "Presentar 龶 como «variante de 生» es una etimología engañosa: en 表 la parte superior proviene históricamente de 毛 (pelo/piel), es decir, una prenda de piel con el pelo hacia fuera. Conviene describirlo como forma gráfica o indicar su origen en 毛."
+    ],
+    "content_hash": "59463d0b30551e79e8435c0fceb9fb7d7c9492b5"
+  },
+  {
+    "id": "char:汽",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ea47e2d311a9014416c0413f882db46a9ee00da2"
+  },
+  {
+    "id": "char:且",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6421350892889c1b4bf07c20dc30d549d61b0506"
+  },
+  {
+    "id": "char:较",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d901d1be2902b2d52a5b60db8f036d68a876c9d9"
+  },
+  {
+    "id": "char:跑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bd339d43336571902890ae4489bc91c16f453ce9"
+  },
+  {
+    "id": "char:名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "03c6fec00f7ad5631651cc4a6b2311dfb507bbcf"
+  },
+  {
+    "id": "char:字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3feb2f204968b6a52741eed7df2201fc5cd66b79"
+  },
+  {
+    "id": "char:支",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4aee4c90f04a3df60e8823fc8619b661da129b37"
+  }
+]

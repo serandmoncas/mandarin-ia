@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:观察",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3767dd2b4d26bcc2990e037bd81d16f100533851"
+  },
+  {
+    "id": "word:规范",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d7eecdac40fd3cb0d28c764b3f21e0bd1af2a854"
+  },
+  {
+    "id": "word:太太",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b4be7f69198fe4a0883481495200a39c28acfe3e"
+  },
+  {
+    "id": "word:好好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ed542f5fd110284b51d65c692c12b51000335ac"
+  },
+  {
+    "id": "word:合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "12662296e835c8c93e713cfb7a7986203334045f"
+  },
+  {
+    "id": "word:笑话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "476b91041c7fb12a83688b577fc3bac23c200bd0"
+  },
+  {
+    "id": "word:姓",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9f1a8dce205992f69f5a3d63456afe62648552d7"
+  },
+  {
+    "id": "word:批准",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80224df8e5c33c27abc94bc9b4f3d38955cfdd1f"
+  },
+  {
+    "id": "word:大门",
+    "ok": true,
+    "issues": [],
+    "content_hash": "954e9e4872b5ae3242b9312b61e02b06fedf2b17"
+  },
+  {
+    "id": "word:强大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d677c3037e72c5a0492e598e631dd06aa116384"
+  },
+  {
+    "id": "word:等到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4bacab8f6a038052c18978e6cad4cf6f4dac278a"
+  },
+  {
+    "id": "word:实际上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "880de2873c25c5a12a6b64b1ab3b5e11fc0b06ad"
+  },
+  {
+    "id": "word:角",
+    "ok": false,
+    "issues": [
+      "En «这个图有三个角», 图 significa más bien «dibujo/imagen/diagrama». Para «figura» geométrica lo natural es 图形 («这个图形有三个角»)."
+    ],
+    "content_hash": "b4049b9f3cfbc8e635a32749fd5b3f636a90a4d5"
+  },
+  {
+    "id": "word:团结",
+    "ok": true,
+    "issues": [],
+    "content_hash": "86128371a1d47187f9ecae76b9124e1311c28e14"
+  },
+  {
+    "id": "word:放下",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b05165d4036679d7ca5cd0da31b225f4a81076ab"
+  },
+  {
+    "id": "word:画家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8558c4f2c9eeef91f381602cf5244c941ce96183"
+  },
+  {
+    "id": "word:报名",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7394447481c1c683aed4877556c2ac8bebf768f5"
+  },
+  {
+    "id": "word:各位",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ad3b0fb32fedb1266d3f58f57e37af173993af6"
+  },
+  {
+    "id": "word:平安",
+    "ok": true,
+    "issues": [],
+    "content_hash": "236f0d645915ccd9ed5bcc9ef433b1f631bc2914"
+  },
+  {
+    "id": "word:喂",
+    "ok": false,
+    "issues": [
+      "El significado «¿hola? (para llamar la atención)» corresponde normalmente a la lectura wèi (¡oye!, ¡eh!), no a wéi. Para la lectura wéi conviene limitarse a «aló / bueno» (al contestar el teléfono)."
+    ],
+    "content_hash": "d50ce396c907ec84e6546652a95488059ca58811"
+  },
+  {
+    "id": "word:完美",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6ae8f15f522209ed820f1cfe20c4e005cbf3000"
+  },
+  {
+    "id": "word:疼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f5f3bfd500dcfc676184119f3698266899871dd"
+  },
+  {
+    "id": "word:安静",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ae3eeedb08fc96e8a4018c3e00b1660c3ac5b99d"
+  },
+  {
+    "id": "word:春天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4fe6cab23671bb35f8944e69f91b5d71f1f77452"
+  },
+  {
+    "id": "word:灯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e6b316f1acc8bdd8bc06f1f5556e4b858e26ed3f"
+  }
+]

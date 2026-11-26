@@ -1,0 +1,172 @@
+[
+  {
+    "id": "word:银行",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 姐姐 se pronuncia «jiě jie» (segunda sílaba en tono neutro), no «jiě jiě»."
+    ],
+    "content_hash": "8b244c835fe91e07c1ba4e730a7da130abc582ae"
+  },
+  {
+    "id": "word:加入",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c53b0d32d2b5c2d8bc38402acff3b27632fc2254"
+  },
+  {
+    "id": "word:外语",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: 喜欢 se pronuncia «xǐ huan» (tono neutro), no «xǐ huān»."
+    ],
+    "content_hash": "4b72002521e8b2772bf4be657f944edefe247b74"
+  },
+  {
+    "id": "word:啦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "448aef59c1c280560a40feff5b76b41e7e27e0d0"
+  },
+  {
+    "id": "word:楼上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b82e2b7fa1f5f1bbb858e67d0f97b706f442e309"
+  },
+  {
+    "id": "word:星期日",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 奶奶 se pronuncia «nǎi nai» (tono neutro), no «nǎi nǎi»."
+    ],
+    "content_hash": "b4fe13479e61446f4889569781dc1eb3a74ff82c"
+  },
+  {
+    "id": "word:数据",
+    "ok": true,
+    "issues": [],
+    "content_hash": "875c363b44c56b9587ae7842ab0f094b9cfef058"
+  },
+  {
+    "id": "word:经验",
+    "ok": false,
+    "issues": [
+      "El significado verbal «vivir, experimentar» está prácticamente en desuso en el mandarín moderno, donde se usa 经历 o 体验. Puede confundir al estudiante: conviene quitarlo o marcarlo como arcaico."
+    ],
+    "content_hash": "541060544228d0d9e31bc3d32de521a34c7c97d9"
+  },
+  {
+    "id": "word:一点儿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "24043dd6f6b61e560a2dc718fde16ae1f15b59c3"
+  },
+  {
+    "id": "word:放假",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca63ffb91eaf6466b9083ebd5b844769b8e231e9"
+  },
+  {
+    "id": "word:语言",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b1271fcf89668f09e8ecfcca96f9df7f7df1692b"
+  },
+  {
+    "id": "word:增长",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «公司的钱增长了» suena poco natural. Lo idiomático es 公司的收入/利润增长了很多 («los ingresos/las ganancias aumentaron»)."
+    ],
+    "content_hash": "4fe7ced35d9473cb56c19f1f965eeb3c97fc5073"
+  },
+  {
+    "id": "word:电视机",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 爷爷 se pronuncia «yé ye» (tono neutro), no «yé yé»."
+    ],
+    "content_hash": "b0cd104fbf8ae2bd8f26b7ca7f41ca404ba64bad"
+  },
+  {
+    "id": "word:好听",
+    "ok": true,
+    "issues": [],
+    "content_hash": "565aa875b7710442aa583cb5cdad579dd17e90b1"
+  },
+  {
+    "id": "word:北边",
+    "ok": true,
+    "issues": [],
+    "content_hash": "04c32a6fbfe30dc9642e44ef0437d5842a0f8a33"
+  },
+  {
+    "id": "word:价格",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «价格增加了» no es la colocación natural. Con precios se usa 上涨/涨了/提高了 (p. ej., 价格都涨了)."
+    ],
+    "content_hash": "15705c25b14fe834c2a753ce59f24b71df80c90f"
+  },
+  {
+    "id": "word:期",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «下一期的新闻视频已经在网上了» es forzado y algo contradictorio: si ya está publicado, normalmente se diría 最新一期 o 这一期. Además, «新闻视频» suena poco natural en ese contexto."
+    ],
+    "content_hash": "61917b2fda1fd1986ba714b50e6a63f925d26555"
+  },
+  {
+    "id": "word:说明",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a1e7a08f896e491ab0697220d060ee72a80312d3"
+  },
+  {
+    "id": "word:条件",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b414d6da982400ac0211e2ca2d51675dde2bae8a"
+  },
+  {
+    "id": "word:指出",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «指出了我的错» suena poco natural, porque 我的错 se entiende más bien como «mi culpa». Lo natural es «老师指出了我的错误»."
+    ],
+    "content_hash": "63f041a43fd0dbf037bf5d808e4553e05baef61d"
+  },
+  {
+    "id": "word:后天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b869ef7e2541de3fe776ceb6a2ce87f94835acd4"
+  },
+  {
+    "id": "word:专家",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3fc80fa0553f109c545d5846db0b4edd0947b9f3"
+  },
+  {
+    "id": "word:一下儿",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «preséntate un poco» es un calco. Aquí 一下儿 solo suaviza la petición; la traducción fiel y natural es «Por favor, preséntate»."
+    ],
+    "content_hash": "c67c6df2cd64e9b55bf3a1b8bc1cec1c25036c36"
+  },
+  {
+    "id": "word:变",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cdc3543514c6d06b474b9b567c98fc5570e569ae"
+  },
+  {
+    "id": "word:看病",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6e94efb446270ef01bac0bd33d27f395e9cce5de"
+  }
+]

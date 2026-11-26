@@ -1,0 +1,446 @@
+[
+  {
+    "char": "晨",
+    "components": [
+      {
+        "char": "日",
+        "meaning_es": "sol"
+      },
+      {
+        "char": "辰",
+        "meaning_es": "hora, momento (signo del calendario chino)"
+      }
+    ],
+    "mnemonic_es": "Cuando el sol llega a su hora de salir, es la mañana temprano."
+  },
+  {
+    "char": "厂",
+    "components": [
+      {
+        "char": "厂",
+        "meaning_es": "fábrica (originalmente, acantilado)"
+      }
+    ],
+    "mnemonic_es": "Imagina un techo con una sola pared: un galpón abierto donde trabajan, una fábrica."
+  },
+  {
+    "char": "雪",
+    "components": [
+      {
+        "char": "雨",
+        "meaning_es": "lluvia"
+      },
+      {
+        "char": "⺕",
+        "meaning_es": "mano"
+      }
+    ],
+    "mnemonic_es": "Es lluvia que puedes agarrar con la mano: la nieve."
+  },
+  {
+    "char": "石",
+    "components": [
+      {
+        "char": "厂",
+        "meaning_es": "acantilado"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca, bloque"
+      }
+    ],
+    "mnemonic_es": "Al pie del acantilado cae un bloque cuadrado: una piedra."
+  },
+  {
+    "char": "卫",
+    "components": [
+      {
+        "char": "卩",
+        "meaning_es": "persona arrodillada, sello"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno, línea del suelo"
+      }
+    ],
+    "mnemonic_es": "Un guardia rodilla en tierra vigila la línea del suelo para defenderla."
+  },
+  {
+    "char": "冬",
+    "components": [
+      {
+        "char": "夂",
+        "meaning_es": "pie que avanza despacio"
+      },
+      {
+        "char": "⺀",
+        "meaning_es": "gotas de hielo"
+      }
+    ],
+    "mnemonic_es": "Caminas despacito para no resbalar sobre dos gotas de hielo: es invierno."
+  },
+  {
+    "char": "遍",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "扁",
+        "meaning_es": "plano, aplanado"
+      }
+    ],
+    "mnemonic_es": "Caminas por el mismo sendero tantas veces que lo dejas plano: lo recorriste por todas partes, vez tras vez."
+  },
+  {
+    "char": "鞋",
+    "components": [
+      {
+        "char": "革",
+        "meaning_es": "cuero"
+      },
+      {
+        "char": "圭",
+        "meaning_es": "tierra sobre tierra (tablilla de jade)"
+      }
+    ],
+    "mnemonic_es": "Cuero que pisa tierra y más tierra: tus zapatos."
+  },
+  {
+    "char": "租",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, grano"
+      },
+      {
+        "char": "且",
+        "meaning_es": "además"
+      }
+    ],
+    "mnemonic_es": "Para alquilar el terreno pagas con grano, y además otra vez el mes siguiente."
+  },
+  {
+    "char": "判",
+    "components": [
+      {
+        "char": "半",
+        "meaning_es": "mitad"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "El juez corta con un cuchillo justo por la mitad para decidir: juzgar."
+  },
+  {
+    "char": "深",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "cubierta"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "El agua cubre un árbol entero sin que se vea la copa: ¡qué profundo!"
+  },
+  {
+    "char": "追",
+    "components": [
+      {
+        "char": "辶",
+        "meaning_es": "caminar, avanzar"
+      },
+      {
+        "char": "𠂤",
+        "meaning_es": "montículo, tropa"
+      }
+    ],
+    "mnemonic_es": "Avanzas corriendo detrás de la tropa: la persigues."
+  },
+  {
+    "char": "瓶",
+    "components": [
+      {
+        "char": "并",
+        "meaning_es": "juntar, unir"
+      },
+      {
+        "char": "瓦",
+        "meaning_es": "teja, cerámica"
+      }
+    ],
+    "mnemonic_es": "Juntas piezas de cerámica y armas una botella."
+  },
+  {
+    "char": "忽",
+    "components": [
+      {
+        "char": "勿",
+        "meaning_es": "no, no hagas"
+      },
+      {
+        "char": "心",
+        "meaning_es": "corazón"
+      }
+    ],
+    "mnemonic_es": "«¡No!», grita tu corazón cuando algo pasa de repente."
+  },
+  {
+    "char": "餐",
+    "components": [
+      {
+        "char": "歺",
+        "meaning_es": "hueso"
+      },
+      {
+        "char": "又",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "食",
+        "meaning_es": "comer, comida"
+      }
+    ],
+    "mnemonic_es": "La mano agarra un hueso con carne para comer: es la hora de la comida."
+  },
+  {
+    "char": "乱",
+    "components": [
+      {
+        "char": "舌",
+        "meaning_es": "lengua"
+      },
+      {
+        "char": "乚",
+        "meaning_es": "gancho"
+      }
+    ],
+    "mnemonic_es": "Se te engancha la lengua y todo lo que dices sale enredado: un desorden."
+  },
+  {
+    "char": "刻",
+    "components": [
+      {
+        "char": "亥",
+        "meaning_es": "cerdo (signo del zodiaco chino)"
+      },
+      {
+        "char": "刂",
+        "meaning_es": "cuchillo"
+      }
+    ],
+    "mnemonic_es": "Con un cuchillo grabas un cerdo en madera, y cada corte te toma un cuarto de hora."
+  },
+  {
+    "char": "澡",
+    "components": [
+      {
+        "char": "氵",
+        "meaning_es": "agua"
+      },
+      {
+        "char": "品",
+        "meaning_es": "tres bocas"
+      },
+      {
+        "char": "木",
+        "meaning_es": "árbol"
+      }
+    ],
+    "mnemonic_es": "Te bañas con agua al aire libre mientras tres pajaritos cantan con sus picos en un árbol."
+  },
+  {
+    "char": "痛",
+    "components": [
+      {
+        "char": "疒",
+        "meaning_es": "enfermedad"
+      },
+      {
+        "char": "甬",
+        "meaning_es": "pasadizo"
+      }
+    ],
+    "mnemonic_es": "La enfermedad recorre tu cuerpo como por un pasadizo: duele por todas partes."
+  },
+  {
+    "char": "苦",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba"
+      },
+      {
+        "char": "古",
+        "meaning_es": "antiguo, viejo"
+      }
+    ],
+    "mnemonic_es": "Hierba vieja sabe amarga, como una vida dura."
+  },
+  {
+    "char": "补",
+    "components": [
+      {
+        "char": "衤",
+        "meaning_es": "ropa"
+      },
+      {
+        "char": "卜",
+        "meaning_es": "adivinación"
+      }
+    ],
+    "mnemonic_es": "La adivina predice un agujero en tu ropa: mejor remiéndala ya."
+  },
+  {
+    "char": "堂",
+    "components": [
+      {
+        "char": "⺌",
+        "meaning_es": "brillo, rayos de luz"
+      },
+      {
+        "char": "冖",
+        "meaning_es": "techo"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca, sala"
+      },
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      }
+    ],
+    "mnemonic_es": "Un techo que brilla sobre una sala grande construida en tierra firme: un salón."
+  },
+  {
+    "char": "龙",
+    "components": [
+      {
+        "char": "龙",
+        "meaning_es": "dragón"
+      }
+    ],
+    "mnemonic_es": "Mira el trazo largo que se enrosca con una garra a un lado: es un dragón volando."
+  },
+  {
+    "char": "敢",
+    "components": [
+      {
+        "char": "耳",
+        "meaning_es": "oreja (forma parecida)"
+      },
+      {
+        "char": "攵",
+        "meaning_es": "mano que golpea, acción"
+      }
+    ],
+    "mnemonic_es": "Solo alguien valiente se atreve a darle un golpe en la oreja al abusón."
+  },
+  {
+    "char": "古",
+    "components": [
+      {
+        "char": "十",
+        "meaning_es": "diez"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      }
+    ],
+    "mnemonic_es": "Una historia que pasó por diez bocas tiene que ser antigua."
+  },
+  {
+    "char": "阴",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina"
+      },
+      {
+        "char": "月",
+        "meaning_es": "luna"
+      }
+    ],
+    "mnemonic_es": "La luna escondida detrás de la colina: sombra, cielo nublado, el lado yin."
+  },
+  {
+    "char": "跳",
+    "components": [
+      {
+        "char": "足",
+        "meaning_es": "pie"
+      },
+      {
+        "char": "兆",
+        "meaning_es": "presagio, señal"
+      }
+    ],
+    "mnemonic_es": "Tus pies sienten una mala señal en el suelo y saltan."
+  },
+  {
+    "char": "幸",
+    "components": [
+      {
+        "char": "土",
+        "meaning_es": "tierra"
+      },
+      {
+        "char": "丷",
+        "meaning_es": "dos gotas"
+      },
+      {
+        "char": "干",
+        "meaning_es": "seco"
+      }
+    ],
+    "mnemonic_es": "En una tierra seca encuentras dos gotas de agua: ¡qué suerte!"
+  },
+  {
+    "char": "福",
+    "components": [
+      {
+        "char": "礻",
+        "meaning_es": "altar, lo divino"
+      },
+      {
+        "char": "一",
+        "meaning_es": "uno"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "田",
+        "meaning_es": "campo de cultivo"
+      }
+    ],
+    "mnemonic_es": "Junto al altar hay una boca que comer y un campo que cultivar: eso es la felicidad y la bendición."
+  },
+  {
+    "char": "碗",
+    "components": [
+      {
+        "char": "石",
+        "meaning_es": "piedra"
+      },
+      {
+        "char": "宛",
+        "meaning_es": "curvo, sinuoso"
+      }
+    ],
+    "mnemonic_es": "Tallas una piedra en forma curva y te queda un tazón para el arroz."
+  }
+]

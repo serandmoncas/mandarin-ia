@@ -1,0 +1,547 @@
+[
+  {
+    "word": "出发",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "salir (de viaje)",
+      "partir",
+      "ponerse en camino",
+      "partir de (un punto de vista)"
+    ],
+    "examples": [
+      {
+        "zh": "我们明天出发。",
+        "es": "Salimos mañana."
+      },
+      {
+        "zh": "你们几点出发？",
+        "es": "¿A qué hora salen ustedes?"
+      },
+      {
+        "zh": "飞机早上八点出发。",
+        "es": "El avión sale a las ocho de la mañana."
+      },
+      {
+        "zh": "我们应该从学生的需要出发。",
+        "es": "Debemos partir de las necesidades de los estudiantes."
+      }
+    ]
+  },
+  {
+    "word": "面对",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enfrentar",
+      "hacer frente a",
+      "estar frente a",
+      "dar a (un lugar)"
+    ],
+    "examples": [
+      {
+        "zh": "我们要面对问题。",
+        "es": "Tenemos que enfrentar los problemas."
+      },
+      {
+        "zh": "她每天面对很多学生。",
+        "es": "Todos los días está frente a muchos estudiantes."
+      },
+      {
+        "zh": "面对困难，她一点也不怕。",
+        "es": "Ante las dificultades, no tiene ni un poco de miedo."
+      },
+      {
+        "zh": "他的房子面对一个很大的公园。",
+        "es": "Su casa da a un parque muy grande."
+      }
+    ]
+  },
+  {
+    "word": "取",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sacar",
+      "recoger",
+      "tomar",
+      "poner (un nombre)"
+    ],
+    "examples": [
+      {
+        "zh": "我去银行取钱。",
+        "es": "Voy al banco a sacar dinero."
+      },
+      {
+        "zh": "你的票在哪里取？",
+        "es": "¿Dónde recoges tu boleto?"
+      },
+      {
+        "zh": "我们先去车站取票吧。",
+        "es": "Vamos primero a la estación a recoger los boletos."
+      },
+      {
+        "zh": "他给儿子取了一个好听的名字。",
+        "es": "Le puso a su hijo un nombre muy bonito."
+      }
+    ]
+  },
+  {
+    "word": "听说",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "oír decir",
+      "enterarse de",
+      "dicen que",
+      "rumor"
+    ],
+    "examples": [
+      {
+        "zh": "我听说他病了。",
+        "es": "Oí que está enfermo."
+      },
+      {
+        "zh": "你听说了吗？他明天回国。",
+        "es": "¿Ya te enteraste? Mañana regresa a su país."
+      },
+      {
+        "zh": "听说那家饭店的菜很好吃。",
+        "es": "Dicen que la comida de ese restaurante es muy rica."
+      },
+      {
+        "zh": "我听说过这个故事，但是没看过这本书。",
+        "es": "He oído hablar de esta historia, pero no he leído el libro."
+      }
+    ]
+  },
+  {
+    "word": "商业",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "comercio",
+      "negocios",
+      "comercial"
+    ],
+    "examples": [
+      {
+        "zh": "这里是商业中心。",
+        "es": "Aquí está el centro comercial de la ciudad."
+      },
+      {
+        "zh": "他在一家商业银行工作。",
+        "es": "Trabaja en un banco comercial."
+      },
+      {
+        "zh": "这个城市的商业发展得很快。",
+        "es": "El comercio de esta ciudad se ha desarrollado muy rápido."
+      },
+      {
+        "zh": "这部电影太商业了，没有什么艺术价值。",
+        "es": "Esta película es demasiado comercial; no tiene mucho valor artístico."
+      }
+    ]
+  },
+  {
+    "word": "速度",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "velocidad",
+      "rapidez",
+      "ritmo"
+    ],
+    "examples": [
+      {
+        "zh": "他开车的速度很快。",
+        "es": "Maneja a mucha velocidad."
+      },
+      {
+        "zh": "请慢一点，速度太快了！",
+        "es": "¡Más despacio, por favor, vas demasiado rápido!"
+      },
+      {
+        "zh": "这个车的最高速度是多少？",
+        "es": "¿Cuál es la velocidad máxima de este carro?"
+      },
+      {
+        "zh": "中国经济发展的速度比以前慢了一些。",
+        "es": "El ritmo de crecimiento de la economía china es un poco más lento que antes."
+      }
+    ]
+  },
+  {
+    "word": "想法",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "idea",
+      "opinión",
+      "manera de pensar"
+    ],
+    "examples": [
+      {
+        "zh": "这是个好想法。",
+        "es": "Es una buena idea."
+      },
+      {
+        "zh": "你有什么想法？",
+        "es": "¿Qué opinas?"
+      },
+      {
+        "zh": "我的想法跟你的不一样。",
+        "es": "Mi forma de pensar es diferente a la tuya."
+      },
+      {
+        "zh": "大家的想法不同，所以我们需要好好讨论一下。",
+        "es": "Todos tienen ideas distintas, así que tenemos que discutirlo bien."
+      }
+    ]
+  },
+  {
+    "word": "团",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grupo",
+      "bola",
+      "regimiento",
+      "clasificador para masas blandas (bola, bollo, nube)"
+    ],
+    "examples": [
+      {
+        "zh": "桌子上有一团纸。",
+        "es": "Hay una bola de papel en la mesa."
+      },
+      {
+        "zh": "我们参加了一个旅游团。",
+        "es": "Nos unimos a un grupo de turistas."
+      },
+      {
+        "zh": "他把那张纸团成一团，放进了包里。",
+        "es": "Hizo una bola con esa hoja y la metió en la mochila."
+      },
+      {
+        "zh": "这个代表团来自欧洲，会在北京住三天。",
+        "es": "Esta delegación viene de Europa y se quedará tres días en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "心里",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en el corazón",
+      "en la mente",
+      "por dentro"
+    ],
+    "examples": [
+      {
+        "zh": "我心里很高兴。",
+        "es": "Por dentro estoy muy contento."
+      },
+      {
+        "zh": "你心里在想什么？",
+        "es": "¿Qué estás pensando?"
+      },
+      {
+        "zh": "她什么也没说，但是心里很不高兴。",
+        "es": "No dijo nada, pero por dentro estaba muy molesta."
+      },
+      {
+        "zh": "这些话我一直放在心里，没有告诉别人。",
+        "es": "Siempre guardé estas palabras en mi corazón y no se las conté a nadie."
+      }
+    ]
+  },
+  {
+    "word": "危险",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "peligroso",
+      "peligro"
+    ],
+    "examples": [
+      {
+        "zh": "这里很危险。",
+        "es": "Aquí es muy peligroso."
+      },
+      {
+        "zh": "别玩火，太危险了！",
+        "es": "¡No juegues con fuego, es muy peligroso!"
+      },
+      {
+        "zh": "晚上一个人走路很危险。",
+        "es": "Es muy peligroso caminar solo de noche."
+      },
+      {
+        "zh": "医生说病人已经没有危险了。",
+        "es": "El médico dijo que el paciente ya está fuera de peligro."
+      }
+    ]
+  },
+  {
+    "word": "正是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "precisamente es",
+      "justamente es",
+      "es justo"
+    ],
+    "examples": [
+      {
+        "zh": "这正是我要的。",
+        "es": "Esto es justo lo que quería."
+      },
+      {
+        "zh": "那个人正是我哥哥。",
+        "es": "Esa persona es precisamente mi hermano mayor."
+      },
+      {
+        "zh": "现在正是去北京旅游的好时候。",
+        "es": "Ahora es justamente un buen momento para viajar a Pekín."
+      },
+      {
+        "zh": "你说的问题，正是我们今天要讨论的。",
+        "es": "El problema que mencionas es precisamente lo que vamos a discutir hoy."
+      }
+    ]
+  },
+  {
+    "word": "现实",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "realidad",
+      "realista",
+      "real",
+      "interesado (materialista)"
+    ],
+    "examples": [
+      {
+        "zh": "这就是现实。",
+        "es": "Así es la realidad."
+      },
+      {
+        "zh": "他不想面对现实。",
+        "es": "No quiere enfrentar la realidad."
+      },
+      {
+        "zh": "你的计划不太现实。",
+        "es": "Tu plan no es muy realista."
+      },
+      {
+        "zh": "她很现实，找男朋友先看他有没有钱。",
+        "es": "Es muy interesada: al buscar novio, primero se fija si tiene dinero."
+      }
+    ]
+  },
+  {
+    "word": "表",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "reloj (de pulsera)",
+      "medidor",
+      "contador"
+    ],
+    "examples": [
+      {
+        "zh": "我的表慢了。",
+        "es": "Mi reloj está atrasado."
+      },
+      {
+        "zh": "你看看表，现在几点了？",
+        "es": "Mira tu reloj, ¿qué hora es?"
+      },
+      {
+        "zh": "这块表是爸爸送给我的。",
+        "es": "Este reloj me lo regaló mi papá."
+      },
+      {
+        "zh": "他的表比北京时间快五分钟。",
+        "es": "Su reloj va cinco minutos adelantado respecto a la hora de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "miembro",
+      "persona que ejerce una actividad (sufijo)",
+      "clasificador para generales"
+    ],
+    "examples": [
+      {
+        "zh": "他是一名服务员。",
+        "es": "Él es mesero."
+      },
+      {
+        "zh": "我哥哥是足球运动员。",
+        "es": "Mi hermano mayor es futbolista."
+      },
+      {
+        "zh": "每个员工都要参加明天的会议。",
+        "es": "Todos los empleados deben asistir a la reunión de mañana."
+      },
+      {
+        "zh": "这个组织的成员来自二十多个国家。",
+        "es": "Los miembros de esta organización vienen de más de veinte países."
+      }
+    ]
+  },
+  {
+    "word": "左右",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aproximadamente",
+      "izquierda y derecha",
+      "influir en",
+      "alrededor"
+    ],
+    "examples": [
+      {
+        "zh": "我们晚上八点左右到。",
+        "es": "Llegamos alrededor de las ocho de la noche."
+      },
+      {
+        "zh": "他看起来三十岁左右。",
+        "es": "Parece tener unos treinta años."
+      },
+      {
+        "zh": "过马路的时候，要先看看左右。",
+        "es": "Al cruzar la calle, primero hay que mirar a ambos lados."
+      },
+      {
+        "zh": "别让别人的想法左右你的决定。",
+        "es": "No dejes que las opiniones de otros influyan en tus decisiones."
+      }
+    ]
+  },
+  {
+    "word": "爱情",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "amor (romántico)",
+      "romance"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢爱情电影。",
+        "es": "Me gustan las películas románticas."
+      },
+      {
+        "zh": "这是一个爱情故事。",
+        "es": "Esta es una historia de amor."
+      },
+      {
+        "zh": "她相信爱情比钱更重要。",
+        "es": "Ella cree que el amor es más importante que el dinero."
+      },
+      {
+        "zh": "很多年轻人觉得爱情和工作一样重要。",
+        "es": "Muchos jóvenes piensan que el amor es tan importante como el trabajo."
+      }
+    ]
+  },
+  {
+    "word": "大会",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "asamblea general",
+      "congreso",
+      "convención"
+    ],
+    "examples": [
+      {
+        "zh": "大会明天开始。",
+        "es": "El congreso empieza mañana."
+      },
+      {
+        "zh": "我们公司下个月要开大会。",
+        "es": "Nuestra empresa tendrá una asamblea general el próximo mes."
+      },
+      {
+        "zh": "他在大会上发表了讲话。",
+        "es": "Dio un discurso en la asamblea."
+      },
+      {
+        "zh": "全国人民代表大会每年在北京举行。",
+        "es": "La Asamblea Popular Nacional se celebra cada año en Pekín."
+      }
+    ]
+  },
+  {
+    "word": "东方",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Oriente",
+      "el este",
+      "Dongfang (apellido)"
+    ],
+    "examples": [
+      {
+        "zh": "我很喜欢东方文化。",
+        "es": "Me gusta mucho la cultura oriental."
+      },
+      {
+        "zh": "他在大学研究东方历史。",
+        "es": "En la universidad estudia la historia de Oriente."
+      },
+      {
+        "zh": "东方人和西方人的习惯不太一样。",
+        "es": "Las costumbres de los orientales y los occidentales son bastante distintas."
+      },
+      {
+        "zh": "很多欧洲人来中国，是为了了解东方的生活。",
+        "es": "Muchos europeos vienen a China para conocer la vida en Oriente."
+      }
+    ]
+  },
+  {
+    "word": "妇女",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "mujer",
+      "mujeres"
+    ],
+    "examples": [
+      {
+        "zh": "三月八日是妇女节。",
+        "es": "El 8 de marzo es el Día de la Mujer."
+      },
+      {
+        "zh": "她是一位农村妇女。",
+        "es": "Ella es una mujer del campo."
+      },
+      {
+        "zh": "这家医院主要为妇女和儿童服务。",
+        "es": "Este hospital atiende principalmente a mujeres y niños."
+      },
+      {
+        "zh": "现在越来越多的妇女参加社会工作。",
+        "es": "Hoy en día cada vez más mujeres trabajan fuera de casa."
+      }
+    ]
+  },
+  {
+    "word": "多么",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "qué (tan)",
+      "cuán",
+      "por más que",
+      "cuánto"
+    ],
+    "examples": [
+      {
+        "zh": "今天的天气多么好啊！",
+        "es": "¡Qué buen clima hace hoy!"
+      },
+      {
+        "zh": "你看，这个城市多么漂亮啊！",
+        "es": "¡Mira qué bonita es esta ciudad!"
+      },
+      {
+        "zh": "你不知道我多么想你。",
+        "es": "No sabes cuánto te extraño."
+      },
+      {
+        "zh": "无论多么困难，我们都要坚持下去。",
+        "es": "Por más difícil que sea, tenemos que seguir adelante."
+      }
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "word:才能",
+    "ok": true,
+    "issues": [],
+    "content_hash": "93ad515a55f5bec62167d20f4aab4c22ff0b589b"
+  },
+  {
+    "id": "word:开会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5090ef6deea74a0e4a24f3d2c314b03f6e9a9d1e"
+  },
+  {
+    "id": "word:经过",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3b84db0c437fc62dc428c69b88d170383f283278"
+  },
+  {
+    "id": "word:明年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "434f69b5a202d74786d9f5d96098766af96ea236"
+  },
+  {
+    "id": "word:来自",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a392ccdf9dbf44d0bf0474ff8e2f00eb4099956"
+  },
+  {
+    "id": "word:听写",
+    "ok": true,
+    "issues": [],
+    "content_hash": "19ad7bbc2f15b440fa9fcba2f52658c8b1c19011"
+  },
+  {
+    "id": "word:媒体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "54f3f7a0959ef41adb8985a718d6233e64e88a10"
+  },
+  {
+    "id": "word:唱歌",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: el pinyin de 得 como partícula de complemento es «de» (tono neutro), no «dé».",
+      "Ejemplo 4: el pinyin de 都 es «dōu», no «dū»."
+    ],
+    "content_hash": "29b466c76d2a57317e17eef4f15f3203497980eb"
+  },
+  {
+    "id": "word:努力",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d26551e693d5d04880179a41a17abd0fe3be70ee"
+  },
+  {
+    "id": "word:那儿",
+    "ok": false,
+    "issues": [
+      "En todos los ejemplos, 那儿 aparece como «nà ér»; debe ser «nàr» (erhua), no dos sílabas."
+    ],
+    "content_hash": "f6d8ee27f2b645ce73d42351a592a6539c665ee2"
+  },
+  {
+    "id": "word:整个",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f34d62b6a40eccef7764c6994b8307cd2b195529"
+  },
+  {
+    "id": "word:牛奶",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 和 como conjunción es «hé», no «huó»."
+    ],
+    "content_hash": "8bb2b601f7b13df24777c2354e0f9c462049e30a"
+  },
+  {
+    "id": "word:只要",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 都 es «dōu», no «dū»."
+    ],
+    "content_hash": "edb5596d77b16dd3c7a178875f09aa9566be00de"
+  },
+  {
+    "id": "word:新年",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «我们一家人吃饭» suena incompleto; lo natural es «一家人一起吃饭». La traducción («come junta») añade 一起, que no está en el chino."
+    ],
+    "content_hash": "733505cc7e526c6d823c18c575800ee59c0b8a67"
+  },
+  {
+    "id": "word:亦",
+    "ok": false,
+    "issues": [
+      "Los ejemplos 1 a 3 mezclan el 亦 literario con un registro coloquial («我亦是学生», «亦很重要», «亦喜欢看电影»), lo que resulta poco natural en mandarín estándar. Con 亦 se usaría p. ej. «亦十分重要»; en habla normal se usaría 也."
+    ],
+    "content_hash": "de74075672f1a8d7456244556831a511f903f901"
+  },
+  {
+    "id": "word:请进",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e6a4373bcaa641c632dfc67dd501282b69a369bb"
+  },
+  {
+    "id": "word:如此",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «如此冷» es poco natural; 如此 suele ir con adjetivos bisílabos («如此寒冷»). Además, mezcla un registro formal con el coloquial «这么少»."
+    ],
+    "content_hash": "743c3c3f611ed9c9394157687b47b1fe9417cc87"
+  },
+  {
+    "id": "word:商场",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9b107c2fac174afd72566c215d22148493282db"
+  },
+  {
+    "id": "word:群众",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6a1efde096c6af42ffbdcc89a1a5dbb5f91b644a"
+  },
+  {
+    "id": "word:选举",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c56cc81c2872f7d77cfe7a16ad20b52c3135243e"
+  },
+  {
+    "id": "word:有名",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 得 como partícula de complemento es «de», no «dé»."
+    ],
+    "content_hash": "2acf9fa9cf5202f771fff20798410aaa8e49c295"
+  },
+  {
+    "id": "word:比赛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1637af4c92bae6f58c5eda8e0105ab2434d0e8b"
+  },
+  {
+    "id": "word:白天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "95bacd021b877a76fe49b8d0f6e9b078ead70fb0"
+  },
+  {
+    "id": "word:表现",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: el pinyin de 得 como partícula de complemento es «de», no «dé»."
+    ],
+    "content_hash": "80b8ac334c4e7da45f7a055b29512120e7ea44a6"
+  },
+  {
+    "id": "word:上课",
+    "ok": true,
+    "issues": [],
+    "content_hash": "878efaea12d99d97b911aa287685b63f834fb0b7"
+  }
+]

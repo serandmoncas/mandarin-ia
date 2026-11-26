@@ -1,0 +1,157 @@
+[
+  {
+    "id": "word:政权",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0a9b35adf1c7395a697c25c36fcb8a1ae63cd96"
+  },
+  {
+    "id": "word:接",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b9e023be52f7c9a981f6b3bf110fcd4c39589972"
+  },
+  {
+    "id": "word:申请",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e6aec49f61d33f52bc1cfa22c6d32a947c15949"
+  },
+  {
+    "id": "word:节",
+    "ok": false,
+    "issues": [
+      "En el pinyin del tercer ejemplo, 都 aparece como «dū». En este uso («todos») se lee «dōu»."
+    ],
+    "content_hash": "49caf524dc67f4ad444d59da67c69d17e7d8ec18"
+  },
+  {
+    "id": "word:神",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7019010b6abcb37f4d5bbb1b1e39846b8e72882c"
+  },
+  {
+    "id": "word:名称",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d68874949690a8dfbb5e8a171181354d996b5b7"
+  },
+  {
+    "id": "word:设",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fb40fd053b16bdbc269a8d4ef9fd9f703ed533fc"
+  },
+  {
+    "id": "word:收到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4bd03d8d713e6cd7261d5bec8864951cb121a08"
+  },
+  {
+    "id": "word:购买",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2b2d4efee1af835b66ff7d986343a64cd24b652d"
+  },
+  {
+    "id": "word:想到",
+    "ok": true,
+    "issues": [],
+    "content_hash": "23e2d472eb4333967cf38f13b586bf4bedf3edd4"
+  },
+  {
+    "id": "word:出发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60db8038e616e0c8e8450999b7a8d451740f86c9"
+  },
+  {
+    "id": "word:面对",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f25e61d5b5212320ac0fdb794d57db6b9d41b66f"
+  },
+  {
+    "id": "word:取",
+    "ok": true,
+    "issues": [],
+    "content_hash": "188142fe56204676c66ef198ecbd6cf87af51559"
+  },
+  {
+    "id": "word:听说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "09adb3f56cc16f7fd0dfd5e24f0dd022bab841b9"
+  },
+  {
+    "id": "word:商业",
+    "ok": false,
+    "issues": [
+      "Primer ejemplo: «centro comercial» en Latinoamérica suele entenderse como «mall». 商业中心 es «zona comercial» o «centro de negocios». Además, se añade «de la ciudad», que no está en el original.",
+      "Tercer ejemplo: en el pinyin, el 得 de «发展得很快» aparece como «dé». Como partícula estructural se escribe «de», con tono neutro."
+    ],
+    "content_hash": "c66b8d739bfc6b19f0d146e1d57ee999a7577e35"
+  },
+  {
+    "id": "word:速度",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e480eb5944fb1e4d5c527ceec7b9d96e273bc60e"
+  },
+  {
+    "id": "word:想法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "365705801809e0777e86df99b143d6ad90adda90"
+  },
+  {
+    "id": "word:团",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b453ecc678a89d03d05debd5193c2db96aa644b"
+  },
+  {
+    "id": "word:心里",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f46d15504100f9fc51a1b816aa3523ade95ee2c"
+  },
+  {
+    "id": "word:危险",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf0cfd457fc9e8e0ec767c67575a32d6f811865c"
+  },
+  {
+    "id": "word:正是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ca22fb796bc8eb2abac1d3baab55fe36f03aeac"
+  },
+  {
+    "id": "word:现实",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dcf677052cd93912d1b76439e9e5a1e3ec4042d9"
+  },
+  {
+    "id": "word:表",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a73bece3e38579113e5e7d3b5f0f640a80f95215"
+  },
+  {
+    "id": "word:员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "046da97341182ae1cc724e47b016762d37b74461"
+  },
+  {
+    "id": "word:左右",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8bf87222f9d21c02a56b93ffde6d27167035e566"
+  }
+]

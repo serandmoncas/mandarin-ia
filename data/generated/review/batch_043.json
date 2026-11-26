@@ -1,0 +1,167 @@
+[
+  {
+    "id": "word:教师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "93544b2771d9537e033e2293dca3fe642d9c47b1"
+  },
+  {
+    "id": "word:金",
+    "ok": true,
+    "issues": [],
+    "content_hash": "29a953b397bf68fab4d5f3e8ad8a2c46cc8e4aa3"
+  },
+  {
+    "id": "word:近",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e713280c56a23a1a8c4fd0c73751f48c80ea141a"
+  },
+  {
+    "id": "word:联合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2c3c39c61c96f7de0a7534dea991aa3d4a94cf40"
+  },
+  {
+    "id": "word:强调",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0119f24661739db493b0a73de303c3ebbf81a34b"
+  },
+  {
+    "id": "word:完",
+    "ok": true,
+    "issues": [],
+    "content_hash": "78c966cc0a894315ec49367a475922a473c93d5e"
+  },
+  {
+    "id": "word:西方",
+    "ok": true,
+    "issues": [],
+    "content_hash": "874d26334ddc3bde00b391f4b1b7b6dd74ff7646"
+  },
+  {
+    "id": "word:职业",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «打足球» es incorrecto; con fútbol se usa 踢 (他踢了十年职业足球)."
+    ],
+    "content_hash": "f672e0d5e588de0dcf0e1d983f869996fd679cb9"
+  },
+  {
+    "id": "word:总是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aff87d6cc20e10e4941e701e903e07d2ff4c2462"
+  },
+  {
+    "id": "word:式",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4 usa 正式 («oficialmente»), un compuesto con otro significado que no ilustra 式 como «estilo/tipo» y puede confundir al estudiante."
+    ],
+    "content_hash": "96ebedcee0dc55b4d18141630eb43c0bff82b037"
+  },
+  {
+    "id": "word:模式",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7af57ab3ecd3b67ffa2c220a82c853f3c23216fc"
+  },
+  {
+    "id": "word:死亡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81733c98146f4adbc9a6cd3aafa3ad1fa237db4c"
+  },
+  {
+    "id": "word:带来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "406458ca55352b546cc095604e84afd37a48e92c"
+  },
+  {
+    "id": "word:更加",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: pinyin «biàn dé» incorrecto; el complemento 得 es neutro: «biàn de»."
+    ],
+    "content_hash": "dace090934e4201f7c8c84241d36856a0c95c7f3"
+  },
+  {
+    "id": "word:节目",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8b8c9581793a94b7df3023aa052eccbdd23ef6c"
+  },
+  {
+    "id": "word:强",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: «他的身体很强» suena poco natural; lo habitual es «身体很强壮» o «身体很好».",
+      "Ejemplo 2: «今天的风很强» es poco natural en el habla común; lo usual es «今天的风很大»."
+    ],
+    "content_hash": "0240f1119892d291dd220938b0fe397244c4fc4b"
+  },
+  {
+    "id": "word:属",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f582aac342d0bf8b4c68a1337540c7c78cc9589b"
+  },
+  {
+    "id": "word:宣传",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51c462744a297af87ba60527ff917371b54ff814"
+  },
+  {
+    "id": "word:选",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4e67b76317573b64accde193d94bada5cb637e4"
+  },
+  {
+    "id": "word:也许",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: pinyin «shuō dé duì» incorrecto; 得 como partícula es neutro: «shuō de duì»."
+    ],
+    "content_hash": "683e407dbc42f04d1694db3a6d1b5c77b8cecff4"
+  },
+  {
+    "id": "word:越",
+    "ok": true,
+    "issues": [],
+    "content_hash": "44aa7954330562263f021da05363cced985a831d"
+  },
+  {
+    "id": "word:军事",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «军事地区» es poco natural para «zona militar (de acceso prohibido)»; lo idiomático es «军事禁区» o «军事区»."
+    ],
+    "content_hash": "c382cf7459d5bd86050457d53a4d168cf0dba213"
+  },
+  {
+    "id": "word:平台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "21cea51b7769d24d26771354a7eea2a6eca57f63"
+  },
+  {
+    "id": "word:每天",
+    "ok": true,
+    "issues": [],
+    "content_hash": "de5e056f5888dedad8dfeaacfb8bcfa408823234"
+  },
+  {
+    "id": "word:电子",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en todos los ejemplos: 电子 se pronuncia «diàn zǐ» (tercer tono), no «diàn zi» con tono neutro."
+    ],
+    "content_hash": "9ffd676d1a3cb6bc73632b8ee3b35e91dcf4b39a"
+  }
+]

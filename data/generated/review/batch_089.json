@@ -1,0 +1,160 @@
+[
+  {
+    "id": "word:配",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7b573bb1a0a3ba21ce1ee0c7c63753cd069d5e38"
+  },
+  {
+    "id": "word:认可",
+    "ok": true,
+    "issues": [],
+    "content_hash": "073cc864e2de700a8d65c87897cc3f3d732095fe"
+  },
+  {
+    "id": "word:烟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3d7b2c7748ff7df7d7c922302cbf19f6fbdafe93"
+  },
+  {
+    "id": "word:眼前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60cea744fd21d558f41d486586d76adae7740639"
+  },
+  {
+    "id": "word:证",
+    "ok": false,
+    "issues": [
+      "El ejemplo «请给我看一下你的证。» suena poco natural: 证 casi no se usa solo como sustantivo. Lo normal es 证件 («请给我看一下你的证件。»)."
+    ],
+    "content_hash": "be66fd9f79c35d46979fc585a5a40bac8dc5f829"
+  },
+  {
+    "id": "word:祝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a39e1303533e9d5a39289f136fbd0a0b2da275b6"
+  },
+  {
+    "id": "word:断",
+    "ok": true,
+    "issues": [],
+    "content_hash": "30efb3865e448f42ca249c17a16588507152dca0"
+  },
+  {
+    "id": "word:赶",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en «我们得赶时间»: 得 aquí se lee děi, no dé.",
+      "Pinyin incorrecto en «他跑得很快»: 得 es partícula estructural y se lee de (tono neutro), no dé."
+    ],
+    "content_hash": "3589ed158ad49f28a2d8c656b161a035fba3fe2b"
+  },
+  {
+    "id": "word:赶紧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1eb8e4399c37acd2823e4cdc6adcfefed673df8d"
+  },
+  {
+    "id": "word:情感",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0d46e32c90579a25f3bf6fc5f7bec20b0b54dc79"
+  },
+  {
+    "id": "word:标题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bdce5f6a29bbe53520fdc72f2d07a098e1f79a7e"
+  },
+  {
+    "id": "word:赶快",
+    "ok": true,
+    "issues": [],
+    "content_hash": "252a312b286b58d279e7364d66479873f798612e"
+  },
+  {
+    "id": "word:基本上",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d40afbe3363451f17d212685645d679998776145"
+  },
+  {
+    "id": "word:可靠",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0e122b88c7fb19c94c60eae4ee1dd8a4192d4dda"
+  },
+  {
+    "id": "word:录",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af3170af106a961cc0fb29e6de97838aee381ab1"
+  },
+  {
+    "id": "word:上去",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ed6c64669b7ab4c16229427d5ba0b5d426745214"
+  },
+  {
+    "id": "word:自主",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b94d8d39db492857e8a7520615ef1736a6843f80"
+  },
+  {
+    "id": "word:另一方面",
+    "ok": false,
+    "issues": [
+      "El ejemplo «这个房子很大，另一方面也很贵。» es poco natural: 另一方面 no se usa así tras una simple descripción. Sería mejor «这个房子很大，但是也很贵» o una estructura con 一方面……另一方面……",
+      "En «一方面他喜欢这个工作，另一方面压力太大。» la estructura paralela queda coja porque el sujeto cambia. Sería más natural «……另一方面他觉得压力太大»."
+    ],
+    "content_hash": "cec1d8136328a7ffc8f3f0c81f60281edf59cf21"
+  },
+  {
+    "id": "word:退",
+    "ok": true,
+    "issues": [],
+    "content_hash": "95ca47bdd491a4a8d84926e0a2949ec253c9df59"
+  },
+  {
+    "id": "word:公务员",
+    "ok": true,
+    "issues": [],
+    "content_hash": "496abb70ba34c08a10492604af6b5bd033be5301"
+  },
+  {
+    "id": "word:念",
+    "ok": true,
+    "issues": [],
+    "content_hash": "368d88b904ec99d2fa75255c5eab6b1c8850e019"
+  },
+  {
+    "id": "word:前后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cbb03eca2f3de27b48a492e051f74a98733359d7"
+  },
+  {
+    "id": "word:银",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5043fdc15075aba0642cae94e41443722d2d2ac2"
+  },
+  {
+    "id": "word:顿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "99ed2fff4d7d51ba7e03baa0b99b363b1d25fb25"
+  },
+  {
+    "id": "word:决赛",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e3c3fae8695b4c9fd16c90086a9ff9d6456b4831"
+  }
+]

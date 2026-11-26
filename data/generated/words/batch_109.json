@@ -1,0 +1,532 @@
+[
+  {
+    "word": "架",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estante; soporte",
+      "armazón; estructura",
+      "clasificador para aviones, máquinas y aparatos grandes"
+    ],
+    "examples": [
+      {
+        "zh": "那架飞机很大。",
+        "es": "Ese avión es muy grande."
+      },
+      {
+        "zh": "书架上有很多书。",
+        "es": "En el librero hay muchos libros."
+      },
+      {
+        "zh": "天上有一架飞机在飞。",
+        "es": "Hay un avión volando en el cielo."
+      },
+      {
+        "zh": "我在机场看到了三架从北京来的飞机。",
+        "es": "En el aeropuerto vi tres aviones que venían de Pekín."
+      }
+    ]
+  },
+  {
+    "word": "紧",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "apretado; ajustado",
+      "urgente; con poco tiempo",
+      "tenso",
+      "corto de dinero"
+    ],
+    "examples": [
+      {
+        "zh": "这双鞋太紧了。",
+        "es": "Estos zapatos me quedan muy apretados."
+      },
+      {
+        "zh": "时间很紧，我们快走吧。",
+        "es": "Tenemos poco tiempo, vámonos rápido."
+      },
+      {
+        "zh": "他紧紧地拉着妈妈的手。",
+        "es": "Él tomaba con fuerza la mano de su mamá."
+      },
+      {
+        "zh": "最近钱有点紧，我不能买新手机。",
+        "es": "Últimamente ando corto de dinero, no puedo comprar un celular nuevo."
+      }
+    ]
+  },
+  {
+    "word": "进展",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "avance; progreso",
+      "avanzar; progresar"
+    ],
+    "examples": [
+      {
+        "zh": "工作有进展吗？",
+        "es": "¿Hay avances en el trabajo?"
+      },
+      {
+        "zh": "这个项目进展得很顺利。",
+        "es": "Este proyecto está avanzando muy bien."
+      },
+      {
+        "zh": "研究已经有了很大的进展。",
+        "es": "La investigación ya ha logrado grandes avances."
+      },
+      {
+        "zh": "如果有新的进展，请马上告诉我。",
+        "es": "Si hay algún avance, avísame de inmediato, por favor."
+      }
+    ]
+  },
+  {
+    "word": "升",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "subir; elevarse",
+      "ascender (de puesto)",
+      "litro"
+    ],
+    "examples": [
+      {
+        "zh": "太阳升起来了。",
+        "es": "Ya salió el sol."
+      },
+      {
+        "zh": "这瓶牛奶是一升的。",
+        "es": "Esta botella de leche es de un litro."
+      },
+      {
+        "zh": "他今年升为经理了。",
+        "es": "Este año lo ascendieron a gerente."
+      },
+      {
+        "zh": "气温升得很快，大家都觉得很热。",
+        "es": "La temperatura subió muy rápido y todos sienten mucho calor."
+      }
+    ]
+  },
+  {
+    "word": "提前",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "con anticipación; antes de tiempo",
+      "adelantar (una fecha)"
+    ],
+    "examples": [
+      {
+        "zh": "我们提前到了。",
+        "es": "Llegamos antes de tiempo."
+      },
+      {
+        "zh": "请提前告诉我。",
+        "es": "Por favor, avísame con anticipación."
+      },
+      {
+        "zh": "考试提前了一个星期。",
+        "es": "El examen se adelantó una semana."
+      },
+      {
+        "zh": "坐飞机最好提前两个小时到机场。",
+        "es": "Si vas a viajar en avión, es mejor llegar al aeropuerto con dos horas de anticipación."
+      }
+    ]
+  },
+  {
+    "word": "现金",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "efectivo; dinero en efectivo"
+    ],
+    "examples": [
+      {
+        "zh": "我没有现金。",
+        "es": "No traigo efectivo."
+      },
+      {
+        "zh": "可以用现金吗？",
+        "es": "¿Se puede pagar en efectivo?"
+      },
+      {
+        "zh": "这家商店只收现金。",
+        "es": "Esta tienda solo acepta efectivo."
+      },
+      {
+        "zh": "现在很多中国人买东西都不用现金了。",
+        "es": "Hoy en día muchos chinos ya no usan efectivo para hacer compras."
+      }
+    ]
+  },
+  {
+    "word": "性格",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "carácter; personalidad",
+      "temperamento; forma de ser"
+    ],
+    "examples": [
+      {
+        "zh": "她性格很好。",
+        "es": "Ella tiene muy buen carácter."
+      },
+      {
+        "zh": "他的性格跟爸爸一样。",
+        "es": "Su forma de ser es igual a la de su papá."
+      },
+      {
+        "zh": "我喜欢她热情的性格。",
+        "es": "Me gusta su personalidad cálida."
+      },
+      {
+        "zh": "两个人性格不同，但是一直是好朋友。",
+        "es": "Los dos tienen personalidades distintas, pero siempre han sido buenos amigos."
+      }
+    ]
+  },
+  {
+    "word": "发言",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tomar la palabra; hablar en público",
+      "intervención; discurso",
+      "declaración"
+    ],
+    "examples": [
+      {
+        "zh": "谁想发言？",
+        "es": "¿Quién quiere tomar la palabra?"
+      },
+      {
+        "zh": "他在会上发言了。",
+        "es": "Él habló en la reunión."
+      },
+      {
+        "zh": "发言的时候请慢一点。",
+        "es": "Por favor, hablen más despacio cuando hagan su intervención."
+      },
+      {
+        "zh": "老师认为他的发言非常有意思。",
+        "es": "El maestro opina que su intervención fue muy interesante."
+      }
+    ]
+  },
+  {
+    "word": "空",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vacío",
+      "cielo; aire",
+      "en vano; sin nada"
+    ],
+    "examples": [
+      {
+        "zh": "这个杯子是空的。",
+        "es": "Este vaso está vacío."
+      },
+      {
+        "zh": "钱包空了，我得去银行。",
+        "es": "Mi cartera está vacía, tengo que ir al banco."
+      },
+      {
+        "zh": "鸟在空中飞来飞去。",
+        "es": "Los pájaros vuelan de un lado a otro en el cielo."
+      },
+      {
+        "zh": "他空着手回家了，什么都没买到。",
+        "es": "Regresó a casa con las manos vacías; no pudo comprar nada."
+      }
+    ]
+  },
+  {
+    "word": "人工",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "artificial",
+      "mano de obra",
+      "hecho a mano; manual"
+    ],
+    "examples": [
+      {
+        "zh": "这是一个人工湖。",
+        "es": "Este es un lago artificial."
+      },
+      {
+        "zh": "人工智能发展得很快。",
+        "es": "La inteligencia artificial avanza muy rápido."
+      },
+      {
+        "zh": "这些东西都是人工做的。",
+        "es": "Todas estas cosas están hechas a mano."
+      },
+      {
+        "zh": "在这里人工比机器贵多了。",
+        "es": "Aquí la mano de obra es mucho más cara que las máquinas."
+      }
+    ]
+  },
+  {
+    "word": "人群",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "multitud; muchedumbre",
+      "grupo de personas"
+    ],
+    "examples": [
+      {
+        "zh": "人群越来越多了。",
+        "es": "La multitud es cada vez más grande."
+      },
+      {
+        "zh": "他在人群中找妈妈。",
+        "es": "Él busca a su mamá entre la multitud."
+      },
+      {
+        "zh": "孩子在人群里跑来跑去，很危险。",
+        "es": "Es peligroso que el niño corra de un lado a otro entre la gente."
+      },
+      {
+        "zh": "我在机场的人群中一眼就看到了她。",
+        "es": "En medio de la multitud del aeropuerto, la vi de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "演",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "actuar; interpretar (un papel)",
+      "representar (una obra)",
+      "presentar (un espectáculo)"
+    ],
+    "examples": [
+      {
+        "zh": "他演得很好。",
+        "es": "Él actúa muy bien."
+      },
+      {
+        "zh": "这部电影是谁演的？",
+        "es": "¿Quién actúa en esta película?"
+      },
+      {
+        "zh": "她在电影里演一个老师。",
+        "es": "En la película, ella interpreta a una maestra."
+      },
+      {
+        "zh": "他从小就想演电影，现在终于成功了。",
+        "es": "Desde niño quería actuar en películas y por fin lo logró."
+      }
+    ]
+  },
+  {
+    "word": "钟",
+    "cedict_reading_index": 2,
+    "meanings_es": [
+      "reloj (de pared o de mesa)",
+      "campana",
+      "hora; tiempo (en expresiones como «tres en punto» o «minutos»)"
+    ],
+    "examples": [
+      {
+        "zh": "墙上有一个钟。",
+        "es": "Hay un reloj en la pared."
+      },
+      {
+        "zh": "现在是三点钟。",
+        "es": "Son las tres en punto."
+      },
+      {
+        "zh": "我等了你十分钟。",
+        "es": "Te esperé diez minutos."
+      },
+      {
+        "zh": "学校的钟响了，学生们都跑出了教室。",
+        "es": "Sonó la campana de la escuela y todos los estudiantes salieron corriendo del salón."
+      }
+    ]
+  },
+  {
+    "word": "板",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tabla; tablón",
+      "placa; lámina",
+      "pizarrón (en compuestos como 黑板)"
+    ],
+    "examples": [
+      {
+        "zh": "这块木板很重。",
+        "es": "Esta tabla de madera es muy pesada."
+      },
+      {
+        "zh": "老师在黑板上写字。",
+        "es": "El maestro escribe en el pizarrón."
+      },
+      {
+        "zh": "地板上有水，小心！",
+        "es": "Hay agua en el piso, ¡cuidado!"
+      },
+      {
+        "zh": "请把这块板放在门口，明天我们要用。",
+        "es": "Por favor, pon esta tabla en la entrada; la vamos a usar mañana."
+      }
+    ]
+  },
+  {
+    "word": "场所",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lugar; sitio",
+      "establecimiento; local"
+    ],
+    "examples": [
+      {
+        "zh": "这是公共场所。",
+        "es": "Este es un lugar público."
+      },
+      {
+        "zh": "在公共场所不要大声说话。",
+        "es": "No hables en voz alta en lugares públicos."
+      },
+      {
+        "zh": "图书馆是学习的好场所。",
+        "es": "La biblioteca es un buen lugar para estudiar."
+      },
+      {
+        "zh": "这个城市需要更多让孩子玩的场所。",
+        "es": "Esta ciudad necesita más lugares donde los niños puedan jugar."
+      }
+    ]
+  },
+  {
+    "word": "刀",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "cuchillo",
+      "navaja; hoja (de corte)",
+      "espada de un solo filo"
+    ],
+    "examples": [
+      {
+        "zh": "这把刀很快。",
+        "es": "Este cuchillo está muy filoso."
+      },
+      {
+        "zh": "请给我一把刀。",
+        "es": "Pásame un cuchillo, por favor."
+      },
+      {
+        "zh": "妈妈用刀切菜。",
+        "es": "Mi mamá corta las verduras con un cuchillo."
+      },
+      {
+        "zh": "小心，别让孩子拿刀玩，很危险。",
+        "es": "Cuidado, no dejes que los niños jueguen con cuchillos, es peligroso."
+      }
+    ]
+  },
+  {
+    "word": "服装",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ropa; vestimenta",
+      "vestuario; traje"
+    ],
+    "examples": [
+      {
+        "zh": "这家店卖服装。",
+        "es": "Esta tienda vende ropa."
+      },
+      {
+        "zh": "她在一家服装公司工作。",
+        "es": "Ella trabaja en una empresa de ropa."
+      },
+      {
+        "zh": "演员的服装很漂亮。",
+        "es": "El vestuario de los actores es muy bonito."
+      },
+      {
+        "zh": "参加会议的时候要注意自己的服装。",
+        "es": "Cuando vayas a una reunión, debes cuidar tu vestimenta."
+      }
+    ]
+  },
+  {
+    "word": "工程师",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ingeniero; ingeniera"
+    ],
+    "examples": [
+      {
+        "zh": "我爸爸是工程师。",
+        "es": "Mi papá es ingeniero."
+      },
+      {
+        "zh": "她想成为工程师。",
+        "es": "Ella quiere ser ingeniera."
+      },
+      {
+        "zh": "这位工程师在一家汽车公司工作。",
+        "es": "Este ingeniero trabaja en una empresa automotriz."
+      },
+      {
+        "zh": "公司需要找几个有经验的电脑工程师。",
+        "es": "La empresa necesita contratar a algunos ingenieros en computación con experiencia."
+      }
+    ]
+  },
+  {
+    "word": "近期",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "próximamente; en los próximos días",
+      "reciente; últimamente"
+    ],
+    "examples": [
+      {
+        "zh": "我近期很忙。",
+        "es": "Últimamente estoy muy ocupado."
+      },
+      {
+        "zh": "近期天气不太好。",
+        "es": "El clima no ha estado muy bien últimamente."
+      },
+      {
+        "zh": "公司近期会开一个重要的会议。",
+        "es": "La empresa tendrá próximamente una reunión importante."
+      },
+      {
+        "zh": "根据近期的调查，越来越多的人喜欢网上购物。",
+        "es": "Según encuestas recientes, cada vez más personas prefieren comprar por internet."
+      }
+    ]
+  },
+  {
+    "word": "内心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "interior; fondo del corazón",
+      "sentimientos íntimos",
+      "incentro (matemáticas)"
+    ],
+    "examples": [
+      {
+        "zh": "他内心很高兴。",
+        "es": "Por dentro, él está muy contento."
+      },
+      {
+        "zh": "这是我内心的想法。",
+        "es": "Esto es lo que pienso en el fondo."
+      },
+      {
+        "zh": "她看起来很快乐，但内心很难过。",
+        "es": "Parece muy feliz, pero por dentro está muy triste."
+      },
+      {
+        "zh": "他很少告诉别人自己内心真正的感受。",
+        "es": "Él casi nunca les cuenta a los demás lo que siente de verdad."
+      }
+    ]
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "id": "word:在家",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 debe ser «mā ma», no «mā mā».",
+      "Pinyin: 休息 debe ser «xiū xi», no «xiū xī»."
+    ],
+    "content_hash": "9797f29e62778b1151b44aaf737d8c42d9c92446"
+  },
+  {
+    "id": "word:连",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f821ac3210485d4c0359564ebd18ba4c995f5eeb"
+  },
+  {
+    "id": "word:地上",
+    "ok": false,
+    "issues": [
+      "Pinyin: la palabra es di4 shang5, pero los ejemplos escriben «dì shàng»; debería ser «dì shang».",
+      "Pinyin: 衣服 debe ser «yī fu», no «yī fú».",
+      "Pinyin: 那里 debe ser «nà li», no «nà lǐ»."
+    ],
+    "content_hash": "1f06b59c635795d992ab261ae5c39949b114a052"
+  },
+  {
+    "id": "word:冷",
+    "ok": true,
+    "issues": [],
+    "content_hash": "554946dc62a8772c90cb5275d2560d737356ddda"
+  },
+  {
+    "id": "word:美",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 es «de» (tono neutro), no «dé». Afecta a 长得 y 拍得.",
+      "Pinyin: 晚上 debe ser «wǎn shang», no «wǎn shàng»."
+    ],
+    "content_hash": "80d72bc8a8c18a1b6618574b16a3b5209351d420"
+  },
+  {
+    "id": "word:慢",
+    "ok": false,
+    "issues": [
+      "Pinyin: el complemento 得 es «de» (tono neutro), no «dé». Afecta a 走得 y 说得."
+    ],
+    "content_hash": "42e48e59c4500fa644780da6378c1fd6a50468ac"
+  },
+  {
+    "id": "word:其实",
+    "ok": false,
+    "issues": [
+      "Pinyin: 哥哥 debe ser «gē ge», no «gē gē»."
+    ],
+    "content_hash": "f03f63971d660eabc3c422ea239d6766273a1f45"
+  },
+  {
+    "id": "word:全球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57a68ab1904a8b5ba6837a0c118b76f9f9b85203"
+  },
+  {
+    "id": "word:菜",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 debe ser «xǐ huan».",
+      "Pinyin: 妈妈 debe ser «mā ma».",
+      "Pinyin: 晚上 debe ser «wǎn shang».",
+      "Pinyin: 朋友 debe ser «péng you»."
+    ],
+    "content_hash": "94e39bed32f7b109ca0455655690198df41d85fb"
+  },
+  {
+    "id": "word:茶",
+    "ok": false,
+    "issues": [
+      "Pinyin: en 很长的历史, 长 se lee «cháng», no «zhǎng».",
+      "Pinyin: 喜欢 debe ser «xǐ huan»."
+    ],
+    "content_hash": "88aefee28ba99cf2c877a0540d094685f55b3682"
+  },
+  {
+    "id": "word:行为",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 debe ser «xǐ huan».",
+      "Pinyin: 妈妈 debe ser «mā ma»."
+    ],
+    "content_hash": "325b2f30dde198bc70629152241c009c0230b7e2"
+  },
+  {
+    "id": "word:哥",
+    "ok": false,
+    "issues": [
+      "Pinyin: 哪里 debe ser «nǎ li».",
+      "Pinyin: 晚上 debe ser «wǎn shang».",
+      "Pinyin: 妈妈 debe ser «mā ma»."
+    ],
+    "content_hash": "6bb643b532751ec19d82506126ab659c361fd1b0"
+  },
+  {
+    "id": "word:传统",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 debe ser «xǐ huan», no «xǐ huān»."
+    ],
+    "content_hash": "ad1865a407a25d7119a0de904668409733eebcbd"
+  },
+  {
+    "id": "word:洗",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 debe ser «mā ma».",
+      "Pinyin: 衣服 debe ser «yī fu»."
+    ],
+    "content_hash": "ea37adad4b5cf78b13a01d0b5212a2cc1f930a5b"
+  },
+  {
+    "id": "word:独立",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d4fe39806716d579b67e3a2828c40c7fc110b6be"
+  },
+  {
+    "id": "word:韩国",
+    "ok": false,
+    "issues": [
+      "Pinyin: 哥哥 debe ser «gē ge», no «gē gē»."
+    ],
+    "content_hash": "53d56648bdc535be3fad3ab20742cb62035c6536"
+  },
+  {
+    "id": "word:有时候",
+    "ok": false,
+    "issues": [
+      "Pinyin: la palabra es you3 shi2 hou5, pero los ejemplos escriben «yǒu shí hòu»; debería ser «yǒu shí hou»."
+    ],
+    "content_hash": "af2660cc6a102e32f114d663750e32562f7f3029"
+  },
+  {
+    "id": "word:产生",
+    "ok": false,
+    "issues": [
+      "Pinyin: 一些 debe ser «yì xiē» (sandhi de 一), no «yī xiē». Además es inconsistente con los demás elementos, que sí marcan el sandhi."
+    ],
+    "content_hash": "3b477139bb29b8bd9cd56501cc05d1412faffae2"
+  },
+  {
+    "id": "word:考",
+    "ok": false,
+    "issues": [
+      "Pinyin: 考得 debe ser «kǎo de», no «kǎo dé».",
+      "El ejemplo 老师今天考了我们三个问题 suena poco natural. Sería más natural 老师今天考了我们三道题."
+    ],
+    "content_hash": "ab5fdb9124641bbe97f4080fbd3e6b3e2b927df8"
+  },
+  {
+    "id": "word:调查",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1e48e2b5bf746f50833b54cb0e666e6c22898a42"
+  },
+  {
+    "id": "word:上班",
+    "ok": false,
+    "issues": [
+      "Pinyin: 爸爸 debe ser «bà ba», no «bà bà»."
+    ],
+    "content_hash": "1d3f2079850b87a2a89a156893c52f61c082e519"
+  },
+  {
+    "id": "word:读书",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 debe ser «xǐ huan».",
+      "Pinyin: 妹妹 debe ser «mèi mei».",
+      "Pinyin: 小时候 debe ser «xiǎo shí hou»."
+    ],
+    "content_hash": "2df2f8eafa9e6f800167e45761b446c2840673fb"
+  },
+  {
+    "id": "word:各种",
+    "ok": false,
+    "issues": [
+      "Pinyin: 这里 debe ser «zhè li».",
+      "Pinyin: 衣服 debe ser «yī fu»."
+    ],
+    "content_hash": "18827bd5f9ec56f966f3b3e89d4773dcc0fa0655"
+  },
+  {
+    "id": "word:目标",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6c7411346f9bac88362011abdf5613c8fa8c9eb4"
+  },
+  {
+    "id": "word:商店",
+    "ok": false,
+    "issues": [
+      "Pinyin: 东西 («cosas») debe ser «dōng xi», no «dōng xī».",
+      "Pinyin: 一家 debe ser «yì jiā» (sandhi de 一).",
+      "Pinyin: 衣服 debe ser «yī fu»."
+    ],
+    "content_hash": "8e1d00e686a0f7e430cb34ffd0560aae1af28551"
+  }
+]

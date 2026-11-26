@@ -1,0 +1,159 @@
+[
+  {
+    "id": "char:练",
+    "ok": false,
+    "issues": [
+      "El componente derecho no es 东 (este): es la forma simplificada de 柬 (seleccionar, refinar). Solo se parece a 东 y sus trazos son distintos, así que no debe presentarse como 东.",
+      "Al apoyarse en 'mirar al este', la mnemotecnia no tiene relación con el significado de 'practicar'."
+    ],
+    "content_hash": "ad3b243952600967b55ee602737288b315174b28"
+  },
+  {
+    "id": "char:脸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1312bd1f22c4bdd6b57ff1cb11e52b33a52f9562"
+  },
+  {
+    "id": "char:换",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87afc53930a3cd870c71f52cf156914932a46909"
+  },
+  {
+    "id": "char:普",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cc54bf82a28dac1c723156dc589e1d23ebe63f4c"
+  },
+  {
+    "id": "char:疗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eaa65c54a26affea8e8f0376c96429b8f0c77dc8"
+  },
+  {
+    "id": "char:收",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ebd660e14c7469afa0cc1b610efb843bed1e6811"
+  },
+  {
+    "id": "char:志",
+    "ok": true,
+    "issues": [],
+    "content_hash": "14505f7092fa2fa657a45afcc4dc2c624acc65b5"
+  },
+  {
+    "id": "char:宗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "edd613cc0c5783e242bbad1922cb43af7af370af"
+  },
+  {
+    "id": "char:漂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "646f318f95de908e097ddb7316d2f89f740d4072"
+  },
+  {
+    "id": "char:亮",
+    "ok": false,
+    "issues": [
+      "La mnemotecnia habla de una 'torre alta' y una lámpara que no salen de los componentes listados. Además no usa tapa, boca ni cubierta, así que el estudiante no puede relacionarla con la forma del carácter."
+    ],
+    "content_hash": "c879edcd03705cdc765aaa9ea275686719cbe087"
+  },
+  {
+    "id": "char:往",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2445083b6d8b273e8660e0722b016caa5b6b3255"
+  },
+  {
+    "id": "char:逐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40e46e2939812dcaf6e233ec991a98761b8824df"
+  },
+  {
+    "id": "char:渐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d0d39bdeefaf063f70f4c1457c8e052e738c8540"
+  },
+  {
+    "id": "char:销",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69b96834d062f53f7c5b65e882d284221b3706ab"
+  },
+  {
+    "id": "char:售",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f27d14f2cda82462c2f61fd352d2302643ccbc75"
+  },
+  {
+    "id": "char:附",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec3ea02914bc092fa8fe7f5bcb7d8fe75eb9c808"
+  },
+  {
+    "id": "char:园",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6affc80afebf78dbdf2d85c08dd5e309eddac5aa"
+  },
+  {
+    "id": "char:惯",
+    "ok": true,
+    "issues": [],
+    "content_hash": "902e524bd1346ce6c9b10735e1734ccc8dfb2893"
+  },
+  {
+    "id": "char:推",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1de7a5b61866ab5589ad7340c6134796ac95c4b2"
+  },
+  {
+    "id": "char:卡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c7e6d431813fe92142420a29814df4238e8cdd0c"
+  },
+  {
+    "id": "char:效",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1d35e548318bcc422842e2da5f5ddf38f56cff1c"
+  },
+  {
+    "id": "char:云",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0d6c967e6ed1a28666339200af51e9401dc0eda"
+  },
+  {
+    "id": "char:童",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9d00a7f575a844672adcf70a59977b11d5b8261e"
+  },
+  {
+    "id": "char:允",
+    "ok": false,
+    "issues": [
+      "La frase 'asiente con lo suyo' es poco natural y confusa en español. Tampoco relaciona con claridad el componente 厶 (propio, privado) con la idea de permitir."
+    ],
+    "content_hash": "893e1dd4c1eebdc975f6c3cc33f88c59a7b5d670"
+  },
+  {
+    "id": "char:周",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5363cfea8449db5bc4760a88eea9a0d6988f0e17"
+  }
+]

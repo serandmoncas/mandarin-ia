@@ -1,0 +1,155 @@
+[
+  {
+    "id": "char:补",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1419d75ca4b2b84ee14676c1ec65e44c07dbf907"
+  },
+  {
+    "id": "char:堂",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5e11bf2b564085f925ca903987344b0c63b791de"
+  },
+  {
+    "id": "char:龙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4fce3f3597807458a9bd0af85f944afef9ea5343"
+  },
+  {
+    "id": "char:敢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "87897c92b44f19aec044972b0ac7dbd3916af918"
+  },
+  {
+    "id": "char:古",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d771770420202f6a5270317f0b8d7208484830b"
+  },
+  {
+    "id": "char:阴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd54d4724521f45df92ac1cec36ebf816a3bdd68"
+  },
+  {
+    "id": "char:跳",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d06b569dfd9de79dd504f00ea029398655554a57"
+  },
+  {
+    "id": "char:幸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6fc675c2698daab6b8dc8f3e4061ed7504be17a0"
+  },
+  {
+    "id": "char:福",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ab6cab299b25e7bd72aca2c0ef7b7e2d53ce7998"
+  },
+  {
+    "id": "char:碗",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51145a6425320c4f1d2e3c80e3af946648b95b07"
+  },
+  {
+    "id": "char:待",
+    "ok": true,
+    "issues": [],
+    "content_hash": "312edd351d7b06a45781f9e71c8f2ac674fbb463"
+  },
+  {
+    "id": "char:椅",
+    "ok": true,
+    "issues": [],
+    "content_hash": "70e76db294cda60b7715520f19501c01fb29b6d9"
+  },
+  {
+    "id": "char:秋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "179d26d36917f4175e6eaf0ab36c5920dc75b881"
+  },
+  {
+    "id": "char:脏",
+    "ok": true,
+    "issues": [],
+    "content_hash": "740576b0f5672549851b836f9475f1fa4b0b336b"
+  },
+  {
+    "id": "char:配",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1328b5fd9c092408f3fb952415d973a16d52b7c9"
+  },
+  {
+    "id": "char:凉",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e7f22ba1551c9e28362f8d6eb293e69706cfc47c"
+  },
+  {
+    "id": "char:饱",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0dbfb82aee7049eea00f8a985a2bc587a85d31d5"
+  },
+  {
+    "id": "char:典",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8724d92254b178844095a98ab0b45a109ff78c58"
+  },
+  {
+    "id": "char:币",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eed1e911a93881285baae33db0d9cda9456344de"
+  },
+  {
+    "id": "char:善",
+    "ok": false,
+    "issues": [
+      "La descomposición está incompleta: entre 羊 y 口 hay trazos intermedios (丷 y 一, forma 䒑) que no se mencionan, así que el estudiante no puede reconstruir el carácter solo con 羊 + 口.",
+      "La mnemotecnia mezcla imágenes sin transición: empieza con «una oveja» y termina diciendo que «es la persona más bondadosa del pueblo»."
+    ],
+    "content_hash": "7e6867e775b242973df80059cf30546fc20671ef"
+  },
+  {
+    "id": "char:晴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e48af359c770a0a702c9c2107f0cac76f015e912"
+  },
+  {
+    "id": "char:麻",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d276e41d22cabf1ef615421c4cb2276bad2d1413"
+  },
+  {
+    "id": "char:烦",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9858952019746adf7e3c799f6525424f8b761f74"
+  },
+  {
+    "id": "char:饺",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7f6c466760c53987616ae8ccb750eb35d6c4879f"
+  },
+  {
+    "id": "char:预",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7ec76c413383e34696116b051cab609cbe91e244"
+  }
+]

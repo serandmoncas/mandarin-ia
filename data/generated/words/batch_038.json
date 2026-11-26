@@ -1,0 +1,538 @@
+[
+  {
+    "word": "整个",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entero",
+      "todo",
+      "completo"
+    ],
+    "examples": [
+      {
+        "zh": "整个下午我都在家。",
+        "es": "Estuve en casa toda la tarde."
+      },
+      {
+        "zh": "我整个晚上都没睡觉。",
+        "es": "No dormí en toda la noche."
+      },
+      {
+        "zh": "整个城市都很冷。",
+        "es": "Hace mucho frío en toda la ciudad."
+      },
+      {
+        "zh": "他把整个故事告诉了妈妈。",
+        "es": "Le contó la historia completa a su mamá."
+      }
+    ]
+  },
+  {
+    "word": "牛奶",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "leche",
+      "leche de vaca"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢喝牛奶。",
+        "es": "Me gusta tomar leche."
+      },
+      {
+        "zh": "早上我喝一杯牛奶。",
+        "es": "En la mañana me tomo un vaso de leche."
+      },
+      {
+        "zh": "妈妈去商店买牛奶和面包。",
+        "es": "Mi mamá va a la tienda a comprar leche y pan."
+      },
+      {
+        "zh": "孩子每天喝牛奶，身体很好。",
+        "es": "El niño toma leche todos los días y está muy sano."
+      }
+    ]
+  },
+  {
+    "word": "只要",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siempre que",
+      "con tal de que",
+      "solo con que"
+    ],
+    "examples": [
+      {
+        "zh": "只要你来，我就很高兴。",
+        "es": "Con tal de que vengas, yo estoy contento."
+      },
+      {
+        "zh": "只要努力，就能学好汉语。",
+        "es": "Si te esfuerzas, puedes aprender bien chino."
+      },
+      {
+        "zh": "只要明天天气好，我们就一起去北京。",
+        "es": "Siempre que mañana haga buen tiempo, iremos juntos a Pekín."
+      },
+      {
+        "zh": "只要有时间，我每天都会去图书馆读书。",
+        "es": "Siempre que tengo tiempo, voy a la biblioteca a leer todos los días."
+      }
+    ]
+  },
+  {
+    "word": "新年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Año Nuevo"
+    ],
+    "examples": [
+      {
+        "zh": "新年好！",
+        "es": "¡Feliz Año Nuevo!"
+      },
+      {
+        "zh": "你新年想去哪里？",
+        "es": "¿A dónde quieres ir en Año Nuevo?"
+      },
+      {
+        "zh": "新年的时候，我们一家人吃饭。",
+        "es": "En Año Nuevo, toda la familia come junta."
+      },
+      {
+        "zh": "我们新年要回家看爷爷奶奶。",
+        "es": "En Año Nuevo vamos a volver a casa a ver a los abuelos."
+      }
+    ]
+  },
+  {
+    "word": "亦",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "también (formal)",
+      "asimismo"
+    ],
+    "examples": [
+      {
+        "zh": "我亦是学生。",
+        "es": "Yo también soy estudiante."
+      },
+      {
+        "zh": "此事亦很重要。",
+        "es": "Este asunto también es muy importante."
+      },
+      {
+        "zh": "他喜欢唱歌，亦喜欢看电影。",
+        "es": "Le gusta cantar y asimismo le gusta ver películas."
+      },
+      {
+        "zh": "政府认为此问题亦需要国际合作。",
+        "es": "El gobierno considera que este problema también requiere cooperación internacional."
+      }
+    ]
+  },
+  {
+    "word": "请进",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pase, por favor",
+      "adelante"
+    ],
+    "examples": [
+      {
+        "zh": "请进！",
+        "es": "¡Adelante!"
+      },
+      {
+        "zh": "请进，请坐。",
+        "es": "Pase, por favor, siéntese."
+      },
+      {
+        "zh": "门开着，请进吧。",
+        "es": "La puerta está abierta, pase."
+      },
+      {
+        "zh": "外面很冷，请进，喝杯热茶吧。",
+        "es": "Afuera hace mucho frío; pase y tómese un té caliente."
+      }
+    ]
+  },
+  {
+    "word": "如此",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "así",
+      "de este modo",
+      "tan",
+      "tal"
+    ],
+    "examples": [
+      {
+        "zh": "事情就是如此。",
+        "es": "Así son las cosas."
+      },
+      {
+        "zh": "他如此努力，一定会成功。",
+        "es": "Se esfuerza tanto que seguro tendrá éxito."
+      },
+      {
+        "zh": "我没想到问题如此严重。",
+        "es": "No pensé que el problema fuera tan grave."
+      },
+      {
+        "zh": "天气如此冷，你为什么还穿这么少？",
+        "es": "Hace tanto frío, ¿por qué traes tan poca ropa?"
+      }
+    ]
+  },
+  {
+    "word": "商场",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "centro comercial",
+      "tienda departamental",
+      "el mundo de los negocios"
+    ],
+    "examples": [
+      {
+        "zh": "我去商场买衣服。",
+        "es": "Voy al centro comercial a comprar ropa."
+      },
+      {
+        "zh": "商场里人非常多。",
+        "es": "Hay muchísima gente en el centro comercial."
+      },
+      {
+        "zh": "星期六我和朋友在商场见面。",
+        "es": "El sábado me veo con un amigo en el centro comercial."
+      },
+      {
+        "zh": "这家商场的东西很贵，但是很好看。",
+        "es": "Las cosas de este centro comercial son caras, pero muy bonitas."
+      }
+    ]
+  },
+  {
+    "word": "群众",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "las masas",
+      "el pueblo",
+      "la gente",
+      "multitud"
+    ],
+    "examples": [
+      {
+        "zh": "群众很支持这个计划。",
+        "es": "La gente apoya mucho este plan."
+      },
+      {
+        "zh": "很多群众来参加活动。",
+        "es": "Mucha gente vino a participar en la actividad."
+      },
+      {
+        "zh": "政府应该听群众的话。",
+        "es": "El gobierno debería escuchar al pueblo."
+      },
+      {
+        "zh": "记者在路上问了很多群众这个问题。",
+        "es": "El periodista le hizo esta pregunta a mucha gente en la calle."
+      }
+    ]
+  },
+  {
+    "word": "选举",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "elección",
+      "elegir (por votación)"
+    ],
+    "examples": [
+      {
+        "zh": "明年有选举。",
+        "es": "El próximo año hay elecciones."
+      },
+      {
+        "zh": "他参加了这次选举。",
+        "es": "Participó en estas elecciones."
+      },
+      {
+        "zh": "美国总统选举每四年一次。",
+        "es": "Las elecciones presidenciales de Estados Unidos son cada cuatro años."
+      },
+      {
+        "zh": "很多人认为这次选举对国家非常重要。",
+        "es": "Mucha gente cree que estas elecciones son muy importantes para el país."
+      }
+    ]
+  },
+  {
+    "word": "有名",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "famoso",
+      "conocido"
+    ],
+    "examples": [
+      {
+        "zh": "他很有名。",
+        "es": "Él es muy famoso."
+      },
+      {
+        "zh": "这是一家有名的饭店。",
+        "es": "Este es un restaurante famoso."
+      },
+      {
+        "zh": "北京有很多有名的地方。",
+        "es": "Pekín tiene muchos lugares famosos."
+      },
+      {
+        "zh": "她唱歌唱得好，在中国非常有名。",
+        "es": "Canta muy bien y es muy famosa en China."
+      }
+    ]
+  },
+  {
+    "word": "比赛",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "competencia",
+      "partido",
+      "competir"
+    ],
+    "examples": [
+      {
+        "zh": "今天有比赛。",
+        "es": "Hoy hay partido."
+      },
+      {
+        "zh": "他们在比赛。",
+        "es": "Están compitiendo."
+      },
+      {
+        "zh": "这次比赛我们是第一。",
+        "es": "En esta competencia quedamos en primer lugar."
+      },
+      {
+        "zh": "明天的比赛很重要，大家要好好休息。",
+        "es": "El partido de mañana es muy importante; todos deben descansar bien."
+      }
+    ]
+  },
+  {
+    "word": "白天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de día",
+      "durante el día",
+      "el día"
+    ],
+    "examples": [
+      {
+        "zh": "白天很热。",
+        "es": "De día hace mucho calor."
+      },
+      {
+        "zh": "白天他在公司上班。",
+        "es": "Durante el día trabaja en la empresa."
+      },
+      {
+        "zh": "我白天工作，晚上学习。",
+        "es": "Trabajo de día y estudio de noche."
+      },
+      {
+        "zh": "白天睡觉，晚上不睡觉，对身体不好。",
+        "es": "Dormir de día y no dormir de noche es malo para la salud."
+      }
+    ]
+  },
+  {
+    "word": "表现",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desempeño",
+      "comportamiento",
+      "mostrar",
+      "manifestar"
+    ],
+    "examples": [
+      {
+        "zh": "他今天表现很好。",
+        "es": "Hoy tuvo un buen desempeño."
+      },
+      {
+        "zh": "老师说我的表现很好。",
+        "es": "El maestro dijo que mi comportamiento es muy bueno."
+      },
+      {
+        "zh": "你在比赛中表现得非常好。",
+        "es": "Te desempeñaste muy bien en la competencia."
+      },
+      {
+        "zh": "这个孩子在学校的表现让妈妈很高兴。",
+        "es": "El comportamiento del niño en la escuela tiene muy contenta a su mamá."
+      }
+    ]
+  },
+  {
+    "word": "上课",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ir a clase",
+      "tener clase",
+      "dar clase"
+    ],
+    "examples": [
+      {
+        "zh": "我们去上课。",
+        "es": "Vamos a clase."
+      },
+      {
+        "zh": "明天几点上课？",
+        "es": "¿A qué hora es la clase mañana?"
+      },
+      {
+        "zh": "上课的时候不要玩手机。",
+        "es": "No uses el celular durante la clase."
+      },
+      {
+        "zh": "老师今天生病了，所以下午不上课。",
+        "es": "El maestro se enfermó hoy, así que no hay clase en la tarde."
+      }
+    ]
+  },
+  {
+    "word": "达到",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alcanzar",
+      "lograr",
+      "llegar a"
+    ],
+    "examples": [
+      {
+        "zh": "我达到了目标。",
+        "es": "Alcancé mi meta."
+      },
+      {
+        "zh": "只要努力，你就能达到目标。",
+        "es": "Si te esfuerzas, podrás lograr tu meta."
+      },
+      {
+        "zh": "这个城市的人口达到了一百万。",
+        "es": "La población de esta ciudad llegó al millón."
+      },
+      {
+        "zh": "这个产品还没有达到我们的要求。",
+        "es": "Este producto todavía no cumple con nuestros requisitos."
+      }
+    ]
+  },
+  {
+    "word": "爱好",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pasatiempo",
+      "afición",
+      "gustar de",
+      "ser aficionado a"
+    ],
+    "examples": [
+      {
+        "zh": "你有什么爱好？",
+        "es": "¿Qué pasatiempos tienes?"
+      },
+      {
+        "zh": "我的爱好是唱歌。",
+        "es": "Mi pasatiempo es cantar."
+      },
+      {
+        "zh": "我们的爱好一样。",
+        "es": "Tenemos los mismos pasatiempos."
+      },
+      {
+        "zh": "看书和打球是他最大的爱好。",
+        "es": "Leer y jugar a la pelota son sus mayores aficiones."
+      }
+    ]
+  },
+  {
+    "word": "利用",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aprovechar",
+      "utilizar",
+      "aprovecharse de"
+    ],
+    "examples": [
+      {
+        "zh": "他利用了我。",
+        "es": "Se aprovechó de mí."
+      },
+      {
+        "zh": "我们要利用时间。",
+        "es": "Tenemos que aprovechar el tiempo."
+      },
+      {
+        "zh": "我利用下午的时间学汉语。",
+        "es": "Aprovecho la tarde para estudiar chino."
+      },
+      {
+        "zh": "我们应该好好利用这些资源。",
+        "es": "Deberíamos aprovechar bien estos recursos."
+      }
+    ]
+  },
+  {
+    "word": "以下",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lo siguiente",
+      "menos de",
+      "por debajo de"
+    ],
+    "examples": [
+      {
+        "zh": "请看以下内容。",
+        "es": "Por favor, lee lo siguiente."
+      },
+      {
+        "zh": "以下是我们的计划。",
+        "es": "A continuación está nuestro plan."
+      },
+      {
+        "zh": "十岁以下的孩子不能进。",
+        "es": "Los niños menores de diez años no pueden entrar."
+      },
+      {
+        "zh": "晚上可能会到零度以下，多穿点衣服。",
+        "es": "En la noche puede bajar de cero grados; abrígate bien."
+      }
+    ]
+  },
+  {
+    "word": "鸡蛋",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "huevo",
+      "huevo de gallina"
+    ],
+    "examples": [
+      {
+        "zh": "我早上吃鸡蛋。",
+        "es": "En la mañana como huevo."
+      },
+      {
+        "zh": "妈妈买了十个鸡蛋。",
+        "es": "Mi mamá compró diez huevos."
+      },
+      {
+        "zh": "早上我吃了两个鸡蛋和一个面包。",
+        "es": "En la mañana me comí dos huevos y un pan."
+      },
+      {
+        "zh": "你去商店的时候，帮我买些鸡蛋吧。",
+        "es": "Cuando vayas a la tienda, cómprame unos huevos, por favor."
+      }
+    ]
+  }
+]

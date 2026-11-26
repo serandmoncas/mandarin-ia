@@ -1,0 +1,530 @@
+[
+  {
+    "word": "脏",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "sucio",
+      "ensuciar",
+      "obsceno (lenguaje)"
+    ],
+    "examples": [
+      {
+        "zh": "这个杯子很脏。",
+        "es": "Este vaso está muy sucio."
+      },
+      {
+        "zh": "你的衣服脏了。",
+        "es": "Se te ensució la ropa."
+      },
+      {
+        "zh": "桌子太脏了，你用水洗一下吧。",
+        "es": "La mesa está muy sucia, lávala un poco con agua."
+      },
+      {
+        "zh": "孩子在外边玩了一天，回家的时候鞋都脏了。",
+        "es": "El niño jugó afuera todo el día y, cuando volvió a casa, tenía los zapatos sucios."
+      }
+    ]
+  },
+  {
+    "word": "住院",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "estar hospitalizado",
+      "internarse en el hospital"
+    ],
+    "examples": [
+      {
+        "zh": "我奶奶住院了。",
+        "es": "Mi abuela está hospitalizada."
+      },
+      {
+        "zh": "他住院三天了。",
+        "es": "Lleva tres días en el hospital."
+      },
+      {
+        "zh": "医生说我需要住院一个星期。",
+        "es": "El médico dice que necesito quedarme internado una semana."
+      },
+      {
+        "zh": "他病得很严重，去年住院了两个月。",
+        "es": "Estuvo muy enfermo y el año pasado pasó dos meses hospitalizado."
+      }
+    ]
+  },
+  {
+    "word": "南部",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "parte sur",
+      "sur (de un país o región)"
+    ],
+    "examples": [
+      {
+        "zh": "我家在城市的南部。",
+        "es": "Mi casa está en el sur de la ciudad."
+      },
+      {
+        "zh": "中国南部的夏天很热。",
+        "es": "En el sur de China los veranos son muy calurosos."
+      },
+      {
+        "zh": "我们明年想去美国南部旅行。",
+        "es": "El próximo año queremos viajar por el sur de Estados Unidos."
+      },
+      {
+        "zh": "这个国家南部天气好，很多老人喜欢住在那里。",
+        "es": "En el sur de este país hace buen clima, y a muchos ancianos les gusta vivir allí."
+      }
+    ]
+  },
+  {
+    "word": "刻",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cuarto de hora",
+      "momento",
+      "grabar; tallar"
+    ],
+    "examples": [
+      {
+        "zh": "现在三点一刻。",
+        "es": "Son las tres y cuarto."
+      },
+      {
+        "zh": "我们七点三刻见面吧。",
+        "es": "Veámonos a las siete y cuarenta y cinco."
+      },
+      {
+        "zh": "他在树上刻了自己的名字。",
+        "es": "Grabó su nombre en el árbol."
+      },
+      {
+        "zh": "看到孩子的那一刻，妈妈高兴得笑了。",
+        "es": "En el momento en que vio a su hijo, la mamá sonrió de alegría."
+      }
+    ]
+  },
+  {
+    "word": "配合",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cooperar",
+      "coordinarse",
+      "complementarse; combinar bien"
+    ],
+    "examples": [
+      {
+        "zh": "请配合我们的工作。",
+        "es": "Por favor, colabore con nosotros."
+      },
+      {
+        "zh": "他们两个人配合得很好。",
+        "es": "Ellos dos se coordinan muy bien."
+      },
+      {
+        "zh": "病人需要配合医生的治疗。",
+        "es": "El paciente necesita seguir el tratamiento del médico."
+      },
+      {
+        "zh": "这次比赛没赢，是因为队员之间配合得不够好。",
+        "es": "No ganamos este partido porque los jugadores no se coordinaron lo suficiente."
+      }
+    ]
+  },
+  {
+    "word": "老年",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "vejez",
+      "tercera edad",
+      "de edad avanzada"
+    ],
+    "examples": [
+      {
+        "zh": "老年人需要更多的关心。",
+        "es": "Los adultos mayores necesitan más atención."
+      },
+      {
+        "zh": "这个公园里有很多老年人。",
+        "es": "En este parque hay muchas personas mayores."
+      },
+      {
+        "zh": "他希望老年的时候能住在海边。",
+        "es": "Él espera poder vivir junto al mar en su vejez."
+      },
+      {
+        "zh": "中国老年人口越来越多，这是个重要的社会问题。",
+        "es": "La población de la tercera edad en China crece cada vez más; es un problema social importante."
+      }
+    ]
+  },
+  {
+    "word": "事实上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "de hecho",
+      "en realidad"
+    ],
+    "examples": [
+      {
+        "zh": "事实上，我不喜欢吃肉。",
+        "es": "En realidad, no me gusta comer carne."
+      },
+      {
+        "zh": "他说自己很忙，事实上他在家玩游戏。",
+        "es": "Dice que está muy ocupado, pero en realidad está jugando videojuegos en casa."
+      },
+      {
+        "zh": "大家都以为她是老师，事实上她是医生。",
+        "es": "Todos pensaban que era maestra, pero de hecho es médica."
+      },
+      {
+        "zh": "很多人觉得这个问题很简单，事实上它非常复杂。",
+        "es": "Mucha gente cree que este problema es sencillo, pero en realidad es muy complicado."
+      }
+    ]
+  },
+  {
+    "word": "里头",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "adentro",
+      "interior"
+    ],
+    "examples": [
+      {
+        "zh": "里头有人吗？",
+        "es": "¿Hay alguien adentro?"
+      },
+      {
+        "zh": "外边太冷了，我们去里头坐吧。",
+        "es": "Afuera hace mucho frío, vamos a sentarnos adentro."
+      },
+      {
+        "zh": "书包里头有两本书和一个本子。",
+        "es": "Dentro de la mochila hay dos libros y un cuaderno."
+      },
+      {
+        "zh": "这个房子外边看着很旧，里头却非常干净漂亮。",
+        "es": "Por fuera esta casa se ve vieja, pero por dentro está muy limpia y bonita."
+      }
+    ]
+  },
+  {
+    "word": "首都",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "capital (de un país)"
+    ],
+    "examples": [
+      {
+        "zh": "北京是中国的首都。",
+        "es": "Pekín es la capital de China."
+      },
+      {
+        "zh": "日本的首都是东京。",
+        "es": "La capital de Japón es Tokio."
+      },
+      {
+        "zh": "我明年想去法国的首都看看。",
+        "es": "El próximo año quiero ir a conocer la capital de Francia."
+      },
+      {
+        "zh": "很多年轻人离开小城市，去首都找工作。",
+        "es": "Muchos jóvenes dejan las ciudades pequeñas y se van a la capital a buscar trabajo."
+      }
+    ]
+  },
+  {
+    "word": "凉",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "fresco",
+      "frío (al tacto)"
+    ],
+    "examples": [
+      {
+        "zh": "今天有点凉。",
+        "es": "Hoy está un poco fresco."
+      },
+      {
+        "zh": "饭凉了，快吃吧。",
+        "es": "La comida se enfrió, cómetela rápido."
+      },
+      {
+        "zh": "秋天到了，早上和晚上都很凉。",
+        "es": "Llegó el otoño; por la mañana y por la noche hace fresco."
+      },
+      {
+        "zh": "我喜欢夏天晚上在海边吹凉风，非常舒服。",
+        "es": "En verano me gusta sentir la brisa fresca junto al mar por la noche; es muy agradable."
+      }
+    ]
+  },
+  {
+    "word": "做饭",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cocinar",
+      "preparar la comida"
+    ],
+    "examples": [
+      {
+        "zh": "妈妈在做饭。",
+        "es": "Mamá está cocinando."
+      },
+      {
+        "zh": "你会做饭吗？",
+        "es": "¿Sabes cocinar?"
+      },
+      {
+        "zh": "我每天下班以后回家做饭。",
+        "es": "Todos los días, después del trabajo, vuelvo a casa a cocinar."
+      },
+      {
+        "zh": "他以前不会做饭，现在每个周末都给家人做饭。",
+        "es": "Antes no sabía cocinar, y ahora cocina para su familia todos los fines de semana."
+      }
+    ]
+  },
+  {
+    "word": "饱",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "lleno (después de comer)",
+      "satisfecho",
+      "pleno"
+    ],
+    "examples": [
+      {
+        "zh": "我吃饱了。",
+        "es": "Ya estoy lleno."
+      },
+      {
+        "zh": "谢谢，我已经很饱了，不能再吃了。",
+        "es": "Gracias, ya estoy muy lleno, no puedo comer más."
+      },
+      {
+        "zh": "这个包子很大，吃一个就饱了。",
+        "es": "Este baozi es muy grande; con uno ya quedas lleno."
+      },
+      {
+        "zh": "早饭要吃饱，这样上午工作才不会累。",
+        "es": "Hay que desayunar bien para no cansarse en el trabajo por la mañana."
+      }
+    ]
+  },
+  {
+    "word": "老是",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "siempre (con tono de queja)",
+      "a cada rato",
+      "constantemente"
+    ],
+    "examples": [
+      {
+        "zh": "我弟弟老是玩手机。",
+        "es": "Mi hermano menor siempre está con el celular."
+      },
+      {
+        "zh": "你怎么老是不说话？",
+        "es": "¿Por qué nunca dices nada?"
+      },
+      {
+        "zh": "她老是说自己很忙，可是每天都在家看电视。",
+        "es": "Siempre dice que está muy ocupada, pero todos los días está en casa viendo televisión."
+      },
+      {
+        "zh": "最近老是下雨，我们已经一个星期没出去玩了。",
+        "es": "Últimamente llueve a cada rato; ya llevamos una semana sin salir a pasear."
+      }
+    ]
+  },
+  {
+    "word": "背后",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "detrás",
+      "a espaldas de alguien",
+      "trasfondo"
+    ],
+    "examples": [
+      {
+        "zh": "他就站在你背后。",
+        "es": "Está parado justo detrás de ti."
+      },
+      {
+        "zh": "学校背后有一座山。",
+        "es": "Detrás de la escuela hay una montaña."
+      },
+      {
+        "zh": "不要在背后说别人的坏话。",
+        "es": "No hables mal de los demás a sus espaldas."
+      },
+      {
+        "zh": "每个成功的人背后，都有很多努力和故事。",
+        "es": "Detrás de cada persona exitosa hay mucho esfuerzo y muchas historias."
+      }
+    ]
+  },
+  {
+    "word": "休假",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tomar vacaciones",
+      "estar de vacaciones",
+      "tomar una licencia"
+    ],
+    "examples": [
+      {
+        "zh": "我下个星期休假。",
+        "es": "La próxima semana estoy de vacaciones."
+      },
+      {
+        "zh": "经理今天休假，不在公司。",
+        "es": "El gerente tiene el día libre y no está en la empresa."
+      },
+      {
+        "zh": "我打算休假的时候和家人去海边玩几天。",
+        "es": "En mis vacaciones pienso ir unos días a la playa con mi familia."
+      },
+      {
+        "zh": "他工作太累了，所以向公司申请休假一个月。",
+        "es": "Estaba agotado del trabajo, así que pidió a la empresa un mes de licencia."
+      }
+    ]
+  },
+  {
+    "word": "组长",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "jefe de grupo",
+      "líder del equipo"
+    ],
+    "examples": [
+      {
+        "zh": "他是我们的组长。",
+        "es": "Él es nuestro jefe de grupo."
+      },
+      {
+        "zh": "组长，我有一个问题。",
+        "es": "Jefe, tengo una pregunta."
+      },
+      {
+        "zh": "老师让她当我们小组的组长。",
+        "es": "La maestra la nombró líder de nuestro grupo."
+      },
+      {
+        "zh": "组长每个星期一开会，告诉大家这周的任务。",
+        "es": "Cada lunes el líder del equipo hace una reunión para explicar a todos las tareas de la semana."
+      }
+    ]
+  },
+  {
+    "word": "感情",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sentimientos",
+      "cariño; afecto",
+      "emoción",
+      "relación afectiva"
+    ],
+    "examples": [
+      {
+        "zh": "他们的感情很好。",
+        "es": "Ellos se llevan muy bien."
+      },
+      {
+        "zh": "我和姐姐从小感情就很好。",
+        "es": "Mi hermana mayor y yo nos queremos mucho desde pequeñas."
+      },
+      {
+        "zh": "她唱歌很有感情，大家都很感动。",
+        "es": "Canta con mucho sentimiento y todos se emocionaron."
+      },
+      {
+        "zh": "他们结婚十年了，感情还是像以前一样好。",
+        "es": "Llevan diez años casados y su relación sigue tan bien como antes."
+      }
+    ]
+  },
+  {
+    "word": "笔记本",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cuaderno",
+      "laptop; computadora portátil"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的笔记本。",
+        "es": "Este es mi cuaderno."
+      },
+      {
+        "zh": "我在书店买了两本笔记本。",
+        "es": "Compré dos cuadernos en la librería."
+      },
+      {
+        "zh": "上课的时候，他把老师说的话都写在笔记本上。",
+        "es": "En clase, anota en su cuaderno todo lo que dice el maestro."
+      },
+      {
+        "zh": "我的笔记本电脑太旧了，想买一台新的。",
+        "es": "Mi laptop ya está muy vieja; quiero comprar una nueva."
+      }
+    ]
+  },
+  {
+    "word": "复习",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "repasar",
+      "repaso"
+    ],
+    "examples": [
+      {
+        "zh": "我在复习汉语。",
+        "es": "Estoy repasando chino."
+      },
+      {
+        "zh": "明天考试，今天要好好复习。",
+        "es": "Mañana hay examen, hoy tengo que repasar bien."
+      },
+      {
+        "zh": "每天回家以后，我都会复习一下课文。",
+        "es": "Todos los días, al llegar a casa, repaso un poco la lección."
+      },
+      {
+        "zh": "考试前一个星期，同学们每天都在图书馆复习。",
+        "es": "Una semana antes del examen, los compañeros repasan todos los días en la biblioteca."
+      }
+    ]
+  },
+  {
+    "word": "词典",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "diccionario"
+    ],
+    "examples": [
+      {
+        "zh": "你有词典吗？",
+        "es": "¿Tienes un diccionario?"
+      },
+      {
+        "zh": "我在书店买了一本新词典。",
+        "es": "Compré un diccionario nuevo en la librería."
+      },
+      {
+        "zh": "我不认识这个字，可以用一下你的词典吗？",
+        "es": "No conozco este carácter, ¿me prestas tu diccionario un momento?"
+      },
+      {
+        "zh": "现在很多学生用手机上的词典学习外语。",
+        "es": "Hoy en día muchos estudiantes aprenden idiomas con el diccionario del celular."
+      }
+    ]
+  }
+]

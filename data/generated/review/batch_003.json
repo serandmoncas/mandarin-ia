@@ -1,0 +1,164 @@
+[
+  {
+    "id": "word:因为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5459b09a6d74dde2e66d128ebc5b38591027fd8c"
+  },
+  {
+    "id": "word:做",
+    "ok": true,
+    "issues": [],
+    "content_hash": "59487c08e782a0e5e94b4531eb66aec01e3fc899"
+  },
+  {
+    "id": "word:没",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d5bfe91a55f8f31e51c54b3c988e25163fe19683"
+  },
+  {
+    "id": "word:用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5525a47b52630b5f9ece6ec07daf35a80943cc2f"
+  },
+  {
+    "id": "word:怎么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1bf9916e1dc5c5e966ead4614741197459f2fad3"
+  },
+  {
+    "id": "word:不是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5e680886cc9566610896bb2eb12b89ad95e0359"
+  },
+  {
+    "id": "word:之",
+    "ok": false,
+    "issues": [
+      "Los significados solo cubren los usos literarios ('de', pronombre), pero ninguno de los ejemplos los ilustra. Todos usan combinaciones fijas (之后, 之前, 之一, 分之) que no aparecen en los significados y pueden confundir al estudiante."
+    ],
+    "content_hash": "cc1bec202cfb35a7b427562b228de0c8b352ad90"
+  },
+  {
+    "id": "word:这些",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a35653c4745adc8a83cb1291c31a1e3b5ffb1929"
+  },
+  {
+    "id": "word:想",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7a1a0a8756ea2dfb8a9043efe3b201520ccba648"
+  },
+  {
+    "id": "word:最",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4dc62ed78e6f74b7ef6b7773743635588e243115"
+  },
+  {
+    "id": "word:那",
+    "ok": true,
+    "issues": [],
+    "content_hash": "29ee8be07be3f941e83a8245678426e385b67e93"
+  },
+  {
+    "id": "word:由",
+    "ok": false,
+    "issues": [
+      "'由我来说吧' traducido como 'Déjame decirlo a mí' es poco natural en español; mejor 'Que lo diga yo' o 'Lo digo yo'."
+    ],
+    "content_hash": "1959fa44106dd7d2c9ccfd31a3b920a3bb47ea0e"
+  },
+  {
+    "id": "word:工作",
+    "ok": false,
+    "issues": [
+      "'你的工作好吗？' no es natural en chino; lo habitual es '你的工作怎么样？'."
+    ],
+    "content_hash": "5e3bb6b1b23e3620681a008037abd55eb8d91d43"
+  },
+  {
+    "id": "word:及",
+    "ok": true,
+    "issues": [],
+    "content_hash": "aba74384d3a7999f2f529242918261d86071865b"
+  },
+  {
+    "id": "word:吧",
+    "ok": false,
+    "issues": [
+      "'他现在没有来' suena poco natural; un nativo diría '他到现在还没来' o '他还没来'."
+    ],
+    "content_hash": "3b6b4b5f4d109200cde6b20db53c212b14d4e947"
+  },
+  {
+    "id": "word:三",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6961994f7d0a0601d53786449a176e32c930b6fe"
+  },
+  {
+    "id": "word:知道",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7acb042977dc350cbb7143d80f001abdb7ed98ca"
+  },
+  {
+    "id": "word:更",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8d40d39ee15a171f70f4fb9cec5bb0acbeae829"
+  },
+  {
+    "id": "word:前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69c66924a88315fc9587043f539ec69276ff05be"
+  },
+  {
+    "id": "word:就是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e247b257a8a0c854a52973cceda932c3d891636d"
+  },
+  {
+    "id": "word:时间",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a258ae5020843b2df7eae55ae3c41fb4773f4e7"
+  },
+  {
+    "id": "word:已经",
+    "ok": true,
+    "issues": [],
+    "content_hash": "891ca8d02c081cc2133bed9edd7688ab5e9975d3"
+  },
+  {
+    "id": "word:出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dd796007ec78de544f5d64941dd9c63f5ba53993"
+  },
+  {
+    "id": "word:时候",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos escribe 'shí hòu', pero 候 va en tono neutro en esta palabra: debe ser 'shí hou' (coincide con la lectura indicada, shi2 hou5)."
+    ],
+    "content_hash": "ed92e204793e6672562299a87ff65162f3eb003d"
+  },
+  {
+    "id": "word:得",
+    "ok": false,
+    "issues": [
+      "El pinyin de los ejemplos escribe 'dé', pero como partícula estructural 得 es neutra: debe ser 'de' (shuō de, zuò de, kàn de dào)."
+    ],
+    "content_hash": "3faeb9588899560a2433b60191fdcb3e8cb9316f"
+  }
+]

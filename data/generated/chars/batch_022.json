@@ -1,0 +1,398 @@
+[
+  {
+    "char": "积",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, grano"
+      },
+      {
+        "char": "只",
+        "meaning_es": "solo, únicamente"
+      }
+    ],
+    "mnemonic_es": "Grano a grano, aunque sea solo uno por día, terminas acumulando una montaña: 积 es acumular."
+  },
+  {
+    "char": "章",
+    "components": [
+      {
+        "char": "立",
+        "meaning_es": "pararse, de pie"
+      },
+      {
+        "char": "早",
+        "meaning_es": "temprano"
+      }
+    ],
+    "mnemonic_es": "Me pongo de pie temprano para escribir un capítulo más de mi libro: 章 es capítulo o sección."
+  },
+  {
+    "char": "亿",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "乙",
+        "meaning_es": "segundo; forma de anzuelo"
+      }
+    ],
+    "mnemonic_es": "Una persona lanza su anzuelo y pesca cien millones de pesos: 亿 es cien millones."
+  },
+  {
+    "char": "义",
+    "components": [
+      {
+        "char": "丶",
+        "meaning_es": "punto, gota"
+      },
+      {
+        "char": "乂",
+        "meaning_es": "cruz, cortar"
+      }
+    ],
+    "mnemonic_es": "Imagina una cruz que tacha lo injusto y un punto que marca lo correcto: 义 es justicia o significado."
+  },
+  {
+    "char": "乎",
+    "components": [
+      {
+        "char": "乎",
+        "meaning_es": "partícula de duda o exclamación"
+      }
+    ],
+    "mnemonic_es": "Míralo como una persona con los brazos abiertos y tres gotitas de duda encima, preguntando ¿hu?: 乎 es una partícula interrogativa, como en 似乎 (parece que)."
+  },
+  {
+    "char": "哦",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "我",
+        "meaning_es": "yo"
+      }
+    ],
+    "mnemonic_es": "Abro la boca y yo digo: ¡oh, ya entendí!: 哦 es la interjección oh."
+  },
+  {
+    "char": "若",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, pasto"
+      },
+      {
+        "char": "右",
+        "meaning_es": "derecha"
+      }
+    ],
+    "mnemonic_es": "Si la hierba crece a la derecha, entonces gira a la derecha: 若 significa si o como si."
+  },
+  {
+    "char": "队",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina"
+      },
+      {
+        "char": "人",
+        "meaning_es": "persona"
+      }
+    ],
+    "mnemonic_es": "Una persona tras otra suben la colina formando una fila: 队 es equipo o fila."
+  },
+  {
+    "char": "拉",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "立",
+        "meaning_es": "pararse, de pie"
+      }
+    ],
+    "mnemonic_es": "Con la mano jalo a mi amigo para que se ponga de pie: 拉 es jalar."
+  },
+  {
+    "char": "亚",
+    "components": [
+      {
+        "char": "亚",
+        "meaning_es": "segundo; Asia"
+      }
+    ],
+    "mnemonic_es": "Imagina un edificio con columnas que ocupa el segundo lugar en un concurso de arquitectura de Asia: 亚 es segundo y también Asia (亚洲)."
+  },
+  {
+    "char": "唯",
+    "components": [
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "隹",
+        "meaning_es": "pájaro de cola corta"
+      }
+    ],
+    "mnemonic_es": "De todos los pájaros, solo uno abre la boca para cantar: 唯 es único, solamente."
+  },
+  {
+    "char": "居",
+    "components": [
+      {
+        "char": "尸",
+        "meaning_es": "cuerpo recostado"
+      },
+      {
+        "char": "古",
+        "meaning_es": "antiguo"
+      }
+    ],
+    "mnemonic_es": "Un cuerpo descansa en una casa antigua donde ha vivido toda la vida: 居 es residir, vivir."
+  },
+  {
+    "char": "谓",
+    "components": [
+      {
+        "char": "讠",
+        "meaning_es": "palabra, hablar"
+      },
+      {
+        "char": "胃",
+        "meaning_es": "estómago"
+      }
+    ],
+    "mnemonic_es": "Las palabras que salen del estómago son las que de verdad dices: 谓 es decir, llamar, como en 所谓 (lo que se llama)."
+  },
+  {
+    "char": "肯",
+    "components": [
+      {
+        "char": "止",
+        "meaning_es": "detenerse"
+      },
+      {
+        "char": "月",
+        "meaning_es": "carne, cuerpo"
+      }
+    ],
+    "mnemonic_es": "Mi cuerpo se detiene, piensa y asiente con la cabeza: sí, estoy dispuesto. 肯 es aceptar, estar dispuesto."
+  },
+  {
+    "char": "低",
+    "components": [
+      {
+        "char": "亻",
+        "meaning_es": "persona"
+      },
+      {
+        "char": "氐",
+        "meaning_es": "base, raíz"
+      }
+    ],
+    "mnemonic_es": "Una persona se agacha hasta la base del suelo: 低 es bajo."
+  },
+  {
+    "char": "拍",
+    "components": [
+      {
+        "char": "扌",
+        "meaning_es": "mano"
+      },
+      {
+        "char": "白",
+        "meaning_es": "blanco"
+      }
+    ],
+    "mnemonic_es": "Con la mano aplaudo y sale un destello blanco, como el flash de una cámara: 拍 es palmear y también tomar una foto."
+  },
+  {
+    "char": "象",
+    "components": [
+      {
+        "char": "象",
+        "meaning_es": "elefante; imagen"
+      }
+    ],
+    "mnemonic_es": "Míralo como un elefante de lado: arriba la trompa y la cabeza, abajo las patas. 象 es elefante, y también imagen o parecerse (像)."
+  },
+  {
+    "char": "士",
+    "components": [
+      {
+        "char": "士",
+        "meaning_es": "erudito, soldado"
+      }
+    ],
+    "mnemonic_es": "Una persona firme con los brazos extendidos y los pies bien plantados: un soldado o un erudito. 士 es caballero, profesional."
+  },
+  {
+    "char": "陆",
+    "components": [
+      {
+        "char": "阝",
+        "meaning_es": "colina"
+      },
+      {
+        "char": "击",
+        "meaning_es": "golpear"
+      }
+    ],
+    "mnemonic_es": "Tras días en el mar, el barco golpea contra una colina: ¡tierra firme! 陆 es tierra, continente."
+  },
+  {
+    "char": "引",
+    "components": [
+      {
+        "char": "弓",
+        "meaning_es": "arco"
+      },
+      {
+        "char": "丨",
+        "meaning_es": "línea, cuerda"
+      }
+    ],
+    "mnemonic_es": "Jalas la cuerda del arco hacia ti y la flecha te guía al blanco: 引 es jalar, guiar, atraer."
+  },
+  {
+    "char": "稳",
+    "components": [
+      {
+        "char": "禾",
+        "meaning_es": "cereal, grano"
+      },
+      {
+        "char": "急",
+        "meaning_es": "prisa, urgencia"
+      }
+    ],
+    "mnemonic_es": "Con el granero lleno de grano ya no tienes prisa ni angustia: todo está estable. 稳 es estable, firme."
+  },
+  {
+    "char": "强",
+    "components": [
+      {
+        "char": "弓",
+        "meaning_es": "arco"
+      },
+      {
+        "char": "口",
+        "meaning_es": "boca"
+      },
+      {
+        "char": "虫",
+        "meaning_es": "insecto"
+      }
+    ],
+    "mnemonic_es": "Un insecto tan fuerte que tensa un arco y abre la boca para gritar de poder: 强 es fuerte."
+  },
+  {
+    "char": "金",
+    "components": [
+      {
+        "char": "金",
+        "meaning_es": "oro, metal"
+      }
+    ],
+    "mnemonic_es": "Imagina un techo que protege un montón de pepitas brillantes enterradas en la tierra: 金 es oro, metal, dinero."
+  },
+  {
+    "char": "职",
+    "components": [
+      {
+        "char": "耳",
+        "meaning_es": "oreja"
+      },
+      {
+        "char": "只",
+        "meaning_es": "solo, únicamente"
+      }
+    ],
+    "mnemonic_es": "En la entrevista de trabajo, solo tienes que poner la oreja y escuchar a tu jefe: 职 es puesto, empleo."
+  },
+  {
+    "char": "模",
+    "components": [
+      {
+        "char": "木",
+        "meaning_es": "árbol, madera"
+      },
+      {
+        "char": "莫",
+        "meaning_es": "no, ninguno"
+      }
+    ],
+    "mnemonic_es": "Con madera haces un molde para que ninguna pieza salga diferente: 模 es molde, modelo."
+  },
+  {
+    "char": "亡",
+    "components": [
+      {
+        "char": "亡",
+        "meaning_es": "morir, perecer"
+      }
+    ],
+    "mnemonic_es": "Una persona con sombrero se esconde en un rincón y desaparece: 亡 es perecer, morir, huir."
+  },
+  {
+    "char": "节",
+    "components": [
+      {
+        "char": "艹",
+        "meaning_es": "hierba, pasto"
+      },
+      {
+        "char": "卩",
+        "meaning_es": "sello; persona arrodillada"
+      }
+    ],
+    "mnemonic_es": "Una persona arrodillada sobre la hierba celebra la fiesta de la cosecha: 节 es festival, y también nudo o sección."
+  },
+  {
+    "char": "越",
+    "components": [
+      {
+        "char": "走",
+        "meaning_es": "caminar, correr"
+      },
+      {
+        "char": "戉",
+        "meaning_es": "hacha"
+      }
+    ],
+    "mnemonic_es": "Corres con un hacha cortando obstáculos y, cuanto más corres, más lejos llegas: 越 es cruzar, y 越…越… es cuanto más… más…"
+  },
+  {
+    "char": "平",
+    "components": [
+      {
+        "char": "平",
+        "meaning_es": "plano, paz"
+      }
+    ],
+    "mnemonic_es": "Míralo como una balanza con dos platos perfectamente nivelados: 平 es plano, parejo, en paz."
+  },
+  {
+    "char": "阅",
+    "components": [
+      {
+        "char": "门",
+        "meaning_es": "puerta"
+      },
+      {
+        "char": "兑",
+        "meaning_es": "intercambiar"
+      }
+    ],
+    "mnemonic_es": "En la puerta de la biblioteca intercambias libros para leerlos: 阅 es leer, revisar."
+  }
+]

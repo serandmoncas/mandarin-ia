@@ -1,0 +1,170 @@
+[
+  {
+    "id": "word:不要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3ce15be4722078e9044306bf18cdc2549c4712d8"
+  },
+  {
+    "id": "word:二",
+    "ok": true,
+    "issues": [],
+    "content_hash": "93fcd9398d8d9e2ecb69c49ac957fbe61a0cb958"
+  },
+  {
+    "id": "word:男人",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: «yī yàng» debería ser «yí yàng» por el cambio de tono de 一 ante cuarto tono (el mismo conjunto usa «yí gè» en el ejemplo 1)."
+    ],
+    "content_hash": "986cc96b42a25fec54ffe716901367ea53c867cf"
+  },
+  {
+    "id": "word:使",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: «biàn dé» debería ser «biàn de» (得 como partícula estructural va en tono neutro)."
+    ],
+    "content_hash": "ccbd2a5ef8e6e728e909f7338a5baf415bfbce95"
+  },
+  {
+    "id": "word:学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dccda24b4c6cbddc47d271c27614b0fdee7272cd"
+  },
+  {
+    "id": "word:万",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: «yī wàn» debería ser «yí wàn» por el cambio de tono de 一 ante cuarto tono."
+    ],
+    "content_hash": "2a78008212160ffee20a4a8c13907b2df28f7a7d"
+  },
+  {
+    "id": "word:住",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a2c9369668e034349cf2e88aac7e0d645bfcfca2"
+  },
+  {
+    "id": "word:像",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos 2 y 3: «yī yàng» debería ser «yí yàng» por el cambio de tono de 一 ante cuarto tono."
+    ],
+    "content_hash": "4248f52e3d24b5e7c8d596c70e25fabb67dbdde0"
+  },
+  {
+    "id": "word:关系",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: «guān xì» contradice la lectura de la entrada (guan1 xi5). Lo estándar es «guān xi», por ejemplo «méi guān xi»."
+    ],
+    "content_hash": "cfbb999d7a24b51d0a5b9da13f74851578b95b1e"
+  },
+  {
+    "id": "word:别",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2106f41621659437885a7f8c7962161405fab2a0"
+  },
+  {
+    "id": "word:回",
+    "ok": true,
+    "issues": [],
+    "content_hash": "63553d3c847e8e8bffa72356036c6de9a34d0cbc"
+  },
+  {
+    "id": "word:这么",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cb8fa6e5f0674d10ce596d40ddd85906d4396160"
+  },
+  {
+    "id": "word:书",
+    "ok": true,
+    "issues": [],
+    "content_hash": "33522f4662ccb7eb25f2c20f1fc0b81f44dfd302"
+  },
+  {
+    "id": "word:只是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cd74867c031ebcbf5d16873eabcc1e0a60b056f6"
+  },
+  {
+    "id": "word:送",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d363aafb9364b16eeba2a41129637d3bdf514d5e"
+  },
+  {
+    "id": "word:研究",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: «yī xià» debería ser «yí xià» por el cambio de tono de 一 ante cuarto tono."
+    ],
+    "content_hash": "89145552dbd109f1d6c4ec67554cfe5dea416aeb"
+  },
+  {
+    "id": "word:是不是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d64b9ab0cdcb3117902e286590f58d36dc699522"
+  },
+  {
+    "id": "word:医院",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 得 con el sentido de «tener que» se lee «děi», no «dé»."
+    ],
+    "content_hash": "d6243fe804854a4fb0d934d757ebf50e8a7476b6"
+  },
+  {
+    "id": "word:根据",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7eb7ddfe194b80b9411f004b25c6810df44c8479"
+  },
+  {
+    "id": "word:别人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d31e0f69f464658c24f5044625c9dd3257252e3f"
+  },
+  {
+    "id": "word:此",
+    "ok": true,
+    "issues": [],
+    "content_hash": "07a8ec4f23949569b4007601930281e425223abb"
+  },
+  {
+    "id": "word:水",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: «yī bēi» debería ser «yì bēi» por el cambio de tono de 一 ante primer tono."
+    ],
+    "content_hash": "49016bdce5c1eda4506f6c1204beed49cb7c9c34"
+  },
+  {
+    "id": "word:系统",
+    "ok": true,
+    "issues": [],
+    "content_hash": "822d8d036431a60d889187f6b84dbcf500ad41e0"
+  },
+  {
+    "id": "word:服务",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 为 con el sentido de «para, a favor de» se lee «wèi», no «wéi» (为人民服务: wèi rén mín fú wù)."
+    ],
+    "content_hash": "6a9f7c1ec24f14e868e9848fc3e57dd92f84cc60"
+  },
+  {
+    "id": "word:老师",
+    "ok": true,
+    "issues": [],
+    "content_hash": "778ba15e8219c0ccd88db3ea396703fe44e9de4b"
+  }
+]

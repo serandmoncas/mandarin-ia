@@ -1,0 +1,533 @@
+[
+  {
+    "word": "制度",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sistema (político, administrativo, etc.)",
+      "régimen",
+      "institución"
+    ],
+    "examples": [
+      {
+        "zh": "这个制度很好。",
+        "es": "Este sistema es muy bueno."
+      },
+      {
+        "zh": "每个国家都有自己的制度。",
+        "es": "Cada país tiene su propio sistema."
+      },
+      {
+        "zh": "我们需要一个新的制度。",
+        "es": "Necesitamos un sistema nuevo."
+      },
+      {
+        "zh": "政府决定改变教育制度。",
+        "es": "El gobierno decidió cambiar el sistema educativo."
+      }
+    ]
+  },
+  {
+    "word": "钱包",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "billetera",
+      "cartera",
+      "monedero"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的钱包。",
+        "es": "Esta es mi billetera."
+      },
+      {
+        "zh": "我的钱包不见了。",
+        "es": "No encuentro mi billetera."
+      },
+      {
+        "zh": "你的钱包里有多少钱？",
+        "es": "¿Cuánto dinero tienes en tu billetera?"
+      },
+      {
+        "zh": "昨天我把钱包忘在商店里了。",
+        "es": "Ayer olvidé mi billetera en la tienda."
+      }
+    ]
+  },
+  {
+    "word": "我国",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "nuestro país",
+      "mi país"
+    ],
+    "examples": [
+      {
+        "zh": "我国很大。",
+        "es": "Nuestro país es muy grande."
+      },
+      {
+        "zh": "我国的人口很多。",
+        "es": "Nuestro país tiene mucha población."
+      },
+      {
+        "zh": "我国的经济发展很快。",
+        "es": "La economía de nuestro país se desarrolla muy rápido."
+      },
+      {
+        "zh": "这个问题对我国非常重要。",
+        "es": "Este problema es muy importante para nuestro país."
+      }
+    ]
+  },
+  {
+    "word": "起床",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "levantarse (de la cama)",
+      "despertarse y levantarse"
+    ],
+    "examples": [
+      {
+        "zh": "你几点起床？",
+        "es": "¿A qué hora te levantas?"
+      },
+      {
+        "zh": "我早上六点起床。",
+        "es": "Me levanto a las seis de la mañana."
+      },
+      {
+        "zh": "快起床，上课的时间到了！",
+        "es": "¡Levántate ya, que es hora de clase!"
+      },
+      {
+        "zh": "因为昨天睡得太晚，今天我起床很晚。",
+        "es": "Como ayer me dormí muy tarde, hoy me levanté tarde."
+      }
+    ]
+  },
+  {
+    "word": "欧洲",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "Europa"
+    ],
+    "examples": [
+      {
+        "zh": "我想去欧洲。",
+        "es": "Quiero ir a Europa."
+      },
+      {
+        "zh": "法国在欧洲。",
+        "es": "Francia está en Europa."
+      },
+      {
+        "zh": "欧洲有很多国家。",
+        "es": "En Europa hay muchos países."
+      },
+      {
+        "zh": "我明年要和朋友一起去欧洲学习。",
+        "es": "El próximo año voy a ir a estudiar a Europa con unos amigos."
+      }
+    ]
+  },
+  {
+    "word": "电影院",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cine",
+      "sala de cine"
+    ],
+    "examples": [
+      {
+        "zh": "我们去电影院吧。",
+        "es": "Vamos al cine."
+      },
+      {
+        "zh": "电影院在哪里？",
+        "es": "¿Dónde está el cine?"
+      },
+      {
+        "zh": "这个电影院就在我家旁边。",
+        "es": "Este cine está justo al lado de mi casa."
+      },
+      {
+        "zh": "昨天晚上我和女朋友在电影院看了电影。",
+        "es": "Anoche vi una película en el cine con mi novia."
+      }
+    ]
+  },
+  {
+    "word": "每个",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "cada",
+      "cada uno",
+      "todos"
+    ],
+    "examples": [
+      {
+        "zh": "每个人都很高兴。",
+        "es": "Todos están muy contentos."
+      },
+      {
+        "zh": "每个学生都有一本书。",
+        "es": "Cada estudiante tiene un libro."
+      },
+      {
+        "zh": "我每个星期都去图书馆。",
+        "es": "Voy a la biblioteca todas las semanas."
+      },
+      {
+        "zh": "老师说每个人都必须参加明天的考试。",
+        "es": "El maestro dijo que todos deben presentar el examen de mañana."
+      }
+    ]
+  },
+  {
+    "word": "办法",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "manera",
+      "solución",
+      "forma de resolver algo",
+      "medida"
+    ],
+    "examples": [
+      {
+        "zh": "我没有办法。",
+        "es": "No puedo hacer nada."
+      },
+      {
+        "zh": "你有什么好办法吗？",
+        "es": "¿Tienes alguna buena idea?"
+      },
+      {
+        "zh": "这是解决问题最好的办法。",
+        "es": "Esta es la mejor manera de resolver el problema."
+      },
+      {
+        "zh": "我们必须想一个办法帮助他们。",
+        "es": "Tenemos que encontrar la forma de ayudarlos."
+      }
+    ]
+  },
+  {
+    "word": "汉字",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "carácter chino",
+      "caracteres chinos"
+    ],
+    "examples": [
+      {
+        "zh": "汉字很难。",
+        "es": "Los caracteres chinos son difíciles."
+      },
+      {
+        "zh": "这个汉字怎么读？",
+        "es": "¿Cómo se lee este carácter?"
+      },
+      {
+        "zh": "我每天学习十个汉字。",
+        "es": "Aprendo diez caracteres chinos cada día."
+      },
+      {
+        "zh": "学了一年中文，我已经认识五百个汉字了。",
+        "es": "Después de un año estudiando chino, ya conozco quinientos caracteres."
+      }
+    ]
+  },
+  {
+    "word": "成员",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "miembro",
+      "integrante"
+    ],
+    "examples": [
+      {
+        "zh": "他是这个组织的成员。",
+        "es": "Él es miembro de esta organización."
+      },
+      {
+        "zh": "每个成员都很努力。",
+        "es": "Cada integrante se esfuerza mucho."
+      },
+      {
+        "zh": "这个组织有多少成员？",
+        "es": "¿Cuántos miembros tiene esta organización?"
+      },
+      {
+        "zh": "中国是这个国际组织的重要成员。",
+        "es": "China es un miembro importante de esta organización internacional."
+      }
+    ]
+  },
+  {
+    "word": "走路",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "caminar",
+      "ir a pie",
+      "irse"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢走路。",
+        "es": "Me gusta caminar."
+      },
+      {
+        "zh": "我每天走路上班。",
+        "es": "Todos los días voy caminando al trabajo."
+      },
+      {
+        "zh": "走路去学校要多长时间？",
+        "es": "¿Cuánto tiempo se tarda en ir a la escuela a pie?"
+      },
+      {
+        "zh": "医生说多走路对身体很好。",
+        "es": "El médico dice que caminar mucho es muy bueno para la salud."
+      }
+    ]
+  },
+  {
+    "word": "讲",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "hablar",
+      "explicar",
+      "contar (una historia)",
+      "dar importancia a"
+    ],
+    "examples": [
+      {
+        "zh": "请你讲慢一点。",
+        "es": "Por favor, habla más despacio."
+      },
+      {
+        "zh": "老师讲得很好。",
+        "es": "El maestro explica muy bien."
+      },
+      {
+        "zh": "奶奶每天晚上给我讲故事。",
+        "es": "Mi abuela me cuenta un cuento todas las noches."
+      },
+      {
+        "zh": "他讲的话我一点也不明白。",
+        "es": "No entiendo nada de lo que dice."
+      }
+    ]
+  },
+  {
+    "word": "上车",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "subirse (al auto, autobús, tren, etc.)",
+      "abordar"
+    ],
+    "examples": [
+      {
+        "zh": "快上车吧！",
+        "es": "¡Súbete rápido!"
+      },
+      {
+        "zh": "请大家上车。",
+        "es": "Por favor, todos súbanse."
+      },
+      {
+        "zh": "上车以前要买票。",
+        "es": "Hay que comprar el boleto antes de subir."
+      },
+      {
+        "zh": "他在车站等了半个小时才上车。",
+        "es": "Esperó media hora en la estación antes de poder subir."
+      }
+    ]
+  },
+  {
+    "word": "开发",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "desarrollar",
+      "explotar (un recurso)",
+      "abrir (una zona) al desarrollo"
+    ],
+    "examples": [
+      {
+        "zh": "他在公司开发游戏。",
+        "es": "Él desarrolla videojuegos en la empresa."
+      },
+      {
+        "zh": "我们正在开发一个新产品。",
+        "es": "Estamos desarrollando un producto nuevo."
+      },
+      {
+        "zh": "这个地区的资源还没有开发。",
+        "es": "Los recursos de esta región todavía no se han explotado."
+      },
+      {
+        "zh": "这家公司花了两年时间开发这个手机游戏。",
+        "es": "Esta empresa tardó dos años en desarrollar este juego para celular."
+      }
+    ]
+  },
+  {
+    "word": "书店",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "librería"
+    ],
+    "examples": [
+      {
+        "zh": "我去书店买书。",
+        "es": "Voy a la librería a comprar libros."
+      },
+      {
+        "zh": "这个书店很大。",
+        "es": "Esta librería es muy grande."
+      },
+      {
+        "zh": "学校旁边有一家书店。",
+        "es": "Al lado de la escuela hay una librería."
+      },
+      {
+        "zh": "星期天我常常去书店看书。",
+        "es": "Los domingos suelo ir a la librería a leer."
+      }
+    ]
+  },
+  {
+    "word": "年代",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "década (los años sesenta, etc.)",
+      "época",
+      "era"
+    ],
+    "examples": [
+      {
+        "zh": "那是八十年代。",
+        "es": "Eso fue en los años ochenta."
+      },
+      {
+        "zh": "我很喜欢九十年代的电影。",
+        "es": "Me gustan mucho las películas de los noventa."
+      },
+      {
+        "zh": "那个年代的生活很难。",
+        "es": "En esa época la vida era difícil."
+      },
+      {
+        "zh": "八十年代以后，中国的经济发展得很快。",
+        "es": "A partir de los años ochenta, la economía china se desarrolló muy rápido."
+      }
+    ]
+  },
+  {
+    "word": "图片",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "imagen",
+      "foto",
+      "ilustración"
+    ],
+    "examples": [
+      {
+        "zh": "这张图片很好看。",
+        "es": "Esta imagen es muy bonita."
+      },
+      {
+        "zh": "我在网上找到一张图片。",
+        "es": "Encontré una imagen en internet."
+      },
+      {
+        "zh": "你可以给我看看这些图片吗？",
+        "es": "¿Me puedes mostrar estas fotos?"
+      },
+      {
+        "zh": "他把那些图片放到了自己的网站上。",
+        "es": "Él subió esas imágenes a su propio sitio web."
+      }
+    ]
+  },
+  {
+    "word": "生病",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "enfermarse",
+      "estar enfermo"
+    ],
+    "examples": [
+      {
+        "zh": "我生病了。",
+        "es": "Me enfermé."
+      },
+      {
+        "zh": "他生病了，今天不能上班。",
+        "es": "Está enfermo y hoy no puede ir a trabajar."
+      },
+      {
+        "zh": "天气很冷，多穿衣服，别生病了。",
+        "es": "Hace mucho frío; abrígate bien para no enfermarte."
+      },
+      {
+        "zh": "妈妈生病的时候，我每天都去医院看她。",
+        "es": "Cuando mi mamá estaba enferma, iba todos los días al hospital a verla."
+      }
+    ]
+  },
+  {
+    "word": "心",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "corazón",
+      "mente",
+      "intención",
+      "centro"
+    ],
+    "examples": [
+      {
+        "zh": "你放心吧。",
+        "es": "No te preocupes."
+      },
+      {
+        "zh": "她的心很好。",
+        "es": "Ella tiene buen corazón."
+      },
+      {
+        "zh": "他是一个很有爱心的人。",
+        "es": "Es una persona muy bondadosa."
+      },
+      {
+        "zh": "听到这个新闻，大家心里都很不高兴。",
+        "es": "Al oír esta noticia, todos se sintieron muy tristes por dentro."
+      }
+    ]
+  },
+  {
+    "word": "坐下",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sentarse",
+      "tomar asiento"
+    ],
+    "examples": [
+      {
+        "zh": "请坐下。",
+        "es": "Siéntate, por favor."
+      },
+      {
+        "zh": "他一坐下就开始吃饭。",
+        "es": "Apenas se sentó, empezó a comer."
+      },
+      {
+        "zh": "你累了，坐下休息一会儿吧。",
+        "es": "Estás cansado; siéntate a descansar un rato."
+      },
+      {
+        "zh": "老师进来以后，学生们都马上坐下了。",
+        "es": "Cuando entró el maestro, todos los estudiantes se sentaron de inmediato."
+      }
+    ]
+  }
+]

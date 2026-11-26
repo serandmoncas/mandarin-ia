@@ -1,0 +1,170 @@
+[
+  {
+    "id": "word:如果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6419a4467c1cad79f6b4a0418dd603385f3ad733"
+  },
+  {
+    "id": "word:跟",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a51f1a27b81255a5b9192fa87fc7cba82f5e09d4"
+  },
+  {
+    "id": "word:还有",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8cfd5307be811ee5dc08ef196f04d83c3184bd5"
+  },
+  {
+    "id": "word:该",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f00bddede8a64b61df3d1a14b494f0640126371e"
+  },
+  {
+    "id": "word:世界",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 得 en «发展得很快» debe ser «de» (tono neutro), no «dé».",
+      "Ejemplo 4: 东西 con el sentido de «cosas» se lee «dōng xi» (tono neutro); «dōng xī» significa «este y oeste»."
+    ],
+    "content_hash": "42ea6b02d4c699ec463ef9b9ca642ec85f89e414"
+  },
+  {
+    "id": "word:请",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «请问，你是谁？» suena brusco; lo natural es «请问，您是哪位？». Además, la traducción usa «usted» y el chino usa 你 en lugar de 您."
+    ],
+    "content_hash": "6e9fbe40b5237814238e950feb3298e1e683c767"
+  },
+  {
+    "id": "word:其",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: mezcla el registro formal de 使其 con el coloquial 快点, lo que resulta poco natural. Sería mejor, por ejemplo, «使其更快地发展».",
+      "Ejemplo 4: «因其…而很有名» es algo forzado; lo habitual es «因其…而闻名» o «因其…而出名»."
+    ],
+    "content_hash": "c79faae946d70e41a106e236381869ad4d8fae32"
+  },
+  {
+    "id": "word:还是",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c0b71a6737359570b3894cb61996a7ddfc43c1aa"
+  },
+  {
+    "id": "word:日本",
+    "ok": true,
+    "issues": [],
+    "content_hash": "884a7c3903bc2e0c8362e0820d2141fffe8cf78d"
+  },
+  {
+    "id": "word:呢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bacb3a8bdae5f8ca2166aa7144d93b7f9f52c3ad"
+  },
+  {
+    "id": "word:计划",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7334f1b735c26d3217716a86cb55aa6e35894871"
+  },
+  {
+    "id": "word:一些",
+    "ok": false,
+    "issues": [
+      "Pinyin: en todos los ejemplos 一些 se pronuncia «yì xiē» por sandhi tonal. Otros elementos del conjunto sí aplican el sandhi (p. ej., «yí gè»), así que la inconsistencia puede confundir al estudiante."
+    ],
+    "content_hash": "e4c49a2618c8977fa15cd4266b6d72ffb7842695"
+  },
+  {
+    "id": "word:向",
+    "ok": true,
+    "issues": [],
+    "content_hash": "478442d330fa7774bae0d266526d50d2cd7a1caf"
+  },
+  {
+    "id": "word:只",
+    "ok": true,
+    "issues": [],
+    "content_hash": "407d685a3caeba77617cf8979611916b7fdefc96"
+  },
+  {
+    "id": "word:北京",
+    "ok": true,
+    "issues": [],
+    "content_hash": "abbab1d9599dbb6daf12f8c5119c6ade46c21b16"
+  },
+  {
+    "id": "word:不能",
+    "ok": true,
+    "issues": [],
+    "content_hash": "42fbcbd64d7610648a8e7fc87cae59c08c917f9d"
+  },
+  {
+    "id": "word:高",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f447e1eb8512006d2410ab04f01e11a91f3095ab"
+  },
+  {
+    "id": "word:成为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d22aceb4f68a558da7926b7ceb88d840987c4a41"
+  },
+  {
+    "id": "word:觉得",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: en «太长了», 长 se lee «cháng», no «zhǎng»."
+    ],
+    "content_hash": "ecfb9579c8b68a748e966b93fa23d7a9fc811b4a"
+  },
+  {
+    "id": "word:一样",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente: los ejemplos 1 a 3 escriben «yī yàng» y el ejemplo 4 escribe «yí yàng». La pronunciación real, con sandhi, es «yí yàng»."
+    ],
+    "content_hash": "d59320b1a6afc13967317697abfbc06a20361711"
+  },
+  {
+    "id": "word:认为",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «发展还要更快» es poco natural; sería mejor «发展应该更快一些». La traducción añade «debe», que el chino no expresa claramente."
+    ],
+    "content_hash": "ff9552b6704a85b9f70a447a7d457f7fd6ecde22"
+  },
+  {
+    "id": "word:重要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6b77c92aece8f40488dac1704b85f4cd350f6e6e"
+  },
+  {
+    "id": "word:需要",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eb295e6015b0013279b37096e874f44e149ba4bf"
+  },
+  {
+    "id": "word:起来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e8b9f07b06dd7ada2aeb872c590c5df683196a7c"
+  },
+  {
+    "id": "word:啊",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: «¿Por qué llegan hasta ahora?» usa «hasta ahora» con el sentido regional (mexicano y centroamericano) de «recién ahora», que en otros países se entiende distinto. Una opción más neutra: «¿Por qué llegan tan tarde?» o «¿Por qué apenas llegan ahora?»."
+    ],
+    "content_hash": "570c4f3e1bee91f10cdbf2466d98a7ccef5216a1"
+  }
+]

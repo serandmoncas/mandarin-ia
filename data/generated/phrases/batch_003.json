@@ -1,0 +1,142 @@
+[
+  {
+    "mission": "hotel",
+    "zh": "你好，我有预订。",
+    "es": "Hola, tengo una reservación."
+  },
+  {
+    "mission": "hotel",
+    "zh": "我要办理入住。",
+    "es": "Quiero hacer el check-in."
+  },
+  {
+    "mission": "hotel",
+    "zh": "请出示您的护照。",
+    "es": "Por favor, muéstreme su pasaporte."
+  },
+  {
+    "mission": "hotel",
+    "zh": "我的名字是……",
+    "es": "Mi nombre es…"
+  },
+  {
+    "mission": "hotel",
+    "zh": "还有空房间吗？",
+    "es": "¿Todavía tienen habitaciones disponibles?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "一个晚上多少钱？",
+    "es": "¿Cuánto cuesta por noche?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "您住几个晚上？",
+    "es": "¿Cuántas noches se va a quedar?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "我住三个晚上。",
+    "es": "Me voy a quedar tres noches."
+  },
+  {
+    "mission": "hotel",
+    "zh": "需要付押金吗？",
+    "es": "¿Hay que dejar un depósito?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "可以刷信用卡吗？",
+    "es": "¿Puedo pagar con tarjeta de crédito?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "这是您的房卡。",
+    "es": "Aquí tiene la tarjeta de su habitación."
+  },
+  {
+    "mission": "hotel",
+    "zh": "您的房间在五楼。",
+    "es": "Su habitación está en el quinto piso."
+  },
+  {
+    "mission": "hotel",
+    "zh": "Wi-Fi密码是多少？",
+    "es": "¿Cuál es la contraseña del wifi?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "早餐几点开始？",
+    "es": "¿A qué hora empieza el desayuno?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "含早餐吗？",
+    "es": "¿Incluye el desayuno?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "几点退房？",
+    "es": "¿A qué hora es el check-out?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "我要退房。",
+    "es": "Quiero hacer el check-out."
+  },
+  {
+    "mission": "hotel",
+    "zh": "可以帮我保管行李吗？",
+    "es": "¿Me puede guardar el equipaje?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "电梯在哪里？",
+    "es": "¿Dónde está el elevador?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "空调坏了。",
+    "es": "El aire acondicionado no funciona."
+  },
+  {
+    "mission": "hotel",
+    "zh": "没有热水。",
+    "es": "No hay agua caliente."
+  },
+  {
+    "mission": "hotel",
+    "zh": "请再给我一条毛巾。",
+    "es": "Por favor, deme otra toalla."
+  },
+  {
+    "mission": "hotel",
+    "zh": "我的房卡不能用了。",
+    "es": "Mi tarjeta de la habitación ya no funciona."
+  },
+  {
+    "mission": "hotel",
+    "zh": "可以换个房间吗？",
+    "es": "¿Me puede cambiar de habitación?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "请帮我叫一辆出租车。",
+    "es": "Por favor, pídame un taxi."
+  },
+  {
+    "mission": "hotel",
+    "zh": "可以晚一点退房吗？",
+    "es": "¿Puedo hacer el check-out un poco más tarde?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "附近有便利店吗？",
+    "es": "¿Hay alguna tienda de conveniencia cerca?"
+  },
+  {
+    "mission": "hotel",
+    "zh": "请明天早上七点叫醒我。",
+    "es": "Por favor, despiérteme mañana a las siete."
+  }
+]

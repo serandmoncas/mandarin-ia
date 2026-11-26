@@ -1,0 +1,165 @@
+[
+  {
+    "id": "word:迎接",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fcf003934e94a5311fda79401ca5cf0a531fcd38"
+  },
+  {
+    "id": "word:有利",
+    "ok": true,
+    "issues": [],
+    "content_hash": "eeb6ba781b0f9b01edad5a21f5b564cecf44a2f9"
+  },
+  {
+    "id": "word:留学",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f1526d2e63ea12a71b9824ac0efeaf103fab8421"
+  },
+  {
+    "id": "word:伤心",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 长 en 很长时间 se lee cháng, no zhǎng."
+    ],
+    "content_hash": "298d9eb9a6df47e45bcb611f5c3b3524edbff574"
+  },
+  {
+    "id": "word:场合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ba20fda998048a253bd68f919c0c2a0bb1ad2bab"
+  },
+  {
+    "id": "word:整",
+    "ok": true,
+    "issues": [],
+    "content_hash": "389a67f72cdf00266c39cd5cdb5f2834df6a88a6"
+  },
+  {
+    "id": "word:从前",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f818484a1f5e17842ec4067e081864c311dfbb22"
+  },
+  {
+    "id": "word:合格",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e30e9f7788cc62d1ea1bff4c9824a8620811e8c6"
+  },
+  {
+    "id": "word:家乡",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5dae0c3f013bbdf2b2189a7997bba754d34c5efe"
+  },
+  {
+    "id": "word:没用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2426d32f2227cf22f1f92362ec8e5a036628654b"
+  },
+  {
+    "id": "word:手指",
+    "ok": true,
+    "issues": [],
+    "content_hash": "017504820f0a577c5ebfb39e7c56c51cfd2c18f5"
+  },
+  {
+    "id": "word:汤",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6435c5fea015fd97e56003393a88d39def1d06a"
+  },
+  {
+    "id": "word:功夫",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9022c4f9b8be088af327d672ef5aa63332143b92"
+  },
+  {
+    "id": "word:教材",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f71c76601cc6bd149a1da8d1bffc273510e00e1d"
+  },
+  {
+    "id": "word:考验",
+    "ok": true,
+    "issues": [],
+    "content_hash": "dc21c74a85320ba684f916ba770d3db27928aad3"
+  },
+  {
+    "id": "word:缺少",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6dbff90bdaf0ed758dcb380865ecc95ddedc8637"
+  },
+  {
+    "id": "word:自觉",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: la partícula 地 en 自觉地 se lee de, no dì.",
+      "Pinyin incorrecto en el ejemplo 4: la partícula 得 en 做得不对 se lee de, no dé."
+    ],
+    "content_hash": "6a0ef868ddc3dd7087dc294f81bc2df5ca9678de"
+  },
+  {
+    "id": "word:发送",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: 都 en 每天都会 se lee dōu, no dū."
+    ],
+    "content_hash": "d0bb6ebed7da3e1a39ea10caf06384953046f381"
+  },
+  {
+    "id": "word:体会",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8225df7d0e1f1db6152bb4a3f1647e024697f1f6"
+  },
+  {
+    "id": "word:头脑",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4 poco natural: la colocación habitual es 保持清醒的头脑, no 清楚的头脑."
+    ],
+    "content_hash": "5e1b3fe869a275ce24cb823ab5dcd9991e32442d"
+  },
+  {
+    "id": "word:富",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad25f7bb96a04de8206698de6ed253d0e9378c3d"
+  },
+  {
+    "id": "word:克服",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: la colocación 克服问题 es poco natural; lo habitual es 克服困难 (o 解决问题)."
+    ],
+    "content_hash": "705462ab1f6c0fff0862173cd046e4ea06e76a07"
+  },
+  {
+    "id": "word:乐观",
+    "ok": true,
+    "issues": [],
+    "content_hash": "246c74ad6111bd0ab708afce7c78ac59c1c5d7b9"
+  },
+  {
+    "id": "word:齐",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: la partícula 得 en 站得很齐 se lee de, no dé."
+    ],
+    "content_hash": "b440f596b13b6a7b9cc0276dc2036184d5199ac8"
+  },
+  {
+    "id": "word:身份证",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fdd2ba962376363aea00e6c21d9da194c8755127"
+  }
+]

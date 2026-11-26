@@ -1,0 +1,166 @@
+[
+  {
+    "id": "word:明确",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 2: el complemento 得 en 说得 se lee 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "ebe56b262f4ae75ff9cc68fbb8d4accf28f9a4f8"
+  },
+  {
+    "id": "word:嘴",
+    "ok": true,
+    "issues": [],
+    "content_hash": "88123b86205802c36494c5078f61a8f68640b5cf"
+  },
+  {
+    "id": "word:女子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57334692ceea6a29d8c79b49e747be6ce9538c1b"
+  },
+  {
+    "id": "word:常见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c2a7f78721e6b3a13533ef80fb388c81831e0c0"
+  },
+  {
+    "id": "word:苹果",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7245ea31377d4aa95a0c3e38495293444b31fe8b"
+  },
+  {
+    "id": "word:大大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4cc6ef60aa7e654aee2a4e232ae652ac4e324c7"
+  },
+  {
+    "id": "word:随",
+    "ok": true,
+    "issues": [],
+    "content_hash": "64038d0d219c0e2934f0659fbf8794f8f9647c4d"
+  },
+  {
+    "id": "word:封",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: 长 en 很长的信 significa 'largo' y se lee 'cháng', no 'zhǎng'."
+    ],
+    "content_hash": "982fa8c003dcb7f99a0437f5474a05af9b4e1d3a"
+  },
+  {
+    "id": "word:体现",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40008e1e7ee1285e2ffa72fd2d1841c5f05cb00b"
+  },
+  {
+    "id": "word:不一定",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e67a570b7fbcecb7632093f215c6ec13dbaa37c"
+  },
+  {
+    "id": "word:赢",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f483664036c0357a34bd035b4afbd1176d94f159"
+  },
+  {
+    "id": "word:不但",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3889311fb08c4ce61de08c06cbd11e47c07029cb"
+  },
+  {
+    "id": "word:礼物",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3f0999b0b4fd885c488b179fd13be7bbb2e4041b"
+  },
+  {
+    "id": "word:指导",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 4: el complemento 得 en 提高得 se lee 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "256e7f8f496fa627c8e4e1d597eb2f19037ff87e"
+  },
+  {
+    "id": "word:什么样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "46e5046d5664f145391fc5032767a6d3a3187359"
+  },
+  {
+    "id": "word:专门",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1da024be12c4583b8dad7a70f6f6a9f0ab9e5b0e"
+  },
+  {
+    "id": "word:头发",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 1: 长 ('largo') se lee 'cháng', no 'zhǎng'.",
+      "Pinyin incorrecto en el ejemplo 2: 发 en 头发 se lee 'fà' (o tono neutro 'fa'), no 'fā'.",
+      "El pinyin de 头发 es inconsistente entre la entrada (fa5) y los ejemplos ('fà' / 'fā')."
+    ],
+    "content_hash": "02bfb34fe5c0fff8d9a6c77c54e92659931647f0"
+  },
+  {
+    "id": "word:传播",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en los ejemplos 1 y 3: el complemento 得 en 传播得 se lee 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "c8704882a458c115b083c178dc7c459c22eb68c8"
+  },
+  {
+    "id": "word:准确",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: el complemento 得 en 说得 se lee 'de' (tono neutro), no 'dé'."
+    ],
+    "content_hash": "75e4b216b841a7a7ddee9e0bd0bd07d7c95728ab"
+  },
+  {
+    "id": "word:电视台",
+    "ok": true,
+    "issues": [],
+    "content_hash": "480b53592424f6b4b22c619ca48b583dba343cc4"
+  },
+  {
+    "id": "word:作业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d093651821a9cc66f1ca7c1a4485454f4f8a6046"
+  },
+  {
+    "id": "word:进步",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c80e2be2e16f222a75e1a8bee6c6d5703d9d9445"
+  },
+  {
+    "id": "word:合适",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5bf54e0e52a45018b046fb24bd83b5d166232450"
+  },
+  {
+    "id": "word:连续",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c29fc9d8656140daad1af69a73f4ba0ba6d38de5"
+  },
+  {
+    "id": "word:加油",
+    "ok": true,
+    "issues": [],
+    "content_hash": "57b1e00736bef963c42345f00a2e780d83d28f13"
+  }
+]

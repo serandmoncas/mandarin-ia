@@ -1,0 +1,154 @@
+[
+  {
+    "id": "word:字典",
+    "ok": true,
+    "issues": [],
+    "content_hash": "51625504a80ffa7c03260a880a7d0b66c830e03b"
+  },
+  {
+    "id": "word:集体",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa9107aac0cce1c5da68d4564cc674a10a43b11c"
+  },
+  {
+    "id": "word:照相",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c6be252947554d7eceb39c13dcaeff4ce04053aa"
+  },
+  {
+    "id": "word:简直",
+    "ok": true,
+    "issues": [],
+    "content_hash": "727878b8c1c2ad2876c04589b1d4b79afc833ce0"
+  },
+  {
+    "id": "word:晚报",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e1dc0d5fca83a899e75a8a6ffba7d3b282b8f104"
+  },
+  {
+    "id": "word:举手",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4fdec03301851d93e076e7ac5bef49d22d17e9c6"
+  },
+  {
+    "id": "word:洗衣机",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3abacd43dbfda201f9c96d05b986ed19c7296826"
+  },
+  {
+    "id": "word:外交",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3c98c825f825e50400fa46de913de5fe005d43c3"
+  },
+  {
+    "id": "word:个子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d63e904db50586613f7f36e41d20e711cf8f3b95"
+  },
+  {
+    "id": "word:饺子",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ad652f4c5f68852b0da064c1814cd21293dc150c"
+  },
+  {
+    "id": "word:总结",
+    "ok": true,
+    "issues": [],
+    "content_hash": "48affe6b029ab67c36d326a5f999130de43fbecd"
+  },
+  {
+    "id": "word:排球",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c5691e6c4727eb258da3f604bffa38fa8d4cb655"
+  },
+  {
+    "id": "word:请客",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76891f4d2e69e3cef2244d7aa59c45164c19592a"
+  },
+  {
+    "id": "word:乐",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fbfb3f81a77f0b1cd76a7cba86335654c6858217"
+  },
+  {
+    "id": "word:音节",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2fa94cc9c5dfc9b3ce7146e79b36a53557922f4d"
+  },
+  {
+    "id": "word:骑车",
+    "ok": true,
+    "issues": [],
+    "content_hash": "03bc2385d3cfd0c42523be83566e2e3f94dd06a5"
+  },
+  {
+    "id": "word:大衣",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45de14521d85c5c2263adbfabc8394b5f8b422ad"
+  },
+  {
+    "id": "word:转变",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c6744d91638b59af34fac63befb2245204b292bd"
+  },
+  {
+    "id": "word:传说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b4d86789a93120e98bb062827e67b3632c6bb4fa"
+  },
+  {
+    "id": "word:千克",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 一千克 debe ser «yì qiān kè» (cambio tonal de 一 ante cuarto... ante primer tono), no «yī qiān kè»; además es inconsistente con el resto de ejemplos, que sí aplican el cambio tonal."
+    ],
+    "content_hash": "10c42ca590d5692af9493a7b65e32f401149d9c9"
+  },
+  {
+    "id": "word:看起来",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2148c6e27e023fae80353844a1f0027a396047fb"
+  },
+  {
+    "id": "word:奇怪",
+    "ok": true,
+    "issues": [],
+    "content_hash": "89be508a340528b0ff037fc7019a206c093627e5"
+  },
+  {
+    "id": "word:日常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c7fc46c2a1dace13909913f50b29087674101ff"
+  },
+  {
+    "id": "word:碰见",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b0ad0b8586c37bc4a10fc3cfd48cbd9ea016d975"
+  },
+  {
+    "id": "word:适用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f4137b8391d4ebebfb88f9d489bc55f3a41f3eeb"
+  }
+]

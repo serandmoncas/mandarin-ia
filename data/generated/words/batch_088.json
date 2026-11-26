@@ -1,0 +1,541 @@
+[
+  {
+    "word": "上面",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "encima de",
+      "arriba",
+      "lo mencionado anteriormente"
+    ],
+    "examples": [
+      {
+        "zh": "书在桌子上面。",
+        "es": "El libro está encima de la mesa."
+      },
+      {
+        "zh": "上面有很多字。",
+        "es": "Arriba hay muchas letras."
+      },
+      {
+        "zh": "请看上面的图片。",
+        "es": "Por favor, mira la imagen de arriba."
+      },
+      {
+        "zh": "我们上面说的问题非常重要。",
+        "es": "El problema que mencionamos arriba es muy importante."
+      }
+    ]
+  },
+  {
+    "word": "实际上",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "en realidad",
+      "de hecho",
+      "en la práctica"
+    ],
+    "examples": [
+      {
+        "zh": "实际上，我不喜欢吃肉。",
+        "es": "En realidad, no me gusta comer carne."
+      },
+      {
+        "zh": "实际上，这个问题很简单。",
+        "es": "De hecho, este problema es muy sencillo."
+      },
+      {
+        "zh": "他看起来很忙，实际上没什么事。",
+        "es": "Parece muy ocupado, pero en realidad no tiene nada que hacer."
+      },
+      {
+        "zh": "大家觉得他是老师，实际上他是医生。",
+        "es": "Todos creen que es maestro, pero en realidad es médico."
+      }
+    ]
+  },
+  {
+    "word": "角",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "esquina",
+      "ángulo",
+      "cuerno",
+      "jiao (décima parte de un yuan)"
+    ],
+    "examples": [
+      {
+        "zh": "小心桌子的角！",
+        "es": "¡Cuidado con la esquina de la mesa!"
+      },
+      {
+        "zh": "这个本子一块五角。",
+        "es": "Este cuaderno cuesta un yuan con cincuenta."
+      },
+      {
+        "zh": "这个图有三个角。",
+        "es": "Esta figura tiene tres ángulos."
+      },
+      {
+        "zh": "那头牛的角又长又大。",
+        "es": "Los cuernos de esa vaca son largos y grandes."
+      }
+    ]
+  },
+  {
+    "word": "练习",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "practicar",
+      "ejercicio",
+      "práctica"
+    ],
+    "examples": [
+      {
+        "zh": "我每天练习汉语。",
+        "es": "Practico chino todos los días."
+      },
+      {
+        "zh": "老师给我们很多练习。",
+        "es": "El maestro nos da muchos ejercicios."
+      },
+      {
+        "zh": "你应该多练习说中文。",
+        "es": "Deberías practicar más hablar en chino."
+      },
+      {
+        "zh": "如果你每天练习，考试一定没问题。",
+        "es": "Si practicas todos los días, seguro te irá bien en el examen."
+      }
+    ]
+  },
+  {
+    "word": "团结",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "unirse",
+      "unidad",
+      "solidaridad",
+      "unido"
+    ],
+    "examples": [
+      {
+        "zh": "我们要团结。",
+        "es": "Tenemos que estar unidos."
+      },
+      {
+        "zh": "大家团结起来！",
+        "es": "¡Unámonos todos!"
+      },
+      {
+        "zh": "团结就是力量。",
+        "es": "La unión hace la fuerza."
+      },
+      {
+        "zh": "只有团结，我们才能解决这个问题。",
+        "es": "Solo si estamos unidos podremos resolver este problema."
+      }
+    ]
+  },
+  {
+    "word": "拿出",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sacar",
+      "presentar (pruebas, una propuesta)",
+      "aportar"
+    ],
+    "examples": [
+      {
+        "zh": "他拿出手机。",
+        "es": "Él sacó su celular."
+      },
+      {
+        "zh": "请拿出你们的书。",
+        "es": "Por favor, saquen sus libros."
+      },
+      {
+        "zh": "她从包里拿出一张照片。",
+        "es": "Ella sacó una foto de la bolsa."
+      },
+      {
+        "zh": "你必须拿出证据来证明你说的话。",
+        "es": "Tienes que presentar pruebas de lo que dices."
+      }
+    ]
+  },
+  {
+    "word": "放下",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dejar (algo en un lugar)",
+      "bajar",
+      "soltar",
+      "dejar atrás"
+    ],
+    "examples": [
+      {
+        "zh": "请把书放下。",
+        "es": "Por favor, deja el libro."
+      },
+      {
+        "zh": "他放下电话就走了。",
+        "es": "Colgó el teléfono y se fue."
+      },
+      {
+        "zh": "放下手机，我们一起吃饭吧。",
+        "es": "Deja el celular y comamos juntos."
+      },
+      {
+        "zh": "过去的事情，你应该放下了。",
+        "es": "Ya deberías dejar atrás lo que pasó."
+      }
+    ]
+  },
+  {
+    "word": "运输",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "transportar",
+      "transporte",
+      "llevar (carga)"
+    ],
+    "examples": [
+      {
+        "zh": "这家公司负责运输。",
+        "es": "Esta empresa se encarga del transporte."
+      },
+      {
+        "zh": "火车可以运输很多东西。",
+        "es": "El tren puede transportar muchas cosas."
+      },
+      {
+        "zh": "运输水果需要很长时间。",
+        "es": "Transportar fruta toma mucho tiempo."
+      },
+      {
+        "zh": "交通不好，运输成了很大的问题。",
+        "es": "El tráfico es malo, así que el transporte se volvió un gran problema."
+      }
+    ]
+  },
+  {
+    "word": "画家",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "pintor",
+      "pintora",
+      "artista plástico"
+    ],
+    "examples": [
+      {
+        "zh": "他是画家。",
+        "es": "Él es pintor."
+      },
+      {
+        "zh": "这位画家的画非常美。",
+        "es": "Los cuadros de este pintor son muy bonitos."
+      },
+      {
+        "zh": "我爸爸是一个有名的画家。",
+        "es": "Mi papá es un pintor famoso."
+      },
+      {
+        "zh": "她小时候就希望成为一个画家。",
+        "es": "Desde niña quería ser pintora."
+      }
+    ]
+  },
+  {
+    "word": "熟",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "maduro",
+      "bien cocido",
+      "conocido, familiar",
+      "experto, hábil"
+    ],
+    "examples": [
+      {
+        "zh": "苹果熟了。",
+        "es": "Las manzanas ya están maduras."
+      },
+      {
+        "zh": "肉还没熟，再等一下。",
+        "es": "La carne todavía no está cocida, espera un poco."
+      },
+      {
+        "zh": "我跟他不太熟。",
+        "es": "No lo conozco muy bien."
+      },
+      {
+        "zh": "这条路我很熟，你跟我走吧。",
+        "es": "Conozco bien este camino, ven conmigo."
+      }
+    ]
+  },
+  {
+    "word": "报名",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "inscribirse",
+      "registrarse",
+      "postularse"
+    ],
+    "examples": [
+      {
+        "zh": "我想报名。",
+        "es": "Quiero inscribirme."
+      },
+      {
+        "zh": "你报名了吗？",
+        "es": "¿Ya te inscribiste?"
+      },
+      {
+        "zh": "很多学生报名参加比赛。",
+        "es": "Muchos estudiantes se inscribieron en la competencia."
+      },
+      {
+        "zh": "如果你想参加活动，明天以前必须报名。",
+        "es": "Si quieres participar en la actividad, tienes que inscribirte antes de mañana."
+      }
+    ]
+  },
+  {
+    "word": "各位",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "todos ustedes",
+      "señoras y señores",
+      "estimados (al dirigirse a un grupo)"
+    ],
+    "examples": [
+      {
+        "zh": "各位好！",
+        "es": "¡Hola a todos!"
+      },
+      {
+        "zh": "谢谢各位！",
+        "es": "¡Gracias a todos!"
+      },
+      {
+        "zh": "各位，请坐。",
+        "es": "Siéntense, por favor."
+      },
+      {
+        "zh": "欢迎各位来到我们的学校。",
+        "es": "Bienvenidos todos a nuestra escuela."
+      }
+    ]
+  },
+  {
+    "word": "平安",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "sano y salvo",
+      "a salvo",
+      "en paz",
+      "sin contratiempos"
+    ],
+    "examples": [
+      {
+        "zh": "一路平安！",
+        "es": "¡Buen viaje!"
+      },
+      {
+        "zh": "希望家人都平安。",
+        "es": "Espero que toda mi familia esté bien."
+      },
+      {
+        "zh": "大家都平安回来了。",
+        "es": "Todos regresaron sanos y salvos."
+      },
+      {
+        "zh": "他打电话告诉妈妈，他已经平安到家了。",
+        "es": "Llamó a su mamá para decirle que ya había llegado a casa sin problemas."
+      }
+    ]
+  },
+  {
+    "word": "喂",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "aló, bueno (al contestar el teléfono)",
+      "¿hola? (para llamar la atención)"
+    ],
+    "examples": [
+      {
+        "zh": "喂，你好！",
+        "es": "¿Aló? ¡Hola!"
+      },
+      {
+        "zh": "喂，你听得见吗？",
+        "es": "¿Aló? ¿Me escuchas?"
+      },
+      {
+        "zh": "喂，请问是王先生吗？",
+        "es": "¿Aló? ¿Hablo con el señor Wang?"
+      },
+      {
+        "zh": "喂，我现在在路上，马上就到。",
+        "es": "¿Aló? Ya voy en camino, llego enseguida."
+      }
+    ]
+  },
+  {
+    "word": "走进",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "entrar",
+      "adentrarse en"
+    ],
+    "examples": [
+      {
+        "zh": "他走进房间。",
+        "es": "Él entró al cuarto."
+      },
+      {
+        "zh": "老师走进了学校。",
+        "es": "El maestro entró a la escuela."
+      },
+      {
+        "zh": "我们一起走进了电影院。",
+        "es": "Entramos juntos al cine."
+      },
+      {
+        "zh": "她走进商店，买了一件漂亮的衣服。",
+        "es": "Entró a la tienda y compró una prenda bonita."
+      }
+    ]
+  },
+  {
+    "word": "完美",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "perfecto",
+      "impecable"
+    ],
+    "examples": [
+      {
+        "zh": "太完美了！",
+        "es": "¡Es perfecto!"
+      },
+      {
+        "zh": "没有人是完美的。",
+        "es": "Nadie es perfecto."
+      },
+      {
+        "zh": "这是一个完美的周末。",
+        "es": "Fue un fin de semana perfecto."
+      },
+      {
+        "zh": "他的工作做得很好，但是还不够完美。",
+        "es": "Hizo muy bien su trabajo, pero todavía no es perfecto."
+      }
+    ]
+  },
+  {
+    "word": "东南",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "sureste",
+      "sudeste"
+    ],
+    "examples": [
+      {
+        "zh": "风从东南来。",
+        "es": "El viento viene del sureste."
+      },
+      {
+        "zh": "他们住在东南亚。",
+        "es": "Ellos viven en el Sudeste Asiático."
+      },
+      {
+        "zh": "学校在城市的东南。",
+        "es": "La escuela está en el sureste de la ciudad."
+      },
+      {
+        "zh": "上海在中国的东南，夏天很热。",
+        "es": "Shanghái está en el sureste de China y en verano hace mucho calor."
+      }
+    ]
+  },
+  {
+    "word": "疼",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "doler",
+      "dolorido",
+      "querer mucho, consentir"
+    ],
+    "examples": [
+      {
+        "zh": "我头疼。",
+        "es": "Me duele la cabeza."
+      },
+      {
+        "zh": "你哪里疼？",
+        "es": "¿Dónde te duele?"
+      },
+      {
+        "zh": "我的腿很疼，走不了路。",
+        "es": "Me duele mucho la pierna, no puedo caminar."
+      },
+      {
+        "zh": "奶奶最疼我，常常给我买好吃的。",
+        "es": "Mi abuela me consiente mucho y seguido me compra cosas ricas."
+      }
+    ]
+  },
+  {
+    "word": "安静",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "tranquilo",
+      "silencioso",
+      "calmado"
+    ],
+    "examples": [
+      {
+        "zh": "请安静！",
+        "es": "¡Silencio, por favor!"
+      },
+      {
+        "zh": "图书馆里很安静。",
+        "es": "En la biblioteca hay mucho silencio."
+      },
+      {
+        "zh": "晚上这里非常安静。",
+        "es": "En la noche este lugar es muy tranquilo."
+      },
+      {
+        "zh": "孩子们都睡觉了，房间里安静下来了。",
+        "es": "Los niños ya se durmieron y el cuarto quedó en silencio."
+      }
+    ]
+  },
+  {
+    "word": "春天",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "primavera"
+    ],
+    "examples": [
+      {
+        "zh": "春天来了。",
+        "es": "Llegó la primavera."
+      },
+      {
+        "zh": "我最喜欢春天。",
+        "es": "La primavera es mi estación favorita."
+      },
+      {
+        "zh": "春天的天气不冷也不热。",
+        "es": "En primavera no hace ni frío ni calor."
+      },
+      {
+        "zh": "每年春天，公园里都有很多花。",
+        "es": "Cada primavera hay muchas flores en el parque."
+      }
+    ]
+  }
+]

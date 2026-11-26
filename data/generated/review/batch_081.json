@@ -1,0 +1,195 @@
+[
+  {
+    "id": "word:乐",
+    "ok": false,
+    "issues": [
+      "Pinyin: en 乐得 el 得 es neutro (de), no 'dé'.",
+      "Pinyin: 笑话 se lee xiàohua (hua neutro), no 'xiào huà'."
+    ],
+    "content_hash": "20ac471b03909da0361b9a1d29e196b03567e51a"
+  },
+  {
+    "id": "word:音节",
+    "ok": false,
+    "issues": [
+      "Pinyin: 妈妈 se lee mā ma (segunda sílaba neutra), no 'mā mā'."
+    ],
+    "content_hash": "dce33ecc95bb20108ba80b3ed069c2c3f00604e7"
+  },
+  {
+    "id": "word:骑车",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 se lee xǐhuan (huan neutro), no 'xǐ huān'.",
+      "Pinyin: 时候 se lee shíhou (hou neutro), no 'shí hòu'."
+    ],
+    "content_hash": "fb9e6791c3729a90ce71d6495584e5e8df28b161"
+  },
+  {
+    "id": "word:预计",
+    "ok": true,
+    "issues": [],
+    "content_hash": "106b91793c2487d311ee944ff558fee64bf553a1"
+  },
+  {
+    "id": "word:大衣",
+    "ok": false,
+    "issues": [
+      "Pinyin: en 卖得很好 el 得 es neutro (de), no 'dé'.",
+      "Pinyin: 妈妈 se lee mā ma, no 'mā mā'.",
+      "Pinyin: 外边 suele leerse wàibian (bian neutro)."
+    ],
+    "content_hash": "7e6dbcfda48ca28c2620f54cdfa919a41b04af7b"
+  },
+  {
+    "id": "word:周围",
+    "ok": true,
+    "issues": [],
+    "content_hash": "98a4cc8d6d56d977da2afb5c0d986bc850e74d9f"
+  },
+  {
+    "id": "word:画儿",
+    "ok": false,
+    "issues": [
+      "Pinyin: 画儿 es una sola sílaba con erhua (huàr), no 'huà ér'; el error se repite en todos los ejemplos.",
+      "Pinyin: 喜欢 se lee xǐhuan, no 'xǐ huān'."
+    ],
+    "content_hash": "77da2eb48025bb7d47d8db73650e6ef80e2b2177"
+  },
+  {
+    "id": "word:转变",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c3f2ec9f57b342eb3ae2be756780ab0396c4f2c4"
+  },
+  {
+    "id": "word:筷子",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 se lee shíhou, no 'shí hòu'.",
+      "Pinyin: en 用得很好 el 得 es neutro (de), no 'dé'."
+    ],
+    "content_hash": "283909783c6b2ea19c48b61f63ccdc36b6de2813"
+  },
+  {
+    "id": "word:传说",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9447b441b99ff10410de162f703a9dfad0ec3f59"
+  },
+  {
+    "id": "word:坏处",
+    "ok": false,
+    "issues": [
+      "Pinyin: 坏处 se lee huàichu (chu neutro, como indica la entrada), no 'huài chù'; igual 好处 hǎochu, no 'hǎo chù'."
+    ],
+    "content_hash": "6a16fffcc2f83db56b6c5ef82fefc42f0956045f"
+  },
+  {
+    "id": "word:千克",
+    "ok": false,
+    "issues": [
+      "Pinyin: 东西 con el sentido de 'cosas' se lee dōngxi (xi neutro); 'dōng xī' significa 'este y oeste'.",
+      "Pinyin: 时候 se lee shíhou, no 'shí hòu'."
+    ],
+    "content_hash": "bdbc41282e282186336f1d81e9a346a387ebda62"
+  },
+  {
+    "id": "word:看起来",
+    "ok": false,
+    "issues": [
+      "Pinyin: en 看起来 el 来 es neutro (kàn qǐlai, como indica la entrada), no 'lái'."
+    ],
+    "content_hash": "a65739e67124b1047a2075db1349aa09b037a854"
+  },
+  {
+    "id": "word:关机",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 se lee shíhou, no 'shí hòu'."
+    ],
+    "content_hash": "6dcae1a273b9266508e9c6689d4c0d34d145fd54"
+  },
+  {
+    "id": "word:快餐",
+    "ok": false,
+    "issues": [
+      "Significado: 'bocadillo' es ambiguo (en varios países es un sándwich o un dulce) y no corresponde bien a 快餐; 'comida ligera' tampoco es una acepción habitual.",
+      "Pinyin: 喜欢 se lee xǐhuan, no 'xǐ huān'."
+    ],
+    "content_hash": "4827afed8b85158f7c558c8094b41f8649e2ddf5"
+  },
+  {
+    "id": "word:奇怪",
+    "ok": false,
+    "issues": [
+      "Pinyin: 觉得 se lee juéde (de neutro), no 'jué dé'.",
+      "Pinyin: 告诉 se lee gàosu (su neutro), no 'gào sù'."
+    ],
+    "content_hash": "afc274e0acd7f0b2b286586033012f25344a9c7b"
+  },
+  {
+    "id": "word:晴天",
+    "ok": false,
+    "issues": [
+      "Pinyin: 喜欢 se lee xǐhuan, no 'xǐ huān'."
+    ],
+    "content_hash": "7ca96ecc83e49fcf6d983ce279e0807227e6e61e"
+  },
+  {
+    "id": "word:交朋友",
+    "ok": false,
+    "issues": [
+      "Pinyin: 朋友 se lee péngyou (you neutro, como indica la entrada), no 'péng yǒu'.",
+      "Pinyin: 喜欢 se lee xǐhuan, no 'xǐ huān'."
+    ],
+    "content_hash": "a0d4ad36a06ca29254d45ed1e0341b8dcbdd167b"
+  },
+  {
+    "id": "word:日常",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c2fd8456e7ce60dd8c27fc7a96d101484be70211"
+  },
+  {
+    "id": "word:碰见",
+    "ok": false,
+    "issues": [
+      "Pinyin: 时候 se lee shíhou, no 'shí hòu'."
+    ],
+    "content_hash": "2c0c100480f592b6c083a0126686550e8d02db7a"
+  },
+  {
+    "id": "word:适用",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1b4ebca6a035e1da56b2845511bf6e64aff0d416"
+  },
+  {
+    "id": "word:下雪",
+    "ok": false,
+    "issues": [
+      "Pinyin: 衣服 se lee yīfu (fu neutro), no 'yī fú'.",
+      "Pinyin: 时候 se lee shíhou, no 'shí hòu'."
+    ],
+    "content_hash": "83676546e23c5e38fad00caabb8db617367b5c0b"
+  },
+  {
+    "id": "word:收费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8221dc7b276222742c0fd7f3ac7e565ec11f442f"
+  },
+  {
+    "id": "word:退出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "79d3a04ee8f47c8c77af34353a92ba3e9fb567ea"
+  },
+  {
+    "id": "word:读音",
+    "ok": true,
+    "issues": [],
+    "content_hash": "795adeb5b4da31b0d27cb1920e27a0c548e12967"
+  }
+]

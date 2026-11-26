@@ -1,0 +1,142 @@
+[
+  {
+    "mission": "restaurant",
+    "zh": "你好，几位？",
+    "es": "Hola, ¿cuántas personas son?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "两位，谢谢。",
+    "es": "Somos dos, gracias."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "请给我菜单。",
+    "es": "Me trae el menú, por favor."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "服务员，点菜。",
+    "es": "Disculpe, queremos ordenar."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "我要这个。",
+    "es": "Quiero esto."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "买单，谢谢。",
+    "es": "La cuenta, por favor."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "可以刷微信或支付宝吗？",
+    "es": "¿Puedo pagar con WeChat o Alipay?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "可以用现金吗？",
+    "es": "¿Puedo pagar en efectivo?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "我对花生过敏。",
+    "es": "Soy alérgico al cacahuate."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "请不要放辣椒。",
+    "es": "Sin chile, por favor."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "这个辣吗？",
+    "es": "¿Esto pica?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "我不吃肉。",
+    "es": "No como carne."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "有英文菜单吗？",
+    "es": "¿Tienen menú en inglés?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "有图片菜单吗？",
+    "es": "¿Tienen menú con fotos?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "你们的招牌菜是什么？",
+    "es": "¿Cuál es la especialidad de la casa?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "你推荐什么？",
+    "es": "¿Qué me recomienda?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "请给我一杯水。",
+    "es": "Me da un vaso de agua, por favor."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "要喝点什么？",
+    "es": "¿Qué van a tomar?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "堂食还是打包？",
+    "es": "¿Para comer aquí o para llevar?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "打包，谢谢。",
+    "es": "Para llevar, gracias."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "请扫码点餐。",
+    "es": "Por favor, escanee el código QR para ordenar."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "还要别的吗？",
+    "es": "¿Desea algo más?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "够了，谢谢。",
+    "es": "Es todo, gracias."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "请再给我一双筷子。",
+    "es": "¿Me trae otro par de palillos, por favor?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "我们的菜还没上。",
+    "es": "Todavía no nos han traído la comida."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "剩下的帮我打包。",
+    "es": "¿Me pone lo que sobró para llevar?"
+  },
+  {
+    "mission": "restaurant",
+    "zh": "请稍等。",
+    "es": "Un momento, por favor."
+  },
+  {
+    "mission": "restaurant",
+    "zh": "很好吃，谢谢！",
+    "es": "¡Estuvo delicioso, gracias!"
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "word": "富",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "rico",
+      "adinerado",
+      "abundante"
+    ],
+    "examples": [
+      {
+        "zh": "他家很富。",
+        "es": "Su familia es muy rica."
+      },
+      {
+        "zh": "这个地方很富。",
+        "es": "Este lugar es muy rico."
+      },
+      {
+        "zh": "他们家越来越富了。",
+        "es": "Su familia es cada vez más rica."
+      },
+      {
+        "zh": "这个国家很富，但是很多人生活不好。",
+        "es": "Este país es rico, pero mucha gente no vive bien."
+      }
+    ]
+  },
+  {
+    "word": "克服",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "superar",
+      "vencer",
+      "sobrellevar",
+      "aguantar"
+    ],
+    "examples": [
+      {
+        "zh": "我们一定能克服。",
+        "es": "Seguro que podemos superarlo."
+      },
+      {
+        "zh": "他克服了很多困难。",
+        "es": "Él superó muchas dificultades."
+      },
+      {
+        "zh": "学习汉语要克服很多问题。",
+        "es": "Para aprender chino hay que superar muchos problemas."
+      },
+      {
+        "zh": "只要大家一起努力，就能克服所有的困难。",
+        "es": "Si todos nos esforzamos juntos, podemos superar todas las dificultades."
+      }
+    ]
+  },
+  {
+    "word": "乐观",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "optimista",
+      "esperanzador",
+      "alentador"
+    ],
+    "examples": [
+      {
+        "zh": "她很乐观。",
+        "es": "Ella es muy optimista."
+      },
+      {
+        "zh": "我爸爸是一个乐观的人。",
+        "es": "Mi papá es una persona optimista."
+      },
+      {
+        "zh": "不管碰到什么问题，他都很乐观。",
+        "es": "No importa qué problema tenga, él siempre es optimista."
+      },
+      {
+        "zh": "医生说他的情况不太乐观，需要马上住院。",
+        "es": "El médico dijo que su situación no es muy alentadora y que necesita hospitalizarse de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "齐",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "completo (todos presentes)",
+      "parejo, ordenado",
+      "al mismo tiempo",
+      "igualar"
+    ],
+    "examples": [
+      {
+        "zh": "人都到齐了。",
+        "es": "Ya llegaron todos."
+      },
+      {
+        "zh": "东西都准备齐了吗？",
+        "es": "¿Ya está todo listo?"
+      },
+      {
+        "zh": "学生们站得很齐。",
+        "es": "Los estudiantes están formados en filas bien derechas."
+      },
+      {
+        "zh": "等人到齐了，我们就开始开会。",
+        "es": "Cuando lleguen todos, empezamos la reunión."
+      }
+    ]
+  },
+  {
+    "word": "身份证",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "documento de identidad",
+      "cédula de identidad",
+      "identificación"
+    ],
+    "examples": [
+      {
+        "zh": "这是我的身份证。",
+        "es": "Esta es mi identificación."
+      },
+      {
+        "zh": "请给我看一下你的身份证。",
+        "es": "Por favor, muéstrame tu identificación."
+      },
+      {
+        "zh": "我的身份证找不到了，怎么办？",
+        "es": "No encuentro mi identificación, ¿qué hago?"
+      },
+      {
+        "zh": "买火车票的时候，必须带身份证。",
+        "es": "Para comprar boletos de tren hay que llevar la identificación."
+      }
+    ]
+  },
+  {
+    "word": "优点",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "ventaja",
+      "virtud",
+      "punto fuerte",
+      "mérito"
+    ],
+    "examples": [
+      {
+        "zh": "他有很多优点。",
+        "es": "Él tiene muchas virtudes."
+      },
+      {
+        "zh": "你最大的优点是什么？",
+        "es": "¿Cuál es tu mayor virtud?"
+      },
+      {
+        "zh": "这个手机的优点是便宜，缺点是太慢。",
+        "es": "La ventaja de este celular es que es barato; la desventaja, que es muy lento."
+      },
+      {
+        "zh": "每个人都有优点，我们应该多看别人的优点。",
+        "es": "Todos tienen virtudes; deberíamos fijarnos más en las virtudes de los demás."
+      }
+    ]
+  },
+  {
+    "word": "欢乐",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "alegría",
+      "alegre",
+      "regocijo",
+      "festivo"
+    ],
+    "examples": [
+      {
+        "zh": "他喜欢欢乐的音乐。",
+        "es": "A él le gusta la música alegre."
+      },
+      {
+        "zh": "新年是欢乐的日子。",
+        "es": "El Año Nuevo es un día de alegría."
+      },
+      {
+        "zh": "孩子们的笑声带来了很多欢乐。",
+        "es": "Las risas de los niños trajeron mucha alegría."
+      },
+      {
+        "zh": "那天晚上，大家在一起唱歌跳舞，非常欢乐。",
+        "es": "Esa noche todos cantaron y bailaron juntos; fue muy alegre."
+      }
+    ]
+  },
+  {
+    "word": "老百姓",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "la gente común",
+      "el pueblo",
+      "los ciudadanos de a pie"
+    ],
+    "examples": [
+      {
+        "zh": "我们都是老百姓。",
+        "es": "Todos somos gente común."
+      },
+      {
+        "zh": "老百姓的生活越来越好了。",
+        "es": "La vida de la gente común está cada vez mejor."
+      },
+      {
+        "zh": "东西太贵了，很多老百姓都买不起。",
+        "es": "Las cosas están tan caras que mucha gente común no puede comprarlas."
+      },
+      {
+        "zh": "政府应该多听听老百姓的意见。",
+        "es": "El gobierno debería escuchar más las opiniones del pueblo."
+      }
+    ]
+  },
+  {
+    "word": "乐队",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "banda (de música)",
+      "grupo musical",
+      "orquesta"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢这个乐队。",
+        "es": "Me gusta esta banda."
+      },
+      {
+        "zh": "他在一个乐队里唱歌。",
+        "es": "Él canta en una banda."
+      },
+      {
+        "zh": "我哥哥和朋友们成立了一个乐队。",
+        "es": "Mi hermano mayor y sus amigos formaron una banda."
+      },
+      {
+        "zh": "这个乐队明天晚上在体育馆有一场音乐会。",
+        "es": "Esta banda tiene un concierto mañana en la noche en el estadio."
+      }
+    ]
+  },
+  {
+    "word": "录音",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "grabar (sonido)",
+      "grabación (de audio)"
+    ],
+    "examples": [
+      {
+        "zh": "我可以录音吗？",
+        "es": "¿Puedo grabar?"
+      },
+      {
+        "zh": "这是一段录音。",
+        "es": "Esta es una grabación."
+      },
+      {
+        "zh": "老师让我们听课文的录音。",
+        "es": "El profesor nos pidió escuchar la grabación del texto."
+      },
+      {
+        "zh": "开会的时候，他用手机录音，回家再听一遍。",
+        "es": "Durante la reunión grabó con el celular para volver a escucharla en casa."
+      }
+    ]
+  },
+  {
+    "word": "难度",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "dificultad",
+      "nivel de dificultad",
+      "grado de dificultad"
+    ],
+    "examples": [
+      {
+        "zh": "这本书的难度不高。",
+        "es": "Este libro no es muy difícil."
+      },
+      {
+        "zh": "这个考试难度很大。",
+        "es": "Este examen tiene un nivel de dificultad muy alto."
+      },
+      {
+        "zh": "老师说下次考试会增加难度。",
+        "es": "El profesor dijo que el próximo examen será más difícil."
+      },
+      {
+        "zh": "这个游戏的难度越来越高，我已经玩不下去了。",
+        "es": "La dificultad de este juego sube cada vez más; ya no puedo seguir jugando."
+      }
+    ]
+  },
+  {
+    "word": "邮件",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "correo electrónico",
+      "correo",
+      "correspondencia"
+    ],
+    "examples": [
+      {
+        "zh": "我收到了你的邮件。",
+        "es": "Recibí tu correo."
+      },
+      {
+        "zh": "请给我发一封邮件。",
+        "es": "Por favor, mándame un correo."
+      },
+      {
+        "zh": "我每天早上先看邮件，然后开始工作。",
+        "es": "Todas las mañanas primero reviso el correo y luego empiezo a trabajar."
+      },
+      {
+        "zh": "如果有问题，可以发邮件给老师，他会马上回答。",
+        "es": "Si tienes alguna pregunta, puedes mandarle un correo al profesor; él responde enseguida."
+      }
+    ]
+  },
+  {
+    "word": "反复",
+    "cedict_reading_index": 1,
+    "meanings_es": [
+      "repetidamente",
+      "una y otra vez",
+      "inestable",
+      "recaer (una enfermedad)"
+    ],
+    "examples": [
+      {
+        "zh": "他反复看这本书。",
+        "es": "Él lee este libro una y otra vez."
+      },
+      {
+        "zh": "老师反复告诉我们要认真学习。",
+        "es": "El profesor nos repite una y otra vez que estudiemos en serio."
+      },
+      {
+        "zh": "我反复想了很久，还是决定去。",
+        "es": "Lo pensé una y otra vez durante mucho tiempo y al final decidí ir."
+      },
+      {
+        "zh": "他的病反复了好几次，医生说要多休息。",
+        "es": "Su enfermedad volvió varias veces; el médico dijo que debe descansar más."
+      }
+    ]
+  },
+  {
+    "word": "否定",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "negar",
+      "rechazar",
+      "negativo",
+      "negación"
+    ],
+    "examples": [
+      {
+        "zh": "她的回答是否定的。",
+        "es": "Su respuesta fue negativa."
+      },
+      {
+        "zh": "他否定了我的想法。",
+        "es": "Él rechazó mi idea."
+      },
+      {
+        "zh": "我们不能完全否定他的工作。",
+        "es": "No podemos descartar por completo su trabajo."
+      },
+      {
+        "zh": "公司否定了这个计划，因为需要的钱太多了。",
+        "es": "La empresa rechazó este plan porque requería demasiado dinero."
+      }
+    ]
+  },
+  {
+    "word": "光明",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "luz",
+      "brillante, prometedor (futuro)",
+      "claridad",
+      "franco, honesto"
+    ],
+    "examples": [
+      {
+        "zh": "我们的未来很光明。",
+        "es": "Nuestro futuro es muy prometedor."
+      },
+      {
+        "zh": "他给我们带来了光明。",
+        "es": "Él nos trajo luz."
+      },
+      {
+        "zh": "太阳出来了，整个城市充满了光明。",
+        "es": "Salió el sol y toda la ciudad se llenó de luz."
+      },
+      {
+        "zh": "只要你努力学习，未来一定是光明的。",
+        "es": "Si estudias con esfuerzo, tu futuro seguro será brillante."
+      }
+    ]
+  },
+  {
+    "word": "缺点",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "defecto",
+      "desventaja",
+      "punto débil"
+    ],
+    "examples": [
+      {
+        "zh": "每个人都有缺点。",
+        "es": "Todos tenemos defectos."
+      },
+      {
+        "zh": "你觉得我有什么缺点？",
+        "es": "¿Qué defectos crees que tengo?"
+      },
+      {
+        "zh": "这个房子的缺点是离公司太远。",
+        "es": "La desventaja de esta casa es que queda muy lejos de la empresa."
+      },
+      {
+        "zh": "他能看到自己的缺点，并且一直努力改变。",
+        "es": "Él reconoce sus defectos y siempre se esfuerza por cambiar."
+      }
+    ]
+  },
+  {
+    "word": "手续",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "trámite",
+      "procedimiento",
+      "papeleo"
+    ],
+    "examples": [
+      {
+        "zh": "手续很简单。",
+        "es": "El trámite es muy sencillo."
+      },
+      {
+        "zh": "办这个手续需要多长时间？",
+        "es": "¿Cuánto tiempo toma hacer este trámite?"
+      },
+      {
+        "zh": "出国以前，要办很多手续。",
+        "es": "Antes de salir del país hay que hacer muchos trámites."
+      },
+      {
+        "zh": "住院的手续很复杂，你最好让家人帮你办。",
+        "es": "Los trámites para internarse en el hospital son complicados; mejor pídele a tu familia que te ayude."
+      }
+    ]
+  },
+  {
+    "word": "跳舞",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "bailar"
+    ],
+    "examples": [
+      {
+        "zh": "我喜欢跳舞。",
+        "es": "Me gusta bailar."
+      },
+      {
+        "zh": "你会跳舞吗？",
+        "es": "¿Sabes bailar?"
+      },
+      {
+        "zh": "她每个星期六都去学跳舞。",
+        "es": "Todos los sábados ella va a aprender a bailar."
+      },
+      {
+        "zh": "晚会上，大家一边唱歌一边跳舞，非常开心。",
+        "es": "En la fiesta todos cantaban y bailaban; estaban muy contentos."
+      }
+    ]
+  },
+  {
+    "word": "缺",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "faltar",
+      "carecer de",
+      "escasear",
+      "vacante"
+    ],
+    "examples": [
+      {
+        "zh": "我们缺一个人。",
+        "es": "Nos falta una persona."
+      },
+      {
+        "zh": "这里很缺水。",
+        "es": "Aquí escasea mucho el agua."
+      },
+      {
+        "zh": "这本书缺了两页。",
+        "es": "A este libro le faltan dos páginas."
+      },
+      {
+        "zh": "公司现在很缺人，大家每天都忙到很晚。",
+        "es": "A la empresa le falta mucho personal, así que todos trabajan hasta tarde cada día."
+      }
+    ]
+  },
+  {
+    "word": "形状",
+    "cedict_reading_index": 0,
+    "meanings_es": [
+      "forma",
+      "figura"
+    ],
+    "examples": [
+      {
+        "zh": "这是什么形状？",
+        "es": "¿Qué forma es esta?"
+      },
+      {
+        "zh": "这个杯子的形状很好看。",
+        "es": "La forma de esta taza es muy bonita."
+      },
+      {
+        "zh": "这些石头的形状都不一样。",
+        "es": "Estas piedras tienen formas distintas."
+      },
+      {
+        "zh": "孩子们用纸做出了各种形状的动物。",
+        "es": "Los niños hicieron con papel animales de todo tipo de formas."
+      }
+    ]
+  }
+]

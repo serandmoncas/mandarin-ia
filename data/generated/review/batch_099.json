@@ -1,0 +1,164 @@
+[
+  {
+    "id": "word:试题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da51d40e50b5353d03d2045a1ffac59761f4a310"
+  },
+  {
+    "id": "word:长处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d9799c23e36a9509da7ffea2e0a0b31e15617df2"
+  },
+  {
+    "id": "word:初一",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e9f901b90f4428288cf54a8c5e5324c87fb67f2c"
+  },
+  {
+    "id": "word:银牌",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cbf255b43638737857a3a1093980073dd1bacff5"
+  },
+  {
+    "id": "word:外文",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0c701b4021a3091ccfef1b6975a0a667506f099c"
+  },
+  {
+    "id": "word:交费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a6014c3bdf291454d093bedf1ba47080429c7ed4"
+  },
+  {
+    "id": "word:奶茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6ef16b3bc4f43c9433c69514f4cd20ab40dd47c1"
+  },
+  {
+    "id": "word:暖和",
+    "ok": true,
+    "issues": [],
+    "content_hash": "177f71ef5ccd130f57b9f8601c1eac44d56aae38"
+  },
+  {
+    "id": "word:衬衣",
+    "ok": true,
+    "issues": [],
+    "content_hash": "15e096f329a71f70f37f41460e98570db2d08a9d"
+  },
+  {
+    "id": "word:绿茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "da8af296c5bc74239c7973863c4ab042d528f9b9"
+  },
+  {
+    "id": "word:复印",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b14be2c87aa968817a77f33ac32659948d29fe90"
+  },
+  {
+    "id": "word:做客",
+    "ok": true,
+    "issues": [],
+    "content_hash": "407d90c708d109edf6fc626240ca379f54546312"
+  },
+  {
+    "id": "word:白菜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5d284aaeaa0455fb1e67b2713845b2aa757d6e5c"
+  },
+  {
+    "id": "word:空儿",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente del 儿 en los ejemplos: en los ejemplos 2 y 4 aparece «kòng ér» con segundo tono, lo cual es incorrecto. Debe escribirse «kòngr» o «kòng er» (sin tono)."
+    ],
+    "content_hash": "d8857e3f0da5669ed683724f8cd781b3b6598dfa"
+  },
+  {
+    "id": "word:红茶",
+    "ok": true,
+    "issues": [],
+    "content_hash": "45374770f8d3b3792d4d9d5bc126cb70eb98ee5d"
+  },
+  {
+    "id": "word:理发",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f324be554c4e2f99920e931453bcd2ad6bc839d1"
+  },
+  {
+    "id": "word:连忙",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b7c725a502f58b5118124bfc8302d0297108197"
+  },
+  {
+    "id": "word:划船",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 玩得 es «wán de» (得 es partícula en tono neutro), no «wán dé»."
+    ],
+    "content_hash": "28220f63653b3c81b3f5b4aa092d4054fbd9b34e"
+  },
+  {
+    "id": "word:书架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ca36eb3dcfe92a819b1e4d6f810b6c38ee1923c1"
+  },
+  {
+    "id": "word:皮包",
+    "ok": true,
+    "issues": [],
+    "content_hash": "3a1bd0d7d4f2cb80ec364c7c067ccb575bfd7fff"
+  },
+  {
+    "id": "word:短处",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 做得 es «zuò de» (得 es partícula en tono neutro), no «zuò dé»."
+    ],
+    "content_hash": "3d3bd7ce857b42d34349d5465f835410c965cd9f"
+  },
+  {
+    "id": "word:凉水",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f4df72dfaaf6bfd77e14fea995a2e9144be0edd4"
+  },
+  {
+    "id": "word:衣架",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fc885f13964c5ba5541bba452d3ddba2bfd1e1c0"
+  },
+  {
+    "id": "word:预习",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: «repasar» traduce 复习, no 预习. Debería decir «estudiar de antemano» o «preparar el vocabulario nuevo»."
+    ],
+    "content_hash": "ae8394154bd581986905d400f3899baabe39a168"
+  },
+  {
+    "id": "word:老头儿",
+    "ok": false,
+    "issues": [
+      "老头儿 es coloquial y puede sonar poco respetuoso; «viejito» lo suaviza demasiado. Convendría añadir una nota de registro.",
+      "Ejemplo 1: referirse al propio abuelo como «那个老头儿» suena irrespetuoso o raro; es más natural «那位老人是我爷爷».",
+      "El pinyin de los ejemplos («lǎo tou er») no coincide con el del encabezado (lao3 tou2 r5); conviene unificarlo, por ejemplo como «lǎotóur»."
+    ],
+    "content_hash": "7813c73d35f1b2fcee6b05e8c376da1e66df7c0d"
+  }
+]

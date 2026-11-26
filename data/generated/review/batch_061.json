@@ -1,0 +1,162 @@
+[
+  {
+    "id": "word:河",
+    "ok": true,
+    "issues": [],
+    "content_hash": "75d5d06172af68f94c6ae56a0b461f04f787fd82"
+  },
+  {
+    "id": "word:成长",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 1: el complemento 得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "946c05574c326f33a34ec62a7c442c7822eab522"
+  },
+  {
+    "id": "word:旅行",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: el complemento 得 se lee «de» (tono neutro), no «dé»."
+    ],
+    "content_hash": "4e7b8f088213ee60863913b6fb7fb5dbe197aeb9"
+  },
+  {
+    "id": "word:发出",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d80f4ebd818c228e15931c5bd37246f000487948"
+  },
+  {
+    "id": "word:满意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f47951526ed25de584c4c48cfbcfee4b9add6c1"
+  },
+  {
+    "id": "word:合法",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c96c5c88ded5bdaaead8c9d0e2ac551c18c3f300"
+  },
+  {
+    "id": "word:校长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f003127ede0c62d632135a721adc8d9305d36e06"
+  },
+  {
+    "id": "word:对话",
+    "ok": true,
+    "issues": [],
+    "content_hash": "16533d76b039c3917a5210af809bef49d967d09d"
+  },
+  {
+    "id": "word:接着",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ae37aea84967475829bbbcecf093c7d260836be4"
+  },
+  {
+    "id": "word:适合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d3212214ea2d7ef79ca2ebdfacd1060b89eea14a"
+  },
+  {
+    "id": "word:猫",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: el clasificador 只 se lee «zhī», no «zhǐ»."
+    ],
+    "content_hash": "44c7480aaf62365e54c20c33ecc3eb1e9a8c3453"
+  },
+  {
+    "id": "word:校园",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b5b758e9a1affc3b8b002b77fa624db873794581"
+  },
+  {
+    "id": "word:地铁",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2e813e106864b6dd9a0597f62ba690be4bc180c2"
+  },
+  {
+    "id": "word:好处",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c992bb9cb95e96fe89921bea6105d6e0899ba13e"
+  },
+  {
+    "id": "word:传",
+    "ok": true,
+    "issues": [],
+    "content_hash": "385690fa521be02ef71be9ab3c625944b47c2c0a"
+  },
+  {
+    "id": "word:流行",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4fbfc068c793a86ddf000233ec75ecb1db3fbfbf"
+  },
+  {
+    "id": "word:那时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "80d9a39f8992a33436358e4fd5adf9a484f4940c"
+  },
+  {
+    "id": "word:题",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c4d3e793303dd1ed9661295f1b084a8a1464ceb1"
+  },
+  {
+    "id": "word:旧",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7398da4f15ab3c66e1f24b2def066b03916c83bf"
+  },
+  {
+    "id": "word:腿",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d931e73660311a7559495416167244cb4fd6a325"
+  },
+  {
+    "id": "word:快速",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: la partícula adverbial 地 se lee «de» (tono neutro), no «dì»."
+    ],
+    "content_hash": "322e7eb13a1923421de2cd7a297d4586429ec4c2"
+  },
+  {
+    "id": "word:药",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f791667e6ad7cd16f37434b39d07588444a008e3"
+  },
+  {
+    "id": "word:男子",
+    "ok": false,
+    "issues": [
+      "Pinyin de los ejemplos: 男子 se lee «nán zǐ» (tercer tono, como en la entrada), no «nán zi» con tono neutro."
+    ],
+    "content_hash": "bcc434fb44d15c9aa74b67e9339c0076199af545"
+  },
+  {
+    "id": "word:不满",
+    "ok": true,
+    "issues": [],
+    "content_hash": "78852c80bef7bb180a63e820684f9ceba26a456f"
+  },
+  {
+    "id": "word:特色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "60f1b65f3b1dc402a926398769aef23103b0d158"
+  }
+]

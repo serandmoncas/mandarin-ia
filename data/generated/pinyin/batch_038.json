@@ -1,0 +1,422 @@
+[
+  {
+    "word": "月",
+    "examples": [
+      {
+        "zh": "今天是五月一号。",
+        "pinyin": "jin1 tian1 shi4 wu3 yue4 yi1 hao4"
+      },
+      {
+        "zh": "这个月我很忙。",
+        "pinyin": "zhe4 ge4 yue4 wo3 hen3 mang2"
+      },
+      {
+        "zh": "今天晚上的月亮很大。",
+        "pinyin": "jin1 tian1 wan3 shang5 de5 yue4 liang5 hen3 da4"
+      },
+      {
+        "zh": "我每个月都给家人打电话。",
+        "pinyin": "wo3 mei3 ge4 yue4 dou1 gei3 jia1 ren2 da3 dian4 hua4"
+      }
+    ]
+  },
+  {
+    "word": "日",
+    "examples": [
+      {
+        "zh": "今天是五月一日。",
+        "pinyin": "jin1 tian1 shi4 wu3 yue4 yi1 ri4"
+      },
+      {
+        "zh": "我的生日是十月三日。",
+        "pinyin": "wo3 de5 sheng1 ri4 shi4 shi2 yue4 san1 ri4"
+      },
+      {
+        "zh": "我们一起去看日出吧。",
+        "pinyin": "wo3 men5 yi1 qi3 qu4 kan4 ri4 chu1 ba5"
+      },
+      {
+        "zh": "中国的国庆节是十月一日。",
+        "pinyin": "zhong1 guo2 de5 guo2 qing4 jie2 shi4 shi2 yue4 yi1 ri4"
+      }
+    ]
+  },
+  {
+    "word": "之",
+    "examples": [
+      {
+        "zh": "一个月之后，他来了。",
+        "pinyin": "yi1 ge4 yue4 zhi1 hou4 ta1 lai2 le5"
+      },
+      {
+        "zh": "他是我的好朋友之一。",
+        "pinyin": "ta1 shi4 wo3 de5 hao3 peng2 you5 zhi1 yi1"
+      },
+      {
+        "zh": "三分之一的人没有来。",
+        "pinyin": "san1 fen1 zhi1 yi1 de5 ren2 mei2 you3 lai2"
+      },
+      {
+        "zh": "我来中国之前不会说中文。",
+        "pinyin": "wo3 lai2 zhong1 guo2 zhi1 qian2 bu4 hui4 shuo1 zhong1 wen2"
+      }
+    ]
+  },
+  {
+    "word": "其",
+    "examples": [
+      {
+        "zh": "这样做有其好处。",
+        "pinyin": "zhe4 yang4 zuo4 you3 qi2 hao3 chu5"
+      },
+      {
+        "zh": "我们有三个问题，其中一个很大。",
+        "pinyin": "wo3 men5 you3 san1 ge4 wen4 ti2 qi2 zhong1 yi1 ge4 hen3 da4"
+      },
+      {
+        "zh": "这个地方很小，政府想使其快点发展。",
+        "pinyin": "zhe4 ge4 di4 fang5 hen3 xiao3 zheng4 fu3 xiang3 shi3 qi2 kuai4 dian3 fa1 zhan3"
+      },
+      {
+        "zh": "这家公司因其新的工作方法而很有名。",
+        "pinyin": "zhe4 jia1 gong1 si1 yin1 qi2 xin1 de5 gong1 zuo4 fang1 fa3 er2 hen3 you3 ming2"
+      }
+    ]
+  },
+  {
+    "word": "只",
+    "examples": [
+      {
+        "zh": "我只有一个。",
+        "pinyin": "wo3 zhi3 you3 yi1 ge4"
+      },
+      {
+        "zh": "我只想睡觉。",
+        "pinyin": "wo3 zhi3 xiang3 shui4 jiao4"
+      },
+      {
+        "zh": "这个地方只有三个人。",
+        "pinyin": "zhe4 ge4 di4 fang5 zhi3 you3 san1 ge4 ren2"
+      },
+      {
+        "zh": "我只知道他在北京工作，别的都不知道。",
+        "pinyin": "wo3 zhi3 zhi1 dao5 ta1 zai4 bei3 jing1 gong1 zuo4 bie2 de5 dou1 bu4 zhi1 dao5"
+      }
+    ]
+  },
+  {
+    "word": "历史",
+    "examples": [
+      {
+        "zh": "我喜欢历史。",
+        "pinyin": "wo3 xi3 huan5 li4 shi3"
+      },
+      {
+        "zh": "北京的历史很长。",
+        "pinyin": "bei3 jing1 de5 li4 shi3 hen3 chang2"
+      },
+      {
+        "zh": "他在大学学习历史。",
+        "pinyin": "ta1 zai4 da4 xue2 xue2 xi2 li4 shi3"
+      },
+      {
+        "zh": "这个电影让我知道了很多中国历史。",
+        "pinyin": "zhe4 ge4 dian4 ying3 rang4 wo3 zhi1 dao5 le5 hen3 duo1 zhong1 guo2 li4 shi3"
+      }
+    ]
+  },
+  {
+    "word": "其他",
+    "examples": [
+      {
+        "zh": "还有其他问题吗？",
+        "pinyin": "hai2 you3 qi2 ta1 wen4 ti2 ma5"
+      },
+      {
+        "zh": "其他人都走了。",
+        "pinyin": "qi2 ta1 ren2 dou1 zou3 le5"
+      },
+      {
+        "zh": "我不喜欢这个，有其他的吗？",
+        "pinyin": "wo3 bu4 xi3 huan5 zhe4 ge4 you3 qi2 ta1 de5 ma5"
+      },
+      {
+        "zh": "除了北京，你还去过中国其他地方吗？",
+        "pinyin": "chu2 le5 bei3 jing1 ni3 hai2 qu4 guo5 zhong1 guo2 qi2 ta1 di4 fang5 ma5"
+      }
+    ]
+  },
+  {
+    "word": "为什么",
+    "examples": [
+      {
+        "zh": "为什么？",
+        "pinyin": "wei4 shen2 me5"
+      },
+      {
+        "zh": "你为什么不来？",
+        "pinyin": "ni3 wei4 shen2 me5 bu4 lai2"
+      },
+      {
+        "zh": "他为什么没有来学校？",
+        "pinyin": "ta1 wei4 shen2 me5 mei2 you3 lai2 xue2 xiao4"
+      },
+      {
+        "zh": "我不知道她为什么不喜欢这个地方。",
+        "pinyin": "wo3 bu4 zhi1 dao5 ta1 wei4 shen2 me5 bu4 xi3 huan5 zhe4 ge4 di4 fang5"
+      }
+    ]
+  },
+  {
+    "word": "正在",
+    "examples": [
+      {
+        "zh": "我正在吃饭。",
+        "pinyin": "wo3 zheng4 zai4 chi1 fan4"
+      },
+      {
+        "zh": "他正在看电影。",
+        "pinyin": "ta1 zheng4 zai4 kan4 dian4 ying3"
+      },
+      {
+        "zh": "你打电话的时候，我正在写东西。",
+        "pinyin": "ni3 da3 dian4 hua4 de5 shi2 hou5 wo3 zheng4 zai4 xie3 dong1 xi5"
+      },
+      {
+        "zh": "政府正在准备一个新的发展计划。",
+        "pinyin": "zheng4 fu3 zheng4 zai4 zhun3 bei4 yi1 ge4 xin1 de5 fa1 zhan3 ji4 hua4"
+      }
+    ]
+  },
+  {
+    "word": "其中",
+    "examples": [
+      {
+        "zh": "我有三个朋友，其中一个是日本人。",
+        "pinyin": "wo3 you3 san1 ge4 peng2 you5 qi2 zhong1 yi1 ge4 shi4 ri4 ben3 ren2"
+      },
+      {
+        "zh": "我买了很多东西，其中有一些是给你的。",
+        "pinyin": "wo3 mai3 le5 hen3 duo1 dong1 xi5 qi2 zhong1 you3 yi1 xie1 shi4 gei3 ni3 de5"
+      },
+      {
+        "zh": "今天来了很多人，其中有我的老朋友。",
+        "pinyin": "jin1 tian1 lai2 le5 hen3 duo1 ren2 qi2 zhong1 you3 wo3 de5 lao3 peng2 you5"
+      },
+      {
+        "zh": "中国有很多地区，其中有些地方的经济发展很快。",
+        "pinyin": "zhong1 guo2 you3 hen3 duo1 di4 qu1 qi2 zhong1 you3 xie1 di4 fang5 de5 jing1 ji4 fa1 zhan3 hen3 kuai4"
+      }
+    ]
+  },
+  {
+    "word": "有些",
+    "examples": [
+      {
+        "zh": "我今天有些累。",
+        "pinyin": "wo3 jin1 tian1 you3 xie1 lei4"
+      },
+      {
+        "zh": "有些人喜欢吃中国菜。",
+        "pinyin": "you3 xie1 ren2 xi3 huan5 chi1 zhong1 guo2 cai4"
+      },
+      {
+        "zh": "有些问题我们现在不能回答。",
+        "pinyin": "you3 xie1 wen4 ti2 wo3 men5 xian4 zai4 bu4 neng2 hui2 da2"
+      },
+      {
+        "zh": "这个计划有些地方还需要再想想。",
+        "pinyin": "zhe4 ge4 ji4 hua4 you3 xie1 di4 fang5 hai2 xu1 yao4 zai4 xiang3 xiang5"
+      }
+    ]
+  },
+  {
+    "word": "文化",
+    "examples": [
+      {
+        "zh": "我喜欢中国文化。",
+        "pinyin": "wo3 xi3 huan5 zhong1 guo2 wen2 hua4"
+      },
+      {
+        "zh": "每个国家都有自己的文化。",
+        "pinyin": "mei3 ge4 guo2 jia1 dou1 you3 zi4 ji3 de5 wen2 hua4"
+      },
+      {
+        "zh": "学习一个国家的文化需要很长时间。",
+        "pinyin": "xue2 xi2 yi1 ge4 guo2 jia1 de5 wen2 hua4 xu1 yao4 hen3 chang2 shi2 jian1"
+      },
+      {
+        "zh": "这个活动让更多人知道了香港的文化和历史。",
+        "pinyin": "zhe4 ge4 huo2 dong4 rang4 geng4 duo1 ren2 zhi1 dao5 le5 xiang1 gang3 de5 wen2 hua4 he2 li4 shi3"
+      }
+    ]
+  },
+  {
+    "word": "多少",
+    "examples": [
+      {
+        "zh": "这个多少钱？",
+        "pinyin": "zhe4 ge4 duo1 shao3 qian2"
+      },
+      {
+        "zh": "你们学校有多少学生？",
+        "pinyin": "ni3 men5 xue2 xiao4 you3 duo1 shao3 xue2 sheng5"
+      },
+      {
+        "zh": "你的电话号码是多少？",
+        "pinyin": "ni3 de5 dian4 hua4 hao4 ma3 shi4 duo1 shao3"
+      },
+      {
+        "zh": "你知道从北京到香港要多少个小时吗？",
+        "pinyin": "ni3 zhi1 dao5 cong2 bei3 jing1 dao4 xiang1 gang3 yao4 duo1 shao3 ge4 xiao3 shi2 ma5"
+      }
+    ]
+  },
+  {
+    "word": "那么",
+    "examples": [
+      {
+        "zh": "那么，我们走吧。",
+        "pinyin": "na4 me5 wo3 men5 zou3 ba5"
+      },
+      {
+        "zh": "他没有你那么高。",
+        "pinyin": "ta1 mei2 you3 ni3 na4 me5 gao1"
+      },
+      {
+        "zh": "你为什么要那么做？",
+        "pinyin": "ni3 wei4 shen2 me5 yao4 na4 me5 zuo4"
+      },
+      {
+        "zh": "如果你真的那么喜欢他，那么就告诉他吧。",
+        "pinyin": "ru2 guo3 ni3 zhen1 de5 na4 me5 xi3 huan5 ta1 na4 me5 jiu4 gao4 su5 ta1 ba5"
+      }
+    ]
+  },
+  {
+    "word": "路",
+    "examples": [
+      {
+        "zh": "这条路很长。",
+        "pinyin": "zhe4 tiao2 lu4 hen3 chang2"
+      },
+      {
+        "zh": "我在路上了。",
+        "pinyin": "wo3 zai4 lu4 shang5 le5"
+      },
+      {
+        "zh": "你知道去北京的路吗？",
+        "pinyin": "ni3 zhi1 dao5 qu4 bei3 jing1 de5 lu4 ma5"
+      },
+      {
+        "zh": "他走了很长的路才到学校。",
+        "pinyin": "ta1 zou3 le5 hen3 chang2 de5 lu4 cai2 dao4 xue2 xiao4"
+      }
+    ]
+  },
+  {
+    "word": "万",
+    "examples": [
+      {
+        "zh": "我有一万元。",
+        "pinyin": "wo3 you3 yi1 wan4 yuan2"
+      },
+      {
+        "zh": "这个手机要两万元。",
+        "pinyin": "zhe4 ge4 shou3 ji1 yao4 liang3 wan4 yuan2"
+      },
+      {
+        "zh": "这个大学有三万多个学生。",
+        "pinyin": "zhe4 ge4 da4 xue2 you3 san1 wan4 duo1 ge4 xue2 sheng5"
+      },
+      {
+        "zh": "为了买这个房子，他们准备了五十万元。",
+        "pinyin": "wei4 le5 mai3 zhe4 ge4 fang2 zi5 ta1 men5 zhun3 bei4 le5 wu3 shi2 wan4 yuan2"
+      }
+    ]
+  },
+  {
+    "word": "住",
+    "examples": [
+      {
+        "zh": "你住在哪里？",
+        "pinyin": "ni3 zhu4 zai4 na3 li5"
+      },
+      {
+        "zh": "我住在北京。",
+        "pinyin": "wo3 zhu4 zai4 bei3 jing1"
+      },
+      {
+        "zh": "他们在朋友家住了三天。",
+        "pinyin": "ta1 men5 zai4 peng2 you5 jia1 zhu4 le5 san1 tian1"
+      },
+      {
+        "zh": "这个东西太大了，孩子拿不住。",
+        "pinyin": "zhe4 ge4 dong1 xi5 tai4 da4 le5 hai2 zi5 na2 bu5 zhu4"
+      }
+    ]
+  },
+  {
+    "word": "别",
+    "examples": [
+      {
+        "zh": "别走！",
+        "pinyin": "bie2 zou3"
+      },
+      {
+        "zh": "你别告诉他。",
+        "pinyin": "ni3 bie2 gao4 su5 ta1"
+      },
+      {
+        "zh": "这个不好，我们看看别的吧。",
+        "pinyin": "zhe4 ge4 bu4 hao3 wo3 men5 kan4 kan5 bie2 de5 ba5"
+      },
+      {
+        "zh": "现在别去，那里人太多了。",
+        "pinyin": "xian4 zai4 bie2 qu4 na4 li5 ren2 tai4 duo1 le5"
+      }
+    ]
+  },
+  {
+    "word": "回",
+    "examples": [
+      {
+        "zh": "我要回家了。",
+        "pinyin": "wo3 yao4 hui2 jia1 le5"
+      },
+      {
+        "zh": "他什么时候回来？",
+        "pinyin": "ta1 shen2 me5 shi2 hou5 hui2 lai5"
+      },
+      {
+        "zh": "你给他回电话了吗？",
+        "pinyin": "ni3 gei3 ta1 hui2 dian4 hua4 le5 ma5"
+      },
+      {
+        "zh": "这个电影我已经看过两回了。",
+        "pinyin": "zhe4 ge4 dian4 ying3 wo3 yi3 jing1 kan4 guo5 liang3 hui2 le5"
+      }
+    ]
+  },
+  {
+    "word": "只是",
+    "examples": [
+      {
+        "zh": "我只是问问。",
+        "pinyin": "wo3 zhi3 shi4 wen4 wen5"
+      },
+      {
+        "zh": "他不是老师，只是学生。",
+        "pinyin": "ta1 bu4 shi4 lao3 shi1 zhi3 shi4 xue2 sheng5"
+      },
+      {
+        "zh": "这个手机很好，只是太贵了。",
+        "pinyin": "zhe4 ge4 shou3 ji1 hen3 hao3 zhi3 shi4 tai4 gui4 le5"
+      },
+      {
+        "zh": "我很想去，只是今天没有时间。",
+        "pinyin": "wo3 hen3 xiang3 qu4 zhi3 shi4 jin1 tian1 mei2 you3 shi2 jian1"
+      }
+    ]
+  }
+]

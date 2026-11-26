@@ -1,0 +1,161 @@
+[
+  {
+    "id": "word:顾客",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f1f6f50511c28772772cd18275d8288d662f4ed"
+  },
+  {
+    "id": "word:句",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ae2847dfcbb287bebef7548b1b85a0dff377ef9"
+  },
+  {
+    "id": "word:村",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1ee32c376629d8e14c7a7563174e9e1f2167fa7b"
+  },
+  {
+    "id": "word:蓝",
+    "ok": true,
+    "issues": [],
+    "content_hash": "bf7426434cd1653cf10aea321f3a0023ce2e9610"
+  },
+  {
+    "id": "word:对象",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4b3fe11a899e2d388652276640719875d8e398f4"
+  },
+  {
+    "id": "word:感受",
+    "ok": true,
+    "issues": [],
+    "content_hash": "345b6974ab687df754e12f27cea8c40720502dbe"
+  },
+  {
+    "id": "word:难过",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 得 como complemento de grado es \"de\" (tono neutro), no \"dé\".",
+      "Pinyin del ejemplo 4: 长 en 很长时间 se lee \"cháng\", no \"zhǎng\"."
+    ],
+    "content_hash": "63145f91cb2609fafbce18fc225bd7380d55a4b3"
+  },
+  {
+    "id": "word:光",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 4: 得 en 你得马上开始 significa 'tener que' y se lee \"děi\", no \"dé\"."
+    ],
+    "content_hash": "f1fa00963f67027759a21c15e87f5243cdb794d4"
+  },
+  {
+    "id": "word:白色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "b68f33f42251764acb4f81170fae563e88c1fa95"
+  },
+  {
+    "id": "word:害怕",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fd7044f775b49fdfdcdd6fba63e5bd34ffa37bfb"
+  },
+  {
+    "id": "word:长大",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c8f962a0c3850d1ad11df9969e2f14cd016da241"
+  },
+  {
+    "id": "word:今后",
+    "ok": true,
+    "issues": [],
+    "content_hash": "13b76637fd5acc7557a284a08d5d5eb4ad6ac460"
+  },
+  {
+    "id": "word:优势",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8df1bff60b37e09108abf5a60afd746ef6fc9fd6"
+  },
+  {
+    "id": "word:商人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "372ca90a079efad97c2e6141e64e6738e2a16860"
+  },
+  {
+    "id": "word:月份",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2 poco natural: un nativo diría 这个月天气很热; 月份 no se usa así para referirse al mes en curso."
+    ],
+    "content_hash": "2c09a11b9533a1f6d56c31c69c101adc66dd0e00"
+  },
+  {
+    "id": "word:化",
+    "ok": true,
+    "issues": [],
+    "content_hash": "76d0bbfe9214f28118d8ebe04da67d32ccab4092"
+  },
+  {
+    "id": "word:背",
+    "ok": true,
+    "issues": [],
+    "content_hash": "cf20ed1f7d04a5bd50dd4d36c24ea0e8153dfac7"
+  },
+  {
+    "id": "word:便宜",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: 一点儿 se escribe \"yì diǎnr\" (儿 como sufijo de erhua), no \"yì diǎn ér\"."
+    ],
+    "content_hash": "656da1f479c6b619c95019c6f1cc07cf17afd325"
+  },
+  {
+    "id": "word:救",
+    "ok": true,
+    "issues": [],
+    "content_hash": "7d8718c2fa60a02c3ecd2d4d75c2221ee8d2d876"
+  },
+  {
+    "id": "word:好多",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5ca74b2d38976036b679a663b50bae4ff6c83801"
+  },
+  {
+    "id": "word:路线",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a09e50cfda1846757a9b6a87576dad30f5e04405"
+  },
+  {
+    "id": "word:举",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4817147f2f58e93a6e16b2902c1d53bac40aa75c"
+  },
+  {
+    "id": "word:排",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9a0fe5b929300f5339c886a5a9390f5e1206cb4e"
+  },
+  {
+    "id": "word:平时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "81df434142b846290a1e278b971c3520d94cbd94"
+  },
+  {
+    "id": "word:证据",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a071cbf0bc51a8c71e63fb8bc20a92e38a70403f"
+  }
+]

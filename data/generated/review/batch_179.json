@@ -1,0 +1,164 @@
+[
+  {
+    "id": "word:喊",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f080eedceaeb3632bd5213f9094fc317b3f42b31"
+  },
+  {
+    "id": "word:消费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96eae2a0fbe41857d81f8d4272584a4bfcbbc4b6"
+  },
+  {
+    "id": "word:队长",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9087fbeab25fa9071ce5c51b053fa7142eaa86de"
+  },
+  {
+    "id": "word:千",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 一千 se pronuncia «yì qiān» por sandhi tonal. Los demás ejemplos del conjunto sí marcan el sandhi (yí gè, yì zhāng)."
+    ],
+    "content_hash": "e83fdfe573a9a592a01a75f02af315f9b339f55c"
+  },
+  {
+    "id": "word:纪念",
+    "ok": false,
+    "issues": [
+      "El significado «aniversario» no corresponde a 纪念 sola, sino a 纪念日 o a 周年纪念. Puede confundir al estudiante."
+    ],
+    "content_hash": "e8014dc16ef59d8cdfbebed2bd29dd4e010e5d5b"
+  },
+  {
+    "id": "word:故意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c094290341ae87ed240d7dd328f076fe6cc383f7"
+  },
+  {
+    "id": "word:黄色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "6db001d1790dac051e7af04248af555dc6d79d59"
+  },
+  {
+    "id": "word:修改",
+    "ok": true,
+    "issues": [],
+    "content_hash": "522cf9e8c77f04761c6eb9df784d3d0e9558058a"
+  },
+  {
+    "id": "word:参观",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8fc67c64737de304897922c51600b06ec660a483"
+  },
+  {
+    "id": "word:蛋",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ffb1645034e3cee9455f127488c8769b18b0a2e"
+  },
+  {
+    "id": "word:花园",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 3: 玩儿 debe escribirse «wánr», sin separar la «r»."
+    ],
+    "content_hash": "8d469eea854cd1e803e9473a6c46410336350c00"
+  },
+  {
+    "id": "word:纸",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ca6c8c308f4f4354694f2e87d39f6108d41bac1"
+  },
+  {
+    "id": "word:笔",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d332e48bdcff1a60097f77926bd1587583ba984"
+  },
+  {
+    "id": "word:感动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2d193cd67cbce02c9d60b9fb140654236569d9da"
+  },
+  {
+    "id": "word:接到",
+    "ok": false,
+    "issues": [
+      "El significado «ir a buscar (a alguien)» corresponde a 接. 接到 indica el resultado: lograr recoger o encontrarse con alguien. Sería más preciso «recoger (a alguien, con éxito)»."
+    ],
+    "content_hash": "3c2adeac9857036fccc32f8c1377004c273925c5"
+  },
+  {
+    "id": "word:形象",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec9d912f235ac8993c3cb50ec07acc40e8d79743"
+  },
+  {
+    "id": "word:正好",
+    "ok": false,
+    "issues": [
+      "Ejemplo 3: «Justo yo también voy a Beijing» es poco natural y puede entenderse como «precisamente yo». Mejor: «Da la casualidad de que yo también voy a Beijing»."
+    ],
+    "content_hash": "277efe312464e7aa547780c87803b8bde8f05fe9"
+  },
+  {
+    "id": "word:比例",
+    "ok": false,
+    "issues": [
+      "Pinyin del ejemplo 2: en proporciones y cifras, 一比一 se lee «yī bǐ yī», sin sandhi; aparece como «yì bǐ yī»."
+    ],
+    "content_hash": "4b70728c825d7b99b4d761f49211a97afcf80144"
+  },
+  {
+    "id": "word:发动",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9053c8771e27232118aa8ae975048baea274dca9"
+  },
+  {
+    "id": "word:眼",
+    "ok": true,
+    "issues": [],
+    "content_hash": "688a8874ae6be8762060176fe67f45d4fa0bca54"
+  },
+  {
+    "id": "word:练",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4ce37d1f6dc3d7c7bdeb7cd03cdc6a9d308ae8fa"
+  },
+  {
+    "id": "word:规范",
+    "ok": true,
+    "issues": [],
+    "content_hash": "469240e60b7915037eb0428367ad06cdffde3e92"
+  },
+  {
+    "id": "word:太太",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8efb5b2c522311bad599a920479a2e4a14545abd"
+  },
+  {
+    "id": "word:好好",
+    "ok": true,
+    "issues": [],
+    "content_hash": "abe28717536c6ca2899e43197913f6d3924d3218"
+  },
+  {
+    "id": "word:合",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2cac39da004c37ad4c3d5e7179e0b0154a888e18"
+  }
+]

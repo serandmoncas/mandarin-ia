@@ -1,0 +1,156 @@
+[
+  {
+    "id": "word:便宜",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0ef3dd5addd164f0b8f5aa1415cc3eb630364343"
+  },
+  {
+    "id": "word:救",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e0e5e2351237b9710c40658f361a6d8bf37885a6"
+  },
+  {
+    "id": "word:路线",
+    "ok": true,
+    "issues": [],
+    "content_hash": "758704d0661d2d86f7a6d069d8be156c05245324"
+  },
+  {
+    "id": "word:举",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1175700afb2dee013830ababaa0bb21ec4b38e46"
+  },
+  {
+    "id": "word:排",
+    "ok": true,
+    "issues": [],
+    "content_hash": "ec3e5654343cba6968201580fcc71feb1cb912b8"
+  },
+  {
+    "id": "word:平时",
+    "ok": true,
+    "issues": [],
+    "content_hash": "13e12704c119e4ae12e28eaddab94c3b0c3ba1f7"
+  },
+  {
+    "id": "word:大人",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af39199ad7a991ffd35fd71ff318ee5d632e826f"
+  },
+  {
+    "id": "word:超级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "530184c9a17c654821b268853dc253c2c0d50fa1"
+  },
+  {
+    "id": "word:舒服",
+    "ok": true,
+    "issues": [],
+    "content_hash": "272039eaa92b141c1f4c28930fe3954570d969ad"
+  },
+  {
+    "id": "word:北方",
+    "ok": false,
+    "issues": [
+      "Pinyin incorrecto en el ejemplo 3: 面条儿 lleva erhua y debe escribirse «miàn tiáor», no «miàn tiáo ér»."
+    ],
+    "content_hash": "76695b6252ff04492294ea77078514c857647164"
+  },
+  {
+    "id": "word:课程",
+    "ok": true,
+    "issues": [],
+    "content_hash": "042170238bc07bd669aced2c34ed6fd9e40c0ce2"
+  },
+  {
+    "id": "word:碰",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a009060e8e594b82a9ad72066f517a5e2e8ca2a0"
+  },
+  {
+    "id": "word:骑",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1171295f539509d0712599ff0478c0e82f4457a1"
+  },
+  {
+    "id": "word:文字",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a86fbfa4414a865d88d1fa021a44c515d8fe70f2"
+  },
+  {
+    "id": "word:消费",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1f10015eb4a87ae83b6914ff2e799e65fc822a0c"
+  },
+  {
+    "id": "word:青少年",
+    "ok": true,
+    "issues": [],
+    "content_hash": "2286c7c112f83b284e3c89f34ed68783c99c2208"
+  },
+  {
+    "id": "word:千",
+    "ok": false,
+    "issues": [
+      "Pinyin inconsistente en el ejemplo 3: 一千 aparece como «yī qiān», sin el cambio de tono que se aplica en el resto de los ejemplos (yí ge, yì diǎnr). Debe ser «yì qiān»."
+    ],
+    "content_hash": "84da3f85b41c6ae1d1fe670f33342ff91f162e4c"
+  },
+  {
+    "id": "word:集中",
+    "ok": true,
+    "issues": [],
+    "content_hash": "408088bfb777a5791e6b2640432bd1442bf8a325"
+  },
+  {
+    "id": "word:送给",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1dd28744f1c5efa293f88fd42105c5a7007242f8"
+  },
+  {
+    "id": "word:紧张",
+    "ok": true,
+    "issues": [],
+    "content_hash": "459d485bb5c393440e505cec686aa4a5d4fc3ef0"
+  },
+  {
+    "id": "word:故意",
+    "ok": true,
+    "issues": [],
+    "content_hash": "af905374ae7d476e13d6b52c5663b6e26cea33d4"
+  },
+  {
+    "id": "word:黄色",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d62c6f0c93c7448e22e3b7123098bf094a999f06"
+  },
+  {
+    "id": "word:入口",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a1bacdeb8479d7af77312f2620520e1d24265000"
+  },
+  {
+    "id": "word:修改",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8f29aa855ca35b8dc2426bec2c9181941dc63cc9"
+  },
+  {
+    "id": "word:自身",
+    "ok": true,
+    "issues": [],
+    "content_hash": "5c2ad55fb8891406808cfe85f986ab293434f82f"
+  }
+]

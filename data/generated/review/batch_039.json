@@ -1,0 +1,164 @@
+[
+  {
+    "id": "word:以为",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f9c8316755932840ca99969325e7fe09bb6214d8"
+  },
+  {
+    "id": "word:意思",
+    "ok": true,
+    "issues": [],
+    "content_hash": "d28acc24344554f59d4608358a2b934598245e0b"
+  },
+  {
+    "id": "word:搞",
+    "ok": true,
+    "issues": [],
+    "content_hash": "985047323cc4d97eb8cc79d752b7429a50ff9bd4"
+  },
+  {
+    "id": "word:共同",
+    "ok": true,
+    "issues": [],
+    "content_hash": "96c964eb270142b7c50d9f26b567d03386d8e793"
+  },
+  {
+    "id": "word:级",
+    "ok": true,
+    "issues": [],
+    "content_hash": "40ac4f0c7178224df00a93aa53856d7038d28520"
+  },
+  {
+    "id": "word:类",
+    "ok": false,
+    "issues": [
+      "Ejemplo 2: falta de concordancia en español; el sujeto es «este tipo», así que debe decir «Me gusta mucho este tipo de películas»."
+    ],
+    "content_hash": "3321ac7b9d0a832c3d3e74d8fd0d8d4016b10f18"
+  },
+  {
+    "id": "word:力量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "04e8c868e86bbef60161991fbf4b902cba37b862"
+  },
+  {
+    "id": "word:例如",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: el pinyin de 和 aparece como «huó»; en este uso es «hé»."
+    ],
+    "content_hash": "f62040339c98fb59e44074204b61f6d6a3a08dbb"
+  },
+  {
+    "id": "word:旅游",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 得 aparece como «dé»; aquí es partícula y debe ser «de» (tono neutro)."
+    ],
+    "content_hash": "ee17c480007bc368b1dffd33b52a0a6bbb15e356"
+  },
+  {
+    "id": "word:民族",
+    "ok": true,
+    "issues": [],
+    "content_hash": "a3aebf3fcc249a9faa34db57a8e277750ec164dd"
+  },
+  {
+    "id": "word:农业",
+    "ok": true,
+    "issues": [],
+    "content_hash": "e870c29c796269d638c08ff74d177db1ee2788fa"
+  },
+  {
+    "id": "word:取得",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 第一 aparece como «dì yì»; en ordinales 一 no cambia de tono y debe ser «dì yī»."
+    ],
+    "content_hash": "04defe643460e820b60c2de5635494cbf657f4cc"
+  },
+  {
+    "id": "word:同样",
+    "ok": true,
+    "issues": [],
+    "content_hash": "fa25df45a293d3431a301255c9a125d947264d9f"
+  },
+  {
+    "id": "word:正式",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4a1785383b4df74f261a1ae7169e3e5209d06b27"
+  },
+  {
+    "id": "word:组成",
+    "ok": true,
+    "issues": [],
+    "content_hash": "0b67ffdb61a883d9b13111d014d47ed65672f358"
+  },
+  {
+    "id": "word:原",
+    "ok": true,
+    "issues": [],
+    "content_hash": "f0af1d7e25ad6c31aa1db95f54b3595af96ded0b"
+  },
+  {
+    "id": "word:土地",
+    "ok": true,
+    "issues": [],
+    "content_hash": "4cf44c849a182dbc8a0f24a1eb97637444339c91"
+  },
+  {
+    "id": "word:实施",
+    "ok": true,
+    "issues": [],
+    "content_hash": "97d860580d959e86666e9c8604008c17a944f7fe"
+  },
+  {
+    "id": "word:保证",
+    "ok": true,
+    "issues": [],
+    "content_hash": "69c04b77375cb12a9db80843642b42f1ac40ff4c"
+  },
+  {
+    "id": "word:场",
+    "ok": false,
+    "issues": [
+      "Ejemplo 1: el pinyin de 一场 aparece como «yī cháng». Como clasificador de películas, 场 se lee «chǎng» (tercer tono), y con sandhi debe ser «yì chǎng»."
+    ],
+    "content_hash": "a17539580c302f3e89674a048df9414fec76a506"
+  },
+  {
+    "id": "word:持续",
+    "ok": true,
+    "issues": [],
+    "content_hash": "c350237b662d86b2b06829e378dc56f907b361fd"
+  },
+  {
+    "id": "word:大量",
+    "ok": true,
+    "issues": [],
+    "content_hash": "9b20a24463a8d7edd28cc82a5a3c872763682e59"
+  },
+  {
+    "id": "word:健康",
+    "ok": true,
+    "issues": [],
+    "content_hash": "1c92a4af20c2ee3e63b2eb961296a118e3b6e0ba"
+  },
+  {
+    "id": "word:精神",
+    "ok": true,
+    "issues": [],
+    "content_hash": "8046998cad5b0f74f65676eafd74e7d28bbd960d"
+  },
+  {
+    "id": "word:开放",
+    "ok": false,
+    "issues": [
+      "Ejemplo 4: el pinyin de 得 aparece como «dé»; aquí es partícula y debe ser «de» (tono neutro)."
+    ],
+    "content_hash": "9213aff0d980dde78da394adb74d2e1d707caa9f"
+  }
+]
