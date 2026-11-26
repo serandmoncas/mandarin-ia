@@ -1,5 +1,7 @@
 # CLAUDE.md
 
+> Este proyecto sigue el Método IA (`~/Code/metodo-ia/METODO.md`). Lee [`PROYECTO.md`](PROYECTO.md) antes de proponer trabajo.
+
 @AGENTS.md
 
 ## Propósito
