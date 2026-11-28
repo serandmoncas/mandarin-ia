@@ -5,6 +5,7 @@ import pytest
 
 from mandarin_pipeline.audio_keys import SENTENCE_VOICE, WORD_VOICES
 from mandarin_pipeline.tts import (
+    REQUIRED_ENV,
     EmptyAudio,
     MissingConfig,
     QuotaExhausted,
@@ -14,6 +15,7 @@ from mandarin_pipeline.tts import (
     jobs_from_dictionary,
     load_config,
     synthesize,
+    upload,
 )
 
 V = "zh-CN-XiaoxiaoNeural"
@@ -121,12 +123,33 @@ def test_jobs_only_visible_and_deduped():
 def test_missing_env_errors_before_network(tmp_path):
     with pytest.raises(MissingConfig) as e:
         load_config({"AZURE_SPEECH_KEY": "k"}, dotenv_path=tmp_path / ".env")
-    assert "SUPABASE_URL" in str(e.value) and "docs/setup.md" in str(e.value)
+    assert "SUPABASE_S3_ACCESS_KEY_ID" in str(e.value) and "docs/setup.md" in str(e.value)
 
 
 def test_load_config_ok(tmp_path):
-    env = {k: "v" for k in ("AZURE_SPEECH_KEY", "AZURE_SPEECH_REGION", "SUPABASE_URL", "SUPABASE_SERVICE_ROLE_KEY")}
-    assert load_config(env, dotenv_path=tmp_path / ".env")["SUPABASE_URL"] == "v"
+    env = {k: "v" for k in REQUIRED_ENV}
+    assert load_config(env, dotenv_path=tmp_path / ".env")["SUPABASE_S3_ENDPOINT"] == "v"
+
+
+def test_service_role_key_is_no_longer_required():
+    # Uploads go through storage-only S3 keys, never a project-wide secret key.
+    assert not any("SERVICE_ROLE" in k or "SECRET_KEY" in k for k in REQUIRED_ENV)
+
+
+class FakeS3:
+    def __init__(self):
+        self.calls = []
+
+    def put_object(self, **kwargs):
+        self.calls.append(kwargs)
+
+
+def test_upload_puts_mp3_in_audio_bucket():
+    s3 = FakeS3()
+    upload("words/abc.mp3", b"ID3", s3)
+    assert s3.calls == [
+        {"Bucket": "audio", "Key": "words/abc.mp3", "Body": b"ID3", "ContentType": "audio/mpeg"}
+    ]
 
 
 def test_ssml_escapes():

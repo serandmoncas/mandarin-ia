@@ -15,9 +15,9 @@ Diseño: `docs/superpowers/specs/2026-10-29-mandarin-ia-design.md` · Plan Fase 
 
 1. [ ] **Cuentas** (Sergio, guía en `docs/setup.md`). `.env` ya existe vacío (gitignored, chmod 600). Al 2026-11-26 las 5 variables siguen vacías.
    - Cómo llenar el `.env` sin pegar claves en el chat: `! open -e .env` en el prompt de Claude Code; después Claude verifica sin imprimirlas.
-   - [ ] Supabase: https://supabase.com/dashboard, login con GitHub (`serandmoncas`) → New project `mandarin-ia`, plan Free, región East US (guardar la contraseña de la BD en el gestor) → Storage → New bucket `audio`, **público** → Project Settings → API: copiar Project URL y `service_role` al `.env`. Explicado paso a paso el 2026-11-24; quedó sin hacer.
+   - [x] Supabase (2026-11-28): en el proyecto de sergiomonsalve.com (`orlniujfwolyinsuezcu`, us-west-2), sin segundo proyecto. Bucket `audio` público (1 MB, solo `audio/mpeg`); subida por S3 con claves solo de Storage (nunca la secret key, que abriría la BD del sitio). Prueba de subida, lectura pública, sobrescritura y borrado: bien. Ver `docs/setup.md` › 2.
    - [ ] Azure Speech: recurso **F0** (nunca S0), región `eastus`; copiar KEY 1 y región al `.env`.
-   - [ ] `NEXT_PUBLIC_AUDIO_BASE_URL={SUPABASE_URL}/storage/v1/object/public/audio/` (con barra final).
+   - [x] `NEXT_PUBLIC_AUDIO_BASE_URL` en `.env` (2026-11-28).
 2. [ ] Prueba de audio: `audio --limit 5`.
 3. [x] Analizar las entradas en `review` (2026-11-22): ver `docs/analisis-review-2026-11-22.md`. El 74 % de los problemas es pinyin calculado por pypinyin; arreglarlo lleva al 91 %.
    - [x] Pinyin híbrido + sandhi de 一/不 implementados y ejecutados (2026-11-22): **2268 palabras visibles (90,7 %)**, meta cumplida.

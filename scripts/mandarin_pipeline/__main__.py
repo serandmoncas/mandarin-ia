@@ -45,6 +45,7 @@ from mandarin_pipeline.tts import (
     MissingConfig,
     jobs_from_dictionary,
     load_config,
+    make_s3_client,
     run_audio,
     synthesize,
     upload,
@@ -190,6 +191,7 @@ def _audio(args: argparse.Namespace) -> None:
         sys.exit(1)
     d = json.loads((ROOT / "data" / "dictionary.json").read_text(encoding="utf-8"))
     jobs = jobs_from_dictionary(d)
+    s3 = make_s3_client(cfg)
     with httpx.Client(timeout=60) as client:
         report = run_audio(
             jobs,
@@ -197,9 +199,7 @@ def _audio(args: argparse.Namespace) -> None:
             lambda text, voice: synthesize(
                 text, voice, cfg["AZURE_SPEECH_KEY"], cfg["AZURE_SPEECH_REGION"], client
             ),
-            lambda path, data: upload(
-                path, data, cfg["SUPABASE_URL"], cfg["SUPABASE_SERVICE_ROLE_KEY"], client
-            ),
+            lambda path, data: upload(path, data, s3),
             limit=args.limit,
         )
     print(f"audio: {len(jobs)} jobs; done={report.done} skipped={report.skipped}")

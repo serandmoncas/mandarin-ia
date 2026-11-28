@@ -15,7 +15,17 @@ from mandarin_pipeline.build import load_manifest
 
 __all__ = ["audio_key", "QuotaExhausted", "Throttled", "EmptyAudio", "MissingConfig", "AudioReport"]
 
-REQUIRED_ENV = ("AZURE_SPEECH_KEY", "AZURE_SPEECH_REGION", "SUPABASE_URL", "SUPABASE_SERVICE_ROLE_KEY")
+# Supabase Storage is reached over its S3 protocol with storage-only access keys, so the
+# pipeline never holds a key that can touch the database (see docs/setup.md).
+REQUIRED_ENV = (
+    "AZURE_SPEECH_KEY",
+    "AZURE_SPEECH_REGION",
+    "SUPABASE_S3_ENDPOINT",
+    "SUPABASE_S3_REGION",
+    "SUPABASE_S3_ACCESS_KEY_ID",
+    "SUPABASE_S3_SECRET_ACCESS_KEY",
+)
+AUDIO_BUCKET = "audio"
 VISIBLE = ("auto_checked", "human_reviewed")
 
 # Azure F0 throttles at ~20 transactions per 60 s; stay below it.
@@ -101,18 +111,24 @@ def _retry_after(value: str | None) -> float | None:
         return None
 
 
-def upload(path: str, data: bytes, supabase_url: str, service_key: str, client: httpx.Client) -> None:
-    resp = client.post(
-        f"{supabase_url.rstrip('/')}/storage/v1/object/audio/{path}",
-        content=data,
-        headers={
-            "Authorization": f"Bearer {service_key}",
-            "apikey": service_key,
-            "Content-Type": "audio/mpeg",
-            "x-upsert": "true",
-        },
+def make_s3_client(cfg: Mapping[str, str]):
+    """boto3 client for Supabase Storage's S3 endpoint (path-style, as Supabase documents)."""
+    import boto3
+    from botocore.config import Config
+
+    return boto3.client(
+        "s3",
+        endpoint_url=cfg["SUPABASE_S3_ENDPOINT"],
+        region_name=cfg["SUPABASE_S3_REGION"],
+        aws_access_key_id=cfg["SUPABASE_S3_ACCESS_KEY_ID"],
+        aws_secret_access_key=cfg["SUPABASE_S3_SECRET_ACCESS_KEY"],
+        config=Config(s3={"addressing_style": "path"}),
     )
-    resp.raise_for_status()
+
+
+def upload(path: str, data: bytes, s3) -> None:
+    """Puts one MP3 in the audio bucket; boto3 raises on any non-2xx answer."""
+    s3.put_object(Bucket=AUDIO_BUCKET, Key=path, Body=data, ContentType="audio/mpeg")
 
 
 def jobs_from_dictionary(d: dict) -> list[tuple[str, str]]:
