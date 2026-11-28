@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   partialPrefetching: true,
   // The dictionary is read at request time (e.g. home pagination) from a configurable path.
   outputFileTracingIncludes: {
-    "/*": ["data/dictionary.json", "data/fixtures/*.json"],
+    "/*": ["data/dictionary.json", "data/fixtures/*.json", "data/duolingo/palabras.json"],
   },
   turbopack: {
     rules: {

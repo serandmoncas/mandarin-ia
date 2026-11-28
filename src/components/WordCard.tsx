@@ -3,8 +3,8 @@ import { wordHref } from "@/lib/routes";
 import type { WordEntry } from "@/lib/dictionary/schema";
 import { PinyinText } from "./PinyinText";
 
-/** Compact list item: hanzi, colored pinyin, first meaning and HSK level. */
-export function WordCard({ word }: { word: WordEntry }) {
+/** Compact list item: hanzi, colored pinyin, first meaning, HSK level and Duolingo mark. */
+export function WordCard({ word, seenInDuolingo = false }: { word: WordEntry; seenInDuolingo?: boolean }) {
   return (
     <Link
       href={wordHref(word.id)}
@@ -17,6 +17,14 @@ export function WordCard({ word }: { word: WordEntry }) {
         <PinyinText syllables={word.syllables} className="text-base font-medium" />
         <span className="truncate text-sm text-subtle">{word.meaningsEs[0]}</span>
       </span>
+      {seenInDuolingo && (
+        <span
+          title="Ya la viste en Duolingo"
+          className="shrink-0 rounded-full border border-line px-2 py-1 text-xs font-semibold"
+        >
+          Duolingo
+        </span>
+      )}
       {word.hskLevel !== null && (
         <span className="shrink-0 rounded-full bg-muted px-2 py-1 text-xs font-semibold text-subtle">
           HSK {word.hskLevel}

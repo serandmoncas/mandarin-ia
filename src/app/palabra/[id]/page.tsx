@@ -4,6 +4,7 @@ import { AudioButton } from "@/components/AudioButton";
 import { PinyinText } from "@/components/PinyinText";
 import { getDictionary } from "@/lib/dictionary/get";
 import type { CharacterInfo, WordEntry } from "@/lib/dictionary/schema";
+import { getDuolingo } from "@/lib/duolingo/load";
 import { wordStaticParams } from "@/lib/routes";
 
 // Every visible word is prerendered via generateStaticParams, so only unknown ids reach a
@@ -43,6 +44,7 @@ export default async function WordPage({ params }: PageProps<"/palabra/[id]">) {
   if (!word) notFound();
 
   const { characters } = getDictionary();
+  const duoWord = getDuolingo().words.find((w) => w.dictionaryId === word.id);
   const chars = [...new Set(Array.from(word.simplified))]
     .map((c) => characters[c])
     .filter((c): c is CharacterInfo => c !== undefined);
@@ -78,6 +80,11 @@ export default async function WordPage({ params }: PageProps<"/palabra/[id]">) {
         <p className="flex gap-2 text-sm text-subtle">
           {word.hskLevel !== null && <span className="rounded-full bg-muted px-2 py-1">HSK {word.hskLevel}</span>}
           <span className="rounded-full bg-muted px-2 py-1">#{word.freqRank} en frecuencia</span>
+          {duoWord && (
+            <span className="rounded-full border border-line px-2 py-1">
+              Duolingo · sección {duoWord.section}, unidad {duoWord.unit}
+            </span>
+          )}
         </p>
       </section>
 
