@@ -4,11 +4,17 @@ Inputs (all in data/duolingo/):
   raw.tsv        hanzi, pinyin, English meaning (may be empty), unit as S<n>U<m>
   es_manual.tsv  hanzi, Spanish meaning for words missing from dictionary.json
 Cross-references data/dictionary.json to add Spanish meanings, HSK level and
-frequency rank. Stdlib only: run with `python3 scripts/duolingo_build.py`.
+frequency rank. Stdlib only:
+
+    python3 scripts/duolingo_build.py --progress "Sección 1, unidad 7"
+
+The output is personal (git-ignored), so progress is passed in, never hardcoded.
 """
 
+import argparse
 import json
 import re
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -21,6 +27,10 @@ def read_tsv(path: Path) -> list[list[str]]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    parser.add_argument("--progress", default="", help="current Duolingo position, free text")
+    args = parser.parse_args()
+
     dictionary = json.loads((ROOT / "data" / "dictionary.json").read_text(encoding="utf-8"))
     by_hanzi = {w["simplified"]: w for w in dictionary["words"]}
     manual_es = {row[0]: row[1] for row in read_tsv(DUO / "es_manual.tsv")}
@@ -47,8 +57,8 @@ def main() -> None:
 
     out = {
         "source": "Duolingo, pestaña Caracteres (curso de chino desde inglés)",
-        "extractedAt": "2026-11-28",
-        "progress": "Sección 1, unidad 7 en curso",
+        "extractedAt": date.today().isoformat(),
+        "progress": args.progress,
         "words": words,
         "characters": characters,
     }

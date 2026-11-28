@@ -24,4 +24,4 @@ ficha. Por eso `meaningEn` puede venir en `null`.
 1. Agrega las filas nuevas a `raw.tsv`.
 2. Si alguna palabra no está en `dictionary.json`, agrega su significado a `es_manual.tsv`
    (el script falla con `KeyError` si falta).
-3. Corre `python3 scripts/duolingo_build.py`.
+3. Corre `python3 scripts/duolingo_build.py --progress "Sección X, unidad Y"`.
