@@ -6,8 +6,8 @@ import { loadDuolingo } from "./load";
 
 const sample = {
   source: "Duolingo",
-  extractedAt: "2026-11-28",
-  progress: "Sección 1, unidad 7",
+  extractedAt: "2000-01-01",
+  progress: "Sección X, unidad Y",
   words: [
     {
       hanzi: "水", pinyin: "shuǐ", meaningsEs: ["agua"], meaningEn: "water",

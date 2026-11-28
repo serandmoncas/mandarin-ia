@@ -6,7 +6,7 @@ Inputs (all in data/duolingo/):
 Cross-references data/dictionary.json to add Spanish meanings, HSK level and
 frequency rank. Stdlib only:
 
-    python3 scripts/duolingo_build.py --progress "Sección 1, unidad 7"
+    python3 scripts/duolingo_build.py --progress "Sección X, unidad Y"
 
 The output is personal (git-ignored), so progress is passed in, never hardcoded.
 """
