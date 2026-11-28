@@ -50,3 +50,7 @@ scripts/.venv/
 
 # generated search index
 public/search-index.json
+
+# Duolingo: personal progress, kept out of the public repo
+/data/duolingo/*
+!/data/duolingo/README.md
