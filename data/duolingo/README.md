@@ -1,7 +1,7 @@
 # Palabras de Duolingo
 
-Vocabulario que Sergio ya vio en el curso de chino de Duolingo, cruzado con
-`data/dictionary.json`.
+Vocabulario ya visto en el curso de chino de Duolingo, cruzado con
+`data/dictionary.json`. Los datos son personales y no se versionan: solo este README.
 
 | Archivo | Qué es |
 |---|---|
@@ -25,5 +25,3 @@ ficha. Por eso `meaningEn` puede venir en `null`.
 2. Si alguna palabra no está en `dictionary.json`, agrega su significado a `es_manual.tsv`
    (el script falla con `KeyError` si falta).
 3. Corre `python3 scripts/duolingo_build.py`.
-
-Extraído el 28 nov 2026, con la sección 1, unidad 7 en curso.
